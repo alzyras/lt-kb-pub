@@ -41,8 +41,6 @@ Nenurodyta
 - t-001
   global_id: t-09538
   teiginys: 'Didesnė ginkluotės dalis galėjo būti valstybės saugoma, prieš operacijas išduodama kariams, o po jų grąžinama.'
-  sudarymo_pagrindimas: 'Citata leidžia įtraukti ir grąžinimo aspektą, svarbų užrašo objektui.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]'
   pagrindžia:
     - c-001
 
@@ -50,7 +48,6 @@ Nenurodyta
 - t-002
   global_id: t-09539
   teiginys: 'Po operacijų išduota ginkluotė turėjo būti grąžinama.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]'
   pagrindžia:
     - c-001
 
@@ -58,8 +55,6 @@ Nenurodyta
 - t-003
   global_id: t-09540
   teiginys: 'Panaši valstybinės ginkluotės saugojimo, išdavimo ir grąžinimo praktika buvo taikoma Kryžiuočių ordine.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per miglotas, o citata leidžia tiksliau įvardyti praktiką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]'
   pagrindžia:
     - c-001
 
@@ -74,7 +69,6 @@ Nenurodyta
     operacijas, po to, žinoma, viską reikėdavo grąžinti. Panaši prakti-
     ka sutinkama to meto Kryžiuočių ordine.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

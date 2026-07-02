@@ -27,20 +27,8 @@ amziai:
 - t-001
   global_id: t-42074
   teiginys: 'Blinkevičius prašė Pušaloto valsčiaus valdžios leidimo surinkti miške likusius lavonus ir tokį leidimą gavo.'
-  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia pašalinti pasakojimo kontekstą ir sukonkretinti rezultatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Blinkevičius|Blinkevičius]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 914870-915115; hash=f4726a537f98308db0072e1ddf58d72a38fdf745fa2da9adc5da18695d5bbe7d; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Blinkevičius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pušalotas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Blinkevičius: mention_match, person, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pušalotas" parinktas kaip owner_note_path. Targetas "Blinkevičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Blinkevičius.md#claim-t-80709|Blinkevičius]]: Apylinkės pirmininkas Blinkevičius gavo Pušaloto valsčiaus valdžios leidimą surinkti miške likusius lavonus.
 - susijęs iš [[objektai/asmenys/A. Šulskis-Šulas.md#claim-t-39987|A. Šulskis-Šulas]]: A. Šulskis-Šulas vadovavo Žaliosios girios Panevėžio rinktinės grupei pietrytinėje girios dalyje Subačiaus valsčiuje.
 ## Reikšmingi paminėjimai
@@ -57,7 +45,6 @@ amziai:
     Visi apylinkės žmonės su pastotėmis va-
     žiavo į mišką tų lavonų rinkti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

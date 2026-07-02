@@ -26,11 +26,6 @@ SSKP Sovietų Sąjungos komunistų partija. Stalino, Karlo Markso veikalus, Sovi
 - t-001
   global_id: t-74929
   teiginys: '1989 m. gruodį LKP XX suvažiavime atsiskyrus nuo SSKP atsirado nacionalinė eurokomunistinio tipo partija.'
-  sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1989 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, konkretus ir paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -38,20 +33,8 @@ SSKP Sovietų Sąjungos komunistų partija. Stalino, Karlo Markso veikalus, Sovi
 - t-002
   global_id: t-74930
   teiginys: 'Sovietinėje švietimo sistemoje mokytojai buvo verčiami studijuoti Sovietų Sąjungos komunistų partijos istoriją ir nutarimų medžiagą.'
-  sudarymo_pagrindimas: 'Pradinis tekstas yra sąrašo fragmentas, todėl perrašytas į pilną sakinį apie SSKP.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=73b2f852bd093a0beb47386ca12e3bed17b29262b0e69bdfe2ba005ff26833bd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sovietų Sąjungos komunistų partija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų Sąjungos komunistų partija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -66,7 +49,6 @@ SSKP Sovietų Sąjungos komunistų partija. Stalino, Karlo Markso veikalus, Sovi
     partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
     gą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -83,7 +65,6 @@ SSKP Sovietų Sąjungos komunistų partija. Stalino, Karlo Markso veikalus, Sovi
     skyrė nuo SSKP. Taip atsirado nacionalinė eurokomunistinio tipo partija,
     turinti reformuotą programą ir naują statutą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

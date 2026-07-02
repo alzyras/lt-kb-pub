@@ -21,16 +21,6 @@ Narbutas rašė, kad akmenys rasti tik keliose Žemaitijos vietose, kur gyveno h
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 248863-249176; hash=cf6d67ab28f9b8fce5787aed7cb553bc6297b2714f6e8f9e8be08f729a636aa2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Raseiniai: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Hiriai ir hendai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Raseiniai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad hiriai ir hendai gyveno Raseinių apskrityje.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -44,10 +34,8 @@ Narbutas rašė, kad akmenys rasti tik keliose Žemaitijos vietose, kur gyveno h
     religinės apeigos, kurias atnešė ateiviai iš Brandenburgo (apie
     juos dar teks pakalbėti).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

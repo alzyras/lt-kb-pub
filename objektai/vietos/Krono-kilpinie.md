@@ -21,16 +21,6 @@ Narbutas ties Prienais, kur Nemunas daro pusračio vingį, pastebėjo piliakaln�
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 243816-244319; hash=1263a9a1b43ded250dece0d58029d00b62c1af0d318668bd4477a209636f8b5e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gilija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krono-kilpinie: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gilija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krono-kilpinie" parinktas kaip owner_note_path. Targetas "Gilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -47,9 +37,7 @@ Narbutas ties Prienais, kur Nemunas daro pusračio vingį, pastebėjo piliakaln�
     rai vadino Kruoniu (Kronus)', o gal kaip deivė upė buvo garbi-
     17 Stender.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -21,16 +21,6 @@ Narbutas pasakoja, kad barstukai naktimis vagia javus iš nedėkingų ūkininkų
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 310201-310732; hash=c111fe9d9e27537d1c4f19cb2220f25c8c8895ae414f88cff2c2485111845615; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Barstukai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Barstukai" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189996|Frydrichas Stenderis]]: Narbutas rašo, kad Stenderis barstukų vardą kildino iš latviškų žodžių „Berhns“ ir „Stuhke“.
 - susijęs iš [[objektai/autoriai/Frydrichas Stenderis.md#claim-t-190277|Frydrichas Stenderis]]: Stenderis barstukų vardą kildino iš latviškų žodžių Berhns, lietuviškai bernas, ir Stuhke, reiškiančio lėlę.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190636|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskis tikėjo barstukų pasirodymais ir rėmėsi Olafo, Agripos bei kitų autorių liudijimais.
@@ -61,9 +51,7 @@ Narbutas pasakoja, kad barstukai naktimis vagia javus iš nedėkingų ūkininkų
     ir neša tiems, kurie jiems geresni. Apie jų gražumą pasakoja:
     ūgio ne aukštesnio, kaip viena uolektis“.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

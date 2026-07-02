@@ -51,8 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-93001
   teiginys: 'Jogaila įsakė Lenkijos riteriams pasiimti po vieną tarną ir po vieną vežimą maisto šešioms savaitėms.'
-  sudarymo_pagrindimas: 'Pradiniame teiginyje trūksta aiškaus veiksnio.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -60,8 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-93002
   teiginys: 'Jogaila įsakė Lenkijos riteriams pasiimti po vieną vežimą maisto šešioms savaitėms.'
-  sudarymo_pagrindimas: 'Citata leidžia aiškiai įvardyti, kas davė įsakymą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -69,11 +65,6 @@ Nenurodyta
 - t-003
   global_id: t-93003
   teiginys: 'Vytautui pakeliui į Trakus nukritus nuo arklio, jis buvo nuvežtas žmonos vežime.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys suformuluotas taisyklingai.'
-  susije_objektai: 'llm_object: Trakai; mentioned_author: [[objektai/autoriai/J. Puzinas|J. Puzinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1914 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir sakinys suformuluotas taisyklingai.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Skabeika.md#claim-t-186161|Skabeika]]: Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų vežimų.
@@ -145,7 +136,6 @@ Nenurodyta
     šaltinių, kad būtų galima šią prielaidą, kurią J. Puzinas taip ak­
     tyviai gynė, išvystyti į dėmesio vertą tezę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -159,7 +149,6 @@ Nenurodyta
     riuomenę. Lenkijos riteriams įsakė pasiimti po vieną tarną ir
     po vieną vežimą maisto šešioms savaitėms.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -46,9 +46,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 985742-986285; hash=53abf0e8a224b365ca73d1c75ede3adfd23ba69c378754a53c963784ce66f606; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-67061"></a>
 - t-002
   global_id: t-67061
@@ -57,9 +54,6 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 988771-989287; hash=897bfa2b74db1acff9bd063920feaf494b82977c8e6df8b59bb2569e268009d1; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -76,13 +70,10 @@ Nenurodyta
     galos dekanatai). Vyskupo raginama, kunigija tapo uoliausia
     blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Nustojus vesti blaivybės brolijų narių knygas, blaivybė nesusilpnėjo, o parapijonys statė kryžius ir paminklus jai paminėti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -105,9 +96,7 @@ Nenurodyta
     ravjovas uždraudė visokius
     susibūrimus.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

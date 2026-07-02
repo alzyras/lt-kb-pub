@@ -26,7 +26,6 @@ amziai:
 - t-001
   global_id: t-66402
   teiginys: 'Žuvėdai buvo sugriovę Palangą, todėl žemaičiai siekė atnaujinti Šventosios uostą ir ten įkurti naują pilį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   pagrindžia:
     - c-002
     - c-003
@@ -35,9 +34,6 @@ amziai:
 - t-002
   global_id: t-66404
   teiginys: 'Žuvėdai 1700 m. išvertė Gintės žinyčią, ieškodami joje paslėptų lobių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Parusėnai|Parusėnai]]'
-  temporaliniai_duomenys: 'įvykio data: 1700 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 - susijęs iš Žemaičių jūra: Žemaičių jūra siejama su žuvėdų karėmis ir prekybos plėtra.
@@ -63,7 +59,6 @@ amziai:
         žemgaliai, arba kuržemininkai, minėdami savo laimingas dienas ir tardami save angis broliais
         buvusius; bet metuose 1700 išvertė ją žuvėdai^805 , tardami tenai girios vidury paslėptus lobius
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -76,7 +71,6 @@ amziai:
         naują pilį, vadinamą Marijoninę pilį (Janmarienburg), įkurti, ant ko metuose 1688 sueime gavo ir
         priviliją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -88,7 +82,6 @@ amziai:
     laiku kėlės karės su žuvėdais, maskoliais, turkais ir valakais, namuose taip pat tarp pačių netaikos
         sukilo; ant galo jezavitai^1493 sušyžino^1494 visus atskalūnus, norėdami juos į katalikus atversti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

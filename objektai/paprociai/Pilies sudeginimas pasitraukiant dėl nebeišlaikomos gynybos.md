@@ -43,42 +43,16 @@ Nenurodyta
 - t-001
   global_id: t-62711
   teiginys: 'Miestiečiai ir pilėnai, manydami nebegalėsią atsilaikyti prieš antpuolį, sudegino pilį bei miestą ir pasitraukė su šeimynomis.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs, citata remia pilną glaustą sakinį.'
-  susije_objektai: 'mentioned_place: Elbingas'
   pagrindžia:
     - c-001
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 433973-434354; hash=456a29b06961081cb56aff7e11ac55b449f758dae10770bf030a12e1d8677fdc; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis): owner_note_path, thing
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis)" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-62712"></a>
 - t-002
   global_id: t-62712
   teiginys: 'Antrosios atskalūnybės metais Ordino broliai sudegino Spitenbergo pilį Pamedėje ir pasitraukė, nes nebegalėjo joje priešintis prūsams.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Citatoje yra antraštės ir puslapio triukšmo, bet ji pagrindžia konkretų faktą.'
-  susije_objektai: 'llm_object: Pamedė; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Pamedė; mentioned_place: Spitenbergas'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 449034-449446; hash=d9c00ec7e2f8f151548fc410494eafb53621c30a1fd6bfb3a0c93ff017ed0196; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Pamedė: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Spitenbergas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Pamedė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Spitenbergas buvo Pamedės žemėje.
 
 ## Reikšmingi paminėjimai
 
@@ -92,7 +66,6 @@ Nenurodyta
     reikmenų, kiek ant pečių galėjo pakelti. Jiems atsitraukiant, atskubėjo priešpriešiais 60
     krikščionių vyrų, kuriuos siuntė  į pagalbą Elbingo broliai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -108,7 +81,6 @@ Nenurodyta
     miestą, pasitraukė su savo šeimynomis, tiek beišsinešdami mantos ir namų apyvokos
     reikmenų, kiek ant pečių galėjo pakelti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -130,7 +102,6 @@ Nenurodyta
 
      152 (147).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

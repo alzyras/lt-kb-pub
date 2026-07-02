@@ -30,45 +30,15 @@ Nenurodyta
 - t-001
   global_id: t-185664
   teiginys: 'Vytautas prie Trakų telkė niokotojų pulkus, ketindamas vėliau su visomis jėgomis traukti į Vilnių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalinta atributinė pradžia ir OCR triukšmas; sakinys sutrumpintas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Vilnius; llm_object: Trakai'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 527585-528288; hash=8bf390d27595a32dba44f81bdd15e6b32677100fe7b7af9182c99169864affb2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.66
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claimas nurodo Vytauto ketinimą su jėgomis traukti į Vilnių, bet tai dar tik planuojamas veiksmas.
 
 <a id="claim-t-185665"></a>
 - t-002
   global_id: t-185665
   teiginys: 'Po kelių nesėkmingų bandymų užimti Vilniaus pilis Vytautas nutraukė apsiaustį ir išvedė kariuomenę atgal į Prūsiją.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Šaltinis palaiko aiškų faktą apie apgulties nutraukimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Prūsija; mentioned_place: Vilniaus pilis; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: Vilniaus pilis; llm_object: Prūsija'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 529027-529351; hash=e96b28e6d0a8f94c4384adf5f2baf5ed2863d09be34fe4861aa4baad3303db19; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Vilniaus pilis: 0.78
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilniaus pilis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Bandymas užimti Vilniaus pilis tiesiogiai rodo puolimo veiksmą.
 
 ## Reikšmingi paminėjimai
 
@@ -98,14 +68,11 @@ Nenurodyta
     noma, staigus ir narsus antpuolis paprastai esti sėkmin­
     gesnis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Po kelių nesėkmingų bandymų užimti Vilniaus pilis Vytautas nutraukė apsiaustį ir išvedė kariuomenę atgal į Prūsiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -121,10 +88,8 @@ Nenurodyta
     vo priverstas nutraukti apsiaustį ir išvesti kariuomenę
     atgal į Prūsiją nepajėgęs įveikti gynėjų narsumo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002

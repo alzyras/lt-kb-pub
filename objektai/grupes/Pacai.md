@@ -21,67 +21,29 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
 - t-001
   global_id: t-65967
   teiginys: 'Pacai iškilo pirmiau už Sapiegas ir Jono Kazimiero atsisakymo nuo sosto metu vadovavo Lietuvoje.'
-  sudarymo_pagrindimas: 'Reikia pašalinti fragmentiškumą ir aiškiau susieti faktą su Pacais.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 722081-722251; hash=0aa690fbb9b12b862626fd5279a9a88a29061f248fee53b63380ef796bb90320; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-65968"></a>
 - t-002
   global_id: t-65968
   teiginys: 'Tarpuvaldžio pradžioje Pacai, bijodami hetmono Sobieskio kandidatūros, pradėjo prieš jį veikti.'
-  sudarymo_pagrindimas: 'Įvardis „jo“ pakeistas aiškiai nurodytu Sobieskiu.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=04c1fce4c9516f5a183bd8caa44ceeaf79a97f40b5ccbf644108c65be524bb7a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 <a id="claim-t-182914"></a>
 - t-003
   global_id: t-182914
   teiginys: 'Pacai iškilo prieš Sapiegas ir vadovavo Lietuvoje Jonui Kazimierui atsisakant sosto.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas fragmentiškumas ir aiškiai suformuluotas faktas apie Pacus.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 722081-722251; hash=0aa690fbb9b12b862626fd5279a9a88a29061f248fee53b63380ef796bb90320; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pacai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pacai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-182915"></a>
 - t-004
   global_id: t-182915
   teiginys: 'Tarpuvaldžio pradžioje Pacai veikė prieš Lenkijos gynėjo nuo turkų kandidatūrą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Įvardytas objektas ir pašalintas neaiškus įvardis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 734289-734680; hash=c58659e841c746f40f5b3e3c87a28ec24a16bf12e9d3fc379eb82c4081d656b2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pacai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pacai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/A. Nelepcos.md#claim-t-39698|A. Nelepcos]]: A. Nelepcos vadovaujama maždaug 30 karių grupė puolė Pacų rūmus ir paėmė į nelaisvę generolą N. Arsenjevą.
 - susijęs iš [[objektai/asmenys/Nikolajus Arsenjevas.md#claim-t-40372|Nikolajus Arsenjevas]]: Nikolajus Arsenjevas buvo rusų Vilniaus įgulos vadas, kurį sukilėliai paėmė į nelaisvę Pacų rūmuose.
 - susijęs iš [[objektai/grupes/Bajorų konfederacija.md#claim-t-40861|Bajorų konfederacija]]: Bajorų konfederacijai, kovojusiai prieš švedus ir jų sąjungininkus, vadovavo Vincentas Gonsievskis, Povilas Sapiega, Kristupas ir Mykolas Pacai.
@@ -114,7 +76,6 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
     dėję prieš jį veikti dar
     tarpuvaldžio pradžioje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -131,7 +92,6 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
     piegos. Jonui Kazimierui atsisakant nuo sosto, Lietuvoje va-
     dovavo jau Pacai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -161,7 +121,6 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
     nas kandidatas iš saviš-
     kių).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

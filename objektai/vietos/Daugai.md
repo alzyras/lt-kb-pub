@@ -32,8 +32,6 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
 - t-001
   global_id: t-118262
   teiginys: 'Balińskis slaptą sandėrį lokalizavo girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus.'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų antecedentą; reikia autoriaus atribucijos dėl lokalizavimo.'
-  susije_objektai: 'mentioned_place: Alytus; mentioned_place: Trakai; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Polockas'
   pagrindžia:
     - c-002
 
@@ -41,11 +39,6 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
 - t-002
   global_id: t-118263
   teiginys: '1919 m. balandžio 3-8 d. Pietinė lietuvių grupė turėjo užimti Daugus ir Varėną, o tada pro Lentvarį pulti Vilnių.'
-  sudarymo_pagrindimas: 'Pašalintas OCR iškraipymas ir sakinys suformuotas sklandžiau.'
-  susije_objektai: 'mentioned_place: Lentvaris; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Alytus; mentioned_place: Kaunas'
-  temporaliniai_duomenys: 'įvykio data: 1919 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas OCR iškraipymas ir sakinys suformuotas sklandžiau.'
   pagrindžia:
     - c-001
 
@@ -53,8 +46,6 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
 - t-003
   global_id: t-118264
   teiginys: 'Balińskis slaptą sandėrį lokalizavo girioje prie dabartinių Daugų, netoli Alytaus, per tariamą medžioklę.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nepaaiškina šaltinio interpretacinio pobūdžio.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Polockas'
   pagrindžia:
     - c-002
 
@@ -62,9 +53,6 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
 - t-004
   global_id: t-118265
   teiginys: 'Dauguose Vytautas ir Jogaila sužinojo imperatoriaus sprendimą, kuris juos suerzino, nes kryžiuočiams pripažino daugiau, nei šie prašė.'
-  sudarymo_pagrindimas: 'Pradiniame teiginyje neįvardyta vieta ir yra archajiška forma; citata leidžia aiškiai susieti faktą su Daugais.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Zbignievas Olesnickis|Zbignievas Olesnickis]]; mentioned_place: Vroclavas; llm_object: Daugai'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Daugai'
   pagrindžia:
     - c-004
 
@@ -72,8 +60,6 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
 - t-005
   global_id: t-118266
   teiginys: 'Vytautas ir Jogaila viešėjo Dauguose, kai sužinojo apie jiems įžeidžiantį ir neteisingą sprendimą.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išlaikytas citatos pagrįstas faktas apie Daugus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-005
 
@@ -81,8 +67,6 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
 - t-006
   global_id: t-118267
   teiginys: 'Lietuvos kariuomenei puolant Vilniaus link pavyko iš bolševikų išvaduoti tik Daugus ir Žąslius.'
-  sudarymo_pagrindimas: 'Pradžia su „Tačiau“ yra kontekstinė, todėl sakinį reikia padaryti savarankišką.'
-  susije_objektai: 'mentioned_place: Žąsliai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.).md#claim-t-179455|Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]: 1420 m. Vroclave imperatoriaus Zigmanto sprendimas dėl Žemaičių ir Sūduvos kryžiuočiams pripažino daugiau, negu jie patys buvo prašę.
@@ -110,7 +94,6 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezin-
     kelį pro Lentvarį pulti Vilnių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -136,7 +119,6 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     ris jiems iškėlė puikias vaišes. Žr.
     Voigt, T. V, 355.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -157,7 +139,6 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     menei pavyko tik išvaduoti Daugus bei
     Žąslius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -174,7 +155,6 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     broliai tuojau į Vroclavą pasiuntė savo protestus, kuriuos ten ga­
     beno savo politinę karjerą pradedąs Zbignievas Olesnickis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -191,7 +171,6 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     girdėti. Toks įžeidžiantis ir neteisingas klausimo išsprendimas
     suglaudė abi valstybes į bendrą kovą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

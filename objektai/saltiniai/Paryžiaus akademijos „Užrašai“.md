@@ -21,16 +21,6 @@ Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 535317-535861; hash=893cba82c75a3851e9c44a297cef990c68e2354e8a8d107000d8890e2e31df78; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Paryžius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paryžiaus akademijos „Užrašai“: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Paryžius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžiaus akademijos „Užrašai“" parinktas kaip owner_note_path. Targetas "Paryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -53,9 +43,7 @@ Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį
     nos, o antrasis -  šviesdamas tautas, mokydamas jas meno ir
     naudingų amatų.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

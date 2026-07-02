@@ -38,20 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-59596
   teiginys: 'Vienas Rudino brolis ir Martynas iš Golino, pasiklydę dykrose, susidūrė su prūsais, juos įveikė ir grįžo į Rudino pilį.'
-  sudarymo_pagrindimas: 'Teiginys buvo nebaigtas ir su fragmentuotu pasakojimu, bet citata remia aiškų įvykio apibendrinimą.'
-  susije_objektai: 'llm_object: Rudinas; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Rudinas; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 453201-454130; hash=37e7551b6b35c575fbf6ca8a69bb24221ef28394cef21edaf3bc4421edaeef5d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Rudinas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Martynas iš Golino: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Rudinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Martynas grįžo į Rudino pilį.
 
 ## Reikšmingi paminėjimai
 
@@ -71,7 +59,6 @@ Nenurodyta
     dviese užpuolė likusius tris, kuriuos taip pat nugalėjo, po to, niekur jau neiškrypdami iš
     kelio, sugrįžo į Rudino pilį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

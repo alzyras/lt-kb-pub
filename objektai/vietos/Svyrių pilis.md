@@ -18,24 +18,8 @@ Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyri�
 - t-001
   global_id: t-185310
   teiginys: 'Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyrių pilį.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Reikalinga atribucija, nes citata kalba apie kitų šaltinių minimą kilmę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Giedraičiai; mentioned_place: Utena; llm_object: Svyrių pilis'
-  semantiniai_rysiai: '[[objektai/asmenys/Daumantas|Daumantas]] pastatė Svyrių pilis'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 235778-236490; hash=9d01ce24f60635486d959a449169dbacae3154bc2d2d6f2fa79482e244212b8c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Svyrių pilis (pilis): 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Daumantas (kunigaikštis, XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Svyrių pilis (pilis): llm_allowed_candidate, place
-  ryšio_paaiskinimas: Šaltiniai teigia, kad Daumantas įkūrė Svyrių pilį; teiginys pateiktas su šaltinių išlyga.
 
 ## Reikšmingi paminėjimai
 
@@ -58,11 +42,9 @@ Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyri�
     gebėdamas numatyti kitų troškimus, jis spėjo, jog ir
     taryba bei tauta tylomis Traidenį skyrė jo įpėdiniu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
 

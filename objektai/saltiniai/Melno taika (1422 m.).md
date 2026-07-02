@@ -29,11 +29,6 @@ Pagaliau magistras paprašė taikos; ji buvo padaryta netoli Melno ežero, kariu
 - t-001
   global_id: t-75504
   teiginys: 'Po Melno taikos santykiai su Lenkija tapo svarbiausia politine Lietuvos problema, todėl Vytauto vainikavimo projektas įgijo tarptautinę reikšmę.'
-  sudarymo_pagrindimas: 'Reikia pašalinti puslapio antraštes ir OCR triukšmą, išlaikant citatos faktus.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/hegemonija|hegemonija]]; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Luckas; mentioned_place: Maskva; mentioned_place: Pskovas; mentioned_place: Tverė; mentioned_place: Vengrija'
-  temporaliniai_duomenys: 'įvykio data: 1429 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia pašalinti puslapio antraštes ir OCR triukšmą, išlaikant citatos faktus.'
   pagrindžia:
     - c-001
 
@@ -41,9 +36,6 @@ Pagaliau magistras paprašė taikos; ji buvo padaryta netoli Melno ežero, kariu
 - t-002
   global_id: t-75505
   teiginys: 'Po Melno taikos santykiai su Lenkija tapo svarbiausia politine problema, todėl Vytauto vainikavimo projektas įgijo tarptautinę reikšmę.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/hegemonija|hegemonija]]; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Maskva; mentioned_place: Pskovas; mentioned_place: Tverė; mentioned_place: Vengrija'
-  temporaliniai_duomenys: 'įvykio data: 1429 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -71,7 +63,6 @@ Pagaliau magistras paprašė taikos; ji buvo padaryta netoli Melno ežero, kariu
     čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-
     nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

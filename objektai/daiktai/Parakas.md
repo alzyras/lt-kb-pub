@@ -45,19 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-54733
   teiginys: 'Kryžiuočių kariaunoje, po penkių sunkių apsupties savaičių ir plintant ligoms, visiškai baigėsi parakas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Prūsija; mentioned_place: Vilija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 277552-278047; hash=780bee116259cc6f1b39864ebd08607de46ea4e888e1f99f9a0d037e6ff0c0ef; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Parakas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=96
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Parakas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/Kablinis šautuvas.md#claim-t-183685|Kablinis šautuvas]]: Kablinio šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.
 - susijęs iš [[objektai/daiktai/Kablinis šautuvas.md#claim-t-78653|Kablinis šautuvas]]: Kablinio šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.
 - susijęs iš [[objektai/zodynas/automatinių šautuvų veikimo principai.md#claim-t-38745|automatinių šautuvų veikimo principai]]: AK-47 automatika veikia dujų nuvedimo principu, kai dalis kulką iš vamzdžio išstumiančių parako dujų grąžina spyną į galinę padėtį ir tokiu būdu leidžia kitam šoviniui iš dėtuvės patekti į šovinio lizdą.
@@ -96,7 +85,6 @@ Nenurodyta
     grėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti
     atgal į Prūsiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -30,8 +30,6 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
 - t-001
   global_id: t-180499
   teiginys: 'Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą.'
-  sudarymo_pagrindimas: 'Citata kalba apie Romos kuriją, todėl teiginį reikia patikslinti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/imperatorius Zigmantas|imperatorius Zigmantas]]; mentioned_place: Luckas'
   pagrindžia:
     - c-002
 
@@ -39,12 +37,8 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
 - t-002
   global_id: t-180501
   teiginys: '1595 m. Hipatas Pociejus ir Kirilas Terleckis Romoje gavo popiežiaus Klemenso VIII pritarimą bažnytinei unijai.'
-  sudarymo_pagrindimas: 'Sakinys sutvarkytas, pašalintas OCR triukšmas ir paliktas citatos paremtas faktas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=813836aaedd8a960151262ea24ebef284a0b65841a9405fac9d560b84c42d4e9; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Enėjas.md#claim-t-190093|Enėjas]]: Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbinimą, vėliau siejamą su Alba ir Roma.
 - susijęs iš [[objektai/grupes/Husitai.md#claim-t-172096|Husitai]]: Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma.
 - susijęs iš Lisabona: XVI–XVII a. Lisabona kartu su Roma ir Madridu skleidė katalikybės bei barokinės architektūros ir dailės įtaką iki Meksikos ir Paragvajaus.
@@ -82,7 +76,6 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
     žiaus Klemenso VIII visišką pritarimą, visų Lietuvos ir Lenkijos
     pravoslavų vardu padarė bažnytinę uniją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,7 +93,6 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
     spręsti šį husitų klausimą, dėl kurio tiek daug nerangumo ir ne­
     pajėgumo parodė imperatorius Zigmantas L.^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

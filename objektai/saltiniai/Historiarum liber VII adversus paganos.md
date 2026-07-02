@@ -37,8 +37,6 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
 - t-001
   global_id: t-36049
   teiginys: 'Alfredas Didysis, versdamas Orosijaus „Historiarum liber VII adversus paganos“, pridėjo žinių apie Baltijos jūros pakraščių tautas.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Baltija; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]'
   pagrindžia:
     - c-002
 
@@ -46,7 +44,6 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
 - t-002
   global_id: t-36050
   teiginys: '„Historiarum liber VII adversus paganos“ šiame veikale minima kaip Orosijaus knyga.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_place: Baltija'
   pagrindžia:
     - c-002
 
@@ -54,20 +51,8 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
 - t-003
   global_id: t-36051
   teiginys: 'Alfredas Didysis, versdamas Orosijaus „Historiarum liber VII adversus paganos“, pridėjo žinių apie Baltijos pakraščių tautas ir aisčius.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir pagrįstas citatoje pateikta informacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_place: Baltija; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ffc471c88cf47e5673f0739ec0ce595840251e7e697b662f9595840f6724b5ed; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/01_extract_sources_notes.md
-  ryšio_patikimumas: susije_su -> Aisčiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Historiarum liber VII adversus paganos: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Aisčiai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Historiarum liber VII adversus paganos" parinktas kaip owner_note_path. Targetas "Aisčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -86,7 +71,6 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
     gavęs iš kažkokio jūrininko Wulfstano, kuris tuose kraštuose
     lankęsis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -106,7 +90,6 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
     ganos“ pridėjo joje nesančias žinias apie Baltijos jūrų pa­
     kraščių tautas, tarp kitko ir apie aisčius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

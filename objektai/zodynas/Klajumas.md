@@ -27,7 +27,6 @@ Papildomos aiškios formos neišskirtos.
 - t-001
   global_id: t-07677
   teiginys: 'Klajume žmonės rinkdavosi melstis, o ąžuolinių malkų rietuvės buvo laikomos šventai ugniai kūrenti.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai remia abu teiginio elementus.'
   pagrindžia:
     - c-001
 
@@ -35,7 +34,6 @@ Papildomos aiškios formos neišskirtos.
 - t-002
   global_id: t-07678
   teiginys: 'Klajumas buvo erdvė aplink žinyčią, kurioje žmonės rinkdavosi melstis.'
-  sudarymo_pagrindimas: 'Citata remia reikšmę, bet reikia aiškaus faktinio sakinio.'
   pagrindžia:
     - c-001
     - c-002
@@ -47,7 +45,6 @@ Papildomos aiškios formos neišskirtos.
   citata_originali: |
     Apsukui tos žinyčios buvęs klajumas^774 , į kurį svietas susirinkęs liuobėjęs melstis^775 , kuriame malkinės^776 ąžuolo medžių sukrautos stovėjusios ugnelei šventai kūrinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -59,7 +56,6 @@ Papildomos aiškios formos neišskirtos.
   citata_originali: |
     Pašaliuose to klajumo buvę žynių, arba kunigų, namai ir kitų žinyčios tarnų ir tarnaičių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

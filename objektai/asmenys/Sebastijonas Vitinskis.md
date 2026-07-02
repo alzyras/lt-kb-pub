@@ -29,24 +29,8 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
 - t-001
   global_id: t-87849
   teiginys: '1547 m. Sebastijonui Vitinskiui atiteko Jono Hozijaus parduotas sklypas ir mūrinis namas su spaustuve.'
-  sudarymo_pagrindimas: 'Pradinis sakinys turi OCR triukšmo, bet citata aiškiai pagrindžia faktą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Sebastijonas Vitinskis|Sebastijonas Vitinskis]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/daiktai/Namas|Namas]] priklausė [[objektai/asmenys/Sebastijonas Vitinskis|Sebastijonas Vitinskis]]'
-  temporaliniai_duomenys: 'įvykio data: 1547 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis sakinys turi OCR triukšmo, bet citata aiškiai pagrindžia faktą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 386036-386276; hash=98243626877db097d8c355e0cc474c2d2801502522487cbdb465077d0e993753; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Sebastijonas Vitinskis: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Namas: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Sebastijonas Vitinskis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad mūrinis namas atiteko Sebastijonui Vitinskiui.
 
 ## Reikšmingi paminėjimai
 
@@ -60,7 +44,6 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
     1552. Sklypą ir mūrinį namą Vitinskis pardavė Vilniaus
     vaivadai Mikalojui Radvilai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

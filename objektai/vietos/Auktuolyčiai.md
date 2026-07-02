@@ -27,32 +27,15 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 - t-001
   global_id: t-58523
   teiginys: 'Brolis Ditrichas Nadruvos Katavos valsčiuje su kariuomene puolė Auktuolyčių pilį ir po kelių antpuolių į ją įsiveržė.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata remia Ditricho vadovautą Auktuolyčių pilies puolimą.'
-  susije_objektai: 'mentioned_place: Nadruva; mentioned_place: Pilėnai; llm_object: Nadruva'
-  semantiniai_rysiai: 'Auktuolyčiai priklausė Nadruva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5c652ff6025e475b200f3d912e2cc7a414570313217633046d0a46b62af9a8c0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Nadruva: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Auktuolyčiai: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Auktuolyčių pilis nurodoma Nadruvos valsčiuje.
 
 <a id="claim-t-58524"></a>
 - t-002
   global_id: t-58524
   teiginys: 'Auktuolyčių pilis buvo Katavos, arba Katinavos, valsčiaus centras.'
-  sudarymo_pagrindimas: 'Teiginys yra glaustas, pilnas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 478928-479820; hash=a8e363a1707cb0d413904ddf2eba9da52919b39600279b06c230e5b4527666ed; match=whitespace_regex
-  sprendimo_priezastis: auto
 - susijęs iš Katavos valsčius: Brolis Ditrichas su kariuomene atžygiavo į Nadruvos valsčių Katavą ir pradėjo pulti Auktuolyčių pilį.
 - susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65936|Nadruviai]]: Katinavos apylinkėse esanti Katinavos kalva nadruvių buvo laikoma šventa.
 - susijęs iš Katinavos apylinkės: Katinavos apylinkės išsiskyrė tarp pagoniškam kultui skirtų Nadruvos regionų, nes Katinavos kalva buvo laikoma šventa.
@@ -74,7 +57,6 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
     HCGP), ji buvo tapatinama ir su Stanaičių (dab. Furmanovas) piliakalniu deš. Pisos krante
     į šiaurės vakarus nuo Gumbinės, dab. Gusevas (СV, t. 34, p. 92, 125).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -94,7 +76,6 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
     nebegalėjo ilgai priešintis, ir broliai po kelių antpuolių įsiveržė į pilį, daug pilėnų mirtinai
     su D. Rethowi), dab.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

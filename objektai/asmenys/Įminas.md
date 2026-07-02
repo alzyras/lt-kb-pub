@@ -25,16 +25,6 @@ Narbuto pasakojime kunigaikštis Įminas vaikystėje buvo išvestas į Lietuvai 
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 361446-361733; hash=dd7935817dc1a660fb6ce969e79bdd8ef34a51114b90500180bf70a25797dfdd; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dregovičiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Įminas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dregovičiai: mention_match, group, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Įminas" parinktas kaip owner_note_path. Targetas "Dregovičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -47,9 +37,7 @@ Narbuto pasakojime kunigaikštis Įminas vaikystėje buvo išvestas į Lietuvai 
     Lietuvai dregovičių tautos žemę. Ten jis buvo Igmenio2 pilyje,
     kur gyveno ir jo palikuonys, viešpataudami gretimame krašte.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

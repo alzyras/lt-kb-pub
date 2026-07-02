@@ -29,23 +29,8 @@ Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
 - t-001
   global_id: t-34363
   teiginys: 'Horodlės unija nepraplėtė sosto paveldėjimo teisės tiems Jogailos vaikams, kurie būtų kilę ne iš Piastų dinastijos.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir palikta citata paremta esmė.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_place: Horodlė; mentioned_place: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1417 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir palikta citata paremta esmė.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 490802-491240; hash=48fa18baf47466ae8672b8f6200c655642b3acf6dbe8ea35ab36993e874c01a8; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Horodlė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Piastų dinastija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Horodlė: mention_match, place, gap=97
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Piastų dinastija" parinktas kaip owner_note_path. Targetas "Horodlė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -60,7 +45,6 @@ Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
     kimybės priesaika: matyt, nenorėta tos teisės išplėsti ant tų
     Jogailos vaikų, kurie būtų kilę ne iš Piastų dinastijos. 1417 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

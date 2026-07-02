@@ -41,9 +41,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b86f712f93afa7b80083b8c29e85540687b438083e1fbf9e12a62f158db49e16; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 <a id="claim-t-66464"></a>
 - t-002
   global_id: t-66464
@@ -52,9 +49,6 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 750805-751109; hash=011900d4644f77de85db4a2232f53b27e53b978f1faa67db9b1ed2ce2d55b794; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -72,13 +66,10 @@ Nenurodyta
     Bet Jokūbas buvo nepo-
     puliarus.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Per 1697 m. elekciją dalis bajorijos karaliumi paskelbė Fridriką Augustą, o prancūziškoji partija atskirai išrinktu paskelbė princą Kontį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -89,9 +80,7 @@ Nenurodyta
     rūnavosi. Kontys irgi atplaukė į Dancigą. Jo šalininkai sudarė
     konfederaciją jam paremti.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

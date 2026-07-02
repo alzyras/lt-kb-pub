@@ -23,16 +23,6 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 172756-173098; hash=78293662639f8839296ca28bea559303e14d311c91d0d15ac832277c4bdcbebb; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Persai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Persai" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 <a id="claim-t-189427"></a>
 - t-003
   global_id: t-189427
@@ -41,16 +31,6 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 195381-195578; hash=c4657324b430b350233ee5c706c9c2341213db0a9c1b5ea5d49225dd37bc440a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Romėnai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Persai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Romėnai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Persai" parinktas kaip owner_note_path. Targetas "Romėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 <a id="claim-t-189428"></a>
 - t-004
   global_id: t-189428
@@ -59,16 +39,6 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
     - c-003
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 345843-346147; hash=29c844fc7b17222f596f14f35e361031acd809561d8026a4d6232b5fdae9c348; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gotai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Persai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Gotai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Persai" parinktas kaip owner_note_path. Targetas "Gotai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 <a id="claim-t-189429"></a>
 - t-005
   global_id: t-189429
@@ -77,32 +47,12 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
     - c-004
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 379980-380361; hash=f54ab3ad0df3d9c906ca8d5fb742f9fe1d2378cb21ad5b46b0879c38f90aa431; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Romėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Persai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Romėnai: mention_match, group, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Persai" parinktas kaip owner_note_path. Targetas "Romėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - t-006
   teiginys: 'Narbutas, remdamasis Herodotu ir Strabonu, rašo, kad persai ir kitos Rytų tautos ilgai nežinojo šventyklų, o aukas atnašavo kalnuose.'
   pagrindžia:
     - c-005
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 456150-456686; hash=07b74b03e7feace087c6eca9625b161b47ca240b28e68d52a948f3a7b583cca1; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Egiptiečiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Persai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Egiptiečiai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Persai" parinktas kaip owner_note_path. Targetas "Egiptiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Zoroastras.md#claim-t-190120|Zoroastras]]: Narbutas nurodo Zoroastrą kaip asmenį, kuris pas persus įvedė jau susiklosčiusias slaptas apeigas.
 - susijęs iš [[objektai/grupes/Indai.md#claim-t-189411|Indai]]: Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų ir graikų padavimai mena palaimingą praeitį.
 - susijęs iš [[objektai/grupes/Izraelitai.md#claim-t-189490|Izraelitai]]: Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų ir graikų padavimai mena palaimingą praeitį.
@@ -132,13 +82,10 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
     11
     Szybinski.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-002
+    - t-002- c-002
   santrauka: 'Narbutas šio dievo mitą sieja su senovės persų Oromazu ir Arimanu ir spėja iš jų kilmę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -147,13 +94,10 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
     vadino jį Niger Deus ir painiojo su Plutono mitais. Senovės
     saksai jį vadino Aire.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-003
+    - t-003- c-003
   santrauka: 'Narbutas žalčių garbinimą vadina visuotiniu senovės prietaru ir tarp jį pažinojusių tautų mini persus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -163,13 +107,10 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
     gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­
     vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-004
+    - t-004- c-004
   santrauka: 'Narbutas rašo, kad chaldėjai, persai, egiptiečiai, graikai, romėnai ir kiti ugnį garbino kaip dievybę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -182,13 +123,10 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
     ro mokymą, įžiūri ugnyje Dievą, arba pasaulio visatos sielą,
     bet nemoka tos esybės pavadinti vardu.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-- c-005
+    - t-005- c-005
   santrauka: 'Narbutas, remdamasis Herodotu ir Strabonu, rašo, kad persai ir kitos Rytų tautos ilgai nežinojo šventyklų, o aukas atnašavo kalnuose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -204,9 +142,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
     rioje stovėdavo stabai; ten teisę būti turėjo tik pašvęstieji asme­
     nys, žyniai, vadai.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006

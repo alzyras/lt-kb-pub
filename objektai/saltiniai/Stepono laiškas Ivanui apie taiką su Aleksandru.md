@@ -18,11 +18,6 @@ Iš Stepono laiško Maskvos valdovui paaiškėjo, kad Steponas ketino amžinai l
 - t-001
   global_id: t-186305
   teiginys: 'Iš Stepono laiško Maskvos valdovui paaiškėjo, kad Steponas ketino amžinai laikytis taikos su Aleksandru.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pagrindžia aiškų faktą apie Stepono laiško turinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
 
@@ -43,10 +38,8 @@ Iš Stepono laiško Maskvos valdovui paaiškėjo, kad Steponas ketino amžinai l
     čiau Aleksandras taip jau buvo įsitraukęs į šį reikalą,
     kad jam sunku buvo sulaikyti pradėtą žygį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

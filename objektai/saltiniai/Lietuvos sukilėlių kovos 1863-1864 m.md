@@ -33,45 +33,15 @@ amziai:
 - t-001
   global_id: t-97268
   teiginys: '„Lietuvos sukilėlių kovos 1863-1864 m.“ buvo išleista 1969 m.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citatoje nurodytais leidimo metais.'
-  susije_objektai: 'mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1863-1864; įvykio data: 1864 m.; įvykio data: 1969 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citatoje nurodytais leidimo metais.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bc6384542509e89ae79c50ce1cdd7cd276a6dac167e3e1720f9a44a0520a5a28; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos sukilėlių kovos 1863-1864 m: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos sukilėlių kovos 1863-1864 m" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-97269"></a>
 - t-002
   global_id: t-97269
   teiginys: 'Veikalas „Lietuvos sukilėlių kovos 1863-1864 m.“ nurodytas kaip 1969 m. publikacija.'
-  sudarymo_pagrindimas: 'Citata patvirtina pavadinimą ir metus, o OCR triukšmą reikia pašalinti.'
-  susije_objektai: 'mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1863-1864; įvykio data: 1864 m.; įvykio data: 1969 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata patvirtina pavadinimą ir metus, o OCR triukšmą reikia pašalinti.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bc6384542509e89ae79c50ce1cdd7cd276a6dac167e3e1720f9a44a0520a5a28; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos sukilėlių kovos 1863-1864 m: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos sukilėlių kovos 1863-1864 m" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -91,7 +61,6 @@ amziai:
     vėžio miesto istorijos klausimais (AkMD, t. 11, 1961, 125-131 p. ; t. 12, 1962)
     ir apie Zigmanto Sierakausko gyvenimą (AkMD, t. 16, 1964, 135-153 p.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

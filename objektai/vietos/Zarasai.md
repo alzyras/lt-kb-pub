@@ -29,8 +29,6 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
 - t-001
   global_id: t-47471
   teiginys: 'Voldemaras buvo ištremtas iš Zarasų į Paryžių.'
-  sudarymo_pagrindimas: 'Pašalinta fragmentiška konstrukcija ir daugtaškis.'
-  susije_objektai: 'mentioned_place: Paryžius; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_place: Lietuva; llm_object: Paryžius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/K. Ladyga.md#claim-t-40250|K. Ladyga]]: I brigados vadas K. Ladyga įsakė pulti bolševikus Degučių plentu Zarasų kryptimi.
@@ -74,7 +72,6 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
     Tik A. Voldemaras šį kartą nubaustas ypač rimtai – iš
     Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

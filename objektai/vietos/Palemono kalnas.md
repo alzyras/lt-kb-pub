@@ -21,16 +21,6 @@ Palemono kalnu Narbutas vadina apvalų kalną prie Seredžiaus, žemiau Dubysos 
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 370905-371371; hash=3cd61202e49d278c5d9725344e851ce62224bd4913a93d8b19b8130fbe229dc2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dubysa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Palemono kalnas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Dubysa: mention_match, place, gap=68
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Palemono kalnas" parinktas kaip owner_note_path. Targetas "Dubysa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -50,9 +40,7 @@ Palemono kalnu Narbutas vadina apvalų kalną prie Seredžiaus, žemiau Dubysos 
     Kaimiečiai net žino pasakojimų, vaizduojančių tą žmogų
     sudievintu didvyriu, ¿imas Didziawiris (žymus didžiavyris).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

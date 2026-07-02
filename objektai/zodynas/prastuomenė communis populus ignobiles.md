@@ -30,8 +30,6 @@ Vartojama socialinei ir luominei visuomenės sandarai nusakyti.
 - t-001
   global_id: t-56951
   teiginys: 'Prastuomenė Dusburgiečio kronikoje vadinama communis populus arba ignobiles.'
-  sudarymo_pagrindimas: 'Citata aiškiai pateikia terminus, o pradinis teiginys nutrūkęs ir su OCR triukšmu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/prastuomenė|prastuomenė]]'
   pagrindžia:
     - c-001
 
@@ -47,7 +45,6 @@ Vartojama socialinei ir luominei visuomenės sandarai nusakyti.
     tarnaites, verges (servi et ancille — III, 5; mulier Pruthena servilis condicionis — III,
     130), taip pat laukininkus — valstiečius (rustict — III, 262).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

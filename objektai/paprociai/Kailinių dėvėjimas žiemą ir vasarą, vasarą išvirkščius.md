@@ -34,8 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-07770
   teiginys: 'Graikai šiaurėje gyvenusius žmones vadino skitais arba kailinuočiais, nes jie žiemą ir vasarą dėvėdavo kailinius.'
-  sudarymo_pagrindimas: 'Citata palaiko teiginį, bet reikia aiškiau įvardyti, kas taip vadino ir kodėl.'
-  susije_objektai: 'mentioned_place: Juodoji jūra'
   pagrindžia:
     - c-001
 
@@ -49,7 +47,6 @@ Nenurodyta
          dėvėjo, žiemą įvirsčius, o vasarą išvirsčius; bet pervis^73 tankiau lig paskuojų laikų vadino juos
          getais, kaip tuojau regėsim.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

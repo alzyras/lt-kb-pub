@@ -29,24 +29,8 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
 - t-001
   global_id: t-18955
   teiginys: 'Kijevo Rusios valdovas Jaroslavas XI a. viduryje rengė žygius.'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį, todėl paliktas tik citatos remiamas faktas.'
-  susije_objektai: 'llm_object: Kijevo Rusia; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lietuva; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Jaroslavas|Jaroslavas]] buvo valdovas Kijevo Rusia; [[objektai/asmenys/Jaroslavas|Jaroslavas]] surengė žygį į Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1009 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi neaiškų įvardį, todėl paliktas tik citatos remiamas faktas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bb9d2ade3f0a7e704a8586f1f7107a60bd7d064f9f911a5e1c5ed6def65699d4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Kijevo Rusia: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jaroslavas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kijevo Rusia: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai įvardija Jaroslavą Kijevo Rusios valdovu.
 - susijęs iš [[objektai/asmenys/Jaroslavas (Kijevo valdovas).md#claim-t-39556|Jaroslavas (Kijevo valdovas)]]: 1040 m. Kijevo valdovas Jaroslavas surengė didelį žygį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.).md#claim-t-40177|Jaroslavas (rusų kunigaikštis, 1234 m.)]]: 1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais.
 - susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.).md#claim-t-47770|Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]: Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą, bet jo eiga metraštyje neaprašyta.
@@ -71,7 +55,6 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
     ryje (XII a. pradžioje lietuviai minimi tarp genčių, kurios moka Kijevo
     Rusiai duoklę).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

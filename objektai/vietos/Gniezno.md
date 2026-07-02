@@ -27,42 +27,15 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
 - t-001
   global_id: t-94046
   teiginys: 'Daukanto aprašytame sausumos kelyje į Romą Cydova minima greta Gniezno.'
-  sudarymo_pagrindimas: 'Pirminis teiginys turi neaiškų įvardį ir nepagrįstą veiksmą; citata remia tik Gniezno paminėjimą kelio apraše.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=14ddfa7cc3668e357a010843c1521cda8aecfdda2beee88f910cb6b949cec1ec; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> S. Daukantas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gniezno: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: S. Daukantas: mention_match, author, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gniezno" parinktas kaip owner_note_path. Targetas "S. Daukantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-94047"></a>
 - t-002
   global_id: t-94047
   teiginys: '1415 m. į Konstanciją siųstoje Lietuvos ir Lenkijos vyskupų delegacijoje dalyvavo Gniezno arkivyskupas Mikalojus.'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo per trumpas ir nepilnas, citata leidžia pilną sakinį.'
-  susije_objektai: 'mentioned_place: Breslavas; mentioned_place: Konstancija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1415 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo per trumpas ir nepilnas, citata leidžia pilną sakinį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d25020b0798e91f69934d828b208770fef47a1ef217927811bc545e8021b683e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Breslavas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gniezno: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Breslavas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gniezno" parinktas kaip owner_note_path. Targetas "Breslavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Lvovas: Lvovo arkivyskupas valdė Vladimiro vyskupiją ir galėjo tikėtis gauti Žemaičius dėl savo vaidmens steigiant Žemaičių vyskupiją.
 - susijęs iš [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas).md#claim-t-35043|Bžostovskis (Vilniaus vyskupas)]]: Šaltinio vertinimu, XVII a. pabaigoje Vilniaus vyskupas Bžostovskis juridiškai buvo teisus atsisakydamas klausyti Gniezno arkivyskupo.
 - susijęs iš [[objektai/asmenys/Mikalojus Romedanskis (Medininkų vyskupas).md#claim-t-30363|Mikalojus Romedanskis (Medininkų vyskupas)]]: 1427 m. popiežius įsakė Medininkų vyskupui Mikalojui Romedanskiui savo priesaiką nusiųsti Gniezno arkivyskupui.
@@ -156,7 +129,6 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
     po Petro, Lvovo arkivysk. Jono, Gniezno arkivysk. Mikalojaus
     ir Breslavo vysk. Jono.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -168,7 +140,6 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
   citata_originali: |
     vežė didžiomis upėmis, beje: Isla, Nemunu, Daugava, Niperiu, Tripente, Tyrule, savo prekę į svečias šalis, vienok sako buvus ir žemės kelią į Rymą per tas pilis: Askaukalį (Osielską), Setidavą (Cydovą gret Gniezno), Kalisiją (Kališą), Arsenijų (Marseniną ties Seradze), Karhoduną (Čarnovicą ties Krokuva), Asanką (Senąjį Sandeką), Setu ją...
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

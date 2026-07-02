@@ -31,44 +31,15 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
 - t-001
   global_id: t-60195
   teiginys: '1292 m. Lietuvos karalius Pukuveras pasiuntė sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata bei jos datos paaiškinimu.'
-  susije_objektai: 'llm_object: Lietuva; llm_object: Lenkija; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kujavija; mentioned_place: Lietuva; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Pukuveras|Pukuveras]] buvo valdovas Lietuva; [[objektai/asmenys/Pukuveras|Pukuveras]] siuntė į Lenkija'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1292 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Pukuveras (Lietuvos karalius, XIII a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citata bei jos datos paaiškinimu.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c46faa1cf5d894dfb02d15494d58b7c8317884fba5c670f386a9cc623487e364; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pukuveras (Lietuvos karalius, XIII a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Pukuveras įtrauktas į Lietuvos valdovų-karalių sąrašą.
 
 <a id="claim-t-60196"></a>
 - t-002
   global_id: t-60196
   teiginys: 'Pukuveras buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais.'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie Pukuverą.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Pukuveras|Pukuveras]] buvo valdovas Lietuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 572056-573595; hash=0ea52fa044b9af06746c963483c05ec37b7a0b7c494d212fe5b55bab642ea691; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pukuveras (Lietuvos karalius, XIII a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Pukuveras tiesiogiai įvardytas Lietuvos karaliumi.
 - susijęs iš Kujavija: 1291 m. lietuviai nuteriojo Kujaviją, o kitais metais Pukuveras išsiuntė Vytenį į Lenkiją su didele kariuomene.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179193|Lenkai]]: 1291 m. lietuviai nuniokojo Kujaviją, o 1292 m. Pukuveras pasiuntė Vytenį į Lenkiją su didele kariuomene.
 - susijęs iš Prūsijos žemės kronika: 1292 m. Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.
@@ -107,7 +78,6 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
     jie, ten susibūrę, jūsų tik ir laukia, ir nė vienas iš jūsų negalės išvengti mirties; jeigu
     tučtuojau grįšite atgal, jus grįžtančius išžudys saviškiai“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -126,7 +96,6 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
     tarnaites, verges (servi et ancille — III, 5; mulier Pruthena servilis condicionis — III,
     130), taip pat laukininkus — valstiečius (rustict — III, 262).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -23,19 +23,8 @@ Jau prieš I pa­ saulinį karą buvo teigiama (Sobolevskij, A.
 - t-001
   global_id: t-30985
   teiginys: 'Sobolevskij dar prieš Pirmąjį pasaulinį karą teigė, kad priešistoriniais laikais baltai gyveno gerokai toliau į rytus.'
-  susije_objektai: 'llm_object: Dniepras; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Dniepras'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b912e6c4a020e727000eb148a5cb286d5d95c4f4bf8686588e92f107352a8769; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Dniepras: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Baltai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Dniepras: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad rytiniai baltai gyveno Dniepro aukštupio plotuose.
 - susijęs iš [[objektai/autoriai/Spycinas.md#claim-t-30988|Spycinas]]: Spycinas buvo proistorikas.
 ## Reikšmingi paminėjimai
 
@@ -53,7 +42,6 @@ Jau prieš I pa­ saulinį karą buvo teigiama (Sobolevskij, A.
     riją, jog rytiniai baltai dar pokristiniais amžiais yra gyvenę Dniepro
     aukštupio ir jo intakų Beržūnės ir Sožies plotuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

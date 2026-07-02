@@ -30,11 +30,6 @@ Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą 
 - t-001
   global_id: t-68034
   teiginys: 'Jonas Misiūnas vokiečių okupacijos metais buvo geležinkelių apsaugos policininkas Kaišiadoryse.'
-  sudarymo_pagrindimas: 'Pridėtas citatoje atpažįstamas asmens vardas, kad sakinys nebūtų be veikėjo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Trakai; mentioned_place: Trakų apskritis; mentioned_place: Ukmergė'
-  temporaliniai_duomenys: 'įvykio data: 1944 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pridėtas citatoje atpažįstamas asmens vardas, kad sakinys nebūtų be veikėjo.'
   pagrindžia:
     - c-001
 
@@ -49,7 +44,6 @@ Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą 
     partizanų būrį. Su savo maždaug 200 partizanų daliniu J. Misiūnas nuolat keliavo po Ukmergės
     ir Trakų apskritis ir nevengdamas susidūrimų kovėsi su sovietais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

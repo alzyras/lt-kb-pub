@@ -44,9 +44,6 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=765c1ab06e8187593f9aef41433c51295674a7a366a9ca28052a577ddc3aec48; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 <a id="claim-t-67059"></a>
 - t-002
   global_id: t-67059
@@ -55,9 +52,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2cd8e8843bc59cc1530c8facdd2ed3ca6ca8311515110155af1c9bcfa3268371; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -71,13 +65,10 @@ Nenurodyta
     praėjo paskirtasis laikas (2 metai), o tokių sutarčių teatsirado
     vos tiktai keletas.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-002
+    - t-002- c-002
   santrauka: 'Vykdant baudžiavos panaikinimo reformą valstiečiai bijojo naujų prievolių, bruzdėjo ir atsisakinėjo sudaryti sutartis su ponais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -92,9 +83,7 @@ Nenurodyta
     gali sulaukti naujų prievolių, ėmė net bruzdėti ir atsisakinėjo
     daryti sutartis.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

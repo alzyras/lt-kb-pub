@@ -41,7 +41,6 @@ Nenurodyta
 - t-001
   global_id: t-06864
   teiginys: 'Naujos karinės grėsmės sąlygomis globos brolijos virto kariaujančiais riterių ordinais.'
-  susije_objektai: 'mentioned_place: Jeruzalė'
   pagrindžia:
     - c-002
 
@@ -49,11 +48,6 @@ Nenurodyta
 - t-002
   global_id: t-06865
   teiginys: 'Po Jeruzalės išvadavimo didesniosios valstybės steigė brolijas maldininkams globoti kelionėse.'
-  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir tiksliau atspindi citatos aplinkybes.'
-  susije_objektai: 'mentioned_place: Jeruzalė'
-  temporaliniai_duomenys: 'įvykio data: 1099 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir tiksliau atspindi citatos aplinkybes.'
   pagrindžia:
     - c-001
 
@@ -70,7 +64,6 @@ Nenurodyta
     globojo ligonius ir saugojo, kad maldininkams nieko blogo neatsitiktų
     kelyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -86,7 +79,6 @@ Nenurodyta
     turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos
     virto kariaujančiųjų riterių ordinais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

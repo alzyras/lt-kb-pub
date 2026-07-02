@@ -43,16 +43,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 119531-120244; hash=0bfe3d0e82d66902b51800d70f62cdff1ad656fb8c89d4e1d4c7607bc7f14be9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> T. Narbutas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: T. Narbuto parankinis LTI egzempliorius: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: T. Narbutas: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "T. Narbuto parankinis LTI egzempliorius" parinktas kaip owner_note_path. Targetas "T. Narbutas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-189640"></a>
 - t-002
   global_id: t-189640
@@ -61,16 +51,6 @@ Nenurodyta
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 127547-128002; hash=14ef6b4bf7bcd8d297a431b12c994aa370c8a2290365d651a15a2a7ac78a7d22; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Poznanė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: T. Narbuto parankinis LTI egzempliorius: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Poznanė: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "T. Narbuto parankinis LTI egzempliorius" parinktas kaip owner_note_path. Targetas "Poznanė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -90,13 +70,10 @@ Nenurodyta
     pildė iki lemtingų 1863 metų -  tai rodo teksto analizė, t. y.
     datos bei senyvam istoriko amžiui būdingas braižas.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas, remdamasis T. Volianskio numizmatiniais tyrinėjimais, pildė parankinio LTI egzemplioriaus tomus ir pridėjo naujų iliustracijų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -109,9 +86,7 @@ Nenurodyta
     mus, parankinį egzempliorių net buvo papildęs naujomis iliust­
     racijomis, kurios, deja, ne visos pasiekė mūsų dienas.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

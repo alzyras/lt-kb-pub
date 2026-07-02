@@ -35,20 +35,8 @@ Nenurodyta
 - t-001
   global_id: t-02042
   teiginys: 'Valstiečiai galėjo skųstis, jei seniūnas nesilaikė nustatytų prievolių ir reikalavo daugiau.'
-  sudarymo_pagrindimas: 'Pradinis sakinys per daug priklauso nuo ankstesnio konteksto.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ab5b6df9280cb08d7c4beea7a4e7b278bf5d10a19a0fcf0e2a92627fc2e12c77; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> seniūnas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valstiečių prievolių įrašymas inventoriuose ir skundimasis dėl nuo jų nukrypstančių reikalavimų: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: seniūnas: mention_match, thing, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valstiečių prievolių įrašymas inventoriuose ir skundimasis dėl nuo jų nukrypstančių reikalavimų" parinktas kaip owner_note_path. Targetas "seniūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -64,7 +52,6 @@ Nenurodyta
     mėdavo; priešingai, kartais būdavo net jie patys apkaltinami
     maišto kėlimu ir, pakvietus kariuomenę, skaudžiai nubaudžiami.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

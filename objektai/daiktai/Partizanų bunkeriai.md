@@ -57,11 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-13459
   teiginys: 'Partizanai turėjo prisitaikyti prie gyvenimo miške ir bunkeriuose.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie gyvenimą bunkeriuose ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1944 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie gyvenimą bunkeriuose ir atitinka citatos informaciją.'
   pagrindžia:
     - c-001
 
@@ -69,10 +64,6 @@ Nenurodyta
 - t-002
   global_id: t-13460
   teiginys: '1946 m. birželį–1948 m. lapkritį partizanai sodybose ir prie jų kasė požeminius bunkerius slėptis nuo priešų per šukavimus.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą laiką, veiksmą ir bunkerių paskirtį.'
-  temporaliniai_duomenys: 'įvykio data: 1946 m.; įvykio data: 1947 m.; įvykio data: 1948 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą laiką, veiksmą ir bunkerių paskirtį.'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/ivykiai/Šimonių girios apgultis (1949 m.).md#claim-t-67009|Šimonių girios apgultis (1949 m.)]]: Didžiausio susirėmimo metu Šimonių girioje susprogdinti aštuoni partizanų bunkeriai, žuvo 33 partizanai, 10 pateko į nelaisvę, o 1949 m. rudenį sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.
@@ -95,7 +86,6 @@ Nenurodyta
     jie turėjo išmokti kariavimo gudrybių ir prisitaikyti prie sudėtingų gyveni-
     mo sąlygų miške ir bunkeriuose, todėl būriuose rengti kariniai mokymai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -114,7 +104,6 @@ Nenurodyta
     prie jų kasė požeminius bunkerius, kuriuose slėpdavosi nuo priešų per
     šukavimus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

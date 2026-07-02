@@ -29,8 +29,6 @@ Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Chri
 - t-001
   global_id: t-36761
   teiginys: 'Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Christmemelio salą ir ten sustojo.'
-  sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir paremtas citatoje pateiktais faktais.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Nemunas'
   pagrindžia:
     - c-001
 
@@ -38,8 +36,6 @@ Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Chri
 - t-002
   global_id: t-36762
   teiginys: 'Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. laivu nuvyko iki Christmemelio salos.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo apsaugos raštą, veikėją, datą ir kelionės vietą.'
-  susije_objektai: 'mentioned_place: Salos; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -57,7 +53,6 @@ Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Chri
     apsistojo su savo motina ir broliais sutartoje vietoje prie Duby­
     sos įtakos į Nemuną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -75,7 +70,6 @@ Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Chri
     los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
     no seklumo esą nebegalima toliau plaukti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

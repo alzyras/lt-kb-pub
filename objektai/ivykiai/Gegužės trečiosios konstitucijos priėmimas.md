@@ -47,33 +47,13 @@ Nenurodyta
 - t-001
   global_id: t-75098
   teiginys: 'Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Prancūzija; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1791 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a275369b94d4836634e8f37040d1f62266565898a2f2ee1431fbf8c96d1bad7a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prancūzija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gegužės trečiosios konstitucijos priėmimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Prancūzija: mention_match, place, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gegužės trečiosios konstitucijos priėmimas" parinktas kaip owner_note_path. Targetas "Prancūzija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-75099"></a>
 - t-002
   global_id: t-75099
   teiginys: 'Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėją, veiksmą ir objektą, o citata jį patvirtina.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Ketverių metų seimas|Ketverių metų seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
-  temporaliniai_duomenys: 'įvykio data: po 1788 m.; įvykio data: 1788 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo veikėją, veiksmą ir objektą, o citata jį patvirtina.'
   pagrindžia:
     - c-003
 
@@ -81,38 +61,15 @@ Nenurodyta
 - t-004
   global_id: t-75102
   teiginys: 'Gegužės trečiosios konstitucijos III ir IV skyriuose „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą.'
-  sudarymo_pagrindimas: 'Pradinis teiginys perteikia abejonę; citata geriau pagrindžia konkretų faktą apie konstitucijos tekstą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 167032-167533; hash=dcbf76aa3cc7c9b9bd6d94a6e009b3cb6624e287e0ed6c98a33917c515876ac8; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gegužės trečiosios konstitucijos priėmimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gegužės trečiosios konstitucijos priėmimas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-75103"></a>
 - t-005
   global_id: t-75103
   teiginys: 'Konstitucija baigiama tautos kaip valstybės vientisumo ir suverenumo idėja.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 165166-166043; hash=b53ea5fbf035d6bc3d95166c14e72dd9b6b8e793f24d253d8516b182bccce632; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gegužės trečiosios konstitucijos priėmimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gegužės trečiosios konstitucijos priėmimas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -129,14 +86,11 @@ Nenurodyta
     klaraciją. Taigi Lenkijos ir Lietuvos reformatoriai akivaizdžiai orientavosi
     į Prancūzijos didžiąją revoliuciją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -149,14 +103,11 @@ Nenurodyta
     kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo,
     karo, policijos komisijų – pirmininkai (ministrai).
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-005
-
 - c-003
   santrauka: 'Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -176,15 +127,12 @@ Nenurodyta
     čius. Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio
     Monteskjė (Charles de Montesquieu) valdžių padalijimo principu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
     - t-002
-
 - c-004
   santrauka: 'Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstatymas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -197,11 +145,9 @@ Nenurodyta
     ir Lietuva. Minimi ne tik bendri valdovai, bet ir Lietuvos didysis kuni-
     gaikštis Vytautas ir jo privilegijos Lietuvos bajorams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-006
     - t-004

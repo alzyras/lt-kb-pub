@@ -34,9 +34,6 @@ Arvydas Pociūnas šiame leidinyje minimas kaip kelių skirtingų laikotarpių k
 - t-001
   global_id: t-10123
   teiginys: 'Arvydas Pociūnas autorių sąraše apibūdinamas kaip karo istorikas ir atskiros knygos autorius.'
-  susije_objektai: 'mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1953 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
@@ -53,7 +50,6 @@ Arvydas Pociūnas šiame leidinyje minimas kaip kelių skirtingų laikotarpių k
     knygą „Kauno tvirtovės gynyba 1915 metais“. Knygos „Kaunas atvi-
     rukuose Pirmojo pasaulinio karo metais“ bendraautorius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

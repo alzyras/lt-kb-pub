@@ -10,11 +10,11 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-description: 'Žygimantas Augustas: XVI a. valdovo aktai, Vilniaus potvarkiai, Radvilų dovanojimai, Barbora Radvilaitė ir LDK politiniai lūžiai.'
-socialDescription: 'Žygimantas Augustas Lietuvos istorijoje siejamas su Vilniaus kasdienybe, Radvilomis, Barbora Radvilaite ir LDK teritoriniais pokyčiais.'
-seo_atnaujinta: '2026-07-02T19:20:23.355936+03:00'
+description: 'XVI a. Žygimantas Augustas: politiniai aktai, Vilniaus gyvenimas, Barbora Radvilaitė, Renesansas ir Žemutinė pilis.'
+socialDescription: 'Žygimantas Augustas XVI a. šaltiniuose iškyla per LDK politinius lūžius, Vilniaus miesto epizodus, Barborą Radvilaitę ir Renesanso kultūrą.'
+seo_atnaujinta: '2026-07-02T20:14:54.788438+03:00'
 seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
+seo_nepakanka_duomenu: 'true'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -28,15 +28,13 @@ tags:
 
 ## Santrauka
 
-Žygimantas Augustas siejamas su XVI a. Lietuvos Didžiosios Kunigaikštijos politiniais lūžiais ir Vilniaus miesto gyvenimu. Šaltiniuose minimi jo aktai, kuriais prie Lenkijos prijungtos Palenkė, Voluinės, Kijevo ir Podolės vaivadijos, taip pat 1547 m. potvarkis dėl supirkinėtojų. Jo aplinkoje ryškūs ir asmeniniai bei kultūriniai epizodai: ryšys su Barbora Radvilaite, Kotrynos Jogailaitės santuoka Vilniuje, Renesanso įtaka ir Žemutinės pilies statyba.
+Žygimantas Augustas siejamas su XVI a. Lietuvos Didžiosios Kunigaikštijos politiniais sprendimais, Vilniumi ir Renesanso aplinka. Šaltiniuose minimi jo aktai dėl Palenkės, Voluinės, Kijevo ir Podolės vaivadijų prijungimo prie Lenkijos, 1547 m. potvarkis dėl supirkinėtojų ir Vilniaus Žemutinės pilies statyba. Pasakojimuose taip pat ryškūs ryšiai su Barbora Radvilaite, Kotrynos Jogailaitės santuoka Vilniuje ir Polocko netekties epizodas.
 
 ## Teiginiai
 <a id="claim-t-182749"></a>
 - t-001
   global_id: t-182749
   teiginys: 'Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė.'
-  sudarymo_pagrindimas: 'Teiginys yra trumpas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Polockas'
   pagrindžia:
     - c-001
 
@@ -44,12 +42,6 @@ tags:
 - t-002
   global_id: t-183581
   teiginys: 'Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pagrindžia faktą, bet sakinį galima laikyti aiškiu tik kaip faktą apie Žygimanto Augusto ugdymą ir statybą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Bona Sforca|Bona Sforca]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Skandinavija; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]] pastatė Vilnius'
   pagrindžia:
     - c-002
 
@@ -57,11 +49,6 @@ tags:
 - t-003
   global_id: t-183582
   teiginys: 'Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės vaivadijas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys pilnas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -69,14 +56,6 @@ tags:
 - t-004
   global_id: t-183845
   teiginys: '1555 m. Žygimantas Augustas patvirtino Radvilos dovanojimą gydytojui Cimermanui.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą patvirtinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1555 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą patvirtinimą.'
   pagrindžia:
     - c-004
 
@@ -84,14 +63,6 @@ tags:
 - t-005
   global_id: t-183846
   teiginys: '1546 m. Žygimanto Augusto laikais būsimos vaistinės vietoje stovėjo medinis namas su dideliu sklypu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Erazmas Bretneris|Erazmas Bretneris]]; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1546 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-005
 
@@ -99,11 +70,6 @@ tags:
 - t-006
   global_id: t-183847
   teiginys: 'Kotryna Jogailaitė, Žygimanto Augusto sesuo, Vilniuje susituokė su Suomijos kunigaikščiu Jonu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko giminystės faktą, bet pradinis sakinys labiau kalba apie kitą asmenį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Suomija; mentioned_place: Vilnius; mentioned_place: Švedija'
   pagrindžia:
     - c-006
 
@@ -111,12 +77,6 @@ tags:
 - t-007
   global_id: t-183848
   teiginys: 'Žygimantas Augustas laisvesnes akimirkas leisdavo šalia Barboros Radvilaitės, kol galiausiai su ja susituokė.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas fragmentiškumas ir išplėstas vardas pagal citatą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Barboros rūmai Vilniuje; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Barboros rūmai Vilniuje'
-  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]] vedė [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]] gyveno Barboros rūmai Vilniuje'
   pagrindžia:
     - c-007
 
@@ -124,14 +84,6 @@ tags:
 - t-008
   global_id: t-183849
   teiginys: '1547 m. Žygimantas Augustas paskelbė potvarkį dėl supirkinėtojų, už miesto branginusių iš kaimų atvežamus produktus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinė formuluotė nutrūkusi.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1547 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradinė formuluotė nutrūkusi.'
   pagrindžia:
     - c-008
 
@@ -139,11 +91,6 @@ tags:
 - t-009
   global_id: t-183850
   teiginys: 'Žygimantas Augustas po kelerių metų patvirtino Paleckiui suteiktą stiklo gamybos privilegiją.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata remia privilegijos patvirtinimą, bet formuluotė „dovanotą“ buvo neaiški.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-009
 
@@ -151,11 +98,6 @@ tags:
 - t-010
   global_id: t-183851
   teiginys: 'Žygimantas Augustas nemažomis lėšomis pastatydino Šv. Barboros bažnyčią žmonos Barboros Radvilaitės atminimui.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]'
   pagrindžia:
     - c-010
 
@@ -163,14 +105,6 @@ tags:
 - t-011
   global_id: t-183852
   teiginys: '1557 m. žygis į Livoniją baigėsi, kai didysis magistras pripažino Žygimanto Augusto valdžią Livonijoje.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis sakinys yra kontekstinis fragmentas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Livonija; mentioned_place: Podolė; mentioned_place: Ukraina'
-  temporaliniai_duomenys: 'mūšio data: 1557 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradinis sakinys yra kontekstinis fragmentas.'
   pagrindžia:
     - c-011
 
@@ -178,14 +112,6 @@ tags:
 - t-012
   global_id: t-183853
   teiginys: '1564 m. liepos 7 d. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Statuto galios.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą sprendimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Bełskas; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1564 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje nurodytą sprendimą.'
   pagrindžia:
     - c-012
 
@@ -193,12 +119,6 @@ tags:
 - t-013
   global_id: t-183854
   teiginys: 'Mirdamas Knišine Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią ir išplėsti Švč. Trejybės prieglaudą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata.'
-  susije_objektai: 'llm_object: Knišinas; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Knišinas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]] mirė Knišinas'
   pagrindžia:
     - c-013
 
@@ -206,14 +126,6 @@ tags:
 - t-014
   global_id: t-184910
   teiginys: '1543 m. Žygimantas Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pagrindžia santuoką, datą ir Elžbietos kilmę.'
-  susije_objektai: 'mentioned_place: Austrija'
-  temporaliniai_duomenys: 'įvykio data: 1543 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia santuoką, datą ir Elžbietos kilmę.'
   pagrindžia:
     - c-014
 
@@ -221,10 +133,6 @@ tags:
 - t-015
   global_id: t-184911
   teiginys: 'Karalius Augustas, gindamas arkivyskupą Vilhelmą, išsiuntė pas magistrą kilmingą bajorą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Reikia tiksliau perteikti citatoje vartojamą vardą ir arkivyskupo tapatybę.'
   pagrindžia:
     - c-015
 
@@ -232,11 +140,6 @@ tags:
 - t-016
   global_id: t-184912
   teiginys: 'Žygimantas Augustas slėpė Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, todėl pasklido gandai apie jo palankumą liuteronybei.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pagrindžia slėpimą ir kilusius gandus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Liuteronai|Liuteronai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]; mentioned_place: Ryga'
   pagrindžia:
     - c-016
 
@@ -244,12 +147,6 @@ tags:
 - t-017
   global_id: t-184913
   teiginys: 'Žygimanto Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, kuris buvo leidęs jam vesti mirusios žmonos seserį.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pagrindžia skyrybų vertinimą ir popiežiaus leidimą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Kotryna|Kotryna]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]] vedė [[objektai/asmenys/Kotryna|Kotryna]]'
   pagrindžia:
     - c-017
 
@@ -261,16 +158,6 @@ tags:
     - c-018
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 10665-11013; hash=cf04e789c682fdd3f1d8c1f1d1bc87919976ab6b126fada26eab37d828e9d042; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Augustas (arkivyskupas, XVI a.)" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-188658"></a>
 - t-019
   global_id: t-188658
@@ -279,16 +166,6 @@ tags:
     - c-019
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 227931-228331; hash=e910c42482772ddb4c5ff803301c7709f9dfa2a557dca719a83a7e406bf4e169; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Veliuona: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Veliuona: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas Augustas (arkivyskupas, XVI a.)" parinktas kaip owner_note_path. Targetas "Veliuona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54953|Barbora Radvilaitė]]: Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos Barboros Radvilaitės atminimui.
 - susijęs iš Karalių koplyčia Vilniuje: 1547 m. rugsėjį Žygimantas Augustas ir Barbora Radvilaitė slapta susituokė Karalių koplyčioje Vilniuje.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54948|Barbora Radvilaitė]]: Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje.
@@ -383,13 +260,11 @@ tags:
     kūnas iš giedro dangaus. Gavęs šią žinią,
     Žygimantas Augustas net apsiverkė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -399,13 +274,11 @@ tags:
     liškų pasivaikščiojimų“ – pokylių šokių – iki... šakutės, tuo metu nežino-
     tos ne tik Lietuvoje, bet ir Skandinavijos šalyse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-- c-003
+    - t-002- c-003
   santrauka: 'Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės vaivadijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -416,13 +289,11 @@ tags:
     nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo
     prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-- c-004
+    - t-003- c-004
   santrauka: '1555 m. Žygimantas Augustas patvirtino Radvilos dovanojimą gydytojui Cimermanui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -432,13 +303,11 @@ tags:
     gydytojui Cimermanui, o tą dovanojimą Karalius Žygiman­
     tas Augustas patvirtino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-- c-005
+    - t-004- c-005
   santrauka: '1546 m. Žygimanto Augusto laikais būsimos vaistinės vietoje stovėjo medinis namas su dideliu sklypu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -452,13 +321,11 @@ tags:
     vė), kurio savininkas buvo Vilniaus burmistras ir auksaka­
     lys (Proconsul et aurifex) Erazmas Bretneris.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-- c-006
+    - t-005- c-006
   santrauka: 'Kotryna Jogailaitė, Žygimanto Augusto sesuo, Vilniuje susituokė su Suomijos kunigaikščiu Jonu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -470,13 +337,11 @@ tags:
     gusto seserimi.
     —  •  .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-- c-007
+    - t-006- c-007
   santrauka: 'Žygimantas Augustas laisvesnes akimirkas leisdavo šalia Barboros Radvilaitės, kol galiausiai su ja susituokė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -493,13 +358,11 @@ tags:
     Ten visas laisvesnes akimirkas Augustas praleisdavo šalia
     Barboros, kol pagaliau su ja susituokė30.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-- c-008
+    - t-007- c-008
   santrauka: '1547 m. Žygimantas Augustas paskelbė potvarkį dėl supirkinėtojų, už miesto branginusių iš kaimų atvežamus produktus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -515,13 +378,11 @@ tags:
     rodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­
     vyzdžiu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-- c-009
+    - t-008- c-009
   santrauka: 'Žygimantas Augustas po kelerių metų patvirtino Paleckiui suteiktą stiklo gamybos privilegiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -540,13 +401,11 @@ tags:
     kas nesužlugtų, po kelerių metų patvirtino dovanotą privi-
     legiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-- c-010
+    - t-009- c-010
   santrauka: 'Žygimantas Augustas nemažomis lėšomis pastatydino Šv. Barboros bažnyčią žmonos Barboros Radvilaitės atminimui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -564,13 +423,11 @@ tags:
     mą Žygimantas Augustas testamentu rūpestingai pavedė se­
     serims36.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-- c-011
+    - t-010- c-011
   santrauka: '1557 m. žygis į Livoniją baigėsi, kai didysis magistras pripažino Žygimanto Augusto valdžią Livonijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -586,13 +443,11 @@ tags:
     magistro visiško nuolankumo Žygimantui Augustui ir pri­
     pažinimo jam valdžios Livonijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-- c-012
+    - t-011- c-012
   santrauka: '1564 m. liepos 7 d. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Statuto galios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -612,13 +467,11 @@ tags:
     raliaus, be to, ir savo valdžios viršūnėse turėjo daug įžymių
     žmonių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012
-- c-013
+    - t-012- c-013
   santrauka: 'Mirdamas Knišine Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią ir išplėsti Švč. Trejybės prieglaudą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -630,13 +483,11 @@ tags:
     turtingą savo biblioteką, tėvo pradėtą, jo paties irgi kauptą,
     atidavė Vilniaus jėzuitų kolegijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-- c-014
+    - t-013- c-014
   santrauka: '1543 m. Žygimantas Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -657,13 +508,11 @@ tags:
     kius, kuriems padėta pamatai anksčiau, susigiminiuo­
     jant su Vladislovu bei Liudviku.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014
-- c-015
+    - t-014- c-015
   santrauka: 'Karalius Augustas, gindamas arkivyskupą Vilhelmą, išsiuntė pas magistrą kilmingą bajorą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -678,13 +527,11 @@ tags:
     kai taip jau nebesiskaitė su įstatymais, kad suėmė ke­
     liaujantį pasiuntinį ir nužudė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-- c-016
+    - t-015- c-016
   santrauka: 'Žygimantas Augustas slėpė Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, todėl pasklido gandai apie jo palankumą liuteronybei.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -708,13 +555,11 @@ tags:
     manymą ir atvirai išsiskyrė su austrų kunigaikštyte
     Kotryna.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-- c-017
+    - t-016- c-017
   santrauka: 'Žygimanto Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, kuris buvo leidęs jam vesti mirusios žmonos seserį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -734,13 +579,11 @@ tags:
     lės griebtis jį tikriausiai paskatinusi nusikalstama mei­
     lė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017
-- c-018
+    - t-017- c-018
   santrauka: 'Narbutas Žygimantą Augustą vadino paskutiniu savarankišku Lietuvos valdovu ir paskutiniu vyriškuoju Jogailos palikuoniu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -751,13 +594,10 @@ tags:
     sis Jogailos palikuonis Žygimantas Augustas mirė, ir aš lau- j?
     žau plunksną prie jo karsto“7.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-018
-- c-019
+    - t-018- c-019
   santrauka: 'Valdant Žygimantui Augustui Veliuonos klebonas Ragauskas priėmė Socino tikėjimą, o vietos bažnyčia ilgai priklausė evangelikams reformatams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -770,10 +610,8 @@ tags:
     iormatams. Katalikams ji sugrįžo jėzuitų pastangomis, valdant
     Zigmantui III.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-019
 

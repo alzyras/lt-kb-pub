@@ -23,8 +23,6 @@ Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų kariuomenę
 - t-001
   global_id: t-67320
   teiginys: 'Lietuvos pripažinimą tautine valstybe autoriai apibūdina kaip įvykusį „nepriklausomybės stebuklą“.'
-  sudarymo_pagrindimas: 'Posakis yra vertinamasis apibūdinimas, todėl reikia šaltinio atribucijos.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -41,7 +39,6 @@ Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų kariuomenę
     tautinė valstybė ir buvo tokia pripažinta – nepriklausomybės stebuklas
     įvyko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

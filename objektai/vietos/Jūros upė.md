@@ -22,20 +22,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - t-001
   global_id: t-28359
   teiginys: 'Jūros upės krantu siena pasislinko vieną mylią į šiaurę, o Nemunas, Rusnė ir Klaipėda buvo palikti Ordinui.'
-  sudarymo_pagrindimas: 'Pašalintos OCR klaidos ir sutrumpinta paini formuluotė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Klaipėda; mentioned_place: Nemunas; mentioned_place: Rusnė; mentioned_place: Viena; mentioned_place: Baltija; mentioned_place: Livonija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 979075-979574; hash=87bfc5b5699a5cdabf9168e981e8c811a645e5622d9c3a652a7f9b52de08f85c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Klaipėda: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jūros upė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Klaipėda: mention_match, place, gap=77
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jūros upė" parinktas kaip owner_note_path. Targetas "Klaipėda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-188703"></a>
 - t-002
@@ -45,16 +33,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 350938-351198; hash=e914c88a50681db71e57eda0547fba5d6038fd8b1e884ab8999ee3dd124c3542; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Upės (Oppen) kaimas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jūros upė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Upės (Oppen) kaimas: mention_match, place, gap=6
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jūros upė" parinktas kaip owner_note_path. Targetas "Upės (Oppen) kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -69,13 +47,11 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
     Su Livonijos ordinu siena buvo pradėta į Baltiją įtekančia
     Šventosios upe, toliau paliekant « senas sienas » (« antiquos limites »).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas Pajūrio kaimą, kurio fetišu vadino Dievaitį, tikriausiai lokalizavo Raseinių apskrityje prie Jūros upės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -91,9 +67,7 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
     Vetustis (W etustis)
     Rietavo miestelio fetišas, lietuviškai -  senovinis.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

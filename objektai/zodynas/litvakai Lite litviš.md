@@ -23,8 +23,6 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 - t-001
   global_id: t-26549
   teiginys: 'Lietuvoje susiformavusi jidiš kalbos tarmė litviš ilgainiui tapo norminės jidiš kalbos pagrindu.'
-  sudarymo_pagrindimas: 'Teiginys gramatiškai ir tiksliai perteikia citatos informaciją apie litviš tarmę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -32,8 +30,6 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 - t-002
   global_id: t-26550
   teiginys: 'Kai kurių vertinimu, kuriant Izraelį reikšmingiausius vaidmenis atliko iš LDK erdvės kilę žydai, vadinęsi litvakais.'
-  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas, citata leidžia suformuluoti aiškų sakinį.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Ukraina'
   pagrindžia:
     - c-003
 
@@ -41,8 +37,6 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 - t-003
   global_id: t-26551
   teiginys: 'Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -50,11 +44,6 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 - t-004
   global_id: t-183446
   teiginys: 'Kai kurių vertinimu, kuriant Izraelį reikšmingiausius vaidmenis atliko iš ATR ir LDK erdvės kilę žydai, vadinęsi litvakais.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas kontekstinis fragmentas ir aiškiai įvardyta, apie kokią erdvę bei valstybę kalbama.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Ukraina'
   pagrindžia:
     - c-003
 
@@ -68,14 +57,11 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
     Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-
     nigaikštija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -84,14 +70,11 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
     jidiš kalbos tarme, susiformavusia Lietuvoje ir vadinama litviš. Maža to,
     ilgainiui būtent litviš tarmė tapo norminės jidiš kalbos pagrindu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   santrauka: 'O kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -107,11 +90,9 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
     kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius
     vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-004
     - t-002

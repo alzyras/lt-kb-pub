@@ -31,8 +31,6 @@ amziai:
 - t-001
   global_id: t-172033
   teiginys: 'Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Alytus; mentioned_place: Šeštokai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Kaunas; mentioned_place: Smalėnai; mentioned_place: Suvalkai'
   pagrindžia:
     - c-002
 
@@ -40,9 +38,6 @@ amziai:
 - t-002
   global_id: t-172035
   teiginys: 'Spalio 3 d. Lenkijos pajėgos užėmė Varėnos stotį.'
-  sudarymo_pagrindimas: 'Reikia aiškiau įvardyti veikėją ir vietą.'
-  susije_objektai: 'llm_object: Varėna; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] užėmė Varėna'
   pagrindžia:
     - c-004
 
@@ -50,9 +45,6 @@ amziai:
 - t-003
   global_id: t-172037
   teiginys: 'Spalio 7 d. nustačius demarkacinę liniją, Varėnos ir Bastūnų stotys liko lenkams.'
-  sudarymo_pagrindimas: 'Patikslintas kontekstas ir išlaikyta citatos informacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Bastūnai; mentioned_place: Nemunas; mentioned_place: Vokietija; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
-  semantiniai_rysiai: 'Varėna priklausė [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
 
@@ -60,8 +52,6 @@ amziai:
 - t-004
   global_id: t-172038
   teiginys: 'Rugsėjo 24 d. šarvuotas traukinys „Gediminas“ grįžo į Varėną ir su 7-uoju pėstininkų pulku gynė strategiškai svarbią Varėnos geležinkelio stotį nuo Lenkijos pajėgų.'
-  sudarymo_pagrindimas: 'Perrašyta aiškiau įtraukiant citatoje nurodytą stoties svarbą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Lietuva; mentioned_place: Smalėnai; mentioned_place: Suvalkai'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/grupes/Husitai.md#claim-t-172102|Husitai]]: 1421 m. sausį į Varėną atvykę husitų pasiuntiniai kvietė Vytautą tapti jų karaliumi ir gavo iš jo vilčių.
@@ -98,7 +88,6 @@ amziai:
     Bastūnų stoties. Varėnos ir Bastūnų stotys
     liko lenkams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -112,7 +101,6 @@ amziai:
     nys nuvyko į Varėną, iš ten per Alytų į Šeštokus. Rugsėjo 22 d. „Gediminas“ susirėmė su
     lenkų artilerija už Punsko, prie Smalėnų miestelio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -128,7 +116,6 @@ amziai:
     grižo į Varėną, kur kartu su 7-uoju pėstininkų pulku, jau prasidėjus Suvalkų deryboms,
     nuo besiveržiančių Lenkijos pajėgų gynė strategiškai svarbią Varėnos geležinkelio stotį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -145,7 +132,6 @@ amziai:
 
     Spalio 3 d. lenkai užima Varėnos stotį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

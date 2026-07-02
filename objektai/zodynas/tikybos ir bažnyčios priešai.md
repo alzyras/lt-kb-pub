@@ -28,20 +28,8 @@ Dusburgietis teigia, kad petras iš Dusburgo akcentuoja, kad Prūsijoje kariauja
 - t-001
   global_id: t-58938
   teiginys: 'Petras Dusburgietis Prūsijoje vykusį karą vaizdavo kaip kovą prieš „tikybos ir bažnyčios priešus“.'
-  sudarymo_pagrindimas: 'Teiginys apie autoriaus interpretaciją turi būti atribuuotas, o pradinis sakinys sugadintas šaltinio nuorodomis ir fragmentais.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Prūsija; mentioned_place: Prūsų žemė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 89539-90491; hash=1ec38c470220882424553ad2a4417ad5a140e20f7f2da0f2ca9f67293623f854; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dusburgas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: tikybos ir bažnyčios priešai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tikybos ir bažnyčios priešai" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -65,7 +53,6 @@ Dusburgietis teigia, kad petras iš Dusburgo akcentuoja, kad Prūsijoje kariauja
 
     sielos „esančios išganytos“ (III, 92), o žuvę gauna „kankinių vainikus“ (III, 123).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

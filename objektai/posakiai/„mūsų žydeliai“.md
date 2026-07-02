@@ -21,20 +21,8 @@ Malonybiškai ir kartu pašaipiai lietuvių vadinami „mūsų žydeliai“ (dė
 - t-001
   global_id: t-20920
   teiginys: 'Lietuvoje žydai, lietuvių malonybiškai ir pašaipiai vadinti „mūsų žydeliais“, garsėjo visuotiniu raštingumu ir pomėgiu knygai.'
-  sudarymo_pagrindimas: 'Teiginys yra enciklopedinis sakinys apie posakį ir remiasi citatos faktais.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1f05cc2909ade7cfb9706e44d39456e014b42cc8a8d865d37f31edb6c53e0706; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Lietuva: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claimas tiesiogiai kalba apie žydus Lietuvoje.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117406|Žydai]]: Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.
 - susijęs iš [[objektai/paprociai/Žydų ir lietuvių ūkinės priklausomybės ir kalbinio bendravimo modelis.md#claim-t-77964|Žydų ir lietuvių ūkinės priklausomybės ir kalbinio bendravimo modelis]]: Lietuvoje lietuvių valstiečiai ir žydų pirkliai buvo ūkiškai priklausomi vieni nuo kitų.
 - susijęs iš [[objektai/zodynas/Antisemitizmas.md#claim-t-75540|Antisemitizmas]]: Šimtmečius Lietuvoje aršaus antisemitizmo nebuvo dėl abipusės lietuvių valstiečių ir žydų pirklių ekonominės priklausomybės.
@@ -57,7 +45,6 @@ Malonybiškai ir kartu pašaipiai lietuvių vadinami „mūsų žydeliai“ (dė
     čius, iš kurių jie tik pirko produkciją, o vos prasibrėžianti lietuvių kultūra
     jiems, kaip ir lenkams, visiškai neimponavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -58,7 +58,6 @@ Nenurodyta
         prieteliais. Todėl skiriavos nuo jūsų ir linkiva lietos^1020 vyrams pakelti tarp savęs naują rykį, kurs jus
         rėdytų, taikintų ir kliautį tarp visų saugotų, tokį rykį, kurs dievams tinka ir kūrėjų kūrėjo klauso.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -71,7 +70,6 @@ Nenurodyta
         seneliu susikibusiu, pragydusiu ir giedodamu lygiai su malkine sugruzdėjusiu. Nes visa tas, ką čia
         išrašiau, yra yna^1022 pasaka, nekaip būti daiktai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

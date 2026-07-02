@@ -26,27 +26,8 @@ Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius,
 - t-001
   global_id: t-186191
   teiginys: 'Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius, atėmė imperatoriaus laišką ir paleido Cigalą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Reikia pašalinti dviprasmišką įvardį ir tiksliau perteikti, kad nešuliai buvo kelių pasiuntinių.'
-  susije_objektai: 'mentioned_place: Viena; mentioned_person: [[objektai/asmenys/Jonas Čarnkovskis|Jonas Čarnkovskis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: [[objektai/asmenys/Cigala iš Vienos|Cigala iš Vienos]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas Čarnkovskis|Jonas Čarnkovskis]] buvo priešas [[objektai/asmenys/Cigala iš Vienos|Cigala iš Vienos]]'
-  temporaliniai_duomenys: 'įvykio data: 1430 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia pašalinti dviprasmišką įvardį ir tiksliau perteikti, kad nešuliai buvo kelių pasiuntinių.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 742005-742577; hash=8d49880fbfe5a6e37ad6585f8efb5cb7c03886fe7492e94b6ecf8e5c34b1a195; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Cigala iš Vienos: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jonas Čarnkovskis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Cigala iš Vienos: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Cigalos suėmimas tiesiogiai rodo priešišką Jono Čarnkovskio veiksmą jo atžvilgiu.
 
 ## Reikšmingi paminėjimai
 
@@ -78,11 +59,9 @@ Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius,
 
     piežiaus sutikimo ir žinios pakelti ką į karalius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
 

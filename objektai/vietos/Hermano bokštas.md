@@ -28,24 +28,8 @@ trijų Baltijos valstybių gyventojai paminėjo 50-ąsias Molotovo–Ribentropo 
 - t-001
   global_id: t-21441
   teiginys: '1989 m. rugpjūčio 23 d. Baltijos kelio žmonių grandinė driekėsi nuo Gedimino bokšto Vilniuje iki Hermano bokšto Taline.'
-  sudarymo_pagrindimas: 'Sutvarkyta sakinio pradžia ir pašalintas nutrūkimas.'
-  susije_objektai: 'llm_object: Talinas; mentioned_place: Talinas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Baltija; mentioned_place: Lietuva'
-  semantiniai_rysiai: 'Hermano bokštas priklausė Talinas'
-  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1989 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sutvarkyta sakinio pradžia ir pašalintas nutrūkimas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ec59ccbc68e1f69a449da4e0320442cf71e6179043c26345ac69f22e75b3de35; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Talinas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Hermano bokštas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Talinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Hermano bokštas tiesiogiai lokalizuotas Taline.
 
 ## Reikšmingi paminėjimai
 
@@ -64,7 +48,6 @@ trijų Baltijos valstybių gyventojai paminėjo 50-ąsias Molotovo–Ribentropo 
     Taline. Visame kelyje plevėsavo juodi gedulo kaspinai, degė žvakutės, ku-
     rios priminė aukas ir didelių netekčių skausmą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

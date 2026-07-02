@@ -43,64 +43,22 @@ Nenurodyta
 - t-001
   global_id: t-80673
   teiginys: 'Jonušo Radvilos pastangomis Kėdainių unija su Švedija buvo sudaryta 1655 m. spalio 20 d.'
-  sudarymo_pagrindimas: 'Pašalinta nutrūkusi dalis ir aiškiai įvardytas veikėjas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Kėdainiai; mentioned_place: Švedija; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_person: [[objektai/asmenys/J. Radvila|J. Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_person: [[objektai/asmenys/V. Gosievskis|V. Gosievskis]]; mentioned_place: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1655 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalinta nutrūkusi dalis ir aiškiai įvardytas veikėjas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3ab5837742271ca197f8594aa0d348f839fedb2360cdf5c0e7e7b7a31f882abd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kėdainių unija (1655 m. spalio 20 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kėdainių unija (1655 m. spalio 20 d.)" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-80674"></a>
 - t-002
   global_id: t-80674
   teiginys: 'Po Kėdainių unijos švedai nepateisino Jonušo Radvilos lūkesčių: jis negavo reikšmingų pareigų, o karinė pagalba nebuvo suteikta.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatos informacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/J. Radvila|J. Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Kėdainiai; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3ab5837742271ca197f8594aa0d348f839fedb2360cdf5c0e7e7b7a31f882abd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kėdainiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kėdainių unija (1655 m. spalio 20 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kėdainiai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kėdainių unija (1655 m. spalio 20 d.)" parinktas kaip owner_note_path. Targetas "Kėdainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-80675"></a>
 - t-003
   global_id: t-80675
   teiginys: 'Jonušas Radvila siekė nutraukti LDK uniją su Lenkija ir sudaryti naują uniją su Švedija.'
-  sudarymo_pagrindimas: 'Reikia išplėsti inicialą ir aiškiai įvardyti asmenį bei unijos objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Švedija; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_person: [[objektai/asmenys/J. Radvila|J. Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_person: [[objektai/asmenys/V. Gosievskis|V. Gosievskis]]; mentioned_place: Kėdainiai'
-  temporaliniai_duomenys: 'įvykio data: 1655 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia išplėsti inicialą ir aiškiai įvardyti asmenį bei unijos objektą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 514075-514500; hash=b3abb8c6848a83d2172aca88531c1e0d4aba7cf9dd2defc2235f523b49b9afb9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> J. Radvila: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kėdainių unija (1655 m. spalio 20 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: J. Radvila: mention_match, person, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kėdainių unija (1655 m. spalio 20 d.)" parinktas kaip owner_note_path. Targetas "J. Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -118,7 +76,6 @@ Nenurodyta
     reikšmingų pareigų, karinė pagalba suteikta nebuvo,
     užimtoje teritorijoje švedai elgėsi kaip okupantai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -139,7 +96,6 @@ Nenurodyta
     diškos alternatyvos“ Lietuvai pabandymą paprastai
     vadinamas išdaviku.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -29,23 +29,8 @@ periodo_grupes:
 - t-001
   global_id: t-87760
   teiginys: 'Kristupas Varševickis, jėzuitų rektorius, 1572 m. žiemą dalyvavo kapitulos susirinkime vyskupo rūmuose.'
-  sudarymo_pagrindimas: 'Citata pagrindžia dalyvavimą ir pareigas, pradinis tekstas turi OCR triukšmo.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Janockis|Janockis]]'
-  temporaliniai_duomenys: 'įvykio data: 1572 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia dalyvavimą ir pareigas, pradinis tekstas turi OCR triukšmo.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7d94fb377c9cf5721e710eea55e142bdd59446a27ee9cec3190926a10ee0b59c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Janockis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kristupas Varševickis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Janockis: mention_match, author
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristupas Varševickis" parinktas kaip owner_note_path. Targetas "Janockis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -65,7 +50,6 @@ periodo_grupes:
     jant kun. Varševickiui, jėzuitų
     rektoriui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

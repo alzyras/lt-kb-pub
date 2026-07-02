@@ -30,12 +30,8 @@ Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alber
 - t-001
   global_id: t-60447
   teiginys: 'Tomas Akvinietis buvo Alberto mokinys, pamokslininkų ordino vienuolis ir vėliau popiežiaus Jono XXII kanonizuotas.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas biografinis sakinys ir atitinka citatą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 708977-709164; hash=b2dbf2883cad2aefade24ec7649a8a8083e3de8001fa58125c5f831816b281e6; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -51,14 +47,11 @@ Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alber
 
                          42.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Tomas Akvinietis buvo Alberto mokinys, pamokslininkų ordino vienuolis ir vėliau popiežiaus Jono XXII kanonizuotas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -69,10 +62,8 @@ Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alber
     mokinys bei pamokslininkų ordino vienuolis (Ptol. 22,18—20), vėliau popiežiaus Jono
     XXII kanonizuotas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002

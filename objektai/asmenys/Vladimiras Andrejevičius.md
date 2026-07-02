@@ -21,20 +21,8 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
 - t-001
   global_id: t-39674
   teiginys: 'Kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio, kai didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje.'
-  sudarymo_pagrindimas: 'Teiginys yra išbaigtas sakinys apie asmenį ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dmitrijus|Dmitrijus]]; mentioned_place: Kremlius; mentioned_place: Vladimiras; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Maskva; mentioned_place: Pronskas; llm_object: Kremlius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 191177-191491; hash=ae8b40a4f6b202ddf830f4bb7459c39c5dccae30eb0e896392499af614906432; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Kremlius: 0.64
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Dmitrijus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kremlius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Dmitrijus buvo Kremliuje, nors kontekstas labiau karinis negu gyvenamasis.
 - susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-183767|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
 - susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-39673|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
 - susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-183767|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
@@ -55,7 +43,6 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
     tęsti buvo sunku, todėl buvo sudaryta
     taika.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -76,7 +63,6 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
     sąjungininkas, Pronsko kunigaikštis Vla-
     dimiras, su juo - „Riazanės kariai“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

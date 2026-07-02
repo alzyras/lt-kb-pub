@@ -29,7 +29,6 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 - t-001
   global_id: t-69309
   teiginys: 'Stalupėnai šaltinio rodyklėje tapatinami su dabartiniu Nesterovu.'
-  sudarymo_pagrindimas: 'Citata pateikia vietovės tapatinimą su dabartiniu pavadinimu.'
   pagrindžia:
     - c-001
 - susijęs iš M. Prätorius, Deliciae: M. Prätoriaus „Deliciae“ nurodoma, kad Pisos dešinysis intakas Golba prie Narpiškių kaimo buvęs šventas.
@@ -46,7 +45,6 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
     Stalupėnai (dab. Nesterovas)
     Stanaičiai (dab.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

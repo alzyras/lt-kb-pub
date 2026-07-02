@@ -24,9 +24,6 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
 - t-001
   global_id: t-186422
   teiginys: 'Sąjungininkai, paėmę Gilgenburgą, žygiavo Tanenbergo kryptimi.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Perrašyta taip, kad teiginys tiesiogiai sietųsi su Tanenbergu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Ulrichas von Jungingenas|Ulrichas von Jungingenas]]; mentioned_place: Drevenca; mentioned_place: Loebau; mentioned_place: Torno'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176728|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas buvo karo tarybos pirmininkas ir tikrasis Tanenbergo mūšio vadas.
@@ -55,7 +52,6 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
     pulkus, magistras iš pabėgėlių patyrė, jog sąjungininkai, paėmę
     Gilgenburgą, žygiavo Tannenbergo kryptimi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

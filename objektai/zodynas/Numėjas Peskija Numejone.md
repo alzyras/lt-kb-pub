@@ -21,9 +21,6 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 284667-284918; hash=f12570cf0b582dc2cf2ecde90aee75181ccc5332b80157e728bdf4fb0ca40107; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-189233"></a>
 - t-002
   global_id: t-189233
@@ -32,9 +29,6 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 285047-285423; hash=36f821fe357918e83c15eccb9b0d8b1e2ea847bb67b59b4c388a36e3ef49f582; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -47,13 +41,10 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
     žodžių prasmė, senosios kalbos aiškinimu5, sutampa su šių die­
     vybių pašaukimu, žemaitiškai reiškia Swecias ir [Viešnia.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas rašo, kad miestuose buvę svečių namai, vadinti namijomis, arba Numejone, kur svetimšaliai jautėsi saugūs su savo turtu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -65,9 +56,7 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
     ti svetimšaliai jausdavosi visiškai saugūs -  tiek asmenys, tiek
     turtas.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

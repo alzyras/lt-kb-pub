@@ -21,20 +21,8 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
 - t-001
   global_id: t-72599
   teiginys: 'Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi nepriklausomos Latvijos sukūrimu.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Tautos taryba|Tautos taryba]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Tautos taryba|Tautos taryba]]; mentioned_place: Latvija; mentioned_place: Petrapilis; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Rusija'
-  semantiniai_rysiai: '[[objektai/grupes/Petrapilio latvių pabėgėlių komitetas|Petrapilio latvių pabėgėlių komitetas]] buvo sąjungininkas su [[objektai/grupes/Tautos taryba|Tautos taryba]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d30341cde354d1ede06555870d7b4ef3cedc0ddc5578019904b60437ac532235; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Tautos taryba (institucija): 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Petrapilio latvių pabėgėlių komitetas (institucija): llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Tautos taryba (institucija): llm_allowed_candidate, group
-  ryšio_paaiskinimas: Tautos Taryba ir Petrapilio latvių pabėgėlių komitetas tiesiogiai nurodyti kartu rūpinęsi nepriklausomos Latvijos sukūrimu.
 
 ## Reikšmingi paminėjimai
 
@@ -48,7 +36,6 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
     sidarė Tautos Taryba, kuri kartu su Petrapilio latvių pabėgėlių
     komitetu ėmė rūpintis sukurti nepriklausomą Latviją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

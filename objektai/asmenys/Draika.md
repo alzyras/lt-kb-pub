@@ -31,66 +31,22 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
 - t-001
   global_id: t-60108
   teiginys: 'Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrikštytas su visa šeimyna.'
-  sudarymo_pagrindimas: 'Citata pagrindžia aiškesnį sakinį apie Draikos veiksmą ir rezultatą.'
-  susije_objektai: 'mentioned_place: Aukaimis; mentioned_place: Ragainė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]; llm_object: Ragainė'
-  semantiniai_rysiai: '[[objektai/asmenys/Draika|Draika]] keliavo į Ragainė'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e84c13a74c1ce48a63d9f7431a0b110ed7df99d292ea9c2871ee4a66ee4d69f5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Draika: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pinas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Draika: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Piną kaip Draikos sūnų.
 
 <a id="claim-t-60109"></a>
 - t-002
   global_id: t-60109
   teiginys: '1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatinis ir paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Draika|Draika]]; mentioned_person: [[objektai/asmenys/Pinas|Pinas]]; mentioned_place: Ragainė; mentioned_object: [[objektai/zodynas/pilėnas|pilėnas]]; mentioned_place: Aukaimis; llm_object: Aukaimis; llm_object: Ragainė'
-  semantiniai_rysiai: '[[objektai/asmenys/Pinas|Pinas]] buvo sūnus [[objektai/asmenys/Draika|Draika]]; [[objektai/asmenys/Draika|Draika]] gyveno Aukaimis; [[objektai/asmenys/Draika|Draika]] siuntė į Ragainė'
-  temporaliniai_duomenys: 'įvykio data: 1301 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatinis ir paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 608112-608593; hash=7eeb451b81d14816407055dd8ecb57de496aecfe1001ffe48392975c85150945; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Ragainė: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Draika: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad Draika buvo nuvestas į Ragainę.
 
 <a id="claim-t-184694"></a>
 - t-003
   global_id: t-184694
   teiginys: 'Aukaimio pilies viršininkas Draika pradėjo linkti į krikščionių tikėjimą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra trumpas faktinis sakinys apie Draiką ir atitinka citatą.'
-  susije_objektai: 'mentioned_place: Aukaimis'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 309224-309498; hash=96c8e103d4c30971f6008b5678b347654d9454d6f4a2ee4c1e0da8ebafe57675; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukaimis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Draika: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Draika" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę.md#claim-t-185727|Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę (pilis)]]: Draika per sūnų Piną susitarė su Ragainės komtūru Folradu ir įleido jo kariuomenę į Aukaimio pilį.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę.md#claim-t-185726|Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę (pilis)]]: Aukaimio pilis buvo prarasta per jos viršininko Draikos išdavystę.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę.md#claim-t-185727|Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę (pilis)]]: Draika per sūnų Piną susitarė su Ragainės komtūru Folradu ir įleido jo kariuomenę į Aukaimio pilį.
@@ -115,7 +71,6 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
     štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,
     kad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -134,7 +89,6 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
     sužeistas. Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį
     Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -152,7 +106,6 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
     viršininkas Draika pradėjo linkti į krikščionių tikėji­
     mą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

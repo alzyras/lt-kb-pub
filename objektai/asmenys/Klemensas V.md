@@ -8,6 +8,11 @@ datos:
   - '1313 m.'
 date_start: '1222'
 date_end: '1313'
+description: 'Popiežius Klemensas V Dusburgiečio pasakojime minimas dėl tamplierių pasmerkimo, Celestino V kanonizavimo ir įvykių prie Liono.'
+socialDescription: 'Klemensas V: popiežius, siejamas su Vieno sinodu, tamplierių ordino pasmerkimu, Celestino V kanonizavimu ir įvykiais prie Liono.'
+seo_atnaujinta: '2026-07-02T21:03:54.597710+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +30,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių, imperatoriumi ir jam atidavė į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė Klemensas V, popiežius (Ptol. Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena ir. Dusburgietis teigia, kad apie tamplierių ordino panaikinimą 1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet apaštališkojo sosto parengiamasis veiksmas — tamplierių.
+Klemensas V minimas kaip popiežius, atšaukęs Bonifaco sprendimą dėl Albrechto, Romos karaliaus, paskelbimo imperatoriumi ir Prancūzijos karalystės perdavimo. Dusburgiečio pasakojime jis siejamas su įvykiu prie Liono po vainikavimo, kai sugriuvusi siena pražudė daug žmonių, o nukentėjo ir pats popiežius. 1312 m. Vieno sinode Klemensas V pasmerkė tamplierių ordiną, o 1313 m. kanonizavo Petrą išpažintoją, buvusį popiežių Celestiną V.
 
 ## Teiginiai
 
@@ -33,78 +38,36 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
 - t-001
   global_id: t-59925
   teiginys: 'Popiežius Klemensas V mirė balandžio 20 d., praėjus metams nuo kometos pasirodymo pradžios.'
-  sudarymo_pagrindimas: 'Metai citatoje neišskleisti, todėl nepridėti; sakinys pataisytas be antraštės triukšmo.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cea1bfc521e75963551cc1b8f1b0f232aa897e726f05420830c1ee09ba744c33; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prancūzai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klemensas V: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prancūzai: mention_match, group, gap=89
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klemensas V" parinktas kaip owner_note_path. Targetas "Prancūzai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59926"></a>
 - t-002
   global_id: t-59926
   teiginys: '1312 m. kovo 22 d. Vieno sinode popiežius Klemensas V pasmerkė tamplierių ordiną, nors tai dar nebuvo galutinis sprendimas.'
-  sudarymo_pagrindimas: 'Teiginys palaikomas, bet perrašytas sklandžiau ir tiksliau.'
-  temporaliniai_duomenys: 'įvykio data: 1312 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys palaikomas, bet perrašytas sklandžiau ir tiksliau.'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7573e2d5ff270196650816ad4c4f99294d41e293921c29cc768431676e7ec657; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lionas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Klemensas V: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lionas: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klemensas V" parinktas kaip owner_note_path. Targetas "Lionas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59927"></a>
 - t-003
   global_id: t-59927
   teiginys: 'Po Klemenso V vainikavimo prie Liono sugriuvusi mūro siena pražudė daug žmonių, o pats popiežius nukentėjo.'
-  sudarymo_pagrindimas: 'Fragmentas perrašytas į vientisą sakinį be antraštės ir nutrūkusios frazės.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_place: Lionas; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Prancūzija'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=72b11b1becc42bcf0743c4ee63a1063bd34c5ec7aa707b308a77ac65ee7baf7e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 <a id="claim-t-59928"></a>
 - t-004
   global_id: t-59928
   teiginys: 'Popiežius Klemensas V atšaukė Bonifaco sprendimą paskelbti Albrechtą imperatoriumi ir jam atiduoti Prancūzijos karalystę.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Klemenso V veiksmą; pašalintos bibliografinės nuotrupos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Prancūzija; mentioned_group: [[objektai/grupes/Flandrai|Flandrai]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2230c045637f345d7c077e8e8eb89fbbc1d3c430ed6c5104d1606cbe023c679b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 <a id="claim-t-59929"></a>
 - t-005
   global_id: t-59929
   teiginys: '1313 m. gegužės 5 d. Klemensas V kanonizavo Petrą išpažintoją, buvusį popiežių Celestiną V, ir liepė jį gerbti birželio 14 d.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  temporaliniai_duomenys: 'įvykio data: 1313 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c839a96d31d58a635794c4faac78dc7ab128f030152ea94f37d09b0223af5729; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63419|Albrechtas (Romos karalius)]]: 1303 m. popiežius Bonifacas paskelbė Romos karalių Albrechtą imperatoriumi, bet popiežius Klemensas V vėliau tai atšaukė.
 - susijęs iš [[objektai/asmenys/Bonifacas VIII.md#claim-t-59902|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]: 1303 m. Bonifacas VIII paskelbė Romos karalių Albrechtą imperatoriumi ir perdavė jam Prancūzijos karalystę, bet Klemensas V tai atšaukė.
 - susijęs iš [[objektai/asmenys/Klemensas VI.md#claim-t-186227|Klemensas VI]]: Popiežius Klemensas VI laišku pakvietė krikščioniškųjų šalių valdovus į karą prieš lietuvius.
@@ -137,7 +100,6 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
       Tų pačių metų balandžio 20 dieną mirė popiežius Klemensas, praslinkus metams nuo
     tos dienos, kai ėmė rodytis kometa (Ptol. p. 1242).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -153,7 +115,6 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
        Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -169,7 +130,6 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
     Petrą išpažintoją, kadaise popiežių Celestiną V, ir liepė jį gerbti birželio 14 dieną (Mart.
     p. 446; Ptol. p. 1240).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -187,7 +147,6 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
 
     Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -205,7 +164,6 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
     metais, popiežiaus Paskalio II bei imperatoriaus Henriko V laikais (Mart. p. 445; Ptol. p.
     1236).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

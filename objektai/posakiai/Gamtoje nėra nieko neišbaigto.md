@@ -21,9 +21,6 @@ Narbutas posakį „Gamtoje nėra nieko neišbaigto“ pateikia kaip senovės li
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 331070-331525; hash=e46c80505d3262d536dd717c8c2e0220f41e95f9421042c615c2d54994de8db1; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -39,9 +36,7 @@ Narbutas posakį „Gamtoje nėra nieko neišbaigto“ pateikia kaip senovės li
     tas seneliukas . 3
     3 Laiško, gauto iš Raseinių, fragmentas*.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

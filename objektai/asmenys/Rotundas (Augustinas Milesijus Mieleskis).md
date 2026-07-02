@@ -32,64 +32,22 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
 - t-001
   global_id: t-87455
   teiginys: 'Augustinas Rotundas Mieleskis 1579 m. buvo paminėtas kaip liudininkas, abiejų teisių daktaras ir karališkasis sekretorius.'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra OCR sąrašas, o citata leidžia pateikti aiškų faktą apie asmenį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustinas Rotundas|Augustinas Rotundas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]'
-  temporaliniai_duomenys: 'įvykio data: 1579 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra OCR sąrašas, o citata leidžia pateikti aiškų faktą apie asmenį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d885552ac755e1b476876acec73fc63ea691735d894e7c1dfa8f316e146c66dc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rotundas (Augustinas Milesijus Mieleskis): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=93
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rotundas (Augustinas Milesijus Mieleskis)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87456"></a>
 - t-002
   global_id: t-87456
   teiginys: 'Rotundas Augustinas Milesijus Mieleskis buvo Vilniaus vaitas ir 1569 m. išrinktas į komisiją Lietuvos įstatymams pataisyti.'
-  sudarymo_pagrindimas: 'Citata pagrindžia jo pareigas ir išrinkimą į komisiją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1569 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia jo pareigas ir išrinkimą į komisiją.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c6b3e6082cae13315adae940d6374545f9af8b9f8bb85da8512871d7702bc1d6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustinas Rotundas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rotundas (Augustinas Milesijus Mieleskis): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Augustinas Rotundas: mention_match, person, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rotundas (Augustinas Milesijus Mieleskis)" parinktas kaip owner_note_path. Targetas "Augustinas Rotundas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-87457"></a>
 - t-003
   global_id: t-87457
   teiginys: 'Augustinas Rotundas Mieleskis buvo kilęs iš bajorų, nes miesto aktuose prie jo pavardės rašyta „Nobilis“.'
-  sudarymo_pagrindimas: 'Citata pagrindžia bajorišką kilmę pagal miesto aktų įrašus.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Janockis|Janockis]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Augustinas Rotundas|Augustinas Rotundas]]'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0dfee40c22d04083818ff0a77182a4a8f8e0242ea3e3d13a8ba925b4d854f049; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustinas Rotundas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rotundas (Augustinas Milesijus Mieleskis): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Augustinas Rotundas: mention_match, person, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rotundas (Augustinas Milesijus Mieleskis)" parinktas kaip owner_note_path. Targetas "Augustinas Rotundas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -117,7 +75,6 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
     [Vilniaus vyskupas Valerijonas sa­
     vo ranka].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -138,7 +95,6 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
     ties seimo Unijos su Lietuva klausi- ris divini humanique consultissimus
     mo atidėjime.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -161,7 +117,6 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
     vos istoriją", bet po karaliaus mir­
     ties tą darbą užmetęs, janociana, Vol.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

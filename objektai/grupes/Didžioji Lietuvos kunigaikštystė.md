@@ -24,27 +24,13 @@ tags:
 - t-001
   global_id: t-96094
   teiginys: 'Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio.'
-  sudarymo_pagrindimas: 'Citata perteikia autoriaus vertinimą, todėl teiginys perrašytas su atribucija ir aiškiu kontekstu.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7e37b3772bed6a4f3d200480cf3700798d68164033fd790423fbb72eecd9e822; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžioji Lietuvos kunigaikštystė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžioji Lietuvos kunigaikštystė" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-96096"></a>
 - t-003
   global_id: t-96096
   teiginys: 'Liublino unijos akto trečiasis paragrafas skelbė, kad Didžioji Lietuvos Kunigaikštystė ir Lenkijos Karalystė sudaro vieną bendrą valstybę.'
-  sudarymo_pagrindimas: 'Pašalinti citatos ir OCR artefaktai, išlaikant pagrindinį citata paremtą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Krokuva; mentioned_place: Liublinas'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/zodynas/dominija.md#claim-t-173017|dominija]]: Dokumente numatyta, kad po Vytauto mirties Didžioji Lietuvos Kunigaikštystė ir jos dominijos turi tekti Jogailai ir Lenkijai.
@@ -62,7 +48,6 @@ tags:
     krikščionybę. Didžioji Lietuvos kunigaikštija ilgiau nebegalėjo būti
     pagonio valdoma.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -81,7 +66,6 @@ tags:
     somi_ nuo priešo žemėje sėdinčio metropolito. Pagaliau jam pasi­
     sekė atstatyti Vytenio ir Gedimino laikų padėtį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,7 +84,6 @@ tags:
     Jau dėl šitų priežasčių tarp Jogailos ir Kęstučio turėjo kilti
     pirmieji nesutarimai, kuriuos vikriai išnaudojo kryžiuočiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -119,7 +102,6 @@ tags:
     bendrą valdovą, kuris būsiąs bendrai renkamas Lietuvoje ir ka-
     rūnuojamas Krokuvoje (§ 4).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -21,16 +21,6 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 198546-198883; hash=56ec916a581476823773badee621bc0870d90f051999e9be1d8636108cebdae3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Salos: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pelazgai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Salos: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pelazgai" parinktas kaip owner_note_path. Targetas "Salos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190051|Herodotas]]: Narbutas Herodotui priskiria teiginį, kad pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų ir įvedė paslaptingą jų garbinimo ritualą.
 - susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190315|Herodotas]]: Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų ir įvedė paslaptingą jų garbinimo ritualą.
 ## Reikšmingi paminėjimai
@@ -45,9 +35,7 @@ Narbutas, remdamasis Herodotu, rašo, kad pelazgai iš Samotrakės atsikėlė į
     įvedė paslaptingą jų garbinimo ritualą. Antikos laikais švie­
     siausi ir žymiausi žmonės veržėsi būti tų paslapčių dalyviais.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

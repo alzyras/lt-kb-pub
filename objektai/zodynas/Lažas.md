@@ -27,7 +27,6 @@ Vartojamos formos: `lažu`.
 - t-001
   global_id: t-70014
   teiginys: '`Lažas` siejamas su baudžiavos įvedimu ir laikomas lenkišku žodžiu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -43,7 +42,6 @@ Vartojamos formos: `lažu`.
         vienoj vietoj it mėšlui minti, taip ir šį vieną dirvai arti ne dėl savęs, bet dėl svetimo, ką šiandien
         žodžiai patys rodo: pavynastis^1496 , lažas, donis yra lenkiški žodžiai, ne lietuviški.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

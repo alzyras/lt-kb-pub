@@ -42,42 +42,15 @@ Nenurodyta
 - t-001
   global_id: t-39256
   teiginys: 'Kalavijai kartu su ietimis buvo pagrindiniai kariuomenės ginklai.'
-  sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis ir sakinys sutelktas į kalavijus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Ietys|Ietys]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 304539-304941; hash=98be9f00afbb3bd6f72a8367fcda5a1b8372607f69a0db997b2595f1d87020c9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kalavijai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalavijai" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183686"></a>
 - t-002
   global_id: t-183686
   teiginys: 'Lietuvos kariuomenės dalinių pagrindiniai ginklai buvo ietys ir kalavijai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, aiškus ir pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Ietys|Ietys]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 304452-304764; hash=bdfe1ecf7b939f376b208a65ecc3ead2fa8c0683ddb8690960b36992a3853d8e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Artilerija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kalavijai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Artilerija: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalavijai" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71559|Dviašmenis kalavijas]]: X–XI a. dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje.
 - susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71560|Dviašmenis kalavijas]]: X–XI a. Vakarų Europoje paplitusių dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje.
 - susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71561|Dviašmenis kalavijas]]: X–XI a. dviašmenis kalavijas buvo paplitęs Vakarų Europoje.
@@ -122,7 +95,6 @@ Nenurodyta
     discipliną) bandyta kompensuoti samdi-
     niais - kariais profesionalais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -141,7 +113,6 @@ Nenurodyta
     buvo įprastas atributas, kuris mūšio lauke
     vis dėlto praversdavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

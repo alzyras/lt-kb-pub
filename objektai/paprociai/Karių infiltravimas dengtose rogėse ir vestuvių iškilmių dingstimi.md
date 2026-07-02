@@ -49,61 +49,22 @@ Nenurodyta
 - t-001
   global_id: t-87211
   teiginys: 'Strijkovskis ir Kojalavičius rašė, kad Vytautas kelionę į Vilnių dangstė sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku dingstimi.'
-  sudarymo_pagrindimas: 'Citata remia vestuvių dingstį, bet pradinis teiginys nutrūkęs ir su OCR klaidomis.'
-  susije_objektai: 'llm_object: Polockas; llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Mazovija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Sudimantas|Sudimantas]]; mentioned_place: Polockas; mentioned_place: Poznanė; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 255045-257194; hash=45556bdcf60c008152ba55e94aae0cd5e99debc8417d957964f0407751086d13; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Polockas: 0.97
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Skirgailos išvykimą į Polocką.
 
 <a id="claim-t-87212"></a>
 - t-002
   global_id: t-87212
   teiginys: 'Vytauto žmonės dengtose rogėse pateko į Žemutinę pilį, bet Sudimantas, perspėtas gyventojų, sutrukdė mėginimą užimti Vilnių.'
-  sudarymo_pagrindimas: 'Pradinis teiginys pagrįstas, tačiau su OCR triukšmu ir per daug priklausomas nuo šaltinio formuluotės.'
-  susije_objektai: 'llm_object: Polockas; llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Sudimantas|Sudimantas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Mazovija; mentioned_place: Polockas; mentioned_place: Poznanė; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 255045-257194; hash=45556bdcf60c008152ba55e94aae0cd5e99debc8417d957964f0407751086d13; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Polockas: 0.97
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Skirgailos išvykimą į Polocką.
 
 <a id="claim-t-183825"></a>
 - t-003
   global_id: t-183825
   teiginys: 'Vytauto ginkluoti žmonės dengtose rogėse pasiekė pilį, tačiau Sudimantas, perspėtas gyventojų, sužlugdė Vilniaus užėmimo planą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys pagrįstas citata, bet reikia pašalinti OCR triukšmą ir suformuluoti užbaigtą sakinį.'
-  susije_objektai: 'llm_object: Polockas; llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Sudimantas|Sudimantas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Mazovija; mentioned_place: Polockas; mentioned_place: Poznanė; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 255045-257194; hash=45556bdcf60c008152ba55e94aae0cd5e99debc8417d957964f0407751086d13; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Polockas: 0.97
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai pasako, kad Skirgaila išvyko į Polocką.
 
 ## Reikšmingi paminėjimai
 
@@ -162,11 +123,9 @@ Nenurodyta
     vienas jų, matyt, išdavęs paslaptį, o
     apie Sudimantą nėra užsiminta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
     - t-001

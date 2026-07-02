@@ -45,7 +45,6 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
 - t-003
   global_id: t-70061
   teiginys: 'Valdymierai kartais įvesdavo svetimus parėdymus į savo ūkę, kad padidintų valdžią ir pavergtų žmones.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai priskiria valdymierams svetimų parėdymų įvedimo tikslą.'
   pagrindžia:
     - c-002
 
@@ -56,7 +55,6 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   citata_originali: |
     Jei netyčiomis jis tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi. Visi tie prietarai ant to eina, sako toliau, jog nuo ten prasidėjusi jų tauta, kame esąs visų valdymieras dievas, kurio kiti visi klausą ir tarnaują. Laimė žemaičių tą tvirtinanti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -67,7 +65,6 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   citata_originali: |
     nesgi anie tankiai regėjo per prityrimą, jog valdymierai tautų dėl to vien kartais įveda svetimus parėdymus^710 į savo ūkę, idant per tą galėtų padidinti savo valdžią ir svietą nuvergti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

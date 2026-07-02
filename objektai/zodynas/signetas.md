@@ -23,20 +23,8 @@ Taip pat šį perrašytą testamentą mes kartą ir antrą, ir dar keliolika kar
 - t-001
   global_id: t-86641
   teiginys: 'Testamentas buvo užantspauduotas signetu, kuriuo paprastai antspauduoti slapti raštai, ir pasirašytas ranka.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie signetą, o pradinis tekstas yra nutrūkęs.'
-  susije_objektai: 'mentioned_place: Tikocinas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 682909-684035; hash=b674f67355c09d5956264f3c469bababc8cc3651ad404da9a52f1f1da99d36a8; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Tikocinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: signetas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Tikocinas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "signetas" parinktas kaip owner_note_path. Targetas "Tikocinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -64,7 +52,6 @@ Taip pat šį perrašytą testamentą mes kartą ir antrą, ir dar keliolika kar
     da vienas būtų prie mūsų, kitas - pas jos didenybę karalaitę
     Oną, trečias - Tikocino pilyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

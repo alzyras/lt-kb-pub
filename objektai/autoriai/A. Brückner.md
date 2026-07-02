@@ -32,7 +32,6 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
 - t-001
   global_id: t-64507
   teiginys: 'A. Brückner parašė Dzieje kultury polskiej pirmą tomą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/V. Jungfer|V. Jungfer]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Krokuva'
   pagrindžia:
     - c-002
 
@@ -40,39 +39,15 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
 - t-002
   global_id: t-64508
   teiginys: 'Al. Brückneris priklausė senosios istorikų kartai, kuri XIII a. pradžios lietuvius vaizdavo kaip vargšus ir skurdžius.'
-  sudarymo_pagrindimas: 'Citata remia konkretesnį teiginį nei vien priskyrimą istorikų kartai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_author: [[objektai/autoriai/Fr. Papée|Fr. Papée]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c89297715f2e8593f6b6d03b9e1e4681f2157277b322b13176d30f7880be1fd9; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: A. Brückner: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Brückner" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-64509"></a>
 - t-003
   global_id: t-64509
   teiginys: 'Al. Brückner pagonių lietuvių kultūrą laikė gana žema.'
-  sudarymo_pagrindimas: 'Teiginys tinkamai perteikia citatoje nurodytą Brücknerio vertinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=21388869bfeb5d7826046011cebf907942ba7158d520711b264c6bbe3cf2e9a0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: A. Brückner: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Brückner" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -84,7 +59,6 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
     kokiais juos prieš pusę šimtmečio yra pristačiusi dalis senosios
     istorikų kartos (Al. Brückner, Fr. Papée).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,7 +76,6 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
     _Būdas senovės lietuvių Kalnėnų ir Žemaičių_ , red. J. Talmantas, Kaunas
     1935 (vokišką santrauką gerai paruošė V. Jungfer : _Alt-Litauen_ , 1926).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -117,7 +90,6 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
     laikė pagonių lietuvių kultūrą gana žema. Pati tauta tada buvusi
     gana neturtinga^3.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -26,20 +26,8 @@ Iš Rudaičių ir Veliuonos kapinynų duomenų pateikė M.
 - t-001
   global_id: t-32513
   teiginys: 'M. Michelbertas pateikė duomenų iš Rudaičių ir Veliuonos kapinynų.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Veliuona; mentioned_author: [[objektai/autoriai/M. Michelbertas|M. Michelbertas]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7c5c2eb463db4ad7d372d02b1ffb7c45b87561c75f47a14ffbc2f6904360b49e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Veliuona: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rudaičiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Veliuona: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rudaičiai" parinktas kaip owner_note_path. Targetas "Veliuona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/M. Michelbertas.md#claim-t-30843|M. Michelbertas]]: M. Michelbertas skelbė Rudaičių ir Veliuonos kapinynų duomenis ir rašė apie Romos monetų radinius Lietuvoje I-V a.
 - susijęs iš [[objektai/daiktai/Sidabro dirbiniai.md#claim-t-05235|Sidabro dirbiniai]]: L. Nakaitė rašė apie sidabro naudojimą II-XIII a. Lietuvoje, sidabrą kaip vertės matą, sidabro dirbinius ir auksakalystę iki XIII a.
 - susijęs iš Veliuona: M. Michelbertas pateikė duomenų iš Rudaičių ir Veliuonos kapinynų.
@@ -58,7 +46,6 @@ Iš Rudaičių ir Veliuonos kapinynų duomenų pateikė M.
     imperijos įtakos baltų genčių kultūrai klausimu_ (AkMD, t 18, 1965,
     47-64 p )^102. L. N a k a i t ė rašė apie sidabro naudojimą II-XIII a.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

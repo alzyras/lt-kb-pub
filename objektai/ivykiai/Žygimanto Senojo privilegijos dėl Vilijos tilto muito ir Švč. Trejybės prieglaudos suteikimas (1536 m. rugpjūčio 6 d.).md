@@ -45,121 +45,43 @@ Nenurodyta
 - t-001
   global_id: t-86879
   teiginys: 'Žygimantas Senasis paskyrė Joną Hozijų rinkti Vilijos tilto muitą po Ulriko Hozijaus ir pripažino jo pastangas taisant tiltą.'
-  sudarymo_pagrindimas: 'Citata remia Jono Hozijaus paskyrimą ir veiklą, o pradinis sakinys buvo ilgas ir triukšmingas.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Jonas Hozijus|Jonas Hozijus]]; mentioned_person: [[objektai/asmenys/Jonas Hozijus|Jonas Hozijus]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Vilija'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 742590-743945; hash=10929943c40fe82d8eeed3f48fc99c844ebb2a2e02f3044012a1e2b6919a8ce5; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Jonas Hozijus: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jonas Hozijus: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Žygimantas Senasis paskyrė Joną Hozijų.
 
 <a id="claim-t-86880"></a>
 - t-002
   global_id: t-86880
   teiginys: '1536 m. privilegija uždraudė statyti kitą tiltą per Viliją tarp Bistryčios ir Kernavės, kad nebūtų mažinamos Vilniaus tilto muito pajamos.'
-  sudarymo_pagrindimas: 'Citata aiškiai palaiko draudimą, bet pradinė formuluotė buvo nutrūkusi.'
-  susije_objektai: 'mentioned_place: Kernavė; mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Jonas Hozijus|Jonas Hozijus]]; mentioned_place: Nemenčinė'
-  temporaliniai_duomenys: 'įvykio data: 1536 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata aiškiai palaiko draudimą, bet pradinė formuluotė buvo nutrūkusi.'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 743787-745090; hash=b47f3b9061bbddd6c6b41d0924bd7a22b2d999eba41a8590065ae1617ed5d0ce; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kernavė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kernavė: mention_match, place, gap=70
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)" parinktas kaip owner_note_path. Targetas "Kernavė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-86881"></a>
 - t-003
   global_id: t-86881
   teiginys: 'Pastačius Švč. Trejybės prieglaudą, dalis Vilijos tilto mokesčio turėjo būti skiriama ligonių maistui, drabužiams, vaistams ir kitoms reikmėms.'
-  sudarymo_pagrindimas: 'Citata palaiko nuostatą, o pradinis sakinys buvo nutrūkęs.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_place: Vilija; mentioned_person: [[objektai/asmenys/Jonas Hozijus|Jonas Hozijus]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 744793-745738; hash=0cbb38218efa9cafc6f1a08736252a646076c611738d167a777993672eec6461; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Paneriai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Paneriai: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)" parinktas kaip owner_note_path. Targetas "Paneriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-86882"></a>
 - t-004
   global_id: t-86882
   teiginys: '1536 m. privilegija uždraudė naudoti plaustus per Viliją tarp Verkių ir Panerių, kad nebūtų pakenkta nustatytam tilto muitui.'
-  sudarymo_pagrindimas: 'Citata remia draudimą, o pradinis teiginys buvo OCR sugadintas ir neužbaigtas.'
-  susije_objektai: 'mentioned_place: Paneriai; mentioned_place: Verkiai; mentioned_place: Vilija; mentioned_place: Kernavė; mentioned_place: Nemenčinė; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1536 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata remia draudimą, o pradinis teiginys buvo OCR sugadintas ir neužbaigtas.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 747362-748337; hash=e5689e584e6cfbee9775fc74f64d28b62b0141af263a523e91f5ea0d0cd2e94e; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-86883"></a>
 - t-005
   global_id: t-86883
   teiginys: 'Žygimantas Senasis visiems laikams paskyrė Vilijos tilto mokestį Švč. Trejybės prieglaudai ir joje gyvenantiems vargšams.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko faktą, bet reikėjo sutrumpinti ir sutvarkyti kalbą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Vilija'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 748427-749520; hash=6841e62d4b397e6e2bbe841a80322d963b5ec8cce8b753488a2a6b9316ce33dc; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vaistinės prekės, vaistai ir gydomieji gėrimai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vaistinės prekės, vaistai ir gydomieji gėrimai: mention_match, thing, gap=105
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)" parinktas kaip owner_note_path. Targetas "Vaistinės prekės, vaistai ir gydomieji gėrimai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-86884"></a>
 - t-006
   global_id: t-86884
   teiginys: 'Jonas Hozijus ir jo įpėdiniai kasmet turėjo atsiskaityti Vilniaus vyskupui ir kapitulai už tilto bei prieglaudos pajamas ir išlaidas.'
-  sudarymo_pagrindimas: 'Citata remia ataskaitų prievolę, bet pradinė formuluotė buvo sugadinta ir nutrūkusi.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Jonas Hozijus|Jonas Hozijus]]'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9321ef444ad34ef33e60aa76aed1474eee8850393425bad56f0c5a0b99937db6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -186,7 +108,6 @@ Nenurodyta
     laikyti šv. Mišias, klausyti išpažinčių ir dalinti švenčiausiąją
     Viešpaties Kūno komuniją prieglaudos gyventojams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -225,7 +146,6 @@ Nenurodyta
     šioms pareigoms išrinks ir paskirs, turės galią tą muitą, arba
     mokestį, rinkti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -258,7 +178,6 @@ Nenurodyta
     statyta ir įrengta, kad joje galėtų vargšai ir ligoniai žmonės,
     priimti ir apgyvendinti, patogiai gyventi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -286,7 +205,6 @@ Nenurodyta
     kestį, skirtą jam taisyti bei neturtingų ligotų žmonių naudai
     jau seniai mintyse paskyrėme.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -314,7 +232,6 @@ Nenurodyta
     niaus miesto knygos, vykstant ribų komisijos teismams tarp
     jo did. pono Goreckio, Lydos pav. iždininko, ir garb.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -351,7 +268,6 @@ Nenurodyta
     dvaro iki minėto mūsų Kernavės miestelio, pagal mūsų nuo­
     žiūrą atimant turtą ir kitas bausmes skiriant.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

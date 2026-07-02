@@ -20,21 +20,8 @@ tags:
 - t-001
   global_id: t-32644
   teiginys: 'Lietuva Žemaičiuose apėmė Ventos ir Minijos aukštupius.'
-  sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie Ventos aukštupius ir remiasi citata.'
-  susije_objektai: 'mentioned_place: Minija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dubysa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Šušvė; llm_object: Lietuva'
-  semantiniai_rysiai: 'Venta priklausė Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4caca716d31847c7b0b704169043d0f97b19d906453811eb47333f68bb4affef; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuva: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Dubysa: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Dubysos baseinas nurodytas Lietuvos apimto ploto dalyje.
 - susijęs iš [[objektai/autoriai/J. Venta.md#claim-t-62620|J. Venta]]: J. Venta iškėlė mintį, kad išlikusi Dusburgiečio kronika yra 1326 m. redakcija arba jos cenzūruotas antrininkas.
 - susijęs iš [[objektai/autoriai/J. Venta.md#claim-t-62621|J. Venta]]: J. Venta parašė darbą „Kronika“.
 - susijęs iš [[objektai/autoriai/J. Venta.md#claim-t-62622|J. Venta]]: J. Venta 1980 m. paskelbė darbą apie Petro Dusburgiečio kroniką ir Oliavos kronikoje pateiktą Vokiečių ordino istoriją.
@@ -64,7 +51,6 @@ tags:
     Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.
     Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

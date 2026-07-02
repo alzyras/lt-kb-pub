@@ -26,27 +26,8 @@ periodo_grupes:
 - t-001
   global_id: t-186207
   teiginys: '1385 m. Jogailos pasiuntinybėje į Lenkiją Hanulas dalyvavo kaip Vilniaus seniūnas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie Hanulą, bet pradinis teiginys užterštas puslapio antrašte ir OCR triukšmu.'
-  susije_objektai: 'mentioned_place: Vilnius; llm_object: Lenkija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Pomeranija; mentioned_place: Prūsija; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Hanulas|Hanulas]] keliavo į Lenkija; [[objektai/asmenys/Hanulas|Hanulas]] valdė miestą Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1385 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Hanulą, bet pradinis teiginys užterštas puslapio antrašte ir OCR triukšmu.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 487175-488296; hash=0823507a4bf9c3a7c862f4fcaca2b911df84e3062a934b4c60805c54c84696ed; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lenkija: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Hanulas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Hanulas įvardytas tarp pasiuntinybės narių, siunčiamų į Lenkiją.
 - susijęs iš [[objektai/asmenys/Hanulas, arba Hanka.md#claim-t-87511|Hanulas, arba Hanka]]: Hanulas autentiškame 1385 m. Vladislovo Jogailos laiške vadinamas Hanka, Vilniaus seniūnu.
 - susijęs iš [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.).md#claim-t-35898|Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]: 1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių, šalininkų remiamas jį paėmė, o Rygos pirklys Hanulo įteikė jam pilies raktus.
 - susijęs iš Vytauto byla su Jogaila Karaliaučiaus Slaptajame archyve: Vytauto byloje su Jogaila Hanulas tapatinamas su Hanka, paminėtu autentiškame Vladislovo Jogailos laiške.
@@ -107,7 +88,6 @@ periodo_grupes:
     sokiomis priemonėmis atgauti Sileziją, Pomeraniją bei
     Prūsiją.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

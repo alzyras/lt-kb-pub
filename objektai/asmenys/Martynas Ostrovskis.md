@@ -31,21 +31,8 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
 - t-001
   global_id: t-87773
   teiginys: 'Martynas Ostrovskis buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių ir papuošusių miestą savo kūriniais.'
-  sudarymo_pagrindimas: 'Citata palaiko Ostrovskio kaip pakviesto tapytojo vaidmenį, bet įvestis sulieta su kita pastaba.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Skyrai|Skyrai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_person: [[objektai/asmenys/Jonas Marija|Jonas Marija]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Stanislovas Ratka|Stanislovas Ratka]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Inovroclavas; mentioned_place: Italija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilija; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Martynas Ostrovskis|Martynas Ostrovskis]] keliavo į Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 552852-554562; hash=e0be0bd4534a7a82f182d74135a7437b80e878b1defc925932e04adc73545007; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Martynas Ostrovskis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys nurodo, kad Martynas Ostrovskis buvo pakviestas į Vilnių ir ten veikė.
 
 ## Reikšmingi paminėjimai
 
@@ -105,7 +92,6 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
     de Senis iš Italijos - papuošė Vilnių nuostabaus darbo savo
     meno kūriniais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

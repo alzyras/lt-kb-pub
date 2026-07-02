@@ -41,9 +41,6 @@ Nenurodyta
 - t-001
   global_id: t-62718
   teiginys: '214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Prūsų žemė'
   pagrindžia:
     - c-002
 
@@ -60,11 +57,10 @@ Nenurodyta
     tesėti susitarimą. Iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti
     pirties tiesiog kęste nekenčia.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-002
+
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-002
   santrauka: '214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -72,7 +68,6 @@ Nenurodyta
     skaičiavimą,  buitį, krikščionišką tendenciją vaizduoti pagonis — Okulicz-Kozaryn L.
     Życie..., p. 116 ir kt. Apie baltų kultūrą — Gimbutienė M. Baltai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

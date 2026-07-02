@@ -36,26 +36,8 @@ Nenurodyta
 - t-001
   global_id: t-185833
   teiginys: '1390 m. pradžioje Vytauto Palenkėje palikti daliniai staigiai nusiaubė Lietuvos ir Lenkijos žemes.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinė formuluotė su OCR triukšmu; citata pagrindžia aiškų faktą.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Palenkė; mentioned_place: Prūsija'
-  temporaliniai_duomenys: 'įvykio data: 1390 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė su OCR triukšmu; citata pagrindžia aiškų faktą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 541664-542308; hash=b92c9fb09950b5e061eafc4071ea1c75b8ae9f70fc20f59a44a7c653b58689f1; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto šalininkų niokojamasis žygis Lietuvoje (1390 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto šalininkų niokojamasis žygis Lietuvoje (1390 m.)" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -86,10 +68,8 @@ Nenurodyta
     pradžią ir staigiai nusiaubė kraštą. Niokojo ne tik Lie­
     tuvai, bet ir Lenkijai priklausančias žemes.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

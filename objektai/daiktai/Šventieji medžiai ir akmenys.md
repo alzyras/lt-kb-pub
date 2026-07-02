@@ -46,23 +46,8 @@ Nenurodyta
 - t-001
   global_id: t-19618
   teiginys: 'Lietuvoje daug vietovių, kalnų, miškų, medžių ir akmenų turi Perkūno vardą.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata apie Perkūno vardą turinčius objektus Lietuvoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1252 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir paremtas citata apie Perkūno vardą turinčius objektus Lietuvoje.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 35334-35743; hash=8536cf4397dc9d364210bfc578ddc810eae5ed3ea9f43c2fa69d9a65b60bd952; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventieji medžiai ir akmenys: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventieji medžiai ir akmenys" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -77,11 +62,9 @@ Nenurodyta
     miškų, medžių, akmenų, kurie turi Perkūno vardą. Pasitaiko objektų su
     Dievo vardu, pavyzdžiui, Dievo Stalo akmuo ar Dievo Krėslo kalnas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
     - t-001

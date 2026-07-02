@@ -27,7 +27,6 @@ Vartojamos formos: `batvinių`, `batvinėliai`.
 - t-001
   global_id: t-69980
   teiginys: '`Batviniai` šiame tekste yra mėgstamas senovės lietuvių valgis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
 
@@ -38,7 +37,6 @@ Vartojamos formos: `batvinių`, `batvinėliai`.
   citata_originali: |
     šiandien dar lenkai tyčiodamies sako: „Licwiaki bocwiaki“ – lietuvėliai batvinėliai – iš apmaudo, jog niekados negalėjo jų nuveikti; kartais, ir užmušę lietuvį, nieko pas jį nerado, kaip batvinių maišelį, bet, ir tą patį lig jam atimant, reikėjo pirma dvi tris žmogaus galvas padėti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -30,60 +30,22 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
 - t-001
   global_id: t-60022
   teiginys: 'Helvigas iš Goldbacho su Henriku iš Šenenbergo ir keliais ginklanešiais sučiupo Herkų Mantą, jį pakorė ir pervėrė kalaviju.'
-  sudarymo_pagrindimas: 'Pradinis teiginys klaidingai siejo palapinėje sėdėjusį asmenį su Helvigu; citata remia pataisytą versiją.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; llm_object: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Kristburgas'
-  semantiniai_rysiai: '[[objektai/asmenys/Helvigas iš Goldbacho|Helvigas iš Goldbacho]] puolė [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4ace6ce01c4ceb6d91d8d5cb3a2fc4c0ad4e4837252bab4daaa405ccc400d55e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Herkus Mantas: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Helvigas iš Goldbacho: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Helvigas įvardytas tarp veikėjų, kurie sučiupo ir nužudė Herkų Mantą.
 
 <a id="claim-t-60023"></a>
 - t-002
   global_id: t-60023
   teiginys: 'Helvigas iš Goldbacho iš Tiuringijos buvo penkioliktas Prūsijos žemės magistras ir vadovavo vienus metus.'
-  sudarymo_pagrindimas: 'Teiginys gramatiškas, aiškus ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 502590-503001; hash=03816db423a6b5688f0dd07ac55feb4067fe863a316779c57b4e4f13ae948112; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Helvigas iš Goldbacho: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Helvigas iš Goldbacho: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad pagudėnai ginkluoti užpuolė Helvigą iš Goldbacho.
 
 <a id="claim-t-60024"></a>
 - t-003
   global_id: t-60024
   teiginys: 'Pagudėnai ginkluoti užpuolė Kristburgo komtūrą Helvigą iš Goldbacho, Elbingo komtūrą ir jų padėjėjus bei išsivarė juos į nelaisvę.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Helvigą iš Goldbacho ir paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Helvigas iš Goldbacho|Helvigas iš Goldbacho]]; mentioned_place: Elbingas; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_place: Kristburgas; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] puolė [[objektai/asmenys/Helvigas iš Goldbacho|Helvigas iš Goldbacho]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=136fb5c431b1590ef01d268a109815dfd7a06649af570500719f9a2b90abbba7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Helvigas iš Goldbacho: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Helvigas iš Goldbacho" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Henrikas iš Šenenbergo.md#claim-t-60317|Henrikas iš Šenenbergo]]: Henrikas iš Šenenbergo, Kristburgo komtūras, su Helvigu iš Goldbacho užtiko Herkų Mantą ir jį nužudė.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175189|Herkus Mantas]]: Herkų Mantą dykrose užtiko Henrikas iš Šenenbergo ir Helvigas iš Goldbacho; jie jį pakorė prie medžio ir pervėrė kalaviju.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175193|Herkus Mantas]]: Herkus Mantas, likęs vienas palapinėje, buvo Kristburgo komtūro Henriko iš Šenenbergo ir Helvigo iš Goldbacho pakartas ir pervertas kalaviju.
@@ -110,7 +72,6 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
 
          136 (131).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -126,7 +87,6 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
     Jų kunigą kapelioną jie pakorė už kaklo po medžiu, dar vieną jų tarną nužudė, o kita
     šeimynos dalis, pasileidusi bėgti, šiaip ne taip paspruko.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -146,7 +106,6 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
 
                    275 (268).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

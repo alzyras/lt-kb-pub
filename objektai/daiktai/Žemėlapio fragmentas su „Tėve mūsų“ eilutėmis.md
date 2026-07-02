@@ -49,12 +49,6 @@ Nenurodyta
 - t-001
   global_id: t-75350
   teiginys: '1741 m. Niurnberge išleistame žemėlapio fragmente pateiktos pirmosios „Tėve mūsų“ eilutės Europos kalbomis ir lietuviškai.'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi puslapio triukšmo, o citata palaiko sutvarkytą faktą apie objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Niurnbergas; llm_object: Niurnbergas'
-  semantiniai_rysiai: '[[objektai/daiktai/Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis|Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis]] priklausė Niurnbergas'
-  temporaliniai_duomenys: 'įvykio data: 1741 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi puslapio triukšmo, o citata palaiko sutvarkytą faktą apie objektą.'
   pagrindžia:
     - c-001
 
@@ -72,7 +66,6 @@ Nenurodyta
     Europos kalbomis ir lietuvių kalba (pažymėta raudona linija).
     Niurnbergas, 1741 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

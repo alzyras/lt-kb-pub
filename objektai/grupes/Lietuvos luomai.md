@@ -18,56 +18,20 @@ Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimu
 - t-001
   global_id: t-185432
   teiginys: 'Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimus, taip patvirtindami senąją sąjungą su lenkais.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata leidžia teiginį formuluoti apie Lietuvos luomų atliktą veiksmą ir rezultatą.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_place: Lietuva; mentioned_place: Piotrkovas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuvos luomai|Lietuvos luomai]] buvo sąjungininkas su [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 983748-984189; hash=96115e8da088466dee7a4b5bdbfbada6d6f55c05f2c7f5c2af7781687c01229a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Lenkai: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuvos luomai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad Lietuvos luomai patvirtino senąją sąjungą su lenkais.
 
 <a id="claim-t-185433"></a>
 - t-002
   global_id: t-185433
   teiginys: 'Lietuvos luomų vardu į Piotrkovo seimą balsuoti buvo pasiųsti Vaitiekus Taboras, Jonas Zaberezinskis ir Mikalojus Radvila.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai nusako Lietuvos luomų atstovavimą Piotrkovo seime.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jonas Zaberezinskis|Jonas Zaberezinskis]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Zaberezinskis|Zaberezinskis]]; mentioned_place: Lietuva; mentioned_place: Piotrkovas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_object: [[objektai/zodynas/Pataurininkis|Pataurininkis]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Palenkė'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1005052-1006214; hash=1e403642af14edef3c7ec9b1213cdd73141412c9ff25ea110ad9e23a7e426f79; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jonas Zaberezinskis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos luomai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jonas Zaberezinskis: mention_match, person, gap=81
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos luomai" parinktas kaip owner_note_path. Targetas "Jonas Zaberezinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185435"></a>
 - t-003
   global_id: t-185435
   teiginys: 'Dažni skitų žygiai į Lietuvos gilumą paskatino Lietuvos luomus geriau sutvirtinti Vilnių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Lietuvos luomus ir remiasi citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Minskas'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/ivykiai/Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.).md#claim-t-185653|Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.)]]: 1461 m. Vilniaus seime Lietuvos luomai pareiškė, kad visuomenė gali būti rami tik karaliui asmeniškai valdant Lietuvą.
@@ -94,7 +58,6 @@ Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimu
     tybės archyvui, šitaip buvo patvirtinta senoji sąjunga
     su lenkais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -136,7 +99,6 @@ Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimu
     jeigu paskelbs Aleksandrą karaliumi, o sunaikintas,
     jeigu jį aplenks.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -166,7 +128,6 @@ Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimu
     ir Aukštutinės, ir Žemutinės
     pilies sienas, visai nuo senumo beirsiančias.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

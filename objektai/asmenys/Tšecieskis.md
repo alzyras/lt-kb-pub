@@ -22,20 +22,8 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
 - t-001
   global_id: t-87871
   teiginys: 'Tšecieskis buvo vienas iš talentingų reformatų, kuriems nepavyko sutelkti pakankamai stiprių pajėgų kovai su jėzuitais.'
-  sudarymo_pagrindimas: 'Citata remia Tšecieskio vaidmenį reformacijos šalininkų kontekste, bet pradinis tekstas per ilgas ir triukšmingas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Alanta; mentioned_place: Lietuva; mentioned_place: Varšuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8f714ab12443c64b968dc8e222eae648c714cf3e1d21500e15479afd689f71e8; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alanta: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tšecieskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Alanta: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tšecieskis" parinktas kaip owner_note_path. Targetas "Alanta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172115|Jėzuitų ordinas]]: Disidentai negalėjo sutelkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo tvirtai susieti savo brolijos regulų.
 - susijęs iš [[objektai/grupes/Vilniaus reformatai ir disidentai.md#claim-t-86749|Vilniaus reformatai ir disidentai]]: Vilniaus disidentai nepajėgė sutelkti tokių stiprių pajėgų kovai su jėzuitais, kokias turėjo šis ordinas.
 - susijęs iš [[objektai/posakiai/Vilnius tapo žodžio ir rašto rungtynių lauku.md#claim-t-54498|Vilnius tapo žodžio ir rašto rungtynių lauku]]: Stepono Batoro laikais jėzuitų ir protestantų polemika pavertė Vilnių žodžio ir rašto rungtynių lauku.
@@ -62,7 +50,6 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
     veikti sumaniau ir įtaigiau, daugiau iš įvairių kraštų tam
     tikslui surinktų žmonių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

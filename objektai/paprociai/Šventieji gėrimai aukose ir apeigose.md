@@ -36,16 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 535167-535545; hash=bae256e2fb20ab8d01bc65bb9f304e18b268481de4bb55f649ac4e3a1010dbe0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alus: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventieji gėrimai aukose ir apeigose: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Alus: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventieji gėrimai aukose ir apeigose" parinktas kaip owner_note_path. Targetas "Alus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -65,9 +55,7 @@ Nenurodyta
     sias aukas arba vaišes. Todėl reikia panagrinėti jo mitologinę
     kilme.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

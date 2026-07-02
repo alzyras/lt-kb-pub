@@ -30,21 +30,8 @@ periodo_grupes:
 - t-001
   global_id: t-40326
   teiginys: '1279 m. pradžioje Mamšėjus vadovavo Nogajaus pasiųstai kariuomenei prieš Traidenio Lietuvą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Nogajus|Nogajus]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Gardinas; llm_object: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1278-1279; įvykio data: 1279 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=04c56dd8cefdfa3d7a9a7edbef69a77b9ab4ea4e90c42feb98d4b94c1f46562d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Lietuva: 0.73
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Nogajus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad Nogajus pasiuntė kariuomenę prieš Traidenio Lietuvą.
 - susijęs iš [[objektai/asmenys/Nogajus (Aukso ordos valdytojas).md#claim-t-40377|Nogajus (Aukso ordos valdytojas)]]: Aukso ordos valdytojas Nogajus pasiuntė Mamšėjaus vadovaujamą kariuomenę prieš Traidenio Lietuvą.
 ## Reikšmingi paminėjimai
 
@@ -61,7 +48,6 @@ periodo_grupes:
     Totorių kariuomenei artėjant prie Naugarduko, Haličo-Voluinės
     kunigaikščiai nuo Bresto patraukė Gardino link.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

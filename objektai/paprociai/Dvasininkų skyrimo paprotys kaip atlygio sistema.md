@@ -46,9 +46,6 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 699950-700415; hash=f0650cfe76acdf5d593d7b30566e8bf17aa714a2d676536e156fb93f57e912ee; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-67073"></a>
 - t-002
   global_id: t-67073
@@ -57,9 +54,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=295662b004314d2a1487fc6d80229ba0c2e21a5b38968f002da306489cab6001; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -77,13 +71,10 @@ Nenurodyta
     įkurtos didžiojo kunigaikščio, tai ir daugumą klebonų skyrė
     didysis kunigaikštis.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-002
+    - t-002- c-002
   santrauka: 'Valdovai ir ponai dalijo bažnytines vietas, todėl dvasininkais dažnai tapdavo žmonės, siekę jų pelningumo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -97,9 +88,7 @@ Nenurodyta
     vertybe, nes daugumas iš jų tapdavo dvasininkais tik dėl
     pelningumo.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

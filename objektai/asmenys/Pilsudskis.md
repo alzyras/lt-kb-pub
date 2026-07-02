@@ -21,8 +21,6 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
 - t-001
   global_id: t-64036
   teiginys: 'Ženevoje Pilsudskis pareiškė, kad Lenkija pripažins ir gerbs Lietuvos nepriklausomybę bei teritorijos integralumą.'
-  sudarymo_pagrindimas: 'Ilgas sakinys sutrumpintas, paliekant Pilsudskiui tiesiogiai priskirtą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Ženeva'
   pagrindžia:
     - c-002
 
@@ -30,8 +28,6 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
 - t-002
   global_id: t-64037
   teiginys: 'Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusios Respublikos tautų federaciją.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai ir tiksliai perteikia citatoje aprašytą Pilsudskio legionierių idėją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75772|Augustinas Voldemaras]]: 1927 m. gruodžio 10 d. Ženevoje Augustinas Voldemaras atsakė Juzefui Pilsudskiui, kad karo padėties tarp Lietuvos ir Lenkijos nėra.
@@ -81,7 +77,6 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
     vandenį. Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir
     kitų buvusių Žečpospolitos (respublikos) tautų federaciją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -101,7 +96,6 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
     gralumą, ir pasiūlė vėl tiesiogines derybas geriems santykiams
     užmegzti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

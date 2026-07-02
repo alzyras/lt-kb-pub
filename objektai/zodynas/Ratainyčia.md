@@ -21,16 +21,6 @@ Narbutas Ratainyčią (Ratajniczu), remdamasis Lasickio tyrimais, priskiria prie
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 253582-253867; hash=66c62f6950e66a0d74c5ab7211a985f14ec8512bde10e7e49967b4632b6fa215; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lasickis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ratainyčia: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lasickis: mention_match, author, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ratainyčia" parinktas kaip owner_note_path. Targetas "Lasickis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188558|Janas Lasickis]]: Narbutas cituoja Lasickio posakį „Kur tikėjimas, ten ir rezultatas“ prie Ratainyčios aprašymo.
 ## Reikšmingi paminėjimai
 - c-001
@@ -44,9 +34,7 @@ Narbutas Ratainyčią (Ratajniczu), remdamasis Lasickio tyrimais, priskiria prie
     Dėl panašių pareigų ir kalbinės reikšmės Ratainyčią priskiria­
     me prie deivių.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

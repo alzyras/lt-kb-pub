@@ -31,11 +31,6 @@ Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo lygiu pra
 - t-001
   global_id: t-173195
   teiginys: '1585 m. Varšuvos seime išduotą privilegiją pasirašė Lietuvos Didžiosios Kunigaikštystės pakancleris Leonas Sapiega.'
-  sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]; mentioned_place: Lietuva; mentioned_place: Varšuva'
-  temporaliniai_duomenys: 'įvykio data: 1585 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/paprociai/Civilinės teisės dėstymo fundavimas ir pasauliečių profesorių išlaikymas Vilniaus akademijoje.md#claim-t-185867|Civilinės teisės dėstymo fundavimas ir pasauliečių profesorių išlaikymas Vilniaus akademijoje]]: Kazimieras Leonas Sapiega Vilniaus akademijoje įvedė teisės dėstymą ir skyrė lėšų dviem kanoninės bei dviem civilinės teisės katedroms.
@@ -55,7 +50,6 @@ Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo lygiu pra
     Leonas Sapiega, Lietuvos Didžiosios
     Kunigaikštystės pakancleris.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

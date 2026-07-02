@@ -30,11 +30,6 @@ Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministra
 - t-001
   global_id: t-64039
   teiginys: 'Polis Himansas per tris savaites parengė Lietuvos federacinės valstybės iš Kauno ir Vilniaus kantonų projektą pagal Šveicarijos pavyzdį.'
-  sudarymo_pagrindimas: 'Verta išplėsti pavardę į pilną asmens vardą ir pašalinti fragmentiškumą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilniaus regionas; mentioned_place: Vilnius; mentioned_place: Šveicarija; mentioned_place: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1921 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Verta išplėsti pavardę į pilną asmens vardą ir pašalinti fragmentiškumą.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-169967|Ernestas Galvanauskas]]: Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgaliojimus patenkinti Lenkijos ekonominius interesus, garantuoti lenkams priėjimą prie Baltijos jūros, sudaryti konvencijas, įskaitant gynybinę, kad tik pavyktų susigrąžinti Vilnių.
@@ -55,7 +50,6 @@ Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministra
     naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonomi-
     nio rajono statusą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

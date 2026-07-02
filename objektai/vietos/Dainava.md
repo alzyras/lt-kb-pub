@@ -28,20 +28,8 @@ Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo a
 - t-001
   global_id: t-32102
   teiginys: 'Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo autentiškumo nėra keliama abejonių, yra minima Dainava (Denowe, Deynowe, Dainowe).'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Dainavos paminėjimą dokumentuose.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6a3ec3c29fbe442c97b37907f58bb6a3e5edca3aadc55e7ed7cae0b7b71cf98c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mindaugas (valdovas, XIII a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dainava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): mention_match, person, gap=114
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dainava" parinktas kaip owner_note_path. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Ochmański J.md#claim-t-60619|Ochmański J]]: J. Ochmańskis nurodomas prie duomenų apie Dainavos gyvenvietes XIII a. etninio lietuvių ploto rytiniame pakraštyje.
 - susijęs iš [[objektai/daiktai/Dainavos apygardos kovotojų rankovės antsiuvas.md#claim-t-40702|Dainavos apygardos kovotojų rankovės antsiuvas]]: Dainavos apygardos kovotojų rankovės antsiuvas buvo naudotas 1945–1949 m.
 - susijęs iš [[objektai/grupes/Dainavos apygarda.md#claim-t-80653|Dainavos apygarda]]: Adolfas Ramanauskas-Vanagas vėliau tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
@@ -78,7 +66,6 @@ Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo a
     Jotvingiais (« Denowe totą, quam etiam quidam Jetwesen vocant »,
     PUB, I, 2 nr. 79).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

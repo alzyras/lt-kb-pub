@@ -29,24 +29,8 @@ periodo_grupes:
 - t-001
   global_id: t-34713
   teiginys: 'Chudandacho vadovauti Užvolgio totoriai 1424 m. užpuolė Riazanės ir Odojevo kunigaikščius, bet buvo sumušti Vytauto kariuomenės.'
-  sudarymo_pagrindimas: 'Teiginys palaikomas citata, tačiau reikia išvalyti OCR triukšmą ir sutrumpinti.'
-  susije_objektai: 'llm_object: Odojevas; llm_object: Riazanė; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Užvolgio totoriai|Užvolgio totoriai]]; mentioned_place: Odojevas; mentioned_place: Riazanė; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_place: Luckas; mentioned_place: Pskovas; mentioned_place: Smolenskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Chudandachas|Chudandachas]] puolė Riazanė; [[objektai/asmenys/Chudandachas|Chudandachas]] puolė Odojevas'
-  temporaliniai_duomenys: 'įvykio data: 1424 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys palaikomas citata, tačiau reikia išvalyti OCR triukšmą ir sutrumpinti.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 357393-357850; hash=05c66765dd9278a2c1846cdafbcedf1b72f3b8ea79f61c0905b767729ac28d2c; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Odojevas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Chudandachas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Odojevas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Chudandacho vedami totoriai užpuolė Odojevo kunigaikščius.
 - susijęs iš [[objektai/grupes/Užvolgio totoriai.md#claim-t-34369|Užvolgio totoriai]]: 1424 m. Vytauto pasiųsta kariuomenė smarkiai sumušė Užvolgio totorius, vadovaujamus chano Chudandacho.
 ## Reikšmingi paminėjimai
 
@@ -63,7 +47,6 @@ periodo_grupes:
     per savo pasiuntinius teikė jam dovanų Smolenske ir Lucko su­
     važiavime1 2).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

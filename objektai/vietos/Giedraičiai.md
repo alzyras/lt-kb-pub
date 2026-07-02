@@ -31,31 +31,13 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
 - t-001
   global_id: t-177099
   teiginys: '1920 m. lapkritį Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatoje nurodytą faktą apie Giedraičius.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Tautų Sąjunga|Tautų Sąjunga]]; mentioned_group: [[objektai/grupes/Želigovskininkai|Želigovskininkai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1920 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir atitinka citatoje nurodytą faktą apie Giedraičius.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=187a65544a50a53d2e0f784d91cd7004b6ff24051ad13863604ec1c6c665df78; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Lenkai: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Mūšiuose Lietuvos kariuomenė veikė prieš lenkų dalinius.
 
 <a id="claim-t-177101"></a>
 - t-002
   global_id: t-177101
   teiginys: 'Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.'
-  sudarymo_pagrindimas: 'Teiginys pilnai nusako lenkų veiksmą ir užimtas vietoves.'
-  susije_objektai: 'llm_object: Giedraičiai; llm_object: Vidiškis; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vidiškis; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] užėmė Giedraičiai'
   pagrindžia:
     - c-003
 
@@ -63,41 +45,15 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
 - t-003
   global_id: t-177102
   teiginys: 'Viena svarbiausių lenkų puolimo krypčių buvo Ukmergės link pro Giedraičius su galutiniu tikslu pulti Kauną iš šiaurės rytų.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_group: [[objektai/grupes/Želigovskininkai|Želigovskininkai]]; mentioned_place: Lietuva; mentioned_place: Ukmergė; mentioned_place: Viena; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1920 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=187a65544a50a53d2e0f784d91cd7004b6ff24051ad13863604ec1c6c665df78; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Lenkai: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Mūšiuose Lietuvos kariuomenė veikė prieš lenkų dalinius.
 
 <a id="claim-t-177104"></a>
 - t-005
   global_id: t-177104
   teiginys: 'Adamkavičiaus vadovaujama 1-oji divizija spalio 29-31 d. sėkmingai kontraatakavo ir išvadavo Giedraičius.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=612de018014c6b1fed8936e1ab33e9c317a9cb35e911388938cff63ace536342; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Vilnius: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Želigovskininkai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad želigovskininkai užėmė Vilnių.
 - susijęs iš [[objektai/grupes/9-asis pėstininkų pulkas.md#claim-t-40831|9-asis pėstininkų pulkas]]: Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pulkų pradėjo kontrpuolimą ir po permainingų ir nemažai nuostolių pareikalavusių kovų atsiėmė po paskutinio lenkų puolimo prarastas Lietuvos žemes.
 - susijęs iš [[objektai/daiktai/Artilerija.md#claim-t-187516|Artilerija]]: Lietuvių artilerija 1920 m. kovose prie Giedraičių veikė prieš lenkų dalinius.
 - susijęs iš [[objektai/grupes/J. Baranovskio brigada.md#claim-t-40892|J. Baranovskio brigada]]: Lapkričio 17 d. gen. J. Baranovskio brigada atakavo 2-ojo pėstininkų pulko pozicijas ir privertė lietuvius pasitraukti iš Giedraičių.
@@ -148,7 +104,6 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
     atsilaikyti prieš gausių lenkų pajėgų puo-
     lima.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -171,7 +126,6 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
     tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos
     vadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -191,7 +145,6 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
     limo tikslą, Lietuvai būtų iškilęs pavojus
     prarasti nepriklausomybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -215,7 +168,6 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
     Musninkų-Širvintų- Giedraičių
     Dubingių-Švenčionėlių linijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

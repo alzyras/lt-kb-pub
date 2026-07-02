@@ -26,43 +26,15 @@ Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu. Prie Putnos Stepo
 - t-001
   global_id: t-187303
   teiginys: 'Prie Putnos Steponas apsistojo su visa kariuomene kaip tvirtovėje.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra gramatinis, aiškus ir paremtas citata.'
-  susije_objektai: 'llm_object: Putna; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Moldavija; mentioned_place: Trakai'
-  semantiniai_rysiai: '[[objektai/asmenys/Steponas|Steponas]] gyveno Putna'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=19ea5cf1ecfb0edf75e5b083ffcd46c686dc4b7a7fae5b4268831ca78d859193; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: gyveno -> Putna: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Steponas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Putna: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Steponas apsistojo Putnos vienuolyne.
 
 <a id="claim-t-187304"></a>
 - t-002
   global_id: t-187304
   teiginys: 'Putna buvo kalnuose esantis Stepono mėgstamas vienuolynas, kuriame jis apsistojo su visa kariuomene.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Sakinys papildytas aiškiu predikatu ir sujungtas su vietovės funkcija pasakojime.'
-  susije_objektai: 'llm_object: Putna; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Moldavija; mentioned_place: Trakai'
-  semantiniai_rysiai: '[[objektai/asmenys/Steponas|Steponas]] gyveno Putna'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=19ea5cf1ecfb0edf75e5b083ffcd46c686dc4b7a7fae5b4268831ca78d859193; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: gyveno -> Putna: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Steponas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Putna: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginyje tiesiogiai nurodyta, kad Steponas apsistojo prie Putnos.
 
 ## Reikšmingi paminėjimai
 
@@ -86,7 +58,6 @@ Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu. Prie Putnos Stepo
     lamas vienuolynas, vadinamas Putnu 2 S , ir ten apsistojo
     su visa savo kariuomene kaip didelėje tvirtovėje2 9 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

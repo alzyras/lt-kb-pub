@@ -30,11 +30,6 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
 - t-001
   global_id: t-181533
   teiginys: '1700 m. lapkričio 19–24 d. Valkininkuose vykęs respublikonų bajorijos suvažiavimas priėmė Valkininkų nutarimą ir įkūrė LDK bajorijos generalinę konfederaciją.'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilnesnį faktą apie Valkininkuose priimtą nutarimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įkūrimo data: 1700 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti pilnesnį faktą apie Valkininkuose priimtą nutarimą.'
   pagrindžia:
     - c-001
 
@@ -42,8 +37,6 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
 - t-002
   global_id: t-181535
   teiginys: 'Nugalėtojai su belaisviais, 8 patrankomis ir apie šimtu gurguolės vežimų vakare grįžo į Valkininkus.'
-  sudarymo_pagrindimas: 'Pašalintas antraštės triukšmas ir sutvarkyta sakinio forma.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/grupes/Valkininkų konfederacija.md#claim-t-78531|Valkininkų konfederacija]]: Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji LDK valdžios organai ir nuspręsta konfiskuoti Sapiegų dvarus.
@@ -87,7 +80,6 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
     iš Sapiegų jų turėtas pareigybes, o dvarus
     konfiskuoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -113,7 +105,6 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
 
     judėdavo į priekį kartu su pėstininkais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -26,23 +26,8 @@ Dusburgietis teigia, kad kuzavinis К.
 - t-001
   global_id: t-61114
   teiginys: 'K. Kuzavinio „Etymologica“ paskelbta 1966 m. žurnalo „Baltistica“ 1 tomo 2 numeryje, p. 177–184.'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną bibliografinį faktą apie šaltinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
-  temporaliniai_duomenys: 'įvykio data: 1966 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti pilną bibliografinį faktą apie šaltinį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 780721-780783; hash=0ad8e9c8c6446da207661ca810297ce69b8e50da21e6180836b2cec224c8df0e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kuzavinis К. Etymologica: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuzavinis К. Etymologica" parinktas kaip owner_note_path. Targetas "Tomas (Hertvigo iš Pokarvių sūnus)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -52,7 +37,6 @@ Dusburgietis teigia, kad kuzavinis К.
   citata_originali: |
     Kuzavinis К. Etymologica.— Baltistica, 1966, 1(2), p. 177 184.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

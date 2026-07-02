@@ -21,16 +21,6 @@ Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskr
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 386013-386512; hash=bca6769b7501c172af572572902060d100fa847b9846f1ca3514e41c93193dc0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Volkovysko apskritis: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Budinai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Volkovysko apskritis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sieja budinus su apsigyvenimu dabartinėje Volkovysko apskrityje.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -47,10 +37,8 @@ Narbutas teigė, kad gelonai ir budinai apsigyveno dabartinėje Volkovysko apskr
     kančią per jų sodybų vidurį, jie pavadino Rose (Ross). Si ket­
     virta šventoji upė iki šiol išlaikė nepakitusį savo vardą.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

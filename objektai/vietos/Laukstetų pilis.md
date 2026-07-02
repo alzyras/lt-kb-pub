@@ -23,20 +23,8 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 - t-001
   global_id: t-58765
   teiginys: 'Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą ties vieta, kur Dusburgiečio laikais stovėjo Laukstetų pilis.'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo per ilgas ir nutrūkęs.'
-  susije_objektai: 'llm_object: Semba; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Henrikas Stange|Henrikas Stange]]; mentioned_place: Girmava; mentioned_place: Kristburgas; mentioned_place: Semba'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3b9756bfa006fdc779ceb6d68658d38bb0e9cea81131876b15f5d7a20c00bdb2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Semba: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas Stange: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Henrikas Stange tiesiogiai minimas kaip su kariuomene patraukęs į karą prieš Sembą.
 - susijęs iš Lochštetė: Lochštetės pilis stovėjo Sembos pietvakarių kyšulyje.
 ## Reikšmingi paminėjimai
 
@@ -53,7 +41,6 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     komtūras nelyginant bebaimis liūtas pastojo jiems kelią ir, norėdamas juos tol sulaikyti,
     kol jo kariuomenė užims saugesnę vietą, daugybę sužeidė ietimi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

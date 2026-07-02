@@ -31,43 +31,15 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
 - t-001
   global_id: t-63713
   teiginys: 'Vytautas, užėmęs Smolenską, paskyrė kunigaikštį Jomantą savo vietininku mieste.'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškius įvardžius ir neįvardija veikėjo.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Jomantas|Jomantas]]; llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] paskyrė [[objektai/asmenys/Jomantas|Jomantas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d74ec3c305630562fc5331a34b919dc2dc906bcd1434468b1336690db1dc629d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Hlebas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jomantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Hlebas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jomantas" parinktas kaip owner_note_path. Targetas "Hlebas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-63714"></a>
 - t-002
   global_id: t-63714
   teiginys: 'Vytautas Lietuvai naujai prijungtose žemėse vietininkais paskyrė Jomantą ir Vosylių Boreikaičius.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Hlebas|Hlebas]]; mentioned_place: Lietuva; mentioned_place: Smolenskas'
-  temporaliniai_duomenys: 'įvykio data: 1396 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=193f302ade3645cd0305578db3aacbf2273b7f44912155bbbac652001fa4724f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Jomantas: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jomantas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas paskyrė Jomantą savo vietininku.
 - susijęs iš Riazanė: Jurgis pabėgo į Riazanę pas savo uošvį kunigaikštį Olegą, kuris jį priėmė.
 ## Reikšmingi paminėjimai
 
@@ -86,7 +58,6 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
     pozicijas saugodamasis galimos
     grėsmės iš pietryčių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -105,7 +76,6 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
     Sviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I
     (1389-1425), su kuriuo oficialiai laikėsi taikos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

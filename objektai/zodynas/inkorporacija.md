@@ -58,11 +58,6 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
 - t-001
   global_id: t-47923
   teiginys: 'Ivinskio aiškinimu, 1385 m. aktas rodė ne inkorporaciją, o būsimą Lietuvos Didžiosios Kunigaikštystės leno santykį su karūna.'
-  sudarymo_pagrindimas: 'Tai autoriaus interpretacija, todėl reikia aiškios atribucijos ir taisyklingos formuluotės.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]'
-  temporaliniai_duomenys: 'įvykio data: 1385 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Tai autoriaus interpretacija, todėl reikia aiškios atribucijos ir taisyklingos formuluotės.'
   pagrindžia:
     - c-001
 
@@ -70,9 +65,6 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
 - t-002
   global_id: t-47924
   teiginys: '1385 m. aktas nerodė Lietuvos inkorporacijos, o veikiau būsimą Lietuvos Didžiosios Kunigaikštijos ir karūnos leno santykį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1385 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/posakiai/didelis „remontas“ Krėvės unijoj.md#claim-t-35997|didelis „remontas“ Krėvės unijoj]]: Knygos autorius 1401 m. aktą vertino kaip didelį Lietuvos atsipalaidavimo nuo Lenkijos žingsnį ir Krėvės unijos „remontą“.
@@ -90,7 +82,6 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
     voje toliau išliko ne tik valstybinio gyvenimo skirtingumas, bet ir
     pati didžiojo kunigaikščio institucija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

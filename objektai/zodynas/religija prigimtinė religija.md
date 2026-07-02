@@ -21,9 +21,6 @@ Narbutas aiškino, kad „proto religija“ kilo iš pirmykščio Dievo pažinim
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 144135-144449; hash=ea2dfea812425ad49815c0c24950a777993b85f9044ed89c912e27ba26fa6f2c; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-189326"></a>
 - t-002
   global_id: t-189326
@@ -32,16 +29,6 @@ Narbutas aiškino, kad „proto religija“ kilo iš pirmykščio Dievo pažinim
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 145488-145996; hash=f11cdcc062feab1f18b7539d8bfff7a3b308ad4ff8c2595163ba0021bb894803; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: religija prigimtinė religija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "religija prigimtinė religija" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -55,13 +42,10 @@ Narbutas aiškino, kad „proto religija“ kilo iš pirmykščio Dievo pažinim
     visuomenėms tobulėjant, įvairiose tautose pasirodė esąs ki­
     toks.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas prigimtine religija vadino pirmykštį tikėjimą viena aukščiausiąja Esybe.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -76,9 +60,7 @@ Narbutas aiškino, kad „proto religija“ kilo iš pirmykščio Dievo pažinim
     tvarką, ją visuomet grindė tikėjimu viena aukščiausiąja Esy­
     be, ir tai buvo pavadinta prigimtine religija.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

@@ -32,21 +32,8 @@ pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiaulių-Radviliškio operaci
 - t-001
   global_id: t-40613
   teiginys: 'Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]; mentioned_event: [[objektai/ivykiai/Giedraičių kautynės|Giedraičių kautynės]]; mentioned_event: [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]; mentioned_event: [[objektai/ivykiai/Užpelkių kautynės|Užpelkių kautynės]]; mentioned_event: [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]; mentioned_object: [[objektai/zodynas/Lietuvos atsikūrimas|Lietuvos atsikūrimas]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Albertas Daugirdas|Albertas Daugirdas]]; mentioned_author: [[objektai/autoriai/Arvydas Anušauskas|Arvydas Anušauskas]]; mentioned_event: [[objektai/ivykiai/Augustavo-Suvalkų operacija|Augustavo-Suvalkų operacija]]; mentioned_event: [[objektai/ivykiai/Kalniškės mūšis (1945 m. gegužės 16-17 d.)|Kalniškės mūšis (1945 m. gegužės 16-17 d.)]]; mentioned_event: [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)|Merkinės puolimas (1945 m. gruodžio 15 d.)]]; mentioned_event: [[objektai/ivykiai/Šimonių girios apgultis|Šimonių girios apgultis]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Giedraičiai; mentioned_place: Lesčiai; mentioned_place: Merkinė; mentioned_place: Užpelkiai; mentioned_place: Žuvintas'
-  temporaliniai_duomenys: 'įvykio data: 1919 m.; įvykio data: 1920 m.; įvykio data: 1945-1949; įvykio data: 1949 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=edf95fa53f5d8541442c59900dc7f5080637cb9a34a9d54b0eb116f93d7d75e7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dalius Žygelis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.): mention_match, event, gap=70
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dalius Žygelis" parinktas kaip owner_note_path. Targetas "Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171508|Karolis Zikaras]]: Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78780|Loreta Uzdraitė]]: Loreta Uzdraitė, Karolis Zikaras ir Dalius Žygelis nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.
 - susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
@@ -106,7 +93,6 @@ pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiaulių-Radviliškio operaci
     Lietuvos istoriją yra tekę dalyvauti daugelyje mūšių, kurie nepa- daug kontekstinės informacijos, nupasakojančios kiekvieno lai-
     teko į šią knygą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

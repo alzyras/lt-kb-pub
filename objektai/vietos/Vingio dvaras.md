@@ -21,16 +21,6 @@ Narbutas rašė, kad žemiau Vingio dvaro, prie Sancinės, buvo vietinių Kronis
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 243680-244192; hash=4c27c6d608048aa3487d4341d805d91eb8a0cf5074cb5757754cba5ead16ac33; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kroniszkas-Pilnis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vingio dvaras: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kroniszkas-Pilnis: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vingio dvaras" parinktas kaip owner_note_path. Targetas "Kroniszkas-Pilnis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -47,9 +37,7 @@ Narbutas rašė, kad žemiau Vingio dvaro, prie Sancinės, buvo vietinių Kronis
     pastebėjau pil i a k ai n Į Krono-kilpinie, tai yra Kruonio kilpą (Luk
     Kronu).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

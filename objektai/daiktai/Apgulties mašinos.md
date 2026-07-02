@@ -51,11 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-179463
   teiginys: '1278 m. nesėkmingai apguldamas Daugpilį Traidenis naudojo keturias akmenims svaidyti skirtas apgulties mašinas.'
-  sudarymo_pagrindimas: 'Pradinė citata neatitinka pateikto teiginio, bet remia aiškų faktą apie apgulties mašinas.'
-  susije_objektai: 'llm_object: Daugpilis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Daugpilis; mentioned_place: Lietuva; mentioned_place: Tervetė'
-  temporaliniai_duomenys: 'įvykio data: 1272 m.; įvykio data: 1274 m.; įvykio data: 1278 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinė citata neatitinka pateikto teiginio, bet remia aiškų faktą apie apgulties mašinas.'
   pagrindžia:
     - c-001
 
@@ -72,7 +67,6 @@ Nenurodyta
     kusio Daugpilio apgulimo, nors panaudojo ir akmenims svaidyti ma­
     šinas (jų buvo pastatytos keturios), Traidenis pasitraukė (1278 m.)^235.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

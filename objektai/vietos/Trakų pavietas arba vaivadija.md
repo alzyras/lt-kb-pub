@@ -27,16 +27,6 @@ Jonas Lenartaitis Kęsgaila prispaudė antspaudą prie 1490 m. sutarties, kurią
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 726347-726737; hash=a664cc626b795da085b5d0767685085ea4c7800ac6c7c8180f7c9e11825b0d15; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Trakų pavietas arba vaivadija: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bajorai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Trakų pavietas arba vaivadija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Bajorai tiesiogiai apibūdinti kaip Trakų pavieto arba vaivadijos bajorai.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -51,10 +41,8 @@ Jonas Lenartaitis Kęsgaila prispaudė antspaudą prie 1490 m. sutarties, kurią
     Trakų pavieto, arba vaivadijos, bajorai. Gal tai fetišas Regie-
     ziowan, kurį Lasickis priskiria Kęsgailų giminei.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

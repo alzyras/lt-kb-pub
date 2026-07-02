@@ -20,31 +20,15 @@ tags:
 - t-001
   global_id: t-87547
   teiginys: 'Žydui kreditoriui Markui už šešių savaičių palūkanas nuo 250 zlotų buvo sumokėta 15 florinų.'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra apskaitos fragmentas su lotynišku datų intarpu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Raudonieji|Raudonieji]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]; mentioned_person: [[objektai/asmenys/Pekarskis|Pekarskis]]; mentioned_place: Brasta'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 825458-825838; hash=5a924cd7ede9e05e8d7bbf5cfd2a96cbe4f094fd4785362c448d54e74259e2dc; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brasta: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Markas (žydas kreditorius): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Brasta: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Markas (žydas kreditorius)" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-87548"></a>
 - t-002
   global_id: t-87548
   teiginys: 'Rugpjūčio 17 d. pas žydą Marką karališkiesiems didžiojo kunigaikščio reikalams buvo užstatyta grandinė.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie užstatymą pas Marką, bet sakinį reikia išvalyti nuo santrumpų ir OCR triukšmo.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 828942-829189; hash=5a37124b5fc75d201cef8e4940b5c3adc8faad3af4540de21f831124edc28a0a; match=whitespace_regex
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -58,7 +42,6 @@ tags:
     už šimtą zlotų, per savaitę nuo jų po 1 zl., palūkanos sudaro
     14 zlotų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -77,7 +60,6 @@ tags:
     užstatą sidabrui Jo Karališkosios Didenybės reikalams nuo
     žydo Brastoje ėmė po 56 lenkiškus grašius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

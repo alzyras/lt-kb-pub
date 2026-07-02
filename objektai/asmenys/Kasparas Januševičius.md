@@ -21,21 +21,8 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
 - t-001
   global_id: t-87749
   teiginys: 'Kasparas Januševičius su broliu Motiejumi buvo tarp parapijoje gyvenusių bajorų, privalėjusių mokėti dešimtinę.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Kasparo Januševičiaus įtraukimą į dešimtinę mokėjusių bajorų sąrašą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Kasparas Januševičius|Kasparas Januševičius]] buvo brolis [[objektai/asmenys/Motiejus|Motiejus]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 499475-500242; hash=8a21890b0199f1c9da3f33ac89f0633cc188d3839aedfd205cfb6c217ccf59b6; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Motiejus: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kasparas Januševičius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Motiejus: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Formuluotė tiesiogiai nurodo, kad Kasparas buvo Motiejaus brolis.
 
 ## Reikšmingi paminėjimai
 
@@ -62,7 +49,6 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
     to paveldėtojai, nesvarbu, pagal kokią teisę ar titulą jį val­
     dytų, vis tiek privalo mokėti dešimtinę nuo minėto turto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -40,39 +40,15 @@ Nenurodyta
 - t-001
   global_id: t-55058
   teiginys: 'Boleslovas Didysis aplinkinius žmones kurtis miestuose viliojo nuolat padengtais vaišių stalais.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako vaišių stalų funkciją citatoje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Boleslovas Didysis|Boleslovas Didysis]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 35494-36223; hash=2b67c269e44bd84404dda56570eafa1a7a779bfb5f95526af3a6240126a1f67b; match=whitespace_regex
-  sprendimo_priezastis: gap::items
-  ryšio_patikimumas: susije_su -> Boleslovas Didysis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vaišių stalai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Boleslovas Didysis: mention_match, person, gap=81
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vaišių stalai" parinktas kaip owner_note_path. Targetas "Boleslovas Didysis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-81865"></a>
 - t-002
   global_id: t-81865
   teiginys: 'Martinas Galas rašė, kad Boleslovo Didžiojo dvare kasdien būdavo parengiama keturiasdešimt pagrindinių stalų, neskaitant mažesnių.'
-  sudarymo_pagrindimas: 'Pirminis teiginys sugadintas OCR intarpais, bet citata palaiko aiškų faktą apie vaišių stalus.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Poznanė'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 36224-36882; hash=31ee3769fb73fb489bc0bd8c8a28cbda262761b4f941aa41cad34819a5f2a690; match=whitespace_regex
-  sprendimo_priezastis: gap::items
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vaišių stalai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vaišių stalai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/Bibliotekos baldai dailidžių darbo spintos ir marmuro stalai.md#claim-t-87108|Bibliotekos baldai dailidžių darbo spintos ir marmuro stalai]]: 1746 m. Kazimieras ir Mykolas Vežbickiai skyrė lėšų bibliotekos langams taisyti, dailidžių darbo spintoms įsigyti ir marmuro stalams.
 - susijęs iš [[objektai/asmenys/Boleslovas Didysis.md#claim-t-87636|Boleslovas Didysis]]: Michałas Balińskis Boleslovą Didįjį, pramintą Narsiuoju, laikė pirmuoju miestų įkūrėju Lenkijos žemėje.
 - susijęs iš [[objektai/asmenys/Kazimieras Vežbickis.md#claim-t-87752|Kazimieras Vežbickis]]: 1746 m. Kazimieras Vežbickis su Mykolu Vežbickiu skyrė bibliotekai lėšų iš namų ir sklypų pajamų knygoms gausinti.
@@ -104,7 +80,6 @@ Nenurodyta
     tis miestuose, viliodamas nuolat padengtais vaišių stalais ir da­
     lindamas dovanasb).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -131,7 +106,6 @@ Nenurodyta
     daugybę narsių karių kartu su aplinkinėmis žemėmis pergalin­
     giems jo pulkams teikėc).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

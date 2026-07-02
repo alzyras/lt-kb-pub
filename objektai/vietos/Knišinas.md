@@ -31,64 +31,22 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
 - t-001
   global_id: t-86020
   teiginys: 'Mirdamas Knišine, Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią, išplėsti Švč. Trejybės prieglaudą ir geriau ją aprūpinti.'
-  sudarymo_pagrindimas: 'Citata palaiko tikslesnį ir pilnesnį pavedimo aprašymą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Vilnius; llm_object: Knišinas'
-  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]] mirė Knišinas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 574916-575265; hash=8b853598aabc0f7e8cc0ff2a57a463cbdb324c116193c029858eddf098d54fd7; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Knišinas: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Knišinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Žygimantas Augustas mirė Knišine.
 
 <a id="claim-t-86021"></a>
 - t-002
   global_id: t-86021
   teiginys: 'Žygimantas Augustas mirė 1572 metų liepos 7 dieną Knišine, būdamas 52 metų amžiaus.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia datą, vietą ir amžių.'
-  susije_objektai: 'llm_object: Knišinas; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]] mirė Knišinas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 642087-642831; hash=eaddc5c834e3d608064434b5b07a89f53896d561516d7b3641e577f274449469; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Knišinas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Steponas Batoras: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Knišinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Stepono Batoro nuvykimą į Knišiną.
 
 <a id="claim-t-86022"></a>
 - t-003
   global_id: t-86022
   teiginys: '1576 m. valdžią perėmęs karalius Steponas Batoras nuvyko į Knišiną.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko šį faktą, pašalintas puslapio triukšmas.'
-  susije_objektai: 'llm_object: Knišinas; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Lietuva; mentioned_place: Rūdninkai; mentioned_place: Torunė'
-  semantiniai_rysiai: '[[objektai/asmenys/Steponas Batoras|Steponas Batoras]] keliavo į Knišinas'
-  temporaliniai_duomenys: 'kelionės data: 1576 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai palaiko šį faktą, pašalintas puslapio triukšmas.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 648132-648537; hash=6ac58096efe8e8078e2764bebaf7a729032a8089d1bf82d7c0f85a4037c3143c; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Knišinas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Knišinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai pateikia Žygimanto Augusto mirties vietą.
 - susijęs iš [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai.md#claim-t-87130|Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]: Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai.
 - susijęs iš [[objektai/grupes/Vilniaus jėzuitų kolegija.md#claim-t-86704|Vilniaus jėzuitų kolegija]]: Mirdamas Knišine Žygimantas Augustas savo turtingą biblioteką atidavė Vilniaus jėzuitų kolegijai.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183854|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Mirdamas Knišine Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią ir išplėsti Švč. Trejybės prieglaudą.
@@ -110,7 +68,6 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
     1572 metų liepos 7 dieną Knišine, būdamas 52 metų am­
     žiaus].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -128,7 +85,6 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
     turtingą savo biblioteką, tėvo pradėtą, jo paties irgi kauptą,
     atidavė Vilniaus jėzuitų kolegijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -156,7 +112,6 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
     išlaidoms padengti. Šiuo patarimu remdamasis, Steponas
     Batoras įsakė pavesti iždininkams rinkti šiuos mokesčius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

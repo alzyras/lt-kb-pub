@@ -25,16 +25,6 @@ Lydos krašto Rodūnios parapijoje Narbutas minėjo netoli vienas kito buvusius 
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 179175-179508; hash=8cb68d6d0f7bb0d8a4a36fc0f39b869f0e96ed1ba8096dfabd4ca5b26a005628; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lydos kraštas: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Leliušiai: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Lydos kraštas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Leliušių kaimas minimas kaip esantis Lydos krašte.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -49,10 +39,8 @@ Lydos krašto Rodūnios parapijoje Narbutas minėjo netoli vienas kito buvusius 
     pis. Visa tai paaiškina dar mažai ištirtus Siaurės mitologijos mi­
     tus.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

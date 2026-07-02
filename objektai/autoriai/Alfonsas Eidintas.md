@@ -36,11 +36,6 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
 - t-001
   global_id: t-169877
   teiginys: 'Alfonsas Eidintas buvo leidinio „Lietuvos istorija“ redaktorius.'
-  sudarymo_pagrindimas: 'Citatos parašas tiesiogiai pagrindžia, kad Alfonsas Eidintas buvo leidinio redaktorius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_object: [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]; mentioned_place: Europa; mentioned_place: Europos geografinis centras'
-  temporaliniai_duomenys: 'įvykio data: po 1990 m.; įvykio data: 1990 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citatos parašas tiesiogiai pagrindžia, kad Alfonsas Eidintas buvo leidinio redaktorius.'
   pagrindžia:
     - c-002
 
@@ -48,9 +43,6 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
 - t-002
   global_id: t-169878
   teiginys: 'Alfonsui Eidintui nurodytos 2013 m. leidimo autorių teisės.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Alvydas Jokubaitis|Alvydas Jokubaitis]]; mentioned_author: [[objektai/autoriai/Inga Vinogradnaitė|Inga Vinogradnaitė]]; mentioned_author: [[objektai/autoriai/Raimundas Lopata|Raimundas Lopata]]; mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija|Mindaugo karūnacija]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Vytautas Radžvilas|Vytautas Radžvilas]]; mentioned_place: Europa; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 2013 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -58,11 +50,6 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
 - t-003
   global_id: t-169879
   teiginys: 'Alfonsas Eidintas parašė knygą „Antanas Smetona ir jo aplinka“, išleistą Vilniuje 2012 m.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie Eidinto knygą ir jos leidimo metus.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: po 1990 m.; įvykio data: 1990 m.; įvykio data: 2012 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Eidinto knygą ir jos leidimo metus.'
   pagrindžia:
     - c-003
 
@@ -70,9 +57,6 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
 - t-004
   global_id: t-169880
   teiginys: 'Alfonsas Eidintas buvo „Lietuvos istorijos“ redaktorius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_object: [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]; mentioned_place: Europa; mentioned_place: Europos geografinis centras'
-  temporaliniai_duomenys: 'įvykio data: po 1990 m.; įvykio data: 1990 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -80,11 +64,6 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
 - t-005
   global_id: t-169881
   teiginys: 'Alfonsas Eidintas buvo vienas iš 2013 m. leidinio „Lietuvos istorija“ autorių.'
-  sudarymo_pagrindimas: 'Pradinis tekstas yra OCR ir metaduomenų nuotrupa; citata pagrindžia autorystę.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Alvydas Jokubaitis|Alvydas Jokubaitis]]; mentioned_author: [[objektai/autoriai/Inga Vinogradnaitė|Inga Vinogradnaitė]]; mentioned_author: [[objektai/autoriai/Raimundas Lopata|Raimundas Lopata]]; mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija|Mindaugo karūnacija]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Vytautas Radžvilas|Vytautas Radžvilas]]; mentioned_place: Europa'
-  temporaliniai_duomenys: 'įvykio data: 2013 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra OCR ir metaduomenų nuotrupa; citata pagrindžia autorystę.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Antanas Kulakauskas.md#claim-t-26605|Antanas Kulakauskas]]: Redaktoriaus žodyje Antanas Kulakauskas pristatomas kaip Vytauto Didžiojo universiteto profesorius, parašęs III skyrių apie lietuvių gyvenimą Rusijos imperijoje 1795-1915 m.
@@ -126,7 +105,6 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
     Gediminaičių dinastijos iškilimas 31
     PAGONIŲ VALSTYBĖ.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -159,7 +137,6 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
     „Descriptive Ethnology“ („Aprašomoji etnologija“)
     Geografinis Europos centras?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -176,7 +153,6 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
     departamentas, 1991; A. Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012)
     ir A. Eidinto, A. Bumblausko asmeninių archyvų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

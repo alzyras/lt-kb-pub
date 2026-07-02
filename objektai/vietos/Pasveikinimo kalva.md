@@ -20,22 +20,8 @@ Algirdas prie Maskvos pasirodė ant Pasveikinimo kalvos.
 - t-001
   global_id: t-187284
   teiginys: 'Pasak Lietuvos metraščio, Velykų rytą Algirdas su savo pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Valdovo titulas ir kronikinis pasakojimas reikalauja atribucijos.'
-  susije_objektai: 'llm_object: Maskva; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Vitebskas; llm_object: Pasveikinimo kalva'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] keliavo į Pasveikinimo kalva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3689288156eab27cefee46a4ff2d09f42021add8ff1aefa4b8ce7f967df0b1b5; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: keliavo_i -> Maskva: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Algirdo judėjimą į Maskvą.
 
 ## Reikšmingi paminėjimai
 
@@ -63,7 +49,6 @@ Algirdas prie Maskvos pasirodė ant Pasveikinimo kalvos.
     girdas su visomis savo pajėgomis, išskleidęs savo vė­
     liavas, pasirodė ant Pasveikinimo kalvos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

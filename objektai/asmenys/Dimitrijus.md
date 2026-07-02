@@ -18,46 +18,15 @@ Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir 
 - t-001
   global_id: t-186105
   teiginys: 'Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir atsikratė totorių jungo.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Dimitrijaus veiksmą ir jo rezultatą.'
-  susije_objektai: 'llm_object: Maskva; llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Krymas; mentioned_place: Maskva; mentioned_place: Polockas'
-  semantiniai_rysiai: '[[objektai/asmenys/Dimitrijus|Dimitrijus]] buvo valdovas Maskva; [[objektai/asmenys/Dimitrijus|Dimitrijus]] kariavo prieš [[objektai/grupes/Totoriai|Totoriai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 384307-384960; hash=2ed149d0dda348a319f3a71392887044b8802056a7af4df1144080ce9a0baf60; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Dimitrijus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Dimitrijus tiesiogiai vadinamas Maskvos kunigaikščiu.
 
 <a id="claim-t-186106"></a>
 - t-002
   global_id: t-186106
   teiginys: 'Dimitrijus sutiko sumokėti kareiviams algą, o karo vadui atlyginti karo išlaidas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentas, o citata leidžia sudaryti pilną sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Akademijos teatro įranga|Akademijos teatro įranga]]; mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/zodynas/viečė|viečė]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 390502-391028; hash=9897c5ea7ef771ffce0ecccac4beb80d8130b3c296f28b2cbd28ff7c5be5cafc; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Akademijos teatro įranga: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dimitrijus: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Akademijos teatro įranga: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dimitrijus" parinktas kaip owner_note_path. Targetas "Akademijos teatro įranga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas.md#claim-t-187467|Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]: Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.
 - susijęs iš Algirdo ir Dimitrijaus taikos sutartis: Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas.md#claim-t-187467|Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]: Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.
@@ -88,7 +57,6 @@ Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir 
     Algirdas gyveno Vitebske, kai atvyko Maskvos žygū­
     nas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,7 +83,6 @@ Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir 
     altorių (,,Tad jau supratai, Dimitrijau, katras iš mu­
     dviejų greičiau pakyla į karą"), velykiniu kiaušiniu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

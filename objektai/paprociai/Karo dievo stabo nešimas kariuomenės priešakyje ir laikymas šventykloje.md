@@ -42,16 +42,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 441545-442344; hash=c5e27128e274a92914763609d90b87904b6134fa68e465f3ab94bbde752e26f8; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karo dievo stabo nešimas kariuomenės priešakyje ir laikymas šventykloje: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karo dievo stabo nešimas kariuomenės priešakyje ir laikymas šventykloje" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -75,9 +65,7 @@ Nenurodyta
     metu šis stabas būdavo nešamas iškeltas ant ieties smaigalio ka­
     riuomenės priešakyje, o taikos metais stovėdavo šventykloje.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

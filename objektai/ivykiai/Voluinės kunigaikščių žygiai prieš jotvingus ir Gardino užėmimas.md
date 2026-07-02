@@ -42,9 +42,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cf2c9639e7ce551369938b8fb45fa187b07a20ae4c5c0cf4d0bc5c3acc04e681; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -61,9 +58,7 @@ Nenurodyta
     atstatyta, jotvingų buvusi, Gardino pilis (senasis Gardinas, tur
     būt, bus turėjęs kitą vardą).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

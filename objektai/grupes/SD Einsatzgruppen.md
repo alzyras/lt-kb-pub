@@ -26,24 +26,8 @@ Specialiosios SD grupės (Tilžės gestapo būrys) 1941 m. birželio 24 d. suša
 - t-001
   global_id: t-19997
   teiginys: '1941 m. birželį SD Einsatzgruppen organizavo terorą, per kurį pasienyje buvo šaudomi žydai Gargžduose, Kretingoje, Palangoje ir kitur.'
-  sudarymo_pagrindimas: 'Teiginys perrašytas aiškiai susiejant jį su SD Einsatzgruppen.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Žydai|Žydai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Gargždai; mentioned_place: Kretinga; mentioned_place: Palanga; mentioned_place: Lietuva; mentioned_place: Vokietija'
-  semantiniai_rysiai: '[[objektai/grupes/SD Einsatzgruppen|SD Einsatzgruppen]] puolė [[objektai/grupes/Žydai|Žydai]]'
-  temporaliniai_duomenys: 'įvykio data: 1941 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys perrašytas aiškiai susiejant jį su SD Einsatzgruppen.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a5ab561143a4825ee915b4334bd53844856eb97558919e6de6f2ba65d227e288; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Žydai: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: SD Einsatzgruppen: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Žydai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad specialiosios SD grupės šaudė žydus.
 - susijęs iš [[objektai/zodynas/valymo operacijos.md#claim-t-22338|valymo operacijos]]: Pirmą nacių okupacijos savaitę keli tūkstančiai gyventojų buvo sunaikinti per SD Einsatzgruppen pradėtas „valymo operacijas“.
 ## Reikšmingi paminėjimai
 
@@ -58,7 +42,6 @@ Specialiosios SD grupės (Tilžės gestapo būrys) 1941 m. birželio 24 d. suša
     Einzatsgrupės terorą organizavo taip, kad atrodytų, jog pirmuosius
     pogromus ir „apsivalymo“ akcijas vykdo vietiniai gyventojai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

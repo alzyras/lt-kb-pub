@@ -30,30 +30,13 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
 - t-001
   global_id: t-117889
   teiginys: 'Vinrichas von Kniprodė 1351–1382 m. buvo Vokiečių ordino magistras.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Vinricho von Kniprodės pareigas ir datas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Europa; mentioned_place: Pamaris; mentioned_place: Prūsų žemė; mentioned_place: Visla; llm_object: Europa'
-  temporaliniai_duomenys: 'įvykio data: 1351-1382; įvykio data: 1382 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Vinricho von Kniprodės pareigas ir datas.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 43544-43878; hash=699ea52ca6351f41c6e7c6e6482c8afaab248b0f0c94907673b302f80085170f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vinrichas von Kniprodė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vinrichas von Kniprodė" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117890"></a>
 - t-002
   global_id: t-117890
   teiginys: 'Vinricho von Kniprodės valdymo laikais Prūsų ordino valstybė Europoje kėlė nusistebėjimą ir pasigėrėjimą.'
-  sudarymo_pagrindimas: 'Citata patvirtina teiginį, bet reikėjo pašalinti OCR ir archajišką triukšmą.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Prūsų žemė; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -61,21 +44,8 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
 - t-003
   global_id: t-117891
   teiginys: 'Vinrichas von Kniprodė 1351–1382 m. turėjo Ordino magistro valdžią ir buvo laikomas veikliu bei energingu vokiečiu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
-  temporaliniai_duomenys: 'įvykio data: 1351-1382; įvykio data: 1382 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 43016-43809; hash=8c14990f86dc8f9e13587e6bad15b2558da591127357e2e5a6bda64b20e416b3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: prekiavo_su -> Europa: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Europa: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vokiečių ordino prekyba tiesiogiai siejama su Vakarų Europos miestais.
 
 ## Reikšmingi paminėjimai
 
@@ -89,7 +59,6 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
     Algirdu buvo pradėję tartis dėl krikšto. Apsikrikštijus būtų tu­
     rėję pasiliauti nuolatiniai Ordino puolimai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -113,7 +82,6 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
     prodė (1351—1382). Tiesa, savo valdymo pradžioje Kęstutis su
     Algirdu buvo pradėję tartis dėl krikšto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -132,7 +100,6 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
     valstybė buvo visos Europos nusistebėjimo bei pasigėrėjimo
     objektas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

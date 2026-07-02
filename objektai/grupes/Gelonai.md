@@ -21,16 +21,6 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 385899-386445; hash=4539e8a7289ec142371ba5aef51cdd18420a27543b650627d9568e1095eb4f98; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Europa: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Budinai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Europa: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo budinų persikėlimą į Europą.
 - susijęs iš Oskolas: Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir budinų gyvenimu tarp Dono ir Doneco.
 - susijęs iš [[objektai/grupes/Budinai.md#claim-t-189469|Budinai]]: Narbutas pasakojo, kad gelonai ir budinai apsigyveno prie Nemuno vidurupio ir Volkovysko apskrityje upę pavadino Rose.
 - susijęs iš Donas ir Donecas: Narbutas rašo, kad budinai susijungė su gelonais, gyvenusiais tarp Dono ir Doneco, o jų tėvynėje buvusi šventoji Ross upė.
@@ -50,10 +40,8 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
     kairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­
     kančią per jų sodybų vidurį, jie pavadino Rose (Ross).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

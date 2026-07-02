@@ -21,21 +21,8 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
 - t-001
   global_id: t-40252
   teiginys: 'Mjr. K. Ramanausko grupė turėjo iš Beržininko žygiuoti per Gibus ir Seinus prie Augustavo esančio Kaleitų ežero link.'
-  sudarymo_pagrindimas: 'Pradinė formuluotė buvo negrabiai sudėta; citata leidžia ją patikslinti.'
-  susije_objektai: 'mentioned_place: Augustavas; mentioned_place: Seinai; mentioned_place: Vokietija; llm_object: Seinai; llm_object: Augustavas'
-  semantiniai_rysiai: '[[objektai/asmenys/K. Ramanauskas|K. Ramanauskas]] surengė žygį į Seinai; [[objektai/asmenys/K. Ramanauskas|K. Ramanauskas]] surengė žygį į Augustavas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=aa0579e5fa9b1b7b5689d09aa8f5b59006e54cb817d81232bf8d8395c67a0af6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Seinai: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: K. Ramanauskas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Seinai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: K. Ramanausko grupės žygio maršrute tiesiogiai nurodyti Seinai.
 
 ## Reikšmingi paminėjimai
 
@@ -56,7 +43,6 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
     o iš ten į Augustavą, dešiniu sparnu siekti
     Vokietijos sieną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -27,23 +27,8 @@ Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] 
 - t-001
   global_id: t-58738
   teiginys: '1232 m. Tolede vienas žydas surado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais.'
-  sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie Tolede rastą knygą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]'
-  temporaliniai_duomenys: 'įvykio data: 1232 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko glaustą faktą apie Tolede rastą knygą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 698099-698773; hash=4645fd625cded60e05c79b29c0c50b212f3fce370c72de716856a956bf1872d5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Adomas (auksakalys): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Toledas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Adomas (auksakalys): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Toledas" parinktas kaip owner_note_path. Targetas "Adomas (auksakalys)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Tolede akmeninės knygos suradimas ir žydo krikštas (1232 m.).md#claim-t-91920|Tolede akmeninės knygos suradimas ir žydo krikštas (1232 m.)]]: 1232 m. Tolede žydas rado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais.
 - susijęs iš Tolede surasta akmeninė knyga: Pasak Dusburgiečio kronikos, 1232 m. Tolede žydas rado akmenyje iškaltą knygą hebrajų, graikų ir lotynų kalbomis.
 - susijęs iš Ispanija: 1232 m. Ispanijos Tolede vienas žydas rado akmenyje iškaltą knygą, užrašytą hebrajiškai, graikiškai ir lotyniškai.
@@ -65,7 +50,6 @@ Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] 
     išganymo“. Žydas, šitai perskaitęs, su visa šeimyna priėmė krikštą. Be to, ten buvo
     parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart. p. 400; Ptol. 21,34).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

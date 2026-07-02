@@ -27,23 +27,8 @@ Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant istorinę Li
 - t-001
   global_id: t-17869
   teiginys: 'E. Galvanausko nota prisidėjo prie 1923 m. kovo 15 d. sprendimo Vilnių palikti Lenkijai.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata leidžia suformuluoti aiškų faktą.'
-  susije_objektai: 'llm_object: Lenkija; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Ambasadorių Konferencija|Ambasadorių Konferencija]]; mentioned_place: Lietuva; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1921 m.; įvykio data: 1923 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, bet citata leidžia suformuluoti aiškų faktą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1cde06fef086f29913f859605eed054a59d016d093017befc04ecb2a2fa6e81c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lenkija: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad sprendimu Vilnius buvo paliktas Lenkijai.
 
 ## Reikšmingi paminėjimai
 
@@ -59,7 +44,6 @@ Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant istorinę Li
     pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
     su Rusija pagal 1921 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

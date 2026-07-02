@@ -41,23 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-01892
   teiginys: 'Po ilgų derybų Lenkijos ponai prieš karaliaus valią sudarė 26 metų Štumdorfo paliaubas.'
-  sudarymo_pagrindimas: 'Sakinys pagrįstas citata, bet verta aiškiai įvardyti paliaubas pagal objekto pavadinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lenkų bajorija|Lenkų bajorija]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lenkija; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Švedai|Švedai]]'
-  temporaliniai_duomenys: 'įvykio data: po 1629 m.; įvykio data: 1629 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys pagrįstas citata, bet verta aiškiai įvardyti paliaubas pagal objekto pavadinimą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c3ff47dd21a7d3d67e854cae5244cad9fb08f34115deede50cec5d405a0b89ff; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: sudare_sutarti_su -> Švedai: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenkų bajorija: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Paliaubos sudarytos su švedais, kurie tame pačiame kontekste įvardyti kaip kita šalis.
 
 ## Reikšmingi paminėjimai
 
@@ -73,7 +58,6 @@ Nenurodyta
     rūpėjo atgauti Livoniją. Po ilgų derybų Lenkijos ponai prieš
     karaliaus valią padarė 26 m. paliaubas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

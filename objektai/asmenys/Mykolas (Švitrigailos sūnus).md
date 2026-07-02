@@ -28,21 +28,8 @@ periodo_grupes:
 - t-001
   global_id: t-87798
   teiginys: 'Kunigaikštis Mykolas, Švitrigailos sūnus ir bendrininkas, mirė nunuodytas tremtyje Maskvoje ir buvo palaidotas Vilniaus katedroje.'
-  sudarymo_pagrindimas: 'Pradinis claimas buvo apie Švitrigailą; citata palaiko atskirą faktą apie jo sūnų Mykolą.'
-  susije_objektai: 'llm_object: Maskva; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Maskva; mentioned_place: Vilnius; llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Mykolas (Švitrigailos sūnus)|Mykolas (Švitrigailos sūnus)]] mirė Maskva; [[objektai/asmenys/Mykolas (Švitrigailos sūnus)|Mykolas (Švitrigailos sūnus)]] buvo palaidotas Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 461829-462297; hash=a1b537b1e9bc537f0abfa07c3df49e1e95c5c096a9af56a5df93ebbf33364890; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Maskva: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mykolas (Švitrigailos sūnus): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekste tiesiogiai nurodyta, kad Mykolas mirė tremtyje Maskvoje.
 
 ## Reikšmingi paminėjimai
 
@@ -60,7 +47,6 @@ periodo_grupes:
     gaikščio Mykolo palaikai. Jis, klajodamas po tremtį
     Maskvoje, mirė nunuodytas kažkokiame vienuolyne.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

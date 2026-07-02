@@ -28,39 +28,15 @@ Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griov�
 - t-001
   global_id: t-101607
   teiginys: 'Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą.'
-  sudarymo_pagrindimas: 'Sakinys aiškus, faktinis ir tiesiogiai apibūdina sovietizavimą.'
-  susije_objektai: 'mentioned_place: SSRS'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8c922d6eb9ff6160cb1aba17d69a25cb1f354279f882bf3cd0ea3e183bc71f45; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Liaudies vyriausybė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: sovietizacija sovietizavimas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Liaudies vyriausybė: mention_match, group, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "sovietizacija sovietizavimas" parinktas kaip owner_note_path. Targetas "Liaudies vyriausybė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-101608"></a>
 - t-002
   global_id: t-101608
   teiginys: 'Sovietizacija Lietuvoje prasidėjo Liaudies vyriausybei vykdant sovietų valią, griaunant valstybingumą ir keičiant administraciją.'
-  sudarymo_pagrindimas: 'Teiginys perrašytas taip, kad tiesiogiai apibrėžtų sovietizacijos veiksmus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Liaudies vyriausybė|Liaudies vyriausybė]]; mentioned_place: Lietuva; mentioned_place: Sniečkus'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 391070-391432; hash=517baf532d5fdcf0e9cab70b5f2f31bbf412416208212a35ecf3f7537f77db60; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> SSRS: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: sovietizacija sovietizavimas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: SSRS: mention_match, place, gap=109
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "sovietizacija sovietizavimas" parinktas kaip owner_note_path. Targetas "SSRS" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -80,7 +56,6 @@ Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griov�
     toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
     žurnalai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -98,7 +73,6 @@ Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griov�
     Represijos, areštai, deportacijos, jų baimė – sudedamoji
     bolševikų vykdytos politikos dalis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

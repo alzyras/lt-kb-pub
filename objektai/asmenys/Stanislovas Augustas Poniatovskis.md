@@ -8,6 +8,11 @@ datos:
   - '1797 m.'
 date_start: '1697'
 date_end: '1797'
+description: 'Stanislovas Augustas Poniatovskis, LLV valdovas 1764–1795 m., siejamas su reformų bandymais, 1792 m. kapituliacija ir valstybės žlugimu.'
+socialDescription: 'Stanislovo Augusto Poniatovskio valdymas: reformų viltys, 1792 m. susitaikymas su Rusijos spaudimu, Gardino Seimas ir LLV pabaiga.'
+seo_atnaujinta: '2026-07-02T20:14:54.903849+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +30,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos steigiamajam susirinkimui, kad, be Prancūzijos, „yra dar viena tauta Europoje“. Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislovas Augustas Poniatovskis. Liepos pabaigoje gynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną atėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą prie Targovicos konfederacijos.
+Stanislovas Augustas Poniatovskis 1764 m. buvo išrinktas LLV valdovu, o jo valdymas 1764–1795 m. sutapo su reformų bandymais ir valstybės agonija. 1792 m. liepos 23 d. Varšuvoje jis siūlė nebesipriešinti prie Varšuvos stovėjusiai Rusijos armijai ir prisijungė prie Targovicos konfederacijos. 1793 m. Gardino Seimas buvo priverstas patvirtinti antrąjį LLV padalijimą, o prie 1797 m. Peterburgo konvencijos pridėtas jo abdikacijos aktas.
 
 ## Teiginiai
 
@@ -33,11 +38,6 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 - t-001
   global_id: t-170087
   teiginys: '1792 m. liepos 23 d. Varšuvoje Stanislovas Augustas Poniatovskis siūlė nebesipriešinti prie Varšuvos stovėjusiai Rusijos armijai.'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti reikšmingesnį faktą apie valdovo poziciją posėdyje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_place: Rusija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Targovica; mentioned_place: Varšuva'
-  temporaliniai_duomenys: 'įvykio data: 1792 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti reikšmingesnį faktą apie valdovo poziciją posėdyje.'
   pagrindžia:
     - c-001
 
@@ -45,33 +45,13 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 - t-002
   global_id: t-170088
   teiginys: 'Stanislovas Augustas Poniatovskis buvo išrinktas LLV valdovu, o jo valdymo laikas 1764–1795 m. tapo permainų, reformų bandymų ir valstybės agonijos epocha.'
-  sudarymo_pagrindimas: 'Teiginys yra išsamus, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]'
-  temporaliniai_duomenys: 'įvykio data: 1764 m.; įvykio data: 1764-1795; įvykio data: 1795 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus, aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 160248-160569; hash=630f70f5a813cf5055eb4076fd3f0b185cc2f3f85213088e8c66d7cb03ba8298; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Stanislovas Augustas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stanislovas Augustas Poniatovskis (valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Stanislovas Augustas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stanislovas Augustas Poniatovskis (valdovas)" parinktas kaip owner_note_path. Targetas "Stanislovas Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-170089"></a>
 - t-003
   global_id: t-170089
   teiginys: 'Stanislovo Augusto Poniatovskio abdikacijos aktas buvo pridėtas prie 1797 m. sausio 26 d. Peterburgo konvencijos.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą faktą.'
-  susije_objektai: 'mentioned_place: Peterburgas; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Prūsija'
-  temporaliniai_duomenys: 'įvykio data: 1797 m.; įvykio data: 1815 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje nurodytą faktą.'
   pagrindžia:
     - c-005
 
@@ -79,11 +59,6 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 - t-004
   global_id: t-170092
   teiginys: 'Prie Varšuvos Stanislovas Augustas nepasirodė fronte, neišnaudojo visuotinės mobilizacijos ir nesuformavo miestiečių milicijos.'
-  sudarymo_pagrindimas: 'Pašalintas kontekstinis pradžios fragmentas ir sakinys padarytas savarankiškas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_place: Varšuva'
-  temporaliniai_duomenys: 'įvykio data: 1792 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas kontekstinis pradžios fragmentas ir sakinys padarytas savarankiškas.'
   pagrindžia:
     - c-007
 
@@ -91,8 +66,6 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 - t-005
   global_id: t-170093
   teiginys: 'Stanislovo Augusto veiksmai su Rusijos ambasada Varšuvoje prisidėjo prie jo politinio fiasko 1795 metais.'
-  sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir sutrumpinta iki citata pagrįsto fakto.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Rusija; mentioned_place: Varšuva'
   pagrindžia:
     - c-004
 
@@ -100,11 +73,6 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 - t-006
   global_id: t-170094
   teiginys: 'Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. Gardine sušaukti Seimą, turėjusį patvirtinti antrąjį LLV padalijimą.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gardino seimas|Gardino seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Gardinas; mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1793 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai remiasi citata.'
   pagrindžia:
     - c-002
 
@@ -112,11 +80,6 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 - t-007
   global_id: t-170095
   teiginys: 'Istorikų vertinimu, Stanislovo Augusto susitaikėliška pozicija buvo nepagrįsta, nes LLV dar turėjo galimybių priešintis Rusijai.'
-  sudarymo_pagrindimas: 'Tai vertinamasis teiginys, todėl pridėta tinkama interpretacijos atribucija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas Soltanas|Stanislovas Soltanas]]; mentioned_place: Rusija; mentioned_object: [[objektai/zodynas/didysis maršalas|didysis maršalas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1792 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Tai vertinamasis teiginys, todėl pridėta tinkama interpretacijos atribucija.'
   pagrindžia:
     - c-006
 - susijęs iš [[objektai/grupes/Saksų dinastija.md#claim-t-20001|Saksų dinastija]]: Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislovas Augustas Poniatovskis.
@@ -147,7 +110,6 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
     21 dieną iš Jekaterinos II gautą notą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -168,7 +130,6 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     gustas buvo priversti atšaukti Gegužės trečiosios konstituciją ir atkurti
     ikikonstitucinę „auksinių laisvių“ santvarką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -183,7 +144,6 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     ir permainų ir reformų bandymų, ir baroko saulėlydžio bei valstybės ago-
     nijos ir sunaikinimo epocha.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -202,7 +162,6 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     sudėjusi vilčių į šį valdovą ir Gegužės trečiosios konstitucija atsisakiusi
     valdovų elekcijos, buvo nuvilta ir išduota.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -221,7 +180,6 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
     mo) aktas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -241,7 +199,6 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos
     kare su Rusija toli gražu nebuvo išsemtos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -257,7 +214,6 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     taip ir nepasirodė fronte ir neišnaudojo visuotinės mobilizacijos, nesufor-
     mavo miestiečių milicijos. Neabejotina, kad 1792 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

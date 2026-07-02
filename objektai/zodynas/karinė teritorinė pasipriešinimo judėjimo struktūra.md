@@ -20,12 +20,8 @@ Taip pat buvo įtvirtinta karinė teritorinė pasipriešinimo judėjimo struktū
 - t-001
   global_id: t-38754
   teiginys: 'Karinėje teritorinėje pasipriešinimo judėjimo struktūroje partizanų skyriai jungėsi į būrius, būriai - į rinktines, o rinktinės - į apygardas.'
-  sudarymo_pagrindimas: 'Pirminis teiginys per bendras, citata leidžia pateikti informatyvesnę struktūrą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 952613-952882; hash=ccccf1e0b4d2dbf7bbc7c8a2f0d5546194c19eef9ecc7bba47503d13c43ce52d; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -38,7 +34,6 @@ Taip pat buvo įtvirtinta karinė teritorinė pasipriešinimo judėjimo struktū
     apygardas, kelios apygardos sudarė sritį. Devynios partizanų apy-
     gardos sudarė tris sritis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -48,59 +48,23 @@ Nenurodyta
 - t-001
   global_id: t-54485
   teiginys: 'Šventaragio slėnyje iki krikščioniškojo tikėjimo įvedimo degė Gabija vadinta amžinoji ugnis Perkūno garbei.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata apie Gabiją bei Perkūno garbinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gabija|gabija]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Bokštai; mentioned_place: Vilija'
   pagrindžia:
     - c-001
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 233378-233979; hash=defc3239ce5f3cac98a9211d8703a3636dd632b37ff596c6356bd7cfeeae2d71; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/06_extract_customs_notes.md
-  ryšio_patikimumas: susije_su -> gabija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: gabija: mention_match, thing, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje" parinktas kaip owner_note_path. Targetas "gabija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54486"></a>
 - t-002
   global_id: t-54486
   teiginys: 'Krikšto apeigų metu Vilniuje buvo užgesinta amžinoji ugnis, iškirstos šventos girios ir sugriauta Perkūno šventykla.'
-  sudarymo_pagrindimas: 'Perrašyta be metatekstinio įvado ir glaudžiau pagal citatą.'
-  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 60515-61149; hash=9fd55f1925bcd9555dee2981a2e8b8db9a90e19895e281aae2e00b1a46bbceda; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/06_extract_customs_notes.md
-  ryšio_patikimumas: susije_su -> Šventaragis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Šventaragis: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje" parinktas kaip owner_note_path. Targetas "Šventaragis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54487"></a>
 - t-003
   global_id: t-54487
   teiginys: 'Šventaragio slėnyje Perkūno garbei degusią amžinąją ugnį Gabiją saugojo ir kurstė žyniai, vadovaujami Krivių Krivaičio.'
-  sudarymo_pagrindimas: 'Į sakinį įtrauktas note objektas ir patikslinta vieta.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 241550-241847; hash=a7df79adefebb37a7e2fb26d2f710126eeddc9bb98dce0d8772b1c822ad1d73a; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/06_extract_customs_notes.md
-  ryšio_patikimumas: susije_su -> Vilnius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -119,7 +83,6 @@ Nenurodyta
     mutinės pilies pastatai, daugiausia mediniai, bet aukštais
     bokštais ir palisadais apjuosti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -141,7 +104,6 @@ Nenurodyta
     mosi metu gal buvo paprastų ir laisvų žmonių vienas vadų
     ir patriarchų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -157,7 +119,6 @@ Nenurodyta
     griauta Perkūno šventykla, ir būtent toje vietoje, vidur pi-
     liavietės, pradėta statyti Šv. Stanislovo katedra8.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

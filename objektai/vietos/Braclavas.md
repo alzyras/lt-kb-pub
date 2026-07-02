@@ -32,9 +32,6 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
 - t-001
   global_id: t-46541
   teiginys: 'Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės, arba Braclavo, vaivadijas.'
-  sudarymo_pagrindimas: 'Reikia tiksliau perteikti, kad prijungimas atliktas karaliaus aktais.'
-  susije_objektai: 'llm_object: Lenkija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Palenkė; mentioned_place: Podolė'
-  semantiniai_rysiai: 'Braclavas priklausė Lenkija'
   pagrindžia:
     - c-001
 
@@ -42,37 +39,13 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
 - t-002
   global_id: t-184935
   teiginys: 'Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Dimitro priesaiką ir gautas valdas.'
-  susije_objektai: 'mentioned_place: Kremenecas; mentioned_place: Sokolecas; mentioned_place: Severskas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7f6a6225c00bb64abe1194d8ca608036c05c11924f0f17faa39c1deaa0abd991; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lenkija: 0.84
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Palenkė: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Palenkė nurodyta tarp sričių, kurias Žygimantas Augustas prijungė prie Lenkijos.
 
 <a id="claim-t-184936"></a>
 - t-003
   global_id: t-184936
   teiginys: '1449 m. skitai niokojo lenkų valdomą Podolės dalį, bet nelietė kaimyninės Braclavo žemės.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas citata paremtas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Naugardukas; mentioned_place: Podolė; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  semantiniai_rysiai: 'Braclavas priklausė [[objektai/grupes/Lietuviai|Lietuviai]]'
-  temporaliniai_duomenys: 'įvykio data: 1449 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuluotas citata paremtas faktas.'
   pagrindžia:
     - c-003
 
@@ -80,24 +53,8 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
 - t-004
   global_id: t-187566
   teiginys: 'Lietuvos metraštis pasakoja, kad Aleksandras įsakė atstatyti Braclavą, nes miestas buvo Moldavijos vaivados nusiaubtas ir sudegintas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Priešiško nusiaubimo vaizdavimui šiame šaltinio profilyje reikia atribucijos.'
-  susije_objektai: 'mentioned_place: Moldavija; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Severskas; llm_object: Braclavas'
-  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras|Aleksandras]] pastatė Braclavas'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 260048-260557; hash=8fa643521542bf15e2b56117b3f7a4e5a6d3d427ab3e17c2388e5aa663db8209; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Braclavas: 0.80
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Braclavas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Aleksandras įsakė atstatyti Braclavą; tai artimiausias leidžiamas statymo ryšys.
 - susijęs iš [[objektai/ivykiai/Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.).md#claim-t-185767|Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.)]]: 1449 m. skitai nuniokojo lenkų valdytą Podolės dalį, o Jurga dovanomis apsaugojo Braclavo žemę nuo antpuolių.
 - susijęs iš [[objektai/ivykiai/Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje.md#claim-t-186661|Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje]]: Lietuvos metraštis pasakoja, kad tuo metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių.
 - susijęs iš [[objektai/ivykiai/Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje.md#claim-t-186662|Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje]]: Lietuvos metraščio pasakojime visi iš Braclavo į Moldaviją išvaryti žmonės sugrįžo į Braclavą po miesto atstatymo.
@@ -135,7 +92,6 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
     nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo
     prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -160,7 +116,6 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
     Braclavą, Vinicą, Kremenecą, Sokolecą. Pasitenkinęs
     šiomis didelėmis valdomis, liovėsi reikalavęs Seversko.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -193,7 +148,6 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
     be karaliaus žinios lietuviai sukurstė skitus prieš len­
     kus, nes jis mat nepritarė nė vienam jų sumanymui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -214,7 +168,6 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
     įsakė atstatyti Braclavą, nes Braclavas buvo Moldavi­
     jos vaivados nusiaubtas ir sudegintas l!l.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

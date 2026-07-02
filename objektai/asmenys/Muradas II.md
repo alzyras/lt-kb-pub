@@ -29,21 +29,8 @@ Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.
 - t-001
   global_id: t-35251
   teiginys: 'Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.'
-  sudarymo_pagrindimas: 'Teiginys yra trumpas faktinis sakinys apie Muradą II ir atitinka citatą.'
-  susije_objektai: 'llm_object: Smolenskas; mentioned_place: Smolenskas; mentioned_person: [[objektai/asmenys/Paleologas|Paleologas]]; mentioned_place: Konstantinopolis; mentioned_place: Maskva; mentioned_place: Moldavija'
-  semantiniai_rysiai: '[[objektai/asmenys/Muradas II|Muradas II]] siuntė į Smolenskas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c609a637dc9a1d03e24c29035c137f166775c3b6493833a0471a29de4c38b181; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Smolenskas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Muradas II: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Muradas II siuntė dovanas į Smolenską.
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
 - susijęs iš [[objektai/asmenys/Jonas Paleologas.md#claim-t-35152|Jonas Paleologas]]: Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
 - susijęs iš [[objektai/asmenys/Manuelis.md#claim-t-35214|Manuelis]]: Manuelis buvo Konstantinopolio ciesorius ir Jono Paleologo tėvas, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
@@ -62,7 +49,6 @@ Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.
     Melno taikos, matome, kad šituo laiku (1422—1428) veik visa jo
     energija buvo sunaudojama įsigalėjimui Rytuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -9,6 +9,11 @@ datos:
   - '1864 m.'
 date_start: '1861'
 date_end: '1864'
+description: 'Michailas Muravjovas, pramintas Koriku, Vilniuje taikė teroro priemones, įsakė karti sukilėlius ir 1864 m. pradėjo raštijos draudimą.'
+socialDescription: 'Michailas Muravjovas Korikas: caro įgaliotas Vilniaus generalgubernatorius, siejamas su sukilėlių egzekucijomis ir 1864 m. raštijos draudimu.'
+seo_atnaujinta: '2026-07-02T21:03:54.599703+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,7 +29,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.
+Michailas Muravjovas, paskirtas Vilniaus generalgubernatoriumi ir gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių. Pramintas „Koriku“, jis įsakė karti sukilėlius, o ataskaitoje jam nurodyta, kad 128 sukilėliai nuteisti mirties bausme. 1864 m. M. Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu.
 
 ## Teiginiai
 
@@ -32,71 +37,28 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 - t-001
   global_id: t-71336
   teiginys: 'XIX a. Michailo Muravjovo Koriko laikais Lietuvoje nukentėjo perpus mažiau kunigų nei stalinizmo metais.'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentas; citata palaiko pilną palyginamąjį faktą.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b67187d614df5e53995a6ab960404126c053a10afb4c6165275e066b3d9b0949; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Michailas Muravjovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Anglija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Michailas Muravjovas" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-71337"></a>
 - t-002
   global_id: t-71337
   teiginys: 'Vilniaus karinės apygardos kariuomenės štabo ataskaitoje Michailui Muravjovui nurodyta, kad 128 sukilėliai nuteisti mirties bausme.'
-  sudarymo_pagrindimas: 'Pradinė formuluotė nepakankamai aiški; citata palaiko tikslesnį sakinį.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1864 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė nepakankamai aiški; citata palaiko tikslesnį sakinį.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=dae28f04dff331896f467d2311ee55f0c9ce3718217f0729a85ae69ccc3f5b46; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Michailas Muravjovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Michailas Muravjovas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-71338"></a>
 - t-003
   global_id: t-71338
   teiginys: 'M. Muravjovo laikai XIX a. siejami su Koriko pravarde.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c9aab1fad4b782273a8c2effbc57c7e6ae964d6322e3f3a18d2367bbbf893b06; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Michailas Muravjovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Michailas Muravjovas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-71339"></a>
 - t-004
   global_id: t-71339
   teiginys: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Rusija; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1861 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-005
 
@@ -104,11 +66,6 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 - t-005
   global_id: t-71340
   teiginys: 'Naujasis generalgubernatorius Michailas Muravjovas, pramintas „Koriku“, siekdamas įbauginti Lietuvos gyventojus, įsakė karti sukilėlius.'
-  sudarymo_pagrindimas: 'Claimas yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]'
-  temporaliniai_duomenys: 'įvykio data: 1864 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Claimas yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/asmenys/M. Muravjovas.md#claim-t-78023|M. Muravjovas]]: Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas gavo caro įgaliojimus ir ėmėsi demonstratyvaus žiaurumo bei teroro priemonių.
@@ -125,7 +82,6 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     Koriko laikais XIX a. Visi kunigai sekami, registruojama, kas pas kunigą
     užeina, pamokslai aprašomi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -145,7 +101,6 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     mirties bausme. Daugiausia bausmių
     įvykdyta Vilniuje - 21 ir Kaune - 13.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -161,7 +116,6 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     dimas išplėstas į visą Rusijos imperijos teritoriją ir galiojo ligi 1904 m.
     pavasario.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -180,7 +134,6 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     kilėlių kova vis labiau silpo, kol galiau-
     siai 1864 m. pabaigoje visai išblėso.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -199,7 +152,6 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     vykdyti be jokio derinimo su dvarininkais, kaip buvo numatyta 1861 m.
     įstatymų aktuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

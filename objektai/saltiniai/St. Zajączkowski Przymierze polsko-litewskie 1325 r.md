@@ -29,13 +29,8 @@ Zajączkowski, St.
 - t-001
   global_id: t-31928
   teiginys: 'St. Zajączkowskio „Przymierze polsko-litewskie 1325 r.“ paskelbta 1926 m. „Kwartalnik Historyczny“ 40 tome, 567-617 puslapiuose.'
-  temporaliniai_duomenys: 'įvykio data: 1325 m.; įvykio data: apie 1325 m.; įvykio data: 1926 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=46e644be5086bb4c786716d93330550edbb695fc2d15382bbaa4bcfcdcf0d351; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -47,7 +42,6 @@ Zajączkowski, St.
     (”) _Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka,_
     Lwów 1929 (daug apie 1325 m. sutartį; panaudoja W. de Machaut).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

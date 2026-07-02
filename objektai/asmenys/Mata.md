@@ -23,61 +23,22 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
 - t-001
   global_id: t-60055
   teiginys: 'Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Matos kilmę ir tarnybą Ordinui.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Pipinas|Pipinas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Mata|Mata]] buvo sūnus [[objektai/asmenys/Pipinas|Pipinas]]; [[objektai/asmenys/Mata|Mata]] rėmė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5e2b29f1ed5274f0a16b3cd567d1bd3132344fbc5037d0233e55deee252ff852; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Pipinas: 0.97
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mata: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Pipinas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Matą kaip Pipino sūnų.
 
 <a id="claim-t-60056"></a>
 - t-002
   global_id: t-60056
   teiginys: 'Kilmingas pamedėnas Mata, Pipino sūnus, patarė broliams ir kariuomenei pulti priešus pėsčiomis, palikus arklius užnugaryje.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi perteklinį kontekstą, bet citata patvirtina Matos patarimą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Kuršas; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Mata|Mata]] buvo sūnus [[objektai/asmenys/Pipinas|Pipinas]]'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b3b379b4c88d074e4c6bcd25cce5615989b4510d451e8a89176f1c0d4647f7f8; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Pipinas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mata: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Pipinas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Matą kaip Pipino sūnų.
 
 <a id="claim-t-60057"></a>
 - t-003
   global_id: t-60057
   teiginys: 'Mata buvo kilmingas Pamedės vyras ir Pipino sūnus, iki mirties drąsiai gynęs Kristaus tikėjimą.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir teologiškai vertinamą palyginimą galima sutraukti į paremtą faktą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_place: Pamedė; mentioned_place: Torunė'
-  semantiniai_rysiai: '[[objektai/asmenys/Mata|Mata]] buvo sūnus [[objektai/asmenys/Pipinas|Pipinas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2d04531845cd32f6383b9cf7ecfeb66dcbfbc501b2b077cad21a990d57c51067; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Pipinas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mata: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Pipinas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Mata buvo Pipino sūnus.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63912|Martynas iš Golino]]: Martynas iš Golino žygiuodavo su Rudino ir vėliau Karaliaučiaus broliais.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63915|Martynas iš Golino]]: Martynas iš Golino žygiuodavo su Rudino broliais, o vėliau su Karaliaučiaus broliais.
 - susijęs iš [[objektai/posakiai/krikščioniškieji plėšikautojai.md#claim-t-59119|krikščioniškieji plėšikautojai]]: „Krikščioniškieji plėšikautojai“, veikę Ordino labui, galėjo pateikti nemaža žinių apie Lietuvos ir Prūsijos kraštus.
@@ -101,7 +62,6 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
 
                      8.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -118,7 +78,6 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
     žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar
     XIV a. viduryje134. Vardijami taip pat kai kurie skalviai, pagaliau ir lietuviai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -139,7 +98,6 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
     karaliaus iš Revelio347 kariai ir daugybė kitų, tvirtindami, kad be arklių jie nestengsią
     mūšyje atsilaikyti dėl sunkių ginklų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -28,61 +28,22 @@ periodo_grupes: []
 - t-001
   global_id: t-88002
   teiginys: 'Napierskio veikale „Index Codicis Hist. Dipl. Livon.“ pateiktas Vytauto 1426 m. sausio 13 d. laiško turinys.'
-  sudarymo_pagrindimas: 'Teiginys yra faktinis, užbaigtas ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_place: Vitebskas'
-  temporaliniai_duomenys: 'įvykio data: 1426 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, užbaigtas ir atitinka citatos informaciją.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1d780c11aa7c1e953539f21041800f1c1d52dcd097ccfde797a84c6512d3be3f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Napierski: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Napierski" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-88003"></a>
 - t-002
   global_id: t-88003
   teiginys: 'Dr. Napierskis patvirtino nuorašo perrašymo teisingumą.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo Napierskio atsakomybę už nuorašo perrašymo teisingumą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Dinaburgas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=db798e3b461009e1c5a3908d00491d8bcdc2f2064efed3e20517956371b3177f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dinaburgas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Napierski: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Dinaburgas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Napierski" parinktas kaip owner_note_path. Targetas "Dinaburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-88004"></a>
 - t-003
   global_id: t-88004
   teiginys: 'Napierskis perdavė dviejų dokumentų nuorašus ir buvo Livonijos dokumentų rinkinio nuorodos autorius.'
-  sudarymo_pagrindimas: 'Citata patvirtina Napierskio perduotus nuorašus ir jo autorystę nuorodoje apie Livonijos dokumentus.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Dinaburgas; mentioned_place: Vengrija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 483529-483768; hash=6aaad502192e3748de0bc36ef12e033274777cc32b6bd7d7ae687e81cb0dae8f; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vitebskas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Napierski: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Vitebskas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Napierski" parinktas kaip owner_note_path. Targetas "Vitebskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -104,7 +65,6 @@ periodo_grupes: []
     II
     (Plg. InJ. cod. hist. di pl.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -135,7 +95,6 @@ periodo_grupes: []
     kunigaikštis su 700 raitelių pulku pasiskelbė Vytautui tar­
     nausiąs ir 1.1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -153,7 +112,6 @@ periodo_grupes: []
     ce, tarp Vitebsko ir Smolensko, 1426
     metų sausio 13 dieną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

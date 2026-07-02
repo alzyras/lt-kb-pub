@@ -56,11 +56,6 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
 - t-001
   global_id: t-74881
   teiginys: '1915 m. frontui stabilizavusis, vokiečiai sudarė karinę administraciją ir pavadino ją Oberostu.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Oberosto sudarymą 1915 m.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Paulius fon Hindenburgas|Paulius fon Hindenburgas]]; mentioned_person: [[objektai/asmenys/Ėrichas Liudendorfas|Ėrichas Liudendorfas]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1915 m.; įvykio data: 1916 m.; įvykio data: 1918 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Oberosto sudarymą 1915 m.'
   pagrindžia:
     - c-001
 
@@ -68,11 +63,6 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
 - t-002
   global_id: t-74882
   teiginys: 'Oberostui formaliai vadovavo Paulius fon Hindenburgas ir Ėrichas Liudendorfas.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Paulius fon Hindenburgas|Paulius fon Hindenburgas]]; mentioned_person: [[objektai/asmenys/Ėrichas Liudendorfas|Ėrichas Liudendorfas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1915 m.; įvykio data: 1916 m.; įvykio data: 1918 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
 
@@ -80,7 +70,6 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
 - t-003
   global_id: t-74883
   teiginys: 'Oberosto režimas nusavino maistą, apkrovė gyventojus mokesčiais ir prievolėmis, išvežė pramonės įmones ir pradėjo germanizaciją mokyklose.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Liuteronai|Liuteronai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gabrielis Narutovičius|Gabrielis Narutovičius]]; mentioned_person: [[objektai/asmenys/Stanislovas Narutavičius|Stanislovas Narutavičius]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -88,11 +77,6 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
 - t-004
   global_id: t-74884
   teiginys: '1917 m. pabaigoje Kaune rezidavęs Oberostas įteikė Lietuvos Tarybos prezidiumui norimos rezoliucijos projektą.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Oberosto veiksmą 1917 m. pabaigoje ir atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Kaunas'
-  temporaliniai_duomenys: 'įvykio data: 1917 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Oberosto veiksmą 1917 m. pabaigoje ir atitinka citatą.'
   pagrindžia:
     - c-003
 
@@ -100,11 +84,6 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
 - t-005
   global_id: t-74885
   teiginys: 'Kaune rezidavęs Oberostas įteikė Tarybos prezidiumui rezoliucijos projektą, kurį prezidiumas pataisė ir gruodžio 11 d. grąžino karinei administracijai.'
-  sudarymo_pagrindimas: 'Perrašyta be perteklinio ir neaiškaus junginio „kaip priimtą“, paliekant citatos palaikomą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1917 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Perrašyta be perteklinio ir neaiškaus junginio „kaip priimtą“, paliekant citatos palaikomą faktą.'
   pagrindžia:
     - c-003
 
@@ -112,8 +91,6 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
 - t-006
   global_id: t-74886
   teiginys: 'Oberosto karinis kolonijinis režimas nusavindavo maistą, apkrovė valstiečius mokesčiais bei prievolėmis ir pradėjo germanizaciją mokyklose.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir per ilgas; citata leidžia suformuluoti vientisą sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Liuteronai|Liuteronai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/asmenys/Ėrichas Liudendorfas.md#claim-t-78076|Ėrichas Liudendorfas]]: Ėrichas Liudendorfas formaliai vadovavo Oberostui kartu su Pauliumi fon Hindenburgu.
@@ -135,7 +112,6 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
     ne) suvienyta su Vilniaus apskritimi, o 1918 m. įsteigta Lietuvos karinė
     valdyba (Militaerverwaltung Litauen).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -158,7 +134,6 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
     jais vokiečiai liuteronai soldafoniškai ir primityvokai mokė šlovinti kaize-
     rį).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -179,7 +154,6 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
     kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip
     priimtą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -201,7 +175,6 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
     tuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis
     „Dabartis“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

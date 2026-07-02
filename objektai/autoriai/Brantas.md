@@ -21,16 +21,6 @@ Narbutas iš Branto per Ksavero Bogušo šaltinį pateikė kuršišką arba latv
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 813781-814492; hash=2055149fc80afa307c6f5817de6c5cec87b06b4635ea9f2d376d304f4c113ca9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Kuršas: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Alsunga: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Kuršas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Genityvinė frazė tiesiogiai sieja Alsungą su Kuršu kaip jos vietos priklausomybę.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -53,9 +43,7 @@ Narbutas iš Branto per Ksavero Bogušo šaltinį pateikė kuršišką arba latv
     nakas mums tawa walstiba taus prats lajnotek ka debes sys ta
     aridzen wier žemes.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

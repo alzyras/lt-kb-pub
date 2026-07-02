@@ -30,11 +30,6 @@ PUB = Preussisches Urkundenbuch, t.
 - t-001
   global_id: t-67523
   teiginys: '1222 arba 1223 m. Konrado privilegija vyskupui Kristijonui patvirtina Kulmo ir kitų šios žemės pilių sunaikinimą.'
-  sudarymo_pagrindimas: 'Pašalintas išnašos numeris ir OCR triukšmas; faktas remiamas citata.'
-  susije_objektai: 'mentioned_place: Kulmas'
-  temporaliniai_duomenys: 'įvykio data: 1223 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas išnašos numeris ir OCR triukšmas; faktas remiamas citata.'
   pagrindžia:
     - c-001
 
@@ -42,23 +37,8 @@ PUB = Preussisches Urkundenbuch, t.
 - t-002
   global_id: t-67524
   teiginys: '„Preussisches Urkundenbuch“ nurodomas prie teiginio, kad Kristijonas 1215 m. antroje pusėje arba 1216 m. pradžioje paskelbtas pirmuoju Prūsijos vyskupu.'
-  sudarymo_pagrindimas: 'Teiginį reikia susieti su šaltinio objektu, nes citatoje jis pateiktas kaip bibliografinė nuoroda.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]'
-  temporaliniai_duomenys: 'įvykio data: 1215 m.; įvykio data: 1216 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginį reikia susieti su šaltinio objektu, nes citatoje jis pateiktas kaip bibliografinė nuoroda.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 130483-131389; hash=ba173c26e8365b3bea205fb8ee81fc91908956fe9514d40ea9fcb135db82ebb4; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kristijonas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Preussisches Urkundenbuch: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Kristijonas: mention_match, person, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Preussisches Urkundenbuch" parinktas kaip owner_note_path. Targetas "Kristijonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -70,7 +50,6 @@ PUB = Preussisches Urkundenbuch, t.
     patvirtina 1222 (ar 1223) m. Konrado privilegija vyskupui Kristijonui (PUB, 1, 1, Nr.
     41, p. 28).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -92,7 +71,6 @@ PUB = Preussisches Urkundenbuch, t.
     kryžininkams (PUB, 1, 1, Nr. 16, 31). Popiežius 1217.III.3 leido Kristijonui organizuoti
     kryžiaus žygį į kitas Prūsijos žemes (PUB, 1, 1, Nr. 15; Pakarklis P. Kryžiuočių..., p. 205).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

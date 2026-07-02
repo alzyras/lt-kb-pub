@@ -37,60 +37,22 @@ Nenurodyta
 - t-001
   global_id: t-89359
   teiginys: 'Broliai puldinėjo sembus, siekdami juos vėl pajungti krikščionių tikėjimui.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Dramenava; mentioned_place: Kaimas; mentioned_place: Kvedenava; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6d68037e7ef13f1cceb03896f1134f777fd5e94dbde82f5c4fe2cec3dfb47b6c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas: llm_allowed_candidate, event
-  ryšio_paaiskinimas: Claim_text ir citata tiesiogiai nurodo sembų kontrpuolimą prieš grįžtančius brolius.
 
 <a id="claim-t-89360"></a>
 - t-002
   global_id: t-89360
   teiginys: 'Broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių, bet grįžtančius juos užpuolė sembai.'
-  sudarymo_pagrindimas: 'Pašalintas boilerplate ir perteklinė pradžia; faktas sutrauktas į aiškų sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Dramenava; mentioned_place: Kvedenava; mentioned_place: Pabečiai; mentioned_place: Viena; llm_object: [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas|Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]'
-  semantiniai_rysiai: '[[objektai/grupes/Sembai|Sembai]] puolė [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas|Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6d68037e7ef13f1cceb03896f1134f777fd5e94dbde82f5c4fe2cec3dfb47b6c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sembai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas: llm_allowed_candidate, event
-  ryšio_paaiskinimas: Sembai teiginyje įvardyti kaip kontrpuolimo vykdytojai.
 
 <a id="claim-t-89361"></a>
 - t-003
   global_id: t-89361
   teiginys: 'Henrikas Ulenbušas per sembų kontrpuolimą nepasitraukė ir pradėjo gintis, todėl kiti broliai grįžo į mūšio lauką.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako veiksmų seką ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/asmenys/Henrikas Ulenbušas|Henrikas Ulenbušas]]; mentioned_place: Kvedenava; mentioned_place: Viena; llm_object: [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas|Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]'
-  semantiniai_rysiai: '[[objektai/grupes/Sembai|Sembai]] puolė [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas|Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2f7b9d75ab637e942de771d64476006255618b85a5eead0fcc511ee8c7329f94; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sembai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas: owner_note_path, event
-  ryšio_targeto_parinkimas: Sembai: mention_match, group, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas" parinktas kaip owner_note_path. Targetas "Sembai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -108,7 +70,6 @@ Nenurodyta
     atgal su dideliu grobiu, tačiau priešai, sekdami įkandin, užpuolė juos ir beveik visus
     išsklaidė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -127,7 +88,6 @@ Nenurodyta
     ir taip narsiai pradėjo gintis, kad ir kiti, atgavę jėgas bei drąsą, sugrįžo į mūšio lauką ir
     nukovė daugybę sembų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

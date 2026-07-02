@@ -22,21 +22,8 @@ Dusburgietis teigia, kad apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir 
 - t-001
   global_id: t-58659
   teiginys: 'Konradas iš Tirbergo su Ordino kariuomene įsiveržė į Sūduvos valsčių Ziliją ir jį nusiaubė.'
-  sudarymo_pagrindimas: 'Citata leidžia pašalinti OCR triukšmą ir suformuluoti aiškų faktą.'
-  susije_objektai: 'llm_object: Zilija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Dainava; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Sūduva; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Konradas|Konradas]] puolė Zilija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 528177-529228; hash=2d73fb39934e2e6160521243a06365c5368f6cb86ab77316a66a32dbc5b25ba9; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Zilija: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Zilija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad Konradas įsiveržė į Ziliją.
 - susijęs iš [[objektai/autoriai/Kamiński A.md#claim-t-91930|Kamiński A]]: A. Kamińskio „Jaćwież“ cituojamas prie teiginio, kad Zilijos valsčius galėjo aprėpti Raigardo apylinkes ir eiti link Augustavo.
 - susijęs iš [[objektai/ivykiai/Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę.md#claim-t-59459|Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę]]: Konradas iš Tirbergo su didele kariuomene įsiveržė į Sūduvos Zilijos valsčių, sudegino pastatus ir išsigabeno grobį.
 - susijęs iš Volynės metraštis: Volynės metraštyje Zlynų vietovardis minimas formomis „Злиньци“ ir „Злина“.
@@ -64,7 +51,6 @@ Dusburgietis teigia, kad apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir 
     pavertė pelenais visus pastatus minėtajame valsčiuje, nukovė vieną kilmingąjį, vardu
     Vadolis505, tenykštį vadą, bei daugybę kitų ir išsigabeno nesuskaičiuojamą grobį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

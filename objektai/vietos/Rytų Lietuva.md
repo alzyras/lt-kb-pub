@@ -32,11 +32,6 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
 - t-001
   global_id: t-181515
   teiginys: '1919 m. pavasarį Rytų Lietuvą kontroliavo bolševikai.'
-  sudarymo_pagrindimas: 'Pradžia „Tuo metu“ yra kontekstinė, todėl datą reikia padaryti aiškią.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Ukraina'
-  temporaliniai_duomenys: 'įvykio data: 1919 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradžia „Tuo metu“ yra kontekstinė, todėl datą reikia padaryti aiškią.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/J. Bulhako nuotrauka „Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras“.md#claim-t-77925|J. Bulhako nuotrauka „Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras“]]: J. Bulhako nuotraukos antraštė Vilnių vadina 1916 m. lietuvių ir lenkų disputo epicentru.
@@ -52,7 +47,6 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
     vietose, o tarp Marcinkonių ir Lydos rusų pozicijose susidarė menkai
     Pe 2 o ai ) pridengtas tarpas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

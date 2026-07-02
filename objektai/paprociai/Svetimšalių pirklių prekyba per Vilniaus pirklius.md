@@ -49,20 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-87302
   teiginys: 'Maskvos, totorių ir valakų pirkliai Vilniuje, išskyrus metines muges, galėjo prekėmis mainytis tik su Vilniaus pirkliais.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai atitinka citatos faktą.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Maskvos, totorių ir valakų pirkliai|Maskvos, totorių ir valakų pirkliai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_person: [[objektai/asmenys/Jonas Markovičius|Jonas Markovičius]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Bobruiskas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rudamina; mentioned_place: Smolenskas; mentioned_place: Vilija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 538440-541242; hash=aa4d19e04fb2ba7b0a662fb2e5d40a926d5fc5503e64ec287322fd0f6e217719; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Maskvos, totorių ir valakų pirkliai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad šie pirkliai atvykdavo į Vilnių.
 
 ## Reikšmingi paminėjimai
 
@@ -147,7 +135,6 @@ Nenurodyta
     ir krašto turtingumą, be kita ko, visi amatų srities pasieki­
     mai aniems laikams dažniausiai buvo neblogi24.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

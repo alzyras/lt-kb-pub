@@ -20,20 +20,8 @@ p. dalys, turinčios apsaugoti divizijos vadovybe ir sustiprinti kitus pulkus.
 - t-001
   global_id: t-40830
   teiginys: 'Į Ukmergę atvykusios 8-ojo pėstininkų pulko dalys turėjo apsaugoti divizijos vadovybę ir sustiprinti kitus pulkus.'
-  susije_objektai: 'llm_object: Ukmergė; mentioned_place: Ukmergė'
-  semantiniai_rysiai: '[[objektai/grupes/8-asis pėstininkų pulkas|8-asis pėstininkų pulkas]] keliavo į Ukmergė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c84496216857d4abf248c8253367c5640fe08a2d5dc4ac46686c049045d8f47b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Ukmergė: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: 8-asis pėstininkų pulkas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Ukmergė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo 8-ojo pulko dalių atvykimą į Ukmergę.
 
 ## Reikšmingi paminėjimai
 
@@ -48,7 +36,6 @@ p. dalys, turinčios apsaugoti divizijos vadovybe ir sustiprinti kitus pulkus.
 
     zijos kairįjį flangą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

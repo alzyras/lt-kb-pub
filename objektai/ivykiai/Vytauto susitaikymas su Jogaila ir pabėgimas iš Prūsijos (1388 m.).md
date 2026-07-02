@@ -36,23 +36,8 @@ Nenurodyta
 - t-001
   global_id: t-185663
   teiginys: 'Išjojęs iš Marienburgo, Vytautas pasiėmė žmoną su turtais ir skubiai paspruko link Žemaitijos, o iš ten pasuko į Palenkę.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sakinys gramatiškas, faktinis ir tiksliai nusako citatoje aprašytą pabėgimą.'
-  susije_objektai: 'llm_object: Palenkė; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Marienburgas; mentioned_place: Palenkė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 534092-534862; hash=270dd8ef8bb29ad93537395ee5fdcb8291d7ecaec0b4a3007225967b1bb019bc; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Palenkė: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Palenkė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vytauto judėjimą į Palenkę.
 
 ## Reikšmingi paminėjimai
 
@@ -79,10 +64,8 @@ Nenurodyta
 
     jį išsiuntė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

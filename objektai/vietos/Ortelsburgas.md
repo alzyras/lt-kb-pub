@@ -31,8 +31,6 @@ amziai:
 - t-001
   global_id: t-182872
   teiginys: 'Kęstutis Prūsuose puolė Ortelsburgą, taip pat talkino Liubarto ir Algirdo žygiuose.'
-  sudarymo_pagrindimas: 'Pašalinta neaiški nuoroda „tais pačiais metais“, išlaikyti citatos remiami faktai.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsų žemė; llm_object: Prūsų žemė'
   pagrindžia:
     - c-002
 
@@ -40,11 +38,6 @@ amziai:
 - t-002
   global_id: t-184316
   teiginys: 'Ortelsburgo apskritis buvo viena pietinės Prūsijos dalių, kurių lietuviai pasižadėjo nebepuldinėti.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalinti žodžių lūžiai, išlaikytas faktas apie vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Gunlaukenas'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Henrikas von Plauenas.md#claim-t-176405|Henrikas von Plauenas]]: Henrikas von Plauenas citatoje įvardijamas kaip Švitco komtūras.
@@ -68,7 +61,6 @@ amziai:
     nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­
     tenburgo ir Gunlaukeno apskričiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -85,7 +77,6 @@ amziai:
     puolė Ortelsburgą^22. Jeigu lietuviai butų netekę didelio karių skai­
     čiaus, jie nebūtų galėję tęsti savo tolimesnių žygių į Prūsus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

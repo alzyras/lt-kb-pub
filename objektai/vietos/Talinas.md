@@ -38,11 +38,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 - t-001
   global_id: t-136207
   teiginys: 'Balińskis Revelio, dabartinio Talino, atsiradimą siejo su danais.'
-  sudarymo_pagrindimas: 'Citata pateikia autoriaus interpretaciją, todėl reikia aiškios atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Baltija; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Revelis'
-  temporaliniai_duomenys: 'įvykio data: 1158 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pateikia autoriaus interpretaciją, todėl reikia aiškios atribucijos.'
   pagrindžia:
     - c-003
 
@@ -50,11 +45,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 - t-002
   global_id: t-136208
   teiginys: '1989 m. rugpjūčio 23 d. Gyvasis Baltijos kelias sujungė Vilnių, Rygą ir Taliną rankomis susikibusių žmonių grandine.'
-  sudarymo_pagrindimas: 'Pradinis sakinys suformuluotas nenatūraliai, o citata palaiko aiškesnį faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: SSRS'
-  temporaliniai_duomenys: 'įvykio data: 1989 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis sakinys suformuluotas nenatūraliai, o citata palaiko aiškesnį faktą.'
   pagrindžia:
     - c-002
 
@@ -62,11 +52,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 - t-003
   global_id: t-136209
   teiginys: 'Rusų tautybės gyventojams buvo lengviau keltis į Taliną, nes jame vyravo jiems sava rusakalbė aplinka.'
-  sudarymo_pagrindimas: 'Citata palaiko aiškesnį ir gramatiškai sklandesnį sakinį apie Taliną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Sniečkus'
-  temporaliniai_duomenys: 'įvykio data: 1990 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškesnį ir gramatiškai sklandesnį sakinį apie Taliną.'
   pagrindžia:
     - c-004
 
@@ -74,8 +59,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 - t-004
   global_id: t-136210
   teiginys: 'Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai mini Taliną.'
-  susije_objektai: 'mentioned_place: Tartu; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga'
   pagrindžia:
     - c-005
 
@@ -83,11 +66,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 - t-005
   global_id: t-136212
   teiginys: '1609 m. kovo 16 d. Jonas Karolis Chodkevičius sužinojo, kad iš Talino išsiųstas švedų pastiprinimas buvo 50 km nuo Piarnu.'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs, bet citata leidžia jį perrašyti.'
-  susije_objektai: 'llm_object: Piarnu; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Piarnu; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_place: Salacgryva'
-  temporaliniai_duomenys: 'įvykio data: 1609 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra nutrūkęs, bet citata leidžia jį perrašyti.'
   pagrindžia:
     - c-001
 - susijęs iš Hermano bokštas: 1989 m. rugpjūčio 23 d. Baltijos kelio žmonių grandinė driekėsi nuo Gedimino bokšto Vilniuje iki Hermano bokšto Taline.
@@ -132,7 +110,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     kovo 16 d. naktį Jonas Karolis Chodkevičius
     įsakė nedelsiant pulti Piarnu įtvirtinimus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -160,7 +137,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     sąmoningumą ir apsisprendimą reikalauti dar didesnių nuolaidų iš Mas-
     kvos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -178,7 +154,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­
     gonybę, Baltijos pakrantėse pagausino miestų ir pilių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -200,7 +175,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     Lietuvoje, kur buvo ypač išplėtotas pramoninis žemės ūkis, 1990 m. lietu-
     viai sudarė apie 80 proc. visų gyventojų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -213,7 +187,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
     yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir
     Danijos vietininkui Taline.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

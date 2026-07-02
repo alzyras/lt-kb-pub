@@ -58,8 +58,6 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
 - t-001
   global_id: t-20809
   teiginys: 'Apie 12 000 savanorių stojo į Lietuvos kariuomenę, o jiems buvo žadėti žemės sklypai.'
-  sudarymo_pagrindimas: 'Citata nepateikia 1919 m. datos, bet pagrindžia savanorių skaičių ir žemės pažadą.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -67,11 +65,6 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
 - t-002
   global_id: t-20810
   teiginys: 'M. Sleževičius pabrėžė, kad bežemiai ir mažažemiai gaus dalijamos lenkų dvarininkų žemės.'
-  sudarymo_pagrindimas: 'Teiginys patikslintas pagal citatą, išlaikant jos faktinį turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/M. Sleževičius|M. Sleževičius]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: po 1920 m.; įvykio data: 1920 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys patikslintas pagal citatą, išlaikant jos faktinį turinį.'
   pagrindžia:
     - c-002
 
@@ -88,7 +81,6 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
     vanoriai pakiliai, su entuziazmu ėjo į Lietuvos kariuomenę, tokių buvo
     apie 12 000, jiems žadėti žemės sklypai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -108,7 +100,6 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
     Pabuvęs Lietuvos rankose vos porą mėnesių Vilnius, Lenkijai sumušus
     Raudonąją armiją, nuo 1920 m. rudens atiteko Lenkijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

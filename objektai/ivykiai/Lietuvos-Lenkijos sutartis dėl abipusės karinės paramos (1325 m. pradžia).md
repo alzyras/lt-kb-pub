@@ -43,23 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-59664
   teiginys: '1325 m. pradžioje Lietuva ir Lenkija ankstesnio susitarimo pagrindu sudarė sutartį dėl abipusės karinės paramos.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako sutarties laiką, šalis ir turinį, o citata tai patvirtina.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1325 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako sutarties laiką, šalis ir turinį, o citata tai patvirtina.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 35256-35538; hash=a0e0983101bc065327c62b04aa5412ed0fa9c64a73cdea7107dda6e8f9266fae; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos-Lenkijos sutartis dėl abipusės karinės paramos (1325 m. pradžia): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos-Lenkijos sutartis dėl abipusės karinės paramos (1325 m. pradžia)" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -72,7 +57,6 @@ Nenurodyta
     pagrindu sudaryta Lietuvos—Lenkijos sutartis dėl abipusės karinės paramos. Tuo būdu
     Lietuva prisijungė prie mūsų minėtos koalicijos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

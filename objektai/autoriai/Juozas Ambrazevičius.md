@@ -30,14 +30,6 @@ periodo_grupes:
 - t-001
   global_id: t-183343
   teiginys: 'Juozas Ambrazevičius konstatavo, kad vyriausybė savo veikimą sustabdė prieš savo valią.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys perrašytas su pilnu asmens vardu ir be kabutinės fragmentiškos formuluotės.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/„laiko savo veikimą sustabdytu prieš savo valią“|„laiko savo veikimą sustabdytu prieš savo valią“]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: iki 1940 m.; įvykio data: 1940 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys perrašytas su pilnu asmens vardu ir be kabutinės fragmentiškos formuluotės.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Laikinoji vyriausybė.md#claim-t-19775|Laikinoji vyriausybė]]: 1941 m. birželio 23 d. sudarytos Laikinosios vyriausybės vadovu tapo literatūros dėstytojas Juozas Ambrazevičius.
@@ -65,7 +57,6 @@ periodo_grupes:
     mininkui J. Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo
     veikimą sustabdytu prieš savo valią“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

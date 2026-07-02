@@ -43,20 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87185
   teiginys: 'Dovanotų valdų gavėjas ir jo palikuonys galėjo jomis laisvai disponuoti, bet privalėjo atlikti Lietuvos Didžiosios Kunigaikštystės bajorų karinę tarnybą.'
-  sudarymo_pagrindimas: 'Citata leidžia sujungti teises į valdas ir karinę prievolę į aiškų enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; llm_object: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 801124-801747; hash=8058ac0d7b3ec2cecbbbcccc1ab93680e5dd54c5ca1e32dbca9a0084ad9f4faa; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuva: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bajorai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Bajorai tiesiogiai apibūdinti kaip Lietuvos Didžiosios Kunigaikštystės bajorai.
 
 ## Reikšmingi paminėjimai
 
@@ -77,7 +65,6 @@ Nenurodyta
     gi, kaip kiti Lietuvos Didžiosios Kunigaikštystės bajorai,
     vyks į karą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

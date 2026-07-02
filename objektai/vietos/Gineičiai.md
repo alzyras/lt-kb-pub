@@ -27,23 +27,8 @@ atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gine
 - t-001
   global_id: t-79413
   teiginys: 'Lapkričio 21 d. šarvuotas traukinys „Gediminas“ ties Gineičiais ir Apylauke išblaškė želigovskininkų kavalerijos padalinius.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėją, vietą ir veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Želigovskininkai|Želigovskininkai]]; mentioned_place: Kėdainiai'
-  temporaliniai_duomenys: 'įvykio data: 1921 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo veikėją, vietą ir veiksmą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=330d293ee77100b4badddca8eba95c33ea6e438eaf7425f09619f36cee002923; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Želigovskininkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gineičiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Želigovskininkai: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gineičiai" parinktas kaip owner_note_path. Targetas "Želigovskininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/Šarvuotasis traukinys Gediminas.md#claim-t-78691|Šarvuotasis traukinys Gediminas]]: 1920 m. spalio 10 d. „Gediminas“ grįžo į Kauną, kur buvo įrengti nauji kulkosvaidžių vagonai ir patobulinti mūšiuose naudoti vagonai.
 - susijęs iš Apylaukė: Lapkričio 21 d. atnaujintas šarvuotasis traukinys „Gediminas“ ties Gineičiais ir Apylauke ugnimi išblaškė želigovskininkų kavalerijos padalinius.
 - susijęs iš Apylaukė: Lapkričio 21 d. atnaujintas šarvuotasis traukinys „Gediminas“ ties Gineičiais ir Apylauke išblaškė prasiveržusius želigovskininkų kavalerijos padalinius.
@@ -60,7 +45,6 @@ atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gine
     1921 m. buvo įsteigtas šarvuotų traukinių pulkas, kurį be „Gedimino“ sudarė dar du
     nauji traukiniai „Kęstutis“ ir „Algirdas“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

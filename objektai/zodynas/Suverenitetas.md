@@ -56,11 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-05427
   teiginys: 'Tarybiniai istorikai Lietuvos Tarybų respublikos suverenitetą laikė 1940 m. įvykdytu plačiųjų lietuvių tautos masių siekimu.'
-  sudarymo_pagrindimas: 'Pašalinta nuoroda į šaltinį ir išlaikyta citatoje pateikta interpretacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė|Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1918 m.; įvykio data: 1940 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalinta nuoroda į šaltinį ir išlaikyta citatoje pateikta interpretacija.'
   pagrindžia:
     - c-004
 
@@ -68,11 +63,6 @@ Nenurodyta
 - t-002
   global_id: t-05586
   teiginys: 'Dubysos sutartyje Jogailos suverenitetas buvo siaurinamas, nes jis įsipareigojo be Ordino žinios, patarimo ir valios nepradėti karo.'
-  sudarymo_pagrindimas: 'Citata leidžia aiškiai įvardyti, kaip buvo ribojamas suverenitetas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Dubysa; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1924 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia aiškiai įvardyti, kaip buvo ribojamas suverenitetas.'
   pagrindžia:
     - c-005
 
@@ -80,9 +70,6 @@ Nenurodyta
 - t-003
   global_id: t-10898
   teiginys: 'Suverenitetas reiškia Lietuvos valdžią ir teisinę viršenybę Klaipėdos krašte.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]'
-  temporaliniai_duomenys: 'įvykio data: 1924 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -90,11 +77,6 @@ Nenurodyta
 - t-004
   global_id: t-10899
   teiginys: '1926 m. Lietuva ir Sovietų Rusija nepuolimo sutartimi pasižadėjo gerbti viena kitos suverenitetą ir teritorinį neliečiamumą.'
-  sudarymo_pagrindimas: 'Cituojamas konkretus sutarties įsipareigojimas, o ne bendra sąvokos apibrėžtis.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Sovietų Rusija; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1920 m.; įvykio data: 1926 m.; įvykio data: 1934 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Cituojamas konkretus sutarties įsipareigojimas, o ne bendra sąvokos apibrėžtis.'
   pagrindžia:
     - c-002
 
@@ -102,21 +84,8 @@ Nenurodyta
 - t-005
   global_id: t-10900
   teiginys: 'Suvereniteto sąvoka taikoma ir Lietuvos teisėms į Vilniaus sritį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1926 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6989144ad68b066a7f6e66051046e7564ae78f493117ea88af0b26f36216a28f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Suverenitetas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Suverenitetas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.).md#claim-t-75195|Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.)]]: Konstitucija skelbė Lietuvą demokratine respublika, kurios suverenitetas priklauso tautai.
 - susijęs iš [[objektai/grupes/Lietuvos Respublikos Seimas.md#claim-t-74771|Lietuvos Respublikos Seimas (seimas)]]: Konstitucija nustatė, kad valstybės valdžią Lietuvoje vykdo Seimas, Respublikos prezidentas, Vyriausybė ir teismas.
 - susijęs iš [[objektai/grupes/Lietuvos Respublikos Seimas.md#claim-t-74773|Lietuvos Respublikos Seimas (seimas)]]: Pagal Konstituciją Seimas kartu su Respublikos prezidentu, Vyriausybe ir teismu vykdo valstybės valdžią Lietuvoje.
@@ -147,7 +116,6 @@ Nenurodyta
     santykius tarp teismo organų, dviejų kalbų oficialumą, finansinius
     atsiskaitymus ir paties statuto keitimo procedūrą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -168,7 +136,6 @@ Nenurodyta
     verenumą ir teritorialinį integralumą bei neliečiamybę, o taip pat
     susilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -190,7 +157,6 @@ Nenurodyta
     Vilniaus srity, kuri buvo pripažinta Lietuvai 1920 metų liepos
     12 dienos sutartim.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -211,7 +177,6 @@ Nenurodyta
     tautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­
     žuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -228,7 +193,6 @@ Nenurodyta
     namas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo
     žinios, patarimo ir valios nepradėti karo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

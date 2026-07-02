@@ -22,8 +22,6 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
 - t-001
   global_id: t-22112
   teiginys: 'Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nuolaidžiau vertintas tautinis kultūrinis palikimas.'
-  sudarymo_pagrindimas: 'Perrašyta į aiškesnį sakinį su objektu ir vieta.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]'
   pagrindžia:
     - c-001
 
@@ -46,7 +44,6 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
     rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
     kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

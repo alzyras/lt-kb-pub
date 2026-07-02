@@ -29,7 +29,6 @@ tags:
 - t-001
   global_id: t-10834
   teiginys: 'Formuluotė šiame pasakojime pateikiama kaip senasis bajoriškos netvarkos pateisinimo posakis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-001
 
@@ -48,7 +47,6 @@ tags:
     nepulsiąs; taigi bajorija galinti džiaugtis savo laisve ir niekuo
     nesirūpinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

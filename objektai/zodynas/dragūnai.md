@@ -28,34 +28,15 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
 - t-001
   global_id: t-38711
   teiginys: 'Dragūnus buvo galima naudoti kaip kavaleriją, tačiau šiame vaidmenyje jie buvo mažiau efektyvūs.'
-  sudarymo_pagrindimas: 'Pradinis teiginys gramatiškai nepakankamai aiškus dėl praleisto tarinio papildymo.'
-  susije_objektai: 'mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1618 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys gramatiškai nepakankamai aiškus dėl praleisto tarinio papildymo.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 505055-505380; hash=f82d25f848174dabb9f69ea23170047ce3eba0b87fa5045a5b30c9a2f2a4f223; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-38712"></a>
 - t-002
   global_id: t-38712
   teiginys: 'Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti.'
-  sudarymo_pagrindimas: 'Reikia tiksliau perteikti citatos formuluotę apie žygio atlikimą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 505307-505557; hash=613b56a4423ec06b91c90c5106602ed490dfd2c220113751be57f79a69fef5a6; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: dragūnai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "dragūnai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Francois Paulin Dalairac.md#claim-t-181536|Francois Paulin Dalairac]]: Francois Paulin Dalairac vadinasi lenkų autoramentu [Armee Polonoise], 0 ją sudaro du trečdaliai, tai yra 24 000 raitelių.
 - susijęs iš Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes: Francois Paulin Dalairac rašė, kad Karūnos ir Lietuvos kariuomenė buvo padalyta į lenkų ir svetimšalių autoramentus.
 - susijęs iš Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes: Francois Paulin Dalairaco atsiminimuose Lenkijos ir Lietuvos kariuomenės skirstomos į lenkų ir svetimšalių autoramentus.
@@ -72,7 +53,6 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
     remdavo kavalerijos veiksmus kaip pėstininkai. Dragūnus buvo
     galima naudoti ir kaip kavaleriją, tačiau mažiau efektyvią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -88,7 +68,6 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
     gimentas buvo dalijamas į eskadronus, nors buvo naudojami ir kiti
     pavadinimai - vėliava, kompanija, kornetas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -106,7 +85,6 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
     jie neatsilikdavo nuo kavalerijos dalinių, o susidūrus su priešu pa-
     remdavo kavalerijos veiksmus kaip pėstininkai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

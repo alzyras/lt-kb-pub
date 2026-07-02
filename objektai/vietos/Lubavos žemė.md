@@ -31,67 +31,22 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
 - t-001
   global_id: t-58664
   teiginys: 'Dėl Lubavos žemės, tapusios vyskupo Kristijono valda, vėliau ginčijosi kryžiuočiai ir Konradas.'
-  sudarymo_pagrindimas: 'Teiginys pilnas ir atitinka citatoje nurodytą ginčą dėl žemės.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Lubava; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/bulė|bulė]]; mentioned_place: Lenkija; mentioned_place: Prūsija'
-  semantiniai_rysiai: 'Lubavos žemė priklausė [[objektai/asmenys/Kristijonas|Kristijonas]]'
-  temporaliniai_duomenys: 'įvykio data: 1234 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir atitinka citatoje nurodytą ginčą dėl žemės.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 130266-130482; hash=70c40b5162491dc14da0357cc5c690c84bf897257fab2b1bc5699d83ea7e0f39; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Kristijonas: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lubavos žemė: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Kristijonas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Lubavos žemės nobiliai pripažino Kristijono valdžią, todėl ryšys rodo priklausymą jo valdžiai.
 
 <a id="claim-t-58665"></a>
 - t-002
   global_id: t-58665
   teiginys: 'Lubavos žemės nobiliai, vadovaujami Survabūno, pripažino Kristijono valdžią.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Lubavos žemės nobilių veiksmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Lubava; mentioned_place: Elbingas; mentioned_place: Lanzanija; llm_object: [[objektai/asmenys/Kristijonas|Kristijonas]]'
-  semantiniai_rysiai: 'Lubavos žemė priklausė [[objektai/asmenys/Kristijonas|Kristijonas]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=426d0d1e3f1d722e3321375d24fc9bb44b8ec9d302eb4be44d21cd3b08592936; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Teutonai: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lubavos žemė: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Tekstas tiesiogiai teigia, kad Lubavos žemės buvo atiduotos Teutonų ordino broliams.
 
 <a id="claim-t-58666"></a>
 - t-003
   global_id: t-58666
   teiginys: 'Apie 1226 arba 1230 m. Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams.'
-  sudarymo_pagrindimas: 'Teiginys yra tikslus, glaustas ir paremtas dovanojimo aprašymu.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Lubava; mentioned_person: [[objektai/asmenys/Agota|Agota]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Mazovija; mentioned_place: Prūsija'
-  semantiniai_rysiai: 'Lubavos žemė priklausė [[objektai/grupes/Teutonai|Teutonai]]'
-  temporaliniai_duomenys: 'įvykio data: 1230 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, glaustas ir paremtas dovanojimo aprašymu.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fb07e170d942e2daa0ba0816ca683501c9c58bdcdecb83a2eac679410abdc404; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Kristijonas: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lubavos žemė: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Kristijonas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Lubavos žemė tapo Kristijono valda.
 
 ## Reikšmingi paminėjimai
 
@@ -109,7 +64,6 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
       Įkurdindami Kryžiuočių ordiną prie Vyslos, Lenkijos feodalai, o visų pirma kunigaikštis
     Konradas, matyt, ketino, jų padedami, ne tik gintis nuo prūsų, bet ir užkariauti Prūsiją.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -123,7 +77,6 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
     Lanzanijos (Varmėje, Elbingo aukštumose), vadovaujami Varpodos, pripažino Kristijono
     valdžią. Abiejų užrašymus 1216.II.18 patvirtino popiežius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -147,7 +100,6 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
     Vilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui
     Jonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

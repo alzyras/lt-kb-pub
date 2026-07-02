@@ -41,7 +41,6 @@ Nenurodyta
 - t-001
   global_id: t-10883
   teiginys: 'Laisvamanybė pateikiama kaip viena iš pagrindinių J. Šliūpo gyvenimo kovų.'
-  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -49,7 +48,6 @@ Nenurodyta
 - t-002
   global_id: t-10884
   teiginys: 'Laisvamaniai kartu su griežtesniaisiais tautininkais susibūrė apie Joną Šliūpą.'
-  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir paverstas aiškiu faktiniu teiginiu.'
   pagrindžia:
     - c-002
 
@@ -65,7 +63,6 @@ Nenurodyta
     gyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-
     sipratimo ir dėl laisvamanybės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -81,7 +78,6 @@ Nenurodyta
     sipratimo ir dėl laisvamanybės. Todėl apie jį susibūrė griežtes-
     nieji tautininkai ir laisvamaniai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

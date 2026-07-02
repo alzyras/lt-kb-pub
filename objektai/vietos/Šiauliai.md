@@ -31,8 +31,6 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 - t-001
   global_id: t-182783
   teiginys: 'Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.'
-  susije_objektai: 'llm_object: Šiauliai; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Virgoličiaus rinktinė|Virgoličiaus rinktinė]]; mentioned_person: [[objektai/asmenys/Virgoličius|Virgoličius]]; mentioned_place: Dauguva; mentioned_place: Kuršėnai; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Virgoličiaus rinktinė|Virgoličiaus rinktinė]] keliavo į Šiauliai'
   pagrindžia:
     - c-001
 
@@ -40,11 +38,6 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 - t-002
   global_id: t-182785
   teiginys: '1794 m. balandžio 16 d. Šiauliuose ir jų apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, tiksliai paremtas citata apie 1794 m. sukilimo pradžią.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/LDK 1-oji Tautinė brigada|LDK 1-oji Tautinė brigada]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_event: [[objektai/ivykiai/Vilniaus išvadavimas (1794 m. balandžio 22–23 d.)|Vilniaus išvadavimas (1794 m. balandžio 22–23 d.)]]; mentioned_place: Kaunas; mentioned_place: Rusija; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1794 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys, tiksliai paremtas citata apie 1794 m. sukilimo pradžią.'
   pagrindžia:
     - c-002
 
@@ -52,8 +45,6 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 - t-003
   global_id: t-182786
   teiginys: 'Šiauliuose, ties dabartinių Tilžės ir Vilniaus gatvių sankryža, buvo pagrindinė Šiaulių žemės strateginė kelių sankryža.'
-  sudarymo_pagrindimas: 'Perrašyta glaudžiau ir aiškiau, išlaikant citatos faktą apie sankryžos vietą Šiauliuose.'
-  susije_objektai: 'mentioned_place: Tilžė; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/grupes/Virgoličiaus rinktinė.md#claim-t-39014|Virgoličiaus rinktinė]]: 1919 m. spalio 5 d. plk. Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
@@ -143,7 +134,6 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     Lietuvos kariuomenė dar
     tęsė kovas su bolševikais Dauguvos fronte.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -163,7 +153,6 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     Tuo metu Žemaitijoje praktiškai nebuvo
     Rusijos kariuomenės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -181,7 +170,6 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     (ties dab. Tilžės ir Vilniaus gatvių san-
     kryža), kur plėtojosi senovės gyvenvietė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

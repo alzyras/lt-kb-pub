@@ -29,16 +29,6 @@ Pasak nurodytos publikacijos, arkidjakonas Povilas Maskvoje pasakojo apie Rusijo
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 317206-317485; hash=fe26cca7e674a171b5679b7237bd21fbfeb1c0390b1d4aa7f42edaec16585c86; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Maskva: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Arkidjakonas Povilas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Viešėjimas Maskvoje tiesiogiai rodo Povilo buvimą ar kelionę į Maskvą.
 - susijęs iš Maskva: Maskvoje viešėjęs arkidjakonas Povilas pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris.
 ## Reikšmingi paminėjimai
 - c-001
@@ -51,10 +41,8 @@ Pasak nurodytos publikacijos, arkidjakonas Povilas Maskvoje pasakojo apie Rusijo
     papasakojo apie pavaldžias Rusijos carui tautas, kurios garbino kaip
     dievus dangaus kūnus: saulę, mėnesi, žvaigždes ir kai kuriuos žvėris.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

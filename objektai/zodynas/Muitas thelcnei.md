@@ -23,8 +23,6 @@ Vilniaus miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­ je L
 - t-001
   global_id: t-86501
   teiginys: 'Thelcnei muitas reiškė prievolę mokėti muitą nuo prekių Lietuvos ir Rusios Didžiojoje Kunigaikštystėje.'
-  sudarymo_pagrindimas: 'Citata pagrindžia muito prievolės turinį, bet pradinis tekstas yra nutrūkęs šaltinio fragmentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 
@@ -57,7 +55,6 @@ Vilniaus miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­ je L
     lubiński, Zbiór prawi przywi­
     lejów miastu stołecznemu V V .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

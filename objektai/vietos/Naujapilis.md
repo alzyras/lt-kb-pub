@@ -29,23 +29,8 @@ amziai:
 - t-001
   global_id: t-33800
   teiginys: 'Per 1380-1381 m. susirėmimus kariuomenės dalis paėmė Naujapilį su 3000 žmonių.'
-  sudarymo_pagrindimas: 'Reikia pašalinti neaiškų pradžios kontekstą ir paversti teiginį savarankišku sakiniu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Ragainė'
-  temporaliniai_duomenys: 'įvykio data: 1380-1381; įvykio data: 1381 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia pašalinti neaiškų pradžios kontekstą ir paversti teiginį savarankišku sakiniu.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 57674-57876; hash=85b45c5c811a11b8b75cb3e6c52cd0272246274915f9ceba316edbc47ca3f33f; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naujapilis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naujapilis" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Ragainė: Ragainės komtūras per vieną puolimą išsivedė 100 žmonių į nelaisvę.
 ## Reikšmingi paminėjimai
 
@@ -58,7 +43,6 @@ amziai:
     3000 žmonių. Tuose kruvinuose 1380—81 metų susirėmimuo­
     se Kęstutis neteko per 4000 žmonių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

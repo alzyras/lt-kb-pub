@@ -23,20 +23,8 @@ Saremas brolis Otto (Blanehom).
 - t-001
   global_id: t-87815
   teiginys: 'Otto Blanehomas buvo Eželio, dabartinio Saremos, brolis.'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentiškas ir su OCR triukšmu, bet citata leidžia suformuluoti pilną sakinį.'
-  susije_objektai: 'mentioned_place: Saremas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Mintauja; mentioned_place: Ryga'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a0b2de1ef64fe689c2c491c2e763ac633ac9efe299eb29692055f7beb5236941; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Saremas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Otto Blanehom: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Saremas: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Otto Blanehom" parinktas kaip owner_note_path. Targetas "Saremas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -59,7 +47,6 @@ Saremas brolis Otto (Blanehom).
     Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir
     tik: brolis lonas de Lovenbinkė (Lo- kryžiuočių pilis Memelyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

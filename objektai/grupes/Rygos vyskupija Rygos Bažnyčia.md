@@ -23,9 +23,6 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
 - t-001
   global_id: t-86783
   teiginys: 'Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi Rygos Bažnyčiai grąžinti paimtą turtą ir jos nebepuldinėti.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko faktą apie popiežiaus sprendimą dėl Rygos Bažnyčios.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Palenkė; mentioned_place: Ryga; llm_object: [[objektai/grupes/Rygos vyskupija Rygos Bažnyčia|Rygos vyskupija Rygos Bažnyčia]]'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė [[objektai/grupes/Rygos vyskupija Rygos Bažnyčia|Rygos vyskupija Rygos Bažnyčia]]'
   pagrindžia:
     - c-001
 
@@ -54,7 +51,6 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
     gresiantys Bažnyčios garbei, turi būti išsklaidyti ir ateityje
     nekuriami.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

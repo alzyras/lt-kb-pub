@@ -36,45 +36,15 @@ Nenurodyta
 - t-001
   global_id: t-185548
   teiginys: 'Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturiasdešimties tūkstančių kariuomene prie Ašmenos.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Perrašyta sklandžiau, pašalinant negrabų junginį ir išlaikant citatos faktus.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_place: Ašmena; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Tverė; mentioned_place: Volynė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 782080-782656; hash=61ebe8f8206a5c373899d7bbe3ca4f156bd6e1384f68d63de8820ef509732e82; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Lietuva: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Boleslovas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekste tiesiogiai sakoma, kad Boleslovas užpuolė Lietuvą.
 
 <a id="claim-t-185549"></a>
 - t-002
   global_id: t-185549
   teiginys: 'Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas; citata palaiko glaustą priežasties ir veiksmo sakinį.'
-  susije_objektai: 'llm_object: Livonija; mentioned_person: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; mentioned_place: Livonija; mentioned_place: Lietuva; mentioned_place: Mstislavlis; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 783465-784431; hash=0e1508262f02bd8e01edc42046e5d9b626233f1fbe3ff561965e19996a87f5a3; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Livonija: 0.89
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Žygimantas patraukė į Livoniją.
 
 ## Reikšmingi paminėjimai
 
@@ -98,14 +68,11 @@ Nenurodyta
     čio Boriso brolio. Pagal slaptą susitarimą Livonija at­
     siuntė į pagalbą kelis būrius vokiečių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -134,10 +101,8 @@ Nenurodyta
     šalį, ir kariai, kurie džiaugėsi dėl didelio grobio, ir va­
     das, atkeršijęs už skriaudas, sugrįžo žiemoti į Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002

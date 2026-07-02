@@ -35,133 +35,43 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
 - t-001
   global_id: t-69558
   teiginys: 'Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos paliaubos.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d74ec3c305630562fc5331a34b919dc2dc906bcd1434468b1336690db1dc629d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Viazma: 0.98
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Viazma: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Vytautas užėmė Viazmą.
 
 <a id="claim-t-69559"></a>
 - t-002
   global_id: t-69559
   teiginys: 'Vytautas, pasiuntęs belaisvį Hlebą į Krokuvą, užėmė Smolensko leną Viazmą ir naujai prijungtose žemėse paskyrė vietininkus.'
-  sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'llm_object: Viazma; llm_object: Smolenskas; mentioned_person: [[objektai/asmenys/Hlebas|Hlebas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Smolenskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užėmė Viazma'
-  temporaliniai_duomenys: 'įvykio data: 1396 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 877628-877913; hash=2b510183fce5e4dc9eadb2ef30157425d1640283c2b0766dbfb60d27bb405393; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: sudare_sutarti_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vosylius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vosyliaus ir Vytauto sudarytas paliaubas.
 
 <a id="claim-t-69560"></a>
 - t-003
   global_id: t-69560
   teiginys: 'Viazmos kunigaikščiai (rytinė Smolensko žemių dalis) taip pat sukilo.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Smolenskas; mentioned_place: Mstislavlis; llm_object: Smolenskas'
-  semantiniai_rysiai: 'Viazma priklausė Smolenskas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 178898-179115; hash=ce00abb021ac9e4e544daea23b503dbfd37065fe286b1aaa00bef9efbd6a1e50; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Smolenskas: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Viazma: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai apibūdina Viazmą kaip rytinę Smolensko žemių dalį.
 
 <a id="claim-t-184406"></a>
 - t-005
   global_id: t-184406
   teiginys: 'Maskviečiai nesėkmingai apgulė Viazmą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą nesėkmingą Viazmos apgulą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 877551-877787; hash=053818b2e15f973d512712985723fc3132cc50a67ebfad830ef23f87da9c1c58; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vosylius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Viazma: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vosylius: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viazma" parinktas kaip owner_note_path. Targetas "Vosylius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-187668"></a>
 - t-006
   global_id: t-187668
   teiginys: 'Po amžinos taikos sutarties Maskvos valdovas Ivanas Vasiljevičius pasiliko Viazmą ir kitus minėtus miestus bei valsčius sau.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Patikslintas veikėjas ir kontekstas pagal citatą.'
-  susije_objektai: 'llm_object: Viazma; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva; mentioned_place: Smolenskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]] valdė Viazma'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 255191-255674; hash=c2ceb1dd2f0ead0c37526cb3b550a27e2d9feb71b400b37a8e8275d3d39816a6; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Viazma: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ivanas Vasiljevičius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Viazma: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Maskvos didysis kunigaikštis pasiliko Viazmą sau.
 
 <a id="claim-t-187669"></a>
 - t-007
   global_id: t-187669
   teiginys: 'Šaltinio pastaboje Viazmos užėmimas siejamas su vėlesniu laiku, 1493 m. žiema iki vasario vidurio.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Atribuuota spėjamoji pastabos formuluotė „matyt“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Chlepenis; mentioned_place: Mosalskas; mentioned_place: Rohačevas; llm_object: Viazma'
-  semantiniai_rysiai: '[[objektai/grupes/Maskvėnai|Maskvėnai]] užėmė Viazma'
-  temporaliniai_duomenys: 'įvykio data: 1493 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Atribuuota spėjamoji pastabos formuluotė „matyt“.'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 604036-604384; hash=32f60fa48936328c760d6530d3564b5a838012c844547cc6029a4af89b143d67; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Viazma: 0.63
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Viazma: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatos kontekste minimi maskvėnų užimti LDK rytų pasienio miestai, o Viazma priskiriama vėlesniam užėmimui.
 - susijęs iš [[objektai/ivykiai/Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį).md#claim-t-31475|Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)]]: 1396 m. rudenį Vytautas, pasisiūlęs tarpininkauti, užėmė Smolenską ir Smolensko leną Viazmą.
 - susijęs iš [[objektai/asmenys/Hlebas.md#claim-t-30263|Hlebas]]: Vytautas pasiuntė belaisvį Hlebą į Krokuvą, o po to užėmė Smolensko leną Viazmą.
 - susijęs iš [[objektai/asmenys/Stanislovas Kiška.md#claim-t-184832|Stanislovas Kiška]]: Stanislovas Kiška prasivalė kelią ir nusiaubė Viazmos žemę bei gretimas apygardas, žudydamas ir degindamas.
@@ -194,7 +104,6 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
     Paskutiniam savo žygiui, pasitelkęs burių iš Lenkijos ir gavęs
     ordino pagalbos, Vytautas išsirengė su gana didele kariuomene.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -209,7 +118,6 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
     ris juos sumušė ir, paėmęs į nelaisvę, nusiuntė Vytautui. Viaz­
     ma atiteko Vytautui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -228,7 +136,6 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
     Sviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I
     (1389-1425), su kuriuo oficialiai laikėsi taikos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -243,7 +150,6 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
     Juos numalšinti Vytautas pavedė Mstislavlio kunigaikščiui, ku­
     ris juos sumušė ir, paėmęs į nelaisvę, nusiuntė Vytautui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -259,7 +165,6 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
     menės prastovėjo kelias dienas, ir pagaliau Vosylius su Vytautu
     vidurvasaryje padarė paliaubas^53.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -279,7 +184,6 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
     smolenskiečius, kurie tuose miestuose buvo paimti ne­
     laisvėn, paleido į Smolenską l!.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -296,7 +200,6 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
     tus nuo Rževo). Viazma, matyt, buvo užimta vėliau, 1493 m, žie­
     mų ligi įh vasario.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

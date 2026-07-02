@@ -24,9 +24,6 @@ Mažojoje Lietuvoje germanizacijos politika sustiprėjo tik XIX a. pabaigoje, to
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5f8bfff7d44077539d3cc27a374f860c3c6f8aae313aceb9378321f98038bf9f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -42,9 +39,7 @@ Mažojoje Lietuvoje germanizacijos politika sustiprėjo tik XIX a. pabaigoje, to
     pagaliau pati germanizacijos politika M. Lietuvoj tesustiprėjo
     tik į XIX amž. galą, todėl nė nespėjo čia suvirškinti visų lietuvių.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

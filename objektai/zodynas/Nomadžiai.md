@@ -23,8 +23,6 @@ Vartojamos formos: `nomadžiais`.
 - t-001
   global_id: t-07634
   teiginys: 'Nomadžiais prašaliečiai vadino visą tautą, nes šis vardas aiškintas kaip žmonės, gyvenantys namuose.'
-  sudarymo_pagrindimas: 'Pradinis teiginys prasideda mažąja raide ir gali būti suformuluotas gramatiškiau.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]'
   pagrindžia:
     - c-001
 
@@ -44,7 +42,6 @@ Vartojamos formos: `nomadžiais`.
         pylė paplavas ir kitą įurštą^183 vandenį, iš kurios duobės tekėjo pro namo pamatą į griovį, kursai
         išvestas buvo namo pasieniu lauko pusėj pakalniui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

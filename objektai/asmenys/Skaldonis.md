@@ -28,24 +28,8 @@ Dusburgietis teigia, kad galop, nukirtus virvę, kuria buvo pririštas, laivas n
 - t-001
   global_id: t-60434
   teiginys: 'Skaldonis, Surmino brolis, žuvo lietuviams 1313 m. užpuolus Nemunu plaukiantį laivą.'
-  sudarymo_pagrindimas: 'Nutrūkęs tekstas perrašytas į pilną sakinį apie Skaldonio žūtį.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Surminas|Surminas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Nemunas'
-  semantiniai_rysiai: '[[objektai/asmenys/Skaldonis|Skaldonis]] buvo brolis [[objektai/asmenys/Surminas|Surminas]]'
-  temporaliniai_duomenys: 'įvykio data: 1313 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Nutrūkęs tekstas perrašytas į pilną sakinį apie Skaldonio žūtį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 646054-646767; hash=1a9520974410cae06f54c812b1bb82bd2776585e04992abbf59ce2af969dbd43; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Surminas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skaldonis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Surminas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Skaldonį kaip Surmino brolį.
 - susijęs iš [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.).md#claim-t-59447|Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]: Lietuviai Nemune užėmė Ordino karo laivą, nužudė keturis lankininkus ir sudegino laivą, nors per puolimą žuvo Surmino brolis Skaldonis.
 ## Reikšmingi paminėjimai
 
@@ -69,7 +53,6 @@ Dusburgietis teigia, kad galop, nukirtus virvę, kuria buvo pririštas, laivas n
 
                 319 (312).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

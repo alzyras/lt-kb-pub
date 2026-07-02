@@ -48,8 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-87159
   teiginys: 'Leonas Sapiega, vyskupas Bžostovskis, kanauninkas Vaišnarovičius ir kiti dovanotomis bei užrašytomis knygomis praturtino biblioteką.'
-  sudarymo_pagrindimas: 'Reikia sutvarkyti OCR pažeistas formas ir išlaikyti citatos faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]; mentioned_place: Lietuva; mentioned_place: Užupis; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -57,23 +55,8 @@ Nenurodyta
 - t-002
   global_id: t-87160
   teiginys: '1623 m. Adrijanas Vežbickis įpareigojo Akademijos kolegiją iš Blonių valdos pajamų kasmet skirti po 100 auksinų knygoms įsigyti.'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaišių stalai|Vaišių stalai]]; mentioned_place: Kaunas; mentioned_place: Minskas'
-  temporaliniai_duomenys: 'įvykio data: 1623 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir tiksliai paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6ce318841a2511391c8fdf7bc2d3bb075503115432844978b8ba428ca8772478; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bibliotekos knygų gausinimas fundacinėmis pajamomis ir knygų dovanomis: owner_note_path, thing
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bibliotekos knygų gausinimas fundacinėmis pajamomis ir knygų dovanomis" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -107,7 +90,6 @@ Nenurodyta
     nių namų, tiek ir iš sklypų pelnomų, jas užrašė bibliotekai
     knygų gausinimo dėlei.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -128,7 +110,6 @@ Nenurodyta
     Nuo sklypų Užupyje - 168 auks.
     Summa facit [suma sudaro] -468 auks.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

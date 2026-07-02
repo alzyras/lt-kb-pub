@@ -29,8 +29,6 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
 - t-001
   global_id: t-94746
   teiginys: 'Apie gegužės 20 d. į Vilniaus srities Medininkus buvo įsiveržta, ten išbūta aštuonias dienas ir pasitraukta su dideliu grobiu.'
-  sudarymo_pagrindimas: 'Pradiniame teiginyje neaiškus įvardis ir likusi išnašos žyma.'
-  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59865|Henrikas iš Plockės]]: 1314 m. Henrikas iš Plockės su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.
@@ -189,7 +187,6 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
     gegužės m. 20 d. jis įsiveržė į Vilniaus srities Medininkus ir,
     pabuvęs ten astuonias dienas, grįžo su dideliu grobiu^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

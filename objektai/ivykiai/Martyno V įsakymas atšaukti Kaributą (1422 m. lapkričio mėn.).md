@@ -44,23 +44,8 @@ Nenurodyta
 - t-001
   global_id: t-34547
   teiginys: '1422 m. lapkritį popiežius Martynas V įsakė Vytautui per du mėnesius atšaukti Kaributą, grasindamas ekskomunika.'
-  sudarymo_pagrindimas: 'Citata leidžia tiksliau susieti teiginį su įsakymu ir jo grėsme.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas V|Martynas V]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Lietuvos vyskupai|Lietuvos vyskupai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1422 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia tiksliau susieti teiginį su įsakymu ir jo grėsme.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 307221-307646; hash=57dc008a340b57e630bb547ecf31e0c4b0a415bb11a5a151a8c87bab47fb5811; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Martynas V: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Martynas V: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)" parinktas kaip owner_note_path. Targetas "Martynas V" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -76,7 +61,6 @@ Nenurodyta
     dviejų mėnesių bėgy atšaukti Kaributą, nes kitaip būsiąs eksko­
     munikuotas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

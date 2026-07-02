@@ -23,20 +23,8 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.
 - t-001
   global_id: t-88072
   teiginys: 'Michałas Balińskis Kotzebue Prūsijos istoriją vadino geriausiu paliudijimu apie Foigto pirmtako darbą.'
-  sudarymo_pagrindimas: 'Tai vertinamasis teiginys, todėl reikia aiškios autoriaus atribucijos.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 69620-70178; hash=6e59bedc93c4c46f401824eab0a23ed0d8f209ea7bc8fdd0e44fa9172056e418; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kotzebue: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kotzebue" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/A. Kotzebue.md#claim-t-30511|A. Kotzebue]]: A. Kotzebue parašė veikalą „Preussens ältere Geschichte“.
 - susijęs iš [[objektai/autoriai/August von Kotzebue.md#claim-t-87938|August von Kotzebue]]: Augustas von Kotzebue išrašė tris Gedimino laiškus iš slaptojo Kryžiuočių archyvo Karaliaučiuje ir įdėjo juos į savo veikalą.
 - susijęs iš [[objektai/autoriai/August von Kotzebue.md#claim-t-87939|August von Kotzebue]]: Michałas Balińskis nesutiko su Kotzebue datavimu, kad minėtas įvykis nutiko tarp 1432 m. rugpjūčio 14 ir 28 d.
@@ -86,7 +74,6 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.
     Foigto pirmtako, Prūsijos istorija yra
     geriausias paliudijimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

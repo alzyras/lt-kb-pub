@@ -40,20 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-59683
   teiginys: 'Neįvardytas asmuo praliejo kito žmogaus kraują, pervėręs jį durklu.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie durklo panaudojimą, bet pradinė formuluotė fragmentiška.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 759985-760249; hash=a388008cebc44a24d8c5147e5fcfffc9922b1aee8903d068b7aa232a661a45a2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kūnas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Durklas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kūnas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Durklas" parinktas kaip owner_note_path. Targetas "Kūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Karakašas.md#claim-t-40257|Karakašas]]: Rugsėjo 15 d. Budos pašos Karakašo vadovaujama turkų kariuomenė dar kartą bandė pulti, bet vadui pataikius kulkai į galvą pasitraukė.
 - susijęs iš [[objektai/paprociai/Žemaičių pasalinis pasipriešinimas kryžiuočių užvaizdoms ir tarpusavio neišdavimas.md#claim-t-185907|Žemaičių pasalinis pasipriešinimas kryžiuočių užvaizdoms ir tarpusavio neišdavimas]]: Žemaičiai, nepratę prie svetimųjų valdymo, iš pasalų žudė kryžiuočių dvarų ir kaimų užvaizdas, o kaltininkų niekas neišdavė.
 - susijęs iš Pomeranija: Pomeranijoje, Vyslos žemupyje ir Sembos pusiasalyje pasitaikė pavienių importuotų dirbinių.
@@ -67,7 +55,6 @@ Nenurodyta
     jo valgymą bei gėrei jo gėrimą, o po to praliejai jo kūno kraują, pervėręs jį durklu? Tave
     kaltindamas, jis stengėsi apsaugoti tavo sielą nuo pražūties ir suteikti jai gyvenimą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -29,24 +29,8 @@ amziai:
 - t-001
   global_id: t-28509
   teiginys: '1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami per 4 mylias prie Vilniaus.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas aiškus sakinys.'
-  susije_objektai: 'llm_object: Dubingiai; llm_object: Šešuoliai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dubingiai; mentioned_place: Ukmergė'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Šešuoliai'
-  temporaliniai_duomenys: 'įvykio data: 1333 m.; įvykio data: 1334 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuluotas aiškus sakinys.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 647258-647442; hash=4e70f1e39f94c3a23d915d53b0839e65f8f11e64c711b1869d84c3771e16a5b5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Dubingiai: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Dubingiai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad kryžiuočiai nusiaubė Dubingius.
 - susijęs iš Lebedevas: Aleksandras Jurjevičius Alšėniškis Lietuvoje turėjo Lebedevą kartu su Alšėnais, Pumais, Svyruotais ir Šešuoliais.
 - susijęs iš Pumos: Aleksandrui Jurjevičiui Lietuvoje priklausė Pumos.
 - susijęs iš Svyruotai: Aleksandras Jurjevičius Alšėniškis Lietuvoje turėjo Svyruotus kartu su kitomis valdomis.
@@ -59,7 +43,6 @@ amziai:
     1334, nusiaubę Dubingius ir Šešuolius, jie buvo 4 mylios nuo Vil­
     niaus. Tada abiejų lyčių lietuvių buvę nužudyta 1200^4.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

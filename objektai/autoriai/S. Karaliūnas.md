@@ -20,12 +20,8 @@ Dusburgietis teigia, kad karaliūnui, istorikui R.
 - t-001
   global_id: t-60779
   teiginys: 'S. Karaliūnas buvo vienas iš rankraščio recenzentų rengiant knygą spaudai.'
-  sudarymo_pagrindimas: 'Citata aiškiai nurodo S. Karaliūną kaip rankraštį recenzavusį asmenį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 4333-4593; hash=2ef11291fddb134f5ddff25dd278170c817513ef309603ce415c4fb7e31092e6; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -37,7 +33,6 @@ Dusburgietis teigia, kad karaliūnui, istorikui R.
     S. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei,
     filol. m. dr. A. Vanagui ir visiems kitiems, padėjusiems rengti šią knygą spaudai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

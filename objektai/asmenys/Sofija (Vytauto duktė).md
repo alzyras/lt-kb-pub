@@ -8,6 +8,11 @@ datos:
   - '1387 m.'
 date_start: '1387'
 date_end: ''
+description: 'Sofija, Vytauto duktė ir Maskvos kunigaikštienė, siejama su Vasilijaus vedybomis, Vosyliaus II globa ir protestu dėl Žemaitijos.'
+socialDescription: 'Sofija, Vytauto duktė, iškyla kaip Maskvos kunigaikštienė, kurios vardas siejamas su dinastinėmis vedybomis, Maskvos ryšiais ir Žemaitijos klausimu.'
+seo_atnaujinta: '2026-07-02T21:03:54.582283+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -22,7 +27,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. Šaltiniai ją sieja su Vosyliaus vedybų planu, Vytauto ryšiais su Maskva, protestu dėl Žemaitijos ir nepilnamečio sūnaus globos klausimu.
+Sofija, Vytauto duktė, šaltiniuose minima kaip Maskvos kunigaikštienė, siejama su Vasilijumi ir 1387 m. vedybų derybomis Lucke. Įrašas pabrėžia jos vaidmenį Vytauto ryšiuose su Maskva, Jogailos bandymus varžyti šias jungtuves ir vėlesnius politinius veiksmus. Po vyro mirties Sofija prašė Vytauto globoti jos nepilnametį sūnų Vosylių II, o jos vardu taip pat minimas protestas dėl Žemaitijos atidavimo Ordinui.
 
 ## Teiginiai
 
@@ -30,7 +35,6 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
 - t-001
   global_id: t-176611
   teiginys: 'Sofijos, Maskvos kunigaikštienės, vardu buvo įteiktas protestas prieš Žemaitijos atidavimą Ordinui po jos tėvo mirties.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Tornas'
   pagrindžia:
     - c-003
 
@@ -38,9 +42,6 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
 - t-002
   global_id: t-176612
   teiginys: 'Po vyro mirties Sofija prašė Vytauto paimti jos sūnų Vosylių II globon ir palikti jam valstybę.'
-  sudarymo_pagrindimas: 'Reikia pataisyti valdymą ir aiškiau suformuluoti Sofijos prašymą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_place: Minskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Sofija (Vytauto duktė)|Sofija (Vytauto duktė)]] buvo duktė [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 
@@ -48,8 +49,6 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
 - t-003
   global_id: t-176613
   teiginys: 'Žemaičių bajorai Sofijos ir Jogailos dukters Jadvygos vardu įteikė protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Sofijos vardu pateiktą protestą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   pagrindžia:
     - c-002
 
@@ -57,8 +56,6 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
 - t-004
   global_id: t-176614
   teiginys: 'Jogaila, varžydamas Vytautą, be jo sutikimo uždraudė išleisti Sofiją už Maskvos kunigaikščio.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Sofija (Vytauto duktė)|Sofija (Vytauto duktė)]] buvo duktė [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-004
 
@@ -66,9 +63,6 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
 - t-005
   global_id: t-176616
   teiginys: 'Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Maskva'
-  temporaliniai_duomenys: 'įvykio data: 1387 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-005
 
@@ -76,23 +70,8 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
 - t-006
   global_id: t-184830
   teiginys: 'Sofija, Vytauto duktė, tekėjo už Maskvos kunigaikščio Vasilijaus, o Vytautas Marienburge surengė jai dideles palydėtuves.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys labiau pabrėžia Vytauto veiksmą, todėl perrašyta aiškiau apie Sofiją.'
-  susije_objektai: 'mentioned_place: Marienburgas; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Plockas'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a53dce12511fb1d56fda1df4f70f9301f213d94122b051c5b37f0f195f65e979; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/06_deduplication/01_deduplicate_entities.md
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sofija (Vytauto duktė): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sofija (Vytauto duktė)" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Pskovas: Vytauto dukterį Sofiją lydėję asmenys iš Gdansko laivais per Pernu pasiekė Pskovą.
 ## Reikšmingi paminėjimai
 
@@ -105,7 +84,6 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
     sūnumi Vosylių II ir, pildydama savo mirusio vyro valią, prašė
     paimti sūnų savo globon, paliekant jam jo valstybę^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -123,7 +101,6 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
     įpėdinių veto pridėjo savo žodį ir Žemaičių bajorai, pasisaky­
     dami neužleisią niekam savo krašto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -141,7 +118,6 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
     Jadvygos (Lenkų karalaitės) vardu protestą prieš Žemaičių
     krašto atidavimą Ordinui po jų tėvų mirties.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -161,7 +137,6 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
     bai buvo saugojamas, kad jis į kokią nors pusę ne tik pasiunti­
     nio, bet ir laiško nepasiųstų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -178,7 +153,6 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
     jo žinios buvo slapta pasiųsta Vytauto delegacija galutinai baigti
     derybas su Maskva.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -209,7 +183,6 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
     kunigaikščiais į vestuvių iškilmes atvyko ir Henrikas,
     Vytauto žmonos Onos brolis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

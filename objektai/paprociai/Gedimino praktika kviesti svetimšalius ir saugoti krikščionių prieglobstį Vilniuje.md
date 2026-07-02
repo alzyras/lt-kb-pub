@@ -49,20 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-87156
   teiginys: 'Gediminas užmezgė ryšius su krikščioniškąja Europa, globojo pranciškonus ir dominikonus, o Vilniuje leido kurtis atėjūnams iš Vokietijos ir Lenkijos.'
-  sudarymo_pagrindimas: 'Citata remia platesnį faktą apie Gedimino prieglobstį ir svetimšalių kvietimą.'
-  susije_objektai: 'llm_object: Voluinė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_place: Vokietija; llm_object: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnelė; mentioned_place: Voluinė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 65022-65959; hash=cb737ef915eebe9bafdf17e823339f8a1c0e9a18cf039b16f8fbf63079cdcde9; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Voluinė: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Voluinė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Gediminas buvo užėmęs tėvonijas Voluinėje.
 
 ## Reikšmingi paminėjimai
 
@@ -96,7 +84,6 @@ Nenurodyta
     nėtosios kalvos pusėje įtekėjo į Vili­
     ją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

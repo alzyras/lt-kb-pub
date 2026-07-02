@@ -33,9 +33,6 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 23181-23697; hash=9ce2dcb6543762641dfe45291464471501eab74d57e5934b030f19c45674a9fb; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -52,9 +49,7 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
     ma asmenybė ir laisva tauta buvo vienas iš svarbiausių šio pla­
     taus, sudėtingo visuomeninio judėjimo devizų.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

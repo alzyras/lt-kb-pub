@@ -43,20 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87174
   teiginys: 'Kęstutis, puldamas Vilnių, į miestą pasiuntė riterius, persirengusius pirkliais, ir ginkluotus vyrus, paslėptus kailių bei šieno vežimuose.'
-  sudarymo_pagrindimas: 'Teiginys buvo OCR triukšmingas ir neužbaigtas, bet citata aiškiai pagrindžia infiltravimo būdą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=896a515b95405cecca29f91471cba6798d6f45a832734b817e10a516fe4cfeff; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vežimai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karių infiltravimas persirengus pirkliais ir slepiantis vežimuose: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vežimai: mention_match, thing, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karių infiltravimas persirengus pirkliais ir slepiantis vežimuose" parinktas kaip owner_note_path. Targetas "Vežimai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -85,14 +73,11 @@ Nenurodyta
     Jogailą su motina ir seserimi Marija
     bei jos vyru.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Kęstutis, puldamas Vilnių, į miestą pasiuntė riterius, persirengusius pirkliais, ir ginkluotus vyrus, paslėptus kailių bei šieno vežimuose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -119,10 +104,8 @@ Nenurodyta
     Lietuvos istorikas stengėsi pagražin­
     ti savaime aiškų dalyką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002

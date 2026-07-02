@@ -28,39 +28,15 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
 - t-001
   global_id: t-85874
   teiginys: 'Prie Akademijos aikštės tėvas Riokuras finansavo vieną klasių eilę, o įvairūs jėzuitai apstatydino kitą klasių ir viešų susirinkimų salės eilę.'
-  sudarymo_pagrindimas: 'Teiginys remiasi citata apie Riokuro ir kitų jėzuitų lėšomis apstatytas klasių eiles.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Akademijos observatorijos prietaisai|Akademijos observatorijos prietaisai]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Oginskiai|Oginskiai]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Puzinienė iš Oginskių|Puzinienė iš Oginskių]]; mentioned_place: Mstislavlis'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=13128480188f9c81fa3d92f480f69b0c8c432f285d135dccdbe8fc01cb3c2763; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kūnas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Akademijos aikštė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kūnas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Akademijos aikštė" parinktas kaip owner_note_path. Targetas "Kūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-85875"></a>
 - t-002
   global_id: t-85875
   teiginys: 'Akademijos aikštė buvo netaisyklingas ketvirtainis, apsuptas bažnyčios, kolegijos sienų ir mokymosi patalpų kolonadų.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatos aprašymą apie Akademijos aikštės formą ir apsuptį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 396121-396732; hash=2594e217468a6141142f105f39c6d698d5b0d52aef1e691628c545e280661b35; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Akademijos observatorijos prietaisai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Akademijos aikštė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Akademijos observatorijos prietaisai: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Akademijos aikštė" parinktas kaip owner_note_path. Targetas "Akademijos observatorijos prietaisai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Puzinienė iš Oginskių.md#claim-t-87840|Puzinienė iš Oginskių]]: Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.
 - susijęs iš [[objektai/daiktai/Akademijos aikštės medinis šulinys.md#claim-t-54479|Akademijos aikštės medinis šulinys]]: Akademijos aikštėje buvo medinis keturių šulų šulinys su stogeliu ir volu vandeniui traukti.
 - susijęs iš [[objektai/daiktai/Akademijos observatorijos prietaisai.md#claim-t-81838|Akademijos observatorijos prietaisai]]: Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.
@@ -88,7 +64,6 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
     100 000 auks. lėšų, prie Akademijos aikštės dar kai kuriuos
     funduotus mūrus prijungę, puikiai apstatydino ir išpuošė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -120,7 +95,6 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
     bokšto alias varpinės, Akademijos visuotinių iškilmių salė,
     pailgos formos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

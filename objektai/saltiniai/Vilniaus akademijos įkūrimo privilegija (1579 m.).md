@@ -26,9 +26,6 @@ Vilniaus akademijos privilegiją karalius iš pradžių davė jėzuitams būdama
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 599605-599892; hash=41a2f2029ff0e89de674895df86ebc4591f0b267b7d1d04305533ea33a922ff5; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-67570"></a>
 - t-002
   global_id: t-67570
@@ -37,9 +34,6 @@ Vilniaus akademijos privilegiją karalius iš pradžių davė jėzuitams būdama
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f6579aa428fdf75f1678e22c84bf93c434a18e219fde9bcdd161c18984185654; match=normalized; occurrences=1
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -54,13 +48,10 @@ Vilniaus akademijos privilegiją karalius iš pradžių davė jėzuitams būdama
     davė privilegijos raštą, kurį jis antrą kartą iškilmingai patvirtino
     atvykęs į Lietuvą (1579 m.).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-002
+    - t-002- c-002
   santrauka: 'Vilniaus akademijos privilegiją karalius iš pradžių davė jėzuitams būdamas Lenkijoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -70,9 +61,7 @@ Vilniaus akademijos privilegiją karalius iš pradžių davė jėzuitams būdama
     nams, paprašė patvirtinti ją iškilmingu aktu. Karalius tatai padarė,
     grįžęs iš karo žygio.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

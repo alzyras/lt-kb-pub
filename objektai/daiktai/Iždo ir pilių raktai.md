@@ -51,11 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-64929
   teiginys: 'Dlugošo aprašymu, Vytautas prieš mirtį pavedė Lietuvą Jogailai ir liepė jam atiduoti iždo ir pilių raktus.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Dlugošo aprašymą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Puzinas|J. Puzinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Jogaila|Jogaila]]'
-  temporaliniai_duomenys: 'įvykio data: 1914 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Dlugošo aprašymą ir yra paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -63,11 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-64930
   teiginys: '1382 m. birželio 12 d. Rygos pirklys Hanulo Vilniuje įteikė Jogailai pilies raktus.'
-  sudarymo_pagrindimas: 'Sakinys aiškiai nurodo datą, veikėją, vietą ir veiksmą, paremtą citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Ryga; mentioned_place: Vilnius; mentioned_place: Vitebskas'
-  temporaliniai_duomenys: 'įvykio data: 1382 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys aiškiai nurodo datą, veikėją, vietą ir veiksmą, paremtą citata.'
   pagrindžia:
     - c-002
 
@@ -75,8 +65,6 @@ Nenurodyta
 - t-003
   global_id: t-64931
   teiginys: 'Prahos gyventojai Kaributui įdavė miesto raktus ir pavedė jam karo vadovybę.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatinis ir tiksliai atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Praga; mentioned_place: Praha'
   pagrindžia:
     - c-003
 
@@ -98,7 +86,6 @@ Nenurodyta
     šaltinių, kad būtų galima šią prielaidą, kurią J. Puzinas taip ak­
     tyviai gynė, išvystyti į dėmesio vertą tezę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -119,7 +106,6 @@ Nenurodyta
     Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
     gos pirklys Hanulo įteikė jam pilies raktus^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -136,7 +122,6 @@ Nenurodyta
     Pragos gyventojai Kaributą iškilmingai sutiko, įdavė jam mies­
     to raktus ir pavedė karo vadovybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

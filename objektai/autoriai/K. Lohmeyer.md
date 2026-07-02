@@ -34,8 +34,6 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
 - t-001
   global_id: t-64678
   teiginys: 'K. Lohmeyer buvo 1907 m. Gotoje išleisto veikalo „Zur Altpreussischen Geschichte, Aufsätze und Vorträge“ autorius.'
-  temporaliniai_duomenys: 'įvykio data: 1907 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -43,7 +41,6 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
 - t-002
   global_id: t-64679
   teiginys: 'K. Lohmeyer priskiriamas autoriams, kurie Vytauto pasitraukimą aiškino kariuomenės susilpnėjimu ir Livonijos Ordino pavojumi.'
-  susije_objektai: 'mentioned_place: Livonija'
   pagrindžia:
     - c-003
 
@@ -51,8 +48,6 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
 - t-003
   global_id: t-64680
   teiginys: 'Karl Lohmeyer Brockhauzo enciklopedijos straipsnyje „Litauen“ Vytautą vadino vienu žymiausių vyrų pasaulio istorijoje.'
-  sudarymo_pagrindimas: 'Teiginys suformuluotas kaip konkretus Lohmeyerio vertinimas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-002
 
@@ -64,7 +59,6 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
     Lohm. = Lohmeyer. Karl, Zur Altpreussischen Geschichte,
     Aufsätze und Vorträge. Gotha, 1907.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -79,7 +73,6 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
     zo enciklop., Litauen) sako, kad jis buvo ir vienas žymiausiųjų
     vyrų viso pasaulio istorijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -93,7 +86,6 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
     menės susilpnėjimo ir dėl pavojaus iš Livonijos Ordino pusės (106 p.).
     (^2) ) Taip mano ir Lohmeyer (žiūr. 269 p.). (^3) ) Mal. 195, (^4) ) Koch. 145.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

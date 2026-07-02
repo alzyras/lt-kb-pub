@@ -9,6 +9,11 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+description: 'Petras I Didysis siekė Rusijai prasiveržti prie Baltijos jūros, sudarė sąjungą su Augustu II ir 1721 m. paskelbė Rusiją imperija.'
+socialDescription: 'Petras I Didysis siekė Baltijos pajūrio, veikė prieš Švediją su Augustu II ir 1721 m. paskelbė Rusiją imperija.'
+seo_atnaujinta: '2026-07-02T21:03:54.581144+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,7 +26,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė Narvą, Tartus ir Nevos paupy pradėjo statyti būsimąją Rusijos sostinę — Petrapilį (dabartinį Leningradą). Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį, tuo metu Švedų karalium buvo jaunutis Karolis XII; jam tebuvo vos 18 metų amžiaus. Tuo pat metu Maskvos caras Petras I Didysis ruošėsi prasiveržti į Baltijos jūrą.
+Petras I Didysis buvo Maskvos caras, XVIII a. pradžioje siekęs Rusijai prasiveržti prie Baltijos jūros ir išstumti švedus iš pajūrio. Jis su Augustu II susitarė dėl veiksmų prieš Švediją, siekiant atimti Baltijos pajūrį ir remti kovą dėl Livonijos. 1721 m. Petras I paskelbė Rusiją imperija, o Ivinskio vertinimu jo epocha įvedė Rusiją į Europos areną ir paliko Lietuvą-Lenkiją Rusijos įtakoje.
 
 ## Teiginiai
 
@@ -29,10 +34,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 - t-001
   global_id: t-184422
   teiginys: 'Augustas II ir Petras I sudarė sutartį atimti iš Švedijos Baltijos pajūrį.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Sakinys sutrumpintas iki Petro I biografijai tiesiogiai reikšmingo fakto.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Augustas II|Augustas II]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Baltija; mentioned_place: Švedija; mentioned_person: [[objektai/asmenys/Augustas II|Augustas II]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Petras I Didysis|Petras I Didysis]] sudarė sutartį su [[objektai/asmenys/Augustas II|Augustas II]]'
   pagrindžia:
     - c-001
 
@@ -40,49 +41,20 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 - t-002
   global_id: t-184424
   teiginys: 'Maskvos caras Petras I Didysis ruošėsi prasiveržti į Baltijos jūrą, tam siekdamas išvyti švedus iš pajūrio.'
-  teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Baltija; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Ryga; llm_object: [[objektai/grupes/Švedai|Švedai]]; llm_object: Baltija'
-  semantiniai_rysiai: '[[objektai/asmenys/Petras I Didysis|Petras I Didysis]] kariavo prieš [[objektai/grupes/Švedai|Švedai]]; [[objektai/asmenys/Petras I Didysis|Petras I Didysis]] surengė žygį į Baltija'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 570169-570537; hash=1f77336f57e182fff263d56e153b6fbf3e80e0f9c66ce7d18e05c8b40bc71511; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: sudare_sutarti_su -> Augustas II: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Petras I Didysis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Augustas II: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Augusto II ir Petro I susitarimą.
 
 <a id="claim-t-184425"></a>
 - t-003
   global_id: t-184425
   teiginys: 'Petras I susitarė su Augustu II dėl Rusijos paramos prieš Švediją.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Perrašyta, kad teiginio veiksnys būtų note objektas.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Augustas II|Augustas II]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Augustas II|Augustas II]]; mentioned_place: Rusija; mentioned_place: Švedija; mentioned_place: Livonija; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Petras I Didysis|Petras I Didysis]] sudarė sutartį su [[objektai/asmenys/Augustas II|Augustas II]]'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=839178733d877849f186a1d8d04a065c7bc091471d6af06c5400c48b1fa963cf; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Rusija: 0.76
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Petras I Didysis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata vadina Rusijos imperiją Petro Didžiojo imperija, todėl valdymo ryšys palaikomas.
 
 <a id="claim-t-184426"></a>
 - t-004
   global_id: t-184426
   teiginys: 'Petro I Rusija buvo viena iš stiprėjančių centralizuotų valstybių, grasinusių Lenkijai ir Lietuvai.'
-  teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Viena; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Baltija; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Ryga'
   pagrindžia:
     - c-004
 
@@ -90,13 +62,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 - t-005
   global_id: t-184427
   teiginys: '1721 m. Petras I Didysis paskelbė Rusiją imperija.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_place: Rusija; llm_object: Rusija; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva'
-  semantiniai_rysiai: '[[objektai/asmenys/Petras I Didysis|Petras I Didysis]] valdė Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1547 m.; įvykio data: 1721 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys ir atitinka citatos informaciją.'
   pagrindžia:
     - c-005
 
@@ -104,22 +69,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 - t-006
   global_id: t-184428
   teiginys: 'Ivinskio vertinimu, Petro Didžiojo epocha įvedė Rusijos imperiją į Europos areną ir bajorų respubliką paliko Rusijos įtakoje.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Citata perteikia autoriaus istorinį vertinimą, todėl reikalinga atribucija ir glaustesnė formuluotė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Europa; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: Rusija'
-  semantiniai_rysiai: '[[objektai/asmenys/Petras I Didysis|Petras I Didysis]] valdė Rusija'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5d9c2c4fe4e574606eae94e15e7ef777a8bdf303f792991b3906d62ddc3eccff; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Rusija: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Petras I Didysis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Petras I tiesiogiai siejamas su Rusijos paskelbimu imperija kaip valdovas.
 - susijęs iš Europa: Narbutas vertino, kad apie 2000 m. pr. Kr. egiptiečiai pietiniuose Europos pakraščiuose rado žmones, kuriems buvo lemta iškilti.
 - susijęs iš Europa: Petras I Didysis nukreipė Rusijos politinį veidą į Europą ir įvedė ją tarp pirmaeilių Europos galybių.
 ## Reikšmingi paminėjimai
@@ -134,7 +85,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     tas II su Petru I, be to, įtraukė į sąjungą Daniją ir Brandenbur-
     go kunigaikštį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -149,7 +99,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     ryžo prie jo prisidėti; Petrui palikęs Estiją, jis svajojo nusika-
     riauti sau Livoniją (Vidžemę).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -170,7 +119,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     sijos įtakon. Iš šios sferos Lietuva-Lenkija nebepajėgė išsilaisvinti
     iki pat padalinimų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -187,7 +135,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui
     nulems tolesnį ATR likimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -205,7 +152,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     pradžioje Petro I-jo Didžiojo asmenyje, kuris 1721 Rusiją paskelbė
     imperija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -225,7 +171,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     „ Brandenburgo įsipareigojimą per savo te-
     ritoriją nepraleisti švedų kariuomenės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

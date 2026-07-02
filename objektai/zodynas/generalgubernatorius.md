@@ -30,11 +30,6 @@ Jį valdė Vilniaus generalgubernatorius.
 - t-001
   global_id: t-45820
   teiginys: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
-  sudarymo_pagrindimas: 'Teiginys turi aiškų subjektą, veiksmą ir yra tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Rusija; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1861 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys turi aiškų subjektą, veiksmą ir yra tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-003
 
@@ -42,34 +37,15 @@ Jį valdė Vilniaus generalgubernatorius.
 - t-002
   global_id: t-45822
   teiginys: 'Imperijos sostinių ir pakraščių regionuose tarp centro valdžios ir gubernijų dar veikė tarpinė grandis – generalgubernatoriaus institucija.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai apibūdina generalgubernatoriaus instituciją ir yra paremtas citata.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 184680-184966; hash=843beb63e5a7e86e69ce470158bd62811ec0492ad6eb8d2d8180320b7b0a175f; match=whitespace_regex
-  sprendimo_priezastis: auto
 
 <a id="claim-t-182947"></a>
 - t-003
   global_id: t-182947
   teiginys: 'Rusijos šiaurės vakarų kraštą valdė Vilniaus generalgubernatorius.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinė formuluotė turi neaiškų įvardį; citata leidžia aiškiai įvardyti valdomą kraštą.'
-  susije_objektai: 'mentioned_place: Anglija; mentioned_place: Prancūzija; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 892510-892740; hash=040772d0c5091146b71d3726b4cb22263d7aecd6fdd26ed8a383ee5cf35e0bdc; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: generalgubernatorius: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Anglija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "generalgubernatorius" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Michailas Muravjovas-Korikas.md#claim-t-87779|Michailas Muravjovas-Korikas]]: Michailas Muravjovas-Korikas po 1863 m. sukilimo buvo naujai paskirtas Vilniaus generalgubernatorius ir vykdė represijas krašte.
 - susijęs iš [[objektai/asmenys/V. Nazimovas.md#claim-t-40489|V. Nazimovas]]: Šiaurės Vakarų krašto generalgubernatorius V. Nazimovas balandžio pabaigoje įsakė I. Ganeckiui žygiuoti į Ukmergės apskritį ir sunaikinti sukilėlius.
 - susijęs iš [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m.md#claim-t-54215|Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]: Rusinimo politikos 1864–1904 m. ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą.
@@ -94,7 +70,6 @@ Jį valdė Vilniaus generalgubernatorius.
     šiaurės vakarų kraštu. Jį valdė Vilniaus generalgu-
     bernatorius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -109,7 +84,6 @@ Jį valdė Vilniaus generalgubernatorius.
     ralgubernatorius kontroliavo kelių gubernijų administraciją. Jam pavaldi
     buvo ir šiose gubernijose dislokuota kariuomenė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -128,7 +102,6 @@ Jį valdė Vilniaus generalgubernatorius.
     vykdyti be jokio derinimo su dvarininkais, kaip buvo numatyta 1861 m.
     įstatymų aktuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -146,7 +119,6 @@ Jį valdė Vilniaus generalgubernatorius.
     vas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgalioji-
     mus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

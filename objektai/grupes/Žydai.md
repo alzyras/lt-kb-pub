@@ -39,95 +39,34 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - t-001
   global_id: t-117381
   teiginys: 'Kuriant Izraelį reikšmingus vaidmenis atliko iš buvusios LDK ir ATR erdvės kilę žydai, vadinęsi litvakais.'
-  sudarymo_pagrindimas: 'Pašalintas kontekstinis fragmentas ir suformuotas pilnas sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: po 1795 m.; įvykio data: 1795 m.; įvykio data: 1918-1919; įvykio data: 1919 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas kontekstinis fragmentas ir suformuotas pilnas sakinys.'
   pagrindžia:
     - c-015
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 18721-18955; hash=92f818ff2fa4243ee1d3183ccec2398b971884640360644861f6e52eb81fa9b4; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Lietuva: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad žydai gyveno istorinėje Lietuvoje.
 
 <a id="claim-t-117382"></a>
 - t-002
   global_id: t-117382
   teiginys: 'Nepriklausomoje Lietuvoje žydai galėjo tenkinti savo kultūrinius poreikius, bet su lietuviais gyveno daugiausia atskirai.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] gyveno Lietuva'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e715861eb2e6946d4af812a2c9a58be14ef5bc2ca35c58d9dae1afaaa65481ff; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Rusija: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo žydų gyvenimo Rusijos imperijoje sąlygą; Rusija naudojama kaip leidžiamas vietos objektas.
 
 <a id="claim-t-117384"></a>
 - t-003
   global_id: t-117384
   teiginys: 'Žydai Lietuvoje nuo seno nebuvo naujiena, nes galėjo laisvai atvykti per Lenkijos sieną arba iš rytų.'
-  sudarymo_pagrindimas: 'Teiginys palaikomas, bet reikia pašalinti OCR triukšmą ir padaryti sakinį sklandų.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vilnius; llm_object: Lenkija'
-  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] keliavo į Lietuva; [[objektai/grupes/Žydai|Žydai]] gyveno Lenkija'
   pagrindžia:
     - c-009
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6fcfcadaa1e514f37968a56d0fcbc7f8c3b942df6e30e1b0f87d9fcfdf4ecfa4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117386"></a>
 - t-004
   global_id: t-117386
   teiginys: 'Trakų žydai dar 1388 m. buvo gavę atskirą privilegiją, apibūdinusią jų elgseną krikščionių atžvilgiu.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, o pradiniame sakinyje yra OCR triukšmo ir perteklinis jungtukas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Trakų žydai|Trakų žydai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Viena; llm_object: Trakai'
-  temporaliniai_duomenys: 'įvykio data: 1388 m.; įvykio data: 1408 m.; įvykio data: 1408-1414; įvykio data: 1414 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, o pradiniame sakinyje yra OCR triukšmo ir perteklinis jungtukas.'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 154857-155292; hash=be82db3d3cb1e1d8b7706d192656220990c259309d6de5b76b9632342c9484bc; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jidiš: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Jidiš: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Jidiš" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117387"></a>
 - t-005
   global_id: t-117387
   teiginys: 'Lietuvoje žydai galėjo tenkinti nacionalinius kultūrinius poreikius, bet su lietuviais gyveno atskirus, daugiausia darbo ryšiais susijusius gyvenimus.'
-  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir pašalintas perteklinis kontekstas.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] gyveno Lietuva'
-  temporaliniai_duomenys: 'gyvenimo laikotarpis: 1923 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas ir pašalintas perteklinis kontekstas.'
   pagrindžia:
     - c-018
 
@@ -135,8 +74,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - t-006
   global_id: t-117388
   teiginys: 'Tarpukario Lietuvos žydai buvo daugiapolė, pliuralistinė ir politiškai susiskaidžiusi bendruomenė, turėjusi daug partijų ir organizacijų.'
-  sudarymo_pagrindimas: 'Reikia aiškesnio laiko ir gramatinės formos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Komjaunimas|Komjaunimas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-008
 
@@ -144,27 +81,13 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - t-007
   global_id: t-117389
   teiginys: 'Vilniaus Gaono autoritetas prisidėjo prie litvakų įvaizdžio kaip religinei tradicijai, racionalumui ir išsimokslinimui atsidavusių žydų.'
-  sudarymo_pagrindimas: 'Teiginys per ilgas ir gali būti glaustesnis.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_group: [[objektai/grupes/Litvakai|Litvakai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3daa778277fa42d66e501b764997d917779d19367ad8c56bb78b57d2ff1b46b7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117390"></a>
 - t-008
   global_id: t-117390
   teiginys: 'Vytauto laikais žydai organizuotai persikėlė iš Lenkijos į Lietuvą.'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo kontekstinis fragmentas, o citata paremia aiškų faktą apie žydus.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Europa'
   pagrindžia:
     - c-001
 
@@ -172,50 +95,20 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - t-009
   global_id: t-117391
   teiginys: 'Žydai Lietuvoje nuo seno galėjo atvykti tiek per Lenkijos sieną, tiek iš rytų pusės.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vilnius; llm_object: Lenkija'
-  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] keliavo į Lietuva; [[objektai/grupes/Žydai|Žydai]] gyveno Lenkija'
   pagrindžia:
     - c-009
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a1259bc024ddc31d3d7d111874b49a094789f3a28d78fafa3cc4e11f4ab9850d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117392"></a>
 - t-010
   global_id: t-117392
   teiginys: 'Getuose atsirado žydų pasipriešinimo grupių, dalis žydų bėgo į miškus, stojo į sovietų partizanus arba kovojo 16-ojoje lietuviškojoje šaulių divizijoje.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytas žydų pasipriešinimo formas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
-  temporaliniai_duomenys: 'mūšio data: 1941 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje nurodytas žydų pasipriešinimo formas.'
   pagrindžia:
     - c-011
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 336625-337473; hash=a5f750f284791f823c1fffeb796d599746bca888298a158d96d834dcbf7c38f8; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: prekiavo_su -> Lietuviai: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata aprašo žydų pirklius, perkančius produkciją iš lietuvių valstiečių, todėl pagrindžia prekybinį ryšį.
 
 <a id="claim-t-117393"></a>
 - t-011
   global_id: t-117393
   teiginys: 'Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, daugiausia socialdemokratus.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą politinį faktą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-017
 
@@ -223,76 +116,27 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - t-012
   global_id: t-117394
   teiginys: 'Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.'
-  sudarymo_pagrindimas: 'Teiginys yra tikslus ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jekaterina II|Jekaterina II]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva; mentioned_place: Rusija; llm_object: Rusija'
-  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] gyveno Rusija'
-  temporaliniai_duomenys: 'įvykio data: po 1791 m.; įvykio data: 1791 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus ir paremtas citata.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4209f10648cdb93f41fa736f4abb14595c621eb143c096bf6422a47e785b34de; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Lietuva: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai lokalizuoja žydus nepriklausomoje Lietuvoje.
 
 <a id="claim-t-117395"></a>
 - t-013
   global_id: t-117395
   teiginys: 'Vytauto laikais Vilniaus žydai tarp savųjų garsėjo ne tik ištekliais, bet ir išsimokslinimu.'
-  sudarymo_pagrindimas: 'Teiginys tinkamas, bet reikia išvalyti OCR triukšmą.'
-  susije_objektai: 'mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1427 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tinkamas, bet reikia išvalyti OCR triukšmą.'
   pagrindžia:
     - c-010
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 323783-324546; hash=36608a505aa8fadf1d68ff2ef849937f8eb2fec351eb77d5eccf256a520d64ef; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Įvardis „ją“ citatoje nurodo Lietuvą, į kurią žydai galėjo atvykti.
 
 <a id="claim-t-117396"></a>
 - t-014
   global_id: t-117396
   teiginys: 'Žydai parėmė Lietuvos nepriklausomybę, dalyvavo Lietuvos Tarybos veikloje ir kaip savanoriai stojo į nepriklausomybės kovas.'
-  sudarymo_pagrindimas: 'Reikia glaustesnės ir sklandesnės enciklopedinės formuluotės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/S. Rozenbaumas|S. Rozenbaumas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Paryžius; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1918 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia glaustesnės ir sklandesnės enciklopedinės formuluotės.'
   pagrindžia:
     - c-014
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c34346953b6b23b76f2a020a6d5d531ec9ecde388ee1304ddba299f66104f179; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Trakai: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Trakų žydai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Pavadinimas „Trakų žydai“ tiesiogiai sieja grupę su Trakais, nors teiginio pagrindinis veiksmas yra privilegijos gavimas.
 
 <a id="claim-t-117397"></a>
 - t-015
   global_id: t-117397
   teiginys: 'Trakų žydai 1388 m. buvo gavę privilegiją, apibrėžusią jų elgseną krikščionių atžvilgiu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Trakų žydai|Trakų žydai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Viena; llm_object: Trakai'
-  temporaliniai_duomenys: 'įvykio data: 1388 m.; įvykio data: 1408 m.; įvykio data: 1408-1414; įvykio data: 1414 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-005
 
@@ -300,138 +144,48 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - t-016
   global_id: t-117399
   teiginys: '1923 m. pirmojo Lietuvos gyventojų surašymo duomenimis, žydai sudarė 7 proc. Lietuvos gyventojų be Vilniaus ir Klaipėdos kraštų.'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus ir paremtas surašymo duomenimis citatoje.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1923 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus ir paremtas surašymo duomenimis citatoje.'
   pagrindžia:
     - c-013
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e715861eb2e6946d4af812a2c9a58be14ef5bc2ca35c58d9dae1afaaa65481ff; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Rusija: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo žydų gyvenimą Rusijos imperijoje; naudojamas leidžiamas Rusijos vietos objektas.
 
 <a id="claim-t-117400"></a>
 - t-017
   global_id: t-117400
   teiginys: 'Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie žydų savivardą ir Lietuvos pavadinimą.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] gyveno Lietuva'
   pagrindžia:
     - c-012
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6fcfcadaa1e514f37968a56d0fcbc7f8c3b942df6e30e1b0f87d9fcfdf4ecfa4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117401"></a>
 - t-018
   global_id: t-117401
   teiginys: 'Kai kuriose Lietuvos ūkio srityse žydai tvirtai dominavo: eksportavo daugiau arklių, kailių, odų ir miško medžiagos, o importe sudarė didžiąją dalį.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatoje nurodytais ūkio faktais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Palestina; llm_object: Palestina'
-  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] keliavo į Palestina'
-  temporaliniai_duomenys: 'įvykio data: 1934 m.; įvykio data: 1938 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citatoje nurodytais ūkio faktais.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=525d474d0753a49af92d8bb2d41f2884b914f51f00046504b5c4c1f9cae7aa12; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Lietuva: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginio formuluotė tiesiogiai sieja žydus su gyvenimu Lietuvoje.
 
 <a id="claim-t-117402"></a>
 - t-019
   global_id: t-117402
   teiginys: 'Sovietams kuriant naują administraciją žydai gavo postus valdžioje, įmonėse, įstaigose ir profesinėse sąjungose.'
-  sudarymo_pagrindimas: 'Citata nepagrindžia ribojančio žodžio „dalis“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 340945-341713; hash=dce0a81ddf8099cded657f081605a447af9aebf811a4703ee29fd477e2571a48; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117403"></a>
 - t-020
   global_id: t-117403
   teiginys: 'Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo sėslumo ribos, sutapusios su buvusios LDK arba ATR rytine riba.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie žydų gyvenimo ribojimą Rusijos imperijoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Jekaterina II|Jekaterina II]]; mentioned_place: Lietuva; mentioned_place: Rusija; llm_object: Rusija'
-  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] gyveno Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1791 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie žydų gyvenimo ribojimą Rusijos imperijoje.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 342263-342958; hash=66fd69a9c9ff223d7d928d11ab001cc013e2d439af3f254d0956406bc0357407; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Palestina: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Palestina: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata sako, kad Lietuvos žydai buvo keliami gyventi į Palestiną; tai artima judėjimo į vietą ryšiui.
 
 <a id="claim-t-117404"></a>
 - t-021
   global_id: t-117404
   teiginys: 'Kuriant Izraelį reikšmingiausius vaidmenis atliko iš LDK ir Abiejų Tautų Respublikos erdvės kilę litvakais vadinęsi žydai.'
-  sudarymo_pagrindimas: 'Pašalinta neaiški nuoroda „šios erdvės“ ir išlaikyta citatos paremta mintis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: po 1795 m.; įvykio data: 1795 m.; įvykio data: 1918-1919; įvykio data: 1919 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalinta neaiški nuoroda „šios erdvės“ ir išlaikyta citatos paremta mintis.'
   pagrindžia:
     - c-015
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 401668-402223; hash=f019c7a6062d4cfc210ba16c7307894432a0df0d4dd8fe9118b36d25bb661350; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117405"></a>
 - t-022
   global_id: t-117405
   teiginys: 'Pagal citatoje pateiktą gyventojų sudėtį žydai sudarė 7 proc. gyventojų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1923 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-013
 
@@ -439,20 +193,8 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - t-023
   global_id: t-117406
   teiginys: 'Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„mūsų žydeliai“|„mūsų žydeliai“]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] prekiavo su [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-016
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c6725741d0addeecab36b57c62f303fc9da05ba2a1045ce1eac11d495783c19a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=102
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183206"></a>
 - t-024
@@ -462,16 +204,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     - c-020
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 201647-202194; hash=22c4cbe36a46a9f453cd3556e3c277cefcf237cc84e17120091cea4010743ee7; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žydai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje „į ją“ reiškia Lietuvą, į kurią žydai galėjo laisvai atvykti.
 <a id="claim-t-188371"></a>
 - t-025
   global_id: t-188371
@@ -480,16 +212,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     - c-021
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 647077-647424; hash=8fc9ce664f9cdd1c6fab6d121a7b0d84d507bec289807d444ac98bb7bbb38937; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Trakai: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Trakų žydai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Grupės pavadinimas tiesiogiai sieja ją su Trakais, nors pagrindinis teiginys yra apie privilegiją.
 - susijęs iš [[objektai/grupes/SD Einsatzgruppen.md#claim-t-19997|SD Einsatzgruppen]]: 1941 m. birželį SD Einsatzgruppen organizavo terorą, per kurį pasienyje buvo šaudomi žydai Gargžduose, Kretingoje, Palangoje ir kitur.
 - susijęs iš Gargždai: 1941 m. birželio 24 d. Tilžės gestapo būrys Gargžduose sušaudė 201 žydą vyrą.
 - susijęs iš [[objektai/grupes/Tilžės gestapo būrys.md#claim-t-20049|Tilžės gestapo būrys]]: Tilžės gestapo būrys 1941 m. birželio 24–27 d. Gargžduose, Kretingoje ir Palangoje sušaudė 526 žydus.
@@ -885,13 +607,11 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     o iš jos vėliau, jau Vytauto laikais, organizuotai persikėlė ir Lie­
     tuvon.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-- c-002
+    - t-008- c-002
   santrauka: 'Kai kuriose Lietuvos ūkio srityse žydai tvirtai dominavo: eksportavo daugiau arklių, kailių, odų ir miško medžiagos, o importe sudarė didžiąją dalį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -906,13 +626,11 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     meninį gyvenimą ir menkai integravosi į lietuvių visuomenę, o sionistinis
     judėjimas kėlė Lietuvos žydus gyventi į Palestiną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018
-- c-003
+    - t-018- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo,
@@ -929,13 +647,11 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad
     žydai tarpusavyje dažnai vartojo rusų kalbą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-- c-004
+    - t-002- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vis dėlto Vilniaus, Lietuvos ir Abiejų
@@ -948,14 +664,12 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų išvardijusi
     net konkrečias gubernijas, kuriose gali gyventi žydai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
-    - t-020
-- c-005
+    - t-020- c-005
   santrauka: 'Trakų žydai dar 1388 m. buvo gavę atskirą privilegiją, apibūdinusią jų elgseną krikščionių atžvilgiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -974,14 +688,12 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     nukreiptos į vieną tikslą - susilpninti grėsmingas Prūsijos or­
     dino pajėgas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-    - t-015
-- c-006
+    - t-015- c-006
   santrauka: 'Sovietams kuriant naują administraciją žydai gavo postus valdžioje, įmonėse, įstaigose ir profesinėse sąjungose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -994,13 +706,11 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     stiprino antisemitines nuotaikas, daugeliui lietuvių atrodė, kad visi žydai
     išdavė nepriklausomą Lietuvą ir jos idealus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019
-- c-007
+    - t-019- c-007
   santrauka: 'Vilniaus Gaono autoritetas prisidėjo prie litvakų įvaizdžio kaip religinei tradicijai, racionalumui ir išsimokslinimui atsidavusių žydų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1011,13 +721,11 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     nai mokėjo visus 64 Talmudo tomus. Be to, Talmudas buvo studijuojamas
     jidiš kalbos tarme, susiformavusia Lietuvoje ir vadinama litviš.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-- c-008
+    - t-007- c-008
   santrauka: 'Tarpukario Lietuvos žydai buvo daugiapolė, pliuralistinė ir politiškai susiskaidžiusi bendruomenė, turėjusi daug partijų ir organizacijų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1033,13 +741,11 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     kontroliavo apie 40 proc. šalies pramonės, 54 proc. jos vidaus prekybos,
     20 proc. eksporto ir 40 proc. importo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-- c-009
+    - t-006- c-009
   santrauka: 'Žydai Lietuvoje nuo seno nebuvo naujiena, nes galėjo laisvai atvykti per Lenkijos sieną arba iš rytų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1057,14 +763,12 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     bei įgimti sugebėjimai prekiauti tos tautos, anuomet ne tokios
     kenksmingos kaip dabar.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-    - t-009
-- c-010
+    - t-009- c-010
   santrauka: 'Vytauto laikais Vilniaus žydai tarp savųjų garsėjo ne tik ištekliais, bet ir išsimokslinimu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1076,13 +780,11 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     Moreno, t. y. teologijos daktaro, var­
     dą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-- c-011
+    - t-013- c-011
   santrauka: 'Getuose atsirado žydų pasipriešinimo grupių, dalis žydų bėgo į miškus, stojo į sovietų partizanus arba kovojo 16-ojoje lietuviškojoje šaulių divizijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1098,13 +800,11 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     namuose įsikūrė įstaigos arba apsigyveno nauji šeimininkai, naciai iš-
     grobstė visas vertingiausias žydų kultūros vertybes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-- c-012
+    - t-010- c-012
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos vardas tapo ir žydų savastimi. Visą istorinės Lietuvos laiko-
@@ -1112,13 +812,11 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-
     nigaikštija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017
-- c-013
+    - t-017- c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsė-
@@ -1126,14 +824,12 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     2 028 971 (be Vilniaus ir Klaipėdos kraštų). Lietuviai sudarė 82 proc.,
     žydai 7, vokiečiai 4, lenkai 3, rusai 2,3 proc. gyventojų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
-    - t-022
-- c-014
+    - t-022- c-014
   santrauka: 'Žydai parėmė Lietuvos nepriklausomybę, dalyvavo Lietuvos Tarybos veikloje ir kaip savanoriai stojo į nepriklausomybės kovas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1152,13 +848,11 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     vos nepriklausomybę žydai parėmė, dalyvavo Lietuvos Tarybos veikloje,
     žydai savanoriai dalyvavo nepriklausomybės kovose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014
-- c-015
+    - t-014- c-015
   santrauka: 'Kuriant Izraelį reikšmingiausius vaidmenis atliko iš šios erdvės kilę žydai, vadinęsi litvakais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1170,14 +864,12 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     1918–1919 m. ir sukūrė valstybę, besirėmusią naujais demokratiniais ir
     nacionaliniais pagrindais – Lietuvos Respubliką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
-    - t-001
-- c-016
+    - t-001- c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
@@ -1195,13 +887,11 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     jiems, kaip ir lenkams, visiškai neimponavo. Su lietuviais žydai kalbėjo
     rusiškai ar lenkiškai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023
-- c-017
+    - t-023- c-017
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva po 1905-ųjų – kultūrinė kova
@@ -1213,13 +903,11 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, dau-
     giausia socialdemokratus. Nepasikeitė ir vietinio valdymo modelis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-- c-018
+    - t-011- c-018
   santrauka: 'Lietuvoje žydai galėjo tenkinti nacionalinius kultūrinius poreikius, bet su lietuviais gyveno atskirus, daugiausia darbo ryšiais susijusius gyvenimus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1238,13 +926,11 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     sistemą (pamokos mokyklose vyko hebrajų arba jidiš kalba, jos tapo svar-
     biais žydų kultūros centrais).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-- c-019
+    - t-005- c-019
   santrauka: 'Vilniaus Gaono autoritetas prisidėjo prie litvakų įvaizdžio kaip religinei tradicijai, racionalumui ir išsimokslinimui atsidavusių žydų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1256,13 +942,11 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     mokslinimui. Ne veltui sklido gandai, kad visi Vilniaus išminčiai atminti-
     nai mokėjo visus 64 Talmudo tomus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024
-- c-020
+    - t-024- c-020
   santrauka: 'Narbutas rašė, kad po dešimties metų neberasta statulėlių liekanos pėdsakų, o žydai nenorėjo prisipažinti ją pirkę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1277,13 +961,10 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     ar figūros arba trys žmogaus egzistavimo tarpsniai -  gyveni­
     mas, mirtis ir amžinybė.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-024
-- c-021
+    - t-024- c-021
   santrauka: 'Narbutas teigė pastebėjęs, kad kaimiečiai ir kaimuose gyvenantys Lietuvos žydai išlaikė vaizdinio apie mirusiųjų vėlių vaidenimąsi liekanų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1296,10 +977,8 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
     19
     Ištrauka iš 1240 metų sutarties (Voigt.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-025
 

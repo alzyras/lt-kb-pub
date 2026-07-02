@@ -33,11 +33,6 @@ Nenurodyta
 - t-001
   global_id: t-185851
   teiginys: 'Vaidevutis nepradėjo nė vieno karo ir manė, kad padėti ginklai sušvelnina dažnuose žygiuose užkietėjusias širdis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pagrindžia Vaidevučio požiūrį į karą ir ginklus, bet teiginys per ilgas ir su OCR klaidomis.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laužas|Laužas]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77985|A. Smetona]]: 1918 m. gruodžio 21 d. A. Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.
@@ -379,7 +374,6 @@ Nenurodyta
     dieninės patirties matė, jog žmonės, paėmę į rankas
     ginklą, suįžūlėja ir nebeklauso įsakymų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

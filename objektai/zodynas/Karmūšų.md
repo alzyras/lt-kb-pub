@@ -27,7 +27,6 @@ Papildomos aiškios formos neišskirtos.
 - t-001
   global_id: t-07690
   teiginys: 'Karmūšų vietos buvo kovų laukai, kuriuose su priešais grūmėsi ir žuvo kariai.'
-  sudarymo_pagrindimas: 'Teiginį verta perrašyti kaip pilną faktinį sakinį be nuorodos į tekstą.'
   pagrindžia:
     - c-001
 
@@ -35,7 +34,6 @@ Papildomos aiškios formos neišskirtos.
 - t-002
   global_id: t-07691
   teiginys: 'Karmūšų vietos buvo vadinamos šventomis, nes jose žuvo už laisvę ir namus kovoję žmonės.'
-  sudarymo_pagrindimas: 'Citata aiškiai paaiškina, kodėl tos vietos laikytos šventomis.'
   pagrindžia:
     - c-001
 
@@ -55,7 +53,6 @@ Papildomos aiškios formos neišskirtos.
         kokias vietas paprastai milžinų kapais vadina, apie kuriuos pasakos šiandien dar visiems yra
         žinomos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -18,24 +18,8 @@ Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir 
 - t-001
   global_id: t-186148
   teiginys: 'Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir grįžo su dideliu grobiu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas boilerplate ir paliktas konkretus citatos palaikomas veiksmas.'
-  susije_objektai: 'llm_object: Lietuva; llm_object: Polockas; llm_object: Vitebskas; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Neris; mentioned_place: Polockas; mentioned_place: Vitebskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Mechmet Girėjus|Mechmet Girėjus]] puolė Lietuva; [[objektai/asmenys/Mechmet Girėjus|Mechmet Girėjus]] puolė Polockas; [[objektai/asmenys/Mechmet Girėjus|Mechmet Girėjus]] puolė Vitebskas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1034313-1034927; hash=3b15be558b65f0087f7eaa6a3507436ac3077aefe2a7ae6e2e6af93a63d81818; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Lietuva: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mechmet Girėjus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Mechmet Girėjus tiesiogiai įvardytas kaip nusiaubęs Lietuvą.
 - susijęs iš [[objektai/ivykiai/Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko.md#claim-t-185753|Mechmet Girėjaus niokojamasis žygis iki Minsko, Polocko ir Vitebsko]]: Mechmet Girėjus pasiekė Minską, sudegino miestą, nusiaubė Polocko ir Vitebsko žemes ir grįžo su dideliu grobiu.
 - susijęs iš [[objektai/asmenys/Jonas Trizna.md#claim-t-186115|Jonas Trizna]]: Jonas Trizna su kitais karvedžiais patrankų ugnimi ir išpuoliais privertė priešą atsisakyti pilies puolimo.
 - susijęs iš [[objektai/zodynas/skitai.md#claim-t-185342|skitai]]: Priešas, neįveikęs pilies, apiplėšė apylinkę ir patraukė į Skitiją.
@@ -58,7 +42,6 @@ Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir 
     ir Vitebsko žemes, niekur nesutikdamas pasipriešini­
     mo, ir sugrįžo atgal su didžiausiu grobiu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

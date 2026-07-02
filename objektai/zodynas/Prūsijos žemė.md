@@ -30,39 +30,15 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
 - t-001
   global_id: t-89573
   teiginys: 'Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno.'
-  sudarymo_pagrindimas: 'Citata remia autoriaus vartosenos teiginį, bet pradinė formuluotė gremėzdiška.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_place: Vysla; mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kulmas; mentioned_place: Lubavas; llm_object: Prūsija'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0fab4b7fc8bae436305491649c4d9028ede74d6dca2b1d21247990bd5e4bcfb2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzkariavo -> Prūsija: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata Prūsijos vardu vadinamą plotą aprašo kaip Kryžiuočių ordino užkariautą.
 
 <a id="claim-t-89574"></a>
 - t-002
   global_id: t-89574
   teiginys: 'Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Prūsijos žemės skirstymą kronikoje.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Nemunas; mentioned_place: Varmė; mentioned_place: Vysla; llm_object: Prūsija'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 6757-7263; hash=60cab10c0a574fd7be34f6391ba3b515253f1d8538856e2c29b3860497a27951; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lenkai: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kulmas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Kulmo srities priklausymą lenkams.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-188221|Latviai]]: Narbutas rašė, kad latviai dievą Drebbkuls siejo su žemės drebėjimu ir padavimu apie supykusio Likimo plakamos žemės drebėjimą.
 - susijęs iš Barta: Petro Dusburgiečio kronikoje Barta ir Plikoji Barta priskiriamos vienai iš vienuolikos Prūsijos žemės dalių.
 - susijęs iš Galinda: Petro Dusburgiečio kronikoje Galinda įvardyta kaip viena iš vienuolikos Prūsijos žemės dalių.
@@ -108,7 +84,6 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -126,7 +101,6 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
       Kalbant apie pagrindinę prūsų teritoriją, prūsų ir lietuvių tarpusavio santykius, reikia
       1 Пашуто В.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -145,7 +119,6 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
     vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
     iki Nemuno.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -165,7 +138,6 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
     prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
     sritį valdė prūsai, turėję ten savo pilių (III,7).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

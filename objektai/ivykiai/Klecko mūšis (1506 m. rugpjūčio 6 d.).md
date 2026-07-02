@@ -45,7 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-171466
   teiginys: 'Po mūšio lietuviai paėmė arba nukovė daugybę totorių ir paėmė daug belaisvių bei grobio.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]'
   pagrindžia:
     - c-003
 
@@ -53,9 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-171467
   teiginys: 'Klecko mūšyje kunigaikštis Mykolas su kairiuoju sparnu perėjo upę, smogė totorių pulkams ir perskėlė juos į dvi dalis.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; llm_object: [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Mykolas|Mykolas]] dalyvavo mūšyje [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]'
   pagrindžia:
     - c-002
 
@@ -63,8 +59,6 @@ Nenurodyta
 - t-003
   global_id: t-171468
   teiginys: 'Bychoveco kronikos pasakojime Klecko mūšio pergalė prieš totorius vaizduota kaip Dievo gailestingumas Lietuvos Didžiajai Kunigaikštystei.'
-  sudarymo_pagrindimas: 'Sutvarkytos nutrūkusios kabutės ir paliktas citatos remiamas aiškus teiginys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Totoriai|Totoriai]]'
   pagrindžia:
     - c-005
 
@@ -72,10 +66,6 @@ Nenurodyta
 - t-004
   global_id: t-171470
   teiginys: '1506 m. rugpjūčio 6 d. Lietuvos kariuomenė prie Klecko perėjo upę, išvydo totorių pulkus ir pradėjo mūšį.'
-  susije_objektai: 'llm_object: [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Kaimas; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Totoriai|Totoriai]]'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] dalyvavo mūšyje [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]; [[objektai/grupes/Totoriai|Totoriai]] dalyvavo mūšyje [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]'
-  temporaliniai_duomenys: 'įvykio data: 1506 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -83,7 +73,6 @@ Nenurodyta
 - t-005
   global_id: t-171471
   teiginys: 'Bychoveco kronikoje Klecko pergalė siejama su krikščionių kovos prieš kitatikius motyvais ir Dievo gailestingumu LDK.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-005
 
@@ -91,23 +80,8 @@ Nenurodyta
 - t-006
   global_id: t-171472
   teiginys: 'Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai.'
-  sudarymo_pagrindimas: 'Teiginys dubliuoja paremtą ir gramatiškai tinkamą faktą.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_event: [[objektai/ivykiai/Klecko mūšis|Klecko mūšis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'mūšio data: 1500-1503; mūšio data: 1503 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuviai dalyvavo mūšyje Klecko mūšis (mūšis, XVI a.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Totoriai dalyvavo mūšyje Klecko mūšis (mūšis, XVI a.)“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys dubliuoja paremtą ir gramatiškai tinkamą faktą.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 320543-320890; hash=727e1f9e59fdc5a3f5a4ead0e9ec3d4a1b7c2cb891cfd131c6d04a1633ce225b; match=exact
-  sprendimo_priezastis: final::darbas/prompts/05_quality_control/01_normalize_tags.md
-  ryšio_patikimumas: dalyvavo_musyje -> Klecko mūšis (1506 m. rugpjūčio 6 d.): 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Klecko mūšis (1506 m. rugpjūčio 6 d.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Lietuvos kariuomenė tiesiogiai aprašoma kaip pradėjusi Klecko mūšio veiksmus.
 
 ## Reikšmingi paminėjimai
 
@@ -119,7 +93,6 @@ Nenurodyta
     į Klecką. [...] Ir kai prisiartino prie Klecko, prieidami iš pietų Raudonąjį tvenkinį ir
     Lanės upę, nuo kalno išvydo stovinčius už upės totorių pulkus, pasirengusius mūšiui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -135,7 +108,6 @@ Nenurodyta
     už upės. [...] O tada kunigaikštis Mykolas atskubėjo su kairiuoju sparnu ir, perėjęs per
     upę, smogė visiems totorių pulkams ir perskėlė juos į dvi dalis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -148,7 +120,6 @@ Nenurodyta
     nės stovyklą prie Klecko, vesdamiesi su savimi daug belaisvių ir turėdami rankas pilnas
     aukso, ir sidabro, ir ginklų, ir drabužių, ir brangių žirgų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -172,7 +143,6 @@ Nenurodyta
     ir linksmybė“ kaip tik ir perteikia tą ūpo pa-
     kilimą, kuris leido toliau kovoti ir nepalūžti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -200,7 +170,6 @@ Nenurodyta
     mūšis, kuriame esą tik 9000 lietuvių įveikė
     net 27000 totorių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

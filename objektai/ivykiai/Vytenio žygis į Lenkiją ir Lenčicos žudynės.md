@@ -39,39 +39,15 @@ Nenurodyta
 - t-001
   global_id: t-59455
   teiginys: 'Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų persekiojo iš Lenkijos besitraukiančius lietuvius.'
-  sudarymo_pagrindimas: 'Patikslintas objektas ir suformuotas aiškesnis enciklopedinis sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Mazovija; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=739e61e882fab3b0b65924216844e236deb47a0a6be661a369306c6c49069ec6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenio žygis į Lenkiją ir Lenčicos žudynės: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenio žygis į Lenkiją ir Lenčicos žudynės" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59456"></a>
 - t-002
   global_id: t-59456
   teiginys: 'Vytenis su 800 vyrų per Sekmines įsiveržė į Lenkiją, užpuolė Lenčicos dvasininkus ir išsivarė daug belaisvių.'
-  sudarymo_pagrindimas: 'Pradinis teiginys sugadintas OCR, bet citata aiškiai remia glaustą faktą apie žygį ir žudynes.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lenčica; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 575639-576250; hash=4c75e262522abbd82ea9d141c6bc28f820186b111e00a7aec2b9f950e7b8b916; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytenio žygis į Lenkiją ir Lenčicos žudynės: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytenio žygis į Lenkiją ir Lenčicos žudynės" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -93,7 +69,6 @@ Nenurodyta
 
         251 (244).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -117,7 +92,6 @@ Nenurodyta
     trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių
     žūties, leidosi jų persekioti su tūkstančiu  ir aštuoniais šimtais vyrų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

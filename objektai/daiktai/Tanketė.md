@@ -49,23 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-40775
   teiginys: 'Per Merkinės puolimą 1945 m. gruodžio 15 d. plentų kryžkelėje pasirodžiusi tanketė atidengė ugnį į miestelį.'
-  sudarymo_pagrindimas: 'Citata leidžia pridėti aiškų įvykio kontekstą ir pašalinti fragmentiškumą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)|Merkinės puolimas (1945 m. gruodžio 15 d.)]]; mentioned_place: Merkinė'
-  temporaliniai_duomenys: 'įvykio data: 1945 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia pridėti aiškų įvykio kontekstą ir pašalinti fragmentiškumą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8ed4d0985a227a049965da63216570a17faba895c35363a55ddb6e31bef1f2e6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Merkinė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tanketė: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Merkinė: mention_match, place, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tanketė" parinktas kaip owner_note_path. Targetas "Merkinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -82,7 +67,6 @@ Nenurodyta
 
     MERKINĖS PUOLIMAS 1945 m. gruodžio 15 d.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

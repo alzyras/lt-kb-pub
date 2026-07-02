@@ -44,24 +44,8 @@ Nenurodyta
 - t-001
   global_id: t-62239
   teiginys: '1305 m. liepos 26 d. Livonijos teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra tikslus, gramatiškas ir tiesiogiai remiasi citata.'
-  susije_objektai: 'mentioned_place: Diunamiundė; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Livonija; llm_object: [[objektai/grupes/Teutonai|Teutonai]]; llm_object: Diunamiundė'
-  temporaliniai_duomenys: 'įvykio data: 1305 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, gramatiškas ir tiesiogiai remiasi citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ee6a68625138f4f7f04b9eb32226c37e8d04e19e55838180810151b793e80d49; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Teutonai: 0.81
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Diunamiundė: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Po įsigijimo Diunamiundės pilis priklausė teutonų ordino broliams.
 
 ## Reikšmingi paminėjimai
 
@@ -78,7 +62,6 @@ Nenurodyta
 
                     101.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

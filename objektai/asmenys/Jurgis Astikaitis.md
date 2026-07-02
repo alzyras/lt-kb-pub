@@ -30,11 +30,6 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - t-001
   global_id: t-87475
   teiginys: '1542 m. Vilniuje duotame rašte raikytojas Jurgis Astikaitis dalyvavo tarp Lietuvos Didžiosios Kunigaikštystės pareigūnų.'
-  sudarymo_pagrindimas: 'Citata nurodo Jurgio Astikaičio pareigybę ir dalyvavimą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Alšėnai; mentioned_place: Luckas; mentioned_place: Medininkai; mentioned_place: Naugardukas; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
-  temporaliniai_duomenys: 'įvykio data: 1542 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata nurodo Jurgio Astikaičio pareigybę ir dalyvavimą.'
   pagrindžia:
     - c-001
 
@@ -61,7 +56,6 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
     ir daugeliui kitų mūsų dignitorių ir pareigūnų, nuoširdžiai
     ištikimų ir mums mielų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

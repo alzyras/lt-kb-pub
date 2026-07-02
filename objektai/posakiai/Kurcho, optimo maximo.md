@@ -21,9 +21,6 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 444402-444812; hash=603b3851c50ab2f6339bfee2baffdba3428919a98aa67f5fda190b0df041568f; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-189563"></a>
 - t-002
   global_id: t-189563
@@ -32,16 +29,6 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 444813-445227; hash=7871b941d01c1357ce125d11ffd27cb529407c7f90a5bda88570c5ac641266d7; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kurcho, optimo maximo: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kurcho, optimo maximo" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -56,13 +43,10 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
     esantis prieš raidę „K“, rodo, kad žodis yra sutrumpintas. Todėl,
     mano nuomone, reikėtų skaityti: „Kurcho, optimo maximo“.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas „Kurcho, optimo maximo“ aiškino kaip analogiją romėniškų medalių užrašui „IOVI OPTIMO MAXIMO“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -75,9 +59,7 @@ Narbutas medaliono runų užrašą siūlė skaityti kaip „Kurcho, optimo maxim
     pakabučio piešinį paėmiau iš Tomseno III lentelės 34 piešinio) “
     (žiūrėk ten pat, piešinį 50).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

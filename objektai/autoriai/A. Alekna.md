@@ -43,11 +43,6 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 - t-002
   global_id: t-64501
   teiginys: 'Zenonas Ivinskis vertino, kad A. Aleknos „Katalikų Bažnyčia Lietuvoje“ parodė jo gebėjimą kritiškai ir objektyviai vertinti šaltinius.'
-  sudarymo_pagrindimas: 'Tai autoriaus vertinimas, todėl reikalinga šaltinio atribucija.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Kaunas'
-  temporaliniai_duomenys: 'įvykio data: 1911 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Tai autoriaus vertinimas, todėl reikalinga šaltinio atribucija.'
   pagrindžia:
     - c-005
 
@@ -55,11 +50,6 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 - t-003
   global_id: t-64502
   teiginys: 'A. Alekna, remdamasis Kauno vyskupijos kurijos archyvine medžiaga, 1923 m. išleido veikalą „Žemaičių vysk. M. Valančius“.'
-  sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs; citata leidžia atkurti pilną faktinį sakinį.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1911 m.; įvykio data: 1923 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pirminis teiginys nutrūkęs; citata leidžia atkurti pilną faktinį sakinį.'
   pagrindžia:
     - c-005
 
@@ -67,9 +57,6 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 - t-004
   global_id: t-64503
   teiginys: 'A. Aleknos „Lietuvos istorijos“ antras leidimas buvo išleistas Tilžėje 1923 m.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Tilžė'
-  temporaliniai_duomenys: 'įvykio data: 1923 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -77,11 +64,6 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 - t-005
   global_id: t-64504
   teiginys: 'Antanas Alekna 1922–1930 m. dėstė Lietuvos istoriją, jos šaltinius ir istorinę geografiją Teologijos-Filosofijos fakulteto Filosofijos skyriuje.'
-  sudarymo_pagrindimas: 'Citata palaiko tikslesnę formuluotę su fakulteto skyriumi.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Kaunas'
-  temporaliniai_duomenys: 'įvykio data: 1911 m.; įvykio data: 1922-1930; įvykio data: 1930 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnę formuluotę su fakulteto skyriumi.'
   pagrindžia:
     - c-005
 
@@ -89,8 +71,6 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 - t-006
   global_id: t-64505
   teiginys: 'Prof. A. Alekna peržiūrėjo ir patikrino apie Vytautą Didįjį išleistą plačią monografiją.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie A. Aleknos vaidmenį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]'
   pagrindžia:
     - c-004
 
@@ -98,11 +78,6 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 - t-007
   global_id: t-64506
   teiginys: 'A. Alekna parašė „Katalikų Bažnyčia Lietuvoje“, išleistą Kaune 1936 m.'
-  sudarymo_pagrindimas: 'Bibliografinis fragmentas perrašytas į pilną faktinį sakinį apie autorių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Katalikų Bažnyčia|Katalikų Bažnyčia]]; mentioned_place: Kaunas; mentioned_place: Karaliaučius'
-  temporaliniai_duomenys: 'įvykio data: 1936 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Bibliografinis fragmentas perrašytas į pilną faktinį sakinį apie autorių.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/A. Plateris.md#claim-t-30527|A. Plateris]]: A. Plateris parašė straipsnį „Janulaitis mokslininkas“, publikuotą „Lietuvių enciklopedijos“ 9 tome.
@@ -131,7 +106,6 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
     AlBL = Alekna, A. : Katalikų Bažnyčia Lietuvoje, Kaunas 1936
     (spaudai paruošė kim. J. Stakauskas).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -149,7 +123,6 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
     guojant, ir kartu apgailestaujam, kad gerb, profesorius dėl
     ligos negalėjo parašyti šiai knygai įžangos žodžio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -160,7 +133,6 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
   citata_originali: |
     Alekna, A., Lietuvos istorija. Antras leidimas. Tilžė, 1923.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -174,7 +146,6 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
     S. Daukanto mok. Sem-jos istorijos mok. P. Šležas. Monografiją peržiū­
     rėjo ir patikrino prof. A. Alekna.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -195,7 +166,6 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
     kurijos archyvine medžiaga, jis išleido « Žemaičiu vysk. M. Valan­
     čius » (1923) 81a.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

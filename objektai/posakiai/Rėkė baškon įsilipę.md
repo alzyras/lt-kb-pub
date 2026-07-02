@@ -20,15 +20,8 @@ tags:
 - t-001
   global_id: t-80664
   teiginys: 'Posakis „Rėkė „baškon“ įsilipę“ pateiktas šalia eilutės „Lipdė laisvę ir lygybę iš sulūžusių tvorų“.'
-  sudarymo_pagrindimas: 'Pradinį tekstą sudaro OCR ir schemos triukšmas, bet citata palaiko ribotą faktą apie posakio pateikimą.'
-  temporaliniai_duomenys: 'įvykio data: 200 m'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinį tekstą sudaro OCR ir schemos triukšmas, bet citata palaiko ribotą faktą apie posakio pateikimą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2be17dd04789a9148147f9c77a5c8cc9a32f85e4971d248e523aeb93ce99e475; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -75,7 +68,6 @@ tags:
 
     spyną (arba kol baigiasi šoviniai dėtuvėje).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

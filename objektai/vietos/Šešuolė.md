@@ -21,20 +21,8 @@ tags:
 - t-001
   global_id: t-42360
   teiginys: 'Giedraičius gynęs 2-asis pulkas atsitraukė į Šešuolės ir Virintos upių liniją.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata apie atsitraukimą į Šešuolės ir Virintos upių liniją.'
-  susije_objektai: 'mentioned_place: Virinta; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Giedraičiai; mentioned_place: Ukmergė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c576479c2e29dcb1893320678ed177543f836c2554cdeba70e4053a9c78200d8; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Virinta: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šešuolė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Virinta: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šešuolė" parinktas kaip owner_note_path. Targetas "Virinta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Kertuša: Pabaisko parapijos ribos ėjo nuo Širvintos iki Šventosios ir buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos.
 - susijęs iš Kertuša: Pabaisko parapijos ribos buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės.
 - susijęs iš Skočiūnų dvaras: Pabaisko parapijos riba ėjo ties Skočiūnų dvaru, kur Šešulka, dar vadinama Šešuolėle, įteka į Šventąją.
@@ -59,7 +47,6 @@ tags:
     Lietuvių pajėgos ėmė rengtis kontr-
     puolimui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

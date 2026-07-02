@@ -29,16 +29,6 @@ Narbuto cituotoje privilegijoje Podbužo dvaras Voluinėje kartu su herbu duotas
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 722798-723397; hash=291850f35b0755cabfabaf557fcc6a765f26d86d90922507e2c3252ff4fedc6d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Voluinė: 0.73
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Podbužo dvaras: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Voluinė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Dvaras lokalizuojamas Voluinėje; tai leidžia sieti jį su šia vieta kaip priklausymo ar buvimo ryšį.
 - susijęs iš [[objektai/asmenys/Ostapas Kropotkovas.md#claim-t-190235|Ostapas Kropotkovas]]: Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.
 ## Reikšmingi paminėjimai
 - c-001
@@ -55,10 +45,8 @@ Narbuto cituotoje privilegijoje Podbužo dvaras Voluinėje kartu su herbu duotas
     Podbužo dvam Voluinėje už nuopelnus kare su totoriais. Datuotas Vil­
     niuje 1354 melų mgpjūčio 7 dieną.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

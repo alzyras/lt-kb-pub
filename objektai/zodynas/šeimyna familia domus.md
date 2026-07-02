@@ -29,77 +29,29 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
 - t-001
   global_id: t-58818
   teiginys: '246 D.— cum omni domo et familia sua.'
-  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vergai|vergai]]'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 263547-263986; hash=4a48520703f40d481c83b8048b0e363c9e38854de50ff68085b8ad79c16b4245; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: šeimyna familia domus: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "šeimyna familia domus" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58819"></a>
 - t-002
   global_id: t-58819
   teiginys: 'Prūsai nužudė brolį Konradą iš Dortmundo su visa jo šeimyna.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 264516-264931; hash=fac7a7e843bd4fcd6b899a81267e6187cd9bbd6c2e034f1fdd7c6e7059802bd0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> vergai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: šeimyna familia domus: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: vergai: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "šeimyna familia domus" parinktas kaip owner_note_path. Targetas "vergai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58820"></a>
 - t-003
   global_id: t-58820
   teiginys: 'Kilmingieji ir vasalai iš Vokietijos kraštų į Prūsiją atvyko su namais, šeimynomis ir giminėmis.'
-  sudarymo_pagrindimas: 'Pradinis teiginys prasideda nereikalinga atribucija; citata palaiko aiškų faktą.'
-  susije_objektai: 'mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Prūsija; mentioned_place: Varmė; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9ade1d613f5364a77c48999418b5f6fb2bc5e21860d2012b6053cf396aa40379; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Galinda: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: šeimyna familia domus: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Galinda: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "šeimyna familia domus" parinktas kaip owner_note_path. Targetas "Galinda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58821"></a>
 - t-004
   global_id: t-58821
   teiginys: 'Kilmingi Varmės vyrai su namais ir šeimynomis persikėlė pas Baigos brolius.'
-  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas, su antrašte ir nutrūkusia pabaiga.'
-  susije_objektai: 'mentioned_place: Baiga; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Aistmarios; mentioned_place: Varmė'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fbd810cfc8fee7c2e4ef6255320d49409b081726157a9ce12077dc090b2bb886; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: šeimyna familia domus: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "šeimyna familia domus" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -120,7 +72,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
 
                    35.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -138,7 +89,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
       245 Prūsiškoji Baigos pilis buvusi Aismarių kranto kyšulyje, per 25 m virš jūros lygio,
     sausumos prieigas dengusios pelkės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -155,7 +105,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
     kurių vardus vienas dievas težino. Nuo to laiko pradėjo gausėti Prūsijos žemėje tikinčiųjų
     ir plisti dievo tikėjimas Jėzaus Kristaus garbei bei šlovei (1241).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -171,7 +120,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
     patriarchaliniai vergai (dvaro išlaikomi bernai, mergos, piemenys) ir bernai bei tarnai,
     turėję žemės ir ūkį, dalyvavę savo feodalo kariaunoje (ten pat, p. 128—145).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

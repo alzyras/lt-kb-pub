@@ -45,23 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-26383
   teiginys: '1940 m. liepos 6 d. Antanas Sniečkus išleido įsakymą, leidusį suimti agituojančius prieš Liaudies vyriausybę.'
-  sudarymo_pagrindimas: 'Išplėstas asmens vardas ir sakinys sutrumpintas iki aiškaus enciklopedinio fakto.'
-  susije_objektai: 'mentioned_place: Sniečkus; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
-  temporaliniai_duomenys: 'įvykio data: 1940 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Išplėstas asmens vardas ir sakinys sutrumpintas iki aiškaus enciklopedinio fakto.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 391294-391846; hash=6a656c5e5245d69641ae5e94f705eea22057c7342ef58b8ef1f00bcce585efaa; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sniečkus: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pirmieji masiniai areštai Lietuvoje (1940 m. liepos 10-17 d.): owner_note_path, event
-  ryšio_targeto_parinkimas: Sniečkus: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pirmieji masiniai areštai Lietuvoje (1940 m. liepos 10-17 d.)" parinktas kaip owner_note_path. Targetas "Sniečkus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -82,7 +67,6 @@ Nenurodyta
     194
     turėjo neleisti tokiems pabėgti į Vokietiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

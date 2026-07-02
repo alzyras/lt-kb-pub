@@ -38,22 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-62766
   teiginys: 'Flandrijos gyventojai liepos mėnesį sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Flandrai|Flandrai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Prancūzija; llm_object: [[objektai/ivykiai/Daugybės prancūzų ir flandrų žūtis|Daugybės prancūzų ir flandrų žūtis]]'
-  semantiniai_rysiai: '[[objektai/grupes/Flandrai|Flandrai]] dalyvavo mūšyje [[objektai/ivykiai/Daugybės prancūzų ir flandrų žūtis|Daugybės prancūzų ir flandrų žūtis]]; [[objektai/grupes/Prancūzai|Prancūzai]] dalyvavo mūšyje [[objektai/ivykiai/Daugybės prancūzų ir flandrų žūtis|Daugybės prancūzų ir flandrų žūtis]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=58ef7ab2196cca9c886147be0b09cdbcf006276c0f782f6e8fc39a0883ad5949; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Daugybės prancūzų ir flandrų žūtis: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Flandrai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Daugybės prancūzų ir flandrų žūtis: llm_allowed_candidate, event
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo flandrų dalyvavimą mūšyje.
 
 ## Reikšmingi paminėjimai
 
@@ -70,7 +56,6 @@ Nenurodyta
     imperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
     Klemensas V, popiežius (Ptol. p. 1222, 1227; Mart. p. 438, 442).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

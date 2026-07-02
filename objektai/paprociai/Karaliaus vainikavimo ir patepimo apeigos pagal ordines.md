@@ -49,49 +49,22 @@ Nenurodyta
 - t-001
   global_id: t-97128
   teiginys: 'Zigmanto teisininkų delegacija aiškino Vytautui, kad karaliaus vainikavimui popiežiaus sutikimas nereikalingas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=773ad5ca262002124f03dfd65313bc60b3ecce8fbc1264f39597d7bcc7b0cf59; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 <a id="claim-t-97129"></a>
 - t-002
   global_id: t-97129
   teiginys: 'Zigmantas įrodinėjo, kad Vytautui vainiką gali suteikti ir Romoje nevainikuotas imperatorius, remdamasis karalių vainikavimu be patepimo.'
-  sudarymo_pagrindimas: 'Citata palaiko teiginį, bet pirminis sakinys buvo nutrūkęs ir su OCR triukšmu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 79043-79428; hash=678a09a4a4a84682a505a0483cd4d83dccac5f1900161b1737ec18bbb77e7d57; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaus vainikavimo ir patepimo apeigos pagal ordines: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaus vainikavimo ir patepimo apeigos pagal ordines" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-97130"></a>
 - t-003
   global_id: t-97130
   teiginys: 'Zigmantas teigė, kad Vytautui karaliaus vainiką galėjo suteikti ir Romoje nevainikuotas imperatorius.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1016258-1016512; hash=ac25be1a7155184aa5cf0757b9706aebfbd75232056505a38ffa7cc7232bdf5a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaus vainikavimo ir patepimo apeigos pagal ordines: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaus vainikavimo ir patepimo apeigos pagal ordines" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-97131"></a>
 - t-004
@@ -99,45 +72,20 @@ Nenurodyta
   teiginys: 'Pagal ordines vainikuotas ir šventais aliejais pateptas valdovas turėjo prisidėti prie Kristaus karalystės platinimo žemėje.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a9f86876e83f2b74921ce1f5150f9c4c9df994a9fce87ce89354f32dcb37c1de; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krokuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaus vainikavimo ir patepimo apeigos pagal ordines: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaus vainikavimo ir patepimo apeigos pagal ordines" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-97132"></a>
 - t-005
   global_id: t-97132
   teiginys: 'Pagal ordines vainikuotas ir šventais aliejais pateptas krikščioniškas valdovas turėjo platinti tikėjimą ir ginti Bažnyčią.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pirminis teiginys prasidėjo fragmentu ir buvo netvarkingas.'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a9f86876e83f2b74921ce1f5150f9c4c9df994a9fce87ce89354f32dcb37c1de; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krokuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaus vainikavimo ir patepimo apeigos pagal ordines: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaus vainikavimo ir patepimo apeigos pagal ordines" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-97133"></a>
 - t-006
   global_id: t-97133
   teiginys: 'Pačios karūnavimo apeigos skaitėsi sakramentu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1f609d839380da3147a186e49d04539f28e9f2c05ab37c3d9fc79de4059e15b5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -151,7 +99,6 @@ Nenurodyta
     laiku karaliaus titulus suteikė Lietuvos Mindaugui ir Haličo-Valui-
     nės kunigaikščiui Danieliui, Romano sūnui (1254).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -166,7 +113,6 @@ Nenurodyta
     išaiškinti, jog karaliaus vainikavimnisi popiežiaus sutikimas nesąs
     reikalingas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -186,7 +132,6 @@ Nenurodyta
     tate buvo iškėlę Krokuvos profesoriai, įrodinėdami, jog Zigmantas
     neturįs teisės niekam suteikti vainiko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -206,7 +151,6 @@ Nenurodyta
     valdovo pareiga buvo prisidėti platinti Kristaus karalystę žemėje.
     Pačios karūnavimo apeigos skaitėsi sakramentu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -225,7 +169,6 @@ Nenurodyta
     diadema turėjo ypatingos sakralinės reikšmės : ji įpareigojo ne tik
     tikėjimą skleisti, bet dar ir pačią Bažnyčią ginti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

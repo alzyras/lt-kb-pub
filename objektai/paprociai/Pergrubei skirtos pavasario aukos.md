@@ -42,16 +42,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 231781-232401; hash=af8fb9edf41bbfc03b6f885643741c38cc4eb776625920f6e458c9dccfb2e831; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Prūsija: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Prūsijos lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Grupės pavadinimas tiesiogiai sieja šiuos lietuvius su Prūsija kaip jų gyvenamąja ar kultūrine erdve.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -74,9 +64,7 @@ Nenurodyta
     ronų vyskupų Polenco ir Pauliaus Sprito Karaliaučiaus bažny­
     čios Agenda.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

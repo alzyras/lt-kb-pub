@@ -28,8 +28,6 @@ tags:
 - t-001
   global_id: t-09667
   teiginys: 'Algirdas Maskvos valdovo pasiuntiniui pareiškė, kad per Velykas bus Maskvoje ir atrems ietį į Kremliaus sieną.'
-  sudarymo_pagrindimas: 'Citata pagrindžia konkretų atsakymą, ne abstrakčią formuluotę apie kontrgrasinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_place: Kremlius; mentioned_place: Maskva; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]'
   pagrindžia:
     - c-001
 
@@ -37,8 +35,6 @@ tags:
 - t-002
   global_id: t-09668
   teiginys: 'Raitelis prijojo prie miesto, atrėmė ietį į sieną ir sušuko Maskvos didžiajam kunigaikščiui, kad lietuvių ietis stovėjo prie Maskvos.'
-  sudarymo_pagrindimas: 'Reikia pataisyti citatos formą į enciklopedinį sakinį ir pašalinti tiesioginės kalbos perteklinį svorį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“|„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]; mentioned_place: Maskva'
   pagrindžia:
     - c-002
 
@@ -56,7 +52,6 @@ tags:
     karys, kuris kariauja patogiu metu, o tas, kuris nepatogiu kariauti metu atskleidžia prie-
     šininkui savo karingą nusistatymą.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -70,7 +65,6 @@ tags:
     nujodamas didžiu balsu sušuko: „Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis
     stovėjo prie Maskvos!“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -50,42 +50,15 @@ Nenurodyta
 - t-001
   global_id: t-87233
   teiginys: '1505 m. karalius metams atleido Vilniaus gyventojus nuo karo tarnybos su sąlyga, kad jie apjuos miestą mūro siena.'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Išganytojo (Spaso) bažnyčia Vilniuje; mentioned_place: Viena'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1505 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, faktinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 471124-471974; hash=73c9b3212eeb2b9649df4645ccc27100fa8801c2caf6de3983f84911d249f115; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mūro sienos ir miesto sienos: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Mūro sienos ir miesto sienos: mention_match, thing, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą" parinktas kaip owner_note_path. Targetas "Mūro sienos ir miesto sienos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87234"></a>
 - t-002
   global_id: t-87234
   teiginys: 'Vilniaus miestiečiai turėjo dieną ir naktį eiti sargybą prie miesto vartų.'
-  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir išvalytas nuo OCR lūžių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_place: Vilnius; mentioned_place: Minskas; mentioned_place: Sluckas; mentioned_place: Viena; llm_object: Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 471762-472295; hash=488f01d148180550914746e8b0670135b5d50ed79f5e8f1d537060644f7e7bb1; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Vilnius: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vilniaus miestiečių luomas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Sargybos prie miesto vartų prievolė tiesiogiai rodo Vilniaus miestiečių gynybinę funkciją Vilniuje.
 
 ## Reikšmingi paminėjimai
 
@@ -104,7 +77,6 @@ Nenurodyta
     vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­
     limu, išmetę medinius statinius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -130,7 +102,6 @@ Nenurodyta
     nuo kiekvieno vežimo, gabenančio javus ar kokius kitus pro­
     duktus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

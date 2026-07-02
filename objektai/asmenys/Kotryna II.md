@@ -9,6 +9,11 @@ datos:
   - '1796 m.'
 date_start: '1762'
 date_end: '1796'
+description: 'Kotryna II (1762–1796) perėmė valdžią Rusijoje, rėmė Poniatovskį ir stiprino įtaką Respublikos politikai bei padalijimams.'
+socialDescription: 'Kotrynos II valdymas žymėjo Rusijos įtakos augimą Europoje, Poniatovskio iškilimą ir Respublikos padalijimus.'
+seo_atnaujinta: '2026-07-02T21:03:54.598608+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,7 +28,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus mirė carienė Elžbieta, caras Petras III buvo pašalintas nuo sosto ir nužudytas, ir visą valdžią paėmė Kotryna II (ji buvo ne rusė, bet Anhalt-Cerbsto kunigaikštytė vokietaitė). Kotrynos II (1762—1796 m.) laikais Rusija jau pradėjo vadovauti ne tik rytų Europos politikai, bet ėmė kištis net į centro ir vakarų Europos konfliktus, ir jos žodis ten nusverdavo.
+Kotryna II, Anhalt-Cerbsto kunigaikštytė vokietaitė, perėmė valdžią Rusijoje po Petro III pašalinimo ir nužudymo. Jos valdymo metais (1762–1796 m.) Rusija ėmė vadovauti rytų Europos politikai ir kištis į centro bei vakarų Europos konfliktus. Respublikoje jos įtaka siejama su Stanislovo Augusto Poniatovskio iškėlimu į sostą ir padalijimais, kurių dalį teko užleisti Prūsijai ir Austrijai.
 
 ## Teiginiai
 
@@ -31,8 +36,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - t-001
   global_id: t-63840
   teiginys: 'Karalius siūlė Kotrynai II užleisti jos vaikaičiui Konstantinui sostą, kad ji paliktų seimo padarytas reformas.'
-  sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir suformuluotas pilnas sakinys.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Austrija; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Rusija'
   pagrindžia:
     - c-004
 
@@ -40,8 +43,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - t-002
   global_id: t-63842
   teiginys: 'Stanislovas Augustas Poniatovskis buvo Kotrynos II nurodytas kandidatas į Respublikos sostą ir jos statytinis.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Kotrynos II vaidmenį ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis]]; mentioned_place: Prūsų žemė; mentioned_place: Rusija; mentioned_place: Sūduva'
   pagrindžia:
     - c-002
 
@@ -49,11 +50,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - t-003
   global_id: t-63843
   teiginys: 'Kotryna II valdė 1762-1796 m., o jos laikais Rusija pradėjo vadovauti rytų Europos politikai ir kištis į centro bei vakarų Europos konfliktus.'
-  sudarymo_pagrindimas: 'Reikia aiškiau susieti faktą su Kotryna II kaip asmeniu.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1762-1796; įvykio data: 1796 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia aiškiau susieti faktą su Kotryna II kaip asmeniu.'
   pagrindžia:
     - c-005
 
@@ -61,8 +57,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - t-004
   global_id: t-63844
   teiginys: 'Po Petro III pašalinimo ir nužudymo valdžią Rusijoje perėmė Kotryna II, Anhalt-Cerbsto kunigaikštytė vokietaitė.'
-  sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir turi šalutinio konteksto; citata remia glaustesnį faktą apie Kotryną II.'
-  susije_objektai: 'mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_place: Petrapilis; mentioned_place: Saksonija'
   pagrindžia:
     - c-003
 
@@ -70,7 +64,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - t-005
   global_id: t-63849
   teiginys: 'Kotryna II įvykdė Respublikos padalijimus, kurių metu jos trečdalį turėjo užleisti Prūsijai ir Austrijai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Austrija; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 - susijęs iš Austrija: Per Abiejų Tautų Respublikos padalijimus Kotryna II trečdalį padalytos valstybės turėjo užleisti Prūsijai ir Austrijai.
@@ -86,7 +79,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos,
     kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -104,7 +96,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     tovskis bebuvo perdėm carės Kotrynos II-sios nurodytas kandida­
     tas, jos statytinis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -123,7 +114,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     nuo sosto ir nužudytas, ir visą valdžią paėmė Kotryna II (ji
     buvo ne rusė, bet Anhalt-Cerbsto kunigaikštytė vokietaitė).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -140,7 +130,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     siūlydamasis užleisti jos vaikaičiui Konstantinui sostą, kad tik
     ji paliktų seimo padarytąsias reformas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -158,7 +147,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     vauti ne tik rytų Europos politikai, bet ėmė kištis net į centro ir va-
     karų Europos konfliktus, ir jos žodis ten nusverdavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

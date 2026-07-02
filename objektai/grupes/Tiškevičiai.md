@@ -20,21 +20,8 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 - t-001
   global_id: t-20050
   teiginys: 'XVI a. Tiškevičiai buvo priskirti prie įtakingų rusėnų giminių, laikiusių save LDK piliečiais.'
-  sudarymo_pagrindimas: 'Pradinis teiginys prasideda ištrūkusiu fragmentu, todėl sutvarkytas pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Oginskiai|Oginskiai]]; llm_object: [[objektai/grupes/Rusėnai|Rusėnai]]'
-  semantiniai_rysiai: '[[objektai/grupes/Tiškevičiai|Tiškevičiai]] priklausė [[objektai/grupes/Rusėnai|Rusėnai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cc7e9907045ddcf76cec6fa419ae609342a6fb98ea49aa476fdf42ed7c6472b3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Rusėnai: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Tiškevičiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Rusėnai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata Tiškevičius priskiria rusėnų giminių grupei.
 - susijęs iš [[objektai/asmenys/Jurgis Tiškevičius.md#claim-t-186051|Jurgis Tiškevičius]]: Jurgis Tiškevičius nuvežė į Maskvą karaliaus laišką ir sveikindamas Ivaną pavadino jį Astrachanės caru.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176101|Vilniaus kapitula]]: Apaštališkasis nuncijus Jonas Andrius patvirtino Vilniaus kapitulos Akademijos kolegijos rektoriams perleistas patronato teises.
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172820|Vilniaus magistratas]]: 1654 m. liepos 4 d. įvykdytas sprendimas byloje dėl patronato teisių patenkino Vilniaus magistrato ieškinį.
@@ -52,7 +39,6 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
     Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai,
     Oginskiai ir kt.  – rusėnai, tačiau laikantys save LDK piliečiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

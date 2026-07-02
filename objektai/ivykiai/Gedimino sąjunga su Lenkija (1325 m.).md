@@ -45,23 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-86946
   teiginys: '1325 m. Vilniuje Gediminas sudarė sutartį su Lokietka dėl bendros kovos su Prūsijos ordinu.'
-  sudarymo_pagrindimas: 'Citata pagrindžia sutarties vietą, metus ir tikslą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Lokietka|Lokietka]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lokietka|Lokietka]]; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Livonija; mentioned_place: Revelis; mentioned_place: Viena; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1325 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia sutarties vietą, metus ir tikslą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3d271c0059e87caed8577ec65527e95148e1db6c290904fe5bd57743357551d4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: sudare_sutarti_su -> Lokietka: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lokietka: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Gedimino sutartį su Lokietka.
 
 ## Reikšmingi paminėjimai
 
@@ -85,7 +70,6 @@ Nenurodyta
     iš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­
     tų vėlesnio susijungimo ir galios pirmosios gijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -27,16 +27,6 @@ tags:
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 72101-72225; hash=530b6a7437eab3b037cd135cafafc96141229b15c94f58230c73ce6ca4cf69f3; match=exact
-  sprendimo_priezastis: final::darbas/prompts/05_quality_control/01_normalize_tags.md
-  ryšio_patikimumas: susije_su -> Viena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: A. Šleicheris, Lituanica: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Šleicheris, Lituanica" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -49,9 +39,7 @@ tags:
     buto kritika pasmarkėjo XIX a. pabaigoje, įsigalėjus pozity­
     30 Schleicher. Lituanica. -  Wien, 1853. -  S. 18.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

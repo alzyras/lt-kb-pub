@@ -46,23 +46,8 @@ Nenurodyta
 - t-001
   global_id: t-34554
   teiginys: '1405 m. Rygoje Rygos ir Polocko pirkliai sudarė sutartį laisvai prekiauti net kilus karui tarp Livonijos ordino ir Vytauto.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Polockas; mentioned_place: Livonija; mentioned_place: Polockas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Racionžas; mentioned_place: Ryga'
-  temporaliniai_duomenys: 'įvykio data: 1405 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 615464-615863; hash=34ba320e0b4c48c9c2c52df1da77cb97f54555ae7d49b1e23c806ab918f0765f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: prekiavo_su -> Polockas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ryga: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claimas tiesiogiai nurodo Rygos ir Polocko pirklių sutartį dėl laisvos prekybos.
 
 ## Reikšmingi paminėjimai
 
@@ -77,7 +62,6 @@ Nenurodyta
     vonijos Ordino ir Vytauto, nes pasak jų, prekyba nieko bendro
     neturinti su karu^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

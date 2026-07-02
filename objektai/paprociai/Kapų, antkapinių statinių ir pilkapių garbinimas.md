@@ -36,9 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 655957-656326; hash=58b57aa45a5d49f426a3cb5a3efab88ea6abd773c2d1129969676fe24fc790b2; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -57,9 +54,7 @@ Nenurodyta
     kapams savo protėvių arba asmenų, atmintinų dėl ypatingų
     dorybių.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

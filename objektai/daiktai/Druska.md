@@ -48,20 +48,8 @@ Nenurodyta
 - t-001
   global_id: t-31104
   teiginys: 'Druska buvo vienas būtiniausių dalykų, kuriuos Lietuva per Rygą gabendavosi iš Vakarų.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko faktą apie druskos importą per Rygą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga; llm_object: Ryga'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5eaf6a719085a4e090922657a8a5b45e9be42143b85e3ae63da4ebc389433595; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: prekiavo_su -> Ryga: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Ryga: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Rygą kaip Lietuvai svarbų prekybos centrą.
 - susijęs iš [[objektai/daiktai/Vąšas.md#claim-t-08353|Vąšas]]: Prie vąšo rišdavo druskos gabalą, kurį gaspadinė galėdavo įleisti į katilą.
 - susijęs iš [[objektai/ivykiai/Burgundijos kalno nuslinkimas (1225 m.).md#claim-t-62229|Burgundijos kalno nuslinkimas (1225 m.)]]: 1225 m. Burgundijos Druskos kalnuose dėl žemės drebėjimo kalnas nuslinko, užvertė slėnį ir nuslėgė penkis tūkstančius žmonių.
 - susijęs iš [[objektai/posakiai/„Lietuvos žemės druska“.md#claim-t-20855|„Lietuvos žemės druska“]]: Jaunieji Lietuvos bajorai buvo raginami būti „Lietuvos žemės druska“: kalbėti lietuviškai, mylėti kraštą ir rūpintis liaudies gerove.
@@ -97,7 +85,6 @@ Nenurodyta
     galėjo pasiūlyti Vakaruose gerą paklausą turinčių ir lengvai trans­
     portuojamų prekių (vaško ir kailių) neišsenkančius kiekius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

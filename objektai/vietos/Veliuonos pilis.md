@@ -30,16 +30,6 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 227466-227734; hash=c1ad1ae766350a5d2dbd8032c9b73486fa57e74a09359f4da409dd077e97ba4d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Veliuona: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Veliuonos sudeginimas tiesiogiai rodo kryžiuočių karinį puolimą prieš miestą.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -52,10 +42,8 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
     Veliuoną ir sugriovė pilį. Po to kunigaikštis Kęstutis pasisten­
     gė pilį iš naujo atstatyti ir sustiprinti.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

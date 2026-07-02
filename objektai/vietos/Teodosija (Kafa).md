@@ -18,15 +18,8 @@ Teodosijos, vadinamos Kafa, gyventojai prie Juodosios jūros ieškojo krikščio
 - t-001
   global_id: t-185314
   teiginys: 'Teodosijos, vadinamos Kafa, gyventojai prie Juodosios jūros ieškojo krikščioniškų karalysčių karių įgulos tarnybai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sutrumpinta, pašalintas OCR triukšmas ir išlaikytas faktas apie Teodosiją.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 901892-902359; hash=be30ba39c014eb73b9c0954a27535963110eb968d7e63dcc12e42f73028acdd3; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš Kimerija: Kimerijoje grekonys įsikūrė kai kuriose vietose ir pasistatė Chersoneso, Teodosijos bei Albijos pilis.
 - susijęs iš [[objektai/grupes/Kafos gyventojai.md#claim-t-185450|Kafos gyventojai]]: Kafos gyventojai, bijodami prie Juodosios jūros augančios turkų galybės, sumanė samdyti įgulos karius krikščioniškose karalystėse.
 - susijęs iš [[objektai/paprociai/Samdinių verbavimas krikščioniškose karalystėse įgulos tarnybai.md#claim-t-185924|Samdinių verbavimas krikščioniškose karalystėse įgulos tarnybai]]: Kafos gyventojai, bijodami augančios turkų galybės, sumanė krikščioniškose karalystėse samdyti įgulos tarnybai tinkamų karių.
@@ -52,7 +45,6 @@ Teodosijos, vadinamos Kafa, gyventojai prie Juodosios jūros ieškojo krikščio
     k ijo je
     algininkų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

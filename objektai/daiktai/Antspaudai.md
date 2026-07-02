@@ -48,39 +48,20 @@ Nenurodyta
 - t-001
   global_id: t-86979
   teiginys: 'Horodlės privilegija turėjo Žygimanto Augusto patvirtinimą su dviem antspaudais.'
-  sudarymo_pagrindimas: 'Pirminis teiginys remiasi neaiškia kontekstine nuoroda, todėl perrašytas su aiškiu privilegijos pavadinimu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Horodlė'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 331723-332001; hash=2f864c1998d627295387634076c5c5dba67a322379aabcd0fd0d3cff82d96327; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antspaudai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antspaudai" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-86981"></a>
 - t-002
   global_id: t-86981
   teiginys: 'Komisarai prisiekusių liudininkų žinias apie Pabaisko bažnyčios įkūrimą aprašė ir patvirtino savo antspaudais.'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citatos informacija apie antspaudais patvirtintą aprašymą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 492187-492842; hash=19f7f6bc2ea466b5688169379d644f784052a76dcf06b360739057ee12a2ebcc; match=whitespace_regex
-  sprendimo_priezastis: auto
 
 <a id="claim-t-86982"></a>
 - t-003
   global_id: t-86982
   teiginys: 'Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako.'
-  sudarymo_pagrindimas: 'Teiginys yra išsamus faktinis sakinys apie magistrato antspaudą ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Gardino seimas|Gardino seimas]]; mentioned_group: [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Gardinas; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]'
-  semantiniai_rysiai: '[[objektai/daiktai/Antspaudai|Antspaudai]] priklausė [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius.md#claim-t-101649|Jonas Jeronimaitis Chodkevičius]]: Jonas Jeronimaitis Chodkevičius apgynė LDK antspaudus ir nukėlė konkrečių Lenkijos bei Lietuvos ryšių ar unijos klausimų sprendimą.
@@ -165,7 +146,6 @@ Nenurodyta
     Valentinui iš Pilzno, naująją privilegiją amžiams suteikti nu­
     sprendėme ir suteikiame.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -184,7 +164,6 @@ Nenurodyta
     tos privilegijos Žygimanto Augusto
     patvirtinimas su dviem antspaudais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -239,7 +218,6 @@ Nenurodyta
     sų-palikuonių sutikimo ar kitos
     naujos ar atskiros privilegijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

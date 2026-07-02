@@ -30,11 +30,6 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
 - t-001
   global_id: t-182781
   teiginys: '1656 m. spalio 22 d. švedai ir brandenburgiečiai pasivijo lietuvius ties Pilypavu netoli Suvalkų ir juos sumušė.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, susiejantis įvykį su Suvalkais.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_event: [[objektai/ivykiai/Pilypavo mūšis (1656 m. spalio 22 d.)|Pilypavo mūšis (1656 m. spalio 22 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Pilypavas; mentioned_place: Prostkai'
-  temporaliniai_duomenys: 'įvykio data: 1656 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys, susiejantis įvykį su Suvalkais.'
   pagrindžia:
     - c-001
 
@@ -42,10 +37,6 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
 - t-002
   global_id: t-183091
   teiginys: 'Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_place: Marijampolė; mentioned_place: Užnemunė'
   pagrindžia:
     - c-002
 
@@ -53,11 +44,6 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
 - t-003
   global_id: t-183638
   teiginys: 'Lietuvos politinių grupuočių teritorinės aspiracijos apėmė etnines lietuvių žemes Suvalkų gubernijoje.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškią nuorodą į „abi tos grupuotės“ ir perteklinę formuluotę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-183747|K. Škirpa]]: Rugsėjo 5 d. K. Škirpos ir A. Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.
@@ -184,7 +170,6 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
     Pilypavo mūšis 1656 m. spalio 22 d. Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B. Radvilos. Dėl to totoriai pasitraukė iš lietu-
     vių pajėgų. Pasinaudodami tuo švedai ir brandendburgiečiai, surinkę papildomas pajėgas, pasivijo lietuvius ties Pilypavu (netoli Suvalkų) ir juos sumušė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -200,7 +185,6 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
     polėje ir Suvalkuose. Jas taip pat daugiausia lankė lietuvių vai-
     kai, ir jose taip pat buvo mokoma lietuvių kalbos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -222,7 +206,6 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
     idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-
     priklausomybės siekis etnografiniu pagrindu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

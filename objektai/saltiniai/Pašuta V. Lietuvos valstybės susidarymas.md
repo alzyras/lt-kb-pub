@@ -32,8 +32,6 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
 - t-001
   global_id: t-60924
   teiginys: 'Pašutos veikalo puslapis 340 nurodomas prie bandymo lokalizuoti minimą vietovę buvusioje Pagraudės teritorijoje.'
-  sudarymo_pagrindimas: 'Rewrite failed deterministic gates: heading_or_page_noise'
-  susije_objektai: 'mentioned_place: Pagraudė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-001
 
@@ -48,7 +46,6 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
     (Zajączkowski S., Studya..., p. 33—34 ir žemėlapis; SZM, p. 213; Ivinskis Z., Gedimino
     pilis, p. 1139— 1141; Pašuta V., Lietuvos..., p. 340).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

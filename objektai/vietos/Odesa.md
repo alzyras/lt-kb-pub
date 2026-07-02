@@ -28,8 +28,6 @@ Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet
 - t-001
   global_id: t-68834
   teiginys: 'Odesos universiteto istorikas V. V. Antonovičius iš šaltinių tyrė senosios Lietuvos valstybės istoriją iki Gedimino mirties.'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs ties inicialu; citata leidžia atkurti pilną faktinį sakinį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/V. V. Antonovičius|V. V. Antonovičius]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/V. V. Antonovičius.md#claim-t-31053|V. V. Antonovičius]]: V. V. Antonovičius, Odesos universiteto istorikas, iš šaltinių bandė tirti senosios Lietuvos valstybės istoriją iki Gedimino mirties.
@@ -51,7 +49,6 @@ Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet
     vičius iš šaltinių bandė tirti ir duoti senosios Lietuvos valsty­
     bės istoriją iki Gedimino mirties (AnM, AnOč).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

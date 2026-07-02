@@ -33,71 +33,27 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 - t-001
   global_id: t-90458
   teiginys: '1266 m. iš Afrikos atvykę saracėnai užgrobė Ispaniją, bet vėliau krikščionys juos nugalėjo.'
-  sudarymo_pagrindimas: 'Pašalinta antraštė ir nutrūkusi šaltinio nuoroda.'
-  susije_objektai: 'llm_object: Ispanija; llm_object: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_place: Afrika'
-  semantiniai_rysiai: '[[objektai/grupes/Saracėnai|Saracėnai]] užkariavo Ispanija'
-  temporaliniai_duomenys: 'įvykio data: 1266 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalinta antraštė ir nutrūkusi šaltinio nuoroda.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5771e7971f16f4bc8057e2fb6f62690d81c3421eebfa362f3d449c3010c535e1; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ispanija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ispanija" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-90459"></a>
 - t-002
   global_id: t-90459
   teiginys: 'Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekonomikos.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir pagrįstas citatos vertinimu apie Ispaniją ir Portugaliją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Portugalija; mentioned_place: Anglija; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1588 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatinis ir pagrįstas citatos vertinimu apie Ispaniją ir Portugaliją.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=53d878a22dc36c0ad5d9831f02fa518d154b90cc7380bddb2e3753174e34eaf3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ispanija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Anglija: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ispanija" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-90460"></a>
 - t-003
   global_id: t-90460
   teiginys: 'XVI a. geopolitiniu požiūriu Europoje Ispanijai neprilygo nė viena valstybė.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Ispaniją ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_place: Viena; mentioned_group: [[objektai/grupes/Saulė|Saulė]]; mentioned_place: Europa; mentioned_place: Portugalija; mentioned_place: Viduržemio jūra'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b6bb6e41862faa0b643be3c6d5fcbff5689a0c49624b77bfd04814c1ca6ec1bd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ispanija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ispanija" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-90461"></a>
 - t-004
   global_id: t-90461
   teiginys: 'Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Vakarų Europa; mentioned_place: Anglija; mentioned_place: Italija'
   pagrindžia:
     - c-003
 
@@ -105,66 +61,22 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 - t-005
   global_id: t-90463
   teiginys: '1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie įvykį Ispanijoje ir remiasi citata.'
-  susije_objektai: 'llm_object: Maljorka; llm_object: Menorka; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_place: Maljorka; mentioned_place: Menorka; mentioned_place: Aragonas'
-  temporaliniai_duomenys: 'įvykio data: 1230 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie įvykį Ispanijoje ir remiasi citata.'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=53d878a22dc36c0ad5d9831f02fa518d154b90cc7380bddb2e3753174e34eaf3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lotynai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ispanija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lotynai: mention_match, group, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ispanija" parinktas kaip owner_note_path. Targetas "Lotynai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-90464"></a>
 - t-006
   global_id: t-90464
   teiginys: '1588 m. Nenugalimosios armados nesėkmė ženklino Ispanijos galybės saulėlydį, o Ispanija žygio į Angliją nebekartojo.'
-  susije_objektai: 'mentioned_place: Anglija; mentioned_event: [[objektai/ivykiai/Nenugalimosios armados nesėkmė|Nenugalimosios armados nesėkmė]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Portugalija; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1588 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 697326-697516; hash=440d9860729bd22d1dd958286a8ae0ba452716711a61a87382d257ee4f2efc28; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Maljorka: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Saracėnai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Maljorka: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad šios salos anksčiau buvo užimtos saracėnų.
 
 <a id="claim-t-90465"></a>
 - t-007
   global_id: t-90465
   teiginys: '1232 m. Ispanijos Tolede vienas žydas rado akmenyje iškaltą knygą, užrašytą hebrajiškai, graikiškai ir lotyniškai.'
-  sudarymo_pagrindimas: 'Reikia aiškiai susieti teiginį su Ispanija kaip pastabos objektu.'
-  susije_objektai: 'llm_object: Ispanija; mentioned_place: Toledas; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]'
-  semantiniai_rysiai: 'Toledas priklausė Ispanija'
-  temporaliniai_duomenys: 'įvykio data: 1232 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia aiškiai susieti teiginį su Ispanija kaip pastabos objektu.'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 698095-698487; hash=bc0572056f7f71d01f740b7caa41f1dc2b9e5ab4df9bef6adb91d2d08c018aeb; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Ispanija: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Toledas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Ispanija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Toledas tiesiogiai lokalizuotas Ispanijoje.
 - susijęs iš [[objektai/asmenys/Almimolinas.md#claim-t-60235|Almimolinas]]: Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją ir paskelbė karą nukryžiuotąjį gerbiantiems žmonėms.
 - susijęs iš [[objektai/grupes/Saracėnai.md#claim-t-63210|Saracėnai]]: Saracėnų valdovas Almimolinas su gausia kariuomene atvyko į Ispaniją ir paskelbė karą krikščionims.
 - susijęs iš [[objektai/ivykiai/Almimolino žygis į Ispaniją ir pralaimėjimas.md#claim-t-62194|Almimolino žygis į Ispaniją ir pralaimėjimas]]: Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją, paskelbė karą krikščionims, buvo Ispanijos karalių nugalėtas ir pabėgo.
@@ -216,7 +128,6 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     XVI a. geopolitiniu požiūriu Europoje neprilygo nė viena valstybė – Is-
     panijos valdose nenusileisdavo saulė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -232,7 +143,6 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     sėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra,
     žygio Ispanija nekartojo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -251,7 +161,6 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas Pe-
     teris Paulius Rubensas).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -266,7 +175,6 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
       1266 viešpaties metais daugybė saracėnų, atkilusių iš Afrikos, užgrobė Ispaniją, vis
     dėlto ilgainiui krikščionys, pralieję nemaža savo kraujo, juos nugalėjo (Mart. p. 408).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -281,7 +189,6 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
       1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir
     Menorka, kurios buvo anksčiau užimtos saracėnų (Ptol. 21,33).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -298,7 +205,6 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     lotyniškai. Rašte tiek buvo pasakyta kiek ir psalmyne, ir jis bylojo apie trilypį pasaulį nuo
     Adomo ligi Antikristo, iškeldamas aikštėn žmonių savybes.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -31,24 +31,8 @@ O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė
 - t-001
   global_id: t-80718
   teiginys: 'Sembos vyskupo teisėjas Jonas Lonei žuvo Strėvos mūšyje kartu su penkiomis dešimtimis karių prie vėliavos.'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo ilgas kronikos fragmentas; citata leidžia suformuluoti aiškų faktą apie asmenį.'
-  susije_objektai: 'llm_object: Strėva; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Strėva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_object: [[objektai/zodynas/vyskupo teisėjas|vyskupo teisėjas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Zygfridas iš Da[he]nfeldo|Zygfridas iš Da[he]nfeldo]]; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Smolenskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas Lonei|Jonas Lonei]] mirė Strėva'
-  temporaliniai_duomenys: 'įvykio data: 1348 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo ilgas kronikos fragmentas; citata leidžia suformuluoti aiškų faktą apie asmenį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 143239-144586; hash=392e7c09ceb607309f9501ad0e3f9c838a281592a925aed0557e6befe94e6f24; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Strėva: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jonas Lonei: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Strėva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claim tiesiogiai nurodo, kad Jonas Lonei žuvo Strėvos mūšyje.
 
 ## Reikšmingi paminėjimai
 
@@ -79,7 +63,6 @@ O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė
     Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ apie lietuvių žygio metu įvykusį
     Lietuvos valdovo Algirdo ir vieno lyvių seniūno pokalbį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

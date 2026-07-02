@@ -8,6 +8,11 @@ datos:
   - '1200 m.'
 date_start: '1200'
 date_end: ''
+description: 'Baigos komtūras Henrikas Cutsvertas minimas žygiuose prieš Lietuvą: prie Junigedos, Gardino ir dykrose tarp Luko bei Narevo.'
+socialDescription: 'Henrikas Cutsvertas – Baigos komtūras, šaltiniuose minimas kaip žygių prieš Lietuvą vadas ir Jazbuto priešininkas.'
+seo_atnaujinta: '2026-07-02T21:03:54.574546+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,7 +29,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą ir 29 brolius su 1200 vyrų, turėjusių jam pastoti kelią. Dusburgietis teigia, kad šioje kovoje Jazbutas, kadaise draugas, o dabar priešas, užpuolė brolį Henriką Cutsvertą ir sužeidė jam žirgą, todėl brolis Henrikas įniršo ir jį perdūrė ietimi. Dusburgietis teigia, kad apie Aukaimio valsčiaus nusiaubimą Tais pačiais metais, apaštalų švento Petro ir švento Povilo dieną (birželio 29), brolis Henrikas Cutsvertas, minėtasis Baigos komtūras, su 20 brolių ir tūkstančiu penkiais šimtais vyrų išjojo537 link Junigedos pilies.
+Henrikas Cutsvertas buvo Baigos komtūras, minimas žygiuose prieš Lietuvą. Šaltiniuose jis siejamas su kariuomenės vedimu link Lietuvos, žygiu prie Junigedos pilies ir pasalomis dykrose tarp Luko bei Narevo. Pasakojama, kad susidūrime su lietuvių kunigaikščiu Jazbutu Henrikas jį perdūrė ietimi, pats netekdamas piršto.
 
 ## Teiginiai
 
@@ -32,122 +37,43 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
 - t-001
   global_id: t-59915
   teiginys: 'Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai atitinka citatos informaciją.'
-  susije_objektai: 'llm_object: Junigeda; mentioned_place: Junigeda; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/posakiai/nedera tuščiomis rankomis grįžti namo|nedera tuščiomis rankomis grįžti namo]]; mentioned_place: Aukaimis; mentioned_place: Baiga; mentioned_place: Ragainė; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Cutsvertas|Henrikas Cutsvertas]] keliavo į Junigeda'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 564166-564441; hash=60433fe3d7ab8c270864d0ec7aa04346fc8969020c05b35c565acba7c0047905; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lukas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas Cutsvertas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lukas: mention_match, place, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas Cutsvertas" parinktas kaip owner_note_path. Targetas "Lukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59916"></a>
 - t-002
   global_id: t-59916
   teiginys: 'Karaliaučiaus komtūras Bertoldas paskyrė Baigos komtūrą Henriką Cutsvertą kariuomenės vadu žygiui į Lietuvą.'
-  sudarymo_pagrindimas: 'Citata palaiko Henriko paskyrimą kariuomenės vadu.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Baiga; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Pilėnai; llm_object: Gardinas'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Cutsvertas|Henrikas Cutsvertas]] surengė žygį į Lietuva; [[objektai/asmenys/Henrikas Cutsvertas|Henrikas Cutsvertas]] puolė Gardinas'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2f712ede00ac38d9ffc70c8ca7aab4cd01126627866c7b66620a5a92a482161e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Henrikas Cutsvertas: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jazbutas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Henrikas Cutsvertas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Jazbutas užpuolė Henriką Cutsvertą.
 
 <a id="claim-t-59917"></a>
 - t-003
   global_id: t-59917
   teiginys: 'Magistras pasiuntė Henriką Cutsvertą, 29 brolius ir 1200 vyrų tykoti dykrose tarp Luko ir Narevo.'
-  sudarymo_pagrindimas: 'Pradinio teiginio objektas „priešininkui“ citatoje nėra aiškiai įvardytas, todėl teiginys patikslintas pagal aiškiai paremtus duomenis.'
-  susije_objektai: 'mentioned_place: Lukas; mentioned_place: Narevas; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5bc0ca0a649396ec715f2a0a362cc501172004eba08f6d90eca6b02eaa8464cf; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Junigeda: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas Cutsvertas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Junigeda: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Henriko judėjimą link Junigedos pilies.
 
 <a id="claim-t-59918"></a>
 - t-004
   global_id: t-59918
   teiginys: 'Jazbutui sužeidus Henriko Cutsverto žirgą, Henrikas Cutsvertas įniršęs perdūrė Jazbutą ietimi.'
-  sudarymo_pagrindimas: 'Citata palaiko priežastinį kovos epizodą, pašalintas perteklinis pasakojimas.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Henrikas Cutsvertas|Henrikas Cutsvertas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Jazbutas|Jazbutas]] puolė [[objektai/asmenys/Henrikas Cutsvertas|Henrikas Cutsvertas]]; [[objektai/asmenys/Jazbutas|Jazbutas]] buvo priešas [[objektai/asmenys/Henrikas Cutsvertas|Henrikas Cutsvertas]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c579fe6f2e81fcb74c8792030928f4c7e7eab2854c410ae95ad57225223dcb65; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Henrikas Cutsvertas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas Cutsvertas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59919"></a>
 - t-005
   global_id: t-59919
   teiginys: 'Henrikas Cutsvertas, prūso įspėtas apie gresiančią išdavystę Lietuvoje, paprašė patarimo, kaip išvengti pavojaus.'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną teiginį apie Henriko veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d83dd3c83b6acdbc3d54397275ee883c84598d773e2a2fdf40e34a1ab9c38e82; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas Cutsvertas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Henrikui įsakyta su kariuomene traukti link Lietuvos, todėl remiamas karinis žygis į Lietuvą.
 
 <a id="claim-t-184712"></a>
 - t-006
   global_id: t-184712
   teiginys: 'Henrikas Cutsvertas vadovavo užpakalinei vorai ir ietimi persmeigė lietuvių kunigaikštį Jazbutą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sakinys pašalina OCR intarpus ir aiškiai įvardija veikėjus bei veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Cutsvertas|Henrikas Cutsvertas]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 282427-283275; hash=4dec1a4645ba62189f361b017c84f750079d6933ca57f7fc936572aa1a3b29b6; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas Cutsvertas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Mūšio kontekste Henrikas vadovauja priešingai pusei, o lietuviai traukiasi netekę vado.
 - susijęs iš [[objektai/asmenys/Jazbutas.md#claim-t-184092|Jazbutas]]: Kovoje Jazbutas užpuolė brolį Henriką Cutsvertą ir sužeidė jo žirgą, o Henrikas Cutsvertas perdūrė Jazbutą ietimi.
 - susijęs iš [[objektai/asmenys/Jazbutas.md#claim-t-60147|Jazbutas]]: Kovoje Jazbutas užpuolė brolį Henriką Cutsvertą ir sužeidė jo žirgą, o Henrikas Cutsvertas perdūrė Jazbutą ietimi.
 - susijęs iš [[objektai/asmenys/Jazbutas.md#claim-t-184092|Jazbutas]]: Kovoje Jazbutas užpuolė brolį Henriką Cutsvertą ir sužeidė jo žirgą, o Henrikas Cutsvertas perdūrė Jazbutą ietimi.
@@ -168,7 +94,6 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
     upių, tai yra tarp Luko530 ir Narevo, jų ten tykojo aštuonetą dienų, smarkiai piktindamiesi
     ir didžiai trūkdami maisto.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -183,7 +108,6 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
     Jazbutas, suvokdamas, jog artėja neišvengiama mirtis, kirto, negalėdamas atsisukti,
     kalaviju atgalia ranka, broliui Henrikui nunešdamas pirštą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -204,7 +128,6 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
     pasitraukę su kariuomene, kurį laiką ilsėjosi vienoje vietoje; ilgokai ten taręsi, galop visi
     nusprendė, kad, šiaip ar taip, nedera tuščiomis rankomis grįžti namo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -224,7 +147,6 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
     pilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,
     kai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -242,7 +164,6 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
     tučtuojau grįšite atgal, jus grįžtančius išžudys saviškiai“. Brolis Henrikas atsakė: „Jeigu
     taip yra, kaip sakai, patark mums, ką turime daryti, kad išvengtume pavojų“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -276,7 +197,6 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
     na pusė, tačiau visas grobis, lietuviams matant ir iš
     pykčio griežiant dantimis, buvo išgabentas j Prūsiją.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

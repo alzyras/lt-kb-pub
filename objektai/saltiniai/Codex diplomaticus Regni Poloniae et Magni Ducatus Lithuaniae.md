@@ -29,65 +29,22 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
 - t-001
   global_id: t-29668
   teiginys: '„Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae“ pradėtas spausdinti Vilniuje 1758 m. iš Motiejaus Dogelio surinktos archyvinės medžiagos.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata apie leidinio spausdinimo pradžią Vilniuje 1758 m.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1758 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata apie leidinio spausdinimo pradžią Vilniuje 1758 m.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 136418-136803; hash=233bc77b76c16ee405f3e8ec405f516457807c18806ae2ce3bf2b2db94bed1c6; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184352"></a>
 - t-002
   global_id: t-184352
   teiginys: '„Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae“ 1758 m. pradėtas spausdinti Vilniuje iš Motiejaus Dogelio surinktos archyvinės medžiagos.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatoje pateiktą informaciją.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1758 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir atitinka citatoje pateiktą informaciją.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 136283-136663; hash=cf7541fcd8fd824fd87f3462b160f431f39a4f5cf8b4ec4f01e1363fed4c5e35; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=91
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184353"></a>
 - t-003
   global_id: t-184353
   teiginys: 'Iki 1764 m. iš suplanuotų aštuonių „Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae“ tomų buvo išspausdinti trys.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko tikslesnį ir enciklopediškesnį sakinį.'
-  temporaliniai_duomenys: 'įvykio data: iki 1764 m.; įvykio data: 1764 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį ir enciklopediškesnį sakinį.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 136534-136891; hash=c0e4ef1c35cd4672a8bb3f8f51a62b2f9fd713bbbed5a4d6304268d59854c9c0; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -101,14 +58,11 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
     metų šito svarbaus dokumentų rinninio, kurio Dogelis buvo supla­
     navęs 8 storus tomus, buvo išspausdinti iš viso tik trys (1,4,5).
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: '„Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae“ 1758 m. pradėtas spausdinti Vilniuje iš Motiejaus Dogelio surinktos archyvinės medžiagos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -121,14 +75,11 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
     niuje buvo pradėta spausdinti didžiulio formato (4°) « Codex diplo­
     maticus Regni Poloniae et Magni Ducatus Lithuaniae »^33.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Iki 1764 m. iš suplanuotų aštuonių „Codex diplomaticus Regni Poloniae et Magni Ducatus Lithuaniae“ tomų buvo išspausdinti trys.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -141,10 +92,8 @@ Iš pijoro Motiejaus Dogelio (Dogiel) surinktos gausios archyvinės medžiagos L
     Pradėjus leisti originalius tekstus buvo galima sistemingiau
     tirti savo krašto praeitį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003

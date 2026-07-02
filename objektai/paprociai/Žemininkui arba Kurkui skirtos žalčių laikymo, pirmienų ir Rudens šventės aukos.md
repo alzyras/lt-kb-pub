@@ -36,9 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 193936-194310; hash=a5dca1977df1e65e122e108983cd3bdd2cc74a631d11f6b212b49793f6212d9e; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -56,9 +53,7 @@ Nenurodyta
     vis. Apaštalai, apkrikštydami prūsus, daugiausia vargo, kol įvei­
     kė prietaringą tikėjimą šia dievybe*.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

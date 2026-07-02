@@ -39,39 +39,15 @@ Nenurodyta
 - t-001
   global_id: t-91904
   teiginys: 'Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis.'
-  sudarymo_pagrindimas: 'Įvardytas veikėjas ir pašalintas neaiškus įvardis.'
-  susije_objektai: 'llm_object: Galinda; llm_object: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Galinda; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 208435-209548; hash=5b26157fb4c5092f5f8c095cfc823b85b000e426bfff0c832ebadaef2ea25655; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Galinda: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Galinda: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad sūduviai įsibrovė į Galindos žemę.
 
 <a id="claim-t-91905"></a>
 - t-002
   global_id: t-91905
   teiginys: 'Manoma, kad Galindos žemės nusiaubimą daugiausia lėmė XI-XIII a. pradžios pasienio karai, ypač su Lenkija.'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo su OCR ir išnašų triukšmu, bet citata palaiko glaustą faktinį sakinį.'
-  susije_objektai: 'mentioned_place: Galinda; mentioned_place: Lenkija; mentioned_object: [[objektai/zodynas/dykra|dykra]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 210158-210794; hash=f9a9994596771c288544d2d9818e3cc5dbbf4be980725e97774fefcb239d75b9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Galinda: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Galindų žygis be ginklų ir Galindos žemės nusiaubimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Galinda: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Galindų žygis be ginklų ir Galindos žemės nusiaubimas" parinktas kaip owner_note_path. Targetas "Galinda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -93,7 +69,6 @@ Nenurodyta
     ir išsivarė  į amžiną vergovę moteris, vaikus bei kitus likusius. Šitaip toji žemė po šiai
     dienai paliko nusiaubta203.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -112,7 +87,6 @@ Nenurodyta
     dykra (Kamiński A., Jaćwież, p. 58; Jasas R., Didysis..., p. 12). Dalis gyventojų galėjo
     išlikti iki XIII a. (Powierski J. Krytyka koncepcji..., p. 303).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -31,15 +31,8 @@ Dusburgietis teigia, kad regesta historico-diplomatica Ordinis S.
 - t-001
   global_id: t-61268
   teiginys: '„Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525“ antroji dalis išleista Getingene 1948 m.'
-  sudarymo_pagrindimas: 'Citata pagrindžia leidinio pavadinimą, dalį ir leidimo metus.'
-  temporaliniai_duomenys: 'įvykio data: 1948 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia leidinio pavadinimą, dalį ir leidimo metus.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 794817-795068; hash=6c8c0db65e4534921280e2ca072fd70f12bc17c227403cd6bcfada4ab6a595a9; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -52,7 +45,6 @@ Dusburgietis teigia, kad regesta historico-diplomatica Ordinis S.
     zahlreicher anderer von E. Joachim; Herausgegeben von W. Hubatsch.— Göttingen,
     1948.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -28,80 +28,29 @@ amziai:
 - t-001
   global_id: t-173860
   teiginys: 'Pabaisko bažnyčios ir klebonijos fundacijos privilegija buvo sudaryta 1544 metais.'
-  sudarymo_pagrindimas: 'Citata pagrindžia privilegijos objektą ir datą; praleistas dokumento antraščių triukšmas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Ukmergė; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1426 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia privilegijos objektą ir datą; praleistas dokumento antraščių triukšmas.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=32382d22c73f3add608764b63fdd2753d2a97ccd6a4f324bc2556b53217720cc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> fundacija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pabaisko bažnyčia ir parapija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: fundacija: mention_match, thing, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pabaisko bažnyčia ir parapija" parinktas kaip owner_note_path. Targetas "fundacija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-173861"></a>
 - t-002
   global_id: t-173861
   teiginys: 'Pabaisko parapijos ribos turėjo eiti nuo Širvintos upės iki Šventosios ir būti juosiamos Kertušos upės.'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti konkretų faktą apie parapijos ribas.'
-  susije_objektai: 'mentioned_place: Kertuša; mentioned_place: Širvinta; mentioned_place: Vilnius; mentioned_place: Šesarka; mentioned_place: Šešulka; mentioned_place: Šešuolė'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 488733-489723; hash=60c7066cc87d66af28eaf614c96288dbc4078b581f0168fbb7ae5514210a50b0; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Egidijus (arkivyskupas, XIV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pabaisko bažnyčia ir parapija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Egidijus (arkivyskupas, XIV a.): mention_match, person, gap=90
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pabaisko bažnyčia ir parapija" parinktas kaip owner_note_path. Targetas "Egidijus (arkivyskupas, XIV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-173862"></a>
 - t-003
   global_id: t-173862
   teiginys: 'Pabaisko bažnyčia buvo pastatyta Šventosios Trejybės, Mergelės Marijos Ėmimo į dangų, šv. Egidijaus ir šv. Jurgio garbei.'
-  sudarymo_pagrindimas: 'Ilgas dokumento fragmentas sutrumpintas iki aiškaus fakto apie bažnyčią.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Egidijus|Egidijus]]; mentioned_place: Lenkija; mentioned_place: Luckas; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 492517-493575; hash=fd8b6e1f16df55cbd136c0af8ebbb64ed229179ef47ea6ee7a4051a622609d46; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kertuša: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pabaisko bažnyčia ir parapija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kertuša: mention_match, place, gap=89
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pabaisko bažnyčia ir parapija" parinktas kaip owner_note_path. Targetas "Kertuša" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-173863"></a>
 - t-004
   global_id: t-173863
   teiginys: 'Pagal fundaciją nustatytose ribose karčemos turėjo priklausyti Pabaisko bažnyčiai.'
-  sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie fundacijos nustatytą priklausomybę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/filija|filija]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 495416-496341; hash=98676bb185c4908bc1ef4b44f7b7cae8c8bc5cdfd461e57d2eca838176d0434a; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> filija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pabaisko bažnyčia ir parapija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: filija: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pabaisko bažnyčia ir parapija" parinktas kaip owner_note_path. Targetas "filija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -131,7 +80,6 @@ amziai:
     luomo ar padėties žmogaus, norime, kad tokia būtų nukel­
     ta ir sunaikinta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -165,7 +113,6 @@ amziai:
     Filia subjectaque Ecclesiae Poboyscensi fiat, qualis dicitur ex-
     tructa esse Ecclesia in Wronowo seu Wiesza.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -199,7 +146,6 @@ amziai:
     illo ex Prutkenis et Livonikus Retulerat edificatam, et kones-
     tis Reditikus dotatam.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -253,7 +199,6 @@ amziai:
     Lietuvos Didžiosios Kunigaikštystės Vyriausiojo Tribunolo
     Aktų knygas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

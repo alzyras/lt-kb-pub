@@ -31,12 +31,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - t-001
   global_id: t-182770
   teiginys: '1919 m. sausio 9 d. Jonas Variakojis su pirmuoju savanorių būriu paliko Panevėžį ir atvyko į Kėdainius.'
-  sudarymo_pagrindimas: 'Reikia išplėsti inicialą ir patikslinti datą pagal citatos kontekstą.'
-  susije_objektai: 'llm_object: Kėdainiai; mentioned_person: [[objektai/asmenys/J. Variakojis|J. Variakojis]]'
-  semantiniai_rysiai: '[[objektai/asmenys/J. Variakojis|J. Variakojis]] keliavo į Kėdainiai'
-  temporaliniai_duomenys: 'kelionės data: 1918 m.; kelionės data: 1919 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia išplėsti inicialą ir patikslinti datą pagal citatos kontekstą.'
   pagrindžia:
     - c-001
 
@@ -44,11 +38,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - t-002
   global_id: t-183041
   teiginys: 'Kėdainių mokykla išgarsėjo, kai Radvilos Kėdainius darė protestantų kultūros centru.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata geriau pagrindžia glaustą teiginį apie Kėdainius ir jų mokyklą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Sluckas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 - susijęs iš Panevėžys: 1919 m. sausio 9 d. bolševikų pajėgos užėmė Panevėžį, o J. Variakojis su pirmuoju savanorių būriu pasitraukė į Kėdainius.
@@ -161,7 +150,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     su pirmuoju savanorių būriu paliko
     miestą ir atvyko į Kėdainius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -178,7 +166,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     centru. Čia net buvo įsteigta spaustuvė, kurioje buvo spausdina-
     mos religinio turinio knygos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

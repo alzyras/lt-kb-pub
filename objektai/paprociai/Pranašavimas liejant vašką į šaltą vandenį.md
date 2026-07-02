@@ -36,16 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 519351-519882; hash=baa59c64ab48cd5dd21d58314a55d59b7349d75d11116ed8fd2d6b784d220829; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vaškas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pranašavimas liejant vašką į šaltą vandenį: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vaškas: mention_match, thing, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranašavimas liejant vašką į šaltą vandenį" parinktas kaip owner_note_path. Targetas "Vaškas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -62,9 +52,7 @@ Nenurodyta
     atsirandančios vaškinės figūros ir įvairūs pavidalai teikia pro­
     gos juokdariams pripūsti lengvatikių galvas visokių niekų.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

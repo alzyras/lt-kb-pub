@@ -28,23 +28,8 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
 - t-001
   global_id: t-19876
   teiginys: 'Nuo 1934 m. Lietuvos karo aviacijai vadovavęs Antanas Gustaitis sukonstravo ANBO lėktuvų seriją.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Lietuvos karo aviaciją.'
-  susije_objektai: 'llm_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/posakiai/„Antanas nori būti ore“|„Antanas nori būti ore“]]; mentioned_person: [[objektai/asmenys/Antanas Gustaitis|Antanas Gustaitis]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: po 1934 m.; įvykio data: 1934 m.; įvykio data: 1935 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus sakinys apie Lietuvos karo aviaciją.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a59cbaf031442ea1b58a76976eaac1a1193c98ea9ce88cbb063e11d9477e3b9d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Lėktuvai: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Antanas Gustaitis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lėktuvai: llm_allowed_candidate, thing
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Antanas Gustaitis sukonstravo lėktuvų seriją.
 
 ## Reikšmingi paminėjimai
 
@@ -59,7 +44,6 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
     tuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių
     pirmųjų raidžių).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

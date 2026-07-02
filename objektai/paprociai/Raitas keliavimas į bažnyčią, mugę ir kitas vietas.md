@@ -34,7 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-07800
   teiginys: 'Jaunas žemaitis į bažnyčią ar į mugę mieliau joja, negu važiuoja vežimu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Gaspadorius|Gaspadorius]]; mentioned_object: [[objektai/zodynas/vergas|vergas]]'
   pagrindžia:
     - c-001
 
@@ -50,7 +49,6 @@ Nenurodyta
         jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj
         duosiu arklius į bažnyčią joti.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

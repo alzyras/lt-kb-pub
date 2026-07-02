@@ -29,23 +29,8 @@ Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albe
 - t-001
   global_id: t-86575
   teiginys: '1503 m. Vilniuje duotame rašte Stanislovas Hlebavičius minimas kaip Polocko laikytojas, o Albertas Janavičius - kaip Kauno laikytojas.'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra ilgas dalyvių sąrašo fragmentas; citata leidžia išskirti aiškų faktą apie laikytojus.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)|Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]; mentioned_place: Lietuva; mentioned_place: Merkinė; mentioned_place: Mogiliavas; mentioned_place: Polockas; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Vroclavas'
-  temporaliniai_duomenys: 'įvykio data: 1503 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra ilgas dalyvių sąrašo fragmentas; citata leidžia išskirti aiškų faktą apie laikytojus.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 707652-708899; hash=087ed28cc5a471021881b857ad1de0018e3843155092cd9f0af6af1776300e5c; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: tenuta laikytojas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tenuta laikytojas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -79,7 +64,6 @@ Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albe
     taro, Vilniaus prepozito ir Vroclavo scholasto, garbingojo
     Erazmo, dalyvavusio sprendime, ranka.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

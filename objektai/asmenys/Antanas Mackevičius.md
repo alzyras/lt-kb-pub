@@ -9,6 +9,11 @@ datos:
   - '1864 m.'
 date_start: '1863'
 date_end: '1864'
+description: 'Kunigas Antanas Mackevičius 1863 m. Kauno gubernijoje telkė sukilėlius, vadovavo daliniams ir ragino kovoti už Lietuvą.'
+socialDescription: 'Antanas Mackevičius - kunigas, 1863 m. sukilimo organizatorius Kauno gubernijoje ir sukilėlių karo vadas po Zigmanto Sierakausko mirties.'
+seo_atnaujinta: '2026-07-02T20:14:54.883820+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,7 +28,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Mackevičius, vėliau K.
+Antanas Mackevičius buvo kunigas ir vienas pirmųjų 1863 m. sukilimo organizatorių Kauno gubernijoje. Jis telkė ginkluotus sukilėlius, stovykloje laikė mišias, rengė naujokus ir ragino kovoti už tikėjimą, Lietuvą bei lietuvius. Po Zigmanto Sierakausko mirties Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu.
 
 ## Teiginiai
 
@@ -31,139 +36,50 @@ Mackevičius, vėliau K.
 - t-001
   global_id: t-75694
   teiginys: 'Kauno gubernijoje vienas pirmųjų sukilimo organizatorių buvo kunigas Antanas Mackevičius.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Kaimas; mentioned_place: Kaunas; mentioned_place: Narva'
-  temporaliniai_duomenys: 'įvykio data: 1863 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3ae26198495226dcfc3c898147d01321b37055ea4b0f9807ed58d2f5b2e30f70; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antanas Mackevičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Mackevičius" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-75695"></a>
 - t-002
   global_id: t-75695
   teiginys: 'Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Antaną Mackevičių ir atitinka citatą.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_person: [[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]]; mentioned_place: Rusija'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 653303-653671; hash=ceee41492af1cf39985ca54cbce4efbc83503b89e039ac4cf058bec5e72d8ba1; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaimas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antanas Mackevičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kaimas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Mackevičius" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-75696"></a>
 - t-003
   global_id: t-75696
   teiginys: 'Antanui Mackevičiui nepavyko tinkamai išdėstyti savo šaulių gynybai, o klampioje vietovėje sukilėlių kavalerija buvo neveiksminga.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Antano Mackevičiaus veiksmus mūšio metu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=be2b1c3c6b2ba1ec10cf84d408d6bb9160a1e7d289295e0f5b22057c1a6f718e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antanas Mackevičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Mackevičius" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-75697"></a>
 - t-004
   global_id: t-75697
   teiginys: 'Antanas Mackevičius stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=50cf5184cbf9654813ba98546caada44c3b38b61336224f4b73996442d692845; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antanas Mackevičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Mackevičius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-75699"></a>
 - t-006
   global_id: t-75699
   teiginys: 'Antanui Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti juos pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą.'
-  sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir paremtas citatos turiniu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/S. Kozakauskas|S. Kozakauskas]]; mentioned_place: Lietuva; mentioned_place: Rusija; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Antanas Mackevičius|Antanas Mackevičius]] keliavo į Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1863-1864; įvykio data: 1864 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, konkretus ir paremtas citatos turiniu.'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2c1ac65164d7a27b4e0c47c49918a16ccbca637ddf89188947a940fffc26c1bb; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antanas Mackevičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Mackevičius" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-75700"></a>
 - t-007
   global_id: t-75700
   teiginys: 'Zigmantas Sierakauskas vienai sukilėlių kariuomenės kolonai pavedė vadovauti Antanui Mackevičiui.'
-  sudarymo_pagrindimas: 'Citata palaiko aiškų teiginį apie Mackevičiaus paskyrimą vadovauti kolonai.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Antanas Mackevičius|Antanas Mackevičius]]; mentioned_person: [[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]]; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]] paskyrė [[objektai/asmenys/Antanas Mackevičius|Antanas Mackevičius]]'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0f52dab6eacf18a4a093e5a0355584cab5a26486a4546ea6d2ae5fcb63a2934d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Antanas Mackevičius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Mackevičius išvedė sukilėlius į Vidurio Lietuvą; tai palaiko krypties į Lietuvą ryšį.
 
 <a id="claim-t-75701"></a>
 - t-008
   global_id: t-75701
   teiginys: 'Kunigas Mackevičius sakė pamokslą lenkiškai ir lietuviškai, ragindamas eiti už tikėjimą, Lietuvą ir lietuvius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3ae26198495226dcfc3c898147d01321b37055ea4b0f9807ed58d2f5b2e30f70; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antanas Mackevičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Mackevičius" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika.md#claim-t-75355|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]: 1863 m. pabaigoje į sukilimo slopintojų rankas pakliuvo Antanas Mackevičius ir Konstantinas Kalinauskas, abu netrukus buvo viešai pakarti.
 - susijęs iš [[objektai/paprociai/Sukilėlių partizaninio karo nedidelių antpuolių taktika.md#claim-t-75396|Sukilėlių partizaninio karo nedidelių antpuolių taktika]]: Po Z. Sierakausko mirties Kauno gubernijos sukilėlių karo vadu buvo paskirtas kunigas Antanas Mackevičius.
 - susijęs iš [[objektai/daiktai/Kovinis dalgis.md#claim-t-39184|Kovinis dalgis]]: Antanas Mackevičius sutelkė 150 dalgiais ir šautuvais ginkluotų vyrų kovai prie Naujaberžės kaimo.
@@ -185,7 +101,6 @@ Mackevičius, vėliau K.
     Dellingsgauzeno vadovaujamo dalinio
     puolimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -203,7 +118,6 @@ Mackevičius, vėliau K.
     lauko ligoninė, mokymai vyko lietuviškai,
     komandos buvo duodamos lietuvių kalba.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -218,7 +132,6 @@ Mackevičius, vėliau K.
     ~ Eikime, broliai, už vierą šventą, už tėvynę mūsų brangiąją Lietuvą ir už mūsų bro-
     lius Lietuvius!“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -239,7 +152,6 @@ Mackevičius, vėliau K.
     karininkus partizaninei kovai, absolven-
     tui B. Kolyškai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -260,7 +172,6 @@ Mackevičius, vėliau K.
     atakas, tačiau po kiek laiko puolantieji pra-
     laužė kairįjį gynėjų sparną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -281,7 +192,6 @@ Mackevičius, vėliau K.
     Kautynės Biržų girioje buvo didžiau-
     sios per visą 1863-1864 m. sukilimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -304,7 +214,6 @@ Mackevičius, vėliau K.
     109
     nas Mackevičius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

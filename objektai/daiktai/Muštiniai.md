@@ -39,7 +39,6 @@ Nenurodyta
 - t-001
   global_id: t-06753
   teiginys: 'Muštiniai buvo specialūs pailgi sidabro gabalai su pažymėtąja verte.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]'
   pagrindžia:
     - c-001
 
@@ -47,8 +46,6 @@ Nenurodyta
 - t-002
   global_id: t-06754
   teiginys: 'Muštiniai buvo vartojami vėlesniais laikais kaip specialūs sidabro gabalai su pažymėtąja verte.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per plačiai siejo muštinius su laikotarpiu prieš savus pinigus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]'
   pagrindžia:
     - c-001
 
@@ -64,7 +61,6 @@ Nenurodyta
     niau už pinigus senovės aisčiai vartojo prekyboje įvairius bran-
     giuosius kailius ir kitus daiktus, žodžiu, varė mainų prekybą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

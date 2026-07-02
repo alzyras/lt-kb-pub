@@ -28,23 +28,8 @@ Po to, kai 1905 m. spalio pabaigoje caras Nikolajus II, išsigandęs vis kylanč
 - t-001
   global_id: t-21213
   teiginys: '1905 m. spalio pabaigoje caras Nikolajus II išleido manifestą, pažadėjusį demokratines laisves ir Valstybės Dūmos rinkimus.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako manifestą, datą, autorių ir pažadėtą turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Nikolajus II|Nikolajus II]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1905 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako manifestą, datą, autorių ir pažadėtą turinį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e77dd3bc49d9c18c839559d8724f059331a86e3cb08a0ab59df51dc088bd09f6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nikolajaus II manifestas dėl demokratinių laisvių ir Valstybės Dūmos rinkimų (1905 m.): owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nikolajaus II manifestas dėl demokratinių laisvių ir Valstybės Dūmos rinkimų (1905 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -62,7 +47,6 @@ Po to, kai 1905 m. spalio pabaigoje caras Nikolajus II, išsigandęs vis kylanč
     tybės Dūmos – parlamento – rinkimus, lietuvių veikėjai sumanė Vilniuje
     legaliai sušaukti didelį lietuvių iš visų Lietuvos vietovių suvažiavimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

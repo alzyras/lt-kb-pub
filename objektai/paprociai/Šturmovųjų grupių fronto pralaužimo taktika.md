@@ -38,7 +38,6 @@ Nenurodyta
 - t-001
   global_id: t-67244
   teiginys: 'Lenkai frontui pralaužti atsivežė specialias šturmovąsias grupes.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]'
   pagrindžia:
     - c-002
 
@@ -46,7 +45,6 @@ Nenurodyta
 - t-002
   global_id: t-67245
   teiginys: 'Durtuvų kautynės šioms grupėms tapo netikėta kliūtimi.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/durtuvų kautynės|durtuvų kautynės]]'
   pagrindžia:
     - c-001
 
@@ -60,7 +58,6 @@ Nenurodyta
     sekimą aiškino tuo, kad jie buvo atvežti tiesiog iš bolševikų fronto,
     tai ir puolė tokiu pat būdu kaip ir bolševikus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -77,7 +74,6 @@ Nenurodyta
     | gerai apmokyti prancūzų taktikos. Kai prasidėjo puolimas,
     | tai jie ir lindo kyliais vienas paskui kitą kaip skėriai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

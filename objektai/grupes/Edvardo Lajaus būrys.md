@@ -20,20 +20,8 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
 - t-001
   global_id: t-40878
   teiginys: 'Edvardo Lajaus būrys veikė Žuvinto paliose ir Buktos, dar vadintame Žaliuoju, miške.'
-  susije_objektai: 'mentioned_place: Buktos (Žaliosios) miškas; mentioned_place: Žuvintas; mentioned_person: [[objektai/asmenys/Barkauskas|Barkauskas]]; mentioned_place: Daukšiai; mentioned_place: Lietuva; llm_object: Buktos (Žaliosios) miškas; llm_object: Žuvintas'
-  semantiniai_rysiai: '[[objektai/grupes/Edvardo Lajaus būrys|Edvardo Lajaus būrys]] gyveno Žuvintas; [[objektai/grupes/Edvardo Lajaus būrys|Edvardo Lajaus būrys]] gyveno Buktos (Žaliosios) miškas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7183c6657539c3327bac3d63cdbf05984c9655ab089a0fbe5c54b3f6cebde3fd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Buktos (Žaliosios) miškas: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Edvardo Lajaus būrys: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Buktos (Žaliosios) miškas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys nurodo Buktos, arba Žaliąjį, mišką kaip būrio veikimo vietą.
 
 ## Reikšmingi paminėjimai
 
@@ -52,7 +40,6 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
     suvienijo ir jam vadovavo Lietuvos kariuo-
     menės majoras Sergijus Staniškis-Litas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

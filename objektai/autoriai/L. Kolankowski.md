@@ -44,13 +44,8 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
 - t-002
   global_id: t-12254
   teiginys: 'L. Kolankowski diarchiją aiškino ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios.'
-  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir paverstas aiškiu faktiniu sakiniu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Diarchijos sistema|Diarchijos sistema]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 8698-8847; hash=a162c31893a315a67af29cbccf08ef1a6abd8206b66ecda35c9fe77846c6a6fa; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/autoriai/Kolankowski L.md#claim-t-60728|Kolankowski L]]: Kolankowski L. parašė darbą „Litwini a Prusacy“, paskelbtą 1931 m. Lvove istorikų suvažiavimo leidinyje.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176145|Žemaičiai]]: 1416 m. žemaičių delegacija Konstancos susirinkime pareiškė, kad žemaičiai yra tos pačios lietuvių tautos žmonės.
 - susijęs iš K. Heinl, Fürst Witold von Litauen 1382-1401: K. Heinlio „Fürst Witold von Litauen 1382–1401“ 1925 m. buvo išleistas kaip 61 puslapio darbas.
@@ -69,7 +64,6 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     za Jagiełłonów. Tom I. 1377—1499. Skład główny-.
     Kasa Im. Mianowskiego. Warszawa, 1930.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -82,7 +76,6 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     giellonów. Tom. 1. 1377—1490. Warszawa, 1930. Termino „diarchija“, kaip la­
     biau atitinkančio šiam reikalui už „dualizmą“ ir toliau laikysimės
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -99,7 +92,6 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     na, kad šaltinis vėlyvas, o antra, kad ir tekstą aiškinti taip, kaip aiškina
     Kolankovskis, negalima.
   citata_rodoma: ''
-  teiginio_tipas: interpretacija
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -112,11 +104,10 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     — Kolankowski, L. : _Dzieje Wielkiego Księstwa Litewskiego za Ja­
     giellonów,_ I, 1930, 11-51 p. — Kutrzeba, St.
   citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-005
+
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kolankowski, L.: _Problem Krymu
@@ -125,7 +116,6 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     specialus nr., su J. Dąbrowski, O. Halecki, L. Kolankowski, Fr. Papee,
     Wł. Semkowicz ir kt. straipsniais). — Kryczyński, St.: _Tatarzy litewscy.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified

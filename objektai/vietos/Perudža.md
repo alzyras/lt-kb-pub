@@ -30,42 +30,15 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
 - t-001
   global_id: t-58612
   teiginys: '1302 metais Perudžoje buvo nukirsdintas plėšikas, kuris, pasak kronikos, gerbė mergelę Mariją.'
-  sudarymo_pagrindimas: 'Citata palaiko konkretų įvykį Perudžoje, o pradinė formuluotė nutrūkusi ir negramatiška.'
-  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b3b867c92fe15aeab3e0b3d32c963e678ea6b8f556489600aa77483184a6a60b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Grigalius IX: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Perudža: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Grigalius IX: mention_match, person, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Perudža" parinktas kaip owner_note_path. Targetas "Grigalius IX" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58613"></a>
 - t-002
   global_id: t-58613
   teiginys: '1235 m. popiežius Grigalius IX kanonizavo šventą Elžbietą Perudžoje, brolių pamokslininkų konvente.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Grigalius IX|Grigalius IX]]'
-  temporaliniai_duomenys: 'įvykio data: 1235 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 732777-733185; hash=ae2b22dda4cb3ba624996a62463e477c9a668bdad7ca2d01e33dd835f6ea18f2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Perudža: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Perudža" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Elžbieta.md#claim-t-82298|Elžbieta]]: 1235 m. popiežius Grigalius IX kanonizavo šventą Elžbietą Perudžoje.
 - susijęs iš [[objektai/ivykiai/Perudžos stebuklas su nubausto plėšiko galva (1302 m.).md#claim-t-62429|Perudžos stebuklas su nubausto plėšiko galva (1302 m.)]]: 1302 m. Perudžoje nukirsdinto Mariją gerbusio plėšiko galva paprašė kunigo, nes, pasak pasakojimo, Marija neleido jam numirti be išpažinties.
 - susijęs iš [[objektai/ivykiai/Šventos Elžbietos kanonizavimas (1235 m.).md#claim-t-62547|Šventos Elžbietos kanonizavimas (1235 m.)]]: 1235 m. popiežius Grigalius IX Perudžoje kanonizavo šventą Elžbietą ir jos garbei paskyrė altorių.
@@ -88,7 +61,6 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
 
           93.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -107,7 +79,6 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
 
                        26.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

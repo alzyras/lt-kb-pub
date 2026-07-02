@@ -37,63 +37,22 @@ Vartojama aptariant XIX a. Vilniaus istorijų reikšmę Lietuvos istoriografijai
 - t-001
   global_id: t-55259
   teiginys: 'Balinskio ir Kraševskio Vilniaus istorijos apibūdinamos kaip naudingos Lietuvos istoriografijai dėl faktinės medžiagos ir palankumo lietuvių tautai.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1968 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 13118-13696; hash=6b640664c232a2168d771c80c6f748132ec11023243cb2262c1085bff48d292f; match=whitespace_regex
-  sprendimo_priezastis: gap::vocabulary::validation_repair
-  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Istorinis-geografinis tautos supratimas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person, gap=141
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Istorinis-geografinis tautos supratimas" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-55260"></a>
 - t-002
   global_id: t-55260
   teiginys: 'M. Balinskio ir J. I. Kraševskio tautos supratimas apibūdinamas kaip istorinis-geografinis, o ne nacionalinis.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1968 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 13118-13696; hash=6b640664c232a2168d771c80c6f748132ec11023243cb2262c1085bff48d292f; match=whitespace_regex
-  sprendimo_priezastis: gap::vocabulary::validation_repair
-  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Istorinis-geografinis tautos supratimas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Istorinis-geografinis tautos supratimas" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-82060"></a>
 - t-003
   global_id: t-82060
   teiginys: 'J. I. Kraševskio ir M. Balinskio Vilniaus istorijose reiškėsi istorinis-geografinis, o ne nacionalinis tautos supratimas.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas teiginys apie sąvoką.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1968 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas teiginys apie sąvoką.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 13118-13696; hash=6b640664c232a2168d771c80c6f748132ec11023243cb2262c1085bff48d292f; match=whitespace_regex
-  sprendimo_priezastis: gap::vocabulary::validation_repair
-  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Istorinis-geografinis tautos supratimas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Istorinis-geografinis tautos supratimas" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -110,7 +69,6 @@ Vartojama aptariant XIX a. Vilniaus istorijų reikšmę Lietuvos istoriografijai
     ne medžiaga, bet ir palankumu lietuvių tautai, nepaisant jų is-
     torinio-geografinio, o ne nacionalinio, tautos supratimo".
   citata_rodoma: ''
-  teiginio_tipas: interpretacija
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -37,21 +37,8 @@ Nenurodyta
 - t-001
   global_id: t-62459
   teiginys: 'Rezlio pilies broliai sudegino pilį ir slaptais dykrų keliais pasitraukė, išgirdę apie prūsų apsiaustas pilis.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys išvalytas nuo antraštės triukšmo ir sutrumpintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Rezlis; mentioned_place: Bartenšteinas; mentioned_place: Kroicburgas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=411716cfbdf750b8edc487465ce64b162226186279c1f1fd1e68d3ac2d00b528; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rezlio pilies sudeginimas ir įgulos pasitraukimas (pilis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=87
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rezlio pilies sudeginimas ir įgulos pasitraukimas (pilis)" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -70,7 +57,6 @@ Nenurodyta
 
      98 (93).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

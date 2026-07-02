@@ -20,64 +20,22 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
 - t-001
   global_id: t-187241
   teiginys: 'Krasnyj Gorod tapatinamas su Krasnogorodskoje, esančiu 30 km į šiaurės vakarus nuo Opočkos.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Opočka; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=dc057428eac20b397a21652262ab72c8c58147a18f714a8401d24fcd76e135b4; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Krasnogorodskoje: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krasnyj Gorod: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Krasnogorodskoje: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krasnyj Gorod" parinktas kaip owner_note_path. Targetas "Krasnogorodskoje" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187242"></a>
 - t-002
   global_id: t-187242
   teiginys: 'Komentare Krasnyj gorod tapatinamas su Krasnogorodskoje.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia komentaro tapatinimą.'
-  susije_objektai: 'mentioned_place: Krasnogorodskoje; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Opočka; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=dc057428eac20b397a21652262ab72c8c58147a18f714a8401d24fcd76e135b4; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Opočka: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Krasnyj Gorod: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Opočka: mention_match, place, gap=83
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krasnyj Gorod" parinktas kaip owner_note_path. Targetas "Opočka" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187587"></a>
 - t-003
   global_id: t-187587
   teiginys: 'Vytautas per žygį prieš Pskovą paėmė Pskovo miestus Veližą ir Krasnyj Gorod.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Krasnyj Gorod; llm_object: Veližas; llm_object: Pskovas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas; mentioned_place: Pinskas; mentioned_place: Porchovas; mentioned_place: Pskovas; mentioned_place: Veližas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užėmė Krasnyj Gorod'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 181196-181980; hash=43fc6f15a4bd7a15edefd444255452f790575c1bd4273d670bb31f4b8985b56a; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Krasnyj Gorod: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Krasnyj Gorod: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas paėmė Krasnyj Gorod.
 - susijęs iš Veližas: Vytautas išsirengė prieš Pskovą ir paėmė Pskovo miestus Veližą bei Krasnyj Gorod.
 - susijęs iš Krasnogorodskoje: Krasnogorodskoje lokalizuojamas 30 km į šiaurės vakarus nuo Opočkos.
 - susijęs iš Krasnogorodskoje: Krasnyj gorod komentare tapatinamas su Krasnogorodskoje.
@@ -92,7 +50,6 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
     karus nuo Opočkos (RTFR. Veiikije Lukų sr.). Rusų metraščiai mi­
     ni kitus LDK kariuomenės pultus Pskovo miestus (žr. past. 5).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -123,7 +80,6 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
     jų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­
     žygiavo prieš Naugardą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

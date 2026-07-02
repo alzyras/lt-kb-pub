@@ -44,11 +44,6 @@ Nenurodyta
 - t-001
   global_id: t-20329
   teiginys: '1918 m. vasario 16 d. Jono Basanavičiaus vadovaujama Lietuvos Taryba Vokietijos okupacijos sąlygomis paskelbė nepriklausomos Lietuvos valstybės atkūrimą.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako datą, veikėją ir paskelbtą nepriklausomybės atkūrimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba]]; mentioned_place: Lietuva; mentioned_place: Vokietija; mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Prūsija'
-  temporaliniai_duomenys: 'įvykio data: 1918 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako datą, veikėją ir paskelbtą nepriklausomybės atkūrimą.'
   pagrindžia:
     - c-001
 
@@ -64,7 +59,6 @@ Nenurodyta
     Vokietijos okupacijos sąlygomis J. Basanavičiaus vadovaujama Lietu-
     vos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

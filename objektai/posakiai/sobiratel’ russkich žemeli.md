@@ -27,20 +27,8 @@ Jonas III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsi
 - t-001
   global_id: t-100003
   teiginys: 'Jonas III buvo vadinamas rusų žemių rinkėju, „sobiratel’ russkich žemeli“.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citatos paremtas faktas apie posakį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Filotiejus|Filotiejus]]; mentioned_group: [[objektai/grupes/Romai|Romai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Bizantija; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4abaae55cd9a01f98b9e89394245212ffe879c9106134f8e75a393a0434c519b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bizantija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: sobiratel’ russkich žemeli: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bizantija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "sobiratel’ russkich žemeli" parinktas kaip owner_note_path. Targetas "Bizantija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -59,7 +47,6 @@ Jonas III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsi
     (^11) **Taip rašė savo laiške Vosyliui III (1505-1533) Eleazaro vienuolyno
     (prie Pskovo) vienuolis Filotiejus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

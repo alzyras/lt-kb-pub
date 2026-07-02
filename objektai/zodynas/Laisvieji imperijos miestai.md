@@ -31,38 +31,15 @@ Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
 - t-001
   global_id: t-54795
   teiginys: 'Laisvieji imperijos miestai vėliau dalyvavo imperijos valdyme ir tapo galingi bei savarankiški.'
-  sudarymo_pagrindimas: 'Reikia pakeisti įvardį konkrečiu objektu, kad sakinys būtų savarankiškas.'
-  susije_objektai: 'mentioned_place: Vokietija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 33481-34012; hash=55a65d01da46c1c9e141d29d6d13326e0eac402e7251f14df7a87ae2565623c9; match=whitespace_regex
-  sprendimo_priezastis: gap::vocabulary
-  ryšio_patikimumas: susije_su -> Vokietija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Laisvieji imperijos miestai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vokietija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laisvieji imperijos miestai" parinktas kaip owner_note_path. Targetas "Vokietija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-54796"></a>
 - t-002
   global_id: t-54796
   teiginys: 'Laisvųjų imperijos miestų pradžia siejama su imperatorių miestams teikta globa ir privilegijomis.'
-  susije_objektai: 'mentioned_place: Vokietija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 33481-34012; hash=55a65d01da46c1c9e141d29d6d13326e0eac402e7251f14df7a87ae2565623c9; match=whitespace_regex
-  sprendimo_priezastis: gap::vocabulary
-  ryšio_patikimumas: susije_su -> Vokietija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Laisvieji imperijos miestai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vokietija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laisvieji imperijos miestai" parinktas kaip owner_note_path. Targetas "Vokietija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -79,7 +56,6 @@ Vartojama Vokietijos miestų politinės raidos ir XIII a. kontekste.
     perijos miestams, vėliau jiems leido dalyvauti imperijos valdy­
     me ir padarė juos galingus ir savarankiškus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

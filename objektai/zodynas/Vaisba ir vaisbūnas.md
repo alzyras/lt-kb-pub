@@ -40,8 +40,6 @@ Nenurodyta
 - t-001
   global_id: t-06181
   teiginys: 'Žodis „vaisbūnas“ reiškia pirklį.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 
@@ -49,8 +47,6 @@ Nenurodyta
 - t-002
   global_id: t-06182
   teiginys: 'Žodis „vaisba“ reiškia prekybą.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 
@@ -64,7 +60,6 @@ Nenurodyta
     dėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia pre-
     kybą, vaisbūnas — pirklį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

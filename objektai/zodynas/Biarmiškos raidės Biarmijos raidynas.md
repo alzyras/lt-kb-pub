@@ -21,9 +21,6 @@ Narbutas rašo, kad mažo sidabrinio pinigėlio įdubusioje pusėje užrašas bi
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 429026-429398; hash=4944600f79109a013efe065b99f51e95f035d26c18e75ea28c8458d9b6ec98c1; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -41,9 +38,7 @@ Narbutas rašo, kad mažo sidabrinio pinigėlio įdubusioje pusėje užrašas bi
     ženklas, panašus į vadinamojo biarmiškojo raidyno raidę A
     arbatų, prie kurios yra dobilo lapelis.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -20,12 +20,8 @@ Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną va
 - t-001
   global_id: t-87905
   teiginys: 'Vaistininkas Antanas nuo liepos 10 d. iki rugpjūčio 18 d. turėjo tris sidabrinius dubenis.'
-  sudarymo_pagrindimas: 'Citata pagrindžia faktą apie pas Antaną buvusius sidabrinius dubenis.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f1e0d3573f15b67670084a0c74f16027f7af6ba3cd66f16e15def28199abc0ba; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-00058|Motiejus Valančius]]: Motiejaus Valančiaus „Palangos Juzė“, „Paaugusių žmonių knygelė“, „Vaikų knygelė“ ir „Pasakojimas Antano tretininko“ turėjo nemažą reikšmę.
 - susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-179554|Motiejus Valančius]]: Motiejus Valančius XIX a. padarė didelę įtaką Lietuvos politiniams procesams.
 ## Reikšmingi paminėjimai
@@ -43,7 +39,6 @@ Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną va
     IV  KNYGA
     pas poną vaistininką Antaną a die 10 Julii ad diem 18 Aug.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -18,24 +18,8 @@ Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinyb
 - t-001
   global_id: t-186094
   teiginys: 'Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie Andriaus Mackevičiaus vaidmenį pasiuntinybėje.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/žirgininkas|žirgininkas]]; mentioned_place: Viena; llm_object: Maskva'
-  semantiniai_rysiai: '[[objektai/asmenys/Andrius Mackevičius|Andrius Mackevičius]] keliavo į Maskva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1169827-1170523; hash=d86528c969e5b88933ddc1e433810e4d601e06a74d0d91514572bcc68ae94107; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Maskva: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Andrius Mackevičius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys nurodo, kad Andrius Mackevičius priklausė pasiuntinybei, kurios kryptis buvo Maskva.
 
 ## Reikšmingi paminėjimai
 
@@ -63,7 +47,6 @@ Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinyb
     silijus norįs derėtis dėl pastovios taikos, tegu siunčiąs
     legatus pas karalių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

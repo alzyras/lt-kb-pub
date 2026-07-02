@@ -36,9 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 645446-646378; hash=b1dec9ee73a90d6925978b31107fe763fcd6504bff29fef61fdd9ef2c21b5551; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -65,9 +62,7 @@ Nenurodyta
     sveiki; vadinasi, kai kada tie dalykai būdavo kartu metami į
     laužą, o kartais, sudeginus kūną, dedami tiesiai į urną.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

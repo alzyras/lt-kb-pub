@@ -29,23 +29,8 @@ Dusburgietis teigia, kad apie Konradino, imperatoriaus Fridricho II anūko, žū
 - t-001
   global_id: t-60371
   teiginys: '1268 m. Sicilijos karalius Karolis paėmė į nelaisvę ir nugalabijo Konradiną, imperatoriaus Fridricho II anūką.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_place: Vokietija'
-  temporaliniai_duomenys: 'įvykio data: 1268 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatinis ir tiksliai paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=03c00a88ea7e66a5e3cb6fc58def52f6c9d6f84c532f26d487770b7963feb649; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vokietija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Konradinas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vokietija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradinas" parinktas kaip owner_note_path. Targetas "Vokietija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -59,7 +44,6 @@ Dusburgietis teigia, kad apie Konradino, imperatoriaus Fridricho II anūko, žū
     ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką, su daugybe Vokietijos
     kilmingųjų (Mart. p. 409; Ptol. 22, 34—38).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

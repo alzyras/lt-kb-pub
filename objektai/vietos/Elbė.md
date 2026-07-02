@@ -21,9 +21,6 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 607504-607778; hash=aa1d1ca202abaddd326588b858f5c73559e2f21ace289a5e337c79beeaf748cf; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -37,9 +34,7 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     gyveno herulai. Užrašo žodžiai buvo tokie: Perkun. Devvajte.
     ne. muskis. und man'.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

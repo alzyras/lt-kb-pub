@@ -36,16 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 452081-452400; hash=73f1a9a5238c383b665b42ec0be877bb2156a0bb76f045e7a1d5b3278f61a5fa; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukurai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aukojimas ant kalnų ir atviros kalnų apeigos bei pasitarimai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Aukurai: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukojimas ant kalnų ir atviros kalnų apeigos bei pasitarimai" parinktas kaip owner_note_path. Targetas "Aukurai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -59,9 +49,7 @@ Nenurodyta
     nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
     šventykla.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

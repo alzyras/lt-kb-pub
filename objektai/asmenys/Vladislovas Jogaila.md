@@ -38,9 +38,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
 - t-001
   global_id: t-173225
   teiginys: 'Jogaila sutelkė nemažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais, nusprendė užimti Vilnių ir Trakus.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Jogailos veiksmą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; llm_object: Trakai; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] užėmė Vilnius; [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] užėmė Trakai'
   pagrindžia:
     - c-019
 
@@ -48,350 +45,125 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
 - t-002
   global_id: t-173226
   teiginys: 'Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Vasilevas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Rykai|Rykai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Gniezno; mentioned_place: Vengrija'
   pagrindžia:
     - c-008
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 44563-45025; hash=69422056e9992d480591db8d4d033866bdb4e4549c50d922c238142f74e94100; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-173227"></a>
 - t-003
   global_id: t-173227
   teiginys: 'Jogaila Vilniaus seniūno pareigas pavedė Jonui Olesnickiui, kuris sustiprino abiejų pilių įgulas.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-014
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 56936-57581; hash=15ca41475c00ed1b299cc12b93867ec9f42848ddbf0ffb589fe63115deb79333; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Lietuva: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje nurodomas Jogailos valdymo laikas Lietuvos kontekste.
 
 <a id="claim-t-173228"></a>
 - t-004
   global_id: t-173228
   teiginys: '1397 m. Vladislovas Jogaila ir Vytautas Vilniaus vyskupui Andriui laidavo dviejų šimtų markių metines pajamas.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1397 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 94361-95184; hash=03a9c61c3ef409abde32a969efb1b766a8052ff72818a5482878fc888ce77578; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Algirdas (Lietuvos valdovas): 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Jogaila tiesiogiai įvardytas Algirdo sūnumi.
 
 <a id="claim-t-173229"></a>
 - t-005
   global_id: t-173229
   teiginys: '1401 m. Vladislovas Jogaila iš Vytauto gavo aktą, kad po Vytauto mirties Lietuva ir Rusia pereis karaliaus valdžion.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Rusia; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lenkija; mentioned_place: Vilnius; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] valdė Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1401 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citata.'
   pagrindžia:
     - c-012
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 95423-96071; hash=c714bad0f2cf637eb357f261bb1039e14c0e925e3f14c49fb433457ac5ff5e0a; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Jogaila siekė nusikratyti Kęstučiu, todėl tekstas tiesiogiai rodo politinį priešiškumą.
 
 <a id="claim-t-173232"></a>
 - t-006
   global_id: t-173232
   teiginys: 'Beginklis Jogaila su visa palyda buvo įkalintas pilyje ir saugomas daugybės kareivių.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Jogailos įkalinimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 97265-97825; hash=4ff06656b843e73404ecd646a33eadd673ab25c5e92a880a5e7637a0462cd3c5; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Slaptas sandėris turėjo palengvinti Kęstučio valdų puolimą, todėl Jogaila čia siejamas su priešiškumu Kęstučiui.
 
 <a id="claim-t-173235"></a>
 - t-007
   global_id: t-173235
   teiginys: 'Vladislovas Jogaila paveldėjimo teise vėl suteikė Panerius katedrai ir Vilniaus kapitulai.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko teiginį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Paneriai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Kijevas; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]'
   pagrindžia:
     - c-020
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 103595-103956; hash=f690e700ed43ea8608653f29230801694e98db191875394d7dc02dd9d8145d9c; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Trakai: 0.66
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Jogailos sprendimą užimti Trakus, nors tai dar tik ketinimas.
 
 <a id="claim-t-173236"></a>
 - t-008
   global_id: t-173236
   teiginys: 'Pagal Vladislovo Jogailos potvarkį Vilniaus sargyba ir policija laikinai priklausė pilies tarnybai.'
-  sudarymo_pagrindimas: 'Teiginys yra faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 112375-113334; hash=af9a54ec5b593d878bd1e5bde48600a5ae87ca0c11fc4494f670547c9aee616e; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Kryžiuočių ordinas: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Kryžiuočiai įvardyti kaip Lietuvos priešai Jogailos politinių užmojų kontekste.
 
 <a id="claim-t-173237"></a>
 - t-009
   global_id: t-173237
   teiginys: 'Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Jogailos sprendimą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Starodubas; mentioned_person: [[objektai/asmenys/Rumbautas|Rumbautas]]; mentioned_place: Voluinė'
   pagrindžia:
     - c-013
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 241827-242393; hash=b089b39a3e3b3df9d15b09e76c695f59ee3d4317569f310457d239533a607c1d; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-173238"></a>
 - t-010
   global_id: t-173238
   teiginys: 'Karalius Vladislovas ir karalienė Jadvyga prašė pripažinti Vilnių miestu, o Šv. Stanislovo bažnyčią - katedra.'
-  sudarymo_pagrindimas: 'Citata palaiko prašymo faktą, pašalintas ilgas kontekstas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Poznanė'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 243575-243978; hash=ca7a5ff24e8491a26a255182aa424195bc693a87f2c07c7563ec7942fc60d15b; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-173239"></a>
 - t-011
   global_id: t-173239
   teiginys: 'Vladislovas Jogaila katedrai ir vyskupams skyrė nemažą Vilniaus miesto dalį nuo pilies iki Šv. Mikalojaus kapinių.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai apibendrina citatoje nurodytą dovanojimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Lietuva; mentioned_place: Rūdninkai; mentioned_place: Trakai'
   pagrindžia:
     - c-017
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 246091-246589; hash=dd8cc3c49ca672c49279042fbc7e1e4a71f98ba2c2b527ef7f3575bfd6619db7; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-173240"></a>
 - t-012
   global_id: t-173240
   teiginys: 'Siekdamas didelės valdžios, Jogaila pirmiausia sutelkė jėgas nusikratyti dėde Kęstučiu.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Trakai; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] buvo priešas [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-018
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 248181-248822; hash=11966fb8a51028e6aa41ebd9a2b4125d40c01e68760b69c3fba3d09c26db6ae6; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_miesta -> Vilnius: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Jogaila kaip valdovas suteikė Vilniui Magdeburgo teises.
 
 <a id="claim-t-173241"></a>
 - t-013
   global_id: t-173241
   teiginys: 'Jogaila siekė Lenkijos sosto ir sumanė sukurti naują galingą valstybę Šiaurės Europoje.'
-  sudarymo_pagrindimas: 'Teiginys yra glaustas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilija; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] buvo priešas [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-011
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 251135-251768; hash=6f217e2f49399c47cf26a51b6c846d0d3d8b9e81606c60ddab627dd3a1d32dc9; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Skirgaila: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Skirgaila: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Jogaila tiesiogiai paskyrė Skirgailą savo vietininku.
 
 <a id="claim-t-173242"></a>
 - t-014
   global_id: t-173242
   teiginys: 'Bajoras Vaidila patarimais ir įtaka rėmė Jogailos siekius, o 1380 m. Prūsijoje ruošė dirvą slaptam sandėriui.'
-  sudarymo_pagrindimas: 'Citata leidžia papildyti svarbiu konkrečiu Vaidilos veiksmu, išlaikant faktinį pagrindą.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] buvo priešas [[objektai/asmenys/Kęstutis|Kęstutis]]'
-  temporaliniai_duomenys: 'įvykio data: 1380 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia papildyti svarbiu konkrečiu Vaidilos veiksmu, išlaikant faktinį pagrindą.'
   pagrindžia:
     - c-021
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 253367-253995; hash=8aeeae0013a42a785f118991b7fce285ee3ffbea09a820fff293230daa82b7ca; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Lietuva: 0.68
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas rodo, kad Lietuvos valdymo grąžinimas priklausė Jogailos sprendimui.
 
 <a id="claim-t-173243"></a>
 - t-015
   global_id: t-173243
   teiginys: 'Vladislovas Jogaila aplankė Lietuvą diegdamas naujo tikėjimo nuostatus ir, numaldęs bruzdėjimus Baltojoje Rusioje, grįžo į Vilnių.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka citatos turinį.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; llm_object: Lietuva; llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Mazovija'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] paskyrė [[objektai/asmenys/Skirgaila|Skirgaila]]; [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] keliavo į Lietuva; [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] keliavo į Vilnius'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 255520-256164; hash=702e4679605b534bac0abe583c310f402380f1c9f653f3664bcb309a9ad50ef1; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jadvyga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jadvyga: mention_match, person, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Jadvyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-173244"></a>
 - t-016
   global_id: t-173244
   teiginys: '1390 m. Vladislovas Jogaila Vilniaus kapitulai suteikė privilegiją, kuria dovanojo Panerius.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko privilegijos faktą; pašalintas lotyniškas fragmentas.'
-  susije_objektai: 'mentioned_place: Paneriai; mentioned_place: Vilnius; mentioned_place: Lietuva; mentioned_place: Vilija; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] valdė Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1390 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai palaiko privilegijos faktą; pašalintas lotyniškas fragmentas.'
   pagrindžia:
     - c-010
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 284073-284740; hash=1735418339289db1b33a9f2018400ad5ff1afa4763c7cfbbb0ef47c836e5f3a6; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Vladislovas Jogaila parvyko į Vilnių.
 
 <a id="claim-t-173245"></a>
 - t-017
   global_id: t-173245
   teiginys: 'Vladislovas Jogaila nepasitikėjo Vytautu ir negrąžino jam nei Lietuvos valdymo, nei po Kęstučio mirties priklausiusio paveldo.'
-  sudarymo_pagrindimas: 'Citata palaiko konkretesnį faktą apie Jogailos veiksmus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lenkija; mentioned_place: Vilnius; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] valdė Lietuva'
   pagrindžia:
     - c-009
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 284741-285249; hash=3baed0ff303eb0143defe4454ca03684047a258e157588728ad5541f54bba42b; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-173246"></a>
 - t-018
   global_id: t-173246
   teiginys: 'Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija nesuteikė Vilniaus miestiečiams palankaus meto įgyti daugiau laisvių.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Lietuvos krikštas (1387 m.)|Lietuvos krikštas (1387 m.)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Pskovas'
   pagrindžia:
     - c-015
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 285087-285646; hash=4a4683fba5d00664557936cbfba79c3025f1229905f2c39124902f1b551bc539; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Vilniaus kapitula: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Paneriai: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Vilniaus kapitula: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Paneriai perduoti Vilniaus kapitulai paveldėjimo teise, todėl galima fiksuoti priklausymo ryšį.
 
 <a id="claim-t-173247"></a>
 - t-019
   global_id: t-173247
   teiginys: 'Vladislovas Jogaila Vilniuje įsakė statyti Šv. Martyno ir Šv. Jono bažnyčias.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Vilnius; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilija'
   pagrindžia:
     - c-005
 
@@ -399,52 +171,20 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
 - t-020
   global_id: t-173248
   teiginys: 'Vladislovas Jogaila Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.'
-  sudarymo_pagrindimas: 'Citata pagrindžia valdovo aktą, kuriuo Vilniui suteiktos Magdeburgo teisės.'
-  susije_objektai: 'mentioned_place: Merkinė; mentioned_place: Vilnius; llm_object: Vilnius; llm_object: Merkinė'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] valdė miestą Vilnius; [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] keliavo į Merkinė'
   pagrindžia:
     - c-016
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 309616-310238; hash=db27aa5e847e2effaf2390f691dd02f9a0094aec4fc593cde09d8e89ed9dd977; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogaila" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-173249"></a>
 - t-021
   global_id: t-173249
   teiginys: 'Algirdui užleidus sostą, jo sūnus Jogaila dar tėvui gyvam esant perėmė aukščiausiąją Lietuvos valdžią.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos informaciją apie Jogailą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] buvo sūnus [[objektai/asmenys/Algirdas|Algirdas]]; [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] valdė Lietuva'
   pagrindžia:
     - c-022
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1d00dbb4a2a019b2b119517b8d27e30f08ff2459597777d723033ffe77240484; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Lietuva: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata mini Jogailos aukščiausiąją valdžią Lietuvoje, nors konkrečiai kalbama apie jos patikėjimą Vytautui.
 
 <a id="claim-t-173250"></a>
 - t-022
   global_id: t-173250
   teiginys: '1390 m. lapkritį Vladislovas Jogaila su gausia kariuomene parvyko iš Lenkijos į griuvėsiais virtusį Vilnių.'
-  sudarymo_pagrindimas: 'Teiginys nurodo laiką, veikėją ir veiksmą pagal citatą.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] keliavo į Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1390 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys nurodo laiką, veikėją ir veiksmą pagal citatą.'
   pagrindžia:
     - c-003
 - susijęs iš Lietuva: Pirmosios Lietuvoje suteiktos teisės būtų pagerinusios miesto būklę, jei šalyje nebūtų kilęs vidaus karas.
@@ -520,7 +260,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     tęsė, apie tai pasklido žinia ne tik Lenkijoje, bet ir tolesnėse
     šalyse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -542,7 +281,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     gaila išleido savo seserį Aleksandrą, ir Jonušo, vyresniojo
     Mazovijos kunigaikščio, kuris vedė Vytauto seserį Oną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -570,7 +308,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     radusiems gyventojams, o karaliaus buvimas stiprino tie­
     kos negandų nualintą jų dvasią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -591,7 +328,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     tinės ginkluotės sargybinius, kad tvarkos mieste būtų žiūri­
     ma dieną ir naktį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -611,7 +347,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     je buvo lemta tapti garsia Vilniaus aukščiausiosios mokslo
     įstaigos bažnyčia14.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -633,7 +368,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     tu, o bažnyčia, pastatyta ant pagonių šventyklos griuvėsių,
     šv. Stanislovo garbei, iškilmingai pripažinta katedra.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -659,7 +393,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     markių metines pajamas - šimtą iki gyvos galvos, o kitą
     šimtą, kol neįsigalės taika tarp Lietuvos ir kryžiuočių59.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -681,7 +414,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     tos nuodėmklausį, pavyzdingą vyrą ir garsų pamokslinin­
     ką9.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -703,7 +435,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     tuvos valdymo, bet ir paveldo, po Kęstučio mirties priklau­
     sančio, negrąžino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -736,7 +467,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     situati [aukštutinėje dalyje mūsų už­
     kardos, Vigilijos upėje esančios].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -768,7 +498,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     kėti, kad būtų kalbama apie tiltą per
     Viliją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -789,7 +518,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­
     jungta prie Lenkijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -813,7 +541,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     didikus - Rumbautą ir Goštautą - išlaisvino ir atsiuntė jam
     į Vilnių13.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -833,7 +560,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     apeita, mat tuo metu jis išties stengėsi visokiais būdais už­
     glaistyti dar šviežius krašto niokojimo pėdsakus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -852,7 +578,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     laisvių. Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar-
     das, atsidūrė kitokiose aplinkybėse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -880,7 +605,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     rašytu Merkinėje, kitą dieną po Šv. Benedikto, abato, šven­
     tės, valdovas Vilniui suteikė Magdeburgo teises15.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -899,7 +623,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     o kitoje pusėje - ligi Trakų kelio, dovanodamas ten ir
     aikštes, ir namus, net su gyventojais11.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -925,7 +648,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     dindavo trumpumo dėlei -Jagiełło, o
     lotyniškai - jagelo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -944,7 +666,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     nusprendė užimti Vilnių ir Trakus. Hanulas, arba Hanka32,
     užmuš, o mūsų kraštą užvaldys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -968,7 +689,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     po poros metų, po karaliaus ir Vy­
     tauto sudarytos sutarties.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -989,7 +709,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­
     žiuočių ir palengvinti jiems Kęstučio valdų puolimą28.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1024,7 +743,6 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
     visuomenės pamatai, kurią tinkamai išlaikyti gebėjo Gedi­
     minas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

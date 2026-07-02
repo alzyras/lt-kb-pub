@@ -31,100 +31,36 @@ amziai:
 - t-001
   global_id: t-85591
   teiginys: '1432 m. Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Prūsija; mentioned_place: Silezija; llm_object: Vilnius'
-  semantiniai_rysiai: 'Vroclavas prekiavo su Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1432 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b6ccf4e3e2363aa7c27e9ce5081e88b1548f90e29d8372e7cb3c72b3e7bf557c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Vroclavas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vroclavas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje pasakyta, kad pusbroliai, tarp jų Jogaila, pasiuntė protestus į Vroclavą.
 
 <a id="claim-t-85592"></a>
 - t-002
   global_id: t-85592
   teiginys: 'Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą kelionę su prekėmis per Ordino žemes.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kistrinas; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ef30e5efa6c72561febbf17ec3d0ad7ed8a72f41fcfbc0780f98bd66324acdf3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vroclavas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=68
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vroclavas" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-85593"></a>
 - t-003
   global_id: t-85593
   teiginys: 'Jogaila ir Vytautas pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako protestų siuntimą į Vroclavą ir yra paremtas citata.'
-  susije_objektai: 'llm_object: Vroclavas; mentioned_person: [[objektai/asmenys/Zbignievas Olesnickis|Zbignievas Olesnickis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės|Viskas yra viena, viena žemė ir tie patys žmonės]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Daugai; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] siuntė į Vroclavas; [[objektai/asmenys/Vytautas|Vytautas]] siuntė į Vroclavas'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c908dc4f788ee51d654f217f60bec163d695ee80244062303980d7d1888d3491; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: prekiavo_su -> Vilnius: 0.68
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vroclavas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vroclavo gyventojai su prekėmis atvykdavo į Vilnių, todėl ryšys laikomas prekybiniu.
 
 <a id="claim-t-85595"></a>
 - t-005
   global_id: t-85595
   teiginys: 'Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą ir nevaržomą keliavimą su prekėmis per Ordino žemes.'
-  sudarymo_pagrindimas: 'Citata pagrindžia faktą apie Vroclavo gyventojams prašytas kelionės garantijas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kistrinas; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1b09e5b1d79f3b3e6d7d13fc8b0c2a5b4c74908865e787ac2a732f0c795d7bb8; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: prekiavo_su -> Vilnius: 0.68
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vroclavas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vroclavo gyventojai su prekėmis atvykdavo į Vilnių, todėl ryšys laikomas prekybiniu.
 
 <a id="claim-t-85596"></a>
 - t-006
   global_id: t-85596
   teiginys: 'Jogaila tuojau apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Vroclavo sprendimą ir atitinka citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 432304-433014; hash=a446bb5e6a7b6c308ca4a678b4aa28b827d30ff7c0f4b19c98366c4185cf9185; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kistrinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vroclavas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kistrinas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vroclavas" parinktas kaip owner_note_path. Targetas "Kistrinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Henrikas (Vroclavo kunigaikštis).md#claim-t-60131|Henrikas (Vroclavo kunigaikštis)]]: Totoriai, įsiveržę į Vengriją ir Lenkiją, mūšyje nukovė Henriką, Vroclavo kunigaikštį.
 - susijęs iš [[objektai/autoriai/Długopolski, Edm.md#claim-t-29461|Długopolski, Edm]]: Edm. Długopolski 1951 m. Vroclave išleido darbą „Władysław Łokietek na tle swoich czasów“.
 - susijęs iš [[objektai/autoriai/Edm. Długopolski.md#claim-t-29465|Edm. Długopolski]]: Edm. Długopolski 1951 m. Vroclave išleido veikalą „Władysław Łokietek na tle swoich czasów“.
@@ -193,7 +129,6 @@ amziai:
     turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
     čio dvare9.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -215,7 +150,6 @@ amziai:
     kad panašią paslaugą padarytų to
     paties svečio broliui Prūsijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -232,7 +166,6 @@ amziai:
     lietuvių tautos dalis : « viskas yra viena, viena žemė ir tie patys
     žmonės »^14.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -267,7 +200,6 @@ amziai:
     miesto gyventojų prašymu, didysis kunigaikštis turėjo pa­
     skirti valdytoją bei garantuoti jiems globą10.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -282,7 +214,6 @@ amziai:
     sprendimą. O Vytautui pasisiūlė galimybė imperatoriui už neprie­
     telišką ištarmę atmokėti pačiu skaudžiausiu būdu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

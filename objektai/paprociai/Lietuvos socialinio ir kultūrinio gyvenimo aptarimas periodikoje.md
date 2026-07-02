@@ -52,89 +52,29 @@ Nenurodyta
 - t-001
   global_id: t-55155
   teiginys: 'M. Balinskis Varšuvos laikraštyje spausdino Laiškus, kuriuose nagrinėjo aktualias Lietuvos kultūrinio gyvenimo problemas.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lenkija; mentioned_place: Nemunas; mentioned_place: Rusija; mentioned_place: Varšuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1855 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 19548-20803; hash=8e223f7ac32845d072c13d678a4846209072696b543a7d835a45074a8580af7a; match=ocr_normalized_gapped
-  sprendimo_priezastis: gap::customs
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-55156"></a>
 - t-002
   global_id: t-55156
   teiginys: 'To meto Lenkijos laikraščiuose ir žurnaluose buvo spausdinama nemažai straipsnių apie socialinę-ekonominę padėtį ir kultūrinį gyvenimą į rytus nuo Nemuno.'
-  sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir paremtas pateikta citata.'
-  susije_objektai: 'mentioned_place: Nemunas; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Varšuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1855 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, gramatiškas ir paremtas pateikta citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 19548-20803; hash=8e223f7ac32845d072c13d678a4846209072696b543a7d835a45074a8580af7a; match=ocr_normalized_gapped
-  sprendimo_priezastis: gap::customs
-  ryšio_patikimumas: susije_su -> Nemunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=116
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-81866"></a>
 - t-003
   global_id: t-81866
   teiginys: 'XIX a. Lenkijos laikraščiai ir žurnalai spausdino straipsnius apie socialinę-ekonominę padėtį į rytus nuo Nemuno ir kultūrinį gyvenimą.'
-  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir suredaguotas į taisyklingą enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_place: Nemunas; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Varšuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1855 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas ir suredaguotas į taisyklingą enciklopedinį sakinį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 19548-20803; hash=8e223f7ac32845d072c13d678a4846209072696b543a7d835a45074a8580af7a; match=ocr_normalized_gapped
-  sprendimo_priezastis: gap::customs
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-81867"></a>
 - t-004
   global_id: t-81867
   teiginys: '„Laiškai nuo Kražantės upės kranto“ padeda suprasti XIX a. penktojo ir šeštojo dešimtmečių visuomeninį bei kultūrinį pagyvėjimą Lietuvoje ir Lenkijoje.'
-  sudarymo_pagrindimas: 'Išplėsta neaiški nuoroda „Jos“ ir pašalintas OCR triukšmas.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Nemunas; mentioned_place: Rusija; mentioned_place: Varšuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1855 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Išplėsta neaiški nuoroda „Jos“ ir pašalintas OCR triukšmas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 19548-20803; hash=8e223f7ac32845d072c13d678a4846209072696b543a7d835a45074a8580af7a; match=ocr_normalized_gapped
-  sprendimo_priezastis: gap::customs
-  ryšio_patikimumas: susije_su -> Nemunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -163,7 +103,6 @@ Nenurodyta
     pažindindavo skaitytojus su Lietuvos socialiniu ir kultūriniu gy­
     venimu, nemažai dėmesio skirdamas istorijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

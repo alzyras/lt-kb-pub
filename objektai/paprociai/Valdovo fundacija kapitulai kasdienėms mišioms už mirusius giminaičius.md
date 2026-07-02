@@ -51,42 +51,15 @@ Nenurodyta
 - t-001
   global_id: t-87229
   teiginys: 'Vytautas privilegijoje nurodė maldomis rūpintis jo ir mirusių brolių Kazimiero Karigailos bei Aleksandro Vyganto sveikata.'
-  sudarymo_pagrindimas: 'Pradinis tekstas yra citatos fragmentas, o šaltinis leidžia suformuluoti pilną sakinį.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_person: [[objektai/asmenys/Kazimieras Karigaila|Kazimieras Karigaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 308512-309783; hash=f28e04c8376f8af561202be60e54e3ea76665bd727361a0f086927db9cd3d0f6; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Karigaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Karigaila tiesiogiai nurodytas kaip Vytauto miręs brolis.
 
 <a id="claim-t-87230"></a>
 - t-002
   global_id: t-87230
   teiginys: '1396 m. Vytautas kapitulai dovanojo Cudzeniškių valdą ir įpareigojo kasdien aukoti mišias už mirusius brolius Karigailą ir Vygantą.'
-  sudarymo_pagrindimas: 'Citata pagrindžia aiškų faktą apie fundaciją ir jos paskirtį.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Cudzeniškiai; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Ašmena; mentioned_place: Dinaburgas; mentioned_place: Medininkai'
-  temporaliniai_duomenys: 'įvykio data: 1396 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia aiškų faktą apie fundaciją ir jos paskirtį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 310407-310766; hash=a80d0285279b760f555993838a1ad1dffc744aca084b159ca727bbc0ed2a744d; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kazimieras Karigaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citatoje Kazimieras Karigaila įvardytas kaip Vytauto brolis.
 
 ## Reikšmingi paminėjimai
 
@@ -135,7 +108,6 @@ Nenurodyta
     mirusius brolius kunigaikščius: Kazimierą Karigailą ir
     Aleksandrą Vygantą58.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -157,7 +129,6 @@ Nenurodyta
     mis ir šventomis maldomis pasirū­
     pinti].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

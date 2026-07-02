@@ -32,11 +32,6 @@ Krašto padalinimas į pavietus ir vaivadijas.
 - t-001
   global_id: t-69428
   teiginys: 'Nevėžis ilgą laiką buvo administracinė riba tarp Trakų vaivadijos ir Žemaičių seniūnijos.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir nutrūkęs, bet citata remia aiškų faktą apie vaivadiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Nevėžis; llm_object: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1420 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir nutrūkęs, bet citata remia aiškų faktą apie vaivadiją.'
   pagrindžia:
     - c-001
 
@@ -57,7 +52,6 @@ Krašto padalinimas į pavietus ir vaivadijas.
     dėties — jau Mindaugo laikais politiškai rodė savarankiškumo,
     tačiau ir XIII amž. buvo Lietuvos dalis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

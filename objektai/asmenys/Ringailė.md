@@ -31,11 +31,6 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 - t-001
   global_id: t-93490
   teiginys: '1392 m. Ringailę vedė Ritesverderyje kitas Mozūrijos kunigaikštis Henrikas.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Mozūrija'
-  temporaliniai_duomenys: 'įvykio data: 1392 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -43,12 +38,8 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 - t-002
   global_id: t-93492
   teiginys: 'Vytautas pasiuntė seserį Ringailę įkaitu, laiduodamas sutartį su Ordinu.'
-  sudarymo_pagrindimas: 'Pirminis teiginys turi perteklinių detalių ir neaiškų kontekstinį pradžios žodį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2a707fd3f84bf9f46ed94e795898bc8542693f3d1dfff24a4167ef3665591b3b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Henrikas (Mazovijos kunigaikštis).md#claim-t-87685|Henrikas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Henrikas, atvykęs pas Vytautą su slaptu Jogailos pavedimu, vedė Ringailę.
 - susijęs iš [[objektai/asmenys/Mozūrų kunigaikštis Henrikas.md#claim-t-34819|Mozūrų kunigaikštis Henrikas]]: 1392 m. Mozūrų kunigaikštis Henrikas Ritesverderyje vedė Ringailę.
 - susijęs iš [[objektai/asmenys/Henrikas (Mazovijos kunigaikštis).md#claim-t-87685|Henrikas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Henrikas, atvykęs pas Vytautą su slaptu Jogailos pavedimu, vedė Ringailę.
@@ -74,7 +65,6 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
     muosius. Vytautas sutiko ir pasiuntė įkaitais savo brolį Zig-
     mantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -87,7 +77,6 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
     kitas Mozūrijos kunigaikštis Henrikas. Ji gavo krikšte
     Elžbietos vardą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

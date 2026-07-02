@@ -26,21 +26,8 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
 - t-001
   global_id: t-28396
   teiginys: 'Lohajskas buvo viena iš paskutinių rytinių slavų pilių į šiaurę nuo Nemuno.'
-  sudarymo_pagrindimas: 'Reikia pakeisti neaiškų žodį „čia“ ir sutelkti teiginį į Lohajską.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Nemunas; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; llm_object: [[objektai/grupes/Slavai|Slavai]]'
-  semantiniai_rysiai: 'Lohajskas priklausė [[objektai/grupes/Slavai|Slavai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 355318-355663; hash=e0ae94ad44117edcbf61fa152b782ead01fced4fcaa319de631c7b49f146650f; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Slavai: 0.77
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lohajskas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Slavai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Lohajskas įvardytas tarp paskutinių rytinių slavų pilių.
 
 ## Reikšmingi paminėjimai
 
@@ -55,7 +42,6 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
     Molodečnos Lebedžiai (Lebedev) «na russkoj storone », rodo, jog
     ten baigėsi lietuvių plotai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

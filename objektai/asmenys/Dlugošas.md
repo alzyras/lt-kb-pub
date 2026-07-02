@@ -15,6 +15,11 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+description: 'Dlugošas – XV a. LDK kontekste minimas šaltinis apie 1409–1411 m. karą, Žemaičius, Jogailą, Vytautą ir lietuvių tikėjimus.'
+socialDescription: 'Dlugošas pristatomas kaip svarbus šaltinis apie 1409–1411 m. karą, Žemaičių laikyseną, Jogailą, Vytautą ir lietuvių tikėjimų vertinimus.'
+seo_atnaujinta: '2026-07-02T21:03:54.614358+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - asmuo
   - kunigaikštis
@@ -24,47 +29,22 @@ tags:
 
 ## Santrauka
 
-Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis, perdėm buvo kritiškas apie abu Lietuvos kunigaikščius, t.
+Dlugošas žinių bazėje minimas kaip pagrindinis 1409–1411 m. karo šaltinis, kritiškai vertinęs Jogailą ir Vytautą. Jo pasakojimuose Žemaičių gyventojai slėpėsi giriose ir pabrėžė ryšį su kitais lietuviais. Narbuto vertinimu, Dlugošas taip pat aiškiai pripažino lietuvių genties tautų tikėjimą fetišais.
 
 ## Teiginiai
 <a id="claim-t-30223"></a>
 - t-001
   global_id: t-30223
   teiginys: 'Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia Dlugošo poziciją ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/posakiai/Vakkis Ahridlis|Vakkis Ahridlis]]; mentioned_place: Konstanca'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 905988-906319; hash=ba8966830c667e5b1a2b9eeeb54e1b98278c84e98e36d910b984977a219e997a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žemaičiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dlugošas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Žemaičiai: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dlugošas" parinktas kaip owner_note_path. Targetas "Žemaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-30224"></a>
 - t-002
   global_id: t-30224
   teiginys: 'Dlugošas buvo pagrindinis 1409-1411 m. karo šaltinis ir kritiškai vertino Jogailą bei Vytautą.'
-  susije_objektai: 'mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1409-1411; įvykio data: 1411 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e1a41aa4b2d5bfedb18eecc87f1e59dcef11ef22a6cafbc7ea0aa64644c60473; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dlugošas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dlugošas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184372"></a>
 - t-003
@@ -74,16 +54,6 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
     - c-004
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 341166-341580; hash=8011a58a67cd3311879b256247f8ac0deb267afbd893e68f6857624d2a02a62f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žemaičiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dlugošas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Žemaičiai: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dlugošas" parinktas kaip owner_note_path. Targetas "Žemaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/J. Dlugošas Długosz.md#claim-t-87985|J. Dlugošas Długosz]]: J. Dlugošas rašė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį.
 - susijęs iš [[objektai/autoriai/J. Dlugošas Długosz.md#claim-t-87986|J. Dlugošas Długosz]]: Dlugošas ir Kojelavičius tvirtino, kad Vilniaus pilių gaisrą sukėlė papirkti išdavikai.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172865|J. Dlugošas]]: J. Dlugošas aprašė Vorsklos mūšį, kuriame Edigėjaus kariuomenė atrodė akimis neaprėpiama.
@@ -134,13 +104,11 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
     nes žemaičiai esą tos pačios tautos, tos pat kalbos ir papročių^35.
     Šitaip buvo aiškinama ir « Žemaičiu skunde » Konstancoje 36 * 38.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Apskritai, sąjungininkų pusėje
@@ -152,13 +120,11 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
     perdėm buvo kritiškas apie abu Lietuvos kunigaikščius, t. y. Jogailą
     ir Vytautą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-- c-003
+    - t-002- c-003
   santrauka: 'Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -169,13 +135,11 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
     kryžiuočiams — « Vakkis Ahridlis » ir neatplėštų nuo kitų lietuvių,
     nes žemaičiai esą tos pačios tautos, tos pat kalbos ir papročių^35.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-- c-004
+    - t-003- c-004
   santrauka: 'Narbuto vertinimu, Dlugošas iš senesniųjų istorikų aiškiai pripažino, kad lietuvių genties tautos tikėjo fetišais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -191,9 +155,7 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
     minė, jokie namai, net daug pavienių asmenų negyveno be
     savo asmeninių fetišų.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003

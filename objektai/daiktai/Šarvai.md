@@ -46,8 +46,6 @@ Nenurodyta
 - t-001
   global_id: t-176218
   teiginys: 'Ordino riterius, šarvuotus metaliniais šarvais, atvirame lauke kepino karšta liepos mėnesio saulė.'
-  sudarymo_pagrindimas: 'Reikia pašalinti OCR triukšmą ir sutrumpinti sakinį iki vieno aiškaus fakto apie šarvus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Saulė|Saulė]]; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -55,8 +53,6 @@ Nenurodyta
 - t-002
   global_id: t-176220
   teiginys: 'Sunkiąją kavaleriją sudarė raiti kariai, apkaustyti tvirtais metaliniais šarvais nuo galvos iki kojų, šarvuodavę net arklius.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
   pagrindžia:
     - c-001
 
@@ -64,38 +60,15 @@ Nenurodyta
 - t-003
   global_id: t-176221
   teiginys: 'Pasimeldęs Jogaila, Vytauto ir lenkų riterių raginamas, užsidėjo šarvus ir nuvyko prie kariuomenės.'
-  sudarymo_pagrindimas: 'Reikia pašalinti OCR triukšmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 211031-211430; hash=6081c82babb59ce20be8bd74375d1f59a4ca4863915a6b4babf993e7bb8698ad; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ginklai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šarvai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šarvai" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176222"></a>
 - t-004
   global_id: t-176222
   teiginys: 'Lengvosios kavalerijos šarvai buvo lengvesni, dengė pečius ir krūtinę, o galvas saugojo šalmai.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_object: [[objektai/zodynas/lengvoji kavalerija|lengvoji kavalerija]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 211431-211718; hash=4be875f0f08f5558cdc79872d567935d80c2e8c7b463205599fad544d598ee02; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lankai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šarvai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lankai: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šarvai" parinktas kaip owner_note_path. Targetas "Lankai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Gerhardas, pravarde Rudė.md#claim-t-60288|Gerhardas, pravarde Rudė]]: Lietuviai paaukojo dievams Sembos fogtą Gerhardą Rudę, sudegindami jį su šarvais ant jo kovos žirgo.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184264|Jogaila (kunigaikštis, XIV–XV a.)]]: Pasimeldęs Jogaila Vytauto ir lenkų riterių raginimu užsidėjo šarvus ir nuvyko prie kariuomenės.
 - susijęs iš [[objektai/asmenys/Kunzas Lochneris.md#claim-t-80737|Kunzas Lochneris]]: Kunzas Lochneris XVI a. 6 dešimtmetyje Niurnberge pagamino Žygimanto Augusto paradinius šarvus.
@@ -134,7 +107,6 @@ Nenurodyta
     sitaikydavo nuo arklio nusiversti, tai ant jo užsėsti kautynių
     laiku jiems būdavo labai sunku.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -150,7 +122,6 @@ Nenurodyta
     kirvis, kuoka, plaktukas, lankai ir skydas nuo smūgių prisi­
     dengti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -168,7 +139,6 @@ Nenurodyta
     riuomenė nerimavo ir norėjo pradėti mūšį, bet to padaryti ne­
     galėjo, nes ne viskas buvo sutvarkyta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -185,7 +155,6 @@ Nenurodyta
     vyko prie kariuomenės. Kariuomenė jau buvo visai paruošta ir
     laukė ženklo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

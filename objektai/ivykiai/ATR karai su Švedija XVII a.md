@@ -45,23 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-20159
   teiginys: 'Per XVII a. karus su Švedija Lietuvos kariuomenė laimėjo Salaspilio mūšį, bet Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
-  sudarymo_pagrindimas: 'Citata nepagrindžia karų datų ar Vazų pretenzijų, bet pagrindžia karo eigą ir padarinius.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Švedija; mentioned_place: Lenkija; mentioned_place: Livonija'
-  temporaliniai_duomenys: 'įvykio data: 1605 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata nepagrindžia karų datų ar Vazų pretenzijų, bet pagrindžia karo eigą ir padarinius.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8061e79942c9f426b92c85e45b0c1730c5d7d3b7794ac4b83ea73e7cb7d4aa4a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Švedai: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Lietuvos kariuomenės pergalę prieš švedus.
 
 ## Reikšmingi paminėjimai
 
@@ -74,7 +59,6 @@ Nenurodyta
     Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
     Rygą ir užvaldė Baltijos pakrantes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

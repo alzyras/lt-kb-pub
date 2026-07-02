@@ -23,20 +23,8 @@ L I E T U V O S I S T O R I J A 106 Caro valdžia: „Čia nebus Lenkijos“ Po 
 - t-001
   global_id: t-77811
   teiginys: 'Po sukilimo caro valdžia buvusiose LDK žemėse pradėjo „lenkų pradų naikinimo“ politiką, grįstą „istorinio pirmumo“ teise.'
-  sudarymo_pagrindimas: 'Pašalintas antraštės ir puslapio triukšmas, išlaikyti abu note objektai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/posakiai/„Čia nebus Lenkijos“|„Čia nebus Lenkijos“]]; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Liublinas; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 197473-198371; hash=cddc312156f5cecef9b3bec2ad195b9885d99ed2d750e60dcda8109eab62cebe; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krėva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: lenkų pradų naikinimo politika istorinio pirmumo teisė: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Krėva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "lenkų pradų naikinimo politika istorinio pirmumo teisė" parinktas kaip owner_note_path. Targetas "Krėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -60,7 +48,6 @@ L I E T U V O S I S T O R I J A 106 Caro valdžia: „Čia nebus Lenkijos“ Po 
     „istorinio pirmumo teisę“, Rusija turi teisę, kad ir prievarta, „atkurti is-
     torinį teisingumą“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

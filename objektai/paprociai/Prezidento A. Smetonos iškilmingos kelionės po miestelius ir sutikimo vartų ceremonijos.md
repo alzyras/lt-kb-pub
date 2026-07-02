@@ -57,11 +57,6 @@ amziai:
 - t-001
   global_id: t-20818
   teiginys: '1927 m. vasarą ir rudenį A. Smetona keliavo po miestelius su oficialia palyda ir buvo iškilmingai sutinkamas prie puošnių sutikimo vartų.'
-  sudarymo_pagrindimas: 'Perrašymas pašalina perteklinę detalę ir tiksliau perteikia citatoje nurodytą laiką bei ceremoniją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]'
-  temporaliniai_duomenys: 'kelionės data: 1927 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Perrašymas pašalina perteklinę detalę ir tiksliau perteikia citatoje nurodytą laiką bei ceremoniją.'
   pagrindžia:
     - c-001
 
@@ -76,7 +71,6 @@ amziai:
     moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po jų – prie ati-
     tinkamai išpuoštų vietos žydų vartų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

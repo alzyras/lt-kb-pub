@@ -21,16 +21,6 @@ Narbutas aiškino, kad daugiskaitos forma Juodi, arba Johdi, reiškia oro dvasia
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 315022-315488; hash=cbdcd7ba1c3f8b01a56ce6742a004df091c3806875e5239925a7bdefcbc65780; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Latvija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Juodi: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Latvija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juodi" parinktas kaip owner_note_path. Targetas "Latvija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-188234|Latviai]]: Narbutas rašė, kad Latvijos kaimiečiai šiaurės pašvaistę aiškino posakiu „Johdi Kaujahs“, reiškiančiu, kad dvasios kaunasi.
 - susijęs iš [[objektai/posakiai/Johdi Kaujahs.md#claim-t-189580|Johdi Kaujahs]]: Narbuto mitologiniame aiškinime daugiskaita „Juodi“ („Johdi“) reiškia oro dvasias ir mirusiųjų vėles.
 ## Reikšmingi paminėjimai
@@ -48,9 +38,7 @@ Narbutas aiškino, kad daugiskaitos forma Juodi, arba Johdi, reiškia oro dvasia
     zku dweeh seles kaujahs -  kaunasi vėlės kariauninkų, žuvusių
     laukuose23.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

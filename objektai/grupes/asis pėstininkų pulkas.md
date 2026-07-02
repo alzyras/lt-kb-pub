@@ -21,31 +21,15 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
 - t-001
   global_id: t-80634
   teiginys: 'Vakare, 1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni Pirmojo pasaulinio karo vokiečių apkasai.'
-  sudarymo_pagrindimas: 'Pašalintos neaiškios nuorodos ir įvardyta citatoje minima Turmanto geležinkelio stotis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/1-asis pėstininkų pulkas|1-asis pėstininkų pulkas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Turmantas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Zarasai'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 746979-747211; hash=6bd7f73cb774b427bb7a672ba783b74845c715e4a86b831fe508b320d54bbdd1; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-80635"></a>
 - t-002
   global_id: t-80635
   teiginys: '1-ojo pėstininkų pulko du batalionai įėjo į dešiniąją koloną, kuriai vadovavo Ladyga.'
-  sudarymo_pagrindimas: 'Perrašyta, kad teiginio subjektas būtų pats pulkas ir pašalintas perteklinis sąrašas.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=85df32330cf3d77e7871fea497f5f3899caab7b4a12a2ed59cb6d19b9e9ca716; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> 1-asis pėstininkų pulkas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: asis pėstininkų pulkas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: 1-asis pėstininkų pulkas: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "asis pėstininkų pulkas" parinktas kaip owner_note_path. Targetas "1-asis pėstininkų pulkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -67,7 +51,6 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
     jusią „Bružų poziciją“, tačiau lietuviai patyrė
     nemažų nuostolių ir puolimas nepavyko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -84,7 +67,6 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
     nepilnos sudėties 4-oji baterija (3 patran-
     kos). Šiai kolonai vadovavo pats Ladyga.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -21,9 +21,6 @@ Narbutas rėmėsi Šerco „Glossarium Germanorum“, aiškindamas terminus „l
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 738878-739177; hash=4cbda5160245558f2c25236b2bc4dd8108bfad11f1526076e137b06212fc8c23; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -40,9 +37,7 @@ Narbutas rėmėsi Šerco „Glossarium Germanorum“, aiškindamas terminus „l
     dvasininkas; ewa -  įstatymas ir testamentas, kadangi turi
     įstatymo galią; iš to eu-werd).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

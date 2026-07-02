@@ -43,24 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-62897
   teiginys: 'Dusburgietis Pipino mirtį vaizdavo kaip pakorimą po to, kai Pipinas buvo pririštas prie arklio ir atvilktas iki Torunės.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra apie autoriaus vaizdavimą, todėl atribucija tinkama; pradinė forma per ilga.'
-  susije_objektai: 'llm_object: Torunė; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_place: Torunė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Kulmas; mentioned_place: Oliva; mentioned_place: Pamedė; mentioned_place: Prūsų žemė'
-  temporaliniai_duomenys: 'įvykio data: iki 1223 m.; įvykio data: 1223 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra apie autoriaus vaizdavimą, todėl atribucija tinkama; pradinė forma per ilga.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=eafcf7213028bf68f354ef9a427eb4e54211137e1d647b0ff36c273c641e2eac; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Torunė: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pipinas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Torunė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Pipinas buvo pakartas Torunėje.
 
 ## Reikšmingi paminėjimai
 
@@ -79,7 +63,6 @@ Nenurodyta
     išpjovus jam iš pilvo bambą  ir prikalus ją prie medžio, Pipinas, smarkiai mušamas,
     buvo verčiamas vaikščioti, kol visos žarnos susivijo aplink kamieną.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

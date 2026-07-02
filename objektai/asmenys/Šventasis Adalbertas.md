@@ -21,16 +21,6 @@ Narbutas iš Kozmo Prahiečio biografijos kildino žinią, kad Šventąjį Adalb
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 514687-515217; hash=6caaff7d649ec543fa899947a7e706daac5284fe16d9b9fc94b351e9681faa07; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Šventasis Adalbertas: 0.83
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Prūsai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Šventasis Adalbertas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo prūsų puolimą prieš apaštalą, t. y. Šventąjį Adalbertą.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -47,10 +37,8 @@ Narbutas iš Kozmo Prahiečio biografijos kildino žinią, kad Šventąjį Adalb
     ankstesnių kronikininkų mintį, tai yra kad tai buvo dvasinin­
     kai, gyvenę bendruomenėje su tam tikromis teisėmis.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

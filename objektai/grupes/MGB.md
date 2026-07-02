@@ -33,12 +33,6 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
 - t-001
   global_id: t-65908
   teiginys: '1948 m. vasario 1 d. Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodybą, kurioje slėpėsi trys partizanai.'
-  sudarymo_pagrindimas: 'Papildyta citatoje nurodyta data ir vieta, sakinys tapo enciklopediškesnis.'
-  susije_objektai: 'mentioned_place: Gulbiniškiai; mentioned_place: Kaimas; mentioned_place: Pilviškiai; mentioned_place: Vilkaviškis; llm_object: Gulbiniškiai'
-  semantiniai_rysiai: '[[objektai/grupes/MGB|MGB]] apgulė Gulbiniškiai'
-  temporaliniai_duomenys: 'įvykio data: 1948 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Papildyta citatoje nurodyta data ir vieta, sakinys tapo enciklopediškesnis.'
   pagrindžia:
     - c-002
 
@@ -46,23 +40,8 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
 - t-002
   global_id: t-65910
   teiginys: 'V. Voveris žuvo 1949 m., kai MGB užverbuoti agentai K. Kubilinskas-Varna ir A. Slinkis-Rytas išdavė Dainavos apygardos vadavietę.'
-  sudarymo_pagrindimas: 'Citata pagrindžia MGB agentų vaidmenį; pataisyta nutrūkusi pavardė.'
-  susije_objektai: 'mentioned_place: Dainava'
-  temporaliniai_duomenys: 'įvykio data: 1948 m.; įvykio data: 1949 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia MGB agentų vaidmenį; pataisyta nutrūkusi pavardė.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ef889ef04fea4be1245a854c3a894cfc6c137c596bc922aecca94ba34787dd22; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dainava: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: MGB: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dainava: mention_match, place, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "MGB" parinktas kaip owner_note_path. Targetas "Dainava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -74,7 +53,6 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
     karių. V. Voveris žuvo 1949 m. MGB užverbuotiems agentams K. Kubilinskui-
     Varnui ir A. Slinkiui-Rytui išdavus Dainavos apygardos vadavietę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -90,7 +68,6 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
     grupė apsupo kaimo gyventojo sodybą, kurioje slėpėsi 3 partizanai. Negalėdami
     prasiveržti, jie nusišovė. Žuvo ir Antanas Baltūsis-Žvejys (Tauro apygardos vadas).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

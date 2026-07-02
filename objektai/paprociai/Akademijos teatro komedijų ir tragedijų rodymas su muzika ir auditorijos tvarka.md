@@ -40,12 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-87259
   teiginys: 'Akademijos teatro salė buvo skirta komedijoms ir tragedijoms rodyti, ją laikė keturios didelės ir dvi mažos arkados.'
-  sudarymo_pagrindimas: 'Citata geriau pagrindžia trumpą faktą apie teatro salės paskirtį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=de74161e452e964e473abcbf1bd6c10f372712341e0c983a0f54f5b5651846a7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -71,7 +67,6 @@ Nenurodyta
     mis didelėmis arkadomis ir dviem mažomis, jas laiko stul­
     pai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

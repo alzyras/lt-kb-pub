@@ -43,8 +43,6 @@ Nenurodyta
 - t-001
   global_id: t-54262
   teiginys: 'Lenkijoje ir Lietuvoje tolerancijos ribos vėliau siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie religinę toleranciją ir daugiakonfesiškumą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/daugiakonfesiškumas|daugiakonfesiškumas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 
@@ -62,7 +60,6 @@ Nenurodyta
     Lenkijoje, tiek Lietuvoje tolerancijos ribos vis siaurėjo, bet pokyčiai vyko
     lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki pat XX a.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

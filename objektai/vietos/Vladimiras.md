@@ -42,12 +42,6 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 - t-001
   global_id: t-181161
   teiginys: 'Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Vladimiras; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brasta; mentioned_place: Drohičinas; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Palenkė; mentioned_place: Volinija; llm_object: Volinija'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užėmė Vladimiras'
-  temporaliniai_duomenys: 'įvykio data: 1384 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -55,12 +49,6 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 - t-002
   global_id: t-185204
   teiginys: 'Gediminas pirmąjį smūgį nukreipė į Volynės pasienį ir apsupo Vladimirą, kunigaikščio Vladimiro sostinę.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Gedimino puolimą prieš Vladimirą.'
-  susije_objektai: 'llm_object: Vladimiras; mentioned_group: [[objektai/grupes/Naugardukiečiai|Naugardukiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Volynė'
-  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] apgulė Vladimiras'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10670|Algirdas (Lietuvos valdovas)]]: 1362 m. Algirdas sumušė totorius ties Mėlynaisiais Vandenimis, paėmė Kijevą ir pasodino ten savo sūnų Vladimirą.
@@ -99,7 +87,6 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
     kažkokiu nežinomu būdu įsigyveno Volinijoje. Ten Vytautas už­
     valdė dvi svarbiausias pilis — Lucką ir Vladimirą^7.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -120,7 +107,6 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
     tą atkakliai puolė iš visų pusių, vis dėlto miestiečiai
     atrėmė puolimą, vildamiesi, jog neužtruks parama.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

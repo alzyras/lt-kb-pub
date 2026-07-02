@@ -29,42 +29,15 @@ amziai:
 - t-001
   global_id: t-88363
   teiginys: 'Švitrigaila laiške prašė didžiojo magistro palydėti Vroclavo vyskupą Konradą į Kistriną ir suteikti garantiją Vroclavo gyventojams.'
-  sudarymo_pagrindimas: 'Citata palaiko konkretų Švitrigailos prašymą, o pradinis teiginys nutrūkęs.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kistrinas; mentioned_place: Vroclavas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius; llm_object: Kistrinas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 432079-432846; hash=5e0ad5a651371c3f26a162dd303e914a48d415ad5a328b346495f51dd454a82e; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Kistrinas: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kistrinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Laiške Švitrigaila prašo palydėti pasiųstą Konradą į Kistriną, todėl palaikomas siuntimo krypties ryšys.
 
 <a id="claim-t-88364"></a>
 - t-002
   global_id: t-88364
   teiginys: '1432 m. rugpjūčio 13 d. laiške didžiajam magistrui Švitrigaila prašė garantijų Vroclavo gyventojams keliauti per Ordino žemes su prekėmis.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai nurodo laiško datą, adresatą ir prašymo turinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vroclavas; mentioned_place: Kistrinas; llm_object: Kistrinas'
-  temporaliniai_duomenys: 'įvykio data: 1432 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nurodo laiško datą, adresatą ir prašymo turinį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 432304-433014; hash=a446bb5e6a7b6c308ca4a678b4aa28b827d30ff7c0f4b19c98366c4185cf9185; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Kistrinas: 0.63
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kistrinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Švitrigaila laiške prašo, kad Konradas būtų palydėtas į Kistriną.
 
 ## Reikšmingi paminėjimai
 
@@ -96,7 +69,6 @@ amziai:
     kadangi mums rodo daug palanku­
     mo".
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -131,7 +103,6 @@ amziai:
     miesto gyventojų prašymu, didysis kunigaikštis turėjo pa­
     skirti valdytoją bei garantuoti jiems globą10.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

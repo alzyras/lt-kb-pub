@@ -31,20 +31,8 @@ Iš Pskovo buvo atvykę Livonijon 200 karių kaip kalavijuočių ordino sąjungi
 - t-001
   global_id: t-28730
   teiginys: 'Iš Pskovo į Livoniją atvyko 200 karių kaip Kalavijuočių ordino sąjungininkai kariauti prieš „bedieviškąją Lietuvą“.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą karių kilmę, vaidmenį ir tikslą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Tverė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 471597-472015; hash=21790fad5d462650313c486c3b46782ec50c1640574d37e7885501605b2b0bb1; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: bedieviškąją Lietuvą: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "bedieviškąją Lietuvą" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -58,7 +46,6 @@ Iš Pskovo buvo atvykę Livonijon 200 karių kaip kalavijuočių ordino sąjungi
     Iš Pskovo buvo atvykę Livonijon 200 karių kaip kalavijuočių ordino sąjungi­
     ninkai kariauti prieš «bedieviškąją Lietuvą ».
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

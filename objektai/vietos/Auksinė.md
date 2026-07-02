@@ -29,42 +29,15 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
 - t-001
   global_id: t-58517
   teiginys: 'Sreterio žemėlapyje Auksinės žemupyje pažymėta Romanuppen, o prie Didlovos - Kreywutschen.'
-  sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Nadruva'
-  temporaliniai_duomenys: 'įvykio data: 1576 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, gramatiškas ir atitinka citatos informaciją.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 214078-214593; hash=ded6f52afdd78e40efb9a1ca65a366e3dfaf938581bb5e9f856a8e566ca75b50; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaimas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Auksinė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaimas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Auksinė" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58518"></a>
 - t-002
   global_id: t-58518
   teiginys: 'Auksinės apylinkės siejamos su pagonišku kultu, remiantis vietovardžiais Juodkapis, Sernupė ir galbūt Auksinės upės vardu.'
-  sudarymo_pagrindimas: 'Citata palaiko ryšį su pagonišku kultu ir nurodo argumentus.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Šernas|Šernas]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Europa; mentioned_place: Prieglius'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c8a6ce01491a50b56873d0dc09eed97d9dd3441620fe7e481e2ae00d632f11b9; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Auksinė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Auksinė" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Friederici W.md#claim-t-60700|Friederici W]]: W. Friederici darbas „Über die Lage Romow’s...“ cituojamas siejant Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen su Kriviu ir Romuva.
 - susijęs iš [[objektai/daiktai/Baltvyžių girios auksinė moneta su riteriu ir lokiu.md#claim-t-189656|Baltvyžių girios auksinė moneta su riteriu ir lokiu]]: Baltvyžių girios auksinę monetą Narbutas priskyrė vietos tautai ir vertino kaip meistriškai nukaltą Romos cezarių laikų stiliumi.
 - susijęs iš [[objektai/daiktai/Spero Palemono auksinė moneta ir Švėkšnos lobis.md#claim-t-189650|Spero Palemono auksinė moneta ir Švėkšnos lobis]]: Narbutas nusipirko auksinę monetą, kuri, jo žiniomis, apie 1814–1815 m. buvo rasta Švėkšnos klebonijos sode.
@@ -107,7 +80,6 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
     Auksinės upės, yra vienintelė Nadruvoje mums žinoma vieta, kurioje matome Kriv- ir
     Rom- kompleksą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -124,7 +96,6 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
     gyvūnas), galbūt ir Auksinės upės vardas.
        Taigi su pagonišku kultu sietųsi buv.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

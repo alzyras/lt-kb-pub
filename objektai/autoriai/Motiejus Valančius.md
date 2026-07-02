@@ -54,8 +54,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-001
   global_id: t-00056
   teiginys: 'Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu.'
-  sudarymo_pagrindimas: 'Pašalinta santrumpa ir įtraukta citatos palaikoma leidybos veikla.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Vysk. Valančius|Vysk. Valančius]]'
   pagrindžia:
     - c-009
 
@@ -63,11 +61,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-002
   global_id: t-00058
   teiginys: 'Motiejaus Valančiaus „Palangos Juzė“, „Paaugusių žmonių knygelė“, „Vaikų knygelė“ ir „Pasakojimas Antano tretininko“ turėjo nemažą reikšmę.'
-  sudarymo_pagrindimas: 'Citata remia konkretesnį teiginį apie išvardytų Valančiaus kūrinių reikšmę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]'
-  temporaliniai_duomenys: 'įvykio data: 1883 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata remia konkretesnį teiginį apie išvardytų Valančiaus kūrinių reikšmę.'
   pagrindžia:
     - c-008
 
@@ -75,8 +68,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-003
   global_id: t-00059
   teiginys: 'Spaudos draudimo metu Amerikoje buvo išleista ir Motiejaus Valančiaus raštų.'
-  sudarymo_pagrindimas: 'Citata paremia faktą apie Valančiaus raštų leidimą Amerikoje.'
-  susije_objektai: 'mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-010
 
@@ -91,9 +82,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-005
   global_id: t-00061
   teiginys: 'Valančius vyskupavo 1850—1875 m., o jo raginama kunigija platino blaivybės brolijas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Žemaičių vyskupystė'
-  temporaliniai_duomenys: 'įvykio data: 1849 m.; įvykio data: 1875 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-006
 
@@ -101,7 +89,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-006
   global_id: t-179551
   teiginys: 'Valančius pasirūpino, kad kunigai turėtų pagarbų požiūrį į lietuviškai kalbančią liaudį, gerai išmoktų lietuviškai ir sakytų pamokslus lietuviškai, davė nurodymą kunigams prie bažnyčių steigti lietuviškas mokyklas.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Vysk. Valančius|Vysk. Valančius]]'
   pagrindžia:
     - c-004
 
@@ -109,11 +96,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-007
   global_id: t-179553
   teiginys: 'Motiejus Valančius 1848 m. buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Motiejų Valančių ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_place: Telšiai; mentioned_place: Žemaičių vyskupystė; mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1848 m.; įvykio data: 1849 m.; įvykio data: 1875 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Motiejų Valančių ir atitinka citatos informaciją.'
   pagrindžia:
     - c-001
 
@@ -121,11 +103,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-008
   global_id: t-179554
   teiginys: 'Motiejus Valančius XIX a. padarė didelę įtaką Lietuvos politiniams procesams.'
-  sudarymo_pagrindimas: 'Citata aiškiai teigia Valančiaus įtaką, o pradinis teiginys per fragmentiškas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]'
-  temporaliniai_duomenys: 'įvykio data: 1883 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata aiškiai teigia Valančiaus įtaką, o pradinis teiginys per fragmentiškas.'
   pagrindžia:
     - c-003
 
@@ -133,20 +110,8 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-009
   global_id: t-179555
   teiginys: 'Zenonas Ivinskis Motiejui Valančiui priskyrė sveikas pažiūras ir gana kritišką nusistatymą šaltinių atžvilgiu veikale „Žemaičių Vyskupystė“.'
-  sudarymo_pagrindimas: 'Teiginys remiasi autoriaus vertinimu, todėl reikia aiškios atribucijos ir sklandesnės formos.'
-  susije_objektai: 'mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=53abf0e8a224b365ca73d1c75ede3adfd23ba69c378754a53c963784ce66f606; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Telšiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Motiejus Valančius: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Telšiai: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus Valančius" parinktas kaip owner_note_path. Targetas "Telšiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105710|Simonas Daukantas]]: Simonas Daukantas įkalbino Motiejų Valančių rašyti ir lietuviškai išleisti Žemaičių vyskupijos istoriją.
 - susijęs iš [[objektai/autoriai/J. Eretas.md#claim-t-30667|J. Eretas]]: J. Eretas parengė spaudai veikalą „Valančiaus šviesa už marių“ apie Pranciškaus Juro ir jo bendrininkų gyvenimą bei veiklą.
 - susijęs iš [[objektai/autoriai/L. Kuodys.md#claim-t-96056|L. Kuodys]]: L. Kuodys redagavo vyskupo Valančiaus „Vaikų knygelę“, išleistą su K. Šimonio iliustracijomis.
@@ -197,7 +162,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
     europietiškos katalikiškos civilizacijos šalininkas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -216,7 +180,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     parodė Motiejus Valančius savo 2-jų tomų veikale « Žemaičių
     Vyskupystėje »^43.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -234,7 +197,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     politiku vyskupas M. Valančius XIX a. politiniams procesams Lietuvoje
     padarė bene didesnę įtaką, nei kas nors kitas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -252,7 +214,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     se kraštuose platinamomis blai-
     vybės idėjomis, inicijavo blaivybės sąjūdį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -267,7 +228,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     ginus, daug kur atsirado slaptų mokyklų, kuriose buvo mokoma
     lenkiškai (dvaruose) ir lietuviškai — iš draudžiamųjų knygų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -286,7 +246,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     galos dekanatai). Vyskupo raginama, kunigija tapo uoliausia
     blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -305,7 +264,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     Vyskupystėje »^43. Joje yra tačiau daug smulkini klaidų ir apsiri­
     kimų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -326,7 +284,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     čių seminarijos rektoriaus kun. J. S. Dovydaičio „Šiaulė-
     niškis senelis" ir kitos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -342,7 +299,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     parašė daugybę knygučių ir joms išleisti nesigailėjo nei lėšų
     nei vargo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -360,7 +316,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
     Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)
     raštų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

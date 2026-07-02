@@ -34,7 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-09597
   teiginys: 'Sodybų šeimininkai stebėdavo aplinką ir pranešdavo partizanams apie pavojų.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citatos informacija.'
   pagrindžia:
     - c-001
 
@@ -42,7 +41,6 @@ Nenurodyta
 - t-002
   global_id: t-09598
   teiginys: 'Sodybų šeimininkai aprūpindavo partizanus maistu ir kitomis būtinomis priemonėmis.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie sodybų šeimininkų pagalbą partizanams.'
   pagrindžia:
     - c-001
 
@@ -50,7 +48,6 @@ Nenurodyta
 - t-003
   global_id: t-09599
   teiginys: 'Demaskavus slėptuvę nukentėdavo ir sodybos šeimininkai: sodyba dažnai būdavo sudeginama, o gyvi likę šeimininkai ištremiami.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie pasekmes sodybos šeimininkams.'
   pagrindžia:
     - c-001
 
@@ -68,7 +65,6 @@ Nenurodyta
     ir šeimininkai, sodyba šturmo metu, ar po jo, dažnai būdavo sudeginama, šeimininkai,
     jei likdavo gyvi, ištremiami.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

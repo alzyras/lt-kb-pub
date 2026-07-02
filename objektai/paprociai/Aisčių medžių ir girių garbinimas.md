@@ -34,7 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-07763
   teiginys: 'Senieji kalnėnai ir žemaičiai girias taupė ir laikė šventomis, todėl be girių kunigo žinios į jas nebuvo galima nei įžengti, nei žalio virbelio išlaužti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]'
   pagrindžia:
     - c-001
 
@@ -42,7 +41,6 @@ Nenurodyta
 - t-002
   global_id: t-07764
   teiginys: 'Ąžuolus ir ąžuolynus kalnėnai bei žemaičiai garbino ypač stipriai, juos kirsti galėjo tik kunigai, o ąžuolynai ir lieknai veikė kaip šventos garbinimo vietos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai|Vilniaus gaisro gesinimo įrankiai]]'
   pagrindžia:
     - c-002
 
@@ -56,7 +54,6 @@ Nenurodyta
         tūlus medžius, bet ir cielas girias taupė ir už šventas turėjo, iš kurių be žinios girių kunigo
         niekšai ne vien žalio virbelio išlaužti, bet įžengti tenai negalėjo, negut, galą daromas, kaipo šventoj vietoj globos sau veizėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -71,7 +68,6 @@ Nenurodyta
         nesgi, kaip tuojau regėsim, bažnyčių neturėjo, bet jų vietoj buvo ąžuolynai ir lieknai, kuriuose
         dievą šio pasaulio Perūną garbino, todėl ir tas girias it šventas vietas gerbė ir godojo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

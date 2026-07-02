@@ -34,8 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-07812
   teiginys: 'Vasarą visi valgė ant žemės, prisikloję dembliais ar meškenomis.'
-  sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir pagrįstas citata apie vasaros valgymą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]'
   pagrindžia:
     - c-001
 
@@ -52,7 +50,6 @@ Nenurodyta
         stigavoja: „Duok, dievali,– sako, – pievoj karklyną, putroj kankolą^349 “; lygia dalia į skystą putrą
         sakoma tebėra: „Et, – sako, – pliurškalas, kruopas kruopą gaudo“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

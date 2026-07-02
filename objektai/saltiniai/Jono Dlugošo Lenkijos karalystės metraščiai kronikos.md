@@ -36,34 +36,15 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
 - t-001
   global_id: t-60985
   teiginys: 'Jono Dlugošo „Annales seu cronicae incliti regni Poloniae“ tomai Varšuvoje leisti 1964, 1973, 1975 ir 1978 m.'
-  sudarymo_pagrindimas: 'Citata pagrindžia veikalo leidimo vietą ir atskirų tomų leidimo metus.'
-  susije_objektai: 'mentioned_place: Varšuva'
-  temporaliniai_duomenys: 'įvykio data: 1978 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia veikalo leidimo vietą ir atskirų tomų leidimo metus.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 768614-768785; hash=36e85b64efa448fa1edb5f1047f37ad0ecf93cedecbaefe1f28751c39f06b51b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Varšuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jono Dlugošo Lenkijos karalystės metraščiai kronikos: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Varšuva: mention_match, place, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jono Dlugošo Lenkijos karalystės metraščiai kronikos" parinktas kaip owner_note_path. Targetas "Varšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60986"></a>
 - t-002
   global_id: t-60986
   teiginys: 'Roczniki czyli kroniki sławnego królestwa Polskiego.— Warszawa, ks.'
-  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 768788-768907; hash=a2037437024c6c0ea6baff573567dbb3fb268c8f8419e8d99b4614cbf7dc3480; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -74,7 +55,6 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
     Dlugossii I. Annales seu cronicae incliti regni Poloniae.— Varsaviae, lib. I—II, 1964;
     lib. V et VI, 1973; lib. VII et VIII, 1975; lib. IX, 1978; Opera omnia, t. 13, 1877.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -87,7 +67,6 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
     Długosz J. Roczniki czyli kroniki sławnego królestwa Polskiego.— Warszawa, ks. 1—2,
     1961; ks. 5 6, 1973; ks. 7 8, 1974.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

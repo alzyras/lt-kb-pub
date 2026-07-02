@@ -35,20 +35,8 @@ Nenurodyta
 - t-001
   global_id: t-86852
   teiginys: 'Formulė „Vardan Viešpaties Amen Amžinai dalykų atminčiai“ siejama su Žygimanto Senojo raštu, patvirtinusiu Trakų žydų privilegiją.'
-  sudarymo_pagrindimas: 'Pradinis tekstas yra puslapio ir antraštės triukšmas, bet citata leidžia išskirti dokumento formulę ir kontekstą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Trakai; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Melnikas; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 407990-410091; hash=9ef21f4ddd1c6c58df5f6c4e937c87bd51677e4da9a1bd0f5bc33f92f54d6bf9; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vardan Viešpaties Amen Amžinai dalykų atminčiai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=98
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vardan Viešpaties Amen Amžinai dalykų atminčiai" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -102,7 +90,6 @@ Nenurodyta
     nuo žydų, taip ir šiuo raštu būtų garantuota, iškart įsakėme
     išaiškinti ir parašyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

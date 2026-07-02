@@ -21,9 +21,6 @@ Narbutas Valginą (Walgina) apibūdino kaip deivę, globojusią naminių gyvuli�
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 253868-254169; hash=e433455e77cc348304930e942d6efa9c72bec114966bc5b40ead8ee7599590f9; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -38,9 +35,7 @@ Narbutas Valginą (Walgina) apibūdino kaip deivę, globojusią naminių gyvuli�
     Jos vardas reiškia Maitintoją, sutampa su Romos Deive
     Vika (Viccci).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

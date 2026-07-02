@@ -21,16 +21,6 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 198884-199101; hash=f0b8d5a6aa80dbacc0d9f5b59788de0caa8f6f8d828712956af8e6ba2eace79f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Italija: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Enėjas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Italija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Formuluotė rodo Enėjo judėjimą iš Trojos į Italiją, nors veiksmas nusakytas per atsinešimą.
 <a id="claim-t-190094"></a>
 - t-002
   global_id: t-190094
@@ -39,16 +29,6 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 397913-398174; hash=7eba01c510fa26959d1fc691aef17050bdb1a9863583257de8579749eb62cb9f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Laivai: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Enėjas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Laivai: llm_allowed_candidate, thing
-  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad Enėjas statė laivus.
 - susijęs iš [[objektai/asmenys/Vergilijus.md#claim-t-190056|Vergilijus]]: Narbutas Vergilijų vadino išradingu pasakojant apie šventuosius miškus ir Enėjo laivus iš Kibelei skirtų Idos kalno medžių.
 - susijęs iš [[objektai/autoriai/Vergilijus.md#claim-t-190342|Vergilijus]]: Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir Enėjo laivus iš Kibelei skirtų Idos kalno medžių.
 ## Reikšmingi paminėjimai
@@ -62,13 +42,10 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
     lenkėsi Alba ir Roma; pastarojo miesto cirke buvę jiems trys
     aukurai.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Pasak Narbuto perteikiamo Vergilijaus, žlugus Trojai Enėjas statė laivus iš Idos kalno medžių, paskirtų Kibelei.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -79,10 +56,8 @@ Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbini
     liūdna būtinybė privertė Enėją palikti tėvynę, jam teko statyti
     laivus iš Idos kalno medžių, paskirtų Kibelei.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

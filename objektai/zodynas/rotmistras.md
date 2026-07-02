@@ -39,8 +39,6 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 - t-001
   global_id: t-70311
   teiginys: 'Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai apibrėžia rotmistro pareigas ir remiasi citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/lengvoji kavalerija|lengvoji kavalerija]]; mentioned_object: [[objektai/zodynas/petihorai|petihorai]]'
   pagrindžia:
     - c-002
 
@@ -48,8 +46,6 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 - t-002
   global_id: t-70312
   teiginys: 'Usviatų seniūnas ir rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiojo sparno kavalerijai.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir perkrautas; perrašytas į aiškų faktą apie rotmistrą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/taurininkas|taurininkas]]; mentioned_place: Usviatai'
   pagrindžia:
     - c-001
 
@@ -57,7 +53,6 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 - t-004
   global_id: t-70314
   teiginys: 'Rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiajame sparne išdėstytiems kavalerijos daliniams.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/taurininkas|taurininkas]]; mentioned_place: Usviatai'
   pagrindžia:
     - c-001
 
@@ -84,7 +79,6 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
     daugiausiai husarų vėliavų), kuris turėjo
     smogti ir sunaikinti švedų kairįjį sparną,
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -101,7 +95,6 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
     Kavalerijos dalinio vadas - rotmistras, turėdamas šaukimo raštus
     pats rinkdavo karius („draugus“), kurie būdavo bajoriškos kilmės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -118,7 +111,6 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
     Kiekvienas „draugas“ privalėjo pristatyti nuo kelių iki keliolikos
     | žirgų ir karių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

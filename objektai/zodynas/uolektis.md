@@ -21,8 +21,6 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
 - t-001
   global_id: t-82104
   teiginys: 'Fundacijos privilegija buvo parašyta lotynų kalba ant pergamento, didesnio nei uolektis ilgio ir pločio.'
-  sudarymo_pagrindimas: 'Palikta tik aiškiai citatos palaikoma informacija apie uolektį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš Žemaičių jūra: Žemaičių jūra per 1000 metų nuseko kelias uolektis.
@@ -52,7 +50,6 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
     yra įrašyta žodis žodin, tokio turinio:
     In Nomine Domini Amen.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

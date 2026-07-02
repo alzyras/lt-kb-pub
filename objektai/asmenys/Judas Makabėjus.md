@@ -23,7 +23,6 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
 - t-001
   global_id: t-175237
   teiginys: 'Judas Makabėjus drąsino savo nedidelį būrį prieš didelę netikėlių kariuomenę.'
-  sudarymo_pagrindimas: 'Citata pateikia Judą Makabėjų kaip drąsinusį saviškius prieš gausesnę kariuomenę.'
   pagrindžia:
     - c-003
 
@@ -31,33 +30,15 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
 - t-002
   global_id: t-175238
   teiginys: 'Pasakojama, kad Judas Makabėjus krito kovoje su Bachidu ir Alchimu, o Izraelio kariuomenė turėjo bėgti.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Judą Makabėjų ir tiksliai remiasi citata.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Bachidas|Bachidas]]; mentioned_person: [[objektai/asmenys/Bachidas|Bachidas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]] kariavo prieš [[objektai/asmenys/Bachidas|Bachidas]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cc0110ea28708fa391d37cbd5fbf59ee9d722c631c510f21a7fb9a5f3426be2c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dovydas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Judas Makabėjus: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dovydas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Judas Makabėjus" parinktas kaip owner_note_path. Targetas "Dovydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-175239"></a>
 - t-003
   global_id: t-175239
   teiginys: 'Makabėjai, laikydamiesi įstatymo ir tikėjimo, nugalėjo Antiochą Epifaną, apvalė šventas vietas ir sugrąžino žemei ramybę.'
-  sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir perteikia šaltinio fragmentą su nereikalinga atribucija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f3c35b545b8b668ef8bda54e88fcf1945d1772c0f0c4a8d2fd4c3163175e925a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Alchimas.md#claim-t-60232|Alchimas]]: Judas Makabėjus kovojo su Bachidu ir Alchimu, o po šių kautynių pats žuvo ir Izraelio kariuomenė turėjo bėgti.
 - susijęs iš [[objektai/asmenys/Antiochas Eupatoras.md#claim-t-60238|Antiochas Eupatoras]]: Judas Makabėjus kovojo su Antiochu Eupatoru, jo nenugalėjo ir pasuko atgal.
 - susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-62623|Jordanas]]: Jordanas buvo gotų istorikas.
@@ -80,7 +61,6 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
     pripratinti dievo tautą prie stabmeldiškų apeigų, o jaunikaičius — prie viešnamių; dievo
     remiami, apvalė šventas vietas, atgavo Siono arką ir sugrąžino žemei ramybę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -101,7 +81,6 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
                      Pergalės būdas tikriausias — kantrybė, tas kovą laimi,
                    Kas pasikliaus kantrumu; jei nori laimėti — kantrauk!
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -118,7 +97,6 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
     kartą su savųjų saujele prieš didžiulę netikėlių kariuomenę, tarė, drąsindamas saviškius
     (1 Mak 4, 8—11): „Nebijokite jų daugybės  ir nenusigąskite jų puolimo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

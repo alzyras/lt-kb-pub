@@ -26,23 +26,8 @@ Tų metų rudenį Vytauto nurodymu Skirgaila, žygiuodamas iš Kijevo į pietus,
 - t-001
   global_id: t-42349
   teiginys: '1396 m. rudenį Skirgaila Vytauto nurodymu paėmė Zvenigorodą ir prijungė šias Aukso ordai pavaldžias žemes prie LDK.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Zvenigorodą ir atitinka citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Čerkasai'
-  temporaliniai_duomenys: 'įvykio data: 1396 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Zvenigorodą ir atitinka citatą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=715a5e07837493499043d5d8fb17004d3bb4fe1ace1196fbb2b631f3446ef69c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zvenigorodas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zvenigorodas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -59,7 +44,6 @@ Tų metų rudenį Vytauto nurodymu Skirgaila, žygiuodamas iš Kijevo į pietus,
     džias žemes prijungdamas prie LDK.
     1396 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -36,9 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 475434-475638; hash=ddbdcd8117e2a64c11b5a37bcddd0a35a9ec02a82bd0712cbd55281cb8439c77; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-189709"></a>
 - t-002
   global_id: t-189709
@@ -47,9 +44,6 @@ Nenurodyta
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 502685-503195; hash=d9595a4bf9768213fd50d707b540c6079fc7ecb9d1264043853a4f16910f7482; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -64,13 +58,10 @@ Nenurodyta
     kalnas, iškili vieta. Tačiau smulkmenų apie tą panteoną ne­
     turime; reikėtų manyti, kad jame turėjo būti stabų rinkinys.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas teigė, kad tikėjimo vadovai veikė visuomenę nešiodamiesi baisios išvaizdos Pokliaus stabuką ir pranašaudami dievų bausmes bei dovanas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -85,9 +76,7 @@ Nenurodyta
     sirodyti, ir kitokiais panašiais prasimanymais. Mat sumanęs
     14 Schütz.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

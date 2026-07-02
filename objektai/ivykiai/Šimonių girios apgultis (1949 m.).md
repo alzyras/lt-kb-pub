@@ -42,10 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-67009
   teiginys: 'Didžiausio susirėmimo metu Šimonių girioje susprogdinti aštuoni partizanų bunkeriai, žuvo 33 partizanai, 10 pateko į nelaisvę, o 1949 m. rudenį sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Šimonių girios apgultis|Šimonių girios apgultis]]; mentioned_object: [[objektai/daiktai/Partizanų bunkeriai|Partizanų bunkeriai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; llm_object: [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)|Šimonių girios apgultis (1949 m.)]]'
-  semantiniai_rysiai: '[[objektai/grupes/NKVD|NKVD]] dalyvavo mūšyje [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)|Šimonių girios apgultis (1949 m.)]]'
-  temporaliniai_duomenys: 'įvykio data: 1949 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -53,9 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-67010
   teiginys: '1949 m. lapkričio 1-2 d. Šimonių girioje MGB vidaus kariuomenė vykdė karines-čekistines operacijas.'
-  susije_objektai: 'mentioned_place: Kupiškis; mentioned_place: Svėdasai'
-  temporaliniai_duomenys: 'įvykio data: 1949 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -63,11 +56,6 @@ Nenurodyta
 - t-003
   global_id: t-67011
   teiginys: '1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiuje.'
-  sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_person: [[objektai/asmenys/Albinas Kubilius-Rūgštymas|Albinas Kubilius-Rūgštymas]]; mentioned_person: [[objektai/asmenys/Alfonsas Vildžiūnas-Vijoklis|Alfonsas Vildžiūnas-Vijoklis]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1949 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika.md#claim-t-67036|Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]: Apie 1948 m. sovietai aktyviai infiltravo agentus-smogikus į partizanų gretas ir net jų vadovybę.
@@ -82,7 +70,6 @@ Nenurodyta
     rinės-čekistinės operacijos Kupiškio aps.
     Svėdasų valsčiuje, Šimonių girioje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -116,7 +103,6 @@ Nenurodyta
     Princas pasidavė gyvas ir nurodė dar
     3 štabo bunkerius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -139,7 +125,6 @@ Nenurodyta
 
     praktiškai žuvo visa apygardos vadovybė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

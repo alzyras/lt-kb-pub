@@ -26,7 +26,6 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
 - t-001
   global_id: t-00008
   teiginys: 'K. Masiliūno rūpesčiu buvo suburti penki žmonės, sutikę rašyti atskirus tautos gyvenimo laikotarpius.'
-  sudarymo_pagrindimas: 'Sakinys pataisytas, pašalinant netikslų ir gremėzdišką formulavimą.'
   pagrindžia:
     - c-001
 
@@ -34,8 +33,6 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
 - t-002
   global_id: t-00009
   teiginys: 'K. Masiliūnas kartu su J. Tonkūnu rūpinosi bendradarbių rinkimu ir teikė paramą atliekamam darbui.'
-  sudarymo_pagrindimas: 'Citata pagrindžia teiginį, bet tinkamesnis žodis yra bendradarbių rinkimas, ne parinkimas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/J. Tonkūnas|J. Tonkūnas]]'
   pagrindžia:
     - c-002
 
@@ -50,7 +47,6 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
     tarusių parašyti kiekvienas apie atskirą mūsų tautos gyvenimo
     laikotarpį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -67,7 +63,6 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
     bendradarbius, o vėliau visą laiką rodė dėmesį dirbamajam dar-
     bui ir teikė reikiamos paramos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

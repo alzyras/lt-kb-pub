@@ -30,33 +30,13 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
 - t-001
   global_id: t-74133
   teiginys: '1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo.'
-  sudarymo_pagrindimas: 'Pašalinta kontekstinė frazė ir paliktas aiškus faktas.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1926 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalinta kontekstinė frazė ir paliktas aiškus faktas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c051e0d1a61c06e0dd683f9b0e582c5e0bffd9800d0b6f6b77706333332e542e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: III Seimas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "III Seimas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-74135"></a>
 - t-002
   global_id: t-74135
   teiginys: '1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai neskelbti, remiantis rengiamu plebiscitu.'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys apie III Seimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]'
-  temporaliniai_duomenys: 'įvykio data: 1927 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus faktinis sakinys apie III Seimą.'
   pagrindžia:
     - c-002
 
@@ -64,23 +44,8 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
 - t-003
   global_id: t-74136
   teiginys: 'III Seimo naujoji valdančioji dauguma skubėjo Lietuvoje įdiegti visateisę demokratinę santvarką.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir gramatiškas faktinis sakinys apie III Seimą.'
-  susije_objektai: 'mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: po 1927 m.; įvykio data: 1927 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir gramatiškas faktinis sakinys apie III Seimą.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0ffdfcc140ab7d14a02afb821896d16f1ea59bcb29e10a930d5a6add79de2274; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> seimas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: III Seimas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: seimas: mention_match, thing, gap=4
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "III Seimas" parinktas kaip owner_note_path. Targetas "seimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77965|A. Smetona]]: 1927 m. balandžio 12 d. A. Smetona paleido III Seimą ir taip pašalino krikščionis demokratus iš valdžios.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75728|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1927 m. balandžio 12 d. Antanas Smetona prezidento aktu paleido III Seimą ir nustūmė krikščionis demokratus nuo valdžios.
 - susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-71725|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: Po 1926 m. gruodžio 17 d. perversmo III Seimas gruodžio 19 d. nauju Lietuvos prezidentu išrinko tautininkų lyderį Antaną Smetoną.
@@ -103,7 +68,6 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
     8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-
     laimėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -124,7 +88,6 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
     klaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas,
     o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -145,7 +108,6 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
     likų kunigams, nes nuo 1927 m. pradžios dar ketinta nebemokėti algų
     dvasininkams), ėmė mažinti karininkų skaičių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

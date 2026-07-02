@@ -38,23 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-01849
   teiginys: '1919 m. balandžio 19 d. iš pietų prasiveržę lenkai paėmė Vilnių, nors lietuvių pajėgos buvo nustūmusios rusus iki miesto.'
-  sudarymo_pagrindimas: 'Perrašyta enciklopediškiau ir aiškiau susieta su Vilniaus užėmimu.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Povilas Lukšys|Povilas Lukšys]]; mentioned_place: Butrimonys; llm_object: [[objektai/grupes/Rusai|Rusai]]'
-  temporaliniai_duomenys: 'įvykio data: 1919 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Perrašyta enciklopediškiau ir aiškiau susieta su Vilniaus užėmimu.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7cf6fdf75db6d14058b0857b6c3bd426030f85fc00891b15d69423316b41986f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Vilnius: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad lenkai paėmė Vilnių.
 
 ## Reikšmingi paminėjimai
 
@@ -70,7 +55,6 @@ Nenurodyta
     Vilniaus, tačiau Vilnių paėmė iš pietų prasiveržę lenkai (ba-
     landžio 19 d.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

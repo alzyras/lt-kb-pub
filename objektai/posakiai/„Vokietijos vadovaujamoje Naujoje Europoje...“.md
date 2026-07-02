@@ -28,42 +28,15 @@ LAF vadovybė pernelyg pasitikėjo nacių Vokietija – manyta, jog „Vokietijo
 - t-001
   global_id: t-75624
   teiginys: 'LAF vadovybė manė, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus suteikta teisė tvarkytis savo nuožiūra.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_place: Europa; mentioned_place: Vokietija; mentioned_person: [[objektai/asmenys/K. Škirpa|K. Škirpa]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9d57a9c593c1717edca9a276b7495dc00faf6fdae7b0f9dd339ab4822105cfb3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „Vokietijos vadovaujamoje Naujoje Europoje...“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„Vokietijos vadovaujamoje Naujoje Europoje...“" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-75625"></a>
 - t-002
   global_id: t-75625
   teiginys: 'LAF vadovybė tikėjo, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus leista tvarkytis pačioms.'
-  sudarymo_pagrindimas: 'Pašalintas OCR ir puslapio triukšmas, paliktas citatos palaikomas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_place: Europa; mentioned_place: Vokietija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvių aktyvistų frontas|Lietuvių aktyvistų frontas]]; mentioned_place: Berlynas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: SSRS'
-  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1941 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas OCR ir puslapio triukšmas, paliktas citatos palaikomas faktas.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a054745d76a5e8975546a820a78b400bb756d8d9bdaf55cff390c5c6abd337ae; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „Vokietijos vadovaujamoje Naujoje Europoje...“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„Vokietijos vadovaujamoje Naujoje Europoje...“" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -82,7 +55,6 @@ LAF vadovybė pernelyg pasitikėjo nacių Vokietija – manyta, jog „Vokietijo
     K. Škirpa manė, kad nauja organizacija turi palaikyti ypač glaudžius
     ryšius su nacių Vokietija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -113,7 +85,6 @@ LAF vadovybė pernelyg pasitikėjo nacių Vokietija – manyta, jog „Vokietijo
     Vokietija – manyta, jog „Vokietijos vadovaujamoje Naujoje Europoje bus
     suteikta visoms tautoms teisė tvarkytis pas save, kaip nori“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

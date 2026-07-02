@@ -21,16 +21,6 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 491759-492029; hash=4a775e15811a168e2cd1065495c570ee10c4467f46ca03baff3e8d558c1ffe45; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Germanai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Foigtas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Germanai: mention_match, group, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Foigtas" parinktas kaip owner_note_path. Targetas "Germanai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Johanas Foigtas.md#claim-t-190032|Johanas Foigtas]]: Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tuščiagarbio vienuolio išmone, bet šį priekaištą perėmė iš Hartknocho.
 - susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-188616|Simonas Grunau]]: Narbutas gynė Grunau nuo Foigto kritikos ir manė, kad žinią apie vyriausiuosius žynius jis paėmė iš vyskupo Kristijono kronikos.
 - susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-188412|Johanas Foigtas]]: Narbutas rašo, kad Foigtas legendą apie vyriausiuosius žynius laikė tuščiagarbio vienuolio išmone.
@@ -59,9 +49,7 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
     seno žinomos germanų tautoms. Tačiau mūsų to dalyko su­
     pratimu sunku su tuo sutikti.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

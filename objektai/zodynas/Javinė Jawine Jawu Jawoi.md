@@ -21,9 +21,6 @@ Narbutas Javinę (Jawine) aiškina kaip su javais susijusį deivės vardą ir si
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 768127-768357; hash=fb7d56836b4adb384eab034f1e4198afbf472c69a7293755ffe993f126c5e27d; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -35,9 +32,7 @@ Narbutas Javinę (Jawine) aiškina kaip su javais susijusį deivės vardą ir si
     pavadinę Krūmine, kadangi žymės, kokias jai priskiria prūsai,
     yra tos pačios, apie kurias kalbėta tame straipsnyje.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

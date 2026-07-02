@@ -31,15 +31,8 @@ Dusburgietis teigia, kad dabar siūlomos vėlesnės datos: pilis pradėta statyt
 - t-001
   global_id: t-61249
   teiginys: 'J. Powierskio „Chronologia“ siūlo vėlesnes datas: pilis pradėta 1279 m., o miesto lokacinė privilegija tikriausiai išduota 1286 m.'
-  sudarymo_pagrindimas: 'Citata remia glaustą šaltinio pozicijos santrauką.'
-  temporaliniai_duomenys: 'įvykio data: 1279 m.; įvykio data: 1281 m.; įvykio data: 1286 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata remia glaustą šaltinio pozicijos santrauką.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 525107-525321; hash=044d22276408f2bf5849ae303d6d3658ee9653f716f1cdf4f086f8e8402419bc; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -51,7 +44,6 @@ Dusburgietis teigia, kad dabar siūlomos vėlesnės datos: pilis pradėta statyt
     m.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m.
     (Powierski J., Chronologia..., p. 5—31).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

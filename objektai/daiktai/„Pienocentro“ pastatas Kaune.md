@@ -47,24 +47,8 @@ Nenurodyta
 - t-001
   global_id: t-71580
   teiginys: '„Pienocentro“ pastatas Kaune buvo užfiksuotas apie 1938 m.'
-  sudarymo_pagrindimas: 'Pirminis tekstas yra antraštinis fragmentas, todėl perrašytas į pilną faktinį sakinį.'
-  susije_objektai: 'llm_object: Kaunas; mentioned_place: Kaunas; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]'
-  semantiniai_rysiai: '[[objektai/daiktai/„Pienocentro“ pastatas Kaune|„Pienocentro“ pastatas Kaune]] priklausė Kaunas'
-  temporaliniai_duomenys: 'pastatymo data: 1933 m.; pastatymo data: 1938 m.; pastatymo data: apie 1938 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip pastatymo data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Pirminis tekstas yra antraštinis fragmentas, todėl perrašytas į pilną faktinį sakinį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=22eb092dde532dacf1be03b00961963b3fa1bb79ce633b8f166bc210b2997d8d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Kaunas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: „Pienocentro“ pastatas Kaune: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Objekto aprašymas tiesiogiai nurodo, kad pastatas yra Kaune.
 - susijęs iš [[objektai/asmenys/V. Landsbergis-Žemkalnis.md#claim-t-78038|V. Landsbergis-Žemkalnis]]: V. Landsbergis-Žemkalnis buvo Kaune stovėjusio „Pienocentro“ pastato architektas.
 - susijęs iš [[objektai/asmenys/Stasys Girėnas.md#claim-t-183570|Stasys Girėnas]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
 - susijęs iš [[objektai/asmenys/Steponas Darius.md#claim-t-78013|Steponas Darius]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
@@ -85,7 +69,6 @@ Nenurodyta
     liepos 15–17 d. du lietuviai, Steponas Darius ir Stasys Girėnas, mažu
     „Pienocentro“ pastatas Kaune (apie 1938).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

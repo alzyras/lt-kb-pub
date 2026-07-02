@@ -8,6 +8,11 @@ datos:
   - '1435 m.'
 date_start: '1435'
 date_end: ''
+description: 'Vladislovas Jogailaitis minimas 1435 m. įvykiuose: pagalboje Žygimantui Kęstutaičiui ir Bresto taikoje su Ordinu.'
+socialDescription: '1435 m. Vladislovas Jogailaitis siejamas su Žygimanto Kęstutaičio žygiu į Trakus ir Bresto taika su Ordinu.'
+seo_atnaujinta: '2026-07-02T20:14:54.859496+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'true'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,7 +29,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galėjo didžiausias lietuvių jėgas“, gavęs prašytos pagalbos iš Lenkijos karaliaus Vladislovo Jogailaičio, ėjo į Trakus. 1435 m. gruodžio 31 d. sudaryta Bresto (Kujavy) taika tarp Lenkijos karaliaus Vladislovo Jogailaičio, Lietuvos didžiojo kunigaikščio Žygimanto Kęstutaičio ir Vokiečių-kryžiuočių ordino didžiojo magistro Rusdorfo, atstovaujančio Ordino žemėms Prūsijoje. nas BAKA ŠV ASmenaQ, o da rėva pa ODrohičinas o OKobri tuvos Brasta /-- epsass L Ik Pioti ae ORadbinas gen sl age 4 sai keel ir Vengrijos sostą pavyko iškovoti > Čekijos karaliui Vladislovui Jogailaičiui.
+Vladislovas Jogailaitis šaltiniuose minimas 1435 m. Lietuvos ir Lenkijos politinių įvykių kontekste. Jis siejamas su pagalba Žygimantui Kęstutaičiui prieš žygį į Trakus ir Bresto taika su Vokiečių-kryžiuočių ordinu. Medžiagoje taip pat yra teiginių apie Čekijos karalių Vladislovą Jogailaitį ir Vengrijos sostą, todėl įrašas gali painioti kelis asmenis.
 
 ## Teiginiai
 
@@ -32,177 +37,57 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
 - t-001
   global_id: t-40515
   teiginys: 'Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.'
-  sudarymo_pagrindimas: 'Perrašyta į tiesioginį enciklopedinį sakinį be OCR triukšmo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Vengrija; mentioned_place: Brasta; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Starodubas; mentioned_place: Čekija; llm_object: Čekija; llm_object: Vengrija'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] valdė Čekija; [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] valdė Vengrija'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7d4e98b402726dbb596090cdb47e018ba0106c74d75d47df84e228b00bc1e776; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Lietuviai: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Pagalba suteikta Žygimantui ir jo lietuvių jėgoms; kadangi Žygimanto kandidato nėra sąraše, artimiausias tiesiogiai minimas remiamas objektas yra lietuvių jėgos.
 
 <a id="claim-t-40516"></a>
 - t-002
   global_id: t-40516
   teiginys: 'Lenkijos karalius Vladislovas Jogailaitis suteikė Žygimantui Kęstutaičiui prašytą pagalbą prieš žygį į Trakus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] rėmė [[objektai/grupes/Lietuviai|Lietuviai]]'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1435 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo valdovas Lenkija“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ba2ac2e0aaa31b32a1adde7d2e7283044f3c8a5c9ded18c8c76303a036cb61d6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: sudare_sutarti_su -> Rusdorfas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Rusdorfas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Bresto taika sudaryta tarp Vladislovo Jogailaičio ir Rusdorfo kaip sutarties šalių.
 
 <a id="claim-t-40517"></a>
 - t-003
   global_id: t-40517
   teiginys: '1435 m. gruodžio 31 d. Vladislovas Jogailaitis su Žygimantu Kęstutaičiu ir Ordino magistru Rusdorfu sudarė Bresto taiką.'
-  sudarymo_pagrindimas: 'Sutrumpinta ir pataisyta į aiškų sakinį apie asmenį.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] sudarė sutartį su [[objektai/asmenys/Rusdorfas|Rusdorfas]]'
-  temporaliniai_duomenys: 'įvykio data: 1435 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sutrumpinta ir pataisyta į aiškų sakinį apie asmenį.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8d47a96c007d2dcd9f5dcb2ab6e6c3ecae7219966814e540fa3ba5d39f956aeb; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Čekija: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Čekija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vladislovas aiškiai vadinamas Čekijos karaliumi.
 
 <a id="claim-t-184857"></a>
 - t-005
   global_id: t-184857
   teiginys: 'Vengrijos seime daugelis rėmė Jono brolį Vladislovą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo apie Joną, bet citata leidžia faktą apie Vladislovo rėmimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Vengrija; llm_object: [[objektai/asmenys/Jonas|Jonas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] buvo brolis [[objektai/asmenys/Jonas|Jonas]]'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 945354-945803; hash=f34504236500bf6bec939a3ab32141f7c113ac8767c37469aacfdcffb0a48cd0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Jonas: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jonas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Vladislovas nurodomas kaip Jono brolis.
 
 <a id="claim-t-184858"></a>
 - t-006
   global_id: t-184858
   teiginys: 'Po pergalės Vladislovas Jogailaitis pasiūlė broliui Jonui tartis dėl santarvės sudarymo.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Perrašyta išplečiant neaiškią nuorodą į brolį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Silezija; mentioned_place: Vengrija; llm_object: [[objektai/asmenys/Jonas|Jonas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] buvo brolis [[objektai/asmenys/Jonas|Jonas]]'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 947770-948153; hash=980461b5672d808e8c572d272ad2444fa098538ad457aaa45c1e1c592db92475; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Jonas: 0.79
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jonas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Vladislovas siūlo tartis broliui; kitame sakinyje brolis įvardytas Jonu.
 
 <a id="claim-t-184859"></a>
 - t-007
   global_id: t-184859
   teiginys: 'Vladislovo pastangomis lenkai, vengrai, čekai, lietuviai ir valachai sudarė tarpusavio gynybos sutartis prieš karą su turkais.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys sutrumpintas į enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_place: Lietuva; mentioned_place: Valachija; mentioned_place: Vengrija; mentioned_place: Viena; llm_object: [[objektai/grupes/Valachai|Valachai]]'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 984190-984631; hash=60f153e800bef90c33bccfda1cb6146810ea257332de871851501e317c77fb31; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: sudare_sutarti_su -> Valachai: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Valachai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Lietuviai ir valachai įvardyti tarp grupių, sudariusių tarpusavio gynybos sutartis.
 
 <a id="claim-t-184860"></a>
 - t-008
   global_id: t-184860
   teiginys: 'Karalius Vladislovas atkakliai ragino valdovą nusileisti.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata remia tik siaurą faktą apie Vladislovo raginimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Maskva'
   pagrindžia:
     - c-008
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1114390-1114962; hash=d855eba5ce5e03872535e8b206349ea08f002fa24b75d710601e5181d05c926c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vladislovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vladislovas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogailaitis (Lenkijos karalius, XV a.)" parinktas kaip owner_note_path. Targetas "Vladislovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184861"></a>
 - t-009
   global_id: t-184861
   teiginys: 'Į valdovų susitikimą karalius Vladislovas ir jo duktė Ona atvažiavo važiuoti.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalinta OCR klaida, paliktas citata pagrįstas faktas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Čekija'
   pagrindžia:
     - c-009
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1128559-1129049; hash=d203d3de5ae1a337bbf220666c9126fc2efaac582857fc8be4dd6fda0b61ae8f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vladislovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vladislovas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogailaitis (Lenkijos karalius, XV a.)" parinktas kaip owner_note_path. Targetas "Vladislovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -217,7 +102,6 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
 
     68 PABAISKO (UKMERGĖS) MUSIS 1435 m. rugsėjo 1 d.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -254,7 +138,6 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     SuzdalėO A ij Nlovgarodas aca Rarer
     MASKVA — Piedimias T Kan?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -276,7 +159,6 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     joks valdovas, popiežius ar imperato-
     rius neprivers šios sutarties sulaužyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -316,7 +198,6 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     Vengrija ir Čekija (Bohemija) buvo
     suns personaline unija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -345,7 +226,6 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     minė, kaip atsitiko kitam jo broliui, Kazimierui, kurį
     vengrai lengva ranka apgavo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -364,7 +244,6 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     įpėdiniu, šiuo metu iš Vladislovo jis gausiąs kaip be­
     neficiją Sileziją.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -384,7 +263,6 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     Dievobaimingas Aleksandro įstangas sužlugdė klas­
     tingos Ivano pinklės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -406,7 +284,6 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     miršti viską, kas dėjosi praeityje, bet laiduoti visišką
     valdovo prielankumą ateityje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -431,7 +308,6 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     kaip tėvą ir valdovą, nes Čekijos karalystė priklausė
     Romos imperijai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

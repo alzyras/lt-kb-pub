@@ -33,8 +33,6 @@ Nenurodyta
 - t-001
   global_id: t-88255
   teiginys: 'Aleksandras Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jai priklausančiomis žemėmis ir valdomis.'
-  sudarymo_pagrindimas: 'Lotyniškas OCR fragmentas turi būti pakeistas lietuvišku sakiniu, kurį tiesiogiai pagrindžia citatos vertimas.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Elena|Elena]]; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Dniepras; mentioned_place: Mogiliavas; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -42,23 +40,8 @@ Nenurodyta
 - t-002
   global_id: t-88257
   teiginys: '1503 m. Aleksandro privilegija suteikė karalienei Elenai teisę iki gyvos galvos turėti, naudotis ir ramiai valdyti Mogiliavo pilį su priklausiniais.'
-  sudarymo_pagrindimas: 'Citata pagrindžia konkrečią privilegijos suteiktą teisę ir jos trukmę.'
-  susije_objektai: 'llm_object: Mogiliavas; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Mogiliavas; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Merkinė; mentioned_place: Polockas; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Vroclavas'
-  temporaliniai_duomenys: 'įvykio data: 1503 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia konkrečią privilegijos suteiktą teisę ir jos trukmę.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 703717-706849; hash=0a28ab93d71933b597c07ea3f86f8eba22ff7375ecaefaf11a4bead81c3896f9; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Elena (vyskupas, XV–XVI a.): 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mogiliavas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Mogiliavo pilis buvo dovanojama Elenai iki gyvos galvos.
 
 ## Reikšmingi paminėjimai
 
@@ -128,7 +111,6 @@ Nenurodyta
     dum, tenendum, utifruendum pacifice, et quiete possidendum,
     sicut expressum est ad tempora vitae suae.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -164,7 +146,6 @@ Nenurodyta
     taro, Vilniaus prepozito ir Vroclavo scholasto, garbingojo
     Erazmo, dalyvavusio sprendime, ranka.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

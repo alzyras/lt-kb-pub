@@ -46,11 +46,6 @@ Nenurodyta
 - t-001
   global_id: t-101534
   teiginys: '1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.'
-  sudarymo_pagrindimas: 'Sakinys pilnas ir aiškiai susieja mitingą su paminklo vieta.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tropas|Tropas]]'
-  temporaliniai_duomenys: 'įvykio data: 1987 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys pilnas ir aiškiai susieja mitingą su paminklo vieta.'
   pagrindžia:
     - c-001
 
@@ -66,7 +61,6 @@ Nenurodyta
     tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus
     paminklo Vilniuje surengtas protesto mitingas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -84,7 +78,6 @@ Nenurodyta
     ves, nepaklusti sovietų primestai santvarkai, o atėjus metui – kovoti ir dėl
     savo nepriklausomybės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

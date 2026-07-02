@@ -20,56 +20,22 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
 - t-001
   global_id: t-30981
   teiginys: 'Simonas Grunau rodyklėje nurodytas kaip kronikininkas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Simonas Grunau|Simonas Grunau]]; mentioned_author: [[objektai/autoriai/Guagnini|Guagnini]]; mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_person: [[objektai/asmenys/Guillaume de Machaut|Guillaume de Machaut]]; mentioned_place: Baltarusija; mentioned_place: Grenoblis; mentioned_place: Gudija; mentioned_place: Gumbinė'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=07f78f655f8fdc30e305f28953ddd62d1d4e78ea14956dc61a275b6df8a4954a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Simonas Grunau: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Simono Grunau: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Simonas Grunau: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Simono Grunau" parinktas kaip owner_note_path. Targetas "Simonas Grunau" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-30982"></a>
 - t-002
   global_id: t-30982
   teiginys: 'Simonas Grunau paskelbė pagonių rašmenis, kuriuos kiti iki XX a. pradžios nekritiškai kartojo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Simonas Grunau|Simonas Grunau]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6ba4b9574c351f79ca3fe02ce14f00f08666db82211fbe47616b0c17fddc36b3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Simonas Grunau: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Simono Grunau: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Simonas Grunau: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Simono Grunau" parinktas kaip owner_note_path. Targetas "Simonas Grunau" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-30983"></a>
 - t-003
   global_id: t-30983
   teiginys: 'Simonas Grunau pirmasis įvedė pavadinimą „Criwe-Kirwaito“.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Simonas Grunau|Simonas Grunau]]; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c853f3b10a8bf33aaca91d00a5ddf684937cf1a470e5bf5d1ba1e849df0ac565; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Simonas Grunau: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Simono Grunau: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Simonas Grunau: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Simono Grunau" parinktas kaip owner_note_path. Targetas "Simonas Grunau" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-183568|Simonas Grunau]]: Simono Grunau kronikoje Rikojotas aprašytas kaip prūsų dievų kulto centras su žaliuojančiu ąžuolu, šventykla ir trimis dievų stabais.
 - susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-64053|Simonas Grunau]]: Simonas Grunau kronikoje Rikojotą aprašė kaip prūsų dievų kulto centrą su žaliuojančiu ąžuolu ir trimis dievų stabais.
 - susijęs iš [[objektai/autoriai/Henneberger.md#claim-t-88024|Henneberger]]: Hennebergeris nurodytas tarp vėlesnių kronikininkų, perėmusių pasakojimą iš Simono Grunau kronikos.
@@ -97,7 +63,6 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
     reikšti pasižymėjusio žynio, ar burtininko tikrinį vardą (A. Mierzyń­
     ski).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -113,7 +78,6 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
     XVI amž. fantasto kronikininko Simono Grunau paskelbti pagonių
     rašmens, kuriuos kiti iki XX amž. pradžios nekritiškai kartojo^2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -160,7 +124,6 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
     Guogų-Piliuonos piliakalnis 76
     Habsburgai 32, 83, 239, 284, 289,
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

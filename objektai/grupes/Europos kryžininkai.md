@@ -29,24 +29,8 @@ Vilniui bemat jos prirei­ kė, nes kitais, 1392, metais Europos riteriai taisė
 - t-001
   global_id: t-86725
   teiginys: '1392 m. Europos kryžininkai rengė didesnį žygį į Lietuvą.'
-  sudarymo_pagrindimas: 'Pašalinti fragmentai ir paliktas citatos remiamas faktas.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilija; mentioned_place: Vilniaus pilys; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Europos kryžininkai|Europos kryžininkai]] surengė žygį į Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1392 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalinti fragmentai ir paliktas citatos remiamas faktas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 286051-287228; hash=5a0ecd5ad666adb724e6613c58300dc8023da6a59c66b1a320d92ead2785ebbe; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Europos kryžininkai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Europos kryžininkai rengė žygį į Lietuvą.
 
 ## Reikšmingi paminėjimai
 
@@ -81,7 +65,6 @@ Vilniui bemat jos prirei­ kė, nes kitais, 1392, metais Europos riteriai taisė
     ninkų pulkus, pasišovusius traukti į vargų prispaustą
     Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

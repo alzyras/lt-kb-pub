@@ -28,97 +28,41 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
 - t-001
   global_id: t-58298
   teiginys: 'Bartos žemėje Vokiečių ordino broliai pastatė Bartenšteino, Vizenburgo ir Rezlio pilis.'
-  sudarymo_pagrindimas: 'Pradinis teiginys perkrautas ir prasideda boilerplate; citata tiesiogiai pagrindžia statybos faktą.'
-  susije_objektai: 'mentioned_place: Rezlis; mentioned_place: Vizenburgas; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Barta; mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Kroicburgas; mentioned_place: Notanga; mentioned_place: Varmė; llm_object: Bartenšteinas; llm_object: Rezlis; llm_object: Vizenburgas'
-  semantiniai_rysiai: '[[objektai/grupes/Vokiečiai|Vokiečiai]] pastatė Bartenšteinas'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=447fe9f4904e887a434e0e4261eb86f4a1aad3cdde810d46043c521b487aa189; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartenšteinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartenšteinas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58299"></a>
 - t-002
   global_id: t-58299
   teiginys: 'Pasak Dusburgiečio, per antrąjį prūsų sukilimą Bartenšteinas buvo vienas iš pilių ir miestų karų pasakojimo centrų.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir su konteksto nuotrupomis; citata remia apibendrintą teiginį apie pasakojimo vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0ff1b4606a90282dde5d0142ad22ec902cc6d304d1f31aa39487265b3d5e0d91; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartenšteinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartenšteinas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58300"></a>
 - t-003
   global_id: t-58300
   teiginys: 'Sūduviai apsiautė Bartenšteino pilį, ją sugriovė, gyventojus išžudė arba išsivarė į nelaisvę ir pilį sudegino.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata pagrindžia pilną sakinį apie Bartenšteino sugriovimą.'
-  susije_objektai: 'llm_object: Bartenšteinas; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]'
-  semantiniai_rysiai: '[[objektai/grupes/Sūduviai|Sūduviai]] apgulė Bartenšteinas'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 270742-271464; hash=205f3d5347afa04cbf084ca421535fde44b4e31b54b6728b5d74b3462b0ce3fd; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Bartenšteinas: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Bartenšteinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekste nurodyta, kad Vokiečių ordino broliai pastatė Bartenšteino pilį; kandidatas normalizuotas į Vokiečių grupę.
 
 <a id="claim-t-58301"></a>
 - t-004
   global_id: t-58301
   teiginys: 'Bartenšteino pilyje buvo apsupta 400 brolių ir ginklanešių, o prūsai aplink pilį įrengė tris kuorus su 1300 karių.'
-  sudarymo_pagrindimas: 'Teiginys gramatiškas ir atitinka citatos duomenis apie apsuptį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 272650-272811; hash=e8237704de4bbc424f897cc89ef2fd50171eebe0bdd241e025718b3fb7a1d6c9; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-58302"></a>
 - t-005
   global_id: t-58302
   teiginys: 'Po to broliai atstatė Bartenšteino pilį, kur gyvena po šiai dienai.'
-  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_place: Pilėnai'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=11033f542a2aaab98076dcc3dee0e6cde26f867a3946e7b190e2ae656e43b5e4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bartenšteinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuorai: mention_match, thing, gap=93
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bartenšteinas" parinktas kaip owner_note_path. Targetas "Kuorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58303"></a>
 - t-006
   global_id: t-58303
   teiginys: 'Bartenšteinas buvo Alnos upės kairiajame krante, o pilies kalnas stovėjo miesto šiaurinėje dalyje.'
-  sudarymo_pagrindimas: 'Sakinys pilnas, faktinis ir paremtas vietos aprašu.'
   pagrindžia:
     - c-001
 
@@ -126,20 +70,8 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
 - t-007
   global_id: t-58305
   teiginys: 'Dusburgietis pasakoja, kad apgultame Bartenšteine nebegalėję priešintis kryžiuočiai Dievo buvo pamokyti bėgti paliekant pilį.'
-  sudarymo_pagrindimas: 'Tai kronikos pasakojimas apie stebuklinį aiškinimą, todėl reikia autoriaus atribucijos ir taisyklingos formuluotės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6b129236c6eb174dba5a725463605faf66eef8541c83c640a28b985efe4befab; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: apgule -> Bartenšteinas: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Bartenšteinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad sūduviai apsiautė Bartenšteino pilį.
 - susijęs iš [[objektai/ivykiai/Antrasis Bartenšteino pilies sugriovimas.md#claim-t-62195|Antrasis Bartenšteino pilies sugriovimas (pilis)]]: Sūduviai staiga apsiautė Bartenšteino pilį, sugriovė ją, gyventojus išžudė arba išsivarė į nelaisvę ir pilį pavertė pelenais.
 - susijęs iš [[objektai/asmenys/Miligedas.md#claim-t-60173|Miligedas]]: Miligedas nukovė savo iššaukėją, paspruko į mišką ir slaptais keliais sugrįžo į Bartenšteino pilį.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89237|Sūduviai]]: Sūduviai su didele kariuomene apsiautė Bartenšteino pilį, ją sugriovė, o visus gyventojus išžudė arba išsivarė į nelaisvę.
@@ -294,13 +226,11 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     256 Bartenšteinas (dab. Bartošicė; vardo pagrindą sudaro prūsų—bartų vardas) Alnos
     (dab. Lynos) upės kairiajame krante. Pilies kalnas — miesto šiaurinėje dalyje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-- c-002
+    - t-006- c-002
   santrauka: 'Dusburgietis pasakoja, kad apgultame Bartenšteine nebegalėję priešintis kryžiuočiai Dievo buvo pamokyti bėgti paliekant pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -308,13 +238,11 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     juos pamokęs bėgti paliekant pilį (III, 121). Kitąkart mūšio metu danguje pasirodžiusi
     mergelė Marija  (III, 141).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-- c-003
+    - t-007- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Bartenšteino pilies puolimą
@@ -325,14 +253,12 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
 
     MGP, p. 50).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-    - t-009
-- c-004
+    - t-009- c-004
   santrauka: 'Sūduviai apsiautė Bartenšteino pilį, ją sugriovė, gyventojus išžudė arba išsivarė į nelaisvę ir pilį sudegino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -348,13 +274,11 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
 
           174 (169).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-- c-005
+    - t-003- c-005
   santrauka: 'Po to broliai atstatė Bartenšteino pilį, kur gyvena po šiai dienai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -368,13 +292,11 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
 
          175 (170).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-- c-006
+    - t-005- c-006
   santrauka: 'Pasak Dusburgiečio, per antrąjį prūsų sukilimą Bartenšteinas buvo vienas iš pilių ir miestų karų pasakojimo centrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -386,13 +308,11 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     „karų neras aprašytų tokia seka, kokia jie yra vykę, nes daugelis jau išgaravo iš gyvųjų
     atminties ir vargu ar kas galėtų juos tinkamai išdėstyti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-- c-007
+    - t-002- c-007
   santrauka: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -407,14 +327,12 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta
     daug brolių ir ginklanešių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-    - t-001
-- c-008
+    - t-001- c-008
   santrauka: 'Po to broliai atstatė Bartenšteino pilį, kur gyvena po šiai dienai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -424,7 +342,6 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     ir nukovė daugiau nei du tūkstančius priešo karių. Po to broliai atstatė Bartenšteino pilį,
     kur gyvena po šiai dienai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -18,24 +18,8 @@ Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykus
 - t-001
   global_id: t-186193
   teiginys: 'Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykusį tėvą ir padėjo jam grįžti į Lietuvą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie Danutės veiksmą, bet pradiniame teiginyje yra neaiškūs įvardžiai ir per daug detalių.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; llm_object: Mazovija'
-  semantiniai_rysiai: '[[objektai/asmenys/Danutė|Danutė]] gyveno Mazovija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 424664-425394; hash=b80eb5be4f3dcd664e8784eb93c5e79fda7b6a4f0dbf0de6ee03770e2b331a4a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Mazovija: 0.66
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Danutė: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Danutė įvardyta Mazovijos kunigaikščio žmona ir atpažįsta tėvą Mazovijoje, bet gyvenimas ten išvedamas netiesiogiai.
 
 <a id="claim-t-188520"></a>
 - t-002
@@ -45,16 +29,6 @@ Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykus
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 268228-268748; hash=110703b1dc4e04d6b8640df45d1cf9d9ece6836884f9840c876cc2ee541d913f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_dukte -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Danutė: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citatos kontekste Kęstutis turėjo dukterį Danutę, todėl Danutė siejama kaip Kęstučio duktė.
 - susijęs iš Naujieji Trakai: Narbutas pasakojo, kad Kęstutis Birutę prieš jos valią išsivežė į Naujuosius Trakus ir ten vedė kaip žmoną.
 ## Reikšmingi paminėjimai
 - c-001
@@ -77,13 +51,11 @@ Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykus
     brolius kunigaikščius ir visą
     tautą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas Danutę mini kaip Kęstučio ir jo žmonos dukterį, gimusią kartu su sūnumis Patriku, Vytautu, Tautvilu ir Sigailu, arba Žygimantu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -97,10 +69,8 @@ Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykus
     Sigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­
     nė, būdama gyva, garsėjo savo kilniaširdiškumu.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

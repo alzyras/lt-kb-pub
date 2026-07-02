@@ -20,20 +20,8 @@ Marcinkevičių ir dar vieną rusą karininką.
 - t-001
   global_id: t-39596
   teiginys: 'Leitenantas Marcinkevičius buvo vienas iš trijų NKGB dalinio vadų, kuriuos nukovė Tigras.'
-  sudarymo_pagrindimas: 'Citata palaiko Marcinkevičiaus laipsnį, vaidmenį ir žūties aplinkybę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKGB|NKGB]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 956447-956630; hash=2c94e47751073f8a640d1f3c1820e2c2a6b5b42a50b721898ffb216ea01cfdab; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> NKGB: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Marcinkevičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: NKGB: mention_match, group, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Marcinkevičius" parinktas kaip owner_note_path. Targetas "NKGB" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Tigras.md#claim-t-40465|Tigras]]: Tigras pirmaisiais šūviais nukovė tris buvusius NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir rusą karininką.
 - susijęs iš [[objektai/asmenys/Algimantas Marcinkevičius.md#claim-t-78042|Algimantas Marcinkevičius]]: Algimantas Marcinkevičius šaltinyje siejamas su Lietuvos kardiochirurgijos mokykla.
 - susijęs iš [[objektai/asmenys/Tigras.md#claim-t-40465|Tigras]]: Tigras pirmaisiais šūviais nukovė tris buvusius NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir rusą karininką.
@@ -63,7 +51,6 @@ Marcinkevičių ir dar vieną rusą karininką.
     tris NKGB dalinio buvusius vadus: kpt. Kruglovą, leit. Marcinkevičių ir dar vieną rusą
     karininką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

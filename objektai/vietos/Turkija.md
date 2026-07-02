@@ -28,11 +28,6 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
 - t-001
   global_id: t-170860
   teiginys: 'Davido Sucheto protėviai Suchedowitzai emigravo per Turkiją į Pietų Afrikos Respubliką.'
-  sudarymo_pagrindimas: 'Pradinis tekstas yra retorinis ir ne enciklopedinis, bet citata palaiko konkretų faktą apie Turkiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Afrika; mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_person: [[objektai/asmenys/Chaim Soutin|Chaim Soutin]]; mentioned_person: [[objektai/asmenys/Jascha Heifetz|Jascha Heifetz]]; mentioned_place: Europa; mentioned_place: Tryškiai; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1901 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra retorinis ir ne enciklopedinis, bet citata palaiko konkretų faktą apie Turkiją.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Asianas Abrahimovičius.md#claim-t-87628|Asianas Abrahimovičius]]: Asianas Abrahimovičius buvo paskirtas vertėju Turkijos imperatoriaus čiaušui Ibrahimui, kuriam leista kurį laiką gyventi Vilniuje.
@@ -101,7 +96,6 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
     ne tik dailininkai Stasys Kuzma ar Petras Repšys, bet ir Vakaruose garsūs
     Chaim Soutin (Chaimas Sutinas), Jacques Lipchitz (Žakas Lipšicas) ar
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

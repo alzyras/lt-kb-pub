@@ -28,23 +28,8 @@ Smetona stengėsi laikytis „vidurainės [A.
 - t-001
   global_id: t-26349
   teiginys: 'A. Smetona „viduraine linija“ vadino siekį užsienio politikoje nesusisieti su konkrečia valstybe ar jų grupe.'
-  sudarymo_pagrindimas: 'Perrašyta pašalinant redakcinį triukšmą ir aiškiau nurodant termino prasmę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1928 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Perrašyta pašalinant redakcinį triukšmą ir aiškiau nurodant termino prasmę.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3140f376936d609d958ea3b63fdc89e8bfddca2ff43630058548b2ccca3beabc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Smetona: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „vidurainės [A. Smetonos terminas – Red.] linijos“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„vidurainės [A. Smetonos terminas – Red.] linijos“" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-77996|A. Voldemaras]]: A. Voldemaras Vilniaus klausimo sprendimą siejo su Maskva ir Berlynu, todėl ieškojo SSRS paramos prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78002|A. Voldemaras]]: A. Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75770|Augustinas Voldemaras]]: Augustinas Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras.
@@ -71,7 +56,6 @@ Smetona stengėsi laikytis „vidurainės [A.
     159
     Lenkiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

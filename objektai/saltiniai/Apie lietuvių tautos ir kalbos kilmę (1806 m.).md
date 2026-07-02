@@ -25,9 +25,6 @@ Ks. Bauža 1806 m. išleido knygą „Apie lietuvių tautos ir kalbos kilmę“,
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 912899-913134; hash=75890c2c46ae1809b397effecc31bfb0134109e565336c8d010c5a2a1c4db979; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-67359"></a>
 - t-002
   global_id: t-67359
@@ -36,9 +33,6 @@ Ks. Bauža 1806 m. išleido knygą „Apie lietuvių tautos ir kalbos kilmę“,
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=72e4843424355a0963035d0a65eba911ac964049eba13297b0c7a82fb9651a4f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -53,13 +47,10 @@ Ks. Bauža 1806 m. išleido knygą „Apie lietuvių tautos ir kalbos kilmę“,
     ir atskira knyga — „Apie lietuvių tautos ir kalbos kilmę"
     (1806 m.), kurioje ragina gelbėti lietuvybę.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Veikale „Apie lietuvių tautos ir kalbos kilmę“ siūloma įsteigti lietuvių kalbą mokančią draugiją, kuri rinktų tautosaką, senienas ir leistų lietuviškas knygas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -70,9 +61,7 @@ Ks. Bauža 1806 m. išleido knygą „Apie lietuvių tautos ir kalbos kilmę“,
     senoliai buvę Romos nukariautojai geruliai ir kad senovėje jie tu-
     rėję didelę literatūrą, kuri žuvusi dėl nelemtų istorinių aplinkybių.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

@@ -27,8 +27,6 @@ Vartojamos formos: `meldžionis`.
 - t-001
   global_id: t-07679
   teiginys: 'Meldžionys Daukanto aiškinime atėjo iš Teutonijos į Žemaičius, Parusius ir Žemgalius krikštydami kardu.'
-  sudarymo_pagrindimas: 'Citata nepalaiko vienuolių apibrėžimo, bet palaiko veiksmų ir kilmės teiginį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_group: [[objektai/grupes/Parusėnai|Parusėnai]]'
   pagrindžia:
     - c-001
 
@@ -36,8 +34,6 @@ Vartojamos formos: `meldžionis`.
 - t-002
   global_id: t-07680
   teiginys: 'Meldžionis aiškinamas kaip žodis, kilęs nuo veiksmažodžio melsti.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo žodžio kilmės aiškinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Parusėnai|Parusėnai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]'
   pagrindžia:
     - c-001
 
@@ -53,7 +49,6 @@ Vartojamos formos: `meldžionis`.
         numirėlius laidojo, už šventus turėjo, tardami, jog mirusiųjų nereikią kušinti, kaip jei pavargusiųjų
         keleivių miegančių budinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

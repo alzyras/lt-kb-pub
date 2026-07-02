@@ -31,23 +31,8 @@ amziai:
 - t-001
   global_id: t-86629
   teiginys: '1552 m. Vilniaus miesto valdžia su piliečiais sudarė Wielkierz, teismo proceso tvarką pagal Magdeburgo teisę.'
-  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išvalytas, paliekant pagrindinį faktą apie terminą.'
-  susije_objektai: 'mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1552 m.; įvykio data: 1815 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir išvalytas, paliekant pagrindinį faktą apie terminą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 557535-558374; hash=4689e4bc99e1fca17c363f182c3cf02d21b6c3050962d2cc4d7779abdb558f1a; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Wielkierz Wilkirz Willkühren: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Wielkierz Wilkirz Willkühren" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -77,7 +62,6 @@ amziai:
     IV  KNYGA
     pavedė bet kokia teise paklusti magistratui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

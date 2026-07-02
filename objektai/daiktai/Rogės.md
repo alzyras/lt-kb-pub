@@ -43,20 +43,13 @@ Nenurodyta
 - t-001
   global_id: t-08324
   teiginys: 'Žiemą važiuodavo važiuose, taip vadinamose rogėse, o ką vežė, tą vežė rogėse ir šlajose.'
-  teiginio_tipas: 'faktas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 70662-70887; hash=b3b7870ed51e26bc74586b1a6c4ba0750c4a2952d039950b80a8605e5ba7140f; match=exact
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
 
 <a id="claim-t-186847"></a>
 - t-002
   global_id: t-186847
   teiginys: 'Lietuvos metraščio pasakojime Moldavijos vaivada Steponas, skaudant kojai, įsakė vežti save rogėse ir atvyko su savo žmonėmis.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pašalintas pasikartojimas, palikta šaltiniui priskirta kronikos scena apie roges.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Moldavija'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/daiktai/Ragučio šventės stabas ant rogių.md#claim-t-189742|Ragučio šventės stabas ant rogių]]: Narbutas rašo, kad Ragučio stabas ar keistas jo atvaizdas per vasario mėnesio šventę buvo vežiojamas rogėmis iš kaimo į kaimą.
@@ -71,7 +64,6 @@ Nenurodyta
     Žiemos laiku, kaip sakiau, važiavo važiuose, taip vadinamose rogėse, nuo žodžio važiuoti, šunį įkinkę dėl to, jog šuo per visų didžiausias tankmes galėjo
         perlįsti, o grįžtant namus atsekti; jei ką vežė, tad rogėse ir šlajose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -98,7 +90,6 @@ Nenurodyta
     Kai karalius perėjo miškus ir Bukoviną, Moldavijos
     vaivada su visais savo žmonėmis pasuko atgalios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

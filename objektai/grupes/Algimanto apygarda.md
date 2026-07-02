@@ -30,11 +30,6 @@ amziai:
 - t-001
   global_id: t-78161
   teiginys: 'Antanas Slučka-Šarūnas, Algimanto apygardos vadas, žuvo susisprogdinus partizanams kartu su žmona ir dar vienu partizanu.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas; citata palaiko sakinį apie apygardos vadą ir jo žūtį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Pasvalys; mentioned_place: Salos; mentioned_place: Subačius'
-  temporaliniai_duomenys: 'įvykio data: 1945 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas; citata palaiko sakinį apie apygardos vadą ir jo žūtį.'
   pagrindžia:
     - c-002
 
@@ -42,24 +37,8 @@ amziai:
 - t-002
   global_id: t-78162
   teiginys: '1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai, o per Šimonių girios apgultį žuvo beveik visa apygardos vadovybė.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata apie 1949 m. įvykius.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Šimonių girios apgultis|Šimonių girios apgultis]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/daiktai/Partizanų bunkeriai|Partizanų bunkeriai]]; mentioned_person: [[objektai/asmenys/Vaižgantas|Vaižgantas]]; mentioned_place: Viena; llm_object: [[objektai/ivykiai/Šimonių girios apgultis|Šimonių girios apgultis]]'
-  semantiniai_rysiai: '[[objektai/grupes/Algimanto apygarda|Algimanto apygarda]] dalyvavo mūšyje [[objektai/ivykiai/Šimonių girios apgultis|Šimonių girios apgultis]]'
-  temporaliniai_duomenys: 'įvykio data: 1949 m.; įvykio data: 1950 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata apie 1949 m. įvykius.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1013097-1013802; hash=29a9f329219cbdddc25eca140ea15d298c3d01d247f3fc16e683905a6a7527ba; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Šimonių girios apgultis: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algimanto apygarda: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Šimonių girios apgultis: llm_allowed_candidate, event
-  ryšio_paaiskinimas: Claimas nurodo, kad per Šimonių girios apgultį žuvo apygardos vadovybė, todėl apygarda tiesiogiai siejama su šiuo įvykiu.
 - susijęs iš [[objektai/grupes/Kunigaikščio Margio rinktinė.md#claim-t-40958|Kunigaikščio Margio rinktinė]]: 1950 m. lapkričio 25 d. likę Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.
 - susijęs iš [[objektai/grupes/Tumo Vaižganto rinktinė.md#claim-t-41183|Tumo Vaižganto rinktinė]]: 1950 m. lapkričio 25 d. Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.
 - susijęs iš [[objektai/grupes/Vytauto apygarda.md#claim-t-41200|Vytauto apygarda]]: 1950 m. lapkričio 25 d. panaikinus Algimanto apygardą, Šarūno ir Kunigaikščio Margio rinktinių kovotojai įtraukti į Vytauto apygardą.
@@ -90,7 +69,6 @@ amziai:
     rinktinę ir įtraukti į Vytauto, o Žaliosios
     rinktinės kovotojai - į Vyčio apygardas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -127,7 +105,6 @@ amziai:
     es mal 2 TS apygarda Južintai | / | 5 Silenėo SKILVONIŲ MUSIS
     = ox Subačius ied : a X ; A 1945 m. vasario 17 d. į Panevėžio aps.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

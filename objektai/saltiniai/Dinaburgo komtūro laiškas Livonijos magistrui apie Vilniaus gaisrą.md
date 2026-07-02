@@ -29,46 +29,20 @@ amziai:
 - t-001
   global_id: t-88181
   teiginys: 'Dinaburgo komtūro laiške pranešta, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.'
-  sudarymo_pagrindimas: 'Atsisakyta silpnos pastabos ir panaudotas citatoje esantis turiningas pranešimas.'
-  susije_objektai: 'mentioned_place: Dinaburgas; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b303dae088ab320f689f78a9fd201e7cedc02d320ee68cf159d881c523fc28cd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dinaburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Dinaburgas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą" parinktas kaip owner_note_path. Targetas "Dinaburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-88182"></a>
 - t-002
   global_id: t-88182
   teiginys: 'Dinaburgo komtūro laiške teigiama, kad Vilniaus gaisras Vytautui padarė nuostolių už 60 000 sidabro luitų.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys aiškiai susietas su laišku.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Dinaburgas; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 365809-366972; hash=12ee3f56ed56a41ba43c7b5e6d80e1bcd9cd0db3079a8f7ae0ea6ac9a591fcb2; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dinaburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Dinaburgas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą" parinktas kaip owner_note_path. Targetas "Dinaburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-88184"></a>
 - t-003
   global_id: t-88184
   teiginys: 'Dinaburgo komtūras Livonijos magistrui pranešė apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius.'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi puslapio numerio triukšmo; citata leidžia suformuluoti pilną sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Dinaburgas; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_place: Liksna'
   pagrindžia:
     - c-001
 
@@ -86,7 +60,6 @@ amziai:
     penktadienį prieš Šv. Gertrūdą (kovo 17-ą). Be metų (tik­
     riausiai 1399).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -126,7 +99,6 @@ amziai:
     ka eržilų, be kitų žirgų ir gyvulių arklidėse, kur būtent užsi­
     plieskė ugnis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -146,7 +118,6 @@ amziai:
     Dr. Hennigas
     Karai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

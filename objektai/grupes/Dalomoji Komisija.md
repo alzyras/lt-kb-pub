@@ -27,62 +27,22 @@ amziai:
 - t-001
   global_id: t-72054
   teiginys: 'Lietuvoje ir Lenkijoje buvo sudarytos atskiros Dalomosios Komisijos turto dalybų darbui atlikti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Lenkija; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Dalomoji Komisija|Dalomoji Komisija]] gyveno Lietuva; [[objektai/grupes/Dalomoji Komisija|Dalomoji Komisija]] gyveno Lenkija'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e42b406c25c8d35ccf726e844251606602f8e39b2f141054b4e823fe16307619; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Lenkija: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Dalomoji Komisija: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas nurodo, kad atskira Dalomoji Komisija buvo sudaryta Lenkijoje; tai institucijos veikimo vieta.
 
 <a id="claim-t-72055"></a>
 - t-002
   global_id: t-72055
   teiginys: 'Dalomosios Komisijos pigiai dalijo dvarus savo artimiesiems ir pasisavindavo pinigus.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, bet teiginį reikia sušvelninti į enciklopedinę formą.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c41ec7f52805bcf490f5fcd7392784dac150e569c8838e419f1a554cb1f2d0a7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dalomoji Komisija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dalomoji Komisija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-182886"></a>
 - t-003
   global_id: t-182886
   teiginys: 'Lietuvoje ir Lenkijoje buvusiems jėzuitų dvarams išnuomoti buvo sudarytos atskiros Dalomosios Komisijos.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Originale yra neaiškus įvardis, todėl reikia įvardyti darbą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Lenkija; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Dalomoji Komisija|Dalomoji Komisija]] gyveno Lietuva; [[objektai/grupes/Dalomoji Komisija|Dalomoji Komisija]] gyveno Lenkija'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 849454-849775; hash=b5c9916d21753ada70910622832b071dc0daf440030627be316d3b914e7107d7; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Lenkija: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Dalomoji Komisija: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas nurodo, kad atskira Dalomoji Komisija buvo sudaryta Lenkijoje; tai institucijos veikimo vieta.
 
 ## Reikšmingi paminėjimai
 
@@ -98,7 +58,6 @@ amziai:
     biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tie-
     siog vagia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -118,7 +77,6 @@ amziai:
     atskirą Dalomąją
     Komisiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -142,7 +100,6 @@ amziai:
     mučiausia ėjo Lietuvos
     mokyklų reikalams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

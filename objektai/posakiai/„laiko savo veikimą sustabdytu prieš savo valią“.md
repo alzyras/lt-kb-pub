@@ -26,15 +26,8 @@ Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdy
 - t-001
   global_id: t-77848
   teiginys: 'Naciams 1941 m. rugpjūčio 5 d. uždraudus LV veiklą, J. Ambrazevičius konstatavo, kad vyriausybė veikimą sustabdė prieš savo valią.'
-  sudarymo_pagrindimas: 'Išplėstas kontekstas ir pašalinta fragmentiška citatos konstrukcija.'
-  temporaliniai_duomenys: 'įvykio data: 1941 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Išplėstas kontekstas ir pašalinta fragmentiška citatos konstrukcija.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 399361-399907; hash=b885d3b8e3e9f026ef672249e1e2d2fe934a2aec801c0f7d2b0b95086a03c2be; match=whitespace_regex
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/autoriai/Juozas Ambrazevičius.md#claim-t-183343|Juozas Ambrazevičius]]: Juozas Ambrazevičius konstatavo, kad vyriausybė savo veikimą sustabdė prieš savo valią.
 - susijęs iš J. Ambrazevičiaus pareiškimas dėl Laikinosios vyriausybės veikimo sustabdymo: J. Ambrazevičius konstatavo, kad Laikinoji vyriausybė savo veikimą sustabdė prieš savo valią.
 ## Reikšmingi paminėjimai
@@ -52,7 +45,6 @@ Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdy
     mininkui J. Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo
     veikimą sustabdytu prieš savo valią“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

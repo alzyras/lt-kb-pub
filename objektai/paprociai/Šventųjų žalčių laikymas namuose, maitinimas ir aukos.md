@@ -36,9 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 345040-345455; hash=24609bdecb18f208f6520fbf5db183238124ef0ae7a6aae682eb5bc2c6b195fb; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-189792"></a>
 - t-002
   global_id: t-189792
@@ -47,16 +44,6 @@ Nenurodyta
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 345887-346424; hash=194dc360823c32b30125535c60747cd6c656868448726497ab9d0a59d5785f2a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Egiptiečiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventųjų žalčių laikymas namuose, maitinimas ir aukos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Egiptiečiai: mention_match, group, gap=88
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventųjų žalčių laikymas namuose, maitinimas ir aukos" parinktas kaip owner_note_path. Targetas "Egiptiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-189793"></a>
 - t-003
   global_id: t-189793
@@ -65,16 +52,6 @@ Nenurodyta
     - c-003
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 346573-346845; hash=6464f177c0e24d457c828c1ba500069a94649a4f2217c4dad9e07f7ee9770873; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventųjų žalčių laikymas namuose, maitinimas ir aukos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventųjų žalčių laikymas namuose, maitinimas ir aukos" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -90,13 +67,10 @@ Nenurodyta
     ėda. Tie žalčiai esą juodi, gražiomis geltonomis akimis; jokių
     nuodų jie neturi, nors ir įkąstų.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas žalčių garbinimą senovėje vaizdavo kaip visuotinį reiškinį, minėdamas indus, chaldėjus, egiptiečius, persus, graikus, romėnus ir kitas tautas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -110,13 +84,10 @@ Nenurodyta
     vo Bakcho garbei. Romėnai turėjo dievaitį Famulą, kuris žmo­
     nėms apsireikšdavo žalčiu.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
+    - t-002- c-003
   santrauka: 'Narbutas nurodo, kad lietuviai turėjo daug pasakojimų ir padavimų apie žalčius, siejamų su žalčio protingumo ir nemarumo vaizdiniais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -131,9 +102,7 @@ Nenurodyta
     Lietuviai turi apie žalčius daugybę pasakojimų ir padavimų,
     kuriuos visus čia išpasakoti reikėtų daug laiko.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003

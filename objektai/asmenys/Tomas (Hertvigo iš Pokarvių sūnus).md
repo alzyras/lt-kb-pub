@@ -30,24 +30,8 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - t-001
   global_id: t-60446
   teiginys: 'Kronikoje pasakojama, kad 1322 m. Brandenburgo pilyje ketverių metų Tomas, Hertvigo iš Pokarvių sūnus, mirė ir atgijo per Viešpaties kryžiaus atskalą.'
-  sudarymo_pagrindimas: 'Stebuklinį pasakojimą geriau pateikti su šaltinio pobūdį rodančia atribucija.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Hertvigas|Hertvigas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/atskala|atskala]]; mentioned_person: [[objektai/asmenys/Gebhardas iš Manstfeldo|Gebhardas iš Manstfeldo]]; mentioned_person: [[objektai/asmenys/Hertvigas|Hertvigas]]; mentioned_person: [[objektai/asmenys/Flekenšteinas|Flekenšteinas]]; mentioned_person: [[objektai/asmenys/Gebhardas|Gebhardas]]; mentioned_place: Prūsija; mentioned_place: Reinas; mentioned_place: Viena; llm_object: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]] buvo sūnus [[objektai/asmenys/Hertvigas|Hertvigas]]; [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]] mirė Prūsija'
-  temporaliniai_duomenys: 'įvykio data: 1322 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Stebuklinį pasakojimą geriau pateikti su šaltinio pobūdį rodančia atribucija.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=170184d254c172318f9087ca3d80f94072f96e9d51ad620c69202cd657c943cb; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Hertvigas: 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Tomas (Hertvigo iš Pokarvių sūnus): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Hertvigas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Tomas buvo Hertvigo sūnus.
 - susijęs iš [[objektai/autoriai/A. Plateris.md#claim-t-30527|A. Plateris]]: A. Plateris parašė straipsnį „Janulaitis mokslininkas“, publikuotą „Lietuvių enciklopedijos“ 9 tome.
 - susijęs iš [[objektai/autoriai/A. Triller.md#claim-t-60668|A. Triller]]: A. Triller kartu su H. Koeppenu parengė „Preussisches Urkundenbuch“ trečio tomo papildymus ir registrą.
 - susijęs iš [[objektai/autoriai/B. Vanagienė.md#claim-t-187795|B. Vanagienė]]: B. Vanagienė parengė Simono Daukanto „Raštų“ pirmo tomo tekstą.
@@ -770,7 +754,6 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 
         123.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

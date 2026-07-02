@@ -19,23 +19,8 @@ Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai a
 - t-001
   global_id: t-185264
   teiginys: 'Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai apie Kopylį ir Petrikovičius nukovė daug skitų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Perrašyta į aiškų sakinį apie Kopylį, pašalinus OCR klaidas ir šaltinio triukšmą.'
-  susije_objektai: 'mentioned_place: Petrikovičiai; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)|Anastazija (Dobrynės kunigaikštienė)]]; mentioned_person: [[objektai/asmenys/Pinas|Pinas]]; mentioned_place: Sluckas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1045832-1046246; hash=39b17f78382f0c6cec8342e30fe97c707c76dfee1653f52c4427b14cb4179202; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Petrikovičiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kopylis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Petrikovičiai: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kopylis" parinktas kaip owner_note_path. Targetas "Petrikovičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Levas (Haličo kunigaikštis).md#claim-t-40306|Levas (Haličo kunigaikštis)]]: Haličo kunigaikštis Levas su totoriais paėmė Naugarduko papilį, bet pati Naugarduko pilis nebuvo paimta.
 - susijęs iš Petrikovičiai: Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai apie Kopylį ir Petrikovičius nukovė daug skitų.
 - susijęs iš Petrikovičiai: Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai apie Kopylį ir Petrikovičius nukovė daug skitų.
@@ -58,7 +43,6 @@ Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai a
     Aleksandras jau buvo beveik
     be žado.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -20,40 +20,15 @@ tags:
 - t-001
   global_id: t-76582
   teiginys: 'Klevanėje tėvoniją sukūrė iš šalutinės Gediminaičių šakos kilę Čartoriskiai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Vyšnioveckiai|Vyšnioveckiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Ostrohas; mentioned_place: Voluinė; llm_object: Klevanė'
-  semantiniai_rysiai: '[[objektai/grupes/Čartoriskiai|Čartoriskiai]] valdė teritoriją Klevanė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c9302fe593d57dc48e2a927d98afd8fc86ec89ce6dd12878cb373b4fcd14a15e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_teritorija -> Klevanė: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Čartoriskiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Klevanė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tėvonijos sukūrimas Klevanėje rodo Čartoriskių valdomą teritorinę atramą, nors santykis išreikštas netiesiogiai.
 
 <a id="claim-t-76583"></a>
 - t-002
   global_id: t-76583
   teiginys: 'Voluinėje Čartoriskiai sukūrė tėvoniją Klevanėje.'
-  sudarymo_pagrindimas: 'Ilgas teiginys sutrumpintas iki aiškaus fakto apie Klevanę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Vyšnioveckiai|Vyšnioveckiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Ostrohas; mentioned_place: Voluinė; llm_object: Klevanė'
-  semantiniai_rysiai: '[[objektai/grupes/Čartoriskiai|Čartoriskiai]] valdė teritoriją Klevanė'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b2b71025f4ae7a5478bbe67d16681ba03846bf2a0861550b621e85ff24acdac3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_teritorija -> Klevanė: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Čartoriskiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Klevanė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje Čartoriskiai siejami su Klevane kaip tėvonijos vieta.
 
 ## Reikšmingi paminėjimai
 
@@ -70,7 +45,6 @@ tags:
     Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų
     atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -94,7 +68,6 @@ tags:
     prastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-
     kos“ kilmės kunigaikščiai Ostrogiškiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

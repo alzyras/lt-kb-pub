@@ -43,20 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87297
   teiginys: 'Rugpjūtį lietuviai prie Vėluvos sudegino šešis kaimus ir nužudė kryžiuotį Fridrichą fon Quitzą su 36 kariais.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie lietuvių antpuolį ir atitinka citatą.'
-  susije_objektai: 'llm_object: Vėluva; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; llm_object: Dobrynė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dobrynė; mentioned_place: Kulmas; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Vėluva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 163610-165932; hash=11dfd33d0a0f41d6e32595d8801f50c61e46d4a43a082d2f08009befeb814321; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Vėluva: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vėluva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai rodo lietuvių žygį iki Vėluvos apylinkių.
 
 ## Reikšmingi paminėjimai
 
@@ -131,7 +119,6 @@ Nenurodyta
     nužudo daug kunigų, ir užimtame Dobrynės mieste žūsta
     apie du tūkstančius gyventojų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

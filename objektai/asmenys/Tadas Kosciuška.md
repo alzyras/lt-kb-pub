@@ -34,8 +34,6 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 - t-001
   global_id: t-82738
   teiginys: 'Tadas Kosciuška gegužės 4 d., spaudžiamas konservatyvių sukilimo vadovybės atstovų, pašalino Jasinskį iš Lietuvos sukilėlių vado pareigų.'
-  sudarymo_pagrindimas: 'Citata nepateikia metų, todėl jų nereikia pridėti.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Lenkija'
   pagrindžia:
     - c-003
 
@@ -43,8 +41,6 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 - t-002
   global_id: t-82740
   teiginys: 'Tadas Kosciuška mėgino gelbėti Lenkijos-Lietuvos valstybę jos žlugimo išvakarėse.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatoje pateiktu vertinimu.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_author: [[objektai/autoriai/Vytautas Berenis|Vytautas Berenis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -52,7 +48,6 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 - t-003
   global_id: t-82741
   teiginys: 'Tadas Kosciuška, norėdamas sukelti valstiečius, leido atsišaukimus, žadėdamas laisvę prisidėjusiems prie sukilimo.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sutvarkyta sakinio pradžia.'
   pagrindžia:
     - c-004
 
@@ -60,7 +55,6 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 - t-004
   global_id: t-82742
   teiginys: 'Tadas Kosciuška pasižymėjo Amerikos nepriklausomybės kovose, buvo Jurgio Vašingtono draugas ir 1794 m. sukilimo vadas.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas vienas aiškus sakinys.'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Mykolas Velhorskis.md#claim-t-40363|Mykolas Velhorskis]]: Iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis pakeitė ankstesnį Lietuvos sukilėlių vadą.
@@ -90,7 +84,6 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
     bajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­
     gimo liudininkas, miesto kultūrinio gyvenimo dalyvis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -107,7 +100,6 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
     limo vadas, 1794—1796 m. Rusų
     belaisvis († 1817 m.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -132,7 +124,6 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
     Kosciuška gegužės 4 d. pašalino Jasinskį iš
     Lietuvos sukilėlių vado pareigų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -150,7 +141,6 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
     kimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę
     (tokių atsišaukimų buvo išleistų ir lietuviškų).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

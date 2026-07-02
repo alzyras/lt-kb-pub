@@ -34,7 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-07810
   teiginys: 'Senieji lietuviai paprastai gėrė vandenį, midų, alų, sulą ir girą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
     - c-002
@@ -48,7 +47,6 @@ Nenurodyta
         kurio ir stiprumas nuo jo žemėj būsenos buvo lykuojamas; alų dar šiandien tūlose vietose senu
         įpročiu tebdairo, o sulą iš beržų ir klevų tebleidžia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -61,7 +59,6 @@ Nenurodyta
         girą iš kaušų ir ragų paauksytų, vadinamų taurėmis ir tauragėmis. Nuo ko, kaip sakiau, iki šiai
         dienai kiekvieną geriamą stotkelį, medžio, molio ar skardos, senu įpročiu taurele tebvadina.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

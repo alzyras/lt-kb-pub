@@ -45,7 +45,6 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 - t-001
   global_id: t-92017
   teiginys: 'Žemaičių jūra siejama su žuvėdų karėmis ir prekybos plėtra.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žuvėdai|Žuvėdai]]'
   pagrindžia:
     - c-005
 
@@ -53,7 +52,6 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 - t-002
   global_id: t-92018
   teiginys: 'Į Žemaičių jūrą tekėjo šiaurinės kalvos įšleitės upės, tarp jų Daugava, Nemunas, Pragaras ir Isla.'
-  sudarymo_pagrindimas: 'Citata leidžia tiksliau įvardyti, kokios upės tekėjo į Žemaičių jūrą.'
   pagrindžia:
     - c-002
 
@@ -61,7 +59,6 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 - t-003
   global_id: t-92020
   teiginys: 'Šią jūrą kai kurie raštininkai vadino Rusų mare.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Rusnė; mentioned_place: Žemaičių kraštas'
   pagrindžia:
     - c-003
 
@@ -76,8 +73,6 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 - t-005
   global_id: t-92022
   teiginys: 'Žemaičių jūra per 1000 metų nuseko kelias uolektis.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/uolektis|uolektis]]'
   pagrindžia:
     - c-001
 
@@ -89,7 +84,6 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
     Žuvėdai^14 turi ant savo uolų ženklus, kurie rodo, jog Žemaičių jūra
         per 1000 metų yra per kelias uolektis nusekusi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,7 +96,6 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
     Taip pat lygia dalia visos upės šiaurinėj įšleitėj nuo tos gi kalvos teka į
         Žemaičių jūrą, tarp kurių didžiosios upės yra: Daugava, Nemunas, Pragaras ir Isla.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -127,7 +120,6 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
         buvusios, kurioje žinyčioj amžina ugnis ant dievo garbės rusėjo, nuo ko ne vien pati sala Rusnės vardą sau gavo, bet dar tūli raštininkai pačią Žemaičių jūrą Rusų mare vadino, o jos pajūrių
         gyventojus rusais, bet tankiau parusiais, arba parusais, beje, pas Rusnę gyvenančiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -138,7 +130,6 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   citata_originali: |
     Šiaurėj, Odinui mirus, nebepasitiko tokio, kurs būt galėjęs visą šiaurę valdyti ir kurio būt klausiusios tautos, šiapus ir anapus Žemaičių jūros gyvenančios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -149,7 +140,6 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   citata_originali: |
     Kad taip šiaurėj ir Žemaičių jūroje audras vertė kariaudami, vienok nuo pietų, nurimus tautoms kita kitą stumdyti, rados pakajus, ir prekyba vėl pradėjo plėstis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

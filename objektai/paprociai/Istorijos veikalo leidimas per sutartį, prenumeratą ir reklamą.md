@@ -48,16 +48,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 96619-96934; hash=608b38a4d6268cea1bee4f038109495fde2a53061c49c625d69f66ff048854c5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Antanas Marcinovskis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Istorijos veikalo leidimas per sutartį, prenumeratą ir reklamą: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Antanas Marcinovskis: mention_match, author, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Istorijos veikalo leidimas per sutartį, prenumeratą ir reklamą" parinktas kaip owner_note_path. Targetas "Antanas Marcinovskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 <a id="claim-t-189796"></a>
 - t-002
   global_id: t-189796
@@ -66,16 +56,6 @@ Nenurodyta
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 97465-97886; hash=707bac882a7d299eb2c6c2788272898558c7a13a7f36f81f19c85749cb56c5a3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Antanas Marcinovskis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Istorijos veikalo leidimas per sutartį, prenumeratą ir reklamą: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Antanas Marcinovskis: mention_match, author, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Istorijos veikalo leidimas per sutartį, prenumeratą ir reklamą" parinktas kaip owner_note_path. Targetas "Antanas Marcinovskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -89,13 +69,10 @@ Nenurodyta
     puikus šios leidėjo akcijos pavyzdys, vadinamasis „Praneši­
     mas“16.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutui artimas literatas A. Marcinovskis suprato „Lietuvių tautos istorijos“ reikšmę ir reklamos tekste veikė ne vien kaip prekiautojas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -107,9 +84,7 @@ Nenurodyta
     naciją -  nepaisydamas tarnyboje prarastos sveikatos, jis „ne­
     manė, kad ganėtinai atidavė skolą visuomenei“.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

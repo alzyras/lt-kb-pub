@@ -26,9 +26,6 @@ Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas 
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b161875d2280b149bed27202b6e450d6c3640e64163b376438bf4aee13e2b1d8; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 <a id="claim-t-67259"></a>
 - t-002
   global_id: t-67259
@@ -37,9 +34,6 @@ Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas 
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=edbef50a12f5694486eb4a912309248a8fbe84b7ba4b99112eeba5be361c2d22; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 <a id="claim-t-67261"></a>
 - t-003
   global_id: t-67261
@@ -48,9 +42,6 @@ Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas 
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1e205d1c86bd6c045dcf4fef4fb99a0b6458e144d3917f74a2e6db312f737d30; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 <a id="claim-t-67263"></a>
 - t-004
   global_id: t-67263
@@ -59,9 +50,6 @@ Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas 
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4a06a61e2fbd4bc942b2fa0b19a9b608b7b198122532119363a8b4402bbb15ca; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 <a id="claim-t-67264"></a>
 - t-005
   global_id: t-67264
@@ -70,9 +58,6 @@ Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas 
     - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4d85b2f28dbba01510ca18ac17e74c14fe99fc4eef1453f82719a019511e80ce; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 <a id="claim-t-67265"></a>
 - t-006
   global_id: t-67265
@@ -81,9 +66,6 @@ Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas 
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b161875d2280b149bed27202b6e450d6c3640e64163b376438bf4aee13e2b1d8; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -98,14 +80,11 @@ Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas 
     _(nihil de те, sine те)._ Tatai vadinosi _liberum veto,_ t. y. laisvojo
     pasipriešinimo teisė.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-    - t-006
-- c-002
+    - t-006- c-002
   santrauka: 'Seime atsiradus atstovui, pasakiusiam „veto“, seimas turėdavo iširti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -117,13 +96,10 @@ Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas 
     susikalbėti. Visada atsirasdavo, kas pasakydavo _„veto",_ ir seimas
     turėdavo iširti.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
+    - t-002- c-003
   santrauka: 'Čartoriskiai siekė panaikinti liberum veto, bet pasipriešinus Rusų ir Prūsų atstovams veto buvo paliktas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -136,13 +112,10 @@ Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas 
     paliktas. Užtat buvo priimtas
     seimo darbų statutas.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
+    - t-003- c-004
   santrauka: 'Kardinalinių teisių įstatyme liberum veto buvo paliktas nepaliestas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -156,13 +129,10 @@ Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas 
     vėjais, o blogiausia buvo tai, kad Rusijai buvo pripažinta
     teisė prižiūrėti Respublikos vidaus gyvenimą.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-005
+    - t-004- c-005
   santrauka: 'Liberum veto buvo paliktas kartu su karalių elekcija ir bajorijos teise neklausyti karaliaus, jei nevykdomi pacta conventa punktai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -176,9 +146,7 @@ Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas 
     kariuomenės skaičių buvo leista padidinti iki 30.000 (nuo 1717
     m.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005

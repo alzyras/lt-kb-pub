@@ -39,7 +39,6 @@ Nenurodyta
 - t-001
   global_id: t-19546
   teiginys: 'Į Maskvą keliaudavo kyšiai, apibūdinti kaip lagaminai rūkytų dešrų ir kumpių.'
-  susije_objektai: 'mentioned_place: Leningradas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
 
@@ -62,7 +61,6 @@ Nenurodyta
     visiškai išvagiamos ir naujos įmonės paleidžiamos daugiau ar mažiau
     laiku.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

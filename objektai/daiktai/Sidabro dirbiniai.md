@@ -51,8 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-05235
   teiginys: 'L. Nakaitė rašė apie sidabro naudojimą II-XIII a. Lietuvoje, sidabrą kaip vertės matą, sidabro dirbinius ir auksakalystę iki XIII a.'
-  sudarymo_pagrindimas: 'Patikslinta pagal citatą, įtraukiant auksakalystę.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Michelbertas|M. Michelbertas]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/L. Nakaitė|L. Nakaitė]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Rudaičiai; mentioned_place: Veliuona'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Vaitkunskienė L.md#claim-t-60806|Vaitkunskienė L]]: Vaitkunskienė L., Sidabras..., p. 10 ir kt.
@@ -81,7 +79,6 @@ Nenurodyta
     sakalystę Lietuvoje iki XIII a. (AkMD, t. 22, 1966, 67-83 p.; t. 27,
     1968, 47-55 p.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

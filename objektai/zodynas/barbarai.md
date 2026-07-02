@@ -18,15 +18,8 @@ Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo 
 - t-001
   global_id: t-185366
   teiginys: 'Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo gerai ginkluotų karių puolimo.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiksliai pagrįstas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 175198-175861; hash=c11d73520b825df088114c8f3e65ac42235df12fbee3d6ed4af9ff51a4030596; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-55047|Mūro sienos ir miesto sienos]]: 1505 m. Vilniaus gyventojams nurodyta apjuosti miestą mūro siena, o negalintiems jos statyti - tverti statinių tvorą.
 - susijęs iš [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora.md#claim-t-87063|Vilniaus miesto mūro siena, vartai ir statinių tvora]]: 1505 metais karalius nurodė Vilniaus miestą apjuosti mūro siena, o negalintiems jos statyti leido tverti statinių tvorą.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172833|Vilniaus miestiečių luomas]]: 1505 m. karalius atleido Vilniaus gyventojus nuo karo tarnybos vieneriems metams, kad jie apjuostų miestą mūro siena.
@@ -59,7 +52,6 @@ Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo 
     nis, jeigu, prieš kovą patyrę kokią nesėkmę, suvoks
     labiau turį bijoti, negu drąsą rodyti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -21,16 +21,6 @@ Narbutas Thunmannu rėmė maldos dievui Kurkai vėliavose aiškinimą, susijusį
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 843503-844125; hash=3fea882560332305cc2d939214e60db4ac248317f5c8a23a2d505c79f3fb6812; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Prūsai: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginyje vokiečiai įvardyti kaip užpuolikai, o prūsai kaip jiems besipriešinusi pusė.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -51,9 +41,7 @@ Narbutas Thunmannu rėmė maldos dievui Kurkai vėliavose aiškinimą, susijusį
     go przez ten napad za abražonego imaiali; jakoby
     on przez zemstę tych hipiezcow nasytat.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

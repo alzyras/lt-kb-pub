@@ -28,16 +28,6 @@ Narbutas cituoja kūrinio pavadinimą, kuriame 1749 m. birželio 8 d. Vilniaus g
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 259845-260562; hash=88a79231cd3613cbca69cf90fd1a59b3b09162f72e013c4678d87cf7beb321cc; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gregoravičius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Subačiaus priemiestis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gregoravičius: mention_match, person, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Subačiaus priemiestis" parinktas kaip owner_note_path. Targetas "Gregoravičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -58,9 +48,7 @@ Narbutas cituoja kūrinio pavadinimą, kuriame 1749 m. birželio 8 d. Vilniaus g
     miesčio, iš pono Gregoravičiaus dvarelio, virtusio pelenais, nuo žie­
     žirbos iš nepaprasta liepsna užsidegusio kamino.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

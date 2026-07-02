@@ -41,58 +41,22 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
 - t-001
   global_id: t-54781
   teiginys: 'Privilegijos vertime žmonių darbų neišnykimas iš atminties siejamas su jų įamžinimu raštais ir patikimų liudininkų parašais.'
-  susije_objektai: 'mentioned_place: Lenkija'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 695882-696419; hash=84efff3719058095905e8c72ac9580dbb6e4909218d663a5f4c7b215d8ca9bac; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Raštu neužrašyti darbai pražūna iš atminties: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Raštu neužrašyti darbai pražūna iš atminties" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-54782"></a>
 - t-002
   global_id: t-54782
   teiginys: '1536 m. privilegijos įžangoje teigiama, kad raštu neužrašyti darbai lengvai pražūna žmonių atmintyje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Lenkija; mentioned_place: Vilija; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1536 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 704812-705219; hash=44a535e1cc58c5fe154a62849723c4e6521d5559e680e3f00d95deecbfa49503; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Raštu neužrašyti darbai pražūna iš atminties: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Raštu neužrašyti darbai pražūna iš atminties" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-54783"></a>
 - t-003
   global_id: t-54783
   teiginys: 'Privilegijos įžangoje teigiama, kad raštai įamžina valdovų valdymo metu nuveiktus darbus.'
-  sudarymo_pagrindimas: 'Manual fix after rewrite gate.'
-  susije_objektai: 'mentioned_place: Kijevas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 738269-739280; hash=e5e287e49b5db2715866477350e30c92f9a7393fd790d3d8f94629988d847023; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Raštu neužrašyti darbai pražūna iš atminties: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Raštu neužrašyti darbai pražūna iš atminties" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -110,7 +74,6 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
     dalykų atminčiai. Mes, Aleksandras, Dievo malone didysis
     Lietuvos, Žemaitijos, Rusios, Kijevo ir 1.1, kunigaikštis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -128,7 +91,6 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
     tuvos, Rusios, Prūsijos, Žemaitijos ir 1.1, kunigaikštis. Ponas
     ir tėvonis. Amžinai dalykų atminčiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -160,7 +122,6 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
     esantiems, tiek ateityje būsiantiems, kuriuos žinia apie jį pa­
     sieks.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

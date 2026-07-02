@@ -31,41 +31,15 @@ periodo_grupes:
 - t-001
   global_id: t-87545
   teiginys: 'Marija buvo Tverės kunigaikštytė ir Algirdo žmona.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Marijos kilmę ir ryšį su Algirdu.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Tverė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Marija (Algirdo žmona)|Marija (Algirdo žmona)]] buvo žmona [[objektai/asmenys/Algirdas|Algirdas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cfbcb000c17f50534e7c8e72048de355478dfaf27d673d32a77ce73ad5b2cce7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_zmona -> Algirdas (Lietuvos valdovas): 0.97
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Marija (Algirdo žmona): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Mariją kaip Algirdo žmoną.
 
 <a id="claim-t-87546"></a>
 - t-002
   global_id: t-87546
   teiginys: 'Marija, Algirdo žmona, globojo į Vilnių atvykstančius rusinus ir siekė lietuviams pagonims skleisti graikų apeigų krikščionybę.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Marijos globą rusinams ir religinį siekį.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Kaimas'
-  semantiniai_rysiai: '[[objektai/asmenys/Marija (Algirdo žmona)|Marija (Algirdo žmona)]] buvo žmona [[objektai/asmenys/Algirdas|Algirdas]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 93649-94944; hash=ff36f790a30e66fb75fee7ef46f653115f2fccc46638b15748e7a83310b3ee6d; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_zmona -> Algirdas (Lietuvos valdovas): 0.97
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Marija (Algirdo žmona): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai įvardija Mariją kaip Algirdo žmoną.
 
 ## Reikšmingi paminėjimai
 
@@ -86,7 +60,6 @@ periodo_grupes:
     o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
     gas. Jau Algirdo viešpatavimo pradžioje Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -137,7 +110,6 @@ periodo_grupes:
     ypač užtarė Marija, Algirdo žmona, pasinešusi lietuviams pa­
     gonims skiepyti krikščionišką graikų apeigų tikėjimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

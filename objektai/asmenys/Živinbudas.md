@@ -29,86 +29,27 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 - t-001
   global_id: t-60477
   teiginys: 'Živinbudo, kaip manoma, valdoma priešmindauginė Lietuva 1219 m. sudarė sutartį su Volyne.'
-  sudarymo_pagrindimas: 'Citata palaiko atsargią, spėjamą formuluotę; pradinis teiginys nutrūkęs ir perkrautas kontekstu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/priešmindauginė Lietuva|priešmindauginė Lietuva]]; mentioned_place: Lietuva; mentioned_place: Volynė; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/baltų sąjunga|baltų sąjunga]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus II|Popiežius Honorijus II]]; mentioned_place: Prūsų žemė; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Živinbudas|Živinbudas]] valdė Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1205 m.; įvykio data: 1210 m.; įvykio data: 1218 m.; įvykio data: 1219 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko atsargią, spėjamą formuluotę; pradinis teiginys nutrūkęs ir perkrautas kontekstu.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d38af3c06ab0633cfffd6fe7a9448dd935bce19c915ee78e0cf7e80cdbb5cde8; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Lietuva: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Živinbudas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Lietuva buvo, kaip manoma, valdoma Živinbudo.
 
 <a id="claim-t-184901"></a>
 - t-002
   global_id: t-184901
   teiginys: 'Živinbudas buvo įsūnytas kaip įpėdinis, vedė Pajautą ir kaip kraitį gavo Lietuvos kunigaikštystę.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia įsūnijimą, vedybas ir kraitį.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Pajauta|Pajauta]]; mentioned_person: [[objektai/asmenys/Pajauta|Pajauta]]; mentioned_place: Lietuva; mentioned_place: Deltuva; mentioned_place: Viena; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Živinbudas|Živinbudas]] vedė [[objektai/asmenys/Pajauta|Pajauta]]; [[objektai/asmenys/Živinbudas|Živinbudas]] valdė Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1089 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia įsūnijimą, vedybas ir kraitį.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 108476-109002; hash=bf7711a8269242a986d085b1075f4f515d64d5dc5d85f00ccf0ea8f2db7f640f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: vede -> Pajauta: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Živinbudas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Pajauta: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginyje aiškiai pasakyta, kad Živinbudas vedė Pajautą.
 
 <a id="claim-t-184902"></a>
 - t-003
   global_id: t-184902
   teiginys: 'Po Kerniaus mirties valdovu paskelbtas Živinbudas valstybės sostinę iš Deltuvos perkėlė į Kernavę.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Živinbudo veiksmą po Kerniaus mirties.'
-  susije_objektai: 'mentioned_place: Deltuva; mentioned_place: Kernavė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kernius|Kernius]]; llm_object: Kernavė; llm_object: Deltuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Živinbudas|Živinbudas]] valdė miestą Kernavė; [[objektai/asmenys/Živinbudas|Živinbudas]] valdė miestą Deltuva'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 111043-111675; hash=1c4eeab004257ef1cbea7a1c50354138338d8c8ae8bddeed7c2500b3145fef2d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_miesta -> Kernavė: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Živinbudas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kernavė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Sostinės perkėlimas į Kernavę rodo, kad Živinbudo valdžia siejama su Kernave.
 
 <a id="claim-t-184904"></a>
 - t-004
   global_id: t-184904
   teiginys: 'Ligos kamuojamas Živinbudas, išgirdęs apie pergalę ir pamatęs sūnų Kukovaitį, perdavė jam valdžią.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pagrindžia ligą, sūnaus grįžimą ir valdžios perdavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
-  temporaliniai_duomenys: 'įvykio data: 1221 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia ligą, sūnaus grįžimą ir valdžios perdavimą.'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/asmenys/Pajauta.md#claim-t-186244|Pajauta]]: Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunigaikštystė.
@@ -135,7 +76,6 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti
     ir prūsų kraštą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -159,7 +99,6 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     tas (kaip tais laikais derėjo) ir ant aukštos kalvos prie
     Deltuvos palaidotas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -194,7 +133,6 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     bu Kentauru. Palikęs Deltuvą, valstybės sostinę jis
     perkėlė į Kernavę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -240,7 +178,6 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     jotvingių ir Skirmanto, Nau­
     garduko kunigaikščio.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

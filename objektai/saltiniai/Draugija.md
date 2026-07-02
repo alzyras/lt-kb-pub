@@ -25,9 +25,6 @@ tags:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1048472-1048814; hash=40637309936001c8cf3957f93683884adb4e5dd8b160c0c72fc743a942e9a630; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -43,9 +40,7 @@ tags:
     lietuvių tautą, jos kultūrą ir kelti lietuviškąjį mokslą (ji ir dabar
     tebėra gyva ir tebeleidžia savo žurnalą Lietuvių Tautą).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

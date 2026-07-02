@@ -22,39 +22,15 @@ tags:
 - t-001
   global_id: t-88341
   teiginys: 'Kolegijos administravimą siekta išsaugoti pagal Tridento susirinkimo dekretą ir nutarimą.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys yra per ilgas ir su OCR triukšmu.'
-  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 804419-804932; hash=24504d4deb92c2a1a1cb6c573dfa0c5f15097dd7a609e60065a8ee23d589feba; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Tridento Sinodas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tridento Sinodo nutarimas dėl diecezinių seminarijų: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Tridento Sinodas: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tridento Sinodo nutarimas dėl diecezinių seminarijų" parinktas kaip owner_note_path. Targetas "Tridento Sinodas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-88342"></a>
 - t-002
   global_id: t-88342
   teiginys: 'Tridento Sinodas nusprendė, kad kiekvienoje krikščioniškojo pasaulio diecezijoje reikia įkurti nuolatinę seminariją.'
-  sudarymo_pagrindimas: 'Teiginys gramatiškas ir atitinka citatoje pateiktą Tridento Sinodo nutarimo turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Tridento Sinodas|Tridento Sinodas]]; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 810008-811016; hash=48611bd6b86b9fea31d2124efae309638539e3047596a619d8df629dc2940854; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tridento Sinodo nutarimas dėl diecezinių seminarijų: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tridento Sinodo nutarimas dėl diecezinių seminarijų" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -77,7 +53,6 @@ tags:
     ję dievobaimingumo, išmokyti geriausių menų, išeitų vyk­
     dyti bažnytinių pareigų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -110,7 +85,6 @@ tags:
     DEI, et ad Catkolicae Romanae fidei cultum, et augmentum
     perpetuum.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

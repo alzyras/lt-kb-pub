@@ -29,49 +29,20 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
 - t-001
   global_id: t-88165
   teiginys: 'Privilegijoje Bekešui dėl Alantos dvaro buvo Stepono Batoro ir Jono Hlebavičiaus parašai.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys yra rodyklės fragmentas su OCR klaidomis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)|Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Alanta; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Užupis; mentioned_place: Vilnius; mentioned_place: Šv. Onos bažnyčia; mentioned_place: Žemutinė pilis'
-  temporaliniai_duomenys: 'įvykio data: 1576 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradinis teiginys yra rodyklės fragmentas su OCR klaidomis.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 588451-588868; hash=272dc4c996b50cbe277e4c6446be3795008e3f6119164a0af1274986ac9e36fe; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alanta: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Alanta: mention_match, place, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro" parinktas kaip owner_note_path. Targetas "Alanta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-88167"></a>
 - t-002
   global_id: t-88167
   teiginys: 'Varšuvos seime Gabrieliui Bekešui pagal paveldėjimo teisę buvo atiduotas po Astiko likęs Alantos dvaras.'
-  sudarymo_pagrindimas: 'Pirminis sakinys suprantamas, bet jį galima suformuluoti aiškiau ir enciklopediškiau.'
-  susije_objektai: 'mentioned_place: Alanta; mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Lietuva; mentioned_place: Varšuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 589876-590122; hash=0f09f922a85bc5df70541a43b42cad95c64bf16eb3b4ca4614ff9c5cdf56b074; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Astikas: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Alanta: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Astikas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata Alantą įvardija kaip Astiko dvarą, todėl pagrįsta sieti Alantos dvarą su Astiku kaip priklausiusį jam.
 
 <a id="claim-t-88168"></a>
 - t-003
   global_id: t-88168
   teiginys: 'Karalius Steponas po Astiko atidavė Gabrieliui Bekešui Ukmergės apskrityje buvusį Alantos dvarą.'
-  sudarymo_pagrindimas: 'Reikia išplėsti neaiškią nuorodą į karalių ir pašalinti vertinamąjį epitetą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Alanta; mentioned_place: Ukmergė; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Astikas|Astikas]]'
   pagrindžia:
     - c-003
 
@@ -97,7 +68,6 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
     niuje jau Stepono Batoro laikais pakirto protestantų įtaką
     Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -154,7 +124,6 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
     nigaikščio Jurgio Radvilos pa­
     rašas - Jerzij C ard.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -173,7 +142,6 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
     dovanojimas išspausdintas knygos
     pabaigoje, pastaboje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

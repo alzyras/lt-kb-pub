@@ -26,26 +26,8 @@ Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšian
 - t-001
   global_id: t-186155
   teiginys: 'Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšiant ir siaubiant smogta Švarnui.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko Petro paskyrimą vadu, bet pradinis teiginys yra smarkiai sugadintas OCR triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_place: Krokuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Rusia; llm_object: Rusia'
-  temporaliniai_duomenys: 'įvykio data: 1266 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko Petro paskyrimą vadu, bet pradinis teiginys yra smarkiai sugadintas OCR triukšmo.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 200908-202020; hash=1f71190554e68ca7bbcfb92c1dffd8b7499bd27c1c19617937fd5a5eb1acf133; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Rusia: 0.55
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Rusia: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata rodo lenkų karinius veiksmus po puolimo, o Švarno pusė siejama su Rusia; ryšys apibendrintas iki turimo vietos kandidato.
 
 ## Reikšmingi paminėjimai
 
@@ -89,10 +71,8 @@ Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšian
     mąstyti, kaip galėtų padidinti savo valdas ir praplėsti
     jų ribas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

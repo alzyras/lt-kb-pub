@@ -21,19 +21,8 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
 - t-001
   global_id: t-36254
   teiginys: 'Tamova buvo aukščiau Insterburgo, ruože, kuriame Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_place: Lietuva; mentioned_place: Tamova; mentioned_place: Užnemunė; mentioned_place: Vilnius; llm_object: Užnemunė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=34c35244f268dd4575e662bfcbc00a77f93d7fa8ebb45feb91945b0b2bd0e5bd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Užnemunė: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Užnemunė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vytautas buvo pasiųstas į Užnemunę ir užduotį atliko, todėl kelionės kryptis paremta tekstu.
 - susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189972|Kristoforas Hartknochas]]: Hartknochas pateikė duomenų apie Insterburgo valsčiaus šventąją pušį Romutą arba Ruombotą, kurią 1664 metais suskaldė žaibas.
 - susijęs iš [[objektai/autoriai/K. Hartknochas.md#claim-t-188431|Kristupas Hartknochas]]: Narbutas rašo, kad Hartknochas pateikė duomenų apie Insterburgo valsčiuje augusią šventąją pušį Romutą arba Ruombotą.
 - susijęs iš Insterburgo valsčius: Narbutas, remdamasis Hartknochu, Insterburgo valsčiuje lokalizavo šventąją pušį Romutą arba Ruombotą, kurią 1664 m. suskaldė žaibas.
@@ -58,7 +47,6 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
     žiuočiai, kaip rašo kronikininkas Vygandas Marburgietis, šešias
     dienas turėjo išbūti nematę duonos, o arkliai — pašaro^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

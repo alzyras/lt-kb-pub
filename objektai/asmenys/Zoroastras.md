@@ -21,16 +21,6 @@ Narbutas nurodo Zoroastrą kaip asmenį, kuris pas persus įvedė jau susiklosč
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 332167-332504; hash=bb72df6f8927203d0dffe1447b674525a27d9bc481e582dce81b0f089b1c1dcb; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Persai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zoroastras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Persai: mention_match, group, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zoroastras" parinktas kaip owner_note_path. Targetas "Persai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Gvebrai.md#claim-t-189517|Gvebrai]]: Gvebrus Narbutas apibūdino kaip Zoroastro mokymo išpažinėjus, ugnyje įžiūrinčius Dievą arba pasaulio visatos sielą.
 - susijęs iš [[objektai/paprociai/Dangaus kūnų, Saulės ir Mėnulio garbinimo vaizdiniai Narbuto aiškinime.md#claim-t-189816|Dangaus kūnų, Saulės ir Mėnulio garbinimo vaizdiniai Narbuto aiškinime]]: Narbuto aiškinime seniausioji lietuvių religija buvo azijinė ir indiška, joje pagal budistų ir zoroastriečių taisykles garbinti dangaus kūnai ir elementai.
 - susijęs iš [[objektai/asmenys/Inachas.md#claim-t-190158|Inachas]]: Narbutas rašo, kad Inachas, kaip ir Kadmas, pas graikus įvedė jau susiklosčiusias slaptas apeigas.
@@ -55,9 +45,7 @@ Narbutas nurodo Zoroastrą kaip asmenį, kuris pas persus įvedė jau susiklosč
     kus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu­
     sias slaptas apeigas.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -27,16 +27,6 @@ amziai:
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 200521-200876; hash=f6df434ba5dda21857b9dc59616444492654a5b484c41498a52c185c07303929; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Druja: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Drujos apylinkės ir Druja: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Druja: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Drujos apylinkės ir Druja" parinktas kaip owner_note_path. Targetas "Druja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-188990"></a>
 - t-002
   global_id: t-188990
@@ -45,16 +35,6 @@ amziai:
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 200877-201313; hash=3de42027ad86c81c181c559dd234974348edff47497e2b2b64309c31c9562405; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Druja: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Drujos apylinkės ir Druja: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Druja: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Drujos apylinkės ir Druja" parinktas kaip owner_note_path. Targetas "Druja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -69,13 +49,10 @@ amziai:
     varinės statulėlės: jos buvo apie 18 colių aukščio, įskaitant pa­
     grindą -  2 colių storumo trikampę žalvarinę lentą.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas nurodo, kad Drujoje kaimiečiai pardavė tris žalvarines statulėles po 10 grašių už svarą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -92,9 +69,7 @@ amziai:
 
     pardavimo liudytojas28.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

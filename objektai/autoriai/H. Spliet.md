@@ -30,21 +30,8 @@ periodo_grupes:
 - t-001
   global_id: t-30631
   teiginys: 'H. Splietas 1953 m. Sinsheime paskelbė veikalą „Die Briefe Gedimins“.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Krokuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1953 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1b821d15c7b32add3ad5ed569ac39605ae560d90a12182cddd297763869d4d86; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: H. Spliet: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "H. Spliet" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -61,7 +48,6 @@ periodo_grupes:
     _Die Briefe Gedimins,_ Sinsheim 1953. — Stankus, J. : _Rumšiškių kapinyno
     XIV-XVI a. geležies dirbinių metalografinė analizė,_ AkMD, t. 47, 1974,
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

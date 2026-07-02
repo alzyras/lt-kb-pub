@@ -31,20 +31,8 @@ Ir ši iki šiol neap­ rūpinta kraičiu dėl karų ir kitų šiais laikais mum
 - t-001
   global_id: t-87696
   teiginys: 'Izabelė Jogailaitė buvo karalaitė ir Vengrijos karalienė, kuriai buvo atiduotas kraitis.'
-  sudarymo_pagrindimas: 'Pradinis tekstas yra OCR fragmentas, o citata leidžia suformuluoti aiškų faktą apie Izabelę.'
-  susije_objektai: 'mentioned_place: Vengrija; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Braunsbergas; mentioned_place: Ispanija; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Neapolis; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Švedija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3d8dc8f05998dd845322fd62063a65e3f99d6d337f4a40e91d860de5064ecd97; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vengrija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Izabelė Jogailaitė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vengrija: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Izabelė Jogailaitė" parinktas kaip owner_note_path. Targetas "Vengrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -94,7 +82,6 @@ Ir ši iki šiol neap­ rūpinta kraičiu dėl karų ir kitų šiais laikais mum
     rims, aukščiau paminėtoms, kaip jų tikros motinos dalis pri­
     valo atitekti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

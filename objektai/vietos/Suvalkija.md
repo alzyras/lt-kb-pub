@@ -27,23 +27,8 @@ amziai:
 - t-001
   global_id: t-80612
   teiginys: 'Tauro apygarda vienijo Suvalkijos regiono antisovietinio pasipriešinimo dalyvius.'
-  sudarymo_pagrindimas: 'Pradiniame teiginyje neįvardytas asmuo, todėl jis perrašytas kaip faktas apie Suvalkiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Tauro apygarda|Tauro apygarda]]'
-  temporaliniai_duomenys: 'įvykio data: po 1945 m.; įvykio data: 1945 m.; įvykio data: 1948 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje neįvardytas asmuo, todėl jis perrašytas kaip faktas apie Suvalkiją.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=24638e956c71bc126689fa21302aedd17eb6de23f7abeaa1f3035db8370724e0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Tauro apygarda: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Suvalkija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Tauro apygarda: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Suvalkija" parinktas kaip owner_note_path. Targetas "Tauro apygarda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Suvalkijos valstiečių streikas ir Veiverių susidūrimas (1935 m.).md#claim-t-20512|Suvalkijos valstiečių streikas ir Veiverių susidūrimas (1935 m.)]]: 1935 m. Suvalkijos valstiečiai paskelbė streiką po „Pienocentro“ supirkimo kainų sumažinimo, o policija Veiveriuose nušovė tris valstiečius.
 - susijęs iš Lenkijos karalystė: Numatomos autonomijos teritorija turėjo apimti Lenkijos karalystei priklausiusią Užnemunę, arba Suvalkiją.
 - susijęs iš Lietuvos Užnemunė: Didžiojo Vilniaus Seimo rezoliucijoje Lietuvos autonomijos teritorijai priskirta ir Užnemunė, arba Suvalkija.
@@ -68,7 +53,6 @@ amziai:
     giono antisovietino pasipriešinimo
     dalyvius, vadu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

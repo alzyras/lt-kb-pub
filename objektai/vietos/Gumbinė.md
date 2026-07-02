@@ -29,8 +29,6 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 - t-001
   global_id: t-170419
   teiginys: 'XVIII a. Prūsijoje įsteigto Lietuvos departamento centras buvo Gumbinė.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir perkrautas, todėl paliktas aiškiai paremtas faktas apie Gumbinę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/paprociai/Varpų naudojimas pavojui, sargybai ir kariams kelti.md#claim-t-189813|Varpų naudojimas pavojui, sargybai ir kariams kelti]]: Narbutas Gumbinės (Gumbin) miesto pavadinimą kildino iš tokio varpo.
@@ -53,7 +51,6 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
     pasaulinio karo, iš Prūsijos pasitraukus seniesiems gyventojams, lietuviš-
     kai kalbančiųjų nebeliko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

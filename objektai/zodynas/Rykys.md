@@ -27,8 +27,6 @@ Vartojamos formos: `rykius`.
 - t-001
   global_id: t-70043
   teiginys: 'Decebalas citatoje vadinamas getų rykiu ir vaizduojamas kaip prieš romėnus kovojęs vadas.'
-  sudarymo_pagrindimas: 'Citata leidžia pagrįsti žodžio vartoseną per Decebalo vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]'
   pagrindžia:
     - c-001
 
@@ -40,7 +38,6 @@ Vartojamos formos: `rykius`.
   citata_originali: |
     Decebalus, getų rykys, niekaip nenorėjo jiems pasiduoti ir lig paskuojo prieš rymionis stengė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

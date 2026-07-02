@@ -28,13 +28,8 @@ Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2);.
 - t-001
   global_id: t-30648
   teiginys: 'Ig. Jonynas 1939 m. „Naujojoje Romuvoje“ paskelbė darbą „Lietuvių gentys iki XIX a.“.'
-  temporaliniai_duomenys: 'įvykio data: 1939 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b4a0af8b49cef64eab53e514e6c30a1d106694ebaba519b926398d86e204f23f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/autoriai/I. Jonynas.md#claim-t-30643|I. Jonynas]]: Ig. Jonynas 1939 m. „Naujojoje Romuvoje“ paskelbė straipsnį „Lietuvių gentys iki XIX a.“.
 - susijęs iš K. Avižonis, Vosylius I: K. Avižonio „Vosylius I“ paskelbtas LE 34 tome, 539–541 puslapiuose.
 ## Reikšmingi paminėjimai
@@ -50,7 +45,6 @@ Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2);.
     trimas, J. (= Jonikas, P.) : _Baltų kalbos ir tautos,_ Aidai, nr. 6, 1947,
     263-267 p. -— Kiparsky, V. : _Kurenfrage,_ 1939.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

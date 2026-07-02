@@ -18,47 +18,15 @@ atnaujinta: ''
 - t-001
   global_id: t-186158
   teiginys: 'Į pagalbą iš šiaurinės Rusios buvo pakviesti brolių Liubarto ir Pisimanto pulkai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis, sakinys paverstas savarankišku faktu apie Pisimantą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_place: Druckas; mentioned_place: Kijevas; mentioned_place: Livonija; mentioned_place: Luckas; mentioned_place: Volynė'
-  semantiniai_rysiai: '[[objektai/asmenys/Pisimantas|Pisimantas]] buvo brolis [[objektai/asmenys/Liubartas|Liubartas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 146112-146615; hash=9fec8544a784a1ee05ed4986200b63cffd6d4c9a3bbf99354622cb930e30292d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Liubartas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pisimantas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Liubartas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Formuluotė tiesiogiai nurodo Liubartą ir Pisimantą kaip brolius.
 
 <a id="claim-t-186159"></a>
 - t-002
   global_id: t-186159
   teiginys: 'Pisimantas ir jo brolis Liubartas žuvo mūšyje kartu su Drucko kunigaikščiu Michailu ir Lucko valdovu Andrejumi.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sakinys sutvarkytas gramatiškai ir aiškiai įvardija Pisimanto likimą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Druckas; mentioned_place: Luckas; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Pisimantas|Pisimantas]] buvo brolis [[objektai/asmenys/Treniota|Treniota]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 148569-149254; hash=fbf0a96e461b5b7fb26ad46264a9dd59ac160482f3efedb725de75525b8ab38f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Treniota: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pisimantas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Treniota: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata Pisimantą ir Liubartą vadina Treniotos broliais.
 - susijęs iš Karačevas: Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais.
 - susijęs iš Karačevas: Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184773|Liubartas]]: Liubartas ir Pisimantas iš šiaurinės Rusios buvo pakviesti į pagalbą su savo pulkais.
@@ -91,7 +59,6 @@ atnaujinta: ''
     įspėjo apie pavojų, tačiau šis, pats įsivėlęs į karą su
     Livonijos ordinu, nesuteikė beveik jokios pagalbos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -128,7 +95,6 @@ atnaujinta: ''
     tybės užmuštųjų brolių valdas, remdamasis įpėdinystės
     teise.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

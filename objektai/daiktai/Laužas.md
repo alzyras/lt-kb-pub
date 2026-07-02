@@ -40,22 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-186856
   teiginys: 'Pagal komentare minimą J. Dlugošą, mirusio Algirdo palaikai Kukovaičio miške prie Maišiagalos buvo sudeginti ant laužo.'
-  teiginio_tipas: 'saltinio_vaizdinys'
-  sudarymo_pagrindimas: 'Pradinis teiginys kartoja formuluotę ir turi perteklinę interpretacinę dalį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Deltuva; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Trakai; llm_object: Maišiagala; llm_object: [[objektai/daiktai/Laužas|Laužas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] buvo palaidotas [[objektai/daiktai/Laužas|Laužas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=48ba019e6a8e1edca13806b55938d06d24c38c9225673b9ee7fc3a5f2d6479bf; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: buvo_palaidotas -> Maišiagala: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Maišiagala: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas nurodo Algirdo palaikų sudeginimo vietą prie Maišiagalos; tai artimiausias leistinas laidojimo vietos ryšys.
 - susijęs iš [[objektai/daiktai/Karinė apranga, ginklai ir grandinės padėkos aukoje.md#claim-t-189684|Karinė apranga, ginklai ir grandinės padėkos aukoje]]: Narbutas padėkos auką aprašė kaip apeigą, per kurią ant laužo sudegindavo žymų belaisvį su žirgu, karine apranga ir ginklais.
 - susijęs iš [[objektai/ivykiai/Algirdo palaikų sudeginimas Kukovaičio miške.md#claim-t-186691|Algirdo palaikų sudeginimas Kukovaičio miške]]: Redakcinė pastaba teigia, kad pagal J. Dlugošą Kukovaičio miške prie Maišiagalos ant laužo buvo sudeginti mirusio Algirdo palaikai.
 - susijęs iš [[objektai/ivykiai/Herasimo sąmokslas ir sudeginimas ant laužo.md#claim-t-01622|Herasimo sąmokslas ir sudeginimas ant laužo]]: Herasimas rengė sąmokslą perduoti Smolensko žemę Zigmantui, bet buvo susektas ir Švitrigailos įsakymu sudegintas ant laužo.
@@ -112,7 +98,6 @@ Nenurodyta
     (Jana Dlugosza, kanonika krakowsklcgo. dzlejów polsklch kslęg
     dwanascie (toliau — Dzieje), t. HI, Kraków. 1868, p. 444).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_vaizdinys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

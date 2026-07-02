@@ -35,11 +35,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 - t-001
   global_id: t-107733
   teiginys: 'Michałas Balińskis, vertindamas Vilniaus akademijos istoriją, pagyrė Edukacinės komisijos veiklą.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai remia glaustą teiginį apie komisijos vertinimą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1579-1803; įvykio data: 1803 m.; įvykio data: 1862 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai remia glaustą teiginį apie komisijos vertinimą.'
   pagrindžia:
     - c-004
 
@@ -47,11 +42,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 - t-002
   global_id: t-107734
   teiginys: 'Targovicos konfederacija perskyrė nuo 1773 m. veikusią bendrą Edukacinę Komisiją į atskiras Lietuvos ir Lenkijos komisijas.'
-  sudarymo_pagrindimas: 'Originalas prasideda skyrybos triukšmu ir reikia sutvarkyti sakinį.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Targovicos konfederacija|Targovicos konfederacija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Targovica; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: po 1773 m.; įvykio data: 1773 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Originalas prasideda skyrybos triukšmu ir reikia sutvarkyti sakinį.'
   pagrindžia:
     - c-007
 
@@ -59,9 +49,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 - t-003
   global_id: t-107736
   teiginys: 'Edukacinė Komisija buvo laikoma pirmu Europoje atveju, kai švietimą perėmė valstybė.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1579-1803; įvykio data: 1803 m.; įvykio data: 1862 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -69,11 +56,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 - t-004
   global_id: t-107737
   teiginys: '1776 m. panaikinus Dalomąsias Komisijas, visi jų valdyti turtai buvo pavesti Edukacinei Komisijai.'
-  sudarymo_pagrindimas: 'Pradinis teiginys labiau apie Dalomąsias Komisijas; citata palaiko geresnį teiginį apie Edukacinę Komisiją.'
-  susije_objektai: 'mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1776 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys labiau apie Dalomąsias Komisijas; citata palaiko geresnį teiginį apie Edukacinę Komisiją.'
   pagrindžia:
     - c-002
 
@@ -81,8 +63,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 - t-005
   global_id: t-107738
   teiginys: 'Vilniuje gyvenęs autorius kurį laiką dirbo Edukacinėje teismo komisijoje.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas sakinys apie komisiją.'
-  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -90,11 +70,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 - t-006
   global_id: t-107739
   teiginys: 'Targovicos konfederacija bendrą Edukacinę Komisiją padalijo į atskiras Lietuvos ir Lenkijos komisijas.'
-  sudarymo_pagrindimas: 'Originalas per ilgas, nutrūkstantis ir turi nereikalingo konteksto.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Targovicos konfederacija|Targovicos konfederacija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Targovica; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: po 1773 m.; įvykio data: 1773 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Originalas per ilgas, nutrūkstantis ir turi nereikalingo konteksto.'
   pagrindžia:
     - c-007
 
@@ -102,8 +77,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 - t-007
   global_id: t-107740
   teiginys: 'Edukacinė Komisija buvo įkurta kaip bendra Lietuvos ir Lenkijos institucija.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Lenkija; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Edukacinė Komisija|Edukacinė Komisija]] priklausė Lietuva; [[objektai/grupes/Edukacinė Komisija|Edukacinė Komisija]] priklausė Lenkija'
   pagrindžia:
     - c-001
 
@@ -111,31 +84,13 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 - t-008
   global_id: t-107741
   teiginys: 'Edukacinės komisijos veikla sulaukė pagyrimo, priešingai nei XVII-XVIII a. jėzuitų ordino veikla.'
-  susije_objektai: 'mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1579-1803; įvykio data: 1803 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-008
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a55b2d17160c8654563b3083a6da7d72b06d58c47cc064ff94cea5f0af3e8554; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Edukacinė Komisija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Edukacinė Komisija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-107742"></a>
 - t-009
   global_id: t-107742
   teiginys: 'Edukacinė komisija sumodernino ir supasaulietino mokymo programą, įvesdama gamtos ir tiksliųjų mokslų disciplinas.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Edukacinę komisiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Targovicos konfederacija|Targovicos konfederacija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Targovica; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: po 1773 m.; įvykio data: 1773 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Edukacinę komisiją.'
   pagrindžia:
     - c-005
 
@@ -143,9 +98,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 - t-010
   global_id: t-107743
   teiginys: '1776 m. panaikinus komisijas, jų turtai buvo pavesti Edukacinei Komisijai.'
-  susije_objektai: 'mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1776 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -153,45 +105,15 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 - t-011
   global_id: t-107744
   teiginys: 'Edukacinė komisija įkurta 1773 m.; jos pirmininku tapo Vilniaus vyskupas Ignotas Masalskis.'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas šaltiniu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ignotas Masalskis|Ignotas Masalskis]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]'
-  temporaliniai_duomenys: 'įvykio data: 1773 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir paremtas šaltiniu.'
   pagrindžia:
     - c-009
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c065d5325b3598938459a6d58bb5d76a4bb2c5b63c337b7e5ed0b57b0db8c209; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Edukacinė Komisija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Edukacinė Komisija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-182888"></a>
 - t-012
   global_id: t-182888
   teiginys: 'A. Šapokos redaguotoje istorijoje Edukacinė Komisija vertinama kaip pirmas Europoje atvejis, kai švietimą perėmė valstybė.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Tai yra vertinimas, todėl reikia šaltinio atribucijos.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]'
   pagrindžia:
     - c-010
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9d6fd7754c30d87b210010ed2d78413a082970bd3408aee46903c4dbc36ea55f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lenkija: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Edukacinė Komisija: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Ta pati formuluotė nurodo, kad komisija buvo bendra ir Lenkijai.
 - susijęs iš [[objektai/grupes/Pijarų ordinas.md#claim-t-72601|Pijarų ordinas]]: Pijarų ordinas išlaikė ypač daug mokyklų, kurių Edukacinė Komisija neperėmė, bet prižiūrėjo jų mokymą.
 - susijęs iš [[objektai/ivykiai/Edukacinės komisijos įkūrimas.md#claim-t-183221|Edukacinės komisijos įkūrimas]]: Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.
 - susijęs iš [[objektai/ivykiai/Edukacinės komisijos įkūrimas.md#claim-t-66536|Edukacinės komisijos įkūrimas]]: 1773 m. įkurta Edukacinė komisija buvo pirmoji Europoje švietimo ministerijos tipo įstaiga.
@@ -210,7 +132,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     Komisija turėjo rūpintis tik pačiu mokymu, vadovėliais ir
     pinigų sunaudojimu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -226,7 +147,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     siog vagia. Todėl 1776 m. tos komisijos buvo panaikintos, ir visi
     turtai pavesti Edukacinei Komisijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -244,7 +164,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati
     valstybė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -262,7 +181,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     zuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės
     komisijos veikla.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -279,7 +197,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     amatų įgūdžių ugdymu), įvedė gamtos ir tiksliųjų mokslų disciplinas. Es-
     minių permainų įvyko Vilniaus universiteto mokslo ir studijų srityse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -296,7 +213,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     jetonus. Būdamas darbštus ir plačių interesų, Vilniuje pradėjo
     rinkti su miesto istorija susijusius dokumentus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -314,7 +230,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     kacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros
     Lietuvos ir Lenkijos komisijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -331,7 +246,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     komisijos veikla. Taigi jis išliko savo jaunystės idealų - Švieti­
     mo filosofijos principų - šalininkas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -347,7 +261,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     švietimo sistemą. Edukacinė komisija ėmėsi permainų ir stengėsi sukur-
     ti vientisą švietimo sistemą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -364,7 +277,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     valstybė. Iš to būtų galėję išeiti nemaža naudos, jei žmonės, kurie
     stovėjo prie to darbo, būtų buvę sąžiningesni.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -37,19 +37,8 @@ Nenurodyta
 - t-001
   global_id: t-41246
   teiginys: 'Per visą Augustavo-Suvalkų operaciją Lietuvos pajėgos nukautaisiais, sužeistaisiais ir patekusiais į nelaisvę prarado daugiau nei 2 000 karių.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e2cc6e5daa6a596a964285f45eaea0a1899e438171989bafbe54144ed0044857; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Augustavo-Suvalkų operacija: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Augustavo-Suvalkų operacija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Jonas Kuklieris.md#claim-t-40221|Jonas Kuklieris]]: Leitenantas Jonas Kuklieris žuvo mūšyje netoli Vidugirio kaimo iki 1920 m. rugsėjo 22 d.
 - susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49490|V. Grigaliūnas-Glovackis]]: V. Grigaliūno-Glovackio vadovaujamą kovinę grupę sudarė 2-asis ir 10-asis pėstininkų pulkai, 6-ojo pulko batalionas, 5-oji ir 9-oji artilerijos baterijos ir 2-ojo husarų pulko eskadronas.
 - susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49494|V. Grigaliūnas-Glovackis]]: Augustavo-Suvalkų operacijai buvo sudaryta V. Grigaliūno-Glovackio vadovaujama kovinė grupė.
@@ -71,7 +60,6 @@ Nenurodyta
     karo istorijoje nulėmė daugelis aplinky-
     bių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

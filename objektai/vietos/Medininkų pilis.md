@@ -56,27 +56,13 @@ Nenurodyta
 - t-001
   global_id: t-109758
   teiginys: 'Valdant Gediminui ar Algirdui Medininkų pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.'
-  sudarymo_pagrindimas: 'Perrašyta, kad sakinys tiesiogiai apibūdintų Medininkų pilį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_place: Voluinė'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1025066-1025263; hash=9f61118b6fad207bd972324193167e5e7aadcbd31598d32566c62fb60d572ba2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Medininkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Medininkų pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų pilis (pilis)" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-109759"></a>
 - t-002
   global_id: t-109759
   teiginys: 'Tikėtina, kad Vytauto laikais Medininkų pilis buvo sustiprinta mūrais.'
-  sudarymo_pagrindimas: 'Citatoje faktas pateiktas su abejonės žyma, todėl ją reikia išlaikyti.'
-  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -84,7 +70,6 @@ Nenurodyta
 - t-003
   global_id: t-109760
   teiginys: 'Medininkų pilį sudarė keli mediniai pastatai, apjuosti aukšta siena ir grioviu.'
-  susije_objektai: 'mentioned_place: Medininkai; mentioned_object: [[objektai/zodynas/uolektis|uolektis]]'
   pagrindžia:
     - c-005
 
@@ -92,41 +77,15 @@ Nenurodyta
 - t-004
   global_id: t-109761
   teiginys: 'Šventasis Kazimieras dažnai viešėdavo Medininkų pilyje, stovėjusioje prie Ašmenos kelio per keturias mylias nuo Vilniaus.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Medininkų pilies vietą ir Kazimiero viešėjimą.'
-  susije_objektai: 'mentioned_place: Ašmena; mentioned_place: Medininkai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Šventasis Kazimieras|Šventasis Kazimieras]]; mentioned_place: Vengrija; llm_object: Medininkų pilis'
-  semantiniai_rysiai: '[[objektai/asmenys/Šventasis Kazimieras|Šventasis Kazimieras]] gyveno Medininkų pilis'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=68da95f6d083a739df45ed502c610a799631b31c8934d94352e6a37b21cc9019; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Medininkų pilis (pilis): 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Šventasis Kazimieras: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Medininkų pilis (pilis): llm_allowed_candidate, place
-  ryšio_paaiskinimas: Dažnas viešėjimas Medininkų pilyje tiesiogiai sieja Kazimierą su šia vieta.
 
 <a id="claim-t-109762"></a>
 - t-005
   global_id: t-109762
   teiginys: 'Šventasis Kazimieras dažnai viešėdavęs Medininkų pilyje, buvusioje per keturias mylias nuo Vilniaus prie Ašmenos kelio.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Ašmena; mentioned_place: Medininkai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Šventasis Kazimieras|Šventasis Kazimieras]]; llm_object: Medininkų pilis'
-  semantiniai_rysiai: '[[objektai/asmenys/Šventasis Kazimieras|Šventasis Kazimieras]] gyveno Medininkų pilis'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c37e44e6bcdd30b2b1bf6651979efabd0b93602fdfe213e47dbb8f7e05a924dd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Medininkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Medininkų pilis (pilis): owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų pilis (pilis)" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -139,7 +98,6 @@ Nenurodyta
     būti pastatyta taip pat mūrinė Lydos pilis. Jam priskiriama ir
     restauravimas mūrinių Vilniaus pilių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -158,7 +116,6 @@ Nenurodyta
     tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
     buvę Voluinė ir Haličas, Kijevas, Pskovas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -180,7 +137,6 @@ Nenurodyta
     sudarė keletas medinių pastatų, ap­
     juostų aukšta siena ir grioviu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -205,7 +161,6 @@ Nenurodyta
     Vilniaus nutolusioje Medininkų pi­
     lyje, esančioje prie Ašmenos kelio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -224,7 +179,6 @@ Nenurodyta
     lekčių, bet buvusi daug aukštesnė.
     Jos storis viršija dvi uolektis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -40,19 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-40752
   teiginys: 'Lenkas negalėjo panaudoti pistoleto, nes viena ranka laikė pavadžius, o kita kardą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 867357-867734; hash=4e94f3c40d0804721a0eef86f05ea6b774267eed610b866295c8bad8a15886dd; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kardas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pistoletas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kardas: mention_match, thing, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pistoletas" parinktas kaip owner_note_path. Targetas "Kardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Gaidys.md#claim-t-40115|Gaidys]]: Partizanas Gaidys buvo ginkluotas tik pistoletu.
 - susijęs iš [[objektai/daiktai/Pistoletas Browning HP (Hi-Power).md#claim-t-40749|Pistoletas Browning HP (Hi-Power)]]: Pistoletas Browning HP buvo sukurtas Džono Brauningo, išbaigtas Belgijoje ir pradėtas gaminti 1935 m.
 - susijęs iš [[objektai/daiktai/Pistoletas-kulkosvaidis MP 18.md#claim-t-40750|Pistoletas-kulkosvaidis MP 18]]: MP 18 pasirodė Pirmojo pasaulinio karo pabaigoje ir buvo pirmasis masiškai gamintas vokiečių pistoletas-kulkosvaidis.
@@ -79,7 +68,6 @@ Nenurodyta
     bet tuo metu taiklus žvalgybos viršininko šūvis pataikė lenkui į smil-
     kinį ir išgelbėjo mūsų žvalgo gyvybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

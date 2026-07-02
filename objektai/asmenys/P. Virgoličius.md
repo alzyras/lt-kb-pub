@@ -21,21 +21,8 @@ Virgoličiaus pajėgos turėjo užimti Lietuvą.
 - t-001
   global_id: t-80741
   teiginys: 'Pulkininko P. Virgoličiaus pajėgos turėjo užimti Lietuvą.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo P. Virgoličiaus pajėgų tikslą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Virgoličius|Virgoličius]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/P. Virgoličius|P. Virgoličius]] užėmė Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 774625-775056; hash=2fd2397622b82dc2d175146282a78fe6dadfbc5ab7cc59e872538843ea55964b; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Lietuva: 0.82
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: P. Virgoličius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata patvirtina, kad Virgoličius kontroliavo didelę Lietuvos teritorijos dalį; tai artima užėmimo ryšiui.
 
 ## Reikšmingi paminėjimai
 
@@ -53,7 +40,6 @@ Virgoličiaus pajėgos turėjo užimti Lietuvą.
     turėjo pulti Rygą, o Virgoličiaus kariai pro Radviliškį veržtis
     į Lietuvos gilumą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

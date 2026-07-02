@@ -32,7 +32,6 @@ tags:
 - t-001
   global_id: t-09681
   teiginys: 'Kai bokšto gynėjų buvo gerokai mažiau, žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“.'
-  sudarymo_pagrindimas: 'Reikia pilno sakinio su aiškesne atrama citatai ir baigiamuoju skyrybos ženklu.'
   pagrindžia:
     - c-001
 
@@ -46,7 +45,6 @@ tags:
     gynėjų buvo žymiai mažiau. Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom
     ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

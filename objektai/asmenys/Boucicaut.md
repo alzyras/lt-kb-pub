@@ -32,44 +32,15 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
 - t-001
   global_id: t-87489
   teiginys: 'Prancūzų vadas Boucicaut''as per kautynes buvo pridaręs nemažai žalos apgultiesiems.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie Boucicaut''o vaidmenį, bet pradinis tekstas yra nutrūkęs ir per ilgas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Europa; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Boucicaut|Boucicaut]] puolė [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c2e5e465ab7d84c01d711206634171618cf017313140cb398fae2bfb6632df89; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Kaunas: 0.67
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Boucicaut: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Žygio dalyviai su Boucicaut vadovaujamais kariais susijungė prie Kauno, nors pats jo atvykimas išreikštas netiesiogiai.
 
 <a id="claim-t-87490"></a>
 - t-002
   global_id: t-87490
   teiginys: 'Riteris Boucicaut vadovavo prancūzams ir kitiems kariams žygyje, kurio dalyviai susijungė prie Kauno.'
-  sudarymo_pagrindimas: 'Pašalintas išnašos numeris ir pridėtas citatoje paremtas kontekstas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Škotai|Škotai]]; mentioned_person: [[objektai/asmenys/Henrikas IV|Henrikas IV]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Kaunas'
-  semantiniai_rysiai: '[[objektai/asmenys/Boucicaut|Boucicaut]] keliavo į Kaunas'
-  temporaliniai_duomenys: 'įvykio data: 1391 m.; įvykio data: 1393 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas išnašos numeris ir pridėtas citatoje paremtas kontekstas.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 276629-277243; hash=0a936d0f9c5772097d75c1b54e72bd24430433201f30aec128ea12397530f3e7; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Vilniaus prastuomenė: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Boucicaut: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilniaus prastuomenė: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Boucicaut vadovaujami prancūzai žalos pridarė apgultiesiems, kurie citatoje siejami su Vilniaus prastuomene.
 
 ## Reikšmingi paminėjimai
 
@@ -93,7 +64,6 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
     jiems patikimesnį kelią į tokios rūšies garbę, patarinėjo ge­
     riau vykti pas turkus, tuo laiku puldinėjusius Europą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -131,7 +101,6 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
     mis anglų, škotų bei prancūzų ir 1.1,
     pajėgomis įsibrovė į Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

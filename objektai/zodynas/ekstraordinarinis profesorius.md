@@ -26,21 +26,8 @@ Jonyno, kuris 1932 m. tapo ekstraordinariniu profesoriumi.
 - t-001
   global_id: t-32779
   teiginys: 'I. Jonynas 1932 m. tapo ekstraordinariniu profesoriumi.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/I. Jonynas|I. Jonynas]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1932 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=97317f66ebfddb8967ea0f2c3de20ecd477ccc5c184697a7128775d87dfc2a39; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> I. Jonynas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: ekstraordinarinis profesorius: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: I. Jonynas: mention_match, author, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ekstraordinarinis profesorius" parinktas kaip owner_note_path. Targetas "I. Jonynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -53,7 +40,6 @@ Jonyno, kuris 1932 m. tapo ekstraordinariniu profesoriumi.
     profesoriumi. Jis gana mažai raštų tepaskelbė iš Lietuvos istorijos.
     Bet Jonyno reikšmė Lietuvos istoriografijoje yra žymėtina.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

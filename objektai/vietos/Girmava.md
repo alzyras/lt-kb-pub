@@ -23,59 +23,22 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 - t-001
   global_id: t-90453
   teiginys: 'Henriko Stange kariuomenė, įsiveržusi į Sembą, degino ir grobė abipus kelio iki Girmavos kaimo.'
-  sudarymo_pagrindimas: 'Citata palaiko žygio kryptį ir veiksmus iki Girmavos kaimo.'
-  susije_objektai: 'mentioned_place: Kaimas; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Kristburgas; mentioned_place: Semba'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 338853-339559; hash=29ec7f4f6679155eaad6438dc01b1324e7702487f6cb60e68bc9aad94fc17292; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaimas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Girmava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Girmava" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-90454"></a>
 - t-002
   global_id: t-90454
   teiginys: 'Henriko Stangės kariuomenė žiemos žygyje degino ir grobė Sembą iki Girmavos kaimo.'
-  sudarymo_pagrindimas: 'Originalas minėjo tik bendrą įvadą, o citata pagrindžia konkretesnį faktą apie Girmavą.'
-  susije_objektai: 'mentioned_place: Kaimas; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Kristburgas; mentioned_place: Semba'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 340731-340873; hash=2387f4ed816ff2f6a616d94cc433f1bbe6975e97321a9bd908b27bce52e1e17e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Sembai: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Girmava: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Sembai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Girmava apibūdinta kaip sembų valsčiaus centras, todėl siejama su sembais.
 
 <a id="claim-t-90455"></a>
 - t-003
   global_id: t-90455
   teiginys: 'Ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab.'
-  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; llm_object: [[objektai/grupes/Sembai|Sembai]]'
-  semantiniai_rysiai: 'Girmava priklausė [[objektai/grupes/Sembai|Sembai]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 338853-339559; hash=29ec7f4f6679155eaad6438dc01b1324e7702487f6cb60e68bc9aad94fc17292; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaimas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Girmava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Girmava" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Henrikas Stange.md#claim-t-60319|Henrikas Stange]]: Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą su didele kariuomene, degindamas ir grobdamas iki Girmavos kaimo.
 - susijęs iš [[objektai/autoriai/Гуревич Ф. Д.md#claim-t-91939|Гуревич Ф. Д]]: F. D. Gurevič darbas cituojamas duomenims apie trimis pylimais įtvirtintą pilies kalvą prie Girmavos.
 - susijęs iš [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas.md#claim-t-66562|Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]: Kristburgo komtūras Henrikas Stangė žiemą įsiveržė į Sembą, niokojo kraštą iki Girmavos kaimo ir nukovė arba paėmė į nelaisvę daug žmonių.
@@ -103,7 +66,6 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     komtūras nelyginant bebaimis liūtas pastojo jiems kelią ir, norėdamas juos tol sulaikyti,
     kol jo kariuomenė užims saugesnę vietą, daugybę sužeidė ietimi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -117,7 +79,6 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     316 D.— Girmow, Jer.— Girmowe; vėliau Germau (dab. Ruskojė) — Girmava,  į
     pietryčius nuo Palmininkų (dab. Jantarnas), sembų valsčiaus centras.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

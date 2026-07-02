@@ -21,16 +21,6 @@ Pasak Plutarcho, atėniečių prijaukinti žalčiai dalyvaudavo Dionisijų apeig
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 346066-346354; hash=92e6bf78ec11e0ea579a65f8abaf1a1dc00d6fd133afec1b8373dbf8fe314997; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Atėniečiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Plutarchas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Atėniečiai: mention_match, group, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Plutarchas" parinktas kaip owner_note_path. Targetas "Atėniečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -44,9 +34,7 @@ Pasak Plutarcho, atėniečių prijaukinti žalčiai dalyvaudavo Dionisijų apeig
     čiai dalyvaudavo Dionisijų šventinėse apeigose, kurios vykda­
     vo Bakcho garbei.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

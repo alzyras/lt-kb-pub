@@ -27,7 +27,6 @@ Vartojamos formos: `dešimtininkus`, `šimtininkus`, `pulkorius`, `ratmistrais`,
 - t-001
   global_id: t-07727
   teiginys: 'Senovės kariuomenėje buvo keli vadovybės rangai nuo dešimtininko iki aukščiausio vadovo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   pagrindžia:
     - c-001
 
@@ -38,7 +37,6 @@ Vartojamos formos: `dešimtininkus`, `šimtininkus`, `pulkorius`, `ratmistrais`,
   citata_originali: |
     Kėlusis karei, senovėj kalnėnai ir žemaičiai tokiu būdu kėlė sau karvedį, arba atmoną, kurs juos turėjo vesti prieš neprietelius. Suėję į kuopas, pakėlė sau patys vyresniuosius, ne turtinguosius ir kilties^1289 vyrus, bet visų narsiuosius, kantriuosius ir guviuosius vyrus, visų pirma dešimtininkus, taip vadinamus nuo to, jog dešimtį kareivių vedė į karę, ir šimtininkus, arba pulkorius, nuo žodžio pulti, kurie šimtą kareivių vedė, kuriuos paskui iš teutoniškumo ratmistrais^1290 pramanė, ant galo karūžuosius, kurie vėliavas į karę nešė ir įrašą^1291 , arba reistrą, kareivių savo apygardos turėjo. Tie vyresnieji, taip pakelti nuo kareivių, vėl pakėlė tarp savęs visų vyriausiąjį valdymierą^1292 , protu, išminčia, narsybe ir kantrybe visus pranokiantį, atmonu vadinamą, kursai vedė visus prieš neprietelius atmonyti jiems savo žalas ir abydas, kurį pakėlę ant pečių nešiojo po rindas, vaidindami^1293 visai kariaunai kaipo tą, kurio įsakymų reiks klausyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

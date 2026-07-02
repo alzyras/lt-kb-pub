@@ -33,23 +33,8 @@ Nenurodyta
 - t-001
   global_id: t-185847
   teiginys: 'Po Barkaus sudeginimo jo pelenų vietoje pastatyta atminimo statula iki Jogailos laikų buvo laikoma šventenybe.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata aiškiai kalba apie atminimo statulą, bet teiginį reikia sutrumpinti ir išvalyti.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Barkus|Barkus]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 100278-100754; hash=69ba2160a195ae73d2874e7b1fb61ba2b477b28e261ebd7ef17d87a42405cce1; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barkus: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Atminimo statula: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Barkus: mention_match, person, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Atminimo statula" parinktas kaip owner_note_path. Targetas "Barkus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -71,10 +56,8 @@ Nenurodyta
     beje, ir visa vieta, ir kuriai iki pat Jogailos laikų bu­
     vo atiduodama dieviškoji pagarba.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

@@ -8,6 +8,11 @@ datos:
   - '1243 m.'
 date_start: '1242'
 date_end: '1243'
+description: 'Ditrichas iš Bernheimo - Teutonų ordino maršalas, minimas Sartovicų pilies užėmime, relikvijų gabenime į Kulmą ir 1243 m. kautynėse.'
+socialDescription: 'Teutonų ordino maršalas Ditrichas iš Bernheimo minimas 1242-1243 m. įvykiuose: Sartovicų pilyje, Kulme ir kautynėse.'
+seo_atnaujinta: '2026-07-02T20:14:54.915004+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,7 +29,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheimo, o į pagalbininkus jam paskyrė brolį Konradą iš Tuteleno, buvusį šventosios Elžbietos kamerarijų, brolį Henriką iš Berkos iš Tiuringijos ir brolį Henriką iš Ceico iš Vitchendorfo kaimo su ginklanešiais ir. Dusburgietis teigia, kad vienas jų, būtent brolis Ditrichas iš Bernheimo, buvęs maršalas ir narsus vyras (jo krūtinėje plakė Ulikso širdis, o ranka buvo ne silpnesnė nei Hektoro), bei dar keturi broliai ir dvidešimt keturi ginklanešiai naktį (1242 gruodžio 3), šventos mergelės bei. Dusburgietis teigia, kad po to brolis Ditrichas, palikęs pilies saugoti kuriuos ne kuriuos brolius ir ginklanešius, patraukė su kitais atgal ir nugabeno šias šventas relikvijas į Kulmą.
+Ditrichas iš Bernheimo buvo Teutonų ordino brolis ir maršalas, Hermano iš Zalcos pasiųstas į Prūsiją. 1242 m. gruodžio 3 d. jis su keturiais broliais ir 24 ginklanešiais slapta įsigavo į Sartovicų pilį, o vėliau šventas relikvijas nugabeno į Kulmą. 1243 m. šaltinis jį mini mūšyje su nedidele kariuomene, kur esą nukauta 900 priešų ir paimta 400 arklių.
 
 ## Teiginiai
 
@@ -32,96 +37,36 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 - t-001
   global_id: t-59905
   teiginys: 'Prie Renzeno pelkės Ditrichas iš Bernheimo siūlė pulti tą priešo kariuomenės dalį, kuri dar nebuvo perėjusi pelkės.'
-  sudarymo_pagrindimas: 'Citata remia Ditricho pasiūlymą; pradinis teiginys nutrūksta.'
-  susije_objektai: 'mentioned_place: Kulmas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c6c70ac73ea4a918edc8a84554f2700a2d0a1012d2c9c8888a93e35938ccb2bc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Ditrichas iš Bernheimo: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Ditrichas iš Bernheimo: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Hermanas paskyrė arba pasiuntė Ditrichą maršalo pareigoms.
 
 <a id="claim-t-59906"></a>
 - t-002
   global_id: t-59906
   teiginys: 'Ditrichas iš Bernheimo, palikęs dalį brolių ir ginklanešių saugoti pilies, nugabeno šventas relikvijas į Kulmą.'
-  sudarymo_pagrindimas: 'Citata remia faktą, bet pradinis teiginys turi neaiškų įvardį.'
-  susije_objektai: 'llm_object: Kulmas; mentioned_place: Kulmas; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Ditrichas iš Bernheimo|Ditrichas iš Bernheimo]] keliavo į Kulmas'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fe37cd68438e6605c4c284241a58a41ea55de4741bb1b281068c95023a3b240c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> ginklanešiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas iš Bernheimo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: ginklanešiai: mention_match, thing, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas iš Bernheimo" parinktas kaip owner_note_path. Targetas "ginklanešiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59907"></a>
 - t-003
   global_id: t-59907
   teiginys: '1243 m. Ditrichas iš Bernheimo su nedidele kariuomene stojo į kovą, nukovė 900 priešų ir paėmė 400 arklių.'
-  sudarymo_pagrindimas: 'Citata remia kovos rezultatą; pašalintas religinis ir neaiškus kontekstas.'
-  temporaliniai_duomenys: 'įvykio data: 1243 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata remia kovos rezultatą; pašalintas religinis ir neaiškus kontekstas.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 286670-287163; hash=dc76e3d7685180a05727136ec4bbe92732559bb7f75b7b32ea4a4513a99874ea; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Kulmas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ditrichas iš Bernheimo: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Ditrichas judėjo į Kulmą su relikvijomis.
 
 <a id="claim-t-59908"></a>
 - t-004
   global_id: t-59908
   teiginys: 'Hermanas iš Zalcos pasiuntė Ditrichą iš Bernheimo eiti maršalo pareigų į Prūsiją.'
-  sudarymo_pagrindimas: 'Citata remia paskyrimą maršalu, bet pradinis teiginys nutrūkęs.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Ditrichas iš Bernheimo|Ditrichas iš Bernheimo]]; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kaimas; mentioned_place: Vitchendorfas; llm_object: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]] paskyrė [[objektai/asmenys/Ditrichas iš Bernheimo|Ditrichas iš Bernheimo]]'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 287951-288456; hash=1d095ed876ca0ef8cd5d070c95ff5805bd5349687ca63d352e416164619b61cf; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-59909"></a>
 - t-005
   global_id: t-59909
   teiginys: '1242 m. gruodžio 3 d. Ditrichas iš Bernheimo su keturiais broliais ir 24 ginklanešiais slapta įsigavo į Sartovicų pilį.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
-  temporaliniai_duomenys: 'įvykio data: 1242 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cd16e389016d95ce64bc6c8f8e7c5714e6615699569aeed3eafc2bc6151b73fe; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas iš Bernheimo: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas iš Bernheimo" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.).md#claim-t-89398|Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.)]]: 1242 m. gruodžio 3 d. Ditrichas iš Bernheimo su keturiais broliais ir dvidešimt keturiais ginklanešiais slapta įsigavo į Sartovicų pilį.
 ## Reikšmingi paminėjimai
 
@@ -139,7 +84,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
     kovoti, tačiau broliai drauge su dvidešimt keturiais ginklanešiais juos drąsiai užpuolė.
     Užpultieji narsiai priešinosi, gindami pilį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -158,7 +102,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
     jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo
     ir, drąsiai užgriuvę jų priekinius būrius, bematant privertė bėgti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -176,7 +119,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
     kunigaikštis su būreliu kitų vyrų taip slaptai sugrįžo pas savo karius, paliktus siausti pilies,
     kad apsuptieji nė negalėjo suprasti, kuo baigėsi mūšis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -198,7 +140,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
     Tuteleno, buvusį šventosios Elžbietos kamerarijų, brolį Henriką iš Berkos iš Tiuringijos
     ir brolį Henriką iš Ceico iš Vitchendorfo kaimo su ginklanešiais ir daugybe žirgų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -215,7 +156,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
     prie senosios pilies, kur po šiai dienai jos ilsisi apsuptos nuolatinės pagarbos dėl dažnų
     stebuklų, kuriuos per ją daro viešpats.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -234,7 +174,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
     į kovą ir kirto jiems stiprų smūgį. Paklojęs devynis šimtus vyrų, kitus privertė bėgti;
     be kito grobio, kurio buvo labai daug, paėmė keturis šimtus priešo arklių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

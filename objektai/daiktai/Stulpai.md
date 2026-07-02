@@ -33,23 +33,8 @@ Nenurodyta
 - t-001
   global_id: t-185849
   teiginys: 'Kojelavičiaus pasakojime Palemonas ir Prosperas Cezarinas buvo siejami su Stulpų herbu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pagrindžia ryšį su Stulpų herbu, bet pradinis teiginys sujungia per daug vardų ir turi OCR klaidų.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 93122-93562; hash=df9bffc7402b909aee5c1e02aad132669c4e33fcd8625fd48b28f9a82b575dc8; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Herbas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stulpai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Herbas: mention_match, thing, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stulpai" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Bendoraitis.md#claim-t-40067|Bendoraitis]]: Po sviedinio sprogimo skyrininkas Bendoraitis buvo išmestas aukščiau telefono stulpų ir nukrito.
 - susijęs iš [[objektai/daiktai/Gediminaičių stulpai.md#claim-t-169858|Gediminaičių stulpai]]: Gediminaičių stulpai buvo panaudoti Sąjūdžio ženkle, kurį kūrė Giedrius Reimeris ir Algimantas Nasvytis.
 - susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-12319|Lietuvos pinigai]]: Lietuviški denariukai atsirado 1387-1390 m.; jų pusėse buvo ieties galas, kryžius ir Gedimino stulpai.
@@ -93,7 +78,6 @@ Nenurodyta
     pagrindo spėjama, kad jie atvykę iš Insubrijos bei Li-
     gurijos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

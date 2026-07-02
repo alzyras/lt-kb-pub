@@ -29,23 +29,8 @@ LMS = Litovskaja Metrika.
 - t-001
   global_id: t-29917
   teiginys: '„Litovskaja Metrika. Knigi sudnich del“ P. A. Hiltebrantas išleido 1903 m. Petrapilyje, „Russkaja Istoričeskaja Biblioteka“ 20 tome.'
-  sudarymo_pagrindimas: 'Citata palaiko konkrečią bibliografinę informaciją apie šaltinio leidimą.'
-  susije_objektai: 'mentioned_place: Petrapilis'
-  temporaliniai_duomenys: 'įvykio data: 1903 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko konkrečią bibliografinę informaciją apie šaltinio leidimą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 35044-35172; hash=d73c66cb38cebdfe35daf198c537eeb3bbf9502ae6f703962a446c688326670c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Petrapilis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietovskaja Metrika. Knigi sudnich del: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Petrapilis: mention_match, place, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietovskaja Metrika. Knigi sudnich del" parinktas kaip owner_note_path. Targetas "Petrapilis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -55,7 +40,6 @@ LMS = Litovskaja Metrika.
     LMS = Litovskaja Metrika. Knigi sudnich del, išl. P. A. Hil’tebrant
     (Russkaja Istoričeskaja Biblioteka, t. 20), Petrapilis 1903.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

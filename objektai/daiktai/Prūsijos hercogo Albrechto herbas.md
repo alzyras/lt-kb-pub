@@ -48,24 +48,8 @@ Nenurodyta
 - t-001
   global_id: t-59703
   teiginys: 'Karaliaučiaus kronikos nuorašo viršelyje buvo Prūsijos hercogo Albrechto herbas, rodęs tuometinį nuorašo šeimininką.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Pamedė; llm_object: Prūsija'
-  semantiniai_rysiai: '[[objektai/daiktai/Prūsijos hercogo Albrechto herbas|Prūsijos hercogo Albrechto herbas]] priklausė Prūsija'
-  temporaliniai_duomenys: 'įvykio data: 1540 m.; įvykio data: 1568 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai atitinka citatos informaciją.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=99b8c67c0b6b4ac6253f76d304acf0ace48a5af787bab1900e2b65b8d2b03d9b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Prūsija: 0.75
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Prūsijos hercogo Albrechto herbas: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Herbas tiesiogiai apibūdinamas kaip Prūsijos hercogo Albrechto herbas; leistinas objektas yra Prūsija.
 
 ## Reikšmingi paminėjimai
 
@@ -79,7 +63,6 @@ Nenurodyta
     (mirusio 1568 m.) herbas, rodąs tuometinį jo šeimininką. Nurašinėtojas prastokai mokėjo
     lotynų kalbą, ne visada teisingai suprato XIV a. sutrumpinimus, darė kitų klaidų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

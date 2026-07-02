@@ -29,16 +29,6 @@ Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus 
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 429282-429675; hash=442b65b03d11f5a24860d1036eb7eade2c5075a6b55ac73e15c3cbf1a6bc7ccd; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Pskovas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jurijus Vytutaitis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Jurijus Vytutaitis valdė Pskovo žemę.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -53,10 +43,8 @@ Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus 
     vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-
     taitis, kuris valdė Pskovo žemę apie 1342 metus27 28.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

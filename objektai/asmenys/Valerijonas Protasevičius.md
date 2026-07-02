@@ -33,9 +33,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
 - t-001
   global_id: t-114001
   teiginys: '1579 m. kovo 6 d. Valerijonas Protasevičius fundacijos teise užrašė Akademijai ir kolegijai tris mūrinius namus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Viena; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1579 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-010
 
@@ -43,11 +40,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
 - t-002
   global_id: t-114002
   teiginys: '1569 m. spalio 4 d. Vilniaus vyskupas Valerijonas Protasevičius fundavo ir įsteigė įvairių mokslų viešąsias mokyklas.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatoje pateiktą faktą.'
-  susije_objektai: 'mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įkūrimo data: 1569 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatoje pateiktą faktą.'
   pagrindžia:
     - c-013
 
@@ -55,8 +47,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
 - t-003
   global_id: t-114003
   teiginys: 'Vilniaus vyskupas Valerijonas Protasevičius paprieštaravo, kad į sutartį būtų įtraukta sąlyga dėl Augustino tikėjimo laisvo išpažinimo.'
-  sudarymo_pagrindimas: 'Pašalinta dokumento kalbos fragmentiškumas ir aiškiai įvardyta ginčyta sąlyga.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-012
 
@@ -64,7 +54,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
 - t-004
   global_id: t-114004
   teiginys: 'Vilniaus vyskupas Valerijonas Protasevičius siekė sutrukdyti protestantų ketinimui įkurti kolegiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -72,7 +61,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
 - t-005
   global_id: t-114005
   teiginys: 'Valerijonas Protasevičius įsakė surinktas disidentų knygas viešai deginti priešais Šv. Jono bažnyčią.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Protasevičiaus įsakymą ir remiasi citata.'
   pagrindžia:
     - c-003
 
@@ -80,11 +68,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
 - t-006
   global_id: t-114006
   teiginys: 'Valerijonas Protasevičius 1556 m. buvo perkeltas į Vilniaus katedrą ir mirė 1579 m. gruodžio 21 d.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia perkėlimą į Vilniaus katedrą ir mirties datą.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Lietuva; mentioned_place: Luckas'
-  temporaliniai_duomenys: 'įvykio data: 1556 m.; įvykio data: 1579 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia perkėlimą į Vilniaus katedrą ir mirties datą.'
   pagrindžia:
     - c-004
 
@@ -92,8 +75,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
 - t-007
   global_id: t-114007
   teiginys: 'Valerijonas Protasevičius Vilniuje palaimino Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoką.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citata tiesiogiai pagrįstas faktas.'
-  susije_objektai: 'mentioned_place: Suomija; mentioned_place: Vilnius; mentioned_place: Švedija'
   pagrindžia:
     - c-015
 
@@ -101,7 +82,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
 - t-008
   global_id: t-114008
   teiginys: 'Valerijonas Protasevičius paprieštaravo, kad religijos laisvės sąlyga būtų įtraukta į sutartį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
 
@@ -109,8 +89,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
 - t-009
   global_id: t-114009
   teiginys: 'Valerijonas Protasevičius įsteigė neturtingiems studentams Valerijono bursą ir padovanojo jai tris mūrinius namus.'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citatos informacija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -118,169 +96,62 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
 - t-010
   global_id: t-114010
   teiginys: 'Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui Vilniuje įkurti kolegiją.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Valerijono Protasevičiaus veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_place: Vilnius; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1569 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Valerijono Protasevičiaus veiksmą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c47a9aeb2c6b01019d3f23b2cab89d68e414301e2a87a2840e95d84b4e97f2d5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valerijonas Protasevičius (vyskupas)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-114011"></a>
 - t-011
   global_id: t-114011
   teiginys: '1579 m. Vilniuje duotą Bursos įkūrėjo atminimo aktą vyskupas Valerijonas pasirašė savo ranka.'
-  sudarymo_pagrindimas: 'Citata mini akto datą, vietą ir įrašą, kad vyskupas Valerijonas pasirašė savo ranka.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Alanta; mentioned_place: Ukmergė; mentioned_place: Viena; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1579 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata mini akto datą, vietą ir įrašą, kad vyskupas Valerijonas pasirašė savo ranka.'
   pagrindžia:
     - c-009
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c47a9aeb2c6b01019d3f23b2cab89d68e414301e2a87a2840e95d84b4e97f2d5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Protestantai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Protestantai: mention_match, group, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valerijonas Protasevičius (vyskupas)" parinktas kaip owner_note_path. Targetas "Protestantai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-114012"></a>
 - t-012
   global_id: t-114012
   teiginys: 'Valerijonas Protasevičius buvo Vilniaus vyskupas.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 145906-146187; hash=c66d88b9a7937dd64686b82a2e8e206516c55c2cfc49374472576d03b3bb5df8; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Protestantai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Protestantai: mention_match, group, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valerijonas Protasevičius (vyskupas)" parinktas kaip owner_note_path. Targetas "Protestantai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-114013"></a>
 - t-013
   global_id: t-114013
   teiginys: 'Valerijonas Protasevičius atmetė katalikų tikėjimui prieštaraujančias sąlygas ir ragino valdovą su jomis nesutikti.'
-  sudarymo_pagrindimas: 'Fragmentas pradėtas nuo konteksto; citata leidžia suformuoti pilną sakinį.'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 146874-147138; hash=7d0cdaae09ca89d5960b3bfd2f064ce6c45027cd51ba2cf71911e0093edcafe1; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Steponas Batoras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Steponas Batoras: mention_match, person, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valerijonas Protasevičius (vyskupas)" parinktas kaip owner_note_path. Targetas "Steponas Batoras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-114014"></a>
 - t-014
   global_id: t-114014
   teiginys: '1569 m. spalio 4 d. Valerijonas Protasevičius fundavo ir įsteigė įvairių mokslų viešąsias mokyklas.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įkūrimo data: 1569 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-013
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c7c60668beea03e32a95aad55c7fa8c992a1237a6efcd3b340f2f3686af31b8b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valerijonas Protasevičius (vyskupas)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-114015"></a>
 - t-015
   global_id: t-114015
   teiginys: 'Valerijonas Protasevičius atmetė katalikų tikėjimui prieštaraujančias sąlygas ir ragino su jomis nesutikti.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]'
   pagrindžia:
     - c-014
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=485d578ec8a86c39a1fb91f39488dd546b27ec6784d83a16c3016405b2749dc9; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžius: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valerijonas Protasevičius (vyskupas)" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-114016"></a>
 - t-016
   global_id: t-114016
   teiginys: '1579 m. balandžio 1 d. Steponas Batoras parėmė vyskupo Valerijono Protasevičiaus sumanymą ir pastangas.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir remiasi citatos formuluote.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Vilnius; mentioned_place: Šv. Jonų bažnyčia'
-  temporaliniai_duomenys: 'įvykio data: 1579 m.; įvykio data: 1850 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir remiasi citatos formuluote.'
   pagrindžia:
     - c-011
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=003f7a3e14cad6da0f8bf81f66d90d8f0ebb467ddce6169611cd5e9fc86898f7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valerijonas Protasevičius (vyskupas)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-114017"></a>
 - t-017
   global_id: t-114017
   teiginys: 'Valerijonas Protasevičius 1569 metais pirmasis pakvietė jėzuitų ordiną į Vilnių.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir perteiktas pagrindinis citatos faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=720cda0d663755d3b5fe7ae7756dda3d09b128fd08fdbe2a4d726db7484a476b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Suomija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valerijonas Protasevičius (vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Suomija: mention_match, place, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valerijonas Protasevičius (vyskupas)" parinktas kaip owner_note_path. Targetas "Suomija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-114018"></a>
 - t-018
   global_id: t-114018
   teiginys: 'Valerijonas Protasevičius fundavo ir aprūpino jėzuitų kolegiją, kurią karalius pakėlė iki universiteto laipsnio.'
-  sudarymo_pagrindimas: 'Pradinis teiginys triukšmingas; perrašyta į glaustą sakinį apie asmens veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113983|Steponas Batoras]]: 1579 m. balandžio 1 d. Steponas Batoras parėmė vyskupo Valerijono Protasevičiaus sumanymą ir pastangas dėl Vilniaus universiteto.
@@ -320,7 +191,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
     dę jėzuitai gavo lėšų savo kolegijai, ateityje buvo numatę ją pertvarky-
     ti į universitetą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -337,7 +207,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
     Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-
     mui įkurti kolegiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -356,7 +225,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
     dos namus ir jų spaustuvę, buvusią Danieliaus Lenčickio
     žinioje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -372,7 +240,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
     biausia išgarsėjo atkviesdamas į Vilnių jėzuitus ir įkurda-
     mas Akademiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -396,7 +263,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
     kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą
     dvasiškai jaunuomenei lavintis, vadinamą seminarija59.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -424,7 +290,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
     priešais savo rūmus ir patvirtino nemažas fundacijas toles­
     nėms statyboms.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -449,7 +314,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
     reigoti [sutikdamas su] šiomis sąlygomis, kurios prieštarauja
     katalikų tikėjimui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -481,7 +345,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
     mus, atq. id eo etiam magis, quod illae Praefecturae solo pig­
     noris, ac non perpetui dominii Jure nobis tradi debent.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -532,7 +395,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
     PO IŠDAVIKO GRIGALIAUS ASTIKO
     DOVANOJAMAS GABRIELIUI BEKEŠUI.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -552,7 +414,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
     prieš Šv. Kryžiaus altorių, mišių klausydamiesi, aukotų mal­
     das už fundatoriaus sielą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -566,7 +427,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
     Vilniaus universiteto Didysis kiemas ir Šv. Jonų bažnyčia
     iš J. K. Vilčinskio „Vilniaus albumo“. Dail.  Ph. Benoist, A. Bayot, 1850 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -592,7 +452,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
     ir pareigas, paprieštaravo, kad neturėtumėme šios sąlygos
     įtraukti į sutartį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -612,7 +471,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
     kyklas patvirtinęs, suteikė Akademijos vardą ir visoms akade­
     mijoms, o išskirtinai Krokuvos, prilygino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -637,7 +495,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
     savo ranka pasirašėme ir liepėme mūsų antspaudą prika­
     binti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -655,7 +512,6 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
     gusto seserimi.
     —  •  .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

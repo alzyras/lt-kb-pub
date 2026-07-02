@@ -33,12 +33,6 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
 - t-001
   global_id: t-171586
   teiginys: 'Nugalėjęs Augustą II, Karolis XII 1708 m. puolė Rusiją, bet 1709 m. buvo nugalėtas prie Poltavos ir pralaimėjo karą.'
-  sudarymo_pagrindimas: 'Sutvarkyta OCR rašyba ir stilius, nekeičiant citatos faktų.'
-  susije_objektai: 'llm_object: Rusija; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Saksonija'
-  semantiniai_rysiai: '[[objektai/asmenys/Karolis XII|Karolis XII]] puolė Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1706 m.; įvykio data: 1708 m.; įvykio data: 1709 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sutvarkyta OCR rašyba ir stilius, nekeičiant citatos faktų.'
   pagrindžia:
     - c-001
 
@@ -46,8 +40,6 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
 - t-002
   global_id: t-171587
   teiginys: 'Dalis Livonijos aristokratijos, nepatenkintos Karolio XII valdymu, rėmė Augusto II siekius.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas pateikta citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Saksonija; mentioned_place: Švedija'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78953|Augustas II]]: 1697 m. ATR valdovu išrinktas Saksonijos kurfiurstas Augustas II siekė ATR paversti absoliutine monarchija.
@@ -68,7 +60,6 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
     1709 m. buvo nugalėtas prie Poltavos ir karą pralai-
     mėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -91,7 +82,6 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
     lavęs iš Lietuvos teritorijos išvesti jo
     „ Saksonijos kariuomenę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -21,11 +21,6 @@ Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vie
 - t-001
   global_id: t-183509
   teiginys: 'Oficialios kalbos apie „tarybinių tautų suartėjimą ir susiliejimą“ rodė ideologiškai unifikuotos ir rusiškai kalbančios sovietinės nacijos formavimo kryptį.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Leningradas; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
 
@@ -46,10 +41,8 @@ Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vie
     vietinės nacijos formavimo intensyvinimo keliu, kad ateityje lietuvių ir
     kitos kalbos išnyks.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

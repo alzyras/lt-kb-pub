@@ -42,8 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-78730
   teiginys: 'XIII a. Vakarų Europos pėstininkai dažniausiai nenaudodavo skydo, o jų kojos ir rankos neretai būdavo neapsaugotos.'
-  sudarymo_pagrindimas: 'Pirminiame teiginyje trūksta aiškaus veiksnio.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
   pagrindžia:
     - c-001
 
@@ -61,7 +59,6 @@ Nenurodyta
 
     tarp šių dviejų pilių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

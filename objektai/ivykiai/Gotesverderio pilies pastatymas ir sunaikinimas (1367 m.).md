@@ -36,23 +36,8 @@ Nenurodyta
 - t-001
   global_id: t-185702
   teiginys: 'Kryžiuočiai prie Nemuno, beveik priešais Kauną, per šešis mėnesius pastatė didelę tvirtovę ir pavadino ją Gotesverderiu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata leidžia pateikti aiškų faktą apie pilies vietą, statybą ir pavadinimą.'
-  susije_objektai: 'llm_object: Gotesverderis; mentioned_place: Gotesverderis; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 434559-434906; hash=a6ed14e04b749e8a4b507ef7a7e0d493e2ba0a41c07f267a8cfbaa81dbda4d53; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Gotesverderis: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Gotesverderis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad kryžiuočiai pastatė tvirtovę, pavadintą Gotesverderiu.
 
 ## Reikšmingi paminėjimai
 
@@ -72,10 +57,8 @@ Nenurodyta
     pilį, esančią per vieną mylią nuo Kauno, pavadino
     Gotesverderiu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

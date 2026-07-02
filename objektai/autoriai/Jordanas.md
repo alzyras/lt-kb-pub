@@ -20,9 +20,6 @@ tags:
 - t-001
   global_id: t-62623
   teiginys: 'Jordanas buvo gotų istorikas.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas rodyklės įrašu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_person: [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]; mentioned_place: Austrija; mentioned_place: Varmė'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Jordanas iš Pelplino.md#claim-t-87529|Jordanas iš Pelplino]]: Pelplino abatas Jordanas 1324 m. dalyvavo rengiant Mažesniųjų brolių laiško nuorašą.
@@ -62,7 +59,6 @@ tags:
     Jurginis J. (Юргинис Ю.)
     Jurgis šv.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

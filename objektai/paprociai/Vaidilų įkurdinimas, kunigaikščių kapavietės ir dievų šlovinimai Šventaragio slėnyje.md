@@ -51,20 +51,8 @@ Nenurodyta
 - t-001
   global_id: t-87305
   teiginys: 'Kronikų pasakojimu, XIII amžiuje kunigaikštis Germantas Šventaragio slėnyje įkurdino vaidilas, įrengė kunigaikščių kapavietes ir rengė dievų šlovinimus.'
-  sudarymo_pagrindimas: 'Pašalintas OCR ir puslapio triukšmas, atkurta citatos mintis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Europa; mentioned_place: Islandija; mentioned_place: Lietuva; mentioned_place: Salos; mentioned_place: Skandinavija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 131325-133108; hash=12962adb722cbcb5e84cf06400bcdff0c250551f474056a831a8e9acad853063; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Šventaragis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Šventaragis: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje" parinktas kaip owner_note_path. Targetas "Šventaragis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -125,7 +113,6 @@ Nenurodyta
     las, kunigaikščių kapavietes padaręs ir savo Dievų šlovini­
     mus rengęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

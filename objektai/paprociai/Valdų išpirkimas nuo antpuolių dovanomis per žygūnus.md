@@ -39,26 +39,8 @@ Nenurodyta
 - t-001
   global_id: t-185926
   teiginys: '1449 m. pasienio seniūnas Jurga per žygūnus pasiuntė gausių dovanų ir išpirko lietuviams priklausomas valdas nuo skitų antpuolių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Jurgos veiksmą ir rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Jurga (pasienio seniūnas)|Jurga (pasienio seniūnas)]]; mentioned_place: Braclavas; mentioned_place: Naugardukas; mentioned_place: Podolė; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  temporaliniai_duomenys: 'įvykio data: 1449 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą Jurgos veiksmą ir rezultatą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 862289-863105; hash=f1ed393802b703327d7d44692362a7c732be0f02630019716a52e5aa9a5a042a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Lietuviai: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jurga (pasienio seniūnas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Jurga veikė lietuvių naudai, išpirkdamas jiems priklausomas valdas nuo antpuolių.
 
 ## Reikšmingi paminėjimai
 
@@ -89,10 +71,8 @@ Nenurodyta
     be karaliaus žinios lietuviai sukurstė skitus prieš len­
     kus, nes jis mat nepritarė nė vienam jų sumanymui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

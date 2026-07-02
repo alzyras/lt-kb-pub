@@ -30,11 +30,6 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 - t-001
   global_id: t-47037
   teiginys: 'Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Niurnbergo auksakalių veiksmą.'
-  susije_objektai: 'mentioned_place: Luckas'
-  temporaliniai_duomenys: 'įvykio data: 1934 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Niurnbergo auksakalių veiksmą.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Kunzas Lochneris.md#claim-t-80737|Kunzas Lochneris]]: Kunzas Lochneris XVI a. 6 dešimtmetyje Niurnberge pagamino Žygimanto Augusto paradinius šarvus.
@@ -69,7 +64,6 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     Lucko suvažiavimas.
     Dail. J. Mackevičius, 1934 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

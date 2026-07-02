@@ -6,6 +6,11 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+description: 'Karalienė Bona minima prie Merkio, Vilniuje 1536 m., Vytauto atminimo įamžinime ir Veliuonos bažnyčios fundacijoje.'
+socialDescription: 'Karalienė Bona Lietuvos istorijos šaltiniuose siejama su Vilniaus miesto įstatymais, Vytauto atminimu ir Veliuonos bažnyčia.'
+seo_atnaujinta: '2026-07-02T21:03:54.613403+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,7 +25,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta klebonija tapo išties reikšmingiausia Žemaitijoje. Vis dėlto pirmieji nusveria antruo­ sius: juk visos Vytauto dorybės tik jo paties, gyvenusio 85 Tiesa, šimtmečiu vėliau karalienė Bona pagerbė Vytauto atminimą antkapiniu marmuro paminklu di­ džiojo altoriaus dešinėje pusėje. Žygimantas Senasis paprastai gy­ vendavo viename, o karalienė Bona - antrame.
+Karalienė Bona šaltiniuose minima kaip Žygimanto Senojo aplinkos asmenybė, gyvenusi viename iš mažesnių namų prie Merkio. Ji pritarė 1536 m. rugsėjo 9 d. paskelbtiems naujiems Vilniaus miesto įstatymams. Taip pat Bona siejama su Vytauto atminimo įamžinimu marmuriniu antkapiniu paminklu ir Veliuonos bažnyčios apdovanojimu turtais.
 
 ## Teiginiai
 
@@ -28,80 +33,29 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
 - t-001
   global_id: t-87467
   teiginys: 'Karalienė Bona paprastai gyvendavo viename iš dviejų mažesnių namų prie Merkio.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, tačiau reikia išplėsti kontekstą ir pašalinti OCR triukšmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 224171-224626; hash=056a1a2f7ac3ddd29ae26f2555a7aace5c4839f0a79f236129557c5e26697ebb; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Veliuona: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bona: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Veliuona: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bona" parinktas kaip owner_note_path. Targetas "Veliuona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87468"></a>
 - t-002
   global_id: t-87468
   teiginys: 'Karalienė Bona ir Vladislovas IV gausiai apdovanojo Veliuonos bažnyčią turtais, todėl jos klebonija tapo reikšmingiausia Žemaitijoje.'
-  sudarymo_pagrindimas: 'Pradiniame sakinyje buvo neaiškus įvardis; objektas išplėstas pagal citatos kontekstą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_person: [[objektai/asmenys/Vladislovas IV|Vladislovas IV]]; mentioned_place: Veliuona; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_place: Viena'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5a1522f9861291f16ea83212b5584815aa202d08778955c43c3c25185c2d7aff; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Altorius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bona: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Altorius: mention_match, thing, gap=70
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bona" parinktas kaip owner_note_path. Targetas "Altorius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87469"></a>
 - t-003
   global_id: t-87469
   teiginys: 'Karalienė Bona Vytauto atminimą pagerbė marmuriniu antkapiniu paminklu didžiojo altoriaus dešinėje pusėje.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Bonos veiksmą ir remiasi citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 513459-513760; hash=1e26bec536bed3a6cb2fbe4213b50acd42f53cc2b8997de8a0047800f5aa28ab; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žygimantas Senasis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bona: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Žygimantas Senasis: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bona" parinktas kaip owner_note_path. Targetas "Žygimantas Senasis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-87470"></a>
 - t-004
   global_id: t-87470
   teiginys: 'Karalienė Bona pritarė Žygimanto Senojo 1536 m. rugsėjo 9 d. įsakymui paskelbti naujus Vilniaus miesto įstatymus.'
-  sudarymo_pagrindimas: 'Citata palaiko Bonos pritarimą, o įvardis turi būti išskleistas į asmens vardą.'
-  susije_objektai: 'mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1536 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko Bonos pritarimą, o įvardis turi būti išskleistas į asmens vardą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 517893-518327; hash=71b0b486ffccd523baf026929b70eff8e56590674c601b684804a878d85bf8d7; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bona: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=77
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bona" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Karalienės Bonos testamentas: Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.
 - susijęs iš [[objektai/asmenys/Bona Sforca.md#claim-t-173124|Bona Sforca]]: Karalienė Bona pritarė Žygimanto Senojo 1536 m. rugsėjo 9 d. įsakymui paskelbti naujus Vilniaus miesto įstatymus.
 - susijęs iš Karalienės Bonos testamentas: Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.
@@ -152,7 +106,6 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
     švento krikšto metu gavęs Aleksan­
     dro vardą" ir 1.1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -170,7 +123,6 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
     tariant karalienei Bonai, paskelbti naujus miesto įstatymus.
     Jais patvirtinama, kad magistrato paskirtis - valdyti miestą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -190,7 +142,6 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
     jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos
     pavieto centras.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -207,7 +158,6 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
     būta dar kitų pastatų medžiokliams bei dvariškiams ir ka­
     raliaus arklidės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -21,8 +21,6 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
 - t-001
   global_id: t-46992
   teiginys: 'Meksika pateikiama kaip ispaniškosios kultūros laidos pavyzdys.'
-  sudarymo_pagrindimas: 'Rewrite failed deterministic gates: missing_factual_predicate'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kanada; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš Lisabona: XVI–XVII a. Lisabona kartu su Roma ir Madridu skleidė katalikybės bei barokinės architektūros ir dailės įtaką iki Meksikos ir Paragvajaus.
@@ -40,7 +38,6 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
     sikoje ar Argentinoje.
     Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

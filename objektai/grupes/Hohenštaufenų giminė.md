@@ -23,20 +23,8 @@ Dideli politinės padėties pokyčiai, radęsi Švabijoje ir Frankonijoje dėl H
 - t-001
   global_id: t-86795
   teiginys: 'Hohenštaufenų giminės žlugimo sukelti politiniai pokyčiai Švabijoje ir Frankonijoje suteikė miestams persvarą.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako citatoje pateiktą politinių pokyčių padarinį.'
-  susije_objektai: 'mentioned_place: Italija; mentioned_place: Prancūzija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 33198-33854; hash=cc70fe414200c7ed3786bb8091ab1c601db3138ca7815de378f9bcea5671300d; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Italija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Hohenštaufenų giminė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Italija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hohenštaufenų giminė" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -56,7 +44,6 @@ Dideli politinės padėties pokyčiai, radęsi Švabijoje ir Frankonijoje dėl H
     privilegijas; savo ruožtu, šie nesiliovė buvę tikrais imperijos są­
     jungininkais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

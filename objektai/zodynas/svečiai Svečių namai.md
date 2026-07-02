@@ -29,42 +29,15 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 - t-001
   global_id: t-86552
   teiginys: 'Aleksandras leido Vilniui statyti Svečių namus, siekdamas miesto bei muito pelno ir išorinio saugumo.'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra bibliografinė nuoroda, bet citata pagrindžia rimtesnį faktinį teiginį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]; llm_object: Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=58e1933f8b19df3b36d40842bc611abafee5e4bb671d3e565ad0379034ff79e2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: svečiai Svečių namai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "svečiai Svečių namai" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-86553"></a>
 - t-002
   global_id: t-86553
   teiginys: 'Aleksandras leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai privalėjo apsistoti, sumokėti muitą ir pranešti pilininkui.'
-  sudarymo_pagrindimas: 'Verta išplėsti neaiškų žodį „karalius“ į citatos kontekste nurodomą Aleksandrą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusų pirkliai|Rusų pirkliai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Pskovas; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'pastatymo data: 1500 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Verta išplėsti neaiškų žodį „karalius“ į citatos kontekste nurodomą Aleksandrą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 469785-470387; hash=86464ae8c1abe04b384c978d772aa79bdabf10ecd5426d037c7504b2baac768e; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: prekiavo_su -> Vokiečiai: 0.80
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Ištraukoje rusų pirkliai tiesiogiai aprašomi kaip prekiaujantys su vokiečiais.
 
 ## Reikšmingi paminėjimai
 
@@ -90,7 +63,6 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     rinčių pakenkti, todėl įsako ir leidžia
     miestui statyti užeigą ir t t.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -110,7 +82,6 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
     savo atvykimą iškart pranešti pilininkui4 3  44.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

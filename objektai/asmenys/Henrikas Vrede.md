@@ -20,21 +20,8 @@ tags:
 - t-001
   global_id: t-40135
   teiginys: 'Švedų reitaras Henrikas Vrede atidavė karaliui savo žirgą ir žuvo, o Karolis IX dėl to išsigelbėjo.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Henriko Vredės veiksmą ir pasekmę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis IX|Karolis IX]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Švedija; llm_object: [[objektai/asmenys/Karolis IX|Karolis IX]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Vrede|Henrikas Vrede]] gynė [[objektai/asmenys/Karolis IX|Karolis IX]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fef47ae4215e55e70602f3abf72e35d617c91096eb9a5508efe183cdc66a0586; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Karolis IX: 0.75
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas Vrede: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Karolis IX: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Henrikas Vrede atidavė žirgą karaliui, todėl Karolis IX išsigelbėjo; tai palaiko gynimo ar gelbėjimo santykį.
 - susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79079|Karolis IX]]: Karolis IX vos nepakliuvo į nelaisvę, bet išsigelbėjo, kai švedų reitaras Henrikas Vrede atidavė jam savo žirgą.
 - susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79077|Karolis IX]]: Salaspilio mūšyje Švedijos karalius Karolis IX vos nepateko į nelaisvę.
 ## Reikšmingi paminėjimai
@@ -49,7 +36,6 @@ tags:
     Ix išsigelbėjo. Lietuvos kavalerija iki su-
     temų persekiojo bėgančius priešo karius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

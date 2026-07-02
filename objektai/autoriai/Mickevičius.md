@@ -21,20 +21,8 @@ Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkan
 - t-001
   global_id: t-05717
   teiginys: 'Adomas Mickevičius buvo ištremtas į Rusiją, kai jau buvo mokytojas Kaune ir palaikė glaudžius ryšius su studentais.'
-  sudarymo_pagrindimas: 'Reikia pašalinti perteklines detales ir sutvarkyti enciklopedinę formą.'
-  susije_objektai: 'llm_object: Rusija; mentioned_place: Kaunas; mentioned_place: Rusija; mentioned_person: [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius]]; llm_object: Kaunas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=956b71ae7a9281068c2e29b0b26c2c884a02f1adbf6a7cde5df9fb037a9ffc3f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Rusija: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Adomas Mickevičius (poetas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Adomas Mickevičius buvo ištremtas į Rusiją.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45926|Adomas Mickevičius (poetas)]]: A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuvą.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45928|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45930|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo vienas iš dvidešimties apkaltintų asmenų, kurie buvo ištremti.
@@ -75,7 +63,6 @@ Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkan
     tais tebepalaikė glaudžius ryšius, siuntinėjo jiems savo raštų
     ir t.t. Tuo pat metu prasidėjo kratos ir kitose vietose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

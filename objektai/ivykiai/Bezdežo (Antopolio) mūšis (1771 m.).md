@@ -39,11 +39,6 @@ Nenurodyta
 - t-001
   global_id: t-09821
   teiginys: 'Po Bezdežo mūšio M. K. Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos Aleksandro Suvorovo pajėgų.'
-  sudarymo_pagrindimas: 'Citata leidžia suformuoti konkretesnį teiginį apie tiesiogines pasekmes.'
-  susije_objektai: 'mentioned_place: Stalovičiai; mentioned_event: [[objektai/ivykiai/Baro konfederacija (1768–1772 m.)|Baro konfederacija (1768–1772 m.)]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]'
-  temporaliniai_duomenys: 'įvykio data: 1772 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuoti konkretesnį teiginį apie tiesiogines pasekmes.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
@@ -65,7 +60,6 @@ Nenurodyta
     Konfederatams nepavyko sutrukdyti
     1772 m. įvykusio pirmajo ATR padalijimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -35,11 +35,6 @@ amziai:
 - t-001
   global_id: t-10475
   teiginys: '1672 m. Turkija pradėjo karo veiksmus prieš Lenkiją ir privertė ją pasirašyti Bučačo taikos sutartį.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Podolė; mentioned_place: Turkija'
-  temporaliniai_duomenys: 'įvykio data: 1672 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -55,7 +50,6 @@ amziai:
     ir privertė ją Atėjo žinia, kad Turkija ketina siekti puolimo kryptį, stiprino įtvirtinimus
     daugiau ir surinkusi didžiulę kariuomenę prie Podolės Kameneco tvirtovės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

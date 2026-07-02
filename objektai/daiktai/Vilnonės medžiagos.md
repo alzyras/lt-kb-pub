@@ -48,38 +48,15 @@ Nenurodyta
 - t-001
   global_id: t-47822
   teiginys: 'Per Rygą Lietuva iš Vakarų gaudavo būtinų prekių, tarp jų druskos, vilnonių medžiagų ir geležies.'
-  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir aiškiai siejamas su vilnonėmis medžiagomis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Ryga; llm_object: Ryga'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5eaf6a719085a4e090922657a8a5b45e9be42143b85e3ae63da4ebc389433595; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: prekiavo_su -> Ryga: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Ryga: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys rodo Lietuvos prekybinį ryšį per Rygą, kuri citatoje apibūdinta kaip svarbus prekybos centras Lietuvai.
 
 <a id="claim-t-47823"></a>
 - t-002
   global_id: t-47823
   teiginys: 'Per Rygą Lietuva iš Vakarų gaudavo būtiniausių dalykų, tarp jų druską, vilnones medžiagas ir geležį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Ryga; llm_object: Ryga'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5eaf6a719085a4e090922657a8a5b45e9be42143b85e3ae63da4ebc389433595; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: prekiavo_su -> Ryga: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Ryga: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys rodo Lietuvos prekybinį ryšį per Rygą, kuri citatoje apibūdinta kaip svarbus prekybos centras Lietuvai.
 
 ## Reikšmingi paminėjimai
 
@@ -94,7 +71,6 @@ Nenurodyta
     galėjo pasiūlyti Vakaruose gerą paklausą turinčių ir lengvai trans­
     portuojamų prekių (vaško ir kailių) neišsenkančius kiekius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

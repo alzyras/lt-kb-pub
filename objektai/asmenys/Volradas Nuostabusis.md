@@ -22,21 +22,8 @@ Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginim
 - t-001
   global_id: t-60469
   teiginys: 'Volradas Nuostabusis, Notangos ir Varmės fogtas, Lencenbergo pilyje sudegino prūsų kilminguosius ir visą pilį.'
-  sudarymo_pagrindimas: 'Sutvarkyta į pilną sakinį apie asmenį ir jo veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Notanga; mentioned_place: Varmė; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; llm_object: [[objektai/grupes/Prūsai|Prūsai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Volradas Nuostabusis|Volradas Nuostabusis]] puolė [[objektai/grupes/Prūsai|Prūsai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 373297-374110; hash=f4e2ab62cbe0724113d6edbf404f9161e8bc851c2e1d4c4c23ed632b4392a6b9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Prūsai: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: deterministic_validation_passed; llm_structured_decision; prusai_group_context
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Volradas Nuostabusis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Volradas sudegino prūsų kilminguosius; kandidatas „Prūsai“ pateiktas kaip vieta, todėl ryšys paliekamas atsargiai.
 - susijęs iš [[objektai/ivykiai/Lencenbergo pilies ir jos kilmingųjų sudeginimas.md#claim-t-62360|Lencenbergo pilies ir jos kilmingųjų sudeginimas (pilis)]]: Volradas Nuostabusis Lencenbergo pilyje sudegino prūsų kilminguosius ir pačią pilį.
 ## Reikšmingi paminėjimai
 
@@ -56,7 +43,6 @@ Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginim
     jie nusigėrę pradėjo kuždėtis, jog reikią jį nužudyti, jis išėjo ir, uždaręs duris, pavertė
     pelenais ir minėtuosius kilminguosius, ir visą pilį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -29,9 +29,6 @@ Narbutas cituojamu veikalu nurodo Casparo Schützo „Rerum Prussicarum historia
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 856691-856785; hash=097c10065cdc0a2d706fe37ad00652fbe6b8370ce6075ef004f9d44b69daf9ab; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -41,9 +38,7 @@ Narbutas cituojamu veikalu nurodo Casparo Schützo „Rerum Prussicarum historia
     P. 178** -  Cituojamas veikalas: Schütz Caspar. Rerum Prus-
     sicarum historia. -  Gedani, 1769.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

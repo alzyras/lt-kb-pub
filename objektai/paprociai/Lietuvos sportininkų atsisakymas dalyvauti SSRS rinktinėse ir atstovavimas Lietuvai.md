@@ -58,11 +58,6 @@ Atkūrus Lietuvą sportininkų vieša atsiskyrimo nuo SSRS sporto struktūrų pr
 - t-001
   global_id: t-20813
   teiginys: '1991 m. rugpjūtį Tarptautiniam olimpiniam komitetui atkūrus LTOK teises, Lietuvos sportininkai tarptautinėse varžybose atstovavo savo šaliai.'
-  sudarymo_pagrindimas: 'Citata leidžia aiškiau nurodyti, kas atkūrė LTOK teises, ir tiksliau suformuluoti atstovavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: po 1988 m.; įvykio data: 1988 m.; įvykio data: 1991 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia aiškiau nurodyti, kas atkūrė LTOK teises, ir tiksliau suformuluoti atstovavimą.'
   pagrindžia:
     - c-001
 
@@ -79,7 +74,6 @@ Atkūrus Lietuvą sportininkų vieša atsiskyrimo nuo SSRS sporto struktūrų pr
     tarptautines teises ir Lietuvos sportininkai dalyvavo tarptautinėse įvairių
     šakų sporto varžybose už savo šalį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

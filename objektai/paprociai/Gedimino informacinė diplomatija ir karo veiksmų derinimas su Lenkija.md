@@ -46,11 +46,6 @@ Nenurodyta
 - t-001
   global_id: t-67075
   teiginys: 'Gediminas laiškais popiežiui ir Vakarų visuomenei gerino Lietuvos įvaizdį ir mažino paramą kryžiuočiams.'
-  sudarymo_pagrindimas: 'Reikia pakeisti neaiškų įvardį konkrečiu asmeniu ir sutrumpinti sakinį.'
-  susije_objektai: 'llm_object: Lietuva; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Europa; mentioned_place: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1316 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia pakeisti neaiškų įvardį konkrečiu asmeniu ir sutrumpinti sakinį.'
   pagrindžia:
     - c-001
 
@@ -58,9 +53,6 @@ Nenurodyta
 - t-002
   global_id: t-67077
   teiginys: 'Gediminas pasitelkė informacines priemones ir laiškais popiežiui bei vakarų visuomenei gerino Lietuvos įvaizdį.'
-  susije_objektai: 'llm_object: Lietuva; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Europa; mentioned_place: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1316 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -77,15 +69,12 @@ Nenurodyta
     kryžiuočiams. Gediminas pradėjo derinti karo veiksmus prieš
     kryžiuočius su Lenkija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
     - t-001
-
 - c-002
   santrauka: 'Gediminas laiškais popiežiui ir Vakarų visuomenei gerino Lietuvos įvaizdį ir mažino paramą kryžiuočiams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -98,10 +87,8 @@ Nenurodyta
     kryžiuočius su Lenkija. Pasiekimai vakaruose Gediminui leido
     plėsti savo valstybę rytuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003

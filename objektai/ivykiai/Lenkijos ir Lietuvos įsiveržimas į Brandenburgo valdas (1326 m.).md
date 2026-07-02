@@ -43,24 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-89374
   teiginys: '1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas ir pasiekė Frankfurtą prie Oderio.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys, kurį tiesiogiai patvirtina citata.'
-  susije_objektai: 'llm_object: [[objektai/ivykiai/Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.)|Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.)]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kijevas'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] surengė žygį į [[objektai/ivykiai/Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.)|Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.)]]'
-  temporaliniai_duomenys: 'įvykio data: 1326 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys, kurį tiesiogiai patvirtina citata.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 36685-36949; hash=58d73535ee3b46de071a85fab3bb73237a18d250817911f9dbd2c92b22655d73; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.): 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Lietuvos kariuomenė tiesiogiai minima kaip įsiveržimo dalyvė.
 
 ## Reikšmingi paminėjimai
 
@@ -73,7 +57,6 @@ Nenurodyta
     Lietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos
     centru62.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -90,7 +73,6 @@ Nenurodyta
       1326 m. Lenkijos  ir Lietuvos kariuomenė įsiveržė  į Brandenburgo valdas, pasiekė
     Frankfurtą prie Oderio (III, 361).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

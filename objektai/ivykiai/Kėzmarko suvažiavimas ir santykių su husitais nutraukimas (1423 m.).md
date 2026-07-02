@@ -45,19 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-35843
   teiginys: 'Lietuvių santykiai su husitais baigėsi, kai Kaributas po derybų su popiežiumi buvo išvytas iš Čekijos.'
-  susije_objektai: 'llm_object: Čekija; mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Čekija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 347004-347455; hash=c35c24e11ee39f9d61a79907f84c45e433e10ee2f81700fd86dc513c5f62e783; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Čekija: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kaributas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Čekija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Kaributas išvyko į Čekiją.
 
 ## Reikšmingi paminėjimai
 
@@ -73,7 +62,6 @@ Nenurodyta
     kovų su vokiečiais ir popiežium, o Vytautui buvo reikalinga tai­
     ka Vakaruose ir geri santykiai su Bažnyčia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

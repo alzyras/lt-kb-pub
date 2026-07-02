@@ -28,23 +28,8 @@ Organizacijai priklausė būrys prieš sovietų santvarką kovojusių asmenų, k
 - t-001
   global_id: t-19206
   teiginys: 'Romaldas Juozas Ragaišis priklausė Lietuvos laisvės lygai ir buvo tris kartus teistas.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai susieja Ragaišį su organizacija ir teistumu, kaip nurodyta citatoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės lyga|Lietuvos laisvės lyga]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]; mentioned_person: [[objektai/asmenys/Petras Cidzikas|Petras Cidzikas]]'
-  temporaliniai_duomenys: 'priklausymo laikotarpis: 1978 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai susieja Ragaišį su organizacija ir teistumu, kaip nurodyta citatoje.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=65cb31925deacac4ed7785ae00c6bb6a6d37442a901ec05fab6c238064b28f98; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Romaldas Juozas Ragaišis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romaldas Juozas Ragaišis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Antanas Terleckas.md#claim-t-18826|Antanas Terleckas]]: Antanas Terleckas priklausė prieš sovietų santvarką kovojusiems asmenims ir buvo teistas tris kartus.
 - susijęs iš [[objektai/asmenys/Nijolė Sadūnaitė.md#claim-t-19173|Nijolė Sadūnaitė]]: Nijolė Sadūnaitė buvo kalinta už kovą prieš sovietų santvarką.
 - susijęs iš [[objektai/asmenys/Petras Cidzikas.md#claim-t-19190|Petras Cidzikas]]: Petras Cidzikas buvo kalintas už kovą prieš sovietų santvarką.
@@ -68,7 +53,6 @@ Organizacijai priklausė būrys prieš sovietų santvarką kovojusių asmenų, k
     Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,
     Petras Cidzikas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

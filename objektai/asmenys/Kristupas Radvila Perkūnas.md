@@ -9,6 +9,11 @@ datos:
   - '1583 m.'
 date_start: '1558'
 date_end: '1583'
+description: 'Kristupas Radvila Perkūnas – LDK etmonas, pasižymėjęs Livonijos kare su Rusija, Polocko, Volgos aukštupio ir Šelonės žygiuose.'
+socialDescription: 'Kristupas Radvila Perkūnas – Radvilų giminės karvedys, iškilęs Livonijos karo su Rusija žygiuose ir vėliau tapęs LDK didžiuoju etmonu.'
+seo_atnaujinta: '2026-07-02T21:03:54.599113+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,7 +28,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju vadu buvo paskirtas Vilniaus vaivada Mikalojus Radvila Rudasis, kuriam padėjo sūnus, lauko hetmonas Kristupas, pramintas Perkūnu. Kristupas I Radvila Perkūnas, Mikalojaus R. Mikalojus Rudasis, paskui — jo sūnus Kristupas Perkūnas († 1603 m.), po jo — jo sūnus Jonušas (rokošininkas — † 1620 m.), vėliau—kitas sūnus Kristupas († 1640 m.) ir pagaliau — šio sūnus Jonušas, — tas pats, kurs 1655 m. padarė sutartį su Švedais.
+Kristupas Radvila Perkūnas buvo Mikalojaus Radvilos Rudojo sūnus, lauko, vėliau LDK didysis etmonas. Livonijos kare su Rusija (1558–1583 m.) jo karinis talentas išryškėjo užimant Polocko tvirtovę ir žygiuose prie Volgos aukštupio, Šelonės upės, Mstislavlio, Mogiliavo bei Šklovo. Šaltiniuose jis minimas ir kaip Radvilų protestantų lyderių grandinės dalis.
 
 ## Teiginiai
 
@@ -31,7 +36,6 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
 - t-001
   global_id: t-79094
   teiginys: 'Kristupas Radvila Perkūnas po Mikalojaus Radvilos Rudojo buvo vienas iš biržiečių Radvilų, vadovavusių Lietuvos protestantams.'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra ilgas genealoginis fragmentas; perrašyta į sakinį apie note objektą.'
   pagrindžia:
     - c-003
 
@@ -39,8 +43,6 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
 - t-002
   global_id: t-79095
   teiginys: 'Šešiolikmetis Kristupas Radvila Perkūnas buvo tarp karių greta didžiojo etmono Mikalojaus Radvilos.'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas ir prasidėjo neaiškia nuoroda.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_person: [[objektai/asmenys/Jonas Chodkevičius|Jonas Chodkevičius]]; mentioned_place: Livonija'
   pagrindžia:
     - c-005
 
@@ -48,8 +50,6 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
 - t-003
   global_id: t-79097
   teiginys: 'Birželio 2-3 d. LDK didysis etmonas Kristupas Radvila Perkūnas pasiuntė Jono Sicinskio dalinį prieš K. Carlsono Gyllenhielmo karius.'
-  sudarymo_pagrindimas: 'Išplėstas nutrūkęs vardas ir suformuluotas pilnas faktinis sakinys.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Kuoknesė; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -57,7 +57,6 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
 - t-004
   global_id: t-79098
   teiginys: 'Lauko hetmonas Kristupas Radvila Perkūnas padėjo vyriausiuoju vadu paskirtam Vilniaus vaivadai Mikalojui Radvilai Rudajam.'
-  sudarymo_pagrindimas: 'Pašalinti neaiškūs įvardžiai ir paliktas faktas apie Kristupą Radvilą Perkūną.'
   pagrindžia:
     - c-004
 
@@ -65,7 +64,6 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
 - t-005
   global_id: t-79100
   teiginys: 'Kristupas Radvila Perkūnas pasiekė Volgos aukštupį ir prie Šelonės upės, ties Mstislavliu, Mogiliavu, Šklovu jis sumušė rusų kariuomene.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Volga; mentioned_place: Šklovas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78614|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: 1581 m. Kristupas Radvila Perkūnas prie Šelomos upės sumušė rusų dalinį ir pasuko į Rusijos gilumą.
@@ -88,7 +86,6 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     23 d. prie Kuoknesės pagrindinė Lietuvos
     kariuomenė stojo prieš švedų pajėgas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -108,7 +105,6 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     Mogiliavu, Šklovu jis sumušė rusų kariuo-
     mene.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -133,7 +129,6 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     kurs 1655 m. padarė sutartį su
     Švedais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -153,7 +148,6 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     kuriam padėjo sūnus, lauko hetmonas Kristupas, pramintas
     Perkūnu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -177,7 +171,6 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     sis Livonijos etmonas Jonas
     Chodkevičius ir daugelis kitų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

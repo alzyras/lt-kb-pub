@@ -29,63 +29,22 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
 - t-001
   global_id: t-72000
   teiginys: 'Kazimiero laikai 1440–1492 m. Lietuvos istorijoje vadinami pereinamuoju laikotarpiu.'
-  sudarymo_pagrindimas: 'Turinio fragmentas perrašytas į sakinį apie objekto reikšmę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponų įsigalėjimo laikotarpis|ponų įsigalėjimo laikotarpis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1440-1492; įvykio data: 1492 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Turinio fragmentas perrašytas į sakinį apie objekto reikšmę.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=763f23a1591af67afa95ebd49f89c6e03ba2f3434314ad9fa3f452a7d12991b6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> ponų įsigalėjimo laikotarpis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: pereinamasis laikotarpis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: ponų įsigalėjimo laikotarpis: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pereinamasis laikotarpis" parinktas kaip owner_note_path. Targetas "ponų įsigalėjimo laikotarpis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-72001"></a>
 - t-002
   global_id: t-72001
   teiginys: 'Kazimiero laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponų įsigalėjimo laikotarpis|ponų įsigalėjimo laikotarpis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1440-1492; įvykio data: 1492 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=763f23a1591af67afa95ebd49f89c6e03ba2f3434314ad9fa3f452a7d12991b6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> ponų įsigalėjimo laikotarpis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: pereinamasis laikotarpis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: ponų įsigalėjimo laikotarpis: mention_match, thing, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pereinamasis laikotarpis" parinktas kaip owner_note_path. Targetas "ponų įsigalėjimo laikotarpis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-72002"></a>
 - t-003
   global_id: t-72002
   teiginys: 'Pereinamasis laikotarpis siejamas su didžiųjų kunigaikščių monarchijos irimu ir ponų įsigalėjimu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponų įsigalėjimo laikotarpis|ponų įsigalėjimo laikotarpis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1492 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=763f23a1591af67afa95ebd49f89c6e03ba2f3434314ad9fa3f452a7d12991b6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> ponų įsigalėjimo laikotarpis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: pereinamasis laikotarpis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: ponų įsigalėjimo laikotarpis: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pereinamasis laikotarpis" parinktas kaip owner_note_path. Targetas "ponų įsigalėjimo laikotarpis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82507|Kazimieras Jogailaitis]]: A. Šapokos redaguotoje „Lietuvos istorijoje“ Kazimiero Jogailaičio laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu.
 - susijęs iš [[objektai/zodynas/ponų įsigalėjimo laikotarpis.md#claim-t-74034|ponų įsigalėjimo laikotarpis]]: A. Šapokos „Lietuvos istorijoje“ Kazimiero laikai (1440–1492 m.) priskirti pereinamajam ponų įsigalėjimo laikotarpiui.
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82514|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis 1440 m. buvo išrinktas didžiuoju Lietuvos kunigaikščiu.
@@ -103,7 +62,6 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
     I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
     1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

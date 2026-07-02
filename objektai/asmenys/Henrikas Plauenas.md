@@ -32,24 +32,8 @@ periodo_grupes:
 - t-001
   global_id: t-87689
   teiginys: 'Henrikas Plauenas 1468 m. Vilniuje lenkėsi prieš Kazimiero Jogailaičio sostą.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Henriką Plaueną ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Chadži Girėjus|Chadži Girėjus]]; mentioned_place: Lietuva; mentioned_place: Perekopas; mentioned_place: Prūsija; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Plauenas|Henrikas Plauenas]] keliavo į Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1468 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Henriką Plaueną ir atitinka citatos turinį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 460666-461300; hash=cf4e545a52cb56586e51dafb8540929f39b80861ffa5eaf67294dca82659fabf; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vilnius: 0.65
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas Plauenas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Henrikas Plauenas aprašomas veikiantis Vilniuje, todėl remiamas atvykimo ar buvimo vietos santykis.
 - susijęs iš [[objektai/asmenys/Chadži Girėjus.md#claim-t-87642|Chadži Girėjus]]: 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178820|Kryžiuočių ordinas]]: 1448 m. Vilniuje buvo sudaryta garsi sutartis su Prūsijos ordinu.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171397|Totoriai]]: 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
@@ -79,7 +63,6 @@ periodo_grupes:
     1451,1452,1457 (tais metais Goštau­
     tui atleido).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

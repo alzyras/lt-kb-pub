@@ -46,9 +46,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1f04668bdb1b4cd673db38957cc42036cbd8501248798419067265d22c633d35; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 <a id="claim-t-67205"></a>
 - t-002
   global_id: t-67205
@@ -57,9 +54,6 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 732713-733001; hash=bcfcbe0c3f234a53ef87405b11d9419ea7053c1e17636195175757b1dda053ef; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -75,13 +69,10 @@ Nenurodyta
     pripažino pirmenybę Lietuvos ministeriams, kai seimas būdavo
     Lietuvoje.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Įstatymas, kad kas trečias seimas būtų šaukiamas Lietuvoje, buvo vykdomas iki Respublikos pabaigos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -91,9 +82,7 @@ Nenurodyta
     netvarkos laikais XVIII amž-je, kai iširdavo beveik visi seimai.
     Tuo būdu Gardinas pasidarė tarytum antrąją Lietuvos sostine.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

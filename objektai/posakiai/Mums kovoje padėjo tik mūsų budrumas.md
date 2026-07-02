@@ -45,7 +45,6 @@ amziai:
     kokią valandą iki mūšio, - toliau prisimena
     J.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

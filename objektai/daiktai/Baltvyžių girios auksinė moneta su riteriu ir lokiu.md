@@ -36,16 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 440769-441221; hash=2cee65cc99e429e16299b8085db20dedcc2408d29b596d4fd845a06b8c87e837; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Baltvyžių girios: 0.66
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Baltvyžių girios auksinė moneta su riteriu ir lokiu: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Baltvyžių girios: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje moneta priskiriama tam kraštui; pagal claim kontekstą tai Baltvyžių girios.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -60,10 +50,8 @@ Nenurodyta
     redaktorius ir mano veikalų leidėjas. Originalas buvo Vilniuje ir
     tikriausiai pateko į Sankt Peterburgą (žiūrėk iliustraciją)*.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

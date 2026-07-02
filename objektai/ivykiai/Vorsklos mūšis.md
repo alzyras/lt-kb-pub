@@ -38,143 +38,50 @@ Nenurodyta
 - t-001
   global_id: t-186583
   teiginys: 'Lietuvos metraštis pasakoja, kad prieš Vorsklos mūšį Vytautas su Tochtamyšu ištraukė prieš chaną Temir-Kutlujų su didele kariuomene.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir palikta atribucija dėl kronikos pasakojimo bei titulų.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Tochtamyšas|Tochtamyšas]]; llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Tochtamyšas|Tochtamyšas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vorskla; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a325e50148f3a5a53a5b737030a7d7d349e4c2d66b31f93ad05c8ad3ba731c23; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: buvo_sajungininkas_su -> Tochtamyšas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Tochtamyšas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Tochtamyšą buvus Vytauto pusėje.
 
 <a id="claim-t-186584"></a>
 - t-002
   global_id: t-186584
   teiginys: 'Lietuvos metraštis nurodo, kad Vorsklos mūšyje žuvo keli lietuvių kunigaikščiai, tarp jų Andrius Kęstutaitis, Glėbas Karijotaitis ir Simonas.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Sakinys gramatiškas, bet atribucija sušvelninta į šaltinio sąrašo nurodymą.'
-  susije_objektai: 'mentioned_place: Vorskla; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Belzas; mentioned_place: Brianskas; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Smolenskas; llm_object: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a325e50148f3a5a53a5b737030a7d7d349e4c2d66b31f93ad05c8ad3ba731c23; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Tochtamyšas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vorsklos mūšis (mūšis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Tochtamyšas: mention_match, person, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vorsklos mūšis (mūšis)" parinktas kaip owner_note_path. Targetas "Tochtamyšas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186585"></a>
 - t-003
   global_id: t-186585
   teiginys: 'Lietuvos metraštis teigia, kad Tarp Vorsklos mūšyje žuvusiųjų buvo Polocko kunigaikštis Andrius Kęstutaitis, Smolensko kunigaikštis Glėbas Svetoslavovičius ir Krokuvos vaivada Spytka.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'required_attribution_source_finish_repair'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Krokuva; mentioned_place: Polockas; mentioned_place: Smolenskas; mentioned_place: Vorskla; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Belzas; mentioned_place: Brianskas; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Luckas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a325e50148f3a5a53a5b737030a7d7d349e4c2d66b31f93ad05c8ad3ba731c23; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.85
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas leidosi kariauti su totoriais.
 
 <a id="claim-t-186586"></a>
 - t-004
   global_id: t-186586
   teiginys: 'Lietuvos metraštis pasakoja, kad prieš Vorsklos mūšį Vytauto pusėje buvo Tochtamyšo kariuomenė, lietuviai, lenkai, vokiečiai, žemaičiai, totoriai ir moldavai.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Perrašyta į vientisą sakinį, atsisakant perteklinio vardijimo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Tochtamyšas|Tochtamyšas]]; mentioned_place: Vorskla; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1944cd9abe7c456b7487cd54fdd6151de935cb2ed619b01d9a66cc337a5fcfb2; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Vorksla: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vorsklos mūšis (mūšis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vorksla: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vorsklos mūšis (mūšis)" parinktas kaip owner_note_path. Targetas "Vorksla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186587"></a>
 - t-005
   global_id: t-186587
   teiginys: 'Lietuvos metraštis pasakoja, kad Vorsklos mūšis prie Vorkslos upės įvyko antradienį, rugpjūčio dvyliktą dieną.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Sakinys papildytas vieta ir aiškiu įvykio objektu.'
-  susije_objektai: 'mentioned_place: Vorksla; mentioned_place: Vorskla; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Luckas'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1944cd9abe7c456b7487cd54fdd6151de935cb2ed619b01d9a66cc337a5fcfb2; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: puole -> Vorsklos mūšis (mūšis): 0.64
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vorsklos mūšis (mūšis): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Tekstas nurodo totorių pergalę mūšyje; leidžiamas objektas yra pats mūšio įvykis.
 
 <a id="claim-t-186589"></a>
 - t-006
   global_id: t-186589
   teiginys: 'Lietuvos metraštis teigia, kad Po beveik visą dieną trukusios Vorsklos mūšio kovos totoriai sumušė Vytautą ir visą jo kariuomenę.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'required_attribution_source_finish_repair'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Vorskla; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Vorksla; llm_object: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]'
-  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] puolė [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9a20f122dee38fa54583259e8eb6828bafe04c04e5264f1d050c9d366711d095; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: dalyvavo_musyje -> Vorsklos mūšis (mūšis): 0.78
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vorsklos mūšis (mūšis): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Žuvusių lietuvių kunigaikščių sąrašas tiesiogiai rodo lietuvių dalyvavimą mūšyje.
 
 <a id="claim-t-186591"></a>
 - t-007
   global_id: t-186591
   teiginys: 'Lietuvos metraštis teigia, kad Vytautas prieš Vorsklos mūšį siekė atimti iš Temir-Kutlujaus karalystę ir pasodinti į sostą chaną Tochtamyšą.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'required_attribution_source_finish_repair'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Vorskla; llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9a20f122dee38fa54583259e8eb6828bafe04c04e5264f1d050c9d366711d095; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Krokuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vorsklos mūšis (mūšis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=123
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vorsklos mūšis (mūšis)" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.).md#claim-t-63383|Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]: 1399 m. rugpjūčio 12 d., likus dviem valandoms iki saulėlydžio, prasidėjo Vorsklos mūšis.
 - susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje Vytauto žygiai ir Vorsklos kautynės apibendrinti kaip trys lietuvių karai su totoriais.
 - susijęs iš [[objektai/asmenys/Saladinas.md#claim-t-82653|Saladinas]]: 1409 m. Vytautas artimose totorių žemėse įkurdino jam paklusnų chaną Saladiną, vyriausią Tochtamyšo sūnų.
@@ -212,7 +119,6 @@ Nenurodyta
     kunigaikštis Jonas, Jurgio sūnus 3S; ponas Spytka, Kro­
     kuvos vaivada iš LenkijosM , ten pat užmuštas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -237,7 +143,6 @@ Nenurodyta
     valdyti visos Rusų žemės."
     Ir, šitaip prakalbėjęs, leidosi kariauti su totoriais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -267,7 +172,6 @@ Nenurodyta
     jo Lucko ir, pridarę daug pikto, atsitraukė į savo
     žemę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

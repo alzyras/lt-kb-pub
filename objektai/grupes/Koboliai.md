@@ -21,16 +21,6 @@ Narbutas pasakoja, kad koboliai apsigyvendavo namuose, jei šeimininkas palikdav
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 311803-312416; hash=5289ff358912f0e9d43e171c7fc61f0631590a1c0821598441f4c8fa7ab38ff5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Indai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Koboliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Indai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Koboliai" parinktas kaip owner_note_path. Targetas "Indai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/Kobolių skiedrų krūva ir sugadintas pienas.md#claim-t-189726|Kobolių skiedrų krūva ir sugadintas pienas]]: Narbutas kobolių apsigyvenimo ženklu laikė naktį pirkios vidury sudėtą skiedrų krūvą ir išmatomis sugadintą pieną.
 - susijęs iš [[objektai/grupes/Skandinavai.md#claim-t-188335|Skandinavai]]: Narbutas rašo, kad skandinavams koboliai buvo įkyrios ir irzlios mitinės būtybės, su kuriomis buvo galima kovoti ir jas užmušti.
 - susijęs iš [[objektai/zodynas/Koboliai kobeliai koboldai.md#claim-t-189129|Koboliai kobeliai koboldai]]: Narbutas rašo, kad vietiniai kaimiečiai tikėjo žmonėmis, susidėjusiais su koboliais ir iš jų slapčia gaunančiais dovanų.
@@ -51,9 +41,7 @@ Narbutas pasakoja, kad koboliai apsigyvendavo namuose, jei šeimininkas palikdav
     jeigu pirkią iššluodavo, skiedras išmėtydavo ir pieną išpilda­
     vo, jie ramiai išeidavo ieškoti kito būsto.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

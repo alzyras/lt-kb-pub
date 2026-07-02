@@ -28,13 +28,8 @@ Bertuleit, A.
 - t-001
   global_id: t-30498
   teiginys: 'A. Bertuleit 1924 m. paskelbė darbą „Das Religionswesen der alten Preussen mit lettisch-litauischen Parallelen“.'
-  temporaliniai_duomenys: 'įvykio data: 1924 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=55e80006702266859a3f3a4e652a3d8ef6b62da95baf512e7f46f52f560b70af; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -45,7 +40,6 @@ Bertuleit, A.
     tuleit, A. : _Das Religionswesen der alten Preussen mit lettisch-litauischen
     Parallelen,_ Sitzungsberichte d. Altertumsgesellschaft Prussia, t. 25, 1924.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

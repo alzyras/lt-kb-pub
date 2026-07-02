@@ -65,8 +65,6 @@ Nenurodyta
 - t-001
   global_id: t-71677
   teiginys: 'Sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezertyrais ar panikos skleidėjais.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie NKVD veiksmus ir yra pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
 
@@ -74,9 +72,6 @@ Nenurodyta
 - t-002
   global_id: t-71680
   teiginys: 'Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškiai sieja NKVD su sovietizavimo teroru ir atitinka citatą.'
-  susije_objektai: 'mentioned_place: SSRS; llm_object: SSRS'
-  semantiniai_rysiai: '[[objektai/grupes/NKVD|NKVD]] siuntė į SSRS'
   pagrindžia:
     - c-004
 
@@ -84,12 +79,6 @@ Nenurodyta
 - t-003
   global_id: t-71681
   teiginys: 'Kovai su partizanais Lietuvoje dislokuotoje NKVD kariuomenėje 1945 m. vasarą buvo iki 20 tūkst., o 1946 m. apie 14 tūkst. karių.'
-  sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie NKVD kariuomenę Lietuvoje ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/NKGB|NKGB]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  semantiniai_rysiai: '[[objektai/grupes/NKVD|NKVD]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
-  temporaliniai_duomenys: 'įvykio data: 1945 m.; įvykio data: 1946 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis sakinys apie NKVD kariuomenę Lietuvoje ir tiksliai remiasi citata.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Buiničius.md#claim-t-40074|Buiničius]]: Majoras Buiničius buvo NKVD kariuomenės 220-ojo Kutuzovo ordino pulko štabo viršininkas Kalniškės miško mūšyje.
@@ -199,7 +188,6 @@ Nenurodyta
     vadinimo istrebitelnyje bataliony), į kuriuos agitavo stoti vietinius gyvento-
     jus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -217,11 +205,10 @@ Nenurodyta
     194
     turėjo neleisti tokiems pabėgti į Vokietiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-003
+
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-003
   santrauka: 'Sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezertyrais ar panikos skleidėjais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -236,7 +223,6 @@ Nenurodyta
     nėjo šnipinėjimu. Nuo pirmų nacių okupacijos dienų žydai pajuto dalies
     gyventojų neapykantą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -254,7 +240,6 @@ Nenurodyta
     Represijos, areštai, deportacijos, jų baimė – sudedamoji
     bolševikų vykdytos politikos dalis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -8,6 +8,11 @@ datos:
   - '1244 m.'
 date_start: '1241'
 date_end: '1244'
+description: 'Poponas iš Osternos, Prūsijos žemės magistras, 1241 m. atsisakęs pareigų, o 1244 m. minimas Ordino veiksmuose prieš Sventopelką.'
+socialDescription: 'Poponas iš Osternos Dusburgiečio kronikoje siejamas su Prūsijos žemės magistro pareigomis, 1241 m. atsistatydinimu ir 1244 m. Ordino žygiais.'
+seo_atnaujinta: '2026-07-02T21:03:54.568221+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,7 +29,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą Brolis Poponas iš Osternos, antras Prūsų žemės magistras, išbuvo vadovu septynerius metus, o atsisakęs pareigų 1241, sugrįžo į Vokietijos kraštą, kur vėliau buvo išrinktas didžiuoju magistru265. Dusburgietis teigia, kad kai šitai buvo padaryta, 1244 atvyko brolis Poponas, magistras, su 4 broliais ir dar šeši broliai iš Markos, Meiseno ir Tiuringijos. Dusburgietis teigia, kad apie laivų kautynes Brolis Poponas, magistras, rūpindamasis tikinčiaisiais, išleido į kelią su būriu ginklanešių brolį Konradą, vadinamą Bremeriu, liepdamas nuplukdyti į Elbingą tris maisto prikrautus laivus; priartėjęs prie Santyro, jis ten išvydo.
+Poponas iš Osternos buvo antras Prūsijos žemės magistras, pareigas ėjęs septynerius metus ir jų atsisakęs 1241 m. Dusburgiečio pasakojime jis vėliau minimas kaip šeštasis Teutonų namų ordino didysis magistras. 1244 m. Poponas atvyko į Prūsiją su ordino broliais, pavedė gabenti maistą į Elbingą ir dalyvavo veiksmuose prieš Sventopelką prie Višogrudo.
 
 ## Teiginiai
 
@@ -32,105 +37,36 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
 - t-001
   global_id: t-59944
   teiginys: 'Poponas iš Osternos buvo antras Prūsijos žemės magistras, pareigas ėjo septynerius metus ir 1241 m. jų atsisakė.'
-  sudarymo_pagrindimas: 'Reikia pašalinti antraštės triukšmą ir perteklinę atribuciją.'
-  susije_objektai: 'llm_object: Vokietija; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_place: Vokietija'
-  semantiniai_rysiai: '[[objektai/asmenys/Poponas iš Osternos|Poponas iš Osternos]] keliavo į Vokietija'
-  temporaliniai_duomenys: 'įvykio data: 1241 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia pašalinti antraštės triukšmą ir perteklinę atribuciją.'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=afc61881e23488a684477f3cf59df716805a6d4400abad6ca40b07d33bce4551; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vokietija: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Poponas iš Osternos: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vokietija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Popono sugrįžimą į Vokietijos kraštą.
 
 <a id="claim-t-59945"></a>
 - t-002
   global_id: t-59945
   teiginys: 'Poponas iš Osternos tuo metu buvo šeštasis Teutonų namų ordino didysis magistras.'
-  sudarymo_pagrindimas: 'Reikia pašalinti antraštės triukšmą ir autorystės boilerplate.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Livonija; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0eee853b7220069bc05bb7d6a789afe649bcf86da7b91bc1503473c97149575a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Austrija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Poponas iš Osternos: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Austrija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Poponas iš Osternos" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-59946"></a>
 - t-003
   global_id: t-59946
   teiginys: '1244 m. magistras Poponas atvyko su keturiais broliais, o dar šeši broliai atvyko iš Markos, Meiseno ir Tiuringijos.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Austrija; mentioned_place: Kulmas'
-  temporaliniai_duomenys: 'kelionės data: 1244 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą informaciją.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a381217ad7c16b54911ead7af7ce74e66560af995cb6b1383307c23930054f3f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Elbingas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Poponas iš Osternos: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Poponas liepė Konradui plukdyti laivus į Elbingą, todėl siuntimo kryptis aiški.
 
 <a id="claim-t-59947"></a>
 - t-004
   global_id: t-59947
   teiginys: 'Magistras Poponas pavedė Konradui Bremeriui nuplukdyti į Elbingą tris maisto prikrautus laivus.'
-  sudarymo_pagrindimas: 'Pradinis teiginys sujungia antraštę, ilgą kontekstą ir nutrūksta.'
-  susije_objektai: 'llm_object: Elbingas; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Elbingas; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Poponas iš Osternos|Poponas iš Osternos]] siuntė į Elbingas'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=004fce9b93c67514f46a26975af1ffd3402187c0a1a3f910bd07ad45cea236e5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Višogrudas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Poponas iš Osternos: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Višogrudas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Popono atvykimą prie Višogrudo pilies.
 
 <a id="claim-t-59948"></a>
 - t-005
   global_id: t-59948
   teiginys: 'Magistras Poponas pasiuntė žvalgus stebėti Sventopelko ir su savo bei kunigaikščio Kazimiero kariuomene įsikūrė prie Višogrudo.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Višogrudas; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Višogrudas; mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Svečė'
-  semantiniai_rysiai: '[[objektai/asmenys/Poponas iš Osternos|Poponas iš Osternos]] keliavo į Višogrudas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 707605-708018; hash=126cd9f099f72eb67b0aca70df64b8dc91ac3e5b54460df880efa24a384abd72; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Teutonai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Poponas iš Osternos: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Teutonai: mention_match, group, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Poponas iš Osternos" parinktas kaip owner_note_path. Targetas "Teutonai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Popono iš Osternos atsisakymas Prūsijos magistro pareigų ir vėlesnis išrinkimas didžiuoju magistru.md#claim-t-62442|Popono iš Osternos atsisakymas Prūsijos magistro pareigų ir vėlesnis išrinkimas didžiuoju magistru]]: Poponas iš Osternos septynerius metus buvo antrasis Prūsijos žemės magistras, 1241 m. atsisakė pareigų ir vėliau tapo didžiuoju magistru.
 ## Reikšmingi paminėjimai
 
@@ -145,7 +81,6 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
     Višogrudo pilies291 ir ten įsikūrė stovyklą. Žvalgai sugrįžę pranešė, kad Sventopelkas su
     galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -164,7 +99,6 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
     Sventopelko pralaimėjimo vaizdais sušvelninti ankstesnio Ordino pralaimėjimo įspūdį
     (PKD, p. 44).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -184,7 +118,6 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
 
      39.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -205,7 +138,6 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
     laivais, irkluotojų greitai varomais, ir paskandino daugelį kunigaikščio laivų, o kitus stipriai
     sužalojo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -226,7 +158,6 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
 
                 30.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -248,7 +179,6 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
     Be to, Austrijos kunigaikštis dar atsiuntė šiai žemei padėti 30 raitųjų lankininkų, išlaikomų
     savo lėšomis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

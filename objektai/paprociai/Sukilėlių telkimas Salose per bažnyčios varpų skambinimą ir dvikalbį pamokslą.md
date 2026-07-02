@@ -34,7 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-09577
   teiginys: 'Kunigas Mackevičius sakė pamokslą ir lenkiškai, ir lietuviškai, o kariuomenė bei žmonių pulkai jo klausėsi tyrame lauke.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
   pagrindžia:
     - c-001
 
@@ -42,7 +41,6 @@ Nenurodyta
 - t-002
   global_id: t-09578
   teiginys: 'Žmones į Salas telkė bažnyčios varpų skambėjimas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Varpai|Varpai]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -57,7 +55,6 @@ Nenurodyta
     ~ Eikime, broliai, už vierą šventą, už tėvynę mūsų brangiąją Lietuvą ir už mūsų bro-
     lius Lietuvius!“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -69,7 +66,6 @@ Nenurodyta
     „Štai vieną dieną bažnyčioje visais varpais skambina. Pulkai žmonių eina į Salas. Nuėjo
     ir mūsų tėveliai ir visa šeimyna; tiktai mes vaikai su bobute namie belikome.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

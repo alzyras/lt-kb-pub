@@ -36,12 +36,6 @@ amziai:
 - t-001
   global_id: t-179764
   teiginys: 'Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai susieja Mindaugo veiksmus su Briansko kunigaikštija.'
-  susije_objektai: 'llm_object: Brianskas; llm_object: Černigovas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dniepras; mentioned_place: Lenkija; mentioned_place: Černigovas'
-  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] užėmė Brianskas'
-  temporaliniai_duomenys: 'įvykio data: 1237-1263; įvykio data: 1255 m.; įvykio data: apie 1255 m.; įvykio data: 1263 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai susieja Mindaugo veiksmus su Briansko kunigaikštija.'
   pagrindžia:
     - c-001
 
@@ -49,11 +43,6 @@ amziai:
 - t-002
   global_id: t-179765
   teiginys: '1393 m. pavasarį Briansko ir Naugardo-Sieversko kunigaikštis Dimitras Kaributas buvo nugalėtas kautynėse ir neteko valdos.'
-  sudarymo_pagrindimas: 'Teiginys pilnai nurodo Dimitro Kaributo pralaimėjimą ir valdos praradimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dimitras Kaributas|Dimitras Kaributas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Naugardas; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
-  temporaliniai_duomenys: 'įvykio data: 1392 m.; įvykio data: 1393 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys pilnai nurodo Dimitro Kaributo pralaimėjimą ir valdos praradimą.'
   pagrindžia:
     - c-002
 
@@ -61,11 +50,6 @@ amziai:
 - t-003
   global_id: t-184937
   teiginys: 'Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Perejeslavlis; mentioned_place: Putivlis; mentioned_place: Kijevas; mentioned_place: Severskas; mentioned_place: Volynė; mentioned_place: Čerkasai'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/zodynas/monarchas monarchija.md#claim-t-185388|monarchas monarchija]]: Gediminui užkariavus Kijevą, baigėsi daugiau kaip 430 metų Rusioje išsilaikiusi Kijevo monarchija.
@@ -138,7 +122,6 @@ amziai:
     1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių
     prie Dniepro — Černigovo ir Briansko kunigaikštijose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -154,7 +137,6 @@ amziai:
     versko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse
     buvo nugalėtas. Jis nebeteko ir savo valdos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -175,7 +157,6 @@ amziai:
     mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
     džioje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

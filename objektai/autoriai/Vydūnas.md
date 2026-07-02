@@ -21,7 +21,6 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
 - t-001
   global_id: t-89486
   teiginys: 'Vydūnas šaltinyje nurodomas kaip Vilius Storasta.'
-  sudarymo_pagrindimas: 'Citata yra tik vardinis įrašas, todėl reikia atsargios formuluotės apie nurodymą.'
   pagrindžia:
     - c-001
 
@@ -29,7 +28,6 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
 - t-002
   global_id: t-89487
   teiginys: 'Vydūnas nurodytas tarp autorių, palaikiusių aptariamą mintį.'
-  sudarymo_pagrindimas: 'Citata neatskleidžia pačios minties turinio, todėl galima formuluoti tik atsargų teiginį apie Vydūno pozicijos paminėjimą.'
   pagrindžia:
     - c-002
 
@@ -37,12 +35,8 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
 - t-003
   global_id: t-89488
   teiginys: 'Tilžėje gyvenęs rašytojas filosofas Vydūnas vadovavo vietos lietuviams ir dėl to patyrė persekiojimą.'
-  sudarymo_pagrindimas: 'Citata paremia aiškesnį sakinį apie Vydūno vaidmenį ir patirtą spaudimą.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2f81e849a9fc602b0c19b3aad56eafe42aab56b92c0a723d2388d7618d377ff6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/autoriai/Vileišis V.md#claim-t-62662|Vileišis V]]: V. Vileišis yra 1935 m. Kaune išleisto veikalo „Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos šviesoje“ autorius.
 - susijęs iš Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos šviesoje: V. Vileišio darbas apie tautinius santykius Mažojoje Lietuvoje ligi Didžiojo karo išleistas Kaune 1935 m.
 ## Reikšmingi paminėjimai
@@ -53,7 +47,6 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
   citata_originali: |
     Vydūnas (Vilius Storasta).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -66,7 +59,6 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
     Šią mintį palaikė kiti, tarp jų Vydūnas (Vydūnas., Sieben Hundert
     Jahre..., p. 131).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -84,7 +76,6 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
     tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui,
     kuris vadovauja vietos lietuviams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

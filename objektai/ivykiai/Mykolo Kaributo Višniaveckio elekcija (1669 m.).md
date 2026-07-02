@@ -42,9 +42,6 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8cc93231dcf0b5bed4854b601b529ede0ba991248f82a8c279e23cd7b3c92f91; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 <a id="claim-t-66795"></a>
 - t-002
   global_id: t-66795
@@ -53,9 +50,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b8d1dee7545ab8caf59ee3f222db89ae2ec0cbda42d5150cb11d9410e9ce490e; match=normalized; occurrences=1
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -69,13 +63,10 @@ Nenurodyta
     visai netikėtai karalium buvo paskelbtas Mykolas Kaributas Viš-
     niaveckis.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-002
+    - t-002- c-002
   santrauka: 'Didikai bandė sutrukdyti Mykolo Kaributo Višniaveckio elekciją, tačiau bajorija gynė savo išrinktąjį karalių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -86,9 +77,7 @@ Nenurodyta
     vadovaujamoji Lietuva irgi pasisakė už jį, ir tuo būdu Višnia-
     veckis tapo karalium.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

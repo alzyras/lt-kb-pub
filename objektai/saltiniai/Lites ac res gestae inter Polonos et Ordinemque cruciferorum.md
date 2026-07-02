@@ -28,23 +28,8 @@ Dusburgietis teigia, kad lites ac res gestae inter Polonos et Ordinemque crucife
 - t-001
   global_id: t-61147
   teiginys: '„Lites ac res gestae inter Polonos et Ordinemque cruciferorum“ pirmasis tomas išleistas Poznanėje 1890 m.'
-  sudarymo_pagrindimas: 'Citata pagrindžia tomo numerį, leidimo vietą ir metus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Polona; mentioned_place: Poznanė'
-  temporaliniai_duomenys: 'įvykio data: 1890 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia tomo numerį, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 783558-783645; hash=ae20a7f7988b73c430ec78cfd35d79ebbfa067db546b9c1798547e35c77ca919; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Polona: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lites ac res gestae inter Polonos et Ordinemque cruciferorum: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Polona: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lites ac res gestae inter Polonos et Ordinemque cruciferorum" parinktas kaip owner_note_path. Targetas "Polona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -56,7 +41,6 @@ Dusburgietis teigia, kad lites ac res gestae inter Polonos et Ordinemque crucife
 
     1890.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

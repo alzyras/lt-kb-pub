@@ -21,16 +21,6 @@ Narbutas Šakjamunį apibūdino kaip tautos mokytoją, išminčių ir įstatymų
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 487656-488205; hash=6e910a21f6b10b94462fef13d4f7f6723ac97bd59a9e9bade0d80d54cdfd3a03; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Buda: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šakjamunis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Buda: mention_match, place, gap=95
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šakjamunis" parinktas kaip owner_note_path. Targetas "Buda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Bodhidana.md#claim-t-190135|Bodhidana]]: Narbutas Bodhidaną pristato kaip Šakjamunio dvidešimt aštuntąjį įpėdinį, persikėlusį į Tibetą ir mirusį prie Sungo kalno 495 m.
 ## Reikšmingi paminėjimai
 - c-001
@@ -48,9 +38,7 @@ Narbutas Šakjamunį apibūdino kaip tautos mokytoją, išminčių ir įstatymų
     sostinėje -  tikėjimo, kurį išpažįsta daugybė tautų ir kuris tin­
     kamas plisti arba būti universalus.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

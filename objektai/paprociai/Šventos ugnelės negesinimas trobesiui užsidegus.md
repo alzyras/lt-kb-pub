@@ -38,7 +38,6 @@ Nenurodyta
 - t-001
   global_id: t-67247
   teiginys: 'Užsidegus trobesiui kai kurie lietuviai nenorėdavo jo gesinti, nes ugnelę laikė šventą ir įsižeidžiančią.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Stigavoja|Stigavoja]]; mentioned_place: Pinskas'
   pagrindžia:
     - c-001
 
@@ -54,7 +53,6 @@ Nenurodyta
         aplankė.“ Perkūnijos ugnį daug stigavoja iki šiai dienai, jog ožkos pienu tegalį užgesyti, kas niekų
         kalba yra, nesgi ir pačiu vandeniu gal užgesyti, jei ano gausiai pasitinka.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

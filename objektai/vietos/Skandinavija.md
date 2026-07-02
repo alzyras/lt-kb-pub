@@ -22,20 +22,8 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 - t-001
   global_id: t-69251
   teiginys: 'Protestantizmas padėjo Skandinavijai pritapti prie dinamiškosios šiaurinės Vakarų Europos dalies.'
-  sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs; citata remia glaustą enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Vakarų Europa; mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_place: Italija; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=17290308910638ded3ae739cc0cdfaf058d13213879b61d1e6f195b7daef2471; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skandinavija: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=59
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skandinavija" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/B. Nerman.md#claim-t-30569|B. Nerman]]: B. Nermanas 1929 m. Stokholme paskelbė darbą apie Skandinavijos ir Rytų Baltijos ryšius vėlyvajame geležies amžiuje.
 - susijęs iš [[objektai/autoriai/Lukas Davidas.md#claim-t-190318|Lukas Davidas]]: Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės šventyklą ir Krivių Krivaitį laikė gotų ar Skandinavijos švedų papročio sekimu.
 - susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86992|Laivai, valtys, sieliai ir plaustai]]: Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.
@@ -93,7 +81,6 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
     pos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją
     Vidurio Europą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

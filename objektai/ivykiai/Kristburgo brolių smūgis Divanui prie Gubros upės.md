@@ -46,23 +46,8 @@ Nenurodyta
 - t-001
   global_id: t-91915
   teiginys: 'Kristburgo ir Elbingo broliai prie Gubros upės užpuolė Divaną, nukovė jo giminaitį Dabarą ir susigrąžino grobį.'
-  sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir tiesiogiai paremtas citata apie puolimą prie Gubros upės.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dabaras|Dabaras]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Elbingas; mentioned_place: Kristburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Aliamas; mentioned_place: Kaimas; mentioned_place: Marienburgas; mentioned_place: Pilaitė; mentioned_place: Prūsų žemė; mentioned_place: Viena; mentioned_place: Vildenbergas; mentioned_place: Zirgūna; llm_object: [[objektai/asmenys/Divanas|Divanas]]; llm_object: [[objektai/asmenys/Dabaras|Dabaras]]'
-  temporaliniai_duomenys: 'įvykio data: 1271 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, konkretus ir tiesiogiai paremtas citata apie puolimą prie Gubros upės.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 441140-442755; hash=f55568cedc280bfabe1f2b7d2f7904f2ca92465512675f97c7c2056db7f3ee1d; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Divanas: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Divanas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citatoje Kristburgo ir Elbingo broliai, siejami su ordinu, tiesiogiai užpuola Divaną.
 
 ## Reikšmingi paminėjimai
 
@@ -93,7 +78,6 @@ Nenurodyta
     būreliu savo karių gėdingai paspruko. Taigi broliai, susigrąžinę grobį, kurio šis buvo iš jų
     žmonių prisiplėšęs, parvyko namo, dėkodami už sėkmę dievui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

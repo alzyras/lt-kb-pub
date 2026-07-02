@@ -20,12 +20,8 @@ Dusburgietis teigia, kad wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab.
 - t-001
   global_id: t-58744
   teiginys: 'Wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab.'
-  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=abd4d443d07d2fcef4dea9bc7241b51bf7a4a0a7e00b2cec2d4cea061a3737a9; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/J. Pilsudskis.md#claim-t-108751|J. Pilsudskis]]: J. Pilsudskis, pokario Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu.
 - susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101674|Juzefas Pilsudskis]]: Juzefas Pilsudskis, pokario Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu.
 - susijęs iš [[objektai/asmenys/Stanislovas Daugirdas.md#claim-t-186253|Stanislovas Daugirdas (kunigaikštis, XVI a.)]]: Stanislovas Daugirdas stropiai surinko lietuvių belaisvių vardus iš visos Maskvos kunigaikštystės.
@@ -53,7 +49,6 @@ Dusburgietis teigia, kad wopławki) Vargiai (Wargen, Wargin; gyvenvietė, dab.
        Vargiai (Wargen, Wargin; gyvenvietė, dab. Kotelnikovas)
       Varmė, u.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

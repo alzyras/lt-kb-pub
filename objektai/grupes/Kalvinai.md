@@ -30,45 +30,15 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
 - t-001
   global_id: t-01342
   teiginys: '1639 m. po šūvio iš kalvinų bažnyčios šventoriaus Vilniuje minia apgriovė kalvinų bažnyčią, o seimas vėliau nutarė ją nugriauti.'
-  sudarymo_pagrindimas: 'Reikia aiškiau susieti nugriovimą su ta pačia kalvinų bažnyčia.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Vilnius; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Kalvinai|Kalvinai]] gyveno Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1639 m.; įvykio data: 1640 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia aiškiau susieti nugriovimą su ta pačia kalvinų bažnyčia.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1577d7ea86040204dad67386814a7c48d254d7aaae5bc56cfabbb9193c3ef32b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vilnius: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kalvinai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kalvinai minimi Vilniuje turėję bažnyčią, todėl tiesiogiai siejami su Vilniumi.
 
 <a id="claim-t-01343"></a>
 - t-002
   global_id: t-01343
   teiginys: 'Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Liuterionys|Liuterionys]]; mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Vilnius; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Kalvinai|Kalvinai]] gyveno Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1611 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 686184-686576; hash=525cf1feae31ac4f4325957cc549518c9e6e8861d30d59ac82d825a8576f0b14; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vilnius: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kalvinai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kalvinų bažnyčia lokalizuojama Vilniuje, todėl kalvinai tiesiogiai siejami su Vilniumi.
 - susijęs iš [[objektai/grupes/Liuterionys.md#claim-t-01413|Liuterionys]]: Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
 - susijęs iš [[objektai/ivykiai/Vilniaus kalvinų bažnyčios nugriovimas ir naujos bažnyčios pastatymas (1639–1640 m.).md#claim-t-01845|Vilniaus kalvinų bažnyčios nugriovimas ir naujos bažnyčios pastatymas (1639–1640 m.)]]: Po ilgos bylos seimas nusprendė nugriauti Vilniaus kalvinų bažnyčią, o 1640 m. kita kalvinų bažnyčia pastatyta už miesto.
 - susijęs iš Brasta: Brastoje buvo įkurta protestantų mokykla, o pradžios mokyklų protestantai turėjo beveik kiekvienoje savo parapijoje.
@@ -91,7 +61,6 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
     niuje buvo nugriauta. Kita kalvinų bažnyčia buvo pastatyta už
     miesto (1640 m.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -106,7 +75,6 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
     buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nu-
     kankintas. Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

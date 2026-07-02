@@ -47,7 +47,6 @@ Nenurodyta
         ir lūšies nagus, kiti prieš smertį patys nagų savo nepjaustę ir auginę, idant turėtų kuo įsikibti
         lipdami ir pasiilsėti galėtų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -27,12 +27,8 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
 - t-001
   global_id: t-61261
   teiginys: 'M. Prätoriaus „Proetorius M. Deliciae Prussiae oder Preussische Schaubühne“ mašinraštis su E. Kraštinaičio šifruotu tekstu nurodytas MAB RS fonde F 129-1338/5.'
-  sudarymo_pagrindimas: 'Citata pagrindžia mašinraščio apibūdinimą ir fondo nuorodą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 793545-793698; hash=f8fc7ed28ae2aec8ad873e9e01beb4665252222e6f6b2abe9f25342090ff71e3; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -43,7 +39,6 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
     [Prätorius  M.]  Proetorius M.  Deliciae  Prussiae  oder  Preussische Schaubühne.
     [Mašinraštis. E. Kraštinaičio šifruotas tekstas].—MAB RS, F 129—1338/5.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

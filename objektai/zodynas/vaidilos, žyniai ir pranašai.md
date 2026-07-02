@@ -29,58 +29,22 @@ amziai:
 - t-001
   global_id: t-86494
   teiginys: 'Šventaragio slėnyje prie medinės šventyklos stovėjo pagonių vaidilų būstai.'
-  sudarymo_pagrindimas: 'Pradinė formuluotė prasideda kontekstiniu „Čia pat“, todėl reikia aiškaus vietos įvardijimo.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Akademijos teatro įranga|Akademijos teatro įranga]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Vilija'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 233378-233801; hash=2e827247879caa64b79d02f59212d36a2f5ac85b81d0d3e0c49d8178761de064; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Akademijos teatro įranga: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: vaidilos, žyniai ir pranašai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Akademijos teatro įranga: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "vaidilos, žyniai ir pranašai" parinktas kaip owner_note_path. Targetas "Akademijos teatro įranga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-86495"></a>
 - t-002
   global_id: t-86495
   teiginys: 'Lietuvos kronikos ir vietos padavimai katedros varpinę siejo su bokštu, iš kurio Lizdeika skelbdavęs pranašystes.'
-  sudarymo_pagrindimas: 'Perrašyta kaip teiginys apie tradiciją, nes citata pabrėžia įrodymų stoką.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 233980-235084; hash=1970480aa273be5960686cd684d717a0c526643dfcb9e9af71dd5124f41d2e25; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: vaidilos, žyniai ir pranašai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "vaidilos, žyniai ir pranašai" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-86496"></a>
 - t-003
   global_id: t-86496
   teiginys: 'Prie Kreivosios pilies stovėjo apvalus plytų ir akmens bokštas, pro kurio langą žyniai ir pranašai skelbdavo pranašystes žmonėms.'
-  sudarymo_pagrindimas: 'Perrašyta tiksliau pagal citatą, nurodant bokšto medžiagas ir išlaikant faktinį predikatą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 235389-235987; hash=a3137991c5eb74e04ae8ea8a3af801c1c741c237b973e6f8dc9bdbee9dc6999c; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lizdeika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: vaidilos, žyniai ir pranašai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lizdeika: mention_match, person, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "vaidilos, žyniai ir pranašai" parinktas kaip owner_note_path. Targetas "Lizdeika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -112,7 +76,6 @@ amziai:
     tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­
     rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -131,7 +94,6 @@ amziai:
     kur dabar stovi katedra, stūksojo negrabus dievo Perkūno
     stabas, pastatytas ant akmeninės pakylos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -161,7 +123,6 @@ amziai:
     pranašystės. Tačiau nėra patikimų
     tam įrodymu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

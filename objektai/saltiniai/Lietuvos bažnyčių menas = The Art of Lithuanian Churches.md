@@ -27,11 +27,6 @@ Lietuvos bažnyčių menas = The Art of Lithuanian Churches.
 - t-001
   global_id: t-45691
   teiginys: 'Leidinys „Lietuvos bažnyčių menas = The Art of Lithuanian Churches“ buvo išleistas Vilniuje 1993 m.'
-  sudarymo_pagrindimas: 'Citata pateikia leidinio pavadinimą, leidimo vietą ir metus; pradinis teiginys buvo bibliografinis fragmentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Aldona Bieliūnienė|Aldona Bieliūnienė]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_place: Europa'
-  temporaliniai_duomenys: 'įvykio data: 1993 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pateikia leidinio pavadinimą, leidimo vietą ir metus; pradinis teiginys buvo bibliografinis fragmentas.'
   pagrindžia:
     - c-001
 
@@ -47,7 +42,6 @@ Lietuvos bažnyčių menas = The Art of Lithuanian Churches.
     Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų
     darbas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

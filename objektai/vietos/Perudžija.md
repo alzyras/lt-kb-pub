@@ -27,15 +27,8 @@ Pasiuntiniai rado popiežių Perudžijoje (Š.
 - t-001
   global_id: t-34215
   teiginys: '1388 m. balandžio 8 d. pasiuntiniai Perudžijoje rado popiežių ir gavo jo brevę.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Perudžiją ir atitinka citatą.'
-  temporaliniai_duomenys: 'įvykio data: 1388 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Perudžiją ir atitinka citatą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 261601-261717; hash=aa91446286a3d318d9ebe9100303639838ca2df0432b8f33426b9b4cddcff59e; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176308|Algirdas (Lietuvos valdovas)]]: Poznanės vyskupas Dobrogostas buvo tarpininkavęs tarp popiežiaus Inocento VI ir didžiojo Lietuvos kunigaikščio Algirdo.
 - susijęs iš [[objektai/asmenys/Dobrogostas.md#claim-t-82254|Dobrogostas]]: Poznanės vyskupas Dobrogostas buvo pasiųstas pas popiežių Urboną VI ir anksčiau tarpininkavo Algirdui bei Inocentui VI.
 - susijęs iš [[objektai/asmenys/Inocentas VI.md#claim-t-35100|Inocentas VI]]: Inocentas VI buvo popiežius, kurio santykiuose su Algirdu kartą tarpininkavo Poznanės vyskupas Dobrogostas.
@@ -51,7 +44,6 @@ Pasiuntiniai rado popiežių Perudžijoje (Š.
     (Š. Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę
     (1388. IV. 8).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

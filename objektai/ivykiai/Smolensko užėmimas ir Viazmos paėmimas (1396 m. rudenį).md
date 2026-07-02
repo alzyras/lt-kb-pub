@@ -43,23 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-31475
   teiginys: '1396 m. rudenį Vytautas, pasisiūlęs tarpininkauti, užėmė Smolenską ir Smolensko leną Viazmą.'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Smolenskas; llm_object: Viazma; mentioned_place: Smolenskas; mentioned_place: Viazma; mentioned_person: [[objektai/asmenys/Hlebas|Hlebas]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1396 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=da9dbeec9fc6e594f816ebec8827e93379c9971af0af928d8d575f2e6a8aec9c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Smolenskas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas užėmė Smolenską.
 
 ## Reikšmingi paminėjimai
 
@@ -74,7 +59,6 @@ Nenurodyta
     ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse
     vietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -24,8 +24,6 @@ tags:
 - t-001
   global_id: t-09656
   teiginys: '„Dabar tai jie gaus“ buvo siejama su kareivių noru kuo greičiau atkeršyti už ankstesnę dieną.'
-  sudarymo_pagrindimas: 'Teiginys perrašytas aiškiai įvardijant posakį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
 
@@ -33,8 +31,6 @@ tags:
 - t-002
   global_id: t-09657
   teiginys: '„Dabar tai jie gaus“ kareiviai kartojo pakilus ūpui po pro rinktinę pravažiavusių keturių vokiečių patrankų.'
-  sudarymo_pagrindimas: 'Citata nepagrindžia puolimo, bet pagrindžia nuotaikos ir kartojimo aplinkybes.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
 
@@ -47,7 +43,6 @@ tags:
     patrankos. Kareivių ūpas pakilo. Noras buvo ko greičiau atkeršyti už aną dieną. Visų lūpos
     tą patį kartojo: „Dabar tai jie gaus“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

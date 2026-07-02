@@ -23,21 +23,8 @@ Vilnius, drau­ ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
 - t-001
   global_id: t-86780
   teiginys: 'Žygimanto grupuotė kartu su Švitrigailos šalininkais vėl pavertė Vilnių politinės kovos taikiniu.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie Žygimanto grupuotę, bet pradiniame sakinyje yra OCR triukšmo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Žygimanto šalininkai|Žygimanto šalininkai]] buvo priešas [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=844ed12131af273380e035050b2d38522e30e1a4fba8f8c9ce849d1c316ed972; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Švitrigaila: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žygimanto šalininkai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata aiškiai nurodo Žygimanto ir Švitrigailos grupuočių tarpusavio priešiškumą.
 
 ## Reikšmingi paminėjimai
 
@@ -63,7 +50,6 @@ Vilnius, drau­ ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
     gaila ne tik nepadarė, bet, savavališkai atimdamas palikimą
     iš įvairių šeimynų, visus prieš save sukiršino18.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

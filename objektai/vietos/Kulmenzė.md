@@ -29,93 +29,36 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
 - t-001
   global_id: t-58496
   teiginys: 'Kulmenzės katedros bažnyčioje buvo palaidotas Goliubo pilies statytojas, atsisakęs pareigų ir ten miręs.'
-  sudarymo_pagrindimas: 'Citata palaiko tik palaidojimo Kulmenzėje faktą, o įvardis turi būti pašalintas.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ee784d8b11243a2f28126058d8f95cf4af986da738e8a1f0b8ef5e8d1a4cd009; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsų žemė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmenzė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmenzė" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58497"></a>
 - t-002
   global_id: t-58497
   teiginys: 'Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, 1299 m. mirė ir buvo palaidotas Kulmenzės katedroje.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatą apie Liudviko iš Šipeno mirtį ir palaidojimą.'
-  susije_objektai: 'llm_object: Kulmenzė; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Liudvikas|Liudvikas]] buvo palaidotas Kulmenzė'
-  temporaliniai_duomenys: 'mirties data: 1299 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatą apie Liudviko iš Šipeno mirtį ir palaidojimą.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8186a596efb66ce8031765d66a8c2d17134b23242826ed1f00d40fa8e253cb0a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmenzė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmenzė" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58498"></a>
 - t-003
   global_id: t-58498
   teiginys: 'Prūsų kariuomenė atžygiavo ir apsiautė Kulmenzės miestą.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Kulmenzės apgulą.'
-  susije_objektai: 'mentioned_place: Prūsų žemė'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 463148-463688; hash=0603cc4971a204bba077f02d45e322dd22d5fd2992788eecc8de1eb66a68abac; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kulmas: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Sūduvių kariuomenė minima kaip Kulmo žemę siaubusios kariuomenės dalis.
 
 <a id="claim-t-58499"></a>
 - t-004
   global_id: t-58499
   teiginys: 'Lenkų karys Ninerikas įsigavo į Kulmenzę, pasižadėjęs išduoti miestą sūduvių vadui Skomantui.'
-  sudarymo_pagrindimas: 'Reikia pašalinti boilerplate ir aiškiai įvardyti miestą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Ninerikas|Ninerikas]]; mentioned_place: Eimsutis; mentioned_place: Viena; llm_object: Kulmas; llm_object: Kulmenzė'
-  semantiniai_rysiai: '[[objektai/asmenys/Ninerikas|Ninerikas]] keliavo į Kulmenzė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c54bcec6ed239abfdc58aff184ea7a6d74d832df41b2931e269e2212dd54428b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_palaidotas -> Kulmenzė: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Liudvikas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kulmenzė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Liudvikas tiesiogiai įvardytas kaip palaidotas Kulmenzės katedroje.
 
 <a id="claim-t-58500"></a>
 - t-005
   global_id: t-58500
   teiginys: 'Per javapjūtę prūsų kariuomenė 13 dienų slapstėsi miške prie Fogelzango netoli Kulmenzės.'
-  sudarymo_pagrindimas: 'Citata pagrindžia įvykį, bet pirminis teiginys per ilgas ir nutrūkęs.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 607127-607343; hash=52b64278b408eeff8b29781731b4085ea2264bcde2bc557e910e2c4a0ad3023e; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Ninerikas.md#claim-t-184116|Ninerikas]]: Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui.
 - susijęs iš [[objektai/asmenys/Ninerikas.md#claim-t-60182|Ninerikas]]: Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui.
 - susijęs iš [[objektai/asmenys/Helmerichas.md#claim-t-89794|Helmerichas]]: Helmerichas buvo šeštasis Prūsijos žemės magistras, vadovavo trejus metus ir buvo palaidotas Kulmenzės bažnyčioje.
@@ -151,7 +94,6 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
     Kai, matant priešams, miestiečiai kopė į sienas, užkopė ir jis, tas išdavikas, ir vieną bei
     antrą kartą papūtė savo ragą, duodamas sutartą ženklą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -171,7 +113,6 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
 
              280 (273).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -187,7 +128,6 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
     įvykio vyskupas susišaukė kilminguosius bei vasalus, įpareigodamas juos už nuodėmes
     išeiti [iš miesto] ir tiksliai sužinoti, kiek priešo kariuomenėje karių ir kokio ji stiprumo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -207,7 +147,6 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
 
       273 (266).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -225,7 +164,6 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
     lauke ilgiau stovėti, nes būtų nuostolinga, miestiečiai visi kaip vienas išėjo jų pjauti,
     manydami, kad svetima kariuomenė bus pasitraukusi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -23,39 +23,15 @@ tags:
 - t-001
   global_id: t-88338
   teiginys: 'Steponas Genseris Vilniaus auksakalių cecho reikalavimu buvo raštiškai pakviestas į valdovo teismą.'
-  sudarymo_pagrindimas: 'Citata palaiko šaukimo faktą, bet pradinis teiginys nutrūksta ir turi OCR triukšmo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Genseris|Steponas Genseris]]; mentioned_place: Vilnius; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Transilvanija'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 817973-818770; hash=8dc58d5453fd87bd410ab1c7bd18cba862a733500092d4201f49892c99785ce7; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Steponas Genseris: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stepono Batoro teismo šaukimas Steponui Genseriui dėl Vilniaus auksakalių cecho skundo: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Steponas Genseris: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stepono Batoro teismo šaukimas Steponui Genseriui dėl Vilniaus auksakalių cecho skundo" parinktas kaip owner_note_path. Targetas "Steponas Genseris" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-88339"></a>
 - t-002
   global_id: t-88339
   teiginys: 'Steponas Genseris kaltintas atskirai nuo Vilniaus auksakalių cecho gaminęs ir pardavinėjęs auksakalystės dirbinius.'
-  sudarymo_pagrindimas: 'Citata leidžia aiškiai perteikti skundo esmę, pašalinant lotyniškas ir puslapio nuotrupas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Genseris|Steponas Genseris]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 820969-821791; hash=64823b5826c721e7e5d4fcc50b5bce463c0b121d43ed7fd06944fc29bae09cf9; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Steponas Genseris: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stepono Batoro teismo šaukimas Steponui Genseriui dėl Vilniaus auksakalių cecho skundo: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Steponas Genseris: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stepono Batoro teismo šaukimas Steponui Genseriui dėl Vilniaus auksakalių cecho skundo" parinktas kaip owner_note_path. Targetas "Steponas Genseris" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -83,7 +59,6 @@ tags:
     laikydamosi termino, ir taip pat savo nesutarimus pakarto­
     jo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -108,7 +83,6 @@ tags:
     teisės ir atsiskyrusiems nuo Vilniaus auksakalių cecho meist­
     rams numatytos bausmės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

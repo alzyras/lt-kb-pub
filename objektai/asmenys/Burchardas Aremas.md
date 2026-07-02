@@ -26,27 +26,8 @@ Mūšyje su lietuviais atvirame lauke žuvo ordino magistras Burchardas Aremas i
 - t-001
   global_id: t-186187
   teiginys: 'Mūšyje su lietuviais atvirame lauke žuvo ordino magistras Burchardas Aremas ir trisdešimt ordino riterių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko asmeniui svarbų faktą, bet pradinį sakinį reikia sutrumpinti ir išvalyti.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dobrynė; llm_object: Dobrynė'
-  semantiniai_rysiai: '[[objektai/asmenys/Burchardas Aremas|Burchardas Aremas]] mirė Dobrynė'
-  temporaliniai_duomenys: 'įvykio data: 1297 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko asmeniui svarbų faktą, bet pradinį sakinį reikia sutrumpinti ir išvalyti.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 273216-273866; hash=a02a155bd4ef38bdf11210a833c59f4a23a6a4deae1d18c9da6ff6b628dd7415; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad lietuviai kautėsi su kryžiuočiais.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184494|Kryžiuočių ordinas]]: Atvirame lauke lietuviai laimėjo kautynes su kryžiuočiais, o mūšyje žuvo ordino magistras Burchardas Aremas ir trisdešimt riterių.
 ## Reikšmingi paminėjimai
 
@@ -72,7 +53,6 @@ Mūšyje su lietuviais atvirame lauke žuvo ordino magistras Burchardas Aremas i
     miestą pavyko užimti staigiu
     antpuoliu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

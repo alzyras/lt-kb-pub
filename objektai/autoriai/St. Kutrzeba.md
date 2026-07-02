@@ -30,15 +30,8 @@ periodo_grupes:
 - t-001
   global_id: t-100137
   teiginys: 'St. Kutrzeba 1914 m. paskelbė darbą „Unja Litwy z Polską“.'
-  sudarymo_pagrindimas: 'Citata palaiko pilną faktą apie autoriaus publikaciją.'
-  temporaliniai_duomenys: 'įvykio data: 1914 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko pilną faktą apie autoriaus publikaciją.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 805405-805545; hash=636e9e84e4b97417e81aa9e1026ff79f4ab98be0798054c47dff464afb0bdd58; match=whitespace_regex
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/autoriai/Wł. Semkowiczius.md#claim-t-29646|Wł. Semkowiczius]]: Wł. Semkowiczius su J. Fijałeku išleido Vilniaus vyskupijos šaltinių tomą, o su St. Kutrzeba - Lenkijos ir Lietuvos unijos aktus.
 - susijęs iš [[objektai/autoriai/prof. dr. St. Kutrzeba.md#claim-t-54147|prof. dr. St. Kutrzeba]]: St. Kutrzeba teigė, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako.
 - susijęs iš [[objektai/autoriai/prof. dr. St. Kutrzeba.md#claim-t-54148|prof. dr. St. Kutrzeba]]: Prof. dr. St. Kutrzeba pastebėjo, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako.
@@ -55,7 +48,6 @@ periodo_grupes:
     giellonów,_ I, 1930, 11-51 p. — Kutrzeba, St. : _Unja Litwy z Polską,_
     PiL, 1914, 452-658 p.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

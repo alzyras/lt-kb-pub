@@ -30,10 +30,6 @@ periodo_grupes:
 - t-001
   global_id: t-82553
   teiginys: 'Martyno Liuterio ir Cvinglio mokslą Vilniuje stipriai palaikė Vilniaus vaivada Mikalojus Radvila Juodasis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Cvinglis|Cvinglis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Cvinglis|Cvinglis]]; llm_object: [[objektai/asmenys/Martynas Liuteris|Martynas Liuteris]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]] rėmė [[objektai/asmenys/Martynas Liuteris|Martynas Liuteris]]'
-  temporaliniai_duomenys: 'įvykio data: 1557 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -41,23 +37,8 @@ periodo_grupes:
 - t-002
   global_id: t-82555
   teiginys: 'Martyno Liuterio ir Cvinglio mokslas Vilniuje buvo įsišaknijęs ir palaikomas vaivados Mikalojaus Radvilos Juodojo.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Cvinglis|Cvinglis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1557 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6e23d8f2dcd723181766ef5400683bdd8cce437f63e38f9dfdbc4fd519b1996d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Cvinglis: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mikalojus Radvila Juodasis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Cvinglis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Palaikytas mokslas tiesiogiai siejamas ir su Cvingliu.
 - susijęs iš [[objektai/ivykiai/Reformacijos pradžia Lietuvoje.md#claim-t-20461|Reformacijos pradžia Lietuvoje]]: 1517 m. Martynas Liuteris pradėjo reformaciją, laikomą viena reikšmingiausių Naujųjų amžių apraiškų.
 ## Reikšmingi paminėjimai
 
@@ -86,7 +67,6 @@ periodo_grupes:
     dieceziją būtų rengiamos procesijos
     su litanijomis".
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

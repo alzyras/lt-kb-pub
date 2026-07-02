@@ -21,39 +21,15 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
 - t-001
   global_id: t-86509
   teiginys: 'Po Vilniaus gyventojų krikšto amžinoji ugnis buvo iškilmingai užgesinta.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai remia teiginį, bet pradinis tekstas nutrūkęs ir triukšmingas.'
-  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 233378-233801; hash=2e827247879caa64b79d02f59212d36a2f5ac85b81d0d3e0c49d8178761de064; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Akademijos teatro įranga: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: amžinoji ugnis Gabija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Akademijos teatro įranga: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "amžinoji ugnis Gabija" parinktas kaip owner_note_path. Targetas "Akademijos teatro įranga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-86510"></a>
 - t-002
   global_id: t-86510
   teiginys: 'Šventaragio slėnyje degė lietuvių garbinama amžinoji ugnis Gabija.'
-  sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiksliai perteikia citatoje pateiktą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Akademijos teatro įranga|Akademijos teatro įranga]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Vilija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 241550-241847; hash=a7df79adefebb37a7e2fb26d2f710126eeddc9bb98dce0d8772b1c822ad1d73a; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: amžinoji ugnis Gabija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "amžinoji ugnis Gabija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Šventaragio slėnis: Šventaragio slėnyje, kur dabar stovi katedra, iki krikščionybės įvedimo degė amžinoji ugnis Gabija Perkūno garbei.
 ## Reikšmingi paminėjimai
 
@@ -70,7 +46,6 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
     kur dabar stovi katedra, stūksojo negrabus dievo Perkūno
     stabas, pastatytas ant akmeninės pakylos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -86,7 +61,6 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
     griauta Perkūno šventykla, ir būtent toje vietoje, vidur pi-
     liavietės, pradėta statyti Šv. Stanislovo katedra8.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

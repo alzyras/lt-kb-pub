@@ -31,23 +31,8 @@ Dusburgietis teigia, kad apie Inocentą V, popiežių, ir Rudolfą, Romos karali
 - t-001
   global_id: t-60334
   teiginys: '1275 m. popiežiumi buvo Inocentas V, anksčiau vadintas pamokslininkų ordino broliu Petru iš Tarantezo.'
-  sudarymo_pagrindimas: 'Teiginys buvo fragmentiškas; citata pagrindžia Inocento V pareigas ir ankstesnį vardą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]'
-  temporaliniai_duomenys: 'įvykio data: 1275 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys buvo fragmentiškas; citata pagrindžia Inocento V pareigas ir ankstesnį vardą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=92909af457b14bcccf0d596f7ee10a697ee72ed24c0b3a43486ecd1680e795fa; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Romos karalius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Inocentas V: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Romos karalius: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Inocentas V" parinktas kaip owner_note_path. Targetas "Romos karalius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -61,7 +46,6 @@ Dusburgietis teigia, kad apie Inocentą V, popiežių, ir Rudolfą, Romos karali
     ordino broliu Petru iš Tarantezo, ir Rudolfas, Romos karalius (Mart. p. 416; Ptol. 23, 17,
     plg. 2).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -23,21 +23,8 @@ Dusburgietis teigia, kad panemunėje esama Rambyno (žr.
 - t-001
   global_id: t-58714
   teiginys: 'Panemunėje esama Rambyno (žr.'
-  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Panemunė; llm_object: Panemunė'
-  semantiniai_rysiai: 'Rambynas priklausė Panemunė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 215424-216217; hash=ab8d4dbf8f487a1a3dbe7b416e9b5927adab75ee325c3e19dbe4a860468c1fd5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Panemunė: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Rambynas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Panemunė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys lokalizuoja Rambyną Panemunėje.
 - susijęs iš [[objektai/autoriai/Remeika J.md#claim-t-91933|Remeika J]]: J. Remeikos darbas minimas tarp šaltinių apie padavimuose minimą Rambyno kunigaikštį Skraudopą.
 - susijęs iš Basanavičius J., Iš gyvenimo vėlių: Basanavičiaus veikalo puslapiai 181–182 nurodomi tarp šaltinių apie padavimuose minimą Rambyno kunigaikštį Skraudopą.
 - susijęs iš [[objektai/autoriai/Топоров B. H.md#claim-t-175153|Топоров B. H]]: Топоров B. H. siejo mitologinį personažą su šaknimi „vėl-“ vadinamajame pagrindiniame mite.
@@ -57,7 +44,6 @@ Dusburgietis teigia, kad panemunėje esama Rambyno (žr.
     pomirtinė karalystė, apeigų vieta), mus nukelia į Vilnių, kur taip pat yra Kriv- elementas
     (Kreivoji pilis, Krivė — ritualinės tradicijos įkūrėjas — Топоров B. H., Vilnius..., p. 64).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

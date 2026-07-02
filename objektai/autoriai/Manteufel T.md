@@ -31,23 +31,8 @@ Dusburgietis teigia, kad kristaus brolių ordinas, kaip vyskupo Kristijono karia
 - t-001
   global_id: t-60651
   teiginys: 'T. Manteufelis siejo Kristaus brolių ordiną su 1223 m. vyskupo ir kunigaikščio Konrado sutartimi.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Manteufelio darbo ryšį su šiuo istoriniu aiškinimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]'
-  temporaliniai_duomenys: 'įvykio data: 1223 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia Manteufelio darbo ryšį su šiuo istoriniu aiškinimu.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 138068-138401; hash=c65d1a9de381b43b98fd3efdbed6f5b8feed026479a1dca1f35582ba37e37690; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Manteufel T: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Manteufel T" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -60,7 +45,6 @@ Dusburgietis teigia, kad kristaus brolių ordinas, kaip vyskupo Kristijono karia
     apeitas 1223 m. vyskupo ir kunigaikščio Konrado sutartyje (Manteufel T. Papiestwo...,
     p. 101 104; Zientara B. Sprawy pruskie..., p. 37; Powierski J. Przekaz..., p. 409—410).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

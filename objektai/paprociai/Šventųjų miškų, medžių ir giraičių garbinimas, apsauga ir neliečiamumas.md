@@ -36,9 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 453805-454489; hash=bc9085121c9a7ec758c01d8033c99c51840888f70730d19c5b2c718c41096bd5; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-189907"></a>
 - t-002
   global_id: t-189907
@@ -47,16 +44,6 @@ Nenurodyta
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 455346-456149; hash=86256ad2f2c318ef479cca1d0946db8bcbf4560c6c642d6bc12867b867e9d17b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaimas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventųjų miškų, medžių ir giraičių garbinimas, apsauga ir neliečiamumas: owner_note_path, thing
-  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventųjų miškų, medžių ir giraičių garbinimas, apsauga ir neliečiamumas" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -76,13 +63,10 @@ Nenurodyta
     draudžiama įžengti į tuos miškelius, bet nelaimingiesiems -
     tikriausiai ne4.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas mini padavimą, kad prie Girkų kaimo Lydos apskrityje augę seni medžiai buvo šventojo miško, teikusio prieglobstį persekiojamiesiems, liekana.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -105,9 +89,7 @@ Nenurodyta
     čiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­
     kiausiame miške ar nuošaliausiose vietose.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

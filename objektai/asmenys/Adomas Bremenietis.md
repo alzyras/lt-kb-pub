@@ -5,12 +5,17 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+description: 'Adomas Bremenietis Narbuto tekste siejamas su Upsalos šventove, šventuoju medžiu, žyniais ir apeiginiais šaltiniais.'
+socialDescription: 'Adomas Bremenietis Narbuto pasakojime tampa šaltiniu apie Upsalos šventovę, šventąjį medį, žynius ir apeiginius vandenis.'
+seo_atnaujinta: '2026-07-02T21:03:54.593367+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 ---
 # Adomas Bremenietis
 
 ## Santrauka
 
-Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, o Albertas Krantcas nurodo, jog jo rūšies nebuvo galima nustatyti. Narbutas, remdamasis Adomu Bremeniečiu, teigia, kad švedų protėviai laikėsi tikėjimo ąžuolo šventumu. Narbutas nurodo, kad Adomas Bremenietis paliko žinių apie prie šventyklų buvusius apeiginius šaltinius ir šulinius.
+Adomas Bremenietis Narbuto pasakojime minimas kaip šaltinis apie Upsalos šventovę, šventąjį medį, žynius ir apeiginius vandenis. Narbutas juo remiasi aiškindamas švedų protėvių tikėjimą ąžuolo šventumu ir šaltinių ar šulinių reikšmę prie šventyklų. Kartu Narbutas pripažįsta, kad Adomas Bremenietis, kaip ir kiti užsienio kronikininkai, nemini Prūsijos krivio.
 
 ## Teiginiai
 <a id="claim-t-190036"></a>
@@ -21,16 +26,6 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 404235-404759; hash=f19c2b176efdf07337af28a5a4d121672dd42e0ec47553eef2c792f2bbbeca32; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Šventieji medžiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Adomas Bremenietis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Šventieji medžiai: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Adomas Bremenietis" parinktas kaip owner_note_path. Targetas "Šventieji medžiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 <a id="claim-t-190037"></a>
 - t-002
   global_id: t-190037
@@ -39,16 +34,6 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 410171-410651; hash=25e8962ee061cc8e940eca15c68045e20ddfbf15dca9222d45e703994059e142; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Švedai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Adomas Bremenietis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Švedai: mention_match, group, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Adomas Bremenietis" parinktas kaip owner_note_path. Targetas "Švedai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-190038"></a>
 - t-003
   global_id: t-190038
@@ -57,9 +42,6 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
     - c-003
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 484276-484651; hash=2f2cd7bed22eeff60992732c0b87b9e493cabc1352e9466ded54f0cd407f7b14; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-190039"></a>
 - t-004
   global_id: t-190039
@@ -68,16 +50,6 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
     - c-004
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 750161-750595; hash=d3fee52e89861e7e7d034ff84e6fc6b8c075912dd489b413ed65841160e4aa0c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Upsala: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žyniai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Upsala: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai lokalizuoja žynius Upsaloje.
 <a id="claim-t-190040"></a>
 - t-005
   global_id: t-190040
@@ -86,16 +58,6 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
     - c-005
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 760181-760745; hash=6fd13606c0933f4539cbdca312ad02d2c18d3601d85f6ed41040b900b895ac72; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Adomas Bremenietis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Adomas Bremenietis" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -113,13 +75,10 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
     dar iki XIII amžiaus, o jų liekana buvo tie milžiniški šventieji
     medžiai.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas, remdamasis Adomu Bremeniečiu, teigia, kad švedų protėviai laikėsi tikėjimo ąžuolo šventumu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -134,13 +93,10 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
     Lietuvių liaudies pasakos mini, kad žmonės valgydavę gi­
     les, iškeptas pelenuose arba virtas su pelenais.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
+    - t-002- c-003
   santrauka: 'Narbutas nurodo, kad Adomas Bremenietis paliko žinių apie prie šventyklų buvusius apeiginius šaltinius ir šulinius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -152,13 +108,10 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
     krikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių
     šaltinių.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
+    - t-003- c-004
   santrauka: 'Narbutas cituoja Adomą Bremenietį apie Upsalos žynius, kurie esą buvo įpratę tarnauti piktosioms dvasioms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -171,13 +124,10 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
     bus, qui ad Ubsolam Daemonibus astare solebant (apie žynius,
     kurie Upsaloje buvo papratę tarnauti piktosioms dvasioms).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-005
+    - t-004- c-005
   santrauka: 'Narbutas pripažįsta, kad Adomas Bremenietis ir kiti užsienio kronikininkai nemini Prūsijos krivio.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -191,9 +141,7 @@ Narbutas rašo, kad Adomas Bremenietis mini šventąjį ąžuolą prie Upsalos, 
     vienu žodžiu neužsimena apie krivį. Tačiau norint suvokti prie­
     kaišto esmę, reikia visą dalyką panagrinėti šiek tiek iš arčiau.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005

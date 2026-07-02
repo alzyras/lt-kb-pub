@@ -41,7 +41,6 @@ Nenurodyta
 - t-001
   global_id: t-09611
   teiginys: 'Parlamento gynyba buvo grindžiama trimis principais: agresijos fiksavimu ir informacijos sklaida, gynyba kariniais metodais bei pilietinio nesmurtinio pasipriešinimo organizavimu.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -49,11 +48,6 @@ Nenurodyta
 - t-002
   global_id: t-09612
   teiginys: 'Aukščiausiosios Tarybos gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos.'
-  sudarymo_pagrindimas: 'Sakinys pagrįstas citata, tik patikslintas objektas.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Nepakartoti 1940 m. klaidos!|Nepakartoti 1940 m. klaidos!]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]'
-  temporaliniai_duomenys: 'įvykio data: 1940 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys pagrįstas citata, tik patikslintas objektas.'
   pagrindžia:
     - c-001
 
@@ -61,8 +55,6 @@ Nenurodyta
 - t-003
   global_id: t-09613
   teiginys: 'Aukščiausiosios Tarybos gynybos principai siekė fiksuoti sovietų karinės agresijos faktą ir užtikrinti politinį Lietuvos atstovavimą.'
-  sudarymo_pagrindimas: 'Teiginys aiškiau susietas su note objektu ir sutrumpintas.'
-  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]'
   pagrindžia:
     - c-002
 
@@ -87,7 +79,6 @@ Nenurodyta
     sipriešinti bet kokiu atveju ir nepakartoti
     1940 m. klaidos!
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -111,7 +102,6 @@ Nenurodyta
     politinį šalies atstovavimą bei organizuoti
     įvairiapusišką pasipriešinimą okupantams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -127,7 +117,6 @@ Nenurodyta
     metodais, 3) pilietinio, nesmurtinio pasi-
     priešinimo organizavimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

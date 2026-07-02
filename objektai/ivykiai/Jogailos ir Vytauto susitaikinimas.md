@@ -39,19 +39,8 @@ Nenurodyta
 - t-001
   global_id: t-66565
   teiginys: 'Susitaręs su Jogaila, Vytautas sudegino Jurbarką, Naująjį Marijenburgą ir Naująjį Bajerburgą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Bajerburgas; mentioned_place: Marijenburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; llm_object: Bajerburgas; llm_object: Marijenburgas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 208708-209205; hash=0dad2481f2cf1b965f095bed82b1f6bfbe25438dc97825f18cdc14a1337ad21e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Bajerburgas: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Bajerburgas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vytautas tiesiogiai įvardytas kaip sudeginęs Naująjį Bajerburgą.
 
 ## Reikšmingi paminėjimai
 
@@ -67,7 +56,6 @@ Nenurodyta
     gaila, jau bendromis jėgomis sudegino N. Marijeriverderį (ties
     Kaunu). Ordinas dėl to, žinoma, netvėrė apmaudu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

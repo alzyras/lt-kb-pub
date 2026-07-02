@@ -32,11 +32,6 @@ Dusburgietis teigia, kad 34, p. 106; Ambrassat A., Die Provinz..., p. 364—365)
 - t-001
   global_id: t-64541
   teiginys: 'A. Ambrassat darbu remiamasi teigiant, kad Gilgenburgo Ordino pilis statyta 1319 m., o miestas prie jos įkurtas 1326 m.'
-  sudarymo_pagrindimas: 'Citata pateikia faktą su bibliografine nuoroda į Ambrassatą; reikia teiginio apie autoriaus panaudojimą, ne Dusburgietį.'
-  susije_objektai: 'mentioned_place: Gilgenburgas'
-  temporaliniai_duomenys: 'įvykio data: 1319 m.; įvykio data: 1326 m.; įvykio data: 1340 m.; įvykio data: 1350 m.; įvykio data: 1351 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pateikia faktą su bibliografine nuoroda į Ambrassatą; reikia teiginio apie autoriaus panaudojimą, ne Dusburgietį.'
   pagrindžia:
     - c-001
 
@@ -55,7 +50,6 @@ Dusburgietis teigia, kad 34, p. 106; Ambrassat A., Die Provinz..., p. 364—365)
     piliakalniai (Sch-K XVI; CV, t. 32. 2 (1939), p. 313; MGP, II G Nr. 91, II H Nr. 46, 47;
     HGAPW).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

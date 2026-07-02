@@ -43,57 +43,22 @@ Nenurodyta
 - t-001
   global_id: t-55168
   teiginys: 'Filantropinių organizacijų ir susivienijimų nariai aptardavo visuomenės būklę ir tardavosi dėl konkrečių bei numatomų tikslų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 4324-4775; hash=8f3bccbdc8bc5736ec1e9c0cc1ebefb97ef80b026ccf305c2252b9c379f1faee; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Rusija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-81871"></a>
 - t-002
   global_id: t-81871
   teiginys: 'Vilniuje legalios filantropinės organizacijos ir susivienijimai aptardavo visuomenės būklę ir reformų tikslus.'
-  sudarymo_pagrindimas: 'Pašalinti OCR lūžiai ir perrašyta į aiškų sakinį apie note objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 6008-6305; hash=fcda78615320ed8a13795956821500395ebe432f374f974af124ba12be71726b; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-81872"></a>
 - t-003
   global_id: t-81872
   teiginys: 'Po Napoleono sutriuškinimo Rusijoje salonuose, vakaruose ir draugijose atvirai aptarinėtos socialinės, politinės problemos, valdžios reformavimo ir baudžiavos paveldo klausimai.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, informatyvus ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Rusija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 4324-4775; hash=8f3bccbdc8bc5736ec1e9c0cc1ebefb97ef80b026ccf305c2252b9c379f1faee; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Rusija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -106,7 +71,6 @@ Nenurodyta
     tarinėjamos socialinės, politinės problemos. Drąsiau keliami val­
     džios reformavimo, baudžiavos paveldo klausimai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -129,7 +93,6 @@ Nenurodyta
     universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­
     ventojai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

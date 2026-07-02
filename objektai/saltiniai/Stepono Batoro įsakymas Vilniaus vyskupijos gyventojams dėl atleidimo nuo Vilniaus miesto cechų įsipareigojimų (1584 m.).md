@@ -30,11 +30,6 @@ Jurgis Radvila, Vilniaus vyskupas, Olykos kunigaikštis, savo ranka. Šiuo rašt
 - t-001
   global_id: t-173010
   teiginys: '1584 m. Gardine duotas Stepono Batoro raštas buvo patvirtintas karaliaus antspaudu.'
-  sudarymo_pagrindimas: 'Citata palaiko tik rašto datavimą, vietą ir antspaudo patvirtinimą; tolesnė antraštė yra kito šaltinio triukšmas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1584 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko tik rašto datavimą, vietą ir antspaudo patvirtinimą; tolesnė antraštė yra kito šaltinio triukšmas.'
   pagrindžia:
     - c-001
 
@@ -59,7 +54,6 @@ Jurgis Radvila, Vilniaus vyskupas, Olykos kunigaikštis, savo ranka. Šiuo rašt
     1570 METAIS
     (Iš Dogelio rankraščių buv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

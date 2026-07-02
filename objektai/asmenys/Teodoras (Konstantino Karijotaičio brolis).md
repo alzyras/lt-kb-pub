@@ -18,24 +18,8 @@ Mirus Konstantinui Karijotaičiui, Algirdas jo brolį Teodorą paskyrė į Konst
 - t-001
   global_id: t-186167
   teiginys: 'Mirus Konstantinui Karijotaičiui, Algirdas jo brolį Teodorą paskyrė į Konstantino vietą Podolėje.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata tiesiogiai remia Teodoro paskyrimą po Konstantino mirties.'
-  susije_objektai: 'mentioned_place: Podolė; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_place: Kamenecas; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Volynė; llm_object: Podolė'
-  semantiniai_rysiai: '[[objektai/asmenys/Teodoras (Konstantino Karijotaičio brolis)|Teodoras (Konstantino Karijotaičio brolis)]] valdė Podolė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 858569-859139; hash=dfd4aa7fa86ddde669934611d2bbeb512880b41f566dead658fa6e43f4079961; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Podolė: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Teodoras (Konstantino Karijotaičio brolis): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teodoras buvo paskirtas į Podolės kunigaikščio vietą, todėl ryšys su Podolės valdymu pagrįstas.
 
 ## Reikšmingi paminėjimai
 
@@ -56,11 +40,9 @@ Mirus Konstantinui Karijotaičiui, Algirdas jo brolį Teodorą paskyrė į Konst
     čiui, pastarasis jį sumušęs, o Podolę pavertęs savo val­
     da, paskirdamas vietininku Goštautą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
 

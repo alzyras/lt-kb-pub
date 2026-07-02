@@ -26,24 +26,8 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
 - t-001
   global_id: t-41990
   teiginys: '1919 m. birželio 4 d. lietuvių kariai užėmė Paberžę, persekiodami bolševikus.'
-  sudarymo_pagrindimas: 'Iš citatos išplėstas veiksnys ir kontekstas, kad sakinys būtų enciklopedinis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; llm_object: Paberžė'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] užėmė Paberžė'
-  temporaliniai_duomenys: 'įvykio data: 1919 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Iš citatos išplėstas veiksnys ir kontekstas, kad sakinys būtų enciklopedinis.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b38ab42b10ce24eae36e1a86bd10f4991037ca3d1962047f90249a005f306517; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Paberžė: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Paberžė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje lietuvių kariai persekiojo bolševikus, o Paberžė nurodyta tarp užimtų vietų.
 - susijęs iš Daugailiai: Karininkas Kazys Ladyga su lietuvių kariais birželio 3 d. užėmė Daugailius ir Tauragnus, o birželio 4 d. Paberžę.
 - susijęs iš Tauragnai: 1919 m. birželio 3 d. lietuvių kariai, persekiodami bolševikus, užėmė Daugailius ir Tauragnus.
 ## Reikšmingi paminėjimai
@@ -57,7 +41,6 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
     kus. Birželio 3 d. buvo užimti Daugailiai,
     Tauragnai, birželio 4 d. Paberžė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

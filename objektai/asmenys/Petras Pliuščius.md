@@ -31,24 +31,8 @@ periodo_grupes:
 - t-001
   global_id: t-87927
   teiginys: 'Petras Pliuščius 1620 m. buvo Vilniaus burmistras nuo katalikų.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytas pareigas, metus ir konfesinę grupę.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Kuzma Mamoničius|Kuzma Mamoničius]]; mentioned_person: [[objektai/asmenys/Leonas Mamoničius|Leonas Mamoničius]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Varšuva; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Petras Pliuščius|Petras Pliuščius]] valdė miestą Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1597 m.; įvykio data: 1600 m.; įvykio data: 1610 m.; įvykio data: 1620 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytas pareigas, metus ir konfesinę grupę.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8017b95f430f3653bc2dd3de46fa30559da59da87a48b39eb6870a1000865b1f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_miesta -> Vilnius: 0.63
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Petras Pliuščius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vilniaus burmistro pareigos rodo miesto valdymo ryšį su Vilniumi.
 - susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87350|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: 1620 m. burmistrais buvo nurodyti katalikų atstovas Petras Pliuščius ir stačiatikių atstovas Leonas Mamoničius.
 - susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87351|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: Motiejus, arba Matas, Božiminskis 1597 m. karaliaus Zigmanto Vazos raštu iš Varšuvos buvo paskirtas Vilniaus vaitu.
 - susijęs iš [[objektai/asmenys/Leonas Mamoničius.md#claim-t-87915|Leonas Mamoničius]]: 1620 m. Leonas Mamoničius ėjo Vilniaus burmistro nuo stačiatikių pareigas.
@@ -79,7 +63,6 @@ periodo_grupes:
     nuo stačiatikių - Leonas Mamoničius
     11.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

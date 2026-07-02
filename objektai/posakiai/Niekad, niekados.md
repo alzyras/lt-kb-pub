@@ -24,9 +24,6 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=71c112774cdd0896e17926320401af163884ba6c64285ec69c049481f653b3e3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 <a id="claim-t-67281"></a>
 - t-002
   global_id: t-67281
@@ -35,9 +32,6 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6bb9b27cbc89b4377be14f2bb46713de59b0b2127852a1b8724c7c81020c08c1; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -52,13 +46,10 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
     nimo darbą. Tačiau mūsų bajorija daugybe straipsnių ir spe-
     cialia brošiūra atsakė: „Niekad, niekados".
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Krokuvoje išleista brošiūra „Niekad, niekados“ griežtai atmetė lietuvių kvietimą bajorijai prisidėti prie tautinio darbo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -70,9 +61,7 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
     kados" (Przenigdy"). Apskritai mūsų bajorijos nusistatymas buvo
     laikytis Lenkijos ir remti lenkų kalbos įsigalėjimą Lietuvoje.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

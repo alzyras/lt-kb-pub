@@ -30,23 +30,8 @@ Nenurodyta
 - t-001
   global_id: t-185791
   teiginys: 'Per žygį į Prūsiją lietuviai rugsėjo pabaigoje per šv. Mykolą apiplėšė Straisbergo miestą, kur žuvo daug bažnyčiose susirinkusių žmonių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys prasideda boilerplate ir turi būti perrašytas į pilną faktinį sakinį.'
-  susije_objektai: 'llm_object: Straisbergas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Prūsija; mentioned_place: Straisbergas; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Konradas Žakas|Konradas Žakas]]; mentioned_place: Kulmas; llm_object: Prūsija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 304352-304865; hash=f53170af1caf352a024c7b7fa5b52e504cc135f099ccad3f758224c4b5c9df43; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Straisbergas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Straisbergas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Straisbergo apiplėšimas tiesiogiai priskirtas lietuviams.
 
 ## Reikšmingi paminėjimai
 
@@ -65,10 +50,8 @@ Nenurodyta
     šikai patyrė kerštą už dievybės paniekinimą: Kulmo
     komtūras Konradas Žakas juos visus ligi vieno išžudė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

@@ -8,6 +8,11 @@ datos:
   - '1453 m.'
 date_start: '1413'
 date_end: '1453'
+description: 'Motiejus, pirmasis Žemaičių ir vėliau Vilniaus vyskupas, susijęs su Vytauto aplinka, Žemaičių krikštu ir 1430 m. įvykiais.'
+socialDescription: 'Motiejus: Krokuvoje mokęsis dvasininkas, pirmasis Žemaičių vyskupas ir Vilniaus vyskupas, lydėjęs Vytautą jo mirties valandą.'
+seo_atnaujinta: '2026-07-02T21:03:54.591791+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,7 +29,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^1 ). Mokslus jis buvo ėjęs Krokuvoj ir įgijęs laisvųjų mokslų ma­ gistro laipsnį; paskui buvo Trakų klebonu ir Vilniaus kapitulos kanauninku. Taip antai, ketvirtas iš eilės Vilniaus vyskupas Petras iš Kustynės (1414—1421), kuris buvo delega­ tu Konstancijoje ir pasiuntiniu Žemaitijoje, jau minėtas pirmasis Žemaičių ir vėliau Vilniaus vysk.
+Motiejus buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas, mokęsis Krokuvoje ir įgijęs laisvųjų mokslų magistro laipsnį. Vytautui rekomendavus jis tapo pirmuoju Žemaičių vyskupu, o nuo 1421 m. ėjo Vilniaus vyskupo pareigas. 1430 m. spalio 27 d. Motiejus lydėjo mirštantį Vytautą: klausė jo išpažinties, užmerkė akis ir nulydėjo kūną į katedrą.
 
 ## Teiginiai
 
@@ -32,86 +37,34 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
 - t-001
   global_id: t-176551
   teiginys: 'Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui.'
-  sudarymo_pagrindimas: 'Teiginį reikia sutelkti į citatos aiškiai paremtą Motiejaus vaidmenį, neperkraunant sakinio.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 263474-263681; hash=3f0208d0c1dd9c90d6b2a0bb8437d3521a350ae84967070baeaa4eb479e52e21; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Motiejus: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Motiejus (Žemaičių ir Vilniaus vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Motiejus: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus (Žemaičių ir Vilniaus vyskupas)" parinktas kaip owner_note_path. Targetas "Motiejus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176552"></a>
 - t-002
   global_id: t-176552
   teiginys: 'Motiejus buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas, vėliau tapęs Žemaičių ir Vilniaus vyskupu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=858bf0e09f1c1ffbb77a4da2695755c3eea3857a8e564f9901302c6794f34ce6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Motiejus (Žemaičių ir Vilniaus vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=72
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus (Žemaičių ir Vilniaus vyskupas)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176554"></a>
 - t-003
   global_id: t-176554
   teiginys: 'Motiejus mokėsi Krokuvoje, įgijo laisvųjų mokslų magistro laipsnį, buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
-  temporaliniai_duomenys: 'įvykio data: po 1413 m.; įvykio data: 1413 m.; įvykio data: po 1421 m.; įvykio data: 1421 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fd9bf44b0460baa38e88795b212a140836fa1846ce6fc7a135d2bfba2e770d89; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Motiejus: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Motiejus (Žemaičių ir Vilniaus vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Motiejus: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus (Žemaičių ir Vilniaus vyskupas)" parinktas kaip owner_note_path. Targetas "Motiejus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176555"></a>
 - t-004
   global_id: t-176555
   teiginys: 'Vyskupas Motiejus 1430 m. spalio 27 d. užmerkė Vytautui akis ir jo kūną nulydėjo į Vytauto pastatytą katedrą.'
-  sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie vyskupą Motiejų ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]'
-  temporaliniai_duomenys: 'pastatymo data: 1430 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis sakinys apie vyskupą Motiejų ir paremtas citata.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 315053-315336; hash=659fdbc9c7f0fe7fcf2ad2b0e58c255a85c81aa4cd3ff417b1908e6bc0027a10; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kūnas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Motiejus (Žemaičių ir Vilniaus vyskupas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kūnas: mention_match, person, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus (Žemaičių ir Vilniaus vyskupas)" parinktas kaip owner_note_path. Targetas "Kūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176557"></a>
 - t-006
   global_id: t-176557
   teiginys: 'Motiejus buvo pirmasis Žemaičių ir vėliau Vilniaus vyskupas, paskirtas Vytautui jį rekomendavus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Mikalojus Dziežgavičius|Mikalojus Dziežgavičius]]; mentioned_person: [[objektai/asmenys/Petras iš Kustynės|Petras iš Kustynės]]; mentioned_place: Konstancija; mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-005
 
@@ -127,7 +80,6 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
     Dar prieš vyskupijos įkūrimą Jogaila iš Vilniaus išvyko į
     rytų Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -143,7 +95,6 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
     sukurtąją Lietuvą, susilaukdamas Jogailos ir Zigmanto I, Vy­
     tauto brolio, nemalonės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -160,7 +111,6 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
     sas, jis atsakė, kad tiki į jas, taip pat ir į iš numirusių
     atsikėlimą, nors seniau dėl tos tiesos ir paabejodavęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -178,7 +128,6 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
     ir buvo įšventintas pirmuoju vyskupu (1417); nuo 1421 m. persi­
     kėlė į Vilnių ir 22 metus išbuvo Vilniaus vyskupu (mirė 1453).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -198,7 +147,6 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
     prieš įšventinant juos į vyskupus buvo Trakų klebonai, taigi gy­
     veno Vytauto rezidencijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -20,12 +20,8 @@ Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žin
 - t-001
   global_id: t-20963
   teiginys: 'Stalinizmo epochoje saugumo pareigūnai vienodai galėjo suimti profesorių, ministrą ar eilinį žmogų, todėl šia prasme buvo „visi lygūs“.'
-  sudarymo_pagrindimas: 'Teiginys pilnai perteikia citatos mintį apie posakio reikšmę stalinizmo kontekste.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5e03353cc49f5a4126e9d5b334128dd9a99b26248288e7744db41c8bf978d32e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/posakiai/„Prokrusto komunistinė lova“.md#claim-t-20866|„Prokrusto komunistinė lova“]]: Sovietmečiu nepavyko visiškai parklupdyti Lietuvos kultūros ir sugrūsti jos į „Prokrusto komunistinę lovą“.
 - susijęs iš [[objektai/zodynas/socialistinis realizmas.md#claim-t-22301|socialistinis realizmas]]: Brežnevinėje epochoje menininkai vis dažniau atsiribodavo nuo socialistinio realizmo ir vengė derinti meną su politika bei propaganda.
 ## Reikšmingi paminėjimai
@@ -41,7 +37,6 @@ Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žin
     saugumo pareigūnai vienodai galėjo suimti ir profesorių, ir ministrą, ir
     eilinį žmogų).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -60,7 +55,6 @@ Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žin
     nuo socialistinio realizmo, pagal galimybę stengėsi nederinti politikos ir
     propagandos su menu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

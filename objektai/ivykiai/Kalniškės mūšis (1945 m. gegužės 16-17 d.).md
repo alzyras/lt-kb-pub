@@ -52,11 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-71747
   teiginys: 'Kalniškės mūšyje žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu Pušelė.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai sieja faktą su Kalniškės mūšiu ir yra paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
-  temporaliniai_duomenys: 'įvykio data: 1946 m.; įvykio data: apie 1946 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja faktą su Kalniškės mūšiu ir yra paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -64,11 +59,6 @@ Nenurodyta
 - t-003
   global_id: t-71748
   teiginys: 'Neifalta-Lakūnas per Kalniškės mūšį nežuvo; citatoje nurodoma, kad jis žuvo apie 1946 m.'
-  sudarymo_pagrindimas: 'Citatoje mirties data pateikiama kaip liudijimo teiginys, todėl reikia atsargesnės formuluotės.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
-  temporaliniai_duomenys: 'įvykio data: 1946 m.; įvykio data: apie 1946 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Citatoje mirties data pateikiama kaip liudijimo teiginys, todėl reikia atsargesnės formuluotės.'
   pagrindžia:
     - c-002
 
@@ -76,11 +66,6 @@ Nenurodyta
 - t-004
   global_id: t-71749
   teiginys: 'Liudytojas teigė Neifaltą-Lakūną po Kalniškės mūšio matęs ne kartą.'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra pirmojo asmens citatos fragmentas, todėl reikia enciklopedinės formuluotės.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
-  temporaliniai_duomenys: 'įvykio data: 1946 m.; įvykio data: apie 1946 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra pirmojo asmens citatos fragmentas, todėl reikia enciklopedinės formuluotės.'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
@@ -99,7 +84,6 @@ Nenurodyta
     nemenkais nuostoliais pavyko prasiveržti
     link Sūsninkų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -119,7 +103,6 @@ Nenurodyta
     Kalniškės mišką, kuriame buvo įrengta
     partizanų stovykla.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

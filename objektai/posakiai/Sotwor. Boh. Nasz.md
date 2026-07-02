@@ -21,9 +21,6 @@ Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojanči
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 431169-431404; hash=f45d9ee28f7468010eb035195bf6d49abcb87c892b5664c19feb89231948d204; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-189569"></a>
 - t-002
   global_id: t-189569
@@ -32,16 +29,6 @@ Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojanči
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 432346-433036; hash=a9b01f4b154c860f743ac357b57cf4b4311b61b2386c8dd986c6c5629440fd37; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sotwor. Boh. Nasz: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sotwor. Boh. Nasz" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -57,13 +44,10 @@ Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojanči
     ma matyti to kunigaikščio dekretuose; galima perskaityti žo­
     džius: Sotwor. Boh. NaszM.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas nurodo, kad kiti užrašą skaitė kaip „Sotwar“ arba rusiškai „Sotworytel“ ir nelaikė jo pagonišku simboliu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -80,9 +64,7 @@ Narbutas užrašą „Sotwor. Boh. Nasz“ sieja su saulės veidą vaizduojanči
     „ Sotwar“, rusiškai „ Sotworytel“, ir net nemanė jį esant pagonišką simbo­
     lį.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

@@ -34,7 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-07791
   teiginys: 'Motriškosios po namus trūsėjo, audė, švarino namus, tiekė drabužius ir saugojo viežlybumą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -50,7 +49,6 @@ Nenurodyta
         sau kraičius klodamos, o senosios butai drabužį tiekdamos, trumpai sakant, motriškosios varė
         plikį^377 laukan iš kiemo, o viežlybumą^378 namuose saugojo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

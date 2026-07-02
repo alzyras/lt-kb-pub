@@ -35,12 +35,8 @@ Nenurodyta
 - t-001
   global_id: t-02041
   teiginys: 'Privatiniuose dvaruose valstiečių prievolėms suvienodinti buvo įsakyta parengti inventorius, kuriuose surašytos jų pareigos.'
-  sudarymo_pagrindimas: 'Sakinys papildytas inventorių paskirtimi, kurią tiesiogiai pagrindžia citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 939666-939940; hash=1447dd56863e6c3e7ed265bfe94f76dd7623be7a9bbe34a078b74b235a62ff53; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -53,7 +49,6 @@ Nenurodyta
     valstiečių pareigos. Inventoriams suvienodinti visose gubernijose
     buvo įsteigti specialūs komitetai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

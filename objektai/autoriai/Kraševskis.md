@@ -21,20 +21,8 @@ tags:
 - t-001
   global_id: t-01084
   teiginys: 'Kraševskis buvo universiteto auklėtinis, pasižymėjęs lenkų romantinėje literatūroje, kuri temas ėmė iš Lietuvos istorijos.'
-  sudarymo_pagrindimas: 'Pradinė formuluotė turi neaiškų „Čia“ ir pateikia asmenį tik sąraše.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Kondratavičius|Kondratavičius]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 916896-917454; hash=730686173c036fe2707e2872cddd3760ed3ede2a52bc5ea38d8a79dff43b4402; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kraševskis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kraševskis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/J. Kraševskis.md#claim-t-63665|J. Kraševskis]]: J. I. Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“.
 - susijęs iš [[objektai/asmenys/J. Kraševskis.md#claim-t-63666|J. Kraševskis]]: J. Kraševskio kūrybai priskiriama didelė reikšmė lietuvių tautinės savimonės plėtotei.
 - susijęs iš [[objektai/asmenys/Juozapas Ignas Kraševskis.md#claim-t-87432|Juozapas Ignas Kraševskis]]: Juozapas Ignas Kraševskis savo Vilniaus istorijoje panaudojo archyvinę medžiagą, kronikas ir metraščius.
@@ -72,7 +60,6 @@ tags:
     viais. Iš antros pusės, tie patys raštai kiek vėliau labai paveikė
     iš liaudies tarpo kilusią lietuviškąją inteligentiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

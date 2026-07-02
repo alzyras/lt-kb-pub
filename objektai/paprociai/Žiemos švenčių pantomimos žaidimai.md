@@ -36,9 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 291964-292452; hash=1961d45e9cba13741c504355beef7fe182f194d45d9b39db1e49b6a010142419; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-189888"></a>
 - t-002
   global_id: t-189888
@@ -47,9 +44,6 @@ Nenurodyta
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 292798-293436; hash=9e73ef53c02e6e8c2460148d2b77bae1df0e66ac40cab281a54e9be54280fa42; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -65,13 +59,10 @@ Nenurodyta
     tis, muštynės, pasipūtimas, orumas, šiurkštumas, gašlūs jude­
     siai -  čia yra visa, ką gali mimo fantazija.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbuto aprašytame žiemos pantomimos žaidime pradžioje vaizduotas netikėtas susitikimas, kvietimas susiimti rankomis ir juokaujama grumtis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -87,9 +78,7 @@ Nenurodyta
     šokinėja kartodami tai su didžiausiu įkarščiu ir juokinimu; tuo
     pasibaigia vaidinimas.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

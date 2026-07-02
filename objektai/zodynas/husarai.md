@@ -23,94 +23,36 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
 - t-001
   global_id: t-49270
   teiginys: 'Husarai buvo ilgomis ietimis ginkluoti raitininkai, kurių ataka laikyta efektyvesniu kovos būdu už vakarietišką kavalerijos ataką pistoletais.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/sunkioji kavalerija|sunkioji kavalerija]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 367721-368293; hash=9c257375d80bfa6a93ac985c578ea9d30527764d8b780b5196ff92afd0827fdf; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Lietuviai: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai vadina lenkus lietuvių sąjungininkais.
 
 <a id="claim-t-49271"></a>
 - t-002
   global_id: t-49271
   teiginys: 'Piešinyje lietuvių lengvieji raiteliai husarai pavaizduoti su burės formos skydais, būdingais to meto husarams.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys apie husarus ir paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Niurnbergas; mentioned_place: Polockas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bda7691b76bb7424632dd282cfb860bca105dcc5d0737a44a5936ba27687811d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: husarai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "husarai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-49272"></a>
 - t-003
   global_id: t-49272
   teiginys: 'Husarai buvo XVI a. Lietuvoje atsiradusi vengriško tipo lengvoji kavalerija.'
-  sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatoje pateiktą husarų apibrėžimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=27c8b33bcdb8133ce67181e5cef6ccfb11640849805c1f60ffbe6b6ab8603d62; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Drabužiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: husarai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Drabužiai: mention_match, thing, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "husarai" parinktas kaip owner_note_path. Targetas "Drabužiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-49273"></a>
 - t-004
   global_id: t-49273
   teiginys: 'Lietuvoje ir Lenkijoje husarai buvo ilgomis ietimis ginkluoti sunkieji raiteliai.'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentiškas; citata leidžia pateikti aiškų sakinį apie husarus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/sunkioji kavalerija|sunkioji kavalerija]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ac7ed175706b47a142ae11217cfc72911a0178518bc533d4af0338ee3ba96398; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> sunkioji kavalerija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: husarai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: sunkioji kavalerija: mention_match, thing, gap=112
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "husarai" parinktas kaip owner_note_path. Targetas "sunkioji kavalerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-49274"></a>
 - t-005
   global_id: t-49274
   teiginys: 'Vengrijoje ir vėliau Europoje husarais vadinta lengvoji kavalerija, dėvėjusi vengriško stiliaus drabužius.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vengrija'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ac7ed175706b47a142ae11217cfc72911a0178518bc533d4af0338ee3ba96398; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> sunkioji kavalerija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: husarai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: sunkioji kavalerija: mention_match, thing, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "husarai" parinktas kaip owner_note_path. Targetas "sunkioji kavalerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/B. Zenavičius.md#claim-t-40058|B. Zenavičius]]: B. Zenavičiaus LDK husarai iš dešinės atakavo puolančius turkus.
 - susijęs iš [[objektai/asmenys/T. Lackis.md#claim-t-40457|T. Lackis]]: T. Lackio husarai pasitiko švedų gvardijos kavaleriją ir ryžtingu puolimu nubloškė švedų raituosius gvardiečius.
 - susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65309|Kazokai]]: Kazokai buvo lengvoji raitija, kurios paskirtis buvo paremti husarus mūšyje ir naikinti jų sumuštus eskadronus.
@@ -145,7 +87,6 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
     riau centro, stovi vokiečiai samdiniai (Deutsch knecht). Dešinėje pusėje pavaizduotos lietuvių sąjungininkų lenkų (Polen) ir vengrų (Ungerii) kavalerijos rikiuotės, dar toliau,
     (dešiniajame viršutiniame kampe) dar vienas lietuvių kavalerijos dalinys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -162,7 +103,6 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
     kavalerija nei to meto pistoletais atakuojanti vakarietiška, husarų
     ataka buvo efektyvesnis kovos būdas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -209,7 +149,6 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
     pradėjo ginkluotis ietimis, naudoti sunkesnius šarvus ir transfor-
     mavosi į sunkiąją kavaleriją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -228,7 +167,6 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
     Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė
     200 raitelių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

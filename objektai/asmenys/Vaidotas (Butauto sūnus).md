@@ -28,9 +28,6 @@ Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kę
 - t-001
   global_id: t-182705
   teiginys: 'Vaidotas 1381 m., būdamas apie šešiolikos metų, pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaidotas|Vaidotas]]; mentioned_place: Prūsų žemė; mentioned_person: [[objektai/asmenys/Karolis IV|Karolis IV]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
-  temporaliniai_duomenys: 'įvykio data: 1381 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -38,11 +35,6 @@ Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kę
 - t-002
   global_id: t-182707
   teiginys: 'Vaidotas buvo Butauto sūnus.'
-  sudarymo_pagrindimas: 'Teiginys yra trumpas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Butautas|Butautas]]; mentioned_person: [[objektai/asmenys/Vaidotas|Vaidotas]]; mentioned_person: [[objektai/asmenys/Karolis IV|Karolis IV]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Prūsų žemė'
-  temporaliniai_duomenys: 'įvykio data: 1381 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, faktinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus.md#claim-t-35892|Vaidoto pabėgimas į Prūsus]]: 1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
@@ -59,7 +51,6 @@ Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kę
     nuvyko pas ciesorių, norėdamas priimti krikštą^2 ). Kitus Kęstu­
     čio sūnus mes vėliau minėsime sąryšyje su politiniais įvykiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

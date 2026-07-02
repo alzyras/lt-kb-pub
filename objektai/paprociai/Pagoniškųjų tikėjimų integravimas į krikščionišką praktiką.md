@@ -50,8 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-67184
   teiginys: 'Bažnyčia siekė integruoti pagoniškuosius tikėjimus, tačiau katalikų šventieji tik pamažu stūmė pagonių dievus.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citatos mintimi.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -74,7 +72,6 @@ Nenurodyta
     54
     jau apėmė visą bajorijos sluoksnį, o valstietiją pasiekė tik XVII a.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

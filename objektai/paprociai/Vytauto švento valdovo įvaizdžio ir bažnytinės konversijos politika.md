@@ -50,23 +50,8 @@ Nenurodyta
 - t-001
   global_id: t-77955
   teiginys: 'Vytauto politika buvo orientuota į bažnytinę Lietuvos konversiją ir „švento valdovo“ įvaizdį.'
-  sudarymo_pagrindimas: 'Citata geriau pagrindžia teiginį apie patį note objektą.'
-  susije_objektai: 'llm_object: Konstanca; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Europa; mentioned_place: Konstanca; mentioned_place: Vengrija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  temporaliniai_duomenys: 'įvykio data: 1413 m.; įvykio data: 1418 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata geriau pagrindžia teiginį apie patį note objektą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 91200-92638; hash=1013169b9f6c998aa17ac1b1ce34c8abffadbca449128abc410dbda016433037; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Konstanca: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Konstanca: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas siuntė delegaciją į Konstancą.
 
 ## Reikšmingi paminėjimai
 
@@ -95,7 +80,6 @@ Nenurodyta
     mulių su stačiatikiškąja arba graikiškąja tradicija, jo karūnacijos projektą
     reikėtų matyti Lietuvos christianizacijos ir europeizacijos kontekste.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

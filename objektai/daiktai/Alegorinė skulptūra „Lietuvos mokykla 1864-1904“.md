@@ -51,45 +51,15 @@ Nenurodyta
 - t-001
   global_id: t-45465
   teiginys: 'Alegorinė skulptūra „Lietuvos mokykla 1864–1904“ vaizduoja švietimą lietuvių kalba Rusijos imperijos priespaudos laikais.'
-  sudarymo_pagrindimas: 'Sakinys aiškiai apibūdina skulptūros vaizduojamą temą pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1904 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys aiškiai apibūdina skulptūros vaizduojamą temą pagal citatą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=39e823ea74d852145d6fa6f54b9638836c6cee460837c92c3b67da4bb793a694; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Alegorinė skulptūra „Lietuvos mokykla 1864-1904“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alegorinė skulptūra „Lietuvos mokykla 1864-1904“" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-45467"></a>
 - t-003
   global_id: t-45467
   teiginys: 'P. Rimšos 1906 m. alegorinė skulptūra „Lietuvos mokykla 1864–1904“ vaizduoja švietimą lietuvių kalba Rusijos imperijos priespaudos laikais.'
-  sudarymo_pagrindimas: 'Sakinys aiškiai nurodo autorių, metus ir skulptūros temą pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1906 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys aiškiai nurodo autorių, metus ir skulptūros temą pagal citatą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 218458-218620; hash=95e9279b5d08ef02c73559fa677350b90ad3d0c3e9f21ed4448febff9cf5dbf8; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Alegorinė skulptūra „Lietuvos mokykla 1864-1904“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alegorinė skulptūra „Lietuvos mokykla 1864-1904“" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -106,7 +76,6 @@ Nenurodyta
     lietuvių kalba vaizduojanti alegorinė skulptūra
      „Lietuvos mokykla 1864–1904“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -122,7 +91,6 @@ Nenurodyta
     lietuvių kalba vaizduojanti alegorinė skulptūra
      „Lietuvos mokykla 1864–1904“. Dail. P. Rimša, 1906 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

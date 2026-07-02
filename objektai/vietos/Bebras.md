@@ -20,12 +20,8 @@ Dusburgietis teigia, kad bebirvytis (2-sis) Bebras (D.— Biber, Bobare, Jer.—
 - t-001
   global_id: t-58687
   teiginys: 'Bebras kronikos rodyklėje siejamas su vardais Biber, Bobare, Bibber ir Bobir, o dabartinis jo vardas yra Biebrza.'
-  sudarymo_pagrindimas: 'Citata remia faktą apie Bebro vardų formas ir dabartinį pavadinimą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 841086-841172; hash=5dc4e6ba2cdf5d4df953e604c527665962d1b0a3c505481874d9326de1e04e39; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178774|Jotvingiai]]: XIII a. duomenimis, Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178775|Jotvingiai]]: Pagal XIII a. duomenis Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino.
 - susijęs iš Lukas: Lukas vėliau vadintas vokišku Lyck, o dabar tapatinamas su Elku, dešiniuoju Bebro intaku.
@@ -50,7 +46,6 @@ Dusburgietis teigia, kad bebirvytis (2-sis) Bebras (D.— Biber, Bobare, Jer.—
     Bebirvytis (2-sis)
       Bebras (D.— Biber, Bobare, Jer.— Bibber, Bobir; dab. Biebrza), u.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

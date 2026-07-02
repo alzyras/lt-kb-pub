@@ -44,23 +44,8 @@ Nenurodyta
 - t-001
   global_id: t-86942
   teiginys: '1841 m. Michałas Balińskis tapo vienu iš enciklopedinio leidinio „Biblioteka Warszawska“ steigėjų.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta inicialu, o citata aiškiai pagrindžia steigėjo faktą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1841 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta inicialu, o citata aiškiai pagrindžia steigėjo faktą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 8915-9362; hash=e0985a9192806b9b59c28741e100b725128dd29d585a785e81df5030ae0927be; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Biblioteka Warszawska steigimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Biblioteka Warszawska steigimas" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -77,7 +62,6 @@ Nenurodyta
     apie Barboros Radvilaitės gyvenimą, Lenkijos istoriją ir enciklope­
     dinį leidinį Senovės Lenkija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

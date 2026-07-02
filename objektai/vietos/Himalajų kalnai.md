@@ -21,16 +21,6 @@ Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kult
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 316352-316949; hash=50e96887947ea5c73e821f175589e8edd325448649f950061cd482cae6f6535f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Himalajų kalnai: 0.68
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Indai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Himalajų kalnai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata indų kilmę sieja su tauta, gyvenusia prie Himalajų kalnų.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -49,10 +39,8 @@ Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kult
     Taip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,
     pagrindą ištisai sudaro indų padavimai.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

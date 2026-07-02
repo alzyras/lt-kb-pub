@@ -49,23 +49,8 @@ Nenurodyta
 - t-001
   global_id: t-64932
   teiginys: 'JAV vieno cento monetos autoriumi įvardijamas iš Šiaulių kilęs skulptorius Victor David Brenneris.'
-  sudarymo_pagrindimas: 'Citata sieja JAV vieno cento autorių su Victor David Brenneriu, o pradinė pretenzija nukrypsta nuo objekto.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Monetos|Monetos]]; mentioned_person: [[objektai/asmenys/Victor David Brenner|Victor David Brenner]]; mentioned_place: Šiauliai; mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_person: [[objektai/asmenys/Chaim Soutin|Chaim Soutin]]; mentioned_person: [[objektai/asmenys/Jascha Heifetz|Jascha Heifetz]]; mentioned_place: Europa; mentioned_place: Prancūzija; mentioned_place: Tryškiai; mentioned_place: Turkija; mentioned_place: Vilnius; llm_object: Šiauliai'
-  temporaliniai_duomenys: 'įvykio data: 1901 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata sieja JAV vieno cento autorių su Victor David Brenneriu, o pradinė pretenzija nukrypsta nuo objekto.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=32ee2cc67c28586572f3f12eba546d8d294abb4b612a2c48b62328a92dd2b0b6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gime -> Šiauliai: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Victor David Brenner: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Šiauliai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Formuluotė „kilęs iš Šiaulių“ pagrindžia asmens kilmės vietą, tačiau ne visiškai tiesiogiai pasako gimimą.
 
 ## Reikšmingi paminėjimai
 
@@ -91,7 +76,6 @@ Nenurodyta
     torius iš Šiaulių Victor David Brenner (Viktoras Barnauskas, 1871–1924)
     ar Prancūzijoje labai išgarsėjęs dailininkas Vytautas Kasiulis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

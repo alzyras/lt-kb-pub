@@ -24,9 +24,6 @@ Lenkija pramanė „sukilimo“ pasaką, kad pateisintų Želigovskio kariuomen�
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1118451-1118783; hash=e2e133052ffe8386b1a3c8ff67359c5f5b49c76e654c123634742df8674d2bba; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-67307"></a>
 - t-002
   global_id: t-67307
@@ -35,9 +32,6 @@ Lenkija pramanė „sukilimo“ pasaką, kad pateisintų Želigovskio kariuomen�
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f28c9f9a5e1032afe0089987a4f64e465a668e451355ed9c55e91ca363d8f208; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -51,13 +45,10 @@ Lenkija pramanė „sukilimo“ pasaką, kad pateisintų Želigovskio kariuomen�
     pėstininkų ir viena raitelių divizija, kurios buvo vadinamos lie-
     tuvių bei gudų divizijomis), esą, buvusi taip pat sukilusi.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Želigovskio kariuomenė buvo sudaryta su daug vilniškių, kad Vilniaus užėmimą būtų lengviau teisinti kaip vietinių sukilimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -71,9 +62,7 @@ Lenkija pramanė „sukilimo“ pasaką, kad pateisintų Želigovskio kariuomen�
     savo tėviškės, ir nužygiavusios, nepaisydamos santarvės rei-
     kalavimų klausančios Lenkų vyriausybės.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

@@ -29,8 +29,6 @@ Jo reikalu ne kartą į Vilnių buvo atvažia­ vę Nogajaus ordos pasiuntiniai 
 - t-001
   global_id: t-86765
   teiginys: 'Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų laukė karaliaus, kai jis tvarkė totorių reikalus.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas aiškus faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Krymas; mentioned_place: Liublinas'
   pagrindžia:
     - c-001
 
@@ -56,7 +54,6 @@ Jo reikalu ne kartą į Vilnių buvo atvažia­ vę Nogajaus ordos pasiuntiniai 
     Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų lū­
     kuriavo karaliaus45.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

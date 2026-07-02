@@ -18,23 +18,8 @@ Aleksandras Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą išsiuntė s
 - t-001
   global_id: t-187548
   teiginys: 'Aleksandras Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą išsiuntė savo dvarionis lietuvius ir rusus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas titulas ir išlaikytas žodyno objektui svarbus dvarionių paminėjimas. Nepridėta vengrų algininkų ir tolesnio totorių vijimosi informacijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_place: Bobruiskas; mentioned_place: Naugardukas; mentioned_place: Perekopas; mentioned_place: Podolė; mentioned_place: Pripetė; mentioned_place: Sluckas; llm_object: Sluckas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 282237-282933; hash=a6ea472be431b5864e1aa692f502654b3f9c123710462fca4b02ae2ff07df1e2; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Sluckas: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Sluckas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Rusai buvo tarp dvarionių, išsiųstų į pagalbą Slucko kunigaikščiui; vieta išvesta iš Slucko konteksto.
 - susijęs iš [[objektai/zodynas/dvarionys.md#claim-t-187554|dvarionys]]: Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasiųsti į pagalbą Slucko kunigaikščiui Simonui Mykolaičiui.
 - susijęs iš [[objektai/zodynas/algininkai.md#claim-t-187517|algininkai]]: Aleksandras Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą išsiuntė dvarionis ir nemaža vengrų algininkų.
 ## Reikšmingi paminėjimai
@@ -58,7 +43,6 @@ Aleksandras Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą išsiuntė s
     už šešių mylių nuo Bobruisko 4 , prie Lizos 5  upės; buvo
     jų tik pusantro šimto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

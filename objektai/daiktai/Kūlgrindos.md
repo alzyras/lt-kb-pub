@@ -39,7 +39,6 @@ Nenurodyta
 - t-001
   global_id: t-06734
   teiginys: 'Kūlgrindomis galėjo naudotis tik prityrusio vadovo vedami žmonės.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -47,8 +46,6 @@ Nenurodyta
 - t-002
   global_id: t-06735
   teiginys: 'Kūlgrindomis žemaičiai vadino akmenimis grįstus vingrius kelius su klastingais posūkiais.'
-  sudarymo_pagrindimas: 'Citata tiksliau nusako pavadinimo vartojimą ir kelių ypatybes.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -64,7 +61,6 @@ Nenurodyta
     kūlgrindomis (kūlis—akmuo). Ir dabar dar galima rasti
     Lietuvoje tokių kelių liekanų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -21,16 +21,6 @@ Narbutas žmogėdrų, arba androfagų, tautą vaizdavo kaip iš šiaurės ir vak
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 359387-359813; hash=04f4c5c17249c83abb001312642a414b2d42f1a5cf37c25d85cbad21c4e26c3c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Lietuva: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žmogėdros (androfagai): llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad žmogėdrų tauta užpuldavo lietuvių kraštus.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -46,10 +36,8 @@ Narbutas žmogėdrų, arba androfagų, tautą vaizdavo kaip iš šiaurės ir vak
     rės ežero, suėsdavo, o iš jų kaulų sukraudavo milžiniškas pira­
     mides savo dievų garbei.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

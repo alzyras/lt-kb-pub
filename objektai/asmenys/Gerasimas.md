@@ -22,21 +22,8 @@ tags:
 - t-001
   global_id: t-87678
   teiginys: 'Švitrigaila įsakė sudeginti metropolitą Gerasimą.'
-  sudarymo_pagrindimas: 'Sakinys sutrumpintas iki aiškaus fakto apie Gerasimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Alšėnai; mentioned_place: Vitebskas; llm_object: [[objektai/asmenys/Gerasimas|Gerasimas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] puolė [[objektai/asmenys/Gerasimas|Gerasimas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 444439-444951; hash=80fbc02e516c7842d10dd9fd5f23436e6e85e5b9219a95f898e9aa4a3b20f0d6; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Gerasimas: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Gerasimas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Sudeginimas yra tiesioginis smurtinis veiksmas prieš Gerasimą.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179726|Švitrigaila]]: Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių.
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114099|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantas Kęstutaitis įsakė Švitrigailos pasiuntinius valkioti gatvėmis ir paskandinti.
 - susijęs iš Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): Švitrigaila įsakė sugautą Alšėnų kunigaikštį Vitebske nuo aukšto skardžio įmesti į Dviną.
@@ -60,7 +47,6 @@ tags:
     atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­
     skandinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

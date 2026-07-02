@@ -42,9 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-66458
   teiginys: '1920 m. rugsėjo 22 d. lenkai slapta pergrupavo pajėgas ir pradėjo puolimą ties Seinais bei Kapčiamiesčiu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Seinai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1920 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-004
 
@@ -52,8 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-66459
   teiginys: 'Augustavo-Suvalkų operacijos metu lenkų pajėgos spalio 3-4 d. užėmė Varėną, svarbų transporto mazgą.'
-  sudarymo_pagrindimas: 'Papildytas įvykio objektas ir išlaikyti citatos faktai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Varėna; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-003
 
@@ -61,8 +56,6 @@ Nenurodyta
 - t-003
   global_id: t-66460
   teiginys: 'Visos operacijos metu Lietuvos pajėgos prarado daugiau nei 2 000 karių.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie operacijos nuostolius.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-005
 
@@ -70,8 +63,6 @@ Nenurodyta
 - t-004
   global_id: t-66461
   teiginys: 'Rugsėjo 23 d. lenkų divizijos perėjo tiltą per Nemuną Druskininkuose, o rugsėjo 28 d. lenkai užėmė Lydą ir puolė Varėnos kryptimi.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Druskininkai; mentioned_place: Nemunas; mentioned_place: Varėna; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 
@@ -79,7 +70,6 @@ Nenurodyta
 - t-005
   global_id: t-66462
   teiginys: 'Rugsėjo pabaigoje Lietuvos pajėgos patyrė didelius nuostolius, įskaitant sunaikintus batalionus ir baterijas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/zodynas/pozicinė gynyba.md#claim-t-80631|pozicinė gynyba]]: Lietuvos vadovybė numatė pozicinę gynybą visu frontu be manevravimo galimybės ir didesnio rezervo.
@@ -97,7 +87,6 @@ Nenurodyta
     užėmė Lydą ir tęsė puolimą Varėnos kryp-
     timi. Lietuvių pajėgos traukėsi į šiaurę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -119,7 +108,6 @@ Nenurodyta
     kintos 1-oji baterija, 5-oji bei 2-oji haubicų
     baterijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -138,7 +126,6 @@ Nenurodyta
     liau puolė lietuvius ir spalio 3-4 d. užėmė
     Varėną - svarbų transporto mazgą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -155,7 +142,6 @@ Nenurodyta
     ryte. Lietuviai tokio stipraus puolimo ne-
     sugebėjo atlaikyti, lenkai užiminėjo vieną
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -175,7 +161,6 @@ Nenurodyta
     gos visos Augustavo-Suvalkų operacijos
     metu prarado daugiau nei 2 000 karių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

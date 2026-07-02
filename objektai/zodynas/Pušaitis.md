@@ -21,16 +21,6 @@ Narbutas Pušaitį (Puschajtis) pristato kaip požemio dievaitį, engiamų varg�
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 307325-307532; hash=63ee503bda6cedf5993cc893049def6ef32a150c8596c3bc567283c41b8c6116; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barstukai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pušaitis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Barstukai: mention_match, group, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pušaitis" parinktas kaip owner_note_path. Targetas "Barstukai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/paprociai/Pušaičio šaukimasis, aukos po alyvų krūmais ir markopolių prašymas dėl kaimiečių.md#claim-t-189936|Pušaičio šaukimasis, aukos po alyvų krūmais ir markopolių prašymas dėl kaimiečių]]: Narbutas markopolius vaizdavo kaip požemio dievaičius, kuriuos ypač garbino didikai ir bajorai, o Pušaitis jų prašydavo už kaimiečius.
 - susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189995|Frydrichas Stenderis]]: Narbutas prie Pušaičio, požemio dievaičio ir barstukų vyriausiojo, aprašymo nurodo Stenderio „Lettische Grammatik“.
 - susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-188591|Motiejus Strijkovskis]]: Narbutas nurodo, kad Strijkovskis alyvą Sambėje laikė pirmu tarp šventųjų medžių.
@@ -54,9 +44,7 @@ Narbutas Pušaitį (Puschajtis) pristato kaip požemio dievaitį, engiamų varg�
 
     po alyvų krūmais.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

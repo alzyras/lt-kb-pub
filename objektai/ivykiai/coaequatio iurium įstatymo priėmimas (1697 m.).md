@@ -42,9 +42,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a025d4184df49dc4e8bcd6ab9b77abc27c8145b3c6ef552f25cc49ed85138f11; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -60,9 +57,7 @@ Nenurodyta
     ginimo _(coaequatio iurium)_ šūkiu, nes tuo buvo norima su-
     vienodinti Lietuvos ir Lenkijos ministerių teises.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

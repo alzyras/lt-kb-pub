@@ -37,21 +37,8 @@ Nenurodyta
 - t-001
   global_id: t-62312
   teiginys: 'Aštuoni šimtai Lietuvos raitelių nuniokojo 10 Kersovo kaimų, o Krokuvos kunigaikštis Lešekas kontratakoje beveik visus juos sunaikino.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Citata remia aiškų antpuolio ir kontratakos apibendrinimą.'
-  susije_objektai: 'mentioned_place: Kersovas; mentioned_place: Krokuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: Kersovas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 513266-514124; hash=a1f37a647a58e6d5fd0f5971929f72d31e1c571938506bef81c8a81cded49c56; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kersovas: 0.81
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kersovas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Lietuvos raiteliai nuniokojo kaimus Kersovo žemėje, todėl palaikomas puolimo ryšys į Kersovą.
 
 ## Reikšmingi paminėjimai
 
@@ -72,7 +59,6 @@ Nenurodyta
     smogė tikėjimo priešams tokį smūgį, kad iš aštuonių šimtų vyrų vos dešimčiai pavyko
     pasprukti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

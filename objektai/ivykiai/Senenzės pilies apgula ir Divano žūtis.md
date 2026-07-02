@@ -44,42 +44,15 @@ Nenurodyta
 - t-001
   global_id: t-66894
   teiginys: 'Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį, bet brolis Arnoldas Krofas jį mirtinai peršovė arbaletu.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta; citata palaiko apgulos ir Divano žūties faktą.'
-  susije_objektai: 'llm_object: Senenzė; mentioned_object: [[objektai/daiktai/Arbaletas|Arbaletas]]; mentioned_person: [[objektai/asmenys/Arnoldas Krofas|Arnoldas Krofas]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Senenzė; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_place: Viena; llm_object: [[objektai/asmenys/Divanas|Divanas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 462040-462854; hash=eff2ff4406554397fb91e9a05f7da4446fc25f12408b6d0d892eba26aa071d0d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: apgule -> Senenzė: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Divanas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Senenzė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Divanas apsiautė Senenzės pilį.
 
 <a id="claim-t-66895"></a>
 - t-002
   global_id: t-66895
   teiginys: 'Bartų puolimas prieš Senenzės pilį įvyko apie 1272 m.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Senenzės pilies puolimo datavimą ir pašalina vardyno pastabas.'
-  susije_objektai: 'llm_object: Senenzė; mentioned_place: Senenzė; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_place: Kulmas; mentioned_place: Torunė'
-  temporaliniai_duomenys: 'įvykio data: 1272 m.; įvykio data: apie 1272 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia Senenzės pilies puolimo datavimą ir pašalina vardyno pastabas.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 464042-464280; hash=0c96acbf942717aea7b199272edfa3a3605913db381b6271fe5025a76546907b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Senenzė: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bartai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Senenzė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys aiškiai įvardija bartų puolimą prieš Senenzės pilį.
 
 ## Reikšmingi paminėjimai
 
@@ -99,7 +72,6 @@ Nenurodyta
     Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą. Šiam žuvus,
     kiti pasitraukė nebaigę reikalo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -113,7 +85,6 @@ Nenurodyta
     Pomorskie, gyvenvietė Kulmo žemėje  į šiaurės rytus nuo Torunės (SZCh, p. 59). Čia
     aprašomas bartų puolimas įvyko apie 1272 m. (Powierski J., Dobra.., p. 79—80).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

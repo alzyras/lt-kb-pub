@@ -31,41 +31,15 @@ patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą sav
 - t-001
   global_id: t-93182
   teiginys: 'Vytautas Didysis priėmė Benediktą Makrą Lietuvoje, gausiai jį apdovanojo ir pakėlė į savo riterius.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Benediktą Makrą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kaunas; llm_object: Kaunas'
-  semantiniai_rysiai: '[[objektai/asmenys/Benediktas Makras|Benediktas Makras]] keliavo į Kaunas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a5d76c6c54068a7eb3b88c94de93c86f0863a031856eddaa5583691af0036913; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Kaunas: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Benediktas Makras: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Makras minimas tarp Kauno salos suvažiavimo dalyvių, todėl galima remti jo buvimą ten.
 
 <a id="claim-t-93183"></a>
 - t-002
   global_id: t-93183
   teiginys: 'Benediktas Makras buvo pasiųstas į Lietuvą ištirti Žemaitijos sienų ir išspręsti Vytauto ginčo su Ordinu.'
-  sudarymo_pagrindimas: 'Pašalintas sakinio pradžios fragmentas ir suformuluotas pilnas teiginys apie Benediktą Makrą.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Torno'
-  semantiniai_rysiai: '[[objektai/asmenys/Benediktas Makras|Benediktas Makras]] siuntė į Lietuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 330329-330724; hash=e3c6a30b74af68e8463ad8abfa420d130cd4298f6ae943e682ae8a06d7b71c0f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Lietuva: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Benediktas Makras: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Benediktas Makras buvo pasiųstas į Lietuvą.
 
 ## Reikšmingi paminėjimai
 
@@ -85,7 +59,6 @@ patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą sav
     Jogaila, Ordino pasiuntinys Mykolas Küchmeisteris, lietuvių ir
     lenkų bajorai, Ordino riteriai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -103,7 +76,6 @@ patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą sav
     iki savo mirties, draudė jam daryti Žemaičių krašte įvairius su­
     tvirtinimus ir nesutiko su Vytautu dėl šio krašto ribų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

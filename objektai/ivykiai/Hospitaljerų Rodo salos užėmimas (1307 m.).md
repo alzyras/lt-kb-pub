@@ -42,13 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-62294
   teiginys: 'Hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir penkias kitas salas.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c60c483848085b553f3380887c5b93822e7538fb2a4ac6ecbb137484134af14b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -61,7 +56,6 @@ Nenurodyta
        Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas
     salas (Mart. p. 442).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

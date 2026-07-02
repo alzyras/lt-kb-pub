@@ -32,38 +32,15 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
 - t-001
   global_id: t-68038
   teiginys: '1416 metais Vytautas Kaltinėnuose pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių.'
-  sudarymo_pagrindimas: 'Pašalintas įvadinis kontekstas ir OCR triukšmas.'
-  susije_objektai: 'mentioned_place: Viena; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Konstancija; mentioned_place: Varniai; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2f9ade3622100512d855550df70dca3d153250d4d362de44cf1b0bb20ecf064b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Tie patys Žemaičių atstovai tiesiogiai įvardyti sudarę taiką su Ordinu.
 
 <a id="claim-t-68039"></a>
 - t-002
   global_id: t-68039
   teiginys: 'Kaltinėnai buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai sudarė taiką su Vytautu ir ordinu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Viena; mentioned_place: Prūsų žemė; mentioned_place: Raseiniai; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: [[objektai/grupes/Prūsai|Prūsai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c7c9a1de2f409361f91fc43679710ec46b827f4c1e4b92e881f4175cc641a9b0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kaltinėnai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaltinėnai" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Dionizas Paškevičius.md#claim-t-190063|Dionizas Paškevičius]]: Dionizas Paškevičius Bardžių dvare Žemaitijoje, netoli Kražių ir kelio į Raseinius, aptiko seną nudžiūstantį ąžuolą.
 - susijęs iš [[objektai/autoriai/Praleisti nelaikyti saugiais autoriais.md#claim-t-190448|Praleisti nelaikyti saugiais autoriais]]: Praleisti nelaikyti saugiais autoriais išliko, todėl teisingai manoma, kad jis garbintas kaip šventasis.
 - susijęs iš [[objektai/ivykiai/Kališo taika.md#claim-t-100053|Kališo taika]]: 85 Kališas 217 ; Kališo taika 232, 330 Kalita 371, žr.
@@ -84,7 +61,6 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
     nes parodė savo įtaką Žemaičiuose, kuriuos jis — be pačių Žemaičių
     žinios — jau buvo antrukart ordinui pažadėjęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,7 +78,6 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
     kimo pasiuntiniai—Lvovo vysk. Jonas ir Vilniaus vysk. Petras
     — buvo Vytauto sutikti ir su dideliu didikų būriu nulydėti į Že-
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

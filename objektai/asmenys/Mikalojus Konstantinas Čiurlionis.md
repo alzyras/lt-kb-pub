@@ -6,6 +6,11 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+description: 'M. K. Čiurlionis – lietuvių dailininkas ir kompozitorius, studijavęs Varšuvoje bei Leipcige ir pasirinkęs lietuvių tapatybę.'
+socialDescription: 'Įrašas apie M. K. Čiurlionį – lietuvių dailininką ir kompozitorių, studijavusį Varšuvoje bei Leipcige.'
+seo_atnaujinta: '2026-07-02T21:03:54.584662+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 amziai:
@@ -16,7 +21,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kompozitorius, studijavęs Varšuvoje bei Leipcige ir tautinio apsisprendimo kontekste pasirinkęs lietuvius.
+Mikalojus Konstantinas Čiurlionis (1875–1911) šaltiniuose įvardijamas kaip plačiai pasaulyje žinomas lietuvių dailininkas ir kompozitorius, studijavęs muziką ir dailę Varšuvoje bei Leipcige. Iš etniškai lietuviškos aplinkos kilęs, bet ilgą laiką gerai lietuviškai nemokėjęs kūrėjas tautinio apsisprendimo aplinkoje pasirinko lietuvius. Po J. Stalino mirties, „atšilimo“ laikotarpiu, jo kūrybos albumai buvo spausdinami kaip tautinio kultūrinio palikimo dalis.
 
 ## Teiginiai
 
@@ -24,7 +29,6 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 - t-001
   global_id: t-101688
   teiginys: 'Čiurlionio muziejaus senojo meno ekspozicija.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -32,7 +36,6 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 - t-002
   global_id: t-101689
   teiginys: 'Mikalojus Konstantinas Čiurlionis studijavo muziką ir dailę Varšuvoje bei Leipcige.'
-  susije_objektai: 'mentioned_place: Leipcigas; mentioned_place: Varšuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -40,11 +43,6 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 - t-003
   global_id: t-101690
   teiginys: 'M. K. Čiurlionis įvardijamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius.'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs fragmentas, o citata palaiko aiškų sakinį apie Čiurlionį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/M. K. Čiurlionis|M. K. Čiurlionis]]; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: po 1795 m.; įvykio data: 1795 m.; įvykio data: 1918-1919; įvykio data: 1919 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo nutrūkęs fragmentas, o citata palaiko aiškų sakinį apie Čiurlionį.'
   pagrindžia:
     - c-001
 
@@ -52,8 +50,6 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 - t-004
   global_id: t-101691
   teiginys: 'Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/M. K. Čiurlionis|M. K. Čiurlionis]]; mentioned_place: Leipcigas; mentioned_place: Varšuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
 
@@ -61,8 +57,6 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 - t-005
   global_id: t-101692
   teiginys: 'Mikalojus Konstantinas Čiurlionis, kilęs iš etniškai lietuviškos aplinkos, bet dar gerai nemokėjęs lietuviškai, pasirinko lietuvius.'
-  sudarymo_pagrindimas: 'Pataisyta nelogiška formuluotė „nors buvo kilęs“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/M. K. Čiurlionis|M. K. Čiurlionis]]; mentioned_place: Varšuva'
   pagrindžia:
     - c-002
 
@@ -70,8 +64,6 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 - t-006
   global_id: t-101693
   teiginys: 'Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta M. K. Čiurlionio kūrybos albumų.'
-  sudarymo_pagrindimas: 'Pašalinta gremėzdiška konstrukcija ir išlaikytas citatos faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-003
 
@@ -79,7 +71,6 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 - t-008
   global_id: t-101695
   teiginys: 'Po Stalino mirties, atšilimo laikotarpiu, buvo spausdinami Mikalojaus Konstantino Čiurlionio kūrybos albumai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/M. K. Čiurlionis.md#claim-t-63885|M. K. Čiurlionis]]: Po J. Stalino mirties „atšilimo“ laikotarpiu oficialiai išspausdinta M. K. Čiurlionio kūrybos albumų.
@@ -120,7 +111,6 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     tautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Basanavi-
     čius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -138,7 +128,6 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     Varšuvoje ir Leipcige. Iš etniškai lietuviškos aplinkos kilęs, bet iki to lai-
     kotarpio lietuviškai gerai nemokėjęs, M. K. Čiurlionis pasirinko lietuvius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -161,7 +150,6 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
     kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -182,7 +170,6 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs
     Varšuvoje ir Leipcige.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -198,7 +185,6 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
     M. K. Čiurlionio muziejaus senojo meno ekspozicija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

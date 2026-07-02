@@ -30,23 +30,8 @@ Nenurodyta
 - t-001
   global_id: t-185792
   teiginys: 'Goštautui išvykus į Tikociną, Vilniuje sukurstyta minia nužudė keturiolika krikščionių vienuolių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata leidžia pakeisti miglotą formuluotę konkrečiu faktu apie keturiolikos vienuolių nužudymą.'
-  susije_objektai: 'llm_object: Tikocinas; llm_object: Vilnius; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Tikocinas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 392310-393048; hash=109c2a52c7682fbcf5d8afaf0787f1a634ec13c82a77548479efbcd7d1919c58; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Tikocinas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Tikocinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Goštauto kelionę į Tikociną.
 
 ## Reikšmingi paminėjimai
 
@@ -70,10 +55,8 @@ Nenurodyta
     ir palaidoti toje pačioje aikštėje, kur jie skelbė Kris­
     taus žodį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

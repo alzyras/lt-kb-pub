@@ -29,8 +29,6 @@ Smakauskas, 1828 m. 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y
 - t-001
   global_id: t-82382
   teiginys: 'Grigalius XIII bule aprobavo Stepono Batoro suteiktą Vilniaus akademijos privilegiją.'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškią nuorodą „tokią privilegiją“, todėl reikia įvardyti objektą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113365|Vilniaus universitetas]]: 1579 m. balandžio 1 d. karalius Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą.
@@ -61,7 +59,6 @@ Smakauskas, 1828 m. 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y
     demijos kancleriu, o Žemaičių - globėju nuolatiniam laikui pa­
     skyrė. Tokią privilegiją Grigalius XIII bule aprobavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

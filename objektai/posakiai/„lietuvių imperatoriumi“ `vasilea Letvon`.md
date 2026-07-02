@@ -29,45 +29,15 @@ Tačiau būtent šių žygių į Maskvą metu 1371 m. laiške Konstantinopolio p
 - t-001
   global_id: t-186395
   teiginys: '1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino „lietuvių imperatoriumi“ („vasilea Letvon“).'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra tikslus, gramatinis ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'llm_object: Maskva; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Konstantinopolis; mentioned_place: Kremlius; mentioned_place: Maskva; mentioned_place: Rusia; mentioned_place: Tverė; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1371 m.; įvykio data: 1372 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, gramatinis ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=398ede3c5ffc499c5dfe1e4c33a5a21408cb53e931df792512f131d88af1335a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Algirdas surengė žygį į Maskvą.
 
 <a id="claim-t-186396"></a>
 - t-002
   global_id: t-186396
   teiginys: '1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino „lietuvių imperatoriumi“ ir taip prilygino save Bizantijos imperatoriui.'
-  teiginio_tipas: 'faktas'
-  susije_objektai: 'llm_object: Maskva; mentioned_place: Bizantija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Konstantinopolis; mentioned_place: Kremlius; mentioned_place: Maskva; mentioned_place: Rusia; mentioned_place: Tverė; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1371 m.; įvykio data: 1372 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=398ede3c5ffc499c5dfe1e4c33a5a21408cb53e931df792512f131d88af1335a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Algirdo žygį į Maskvą.
 
 ## Reikšmingi paminėjimai
 
@@ -86,7 +56,6 @@ Tačiau būtent šių žygių į Maskvą metu 1371 m. laiške Konstantinopolio p
     Lietuvos valdovai puikiai orientavosi ne tik Vakarų, bet ir Rytų Europos
     politinėje sistemoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

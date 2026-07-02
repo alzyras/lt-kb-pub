@@ -42,9 +42,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 351305-351999; hash=1b6d5a8bd72339e76ad62df24541ca05803a09b4bf9efc7bcb7e0ea31751ec32; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -65,9 +62,7 @@ Nenurodyta
     vimų ir pasakojimų apie panašius akmenis, garbinamus ir pas
     mus.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

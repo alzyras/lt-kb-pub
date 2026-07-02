@@ -46,12 +46,6 @@ Nenurodyta
 - t-001
   global_id: t-62939
   teiginys: 'Senosios Torunės pilaitė liko Ordino rankose ir buvo naudojama kaip gyvulininkystės dvaras.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citatos informacija.'
-  susije_objektai: 'mentioned_place: Pilaitė; mentioned_place: Torunė; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Kulmas; llm_object: Torunė'
-  temporaliniai_duomenys: 'įvykio data: 1231 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citatos informacija.'
   pagrindžia:
     - c-001
 
@@ -66,7 +60,6 @@ Nenurodyta
     rankose, ji naudota kaip gyvulininkystės dvaras.
       Kaip rodo archeologiniai tyrimai, dab.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -80,7 +73,6 @@ Nenurodyta
     statyti ir nauja pilis, iš pradžių — iš rąstų, žemių ir akmenų, о XIII a. 6—7 dešimtmečiais
     — mūrinė. Torunės pilyje apie XIII a. vidurį, atrodo, įsikūrė Ordino konventas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified

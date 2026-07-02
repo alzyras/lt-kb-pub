@@ -8,6 +8,11 @@ datos:
   - '1292 m.'
 date_start: '1231'
 date_end: '1292'
+description: 'Ditrichas, Sembos fogtas 1278–1292 m., minimas žygiuose į Nadruvą, Ragainę ir Ramiją bei 1286 m. prūsų sukilimo kontekste.'
+socialDescription: 'Sembos fogtas Ditrichas (1278–1292 m.) Dusburgiečio pasakojimuose siejamas su žygiais į Nadruvą, Ragainę, Ramiją ir prūsų sukilimo grėsme.'
+seo_atnaujinta: '2026-07-02T20:14:54.869270+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -22,7 +27,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį. Dusburgietis teigia, kad 217 Fogtu buvo 1278—1292 m. 218 D. Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį.
+Ditrichas, Sembos fogtas 1278–1292 m., šaltiniuose minimas kaip brolis ir karinių veiksmų Prūsijoje dalyvis. Konradas iš Tirbergo jį siuntė su kariuomene į Nadruvą, o magistro įsakymu Ditrichas puolė pilį Ragainės vietoje; jis taip pat siejamas su Ramijos pilies užpuolimu ir sugriovimu. 1286 m. jis baiminosi bartų, pagudėnų ir kitų prūsų sukilimo, o pasakojime apie Dargį mėgino atpratinti prūsą nuo prietaro dėl baltų žirgų.
 
 ## Teiginiai
 
@@ -30,166 +35,57 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 - t-001
   global_id: t-59833
   teiginys: '1286 m. Sembos fogtas Ditrichas baiminosi bartų, pagudėnų ir kitų prūsų sumanyto naujo sukilimo prieš brolius.'
-  sudarymo_pagrindimas: 'Pašalinta antraštė ir citatos fragmentas, išlaikyta autoriaus priskirta nuostata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_place: Prūsų žemė; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Prūsija; mentioned_place: Semba'
-  temporaliniai_duomenys: 'įvykio data: 1286 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalinta antraštė ir citatos fragmentas, išlaikyta autoriaus priskirta nuostata.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9af1ce0d2d4fcf5dfa2ee2cfcf6f698a1a18855f2d8083fafee6f328c92b2117; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Dargis: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Dargis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Ditrichas veikė Dargio atžvilgiu siekdamas pakeisti jo prietarą; tai pagal leistinus ryšius artimiausia rėmimui, bet nėra politinis rėmimas.
 
 <a id="claim-t-59834"></a>
 - t-002
   global_id: t-59834
   teiginys: 'Ditrichas Sembos fogtu buvo 1278-1292 m.'
-  sudarymo_pagrindimas: 'Teiginys yra faktinis, glaustas ir paremtas išnašos duomenimis.'
-  susije_objektai: 'mentioned_place: Semba; mentioned_place: Torunė'
-  temporaliniai_duomenys: 'įvykio data: 1231 m.; įvykio data: apie 1231 m.; įvykio data: 1278-1292; įvykio data: 1292 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, glaustas ir paremtas išnašos duomenimis.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ae6bd12a2a8f1f0d3dc7847698166fa02789eda5efecf9dae867f49631c50787; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Semba: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas (Sembos fogtas)" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59835"></a>
 - t-003
   global_id: t-59835
   teiginys: 'Sembos fogtas Ditrichas su kariuomene užpuolė Ramijos pilį, tą pačią dieną į ją įsiveržė ir sugriovė.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Nemunas; mentioned_place: Semba'
   pagrindžia:
     - c-008
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 474806-475285; hash=aa62c7db74973d5f45dab5e55d08c57713ff1bdaade3534c84f1ee2125ad8286; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Nadruva: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Ditrichas su kariuomene buvo pasiųstas į Nadruvą, tai yra karinis žygis į šią vietą.
 
 <a id="claim-t-59836"></a>
 - t-004
   global_id: t-59836
   teiginys: 'Grįžęs iš Vokietijos, Sembos fogtas Ditrichas iš Lidelau atkalbėjo sembus nuo paklydimo.'
-  sudarymo_pagrindimas: 'Reikia pašalinti perteklinį ir neaiškų žodį „sumanyto“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Semba; llm_object: [[objektai/grupes/Sembai|Sembai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Ditrichas (Sembos fogtas)|Ditrichas (Sembos fogtas)]] rėmė [[objektai/grupes/Sembai|Sembai]]'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=84dcca443a624e09697af20fb0cb02f3de0aecb1aacf53998e31cf7aa2e6eac2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Ragainė: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata sako, kad Ditrichas užpuolė pilį vietoje, kur dabar yra Ragainės pilis.
 
 <a id="claim-t-59837"></a>
 - t-005
   global_id: t-59837
   teiginys: 'Konradas iš Tirbergo pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Ditricho pasiuntimą į Nadruvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Nadruva; llm_object: Nadruva; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Semba'
-  semantiniai_rysiai: '[[objektai/asmenys/Ditrichas (Sembos fogtas)|Ditrichas (Sembos fogtas)]] surengė žygį į Nadruva'
-  temporaliniai_duomenys: 'įvykio data: 1274 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia Ditricho pasiuntimą į Nadruvą.'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 491587-492116; hash=cc63faa73e05c6781ee3027e20d39a6f68debfd13c27a40c4647282f985be80e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nemunas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Nemunas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas (Sembos fogtas)" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-59838"></a>
 - t-006
   global_id: t-59838
   teiginys: 'Sembos fogtas Ditrichas magistro įsakymu su brolių ir tūkstančio vyrų pajėgomis užpuolė Ragainės pilies vietoje stovėjusią pilį.'
-  sudarymo_pagrindimas: 'Pašalinta antraštė ir nutrūkęs sakinio fragmentas.'
-  susije_objektai: 'llm_object: Ragainė; mentioned_place: Ragainė; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Nemunas; mentioned_place: Semba'
-  semantiniai_rysiai: '[[objektai/asmenys/Ditrichas (Sembos fogtas)|Ditrichas (Sembos fogtas)]] puolė Ragainė; [[objektai/asmenys/Ditrichas (Sembos fogtas)|Ditrichas (Sembos fogtas)]] surengė žygį į Ragainė'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=09dd22c115b71408279ba7f8e7ebde13d9807aeb04fc8fb63bf25f7868958dae; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Sembai: 0.66
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Sembai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Ditrichas paveikė sembus atsisakyti paklydimo; pagal leistinus ryšius tai artimiausia paramai jų atžvilgiu.
 
 <a id="claim-t-59839"></a>
 - t-007
   global_id: t-59839
   teiginys: 'Sembos fogtas Ditrichas nupirko Dargiui baltą arklį, norėdamas atpratinti jį nuo prietaro dėl baltų žirgų.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Dargis|Dargis]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Semba; mentioned_place: Viena; llm_object: [[objektai/asmenys/Dargis|Dargis]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Ditrichas (Sembos fogtas)|Ditrichas (Sembos fogtas)]] rėmė [[objektai/asmenys/Dargis|Dargis]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bd0e1b3b9698453d78d94aeec8c7b11d8790cd4620d93568a078e87fcd3d6e7a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bartai: mention_match, group, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas (Sembos fogtas)" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59840"></a>
 - t-008
   global_id: t-59840
   teiginys: 'Sembos fogtui Ditrichui nepatiko, kad broliai bartams grąžino į nelaisvę paimtas žmonas ir vaikus.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatoje nurodyta Ditricho reakcija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Numa|Numa]]; mentioned_place: Gardinas; mentioned_place: Semba'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f5f4bb6b07d051347b6fa28c6f96821107b59287d70aa941fd27e33e04031e9e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pagudėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ditrichas (Sembos fogtas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Pagudėnai: mention_match, group, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas (Sembos fogtas)" parinktas kaip owner_note_path. Targetas "Pagudėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -205,14 +101,11 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     tvarte; ryto metą žmogelis rado šį žirgą nudurtą, o visus savo gyvulius padvėsusius. Tris
     kartus jis padarė šitokį bandymą ir kiekvieną kartą susilaukė tos pačios baigties.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-007
-
 - c-002
   santrauka: '1286 m. Sembos fogtas Ditrichas baiminosi bartų, pagudėnų ir kitų prūsų sumanyto naujo sukilimo prieš brolius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -227,14 +120,11 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     pagarbos jų dabartinei padėčiai. Taigi jie susitarė pakviesti rugijų kunigaikštį522 su stipria
     kariuomene ir, išvijus brolius iš Prūsijos žemės, jį paskirti savo karaliumi bei valdovu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   santrauka: 'Sembos fogtas Ditrichas magistro įsakymu su brolių ir tūkstančio vyrų pajėgomis užpuolė Ragainės pilies vietoje stovėjusią pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -246,14 +136,11 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     Nemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
     yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-006
-
 - c-004
   santrauka: 'Ditrichas Sembos fogtu buvo 1278-1292 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -262,14 +149,11 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
       218 D. minima (apie 1231 m.) castrum dictum Rogow (plg. pr. ragis, lie. ragas resp.
     Ragupė — GAO, p. 143) siejama su dab. Rogovu per 11 km į šiaurės rytus nuo Torunės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
-
 - c-005
   santrauka: 'Konradas iš Tirbergo pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -283,14 +167,11 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 
       456 Abu Bartos užpuolimai (III, 173—174) vyko, atrodo, 1273— 1274 m.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-005
-
 - c-006
   santrauka: 'Grįžęs iš Vokietijos, Sembos fogtas Ditrichas iš Lidelau atkalbėjo sembus nuo paklydimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -301,14 +182,11 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     sembus, kurie  jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir
     varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-004
-
 - c-007
   santrauka: 'Sembos fogtui Ditrichui nepatiko, kad broliai bartams grąžino į nelaisvę paimtas žmonas ir vaikus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -324,14 +202,11 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     galėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino. Minėtieji Numa ir
       520 D. — contra castrum Gartham, Jer — burc zu Gartin.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-008
-
 - c-008
   santrauka: 'Dusburgietis teigia, kad todėl minėtasis brolis Ditrichas, persikėlęs su savo kariuomene į kitą Nemuno krantą, tuo pat būdu užpuolė Ramijos pilį469; nors toje kovoje kai kurie jo kariai buvo sužeisti ir nukauti, bet tą pačią dieną jis įsiveržė į pilį ir ją sugriovė, dalį žmonių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -350,11 +225,9 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 
                      184 (179).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-009
     - t-003

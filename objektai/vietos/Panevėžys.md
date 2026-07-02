@@ -33,11 +33,6 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 - t-001
   global_id: t-182774
   teiginys: '1919 m. sausio 9 d. bolševikų pajėgos užėmė Panevėžį, o J. Variakojis su pirmuoju savanorių būriu pasitraukė į Kėdainius.'
-  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir suformuluotas citata paremtas faktas apie Panevėžį.'
-  susije_objektai: 'llm_object: Kėdainiai; mentioned_person: [[objektai/asmenys/J. Variakojis|J. Variakojis]]; mentioned_place: Kėdainiai'
-  temporaliniai_duomenys: 'įvykio data: 1918 m.; įvykio data: 1919 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir suformuluotas citata paremtas faktas apie Panevėžį.'
   pagrindžia:
     - c-001
 
@@ -45,22 +40,13 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 - t-002
   global_id: t-182776
   teiginys: 'Balandžio 3 d. apie 15 val. bolševikai, sutelkę didesnes pajėgas, užpuolė Panevėžį, bet puolimas iki vidurnakčio buvo atremtas.'
-  sudarymo_pagrindimas: 'Citata leidžia papildyti datą, laiką ir puolimo baigtį.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=176c418551de09c24826d66f666df0bb186de54863119889faf78f7121bc625d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 <a id="claim-t-183069"></a>
 - t-003
   global_id: t-183069
   teiginys: 'Panevėžyje buvo įkurta viena iš pijarų mokyklų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Ilgas sąrašas sutrumpintas iki faktinio teiginio apie Panevėžį.'
-  susije_objektai: 'mentioned_place: Viena; mentioned_place: Želviai'
   pagrindžia:
     - c-003
 
@@ -68,11 +54,6 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 - t-004
   global_id: t-183620
   teiginys: 'Panevėžyje veikusią lenkų gimnaziją finansiškai rėmė Lietuvos vyriausybė ir lenkų kultūros organizacijos.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis ir sakinys pritaikytas vietos objektui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Jutrzenka|Jutrzenka]]; mentioned_group: [[objektai/grupes/Oswiata|Oswiata]]; mentioned_group: [[objektai/grupes/Pochodnia|Pochodnia]]'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/asmenys/Konradas Valenrodas.md#claim-t-87397|Konradas Valenrodas]]: Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas didžiuoju magistru, o 1393 m. liepos 25 d. mirė.
@@ -101,7 +82,6 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     su pirmuoju savanorių būriu paliko
     miestą ir atvyko į Kėdainius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -119,7 +99,6 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     ir puolimas buvo atremtas iki vidurnak-
     čio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -139,7 +118,6 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 
     #### 6.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -156,7 +134,6 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     vėžyje ir Ukmergėje. 1935–1936 mokslo metais veikė apie 30 lenkiškų
     mokyklų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

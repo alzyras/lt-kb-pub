@@ -31,68 +31,22 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
 - t-001
   global_id: t-82653
   teiginys: '1409 m. Vytautas artimose totorių žemėse įkurdino jam paklusnų chaną Saladiną, vyriausią Tochtamyšo sūnų.'
-  sudarymo_pagrindimas: 'Teiginys yra išsamus faktinis sakinys apie Saladiną ir tiksliai remiasi citata.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vorskla; llm_object: [[objektai/asmenys/Saladinas|Saladinas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Saladinas|Saladinas]] rėmė [[objektai/asmenys/Vytautas|Vytautas]]; [[objektai/asmenys/Vytautas|Vytautas]] paskyrė [[objektai/asmenys/Saladinas|Saladinas]]'
-  temporaliniai_duomenys: 'įvykio data: 1409 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus faktinis sakinys apie Saladiną ir tiksliai remiasi citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1d3584e89d3a4797843331b9f30bdf84b4e33451e4c76be0e1cc52e26dec29e0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Saladinas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Saladinas siuntė pagalbą Vytautui.
 
 <a id="claim-t-82654"></a>
 - t-002
   global_id: t-82654
   teiginys: 'Saladinas citatoje vadinamas Tochtamišo sūnumi ir ištikimu Lietuvos sąjungininku, po kurio mirties įpėdinis Kerimberdėjus nepakluso Vytautui.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Kerimberdėjus|Kerimberdėjus]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Janas Kropidła|Janas Kropidła]]; mentioned_place: Dniepras; mentioned_place: Smolenskas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Saladinas|Saladinas]] buvo sūnus [[objektai/asmenys/Tochtamišas|Tochtamišas]]'
-  temporaliniai_duomenys: 'įvykio data: 1419 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=07c853747ca390637bc349d209abbeff234e429bd9f3816c7381a13eee412db1; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Tochtamišas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Saladinas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Tochtamišas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Saladinas buvo Tochtamišo sūnus.
 
 <a id="claim-t-82655"></a>
 - t-003
   global_id: t-82655
   teiginys: 'Saladinas, Tochtamyšo sūnus, buvo sultonas ir ištikimas Lietuvos sąjungininkas.'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie Saladino tapatybę ir ryšį su Lietuva.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Janas Kropidła|Janas Kropidła]]; mentioned_person: [[objektai/asmenys/Kerimberdėjus|Kerimberdėjus]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Smolenskas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Saladinas|Saladinas]] buvo sūnus [[objektai/asmenys/Tochtamišas|Tochtamišas]]'
-  temporaliniai_duomenys: 'įvykio data: 1419 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti aiškų faktą apie Saladino tapatybę ir ryšį su Lietuva.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=07c853747ca390637bc349d209abbeff234e429bd9f3816c7381a13eee412db1; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Tochtamišas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Saladinas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Tochtamišas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Saladinas buvo Tochtamišo sūnus.
 - susijęs iš [[objektai/asmenys/Tochtamyšas (Krymo ordos chanas).md#claim-t-35297|Tochtamyšas (Krymo ordos chanas)]]: Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą.
 - susijęs iš [[objektai/asmenys/Tochtamyšas.md#claim-t-51184|Tochtamyšas]]: Tochtamyšas buvo Saladino tėvas; po Tochtamyšo mirties Saladinas prisiglaudė pas Vytautą.
 - susijęs iš [[objektai/asmenys/Tochtamyšas.md#claim-t-51185|Tochtamyšas]]: Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą.
@@ -113,7 +67,6 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
     mirus, buvo pas Vytautą prisiglaudęs. Žalgirio karo metu ir jisai
     siuntė Vytautui pagalbos^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -143,7 +96,6 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
     73 nė Ona mirė Trakuose, o palaidota
     Ona buvo Smolensko kunigaikščio buvo Vilniuje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

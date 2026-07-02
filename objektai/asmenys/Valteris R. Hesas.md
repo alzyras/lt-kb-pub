@@ -20,20 +20,8 @@ Dauguma kaltinamųjų sakė, kad žavisi nacizmu, Klaipėdą laiko Vokietijos da
 - t-001
   global_id: t-19308
   teiginys: 'Kaltinamieji teigė, kad nacių vadas Valteris R. Hesas jiems davė nurodymus dėl veiklos Klaipėdoje.'
-  sudarymo_pagrindimas: 'Teiginys sutelkiamas į note objektą ir pašalina kitus asmenis bei instituciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ėrichas Kochas|Ėrichas Kochas]]; mentioned_place: Prūsija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 363263-363586; hash=4b032b2a046d2183e2f960f0b1f5d30afa9bc5b93e6c31d3f3d1a132d354d6e2; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valteris R. Hesas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valteris R. Hesas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Rytų Prūsija: Kaltinamieji teigė, kad nurodymus jiems davė Rytų Prūsijos oberprezidentas Ėrichas Kochas ir kiti nacių atstovai.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77981|A. Smetona]]: A. Smetona hitlerininkams skirtą mirties bausmę pakeitė kalėjimu iki gyvos galvos, o 1937 m. juos amnestavo.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75721|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona 1793–1795 m. LDK padėtį apibūdino kaip laiką, kai ji liovėsi būti valstybe.
@@ -55,7 +43,6 @@ Dauguma kaltinamųjų sakė, kad žavisi nacizmu, Klaipėdą laiko Vokietijos da
     prezidentas Ėrichas Kochas (Erich Koch) ir Vokietijos konsulatas Klaipė-
     doje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

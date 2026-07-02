@@ -39,22 +39,9 @@ Nenurodyta
 - t-001
   global_id: t-62359
   teiginys: 'Prie Santyro brolis Konradas Bremeris užpuolė Sventopelko laivus ir dalį jų paskandino arba smarkiai apgadino.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Citata palaiko glaustą kautynių aprašymą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Konradas Bremeris|Konradas Bremeris]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Santyras; llm_object: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas; mentioned_place: Viena'
   pagrindžia:
     - c-001
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 310754-311500; hash=d255880f343454f083a0e5f5a8cd76b5e02122f41d85f28d27842f8b36e3509b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Sventopelkas: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Konradas Bremeris: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Konradas užpuolė Sventopelką ir jo pajėgas, kurios citatoje įvardytos kaip 'juos'.
 
 ## Reikšmingi paminėjimai
 
@@ -73,7 +60,6 @@ Nenurodyta
     sužalojo. Priešai, matydami juos artėjant prie kranto, pradėjo svaidyti akmenimis. Broliui
     Konradui išmušė vieną dantį, sužeidė daug kitų, o likusieji sveiki nuplaukė į Elbingą288.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -89,7 +75,6 @@ Nenurodyta
     pirklių ignoravimą galima paaiškinti tuo, kad kronikos rašymo laikotarpiu vyko kova tarp
     Ordino ir Rygos (PKD, p. 45—46).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

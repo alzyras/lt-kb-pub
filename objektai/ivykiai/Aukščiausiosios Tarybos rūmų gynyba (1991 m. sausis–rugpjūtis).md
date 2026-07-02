@@ -45,7 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-171452
   teiginys: 'Sausio 11-13 d. priesaika sudarė teisinį pagrindą Lietuvos piliečiui ginti savo valstybę ginklu, o gynyboje dalyvavo kariai savanoriai, KAD darbuotojai, pasieniečiai, apsaugos pareigūnai ir šauliai.'
-  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva'
   pagrindžia:
     - c-009
 
@@ -53,7 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-171453
   teiginys: 'Karinės inžinerijos prasme Aukščiausiosios Tarybos rūmų gynybą sudarė rūmų vidaus, išorinio perimetro ir tolimųjų prieigų žiedai.'
-  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai'
   pagrindžia:
     - c-008
 
@@ -61,7 +59,6 @@ Nenurodyta
 - t-003
   global_id: t-171454
   teiginys: 'Gynyba buvo grindžiama trimis principais, o politinė vadovybė laikėsi nuostatos nepasiduoti, bet ir neperžengti paskutinės ribos be būtinybės.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvos atsikūrimas|Lietuvos atsikūrimas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-007
 
@@ -69,11 +66,6 @@ Nenurodyta
 - t-004
   global_id: t-171455
   teiginys: 'Pirmomis sausio įvykių dienomis mažesnioji Aukščiausiosios Tarybos gynėjų dalis turėjo užduotį ginti rūmus ir jų išorinį perimetrą.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir paremtas pateikta citata.'
-  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_object: [[objektai/posakiai/Nepakartoti 1940 m. klaidos!|Nepakartoti 1940 m. klaidos!]]'
-  temporaliniai_duomenys: 'įvykio data: 1940 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatinis ir paremtas pateikta citata.'
   pagrindžia:
     - c-001
 
@@ -81,7 +73,6 @@ Nenurodyta
 - t-005
   global_id: t-171457
   teiginys: 'Sausio 13-osios naktį žuvo 14 laisvės gynėjų, netoli tūkstančio buvo sužeisti, o Parlamento užpuolikai nebepuolė.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -89,11 +80,6 @@ Nenurodyta
 - t-006
   global_id: t-171458
   teiginys: '1991 m. sausio 11–12 d. Aukščiausiosios Tarybos rūmų viduje spygliuota viela apraizgyti praėjimai ir ventiliacinės angos, o pirmasis aukštas sutvirtintas smėlio maišais bei armatūros tinklais.'
-  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir suformuluotas vientisas faktinis sakinys.'
-  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai'
-  temporaliniai_duomenys: 'įvykio data: 1991 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir suformuluotas vientisas faktinis sakinys.'
   pagrindžia:
     - c-006
 
@@ -101,9 +87,6 @@ Nenurodyta
 - t-007
   global_id: t-171459
   teiginys: 'Pirmosiomis savaitėmis po kruvinosios nakties buvo įrengtos smėlio, akmenų ir gelžbetonio barikados, o gynyba buvo planingai stiprinama.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Afganistanas'
-  temporaliniai_duomenys: 'įvykio data: 1991 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-004
 
@@ -111,8 +94,6 @@ Nenurodyta
 - t-008
   global_id: t-171460
   teiginys: 'Aukščiausiosios Tarybos rūmų gynybai priskiriami trys principai: agresijos fiksavimas, karinė gynyba ir pilietinis nesmurtinis pasipriešinimas.'
-  sudarymo_pagrindimas: 'Teiginys performuluotas kaip šaltinyje išskiriama interpretacija.'
-  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_object: [[objektai/zodynas/Lietuvos atsikūrimas|Lietuvos atsikūrimas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-007
 
@@ -120,87 +101,29 @@ Nenurodyta
 - t-009
   global_id: t-171461
   teiginys: 'Artėjant 1991 m. rugpjūčio Maskvos pučui, Lietuvos kariai jau turėjo pirmąsias uniformas, o Aukščiausiosios Tarybos gynyba buvo geriau organizuota.'
-  sudarymo_pagrindimas: 'Santrumpa išplėsta, o sakinys suformuluotas be OCR triukšmo.'
-  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
-  temporaliniai_duomenys: 'įvykio data: 1991 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Santrumpa išplėsta, o sakinys suformuluotas be OCR triukšmo.'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c67dca03993f06af1b200d6adba1e9e5bb61c846e8bb85bf76bc9fd63366f163; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)" parinktas kaip owner_note_path. Targetas "Aukščiausiosios Tarybos rūmai (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-171462"></a>
 - t-010
   global_id: t-171462
   teiginys: '1991 m. sausio 13-osios naktį užpuolimas buvo įvardytas kaip karinė agresija ir svetimos jėgos primestas karo stovis.'
-  susije_objektai: 'mentioned_place: SSRS'
-  temporaliniai_duomenys: 'įvykio data: 1991 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=90d8d52ebf2bc9c3e3ed5f71affcb17f4a9cf44a349ceb5886644e47dac1274c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-171463"></a>
 - t-011
   global_id: t-171463
   teiginys: '1991 m. sausio 11–13 d. Aukščiausiosios Tarybos rūmuose duota Lietuvos kario savanorio priesaika tapo teisiniu pagrindu piliečiui ginklu ginti valstybę.'
-  sudarymo_pagrindimas: 'Citata palaiko aiškesnį sakinį be nutrūkusių kabučių ir perteklinio fragmento.'
-  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1991 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškesnį sakinį be nutrūkusių kabučių ir perteklinio fragmento.'
   pagrindžia:
     - c-009
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ac8b4ae54bc075aa369a6a91ffc5a2b99eb9d1f8900373fe210deeeb732c5522; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)" parinktas kaip owner_note_path. Targetas "Aukščiausiosios Tarybos rūmai (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-171464"></a>
 - t-012
   global_id: t-171464
   teiginys: 'Pirmomis sausio įvykių dienomis tik mažesnioji Aukščiausiosios Tarybos gynėjų dalis turėjo aiškesnę užduotį ginti rūmus ir jų išorinį perimetrą.'
-  sudarymo_pagrindimas: 'Santrumpa išplėsta, kad teiginys būtų aiškesnis viešai bazei.'
-  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_object: [[objektai/posakiai/Nepakartoti 1940 m. klaidos!|Nepakartoti 1940 m. klaidos!]]'
-  temporaliniai_duomenys: 'įvykio data: 1940 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Santrumpa išplėsta, kad teiginys būtų aiškesnis viešai bazei.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1056098-1056488; hash=9217b10884ca16bc904eb7f1defcfff84da4bfcb9e9af2699135824e2843375d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> SSRS: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event
-  ryšio_targeto_parinkimas: SSRS: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)" parinktas kaip owner_note_path. Targetas "SSRS" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Virginijus Česnulevičius.md#claim-t-79218|Virginijus Česnulevičius]]: Virginijus Česnulevičius 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys.
 - susijęs iš [[objektai/asmenys/Česlovas Jezerskas.md#claim-t-79244|Česlovas Jezerskas]]: Česlovas Jezerskas 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys.
 - susijęs iš [[objektai/autoriai/Švedas V.md#claim-t-39873|Švedas V]]: V. Švedas 1994 m. VPU parengė bakalauro darbą „Sausio 13-oji ir Aukščiausios Tarybos rūmų gynimas“.
@@ -227,7 +150,6 @@ Nenurodyta
     sipriešinti bet kokiu atveju ir nepakartoti
     1940 m. klaidos!
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -244,7 +166,6 @@ Nenurodyta
     nimo civilių piliečių apsisprendimu. Jie plikomis rankomis, dai-
     nuodami ir melsdamiesi, stojo skersai kelio sovietų užpuolikui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -259,7 +180,6 @@ Nenurodyta
     ir vieną saviškį, užėmė radijo ir televizijos pastatus. Parlamento
     nebepuolė, sutriko ir tai buvo Lietuvos pergalė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -284,7 +204,6 @@ Nenurodyta
     rikados vietoje ankstesnių „lengvųjų“ bari-
     kadų, atliekami kiti fortifikavimo darbai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -301,7 +220,6 @@ Nenurodyta
     Kovo 11-osios apsisprendimo buvo laikomas
     būtent 1991 m. sausio-rugpjūčio mėnesiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -324,7 +242,6 @@ Nenurodyta
     pradėtos įrenginėti baldų barikados rūmų
     viduje. Išoriniame perimetre smėlio bars-
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -354,7 +271,6 @@ Nenurodyta
     tas tiek kryptingomis operacijomis, tiek ir eee as ae Ls Ms c „
     kap eis ice visuomenės poziciją sugebėjo įtikinti izoliuotis).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -373,7 +289,6 @@ Nenurodyta
     Inžineriniai įtvirtinimai buvo įrenginė-
     jami trimis etapais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -401,7 +316,6 @@ Nenurodyta
     dimą pripažinti į laisvąją bendriją grįžu-
     sių valstybių nepriklausomybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

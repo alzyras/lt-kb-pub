@@ -22,20 +22,8 @@ Dusburgietis teigia, kad šitaip bylojo Babilonijos karalius Nabuchodonosaras, m
 - t-001
   global_id: t-60391
   teiginys: 'Nabuchodonosaras, pamatęs, kad liepsna nepakenkė Danieliui ir jo bičiuliams, pripažino Aukščiausiojo Dievo ženklus ir stebuklus.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata remia aiškų faktą apie Nabuchodonosaro reakciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/uolektis|uolektis]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 97711-98285; hash=ca5e4b90ccf6754c35aa7d3ef8bc6b3df7169d9d820775fa9e6d53be53ba2c00; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> uolektis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nabuchodonosaras: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: uolektis: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nabuchodonosaras" parinktas kaip owner_note_path. Targetas "uolektis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -51,7 +39,6 @@ Dusburgietis teigia, kad šitaip bylojo Babilonijos karalius Nabuchodonosaras, m
     bičiulių nė neužgavo ir nieko blogo jiems nepadarė, štai tada jis ir tarė: „Aukščiausias
     dievas padarė manyje ženklų ir stebuklų“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

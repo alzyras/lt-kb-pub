@@ -45,23 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-86978
   teiginys: '1542 m. Žygimanto Senojo privilegija suteikė Vilniaus vyskupui Povilui ir jo įpėdiniams pasaulietinės valdžios paramą bažnytinėms bausmėms vykdyti.'
-  sudarymo_pagrindimas: 'Citata remia privilegijos turinį, bet pradinė formuluotė buvo per bendra ir su OCR triukšmu.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]'
-  temporaliniai_duomenys: 'įvykio data: 1542 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata remia privilegijos turinį, bet pradinė formuluotė buvo per bendra ir su OCR triukšmu.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 767930-769456; hash=6451a688696ffa3f208e1fe84b9cb6d48855ec9166302647f550a259b6507230; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimanto Senojo privilegijos Vilniaus vyskupui dėl jurisdikcijos ir prievolių suteikimas (1542 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimanto Senojo privilegijos Vilniaus vyskupui dėl jurisdikcijos ir prievolių suteikimas (1542 m.)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -96,7 +81,6 @@ Nenurodyta
     dangų šventės, tūkstantis penki šimtai keturiasdešimt ant­
     raisiais Viešpaties metais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

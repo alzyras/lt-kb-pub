@@ -20,7 +20,6 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
 - t-001
   global_id: t-07831
   teiginys: 'Aušrėnais vadinti žemaičiai, kurie, pasak seno rašytojo, dirbo žemę ir augino javus bei vaisius.'
-  sudarymo_pagrindimas: 'Perrašyta į turiningesnį sakinį, paremtą citata apie aušrėnus ir jų ūkinę veiklą.'
   pagrindžia:
     - c-001
     - c-002
@@ -36,7 +35,6 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
   citata_originali: |
     Kas didžiau, po jūrą mauriojantys, ir jų vienų žemėj gintarai tesantys randami; laukai jų ir dirvos, sako, ne sodomis yra, bet kame kurs apsigyvenęs girioj pradyrė sau žemės lopelį, tas to sau ponu buvo ir turėjo gynioti jį nuo neprietelių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -49,7 +47,6 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
         būdas“ sako, tarp visų girionų žemaičiai, arba aušrėnai (aestii), orę testeigę, kitiems slinkaujant^1173 ,
         beje, javus ir vaisius steigiai^1174 veisiantys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

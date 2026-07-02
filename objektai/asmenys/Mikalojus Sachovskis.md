@@ -21,12 +21,8 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
 - t-001
   global_id: t-87787
   teiginys: 'Mikalojaus Sachovskio privilegijos buvo atšauktos ir paskelbtos negaliojančiomis visiems laikams.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir pagrįstas privilegijų atšaukimo formuluote citatoje.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 495947-497071; hash=4e540f9134f3771e86530b11cb1a6d4e34fc658465bc5676f74b81474a843edd; match=whitespace_regex
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -55,7 +51,6 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
     kio pasėlio ar daržovių, išskyrus avižas, ir [dešimtinę] nuo
     visų naminių gyvulių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

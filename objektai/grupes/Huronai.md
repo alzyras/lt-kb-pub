@@ -21,16 +21,6 @@ Narbutas huronų, Šiaurės Amerikoje ir Kanadoje gyvenančios tautos, laidotuvi
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 639426-639833; hash=7c9e5874c3290ee95bb24a7d2b342baf0ad2a9c406c75b34c6cc1ae35ed92a16; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Kanada: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Huronai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kanada: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje huronai tiesiogiai apibūdinti kaip Kanadoje gyvenanti tauta.
 - susijęs iš Kanada: Narbutas Kanadoje gyvenančių huronų laidotuvių apeigas lygino su aptariamu laidojimo papročių kontekstu.
 - susijęs iš Šiaurės Amerika Kanada: Narbutas huronų, gyvenusių Šiaurės Amerikoje ir Kanadoje, laidotuvių apeigas laikė labai panašiomis į jo aptariamas apeigas.
 ## Reikšmingi paminėjimai
@@ -50,10 +40,8 @@ Narbutas huronų, Šiaurės Amerikoje ir Kanadoje gyvenančios tautos, laidotuvi
     būtų malonūs jų bičiuliams, kuriuos pamatys aname pasauly­
     je; verkia, priekaištauja, kam juos paliko.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

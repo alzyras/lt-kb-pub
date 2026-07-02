@@ -33,64 +33,22 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
 - t-001
   global_id: t-60953
   teiginys: 'M. Prätorius manė, kad baltų Romovė galėjusi būti prie Biserkiemio ant Sidabro kalnu vadintos kalvos.'
-  sudarymo_pagrindimas: 'Teiginys yra enciklopedinis ir paremtas citatoje nurodyta M. Pretorijaus nuomone.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Romuva; llm_object: [[objektai/grupes/Baltai|Baltai]]'
-  temporaliniai_duomenys: 'įvykio data: 1684 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra enciklopedinis ir paremtas citatoje nurodyta M. Pretorijaus nuomone.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 211294-211746; hash=cbfb83ee1455ad1a82454d2ad3d64c9f9bffc37bea5ea53977f4b5fc7b8831c0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Baltai: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Romuva: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Baltai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Formuluotė Romovę tiesiogiai sieja su baltais kaip jų centrine šventviete.
 
 <a id="claim-t-60954"></a>
 - t-002
   global_id: t-60954
   teiginys: 'M. Prätoriaus „Deliciae“ siejama su pasakojimu, kad vieta prie Auksinės netoli Norkyčių kadaise buvo vaidilos globoje.'
-  sudarymo_pagrindimas: 'Citata patvirtina pasakojimo turinį ir nuorodą į M. Prätoriaus veikalą.'
-  susije_objektai: 'mentioned_place: Auksinė; mentioned_place: Norkyčiai'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 213213-213945; hash=d006a349602890be76a51b98a4a4ccc35d3665ce4b52501f816461d7dcbd71be; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaimas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Prätorius, Deliciae: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=84
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Prätorius, Deliciae" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60955"></a>
 - t-003
   global_id: t-60955
   teiginys: 'M. Prätoriaus „Deliciae“ nurodoma, kad Pisos dešinysis intakas Golba prie Narpiškių kaimo buvęs šventas.'
-  sudarymo_pagrindimas: 'Citata pagrindžia faktą, o pradinis teiginys nutrūkęs.'
-  susije_objektai: 'mentioned_place: Kaimas; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Gumbinė; mentioned_place: Stalupėnai'
-  temporaliniai_duomenys: 'įvykio data: 1595 m.; įvykio data: 1915 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą, o pradinis teiginys nutrūkęs.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 216923-217178; hash=1c44c873bbb22021b3e97025511e37ddeb25ef24926646e918cd97fe6b30164d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Auksinė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: M. Prätorius, Deliciae: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Auksinė: mention_match, place, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Prätorius, Deliciae" parinktas kaip owner_note_path. Targetas "Auksinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -105,7 +63,6 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
     sukto sidabro (Prätorius M., Deliciae..., kn. 4, sk. 1, § XXII, r. 1. (WU) 152; r. p. (MA)
     271—272; š. p. 564—565).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -125,7 +82,6 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
     Katinavos kalva nadruvių buvo laikoma šventa (Pratorius M., Deliciae..., kn. 4, sk. 3, § 2,
     r. 1. (VVU) 156; r. p. (MA) 276; š. p. 571).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -140,7 +96,6 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
     kadaise vaidilos (Weidulutten) globoje (Prätorius M., Deliciae..., kn. 4, sk. 3, § VII, r. 1.
     (VVU) 157; r. p. (MA) 279; š. p. 576).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -34,8 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-09600
   teiginys: 'Pistoletais-kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai ir atskiri padaliniai.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
   pagrindžia:
     - c-001
 
@@ -53,7 +51,6 @@ Nenurodyta
     ugnies mūšis vyksta nedideliais atstumais - mieste, miške, valant tranšėjas. Pistoletais-
     kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai, atskiri padaliniai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

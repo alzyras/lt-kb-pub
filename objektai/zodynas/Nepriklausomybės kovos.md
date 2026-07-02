@@ -28,23 +28,8 @@ Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausom
 - t-001
   global_id: t-42425
   teiginys: '1919-1920 m. Nepriklausomybės kovose Pirmoji Lietuvos Respublika kariavo prieš bolševikus, stabdė juos prie Jiezno ir Kėdainių ir vijosi iki Daugpilio.'
-  sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie Nepriklausomybės kovas ir atitinka citatą.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Bermontininkai|Bermontininkai]]; llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Daugpilis; mentioned_place: Jieznas; mentioned_place: Kėdainiai; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Rusija; mentioned_place: Vokietija'
-  temporaliniai_duomenys: 'mūšio data: 1919-1920; mūšio data: 1920 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis sakinys apie Nepriklausomybės kovas ir atitinka citatą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bce30202e49ca1982bdd35afb6c04adc8efc83f7da87861d1c8d40d61898ddd3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Bermontininkai: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuvos Respublika: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Bermontininkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata nurodo, kad Lietuvos Respublika buvo priversta kautis su bermontininkais.
 - susijęs iš Antano Šukio prisiminimai Du mediniai ir trys geležiniai kryžiai: Antano Šukio „Du mediniai ir trys geležiniai kryžiai“ yra atsiminimai apie Lietuvos nepriklausomybės kovas 1919-1921 metais.
 - susijęs iš [[objektai/autoriai/Andžej Geglis.md#claim-t-71499|Andžej Geglis]]: Andžej Geglis buvo teksto „XX a. pradžios pėstininkų taktika“ autorius ir dailininkas.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171498|Karolis Zikaras]]: Karolis Zikaras nurodytas prie teksto „Valstybės smukimas“.
@@ -73,7 +58,6 @@ Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausom
     net jei už jį Lietuva siūlė žemę, vis tiek pagalvokim, kokia auka
     buvo siūloma atgimstančiai valstybei.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

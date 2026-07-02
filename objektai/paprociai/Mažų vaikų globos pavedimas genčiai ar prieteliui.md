@@ -45,7 +45,6 @@ Nenurodyta
     Mirdamas tėvas jei paliko mažus vaikus, tad pavedė jų globą savo visų artimiausiam genčiai ar
         visų didžiausiam prieteliui, ką darė tokiu būdu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

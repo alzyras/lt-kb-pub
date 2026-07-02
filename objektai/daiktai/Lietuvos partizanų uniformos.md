@@ -40,8 +40,6 @@ Nenurodyta
 - t-001
   global_id: t-80689
   teiginys: 'Bunkeryje buvę trylika vyrų vilkėjo lietuviškas uniformas, o vienas dėvėjo uniformą su liudininkės siuvinėtu antsiuvu.'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti išsamesnį sakinį apie uniformas.'
-  susije_objektai: 'mentioned_place: Ariogala'
   pagrindžia:
     - c-001
 
@@ -57,7 +55,6 @@ Nenurodyta
     zano „Uosio“. Jis vilkėjo uniformą su mano siuvinėtu ženklu, o dabar tą uniformą su mano pačios siuvinėtu antsiuvu dėvėjo vienas iš tų
     „partizanų“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

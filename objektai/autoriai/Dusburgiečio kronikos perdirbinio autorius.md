@@ -21,16 +21,6 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 735552-737199; hash=a18a38de866475199b29dbc00b34c7cef27cd5d3d77a30b6ff5f83f66d71ee89; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Romovė: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Krivis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Romovė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata sako, kad Romovės mieste gyveno asmuo, vadinamas kriviu.
 <a id="claim-t-190385"></a>
 - t-002
   global_id: t-190385
@@ -39,16 +29,6 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 738309-738669; hash=7322ba16ae9b4b0ec2bf9e4c6b86058b10af815258234663185684c33b6cbb3e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dusburgietis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dusburgiečio kronikos perdirbinio autorius: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Dusburgietis: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dusburgiečio kronikos perdirbinio autorius" parinktas kaip owner_note_path. Targetas "Dusburgietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -83,13 +63,10 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
     įdėta „kilmingesnis iš jų“ (eorum nobilior), taigi reiktų manyti,
     jog Dusburgiečio tekstas netikslus.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas Dusburgiečio perdirbinėtojo įterptą nobilior aiškina kaip ženklą, kad žodis quidam jam atrodė nepakankamas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -101,9 +78,7 @@ Narbutas pažymi, kad Dusburgiečio kronikos perdirbinio autorius Romovės pasak
     kankamas, tačiau jis nesugebėjo jo deramai papildyti, kadangi
     jo nobilior beveik nieko daugiau nepasako.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

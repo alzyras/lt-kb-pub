@@ -26,27 +26,8 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
 - t-001
   global_id: t-186244
   teiginys: 'Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunigaikštystė.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie Pajautos santuoką, bet pradinis sakinys per ilgas ir priklausomas nuo neaiškių įvardžių.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Živinbudas|Živinbudas]]; llm_object: [[objektai/asmenys/Pajauta|Pajauta]]; mentioned_person: [[objektai/asmenys/Živinbudas|Živinbudas]]; mentioned_place: Lietuva; mentioned_place: Deltuva; mentioned_place: Viena; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Pajauta|Pajauta]] buvo žmona [[objektai/asmenys/Živinbudas|Živinbudas]]; [[objektai/asmenys/Živinbudas|Živinbudas]] vedė [[objektai/asmenys/Pajauta|Pajauta]]'
-  temporaliniai_duomenys: 'įvykio data: 1089 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Pajautos santuoką, bet pradinis sakinys per ilgas ir priklausomas nuo neaiškių įvardžių.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 108476-109002; hash=bf7711a8269242a986d085b1075f4f515d64d5dc5d85f00ccf0ea8f2db7f640f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_zmona -> Živinbudas: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pajauta: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Živinbudas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Pajauta atiduota Živinbudui į žmonas.
 
 <a id="claim-t-188600"></a>
 - t-002
@@ -56,16 +37,6 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 267224-267630; hash=966493f836b3fb549f8ce80df5eddbfc89048f5a35247ca20ed943707614640b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_dukte -> Kernius: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pajauta: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kernius: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citatos kontekste Pajauta apibūdinta kaip kunigaikščio Kerniaus duktė.
 - susijęs iš [[objektai/daiktai/Pajautos stabas.md#claim-t-187513|Pajautos stabas]]: Lietuvos metraštis vaizduoja, kad Kukovaitis motinos Pajautos atminimui padirbo jos išvaizdos stabą, pastatė jį ties Žaslių ežeru, o Pajauta buvo laikoma deive.
 - susijęs iš [[objektai/asmenys/Živinbudas.md#claim-t-184901|Živinbudas]]: Živinbudas buvo įsūnytas kaip įpėdinis, vedė Pajautą ir kaip kraitį gavo Lietuvos kunigaikštystę.
 - susijęs iš Žaslių ežeras: Lietuvos metraštyje Kukovaitis pastato motinos Pajautos vardo stabą ties Žaslių ežeru jos atminimui pagerbti.
@@ -95,13 +66,11 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
     tas (kaip tais laikais derėjo) ir ant aukštos kalvos prie
     Deltuvos palaidotas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas Pajautą aprašo kaip Kerniaus dukterį, ištekėjusią už Ukmergės srities kunigaikščio Živinbudo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -119,10 +88,8 @@ Pajauta buvo atiduota Živinbudui į žmonas, o kraičiu pridėta Lietuvos kunig
     vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
     šė paveldimą Kernavės kunigaikštystę.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

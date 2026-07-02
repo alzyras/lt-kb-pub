@@ -31,11 +31,6 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - t-001
   global_id: t-87481
   teiginys: 'Medininkų vyskupas Vaclovas dalyvavo 1542 m. Vilniuje duoto rašto patvirtinime kartu su kitais dignitoriais ir pareigūnais.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Vaclovo titulą ir dalyvavimą, o pradinis teiginys yra nutrūkęs sąrašas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Alšėnai; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Medininkai; mentioned_place: Naugardukas; mentioned_place: Polockas; mentioned_place: Vitebskas'
-  temporaliniai_duomenys: 'įvykio data: 1542 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia Vaclovo titulą ir dalyvavimą, o pradinis teiginys yra nutrūkęs sąrašas.'
   pagrindžia:
     - c-001
 
@@ -62,7 +57,6 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
     ir daugeliui kitų mūsų dignitorių ir pareigūnų, nuoširdžiai
     ištikimų ir mums mielų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

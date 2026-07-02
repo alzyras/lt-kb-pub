@@ -22,20 +22,8 @@ Dusburgietis teigia, kad šitai matė ir viešai skelbė brolis Heidenrichas, to
 - t-001
   global_id: t-60302
   teiginys: 'Brolis Heidenrichas, tos pačios pilies kunigas, matė ir viešai skelbė pasakojimą apie medinio nukryžiuotojo palaiminimą.'
-  sudarymo_pagrindimas: 'Pradinis teiginys remiasi neaiškiu „šitai“; perrašyta su aiškiu objektu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1cebd8aeafb306537b702a3ab92b8edb6d8b7b009b374f8835daee4b2fa082e4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Altorius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Heidenrichas (kunigas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Altorius: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Heidenrichas (kunigas)" parinktas kaip owner_note_path. Targetas "Altorius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -54,7 +42,6 @@ Dusburgietis teigia, kad šitai matė ir viešai skelbė brolis Heidenrichas, to
 
                    70 (69).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

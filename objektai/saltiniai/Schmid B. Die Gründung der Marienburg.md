@@ -26,15 +26,8 @@ Dusburgietis teigia, kad schmid B.
 - t-001
   global_id: t-61287
   teiginys: 'B. Schmido „Die Gründung der Marienburg“ paskelbtas „Altpreussische Forschungen“ 1929 m. antrajame sąsiuvinyje.'
-  sudarymo_pagrindimas: 'Citata pagrindžia autorių, pavadinimą, leidinį, metus ir sąsiuvinį.'
-  temporaliniai_duomenys: 'įvykio data: 1929 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, pavadinimą, leidinį, metus ir sąsiuvinį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 796753-796865; hash=9f1bdb54f58f9feb0463e03314c4932e02c9ccfa008de742d009c0deb97a76f5; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -45,7 +38,6 @@ Dusburgietis teigia, kad schmid B.
     Schmid B. Die Gründung der Marienburg.— Altpreussische Forschungen, Königsberg
     i. Pr., 1929, Heft 2, S. 191—200.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

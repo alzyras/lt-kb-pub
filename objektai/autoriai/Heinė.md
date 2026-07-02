@@ -25,16 +25,6 @@ Heinė, remdamasis Homero eilėmis, aiškino, kad poetas tiesiogiai vaizdavo gra
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 550415-550925; hash=9c7657381bcb42910728608cbd3cc579a6599a3f3e0920912f1ff5fdd9f91696; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Graikai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Heinė: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Graikai: mention_match, group, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Heinė" parinktas kaip owner_note_path. Targetas "Graikai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Homeras.md#claim-t-190353|Homeras]]: Narbutas, remdamasis Heine, Homero eilėse matė tiesioginį žmogėdrystės vaizdavimą, siejamą su Trojos karo laikų graikais.
 ## Reikšmingi paminėjimai
 - c-001
@@ -51,9 +41,7 @@ Heinė, remdamasis Homero eilėmis, aiškino, kad poetas tiesiogiai vaizdavo gra
     ros, bet tiesiogiai vaizduoja žmogėdrystę, kuri graikams Tro­
     jos karo metu buvo žinoma.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

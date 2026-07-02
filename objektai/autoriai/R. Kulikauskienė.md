@@ -30,11 +30,6 @@ Dusburgietis teigia, kad kulikauskienė, A.
 - t-001
   global_id: t-97215
   teiginys: 'R. Kulikauskienė-Volkaitė parengė 1958 m. Vilniuje išleistą straipsnių rinkinį „Lietuvos archeologiniai paminklai ir jų tyrinėjimai“.'
-  sudarymo_pagrindimas: 'Citata yra bibliografinė nuoroda, leidžianti suformuluoti pilną faktą.'
-  susije_objektai: 'mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1958 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata yra bibliografinė nuoroda, leidžianti suformuluoti pilną faktą.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/R. Jablonskytė-Rimantienė.md#claim-t-30938|R. Jablonskytė-Rimantienė]]: R. Jablonskytė-Rimantienė pateikė duomenų apie seniausias akmens amžiaus stovyklas Lietuvoje.
@@ -51,7 +46,6 @@ Dusburgietis teigia, kad kulikauskienė, A.
         (Volkaitė), R. : _Lietuvos archeologiniai paminklai ir jų tyrinėjimai,_
     Vilnius 1958 (straipsnių rinkinys).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

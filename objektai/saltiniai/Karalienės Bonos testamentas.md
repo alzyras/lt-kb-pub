@@ -24,26 +24,8 @@ Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turt
 - t-001
   global_id: t-186332
   teiginys: 'Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pagrindžia testamento turinį ir jo neįvykdymą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Bona|Bona]]; llm_object: Italija; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Papakoda|Papakoda]]; mentioned_place: Italija; mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Švedija; llm_object: [[objektai/asmenys/Papakoda|Papakoda]]'
-  temporaliniai_duomenys: 'įvykio data: 1557 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia testamento turinį ir jo neįvykdymą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1241937-1242592; hash=09ea5149123cc14c90eb887f21d99016352418ed5f23e571c1f4d48270030538; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Bona: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Augustas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Bona: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai vadina Augustą Bonos sūnumi.
 
 ## Reikšmingi paminėjimai
 
@@ -72,10 +54,8 @@ Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turt
     Švedijos karaliumi, atsiuntė atsakomąjį laišką, bet visai
     ne tokį, kokio šis laukė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

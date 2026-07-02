@@ -23,7 +23,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 - t-001
   global_id: t-82051
   teiginys: 'Lietuvoje buvo santvarka, maždaug atitikusi Vakaruose feodalizmu vadintą santvarką.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Riterių luomas|Riterių luomas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -31,8 +30,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 - t-002
   global_id: t-82052
   teiginys: 'Michałas Balińskis Gediminą vadino darnesnio ir pajėgesnio feodalizmo kūrėju ir miestų Lietuvoje įkūrėju.'
-  sudarymo_pagrindimas: 'Reikia aiškios autorinės charakteristikos atribucijos.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-006
 
@@ -40,7 +37,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 - t-003
   global_id: t-82054
   teiginys: 'Įsitvirtinus feodalizmo tvarkai, miestai sustiprėjo, tačiau baronai nuo X a. pradžios puldinėjo pirklius ir žlugdė miestus.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai apibendrina citatos faktinį turinį.'
   pagrindžia:
     - c-003
 
@@ -48,79 +44,36 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 - t-004
   global_id: t-82055
   teiginys: 'Susidūrimas su Rytais, anot autoriaus, sutramdė feodalizmo piktnaudžiavimą ir iš bajorijos formavo riterių luomą.'
-  sudarymo_pagrindimas: 'Citata palaiko apibendrintą teiginį apie feodalizmą ir riterių luomo formavimąsi.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Riterių luomas|Riterių luomas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cebaf5785315deb888380a5c15fd0e140ca296bdd4a761e4c605ca3341a2a5d6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Riterių luomas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: feodalizmas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Riterių luomas: mention_match, thing, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "feodalizmas" parinktas kaip owner_note_path. Targetas "Riterių luomas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-82056"></a>
 - t-005
   global_id: t-82056
   teiginys: 'Įsitvirtinus feodalizmui, miestai stiprėjo, bet baronų išpuoliai prieš pirklius nuo X amžiaus pradžios juos žlugdė.'
-  sudarymo_pagrindimas: 'Citata palaiko glaustą sakinį apie feodalizmo poveikį miestams.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9497c128f65c9fac2e040304cc099a2a3f2eacc1883bdc7a6e623c7f3427c394; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 <a id="claim-t-82057"></a>
 - t-006
   global_id: t-82057
   teiginys: 'Gediminas apibūdinamas kaip darnesnio ir pajėgesnio feodalizmo kūrėjas bei miestų steigėjas Lietuvoje.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko teiginį apie Gedimino vaidmenį feodalizmo ir miestų raidoje.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=43af96a82cb038a5b5a8d9b87621f73596d94083b5f1462f60080bb7acb57a10; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: feodalizmas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "feodalizmas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-82058"></a>
 - t-007
   global_id: t-82058
   teiginys: 'Lietuvos feodalizmas nebuvo galutinai išsiplėtojęs.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cebaf5785315deb888380a5c15fd0e140ca296bdd4a761e4c605ca3341a2a5d6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Riterių luomas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: feodalizmas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Riterių luomas: mention_match, thing, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "feodalizmas" parinktas kaip owner_note_path. Targetas "Riterių luomas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-82059"></a>
 - t-008
   global_id: t-82059
   teiginys: 'Susidūrimas su Rytais esą sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Riterių luomas|Riterių luomas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9497c128f65c9fac2e040304cc099a2a3f2eacc1883bdc7a6e623c7f3427c394; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/zodynas/diarchija.md#claim-t-131656|diarchija]]: Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.
 - susijęs iš Lietuva: Lietuvoje miestai kūrėsi tada, kai aukštesnieji kunigaikščiai jau buvo įtvirtinę savo viršenybę.
 - susijęs iš Vilnius: Gediminas įkūrė Vilnių ir jame sutelkė pagrindinę lietuvių feodalų valdžią.
@@ -139,7 +92,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     nesnio ir pajėgesnio feodalizmo kūrėjas, sykiu ir miestų savo
     šalyje įkūrėjas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -154,7 +106,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     lizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo
     ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -177,7 +128,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     tarp tų dviejų luomų ir baigėsi miestų bendruomenių pergale
     prieš jų feodalinius valdovus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -197,7 +147,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     institucija. Tuo metu imtasi užmestos laivininkystės, iš Rytų plito
     mokslai ir masino prekyba.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -214,7 +163,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     jos buvo kunigaikščių gaunamos iš tėvų, o ne iš suvereno malonės.
     Lietuvos feodalizmas, kaip matome, nebuvo galutinai išsiplėtojęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -233,7 +181,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     Vilnius; čia tik apskritai pakalbėsime, kokie saviti buvo miestų
     formavimosi Lietuvoje bruožai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -249,7 +196,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
     **Valstiečiai** buvo žemesnysis ir gausingiausias Lietuvos visuo-
     menės sluoksnis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

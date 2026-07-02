@@ -18,15 +18,8 @@ Priešas sudegino Dorogobužą ir miške nukirstais medžiais užtvėrė kelią 
 - t-001
   global_id: t-185285
   teiginys: 'Priešas sudegino Dorogobužą ir miške nukirstais medžiais užtvėrė kelią karaliaus kariuomenei.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir autorinis boilerplate.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1072888-1073350; hash=69fcad0b2a2343cb6209da4bdd08f6f9192dee2e705a3e5a9cfc537e9a3ec06d; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Madykas.md#claim-t-40323|Madykas]]: Kunigaikštis Madykas buvo murzos Sivinduko tėvas.
 - susijęs iš [[objektai/asmenys/Sivindukas.md#claim-t-40423|Sivindukas]]: Murza Sivindukas, kunigaikščio Madyko sūnus, vadovavo mūšyje dalyvavusiems totoriams.
 - susijęs iš [[objektai/grupes/Maskvos kariuomenė.md#claim-t-183663|Maskvos kariuomenė]]: Maskvos kariuomenėje dalyvavo Naugardo, Pskovo, Tverės ir kitų sričių raiteliai, valdovo dvaro pulkas bei Sivinduko vadovaujami totoriai.
@@ -53,7 +46,6 @@ Priešas sudegino Dorogobužą ir miške nukirstais medžiais užtvėrė kelią 
     šo kraštą ir išsivarė iš ten
     daug grobio.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

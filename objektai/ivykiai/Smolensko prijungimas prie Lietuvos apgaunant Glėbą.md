@@ -30,23 +30,8 @@ Nenurodyta
 - t-001
   global_id: t-185774
   teiginys: 'Vytautas vaišino Smolensko kunigaikštį Glėbą stovykloje, kol užėmė Smolenską ir visą kraštą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas aiškus įvykio teiginys.'
-  susije_objektai: 'llm_object: Smolenskas; mentioned_place: Smolenskas; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Polona'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 611932-612541; hash=dd5277ee0029a57875b73178287cdda652cde31d552ea6e81ce5436f2940f4b1; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Smolenskas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas užėmė Smolenską.
 
 ## Reikšmingi paminėjimai
 
@@ -71,10 +56,8 @@ Nenurodyta
     damas, kad, pasikeitus aplinkybėms, po jo išvykimo
     kiltų kokių sąmyšių, pats gerokai užtruko Smolenske.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

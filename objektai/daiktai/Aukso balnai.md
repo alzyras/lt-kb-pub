@@ -40,21 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-186845
   teiginys: 'Vytautas savo žentui Vasilijui Dimitrijevičiui dovanojo žirgų su aukso balnais tarp kitų brangių dovanų.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pašalintas perteklinis šaltinio minėjimas ir išryškintas citatos palaikomas faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Balnas|Balnas]]; mentioned_object: [[objektai/daiktai/Bachmatai|Bachmatai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; llm_object: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3ea1d27f2d48ea66fedbaae4d4891cb2d7c3b521fc950f9c215a46666b1dcb62; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje tiesiogiai pasakyta, kad Vytautas pats išvyko į Lietuvą.
 
 ## Reikšmingi paminėjimai
 
@@ -80,7 +67,6 @@ Nenurodyta
     išlydėjęs jį su didele pagarba į Maskvą, pats išvyko
     j Lietuvą l6 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -45,9 +45,6 @@ Ragainė ir Christmemelis išliko nepaimti.
 - t-001
   global_id: t-70964
   teiginys: '1315 m. apie rugpjūčio 15 d. lietuviai iš Žemaitijos užpuolė Ragainės pilį, nukovė brolį Joną Pope ir pasitraukdami sunaikino Ragainės bei Skalvių laukų pasėlius.'
-  susije_objektai: 'llm_object: Ragainė; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Ragainė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]'
-  temporaliniai_duomenys: 'įvykio data: 1315 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -64,7 +61,6 @@ Ragainė ir Christmemelis išliko nepaimti.
     pasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus
     pasėlius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -81,7 +77,15 @@ Ragainė ir Christmemelis išliko nepaimti.
     sisekė naujos pilies paimti, nors ir jis panaudojo porą akmenų
     svaidyklių ir daug lankininkų^22.
   citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai## Ryšiai
+
+### Susiję objektai
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/asmenys/Traidenis]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

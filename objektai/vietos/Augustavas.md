@@ -27,8 +27,6 @@ Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atž
 - t-001
   global_id: t-73989
   teiginys: 'Nepaisydamos Lietuvos neutraliteto, kariaujančios pusės puolė lietuvių įgulas Gardino ir Augustavo ruože.'
-  sudarymo_pagrindimas: 'Pradinis sakinys turi neaiškų įvardį, todėl reikia įvardyti veiksmo subjektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_place: Grabova; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/A. Jakaitis.md#claim-t-39978|A. Jakaitis]]: Mjr. A. Jakaitis vadovavo 10-ajam pulkui, kuris iš Šipliškių turėjo žygiuoti į Suvalkus, o iš ten į Augustavą.
@@ -78,7 +76,6 @@ Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atž
     riuomenė pasitrauktų ligi demarkacijos linijos, dar 1919 metų
     liepos 27 d. nustatytos (tai antroji, arba Fošo, linija).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

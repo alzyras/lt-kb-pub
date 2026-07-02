@@ -46,64 +46,22 @@ Nenurodyta
 - t-001
   global_id: t-75228
   teiginys: 'Sovietai naikino privatinę nuosavybę ekonomikoje, todėl Lietuvos žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai.'
-  sudarymo_pagrindimas: 'Pašalinta antraštė ir sutrumpintas sakinys, paliekant citatos faktą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Lenkija'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3ddef060db01f3b5bfcaca01258560fc79f53832ce702b39d8b1a0630e3d4af0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaimas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos žemės ūkio kolektyvizacija (1948–1952 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos žemės ūkio kolektyvizacija (1948–1952 m.)" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-75229"></a>
 - t-002
   global_id: t-75229
   teiginys: '1948 m. pavasarį kolektyvinių ūkių organizavimas Lietuvos kaime sukėlė didelį pasipriešinimą.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie kolektyvizaciją ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1948 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie kolektyvizaciją ir paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 437608-438109; hash=bf0df25fe981b4cfe80e8ad3d3461895bf9340edbc4ce63f1287146db96d4884; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos žemės ūkio kolektyvizacija (1948–1952 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos žemės ūkio kolektyvizacija (1948–1952 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-75230"></a>
 - t-003
   global_id: t-75230
   teiginys: 'Per kolektyvizaciją Lietuvoje į valstybinį žemės fondą buvo paimta be šeimininkų likusi, pasitraukusiųjų, repatrijavusiųjų, partizanų ir tremtinių žemė.'
-  sudarymo_pagrindimas: 'Reikia aiškiau susieti faktą su Lietuvos kolektyvizacija.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Kaimas; mentioned_place: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1948 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia aiškiau susieti faktą su Lietuvos kolektyvizacija.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3ddef060db01f3b5bfcaca01258560fc79f53832ce702b39d8b1a0630e3d4af0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos žemės ūkio kolektyvizacija (1948–1952 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos žemės ūkio kolektyvizacija (1948–1952 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -125,7 +83,6 @@ Nenurodyta
     variklių), malūnų, lentpjūvių, nuomojo kitiems valstiečiams gyvulius ar
     skolino grūdus, darbo įrankius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -145,7 +102,6 @@ Nenurodyta
     į Vakarus ar repatrijavusiųjų į Lenkiją žemė, į žemės fondą taip pat per-
     duota konfiskuota partizanų ir tremtinių žemė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

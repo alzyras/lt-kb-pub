@@ -28,24 +28,8 @@ periodo_grupes: []
 - t-001
   global_id: t-87602
   teiginys: '1253 m. dominikonas Vitas Gniezno arkivyskupo Pelkos buvo įšventintas pirmuoju Lietuvos vyskupu.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia Vito įšventinimą ir jo vaidmenį pagal citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pelka|Pelka]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/in partibus infidelium|in partibus infidelium]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Poznanė; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Vitas|Vitas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Pelka|Pelka]] paskyrė [[objektai/asmenys/Vitas|Vitas]]'
-  temporaliniai_duomenys: 'įvykio data: 1253 m.; įvykio data: 1822 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia Vito įšventinimą ir jo vaidmenį pagal citatą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 400314-401110; hash=2ce213aa1f83f61c4fefa1729e64dc32ec0e9cc1c2a269fa59e5c4bd511ce356; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Vitas: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pelka: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vitas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Pelkos įšventinimas Vito vyskupu atitinka paskyrimo į pareigas semantiką.
 - susijęs iš [[objektai/asmenys/Pelka.md#claim-t-87821|Pelka]]: Gniezno arkivyskupas Pelka 1253 m. įšventino Petrą ir pirmąjį Lietuvos vyskupą Vitą vyskupais.
 - susijęs iš [[objektai/autoriai/Godzislavas Baško.md#claim-t-88090|Godzislavas Baško]]: Godzislavo Baško parašyta „Kronika Lechitów i Polaków“ mini, kad Vitas buvo pirmasis Lietuvos vyskupas.
 - susijęs iš Kronika Lechitów i Polaków: „Kronika Lechitów i Polaków“ mini, kad 1253 m. Vitas buvo įšventintas pirmuoju Lietuvos vyskupu.
@@ -80,7 +64,6 @@ periodo_grupes: []
     Lietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­
     se].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

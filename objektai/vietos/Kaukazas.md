@@ -20,19 +20,8 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
 - t-001
   global_id: t-32211
   teiginys: 'Indoeuropiečiai į Europą greičiausiai atkeliavo per pietų Rusijos stepes ir Kaukazą.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Rusija; mentioned_place: Ukraina'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=06d43f9266866db5841210b2e54c9a3ef0482d9c2911c0a238fd55ca3a34efe4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kaukazas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaukazas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.).md#claim-t-187969|Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.)]]: Po tardymo, kalinimo ir viešo nuplakimo Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaze veikusią Rusijos armiją.
 - susijęs iš [[objektai/autoriai/Malte-Brunas.md#claim-t-190441|Malte-Brunas]]: Narbutas nurodo, kad Malte-Brunas Kaukazo pavadinimą kildino iš prūsiško aiškinimo „plikasis kalnas“.
 - susijęs iš [[objektai/autoriai/Rosliakovas.md#claim-t-190451|Rosliakovas]]: Gydytojas Rosliakovas apie 1809 m. surašė nenurodyto Kaukazo dialekto rankraštinį žodynėlį.
@@ -71,7 +60,6 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
     Kaukaze, Pietryčių Europoje, Mažojoje Azijoje ir Ukrainoje jie
     pasirodė apie trečio tūkstantmečio pr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -9,6 +9,11 @@ datos:
   - '1793 m.'
 date_start: '1764'
 date_end: '1793'
+description: 'Jekaterina II plėtė Rusijos įtaką LLV, rėmė Vilniaus-Radomo konfederaciją ir siejama su 1793 m. antruoju padalijimu.'
+socialDescription: 'Jekaterina II siekė stiprinti Rusijos įtaką LLV, rėmė reformų priešininkus ir 1793 m. dalyvavo antrajame LLV padalijime.'
+seo_atnaujinta: '2026-07-02T21:03:54.608132+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +30,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų išvardijusi net konkrečias gubernijas, kuriose gali gyventi žydai. Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius reformų priešininkus. Karalius laikėsi pozicijos, kad Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos 21 dieną iš Jekaterinos II gautą notą.
+Jekaterina II buvo Rusijos imperatorė, siekusi plėsti įtaką Lietuvos ir Lenkijos valstybėje per Augusto Poniatovskio globėjus Čartoriskius. Kai Čartoriskiai ėmėsi reformų, 1767–1768 m. ji parėmė jų priešininkus Vilniaus-Radomo bajorų konfederacijoje. Jos laikais į vietinį valdymą buvo įtrauktos atskirų luomų savivaldos institucijos, o 1793 m. Rusija su Prūsija įvykdė antrąjį LLV padalijimą.
 
 ## Teiginiai
 
@@ -33,103 +38,36 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 - t-001
   global_id: t-170049
   teiginys: 'Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Jekaterinos II politinį vertinimą.'
-  susije_objektai: 'mentioned_place: Prancūzija; mentioned_place: Brasta; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Targovica; mentioned_place: Viena; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1793 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Jekaterinos II politinį vertinimą.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=df39bdc25ab058bd1c4f8de45bc7add0e174221af4bf532458a350e7654e407f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jekaterina II: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jekaterina II" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-170051"></a>
 - t-002
   global_id: t-170051
   teiginys: 'Rusijos imperatorė Jekaterina II rėmė Augusto Poniatovskio globėjus Čartoriskius, tikėdamasi per juos plėsti savo įtaką.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Jekateriną II ir atitinka citatos informaciją.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/Liberum veto|Liberum veto]]; mentioned_place: Rusija'
-  semantiniai_rysiai: '[[objektai/asmenys/Jekaterina II|Jekaterina II]] rėmė [[objektai/grupes/Čartoriskiai|Čartoriskiai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 575939-576236; hash=0f78a41dd9a1856902d3503d55f00104e17a5a0aa4272d0289343beeefc159d4; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Čartoriskiai: 0.98
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jekaterina II: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Čartoriskiai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jekaterina II rėmė Čartoriskius.
 
 <a id="claim-t-170052"></a>
 - t-003
   global_id: t-170052
   teiginys: 'Jekaterinos II laikais į vietinio valdymo sistemą buvo įtrauktos atskirų luomų savivaldos institucijos.'
-  sudarymo_pagrindimas: 'Perrašyta glaudžiau ir gramatiškai sklandžiau, išlaikant citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 576237-576615; hash=2bcf10a23f1c49ee22a22dc7ae8297937d20081d1af7e2429c8a57d8edffe300; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Bajorai: 0.83
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jekaterina II: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Bajorai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Jekaterina II parėmė bajorų konfederaciją, kuri kandidatuose atstovaujama per Bajorus.
 
 <a id="claim-t-170053"></a>
 - t-004
   global_id: t-170053
   teiginys: 'Jekaterina II 1767-1768 m. parėmė Čartoriskių priešininkus, susitelkusius Vilniaus-Radomo bajorų konfederacijoje.'
-  sudarymo_pagrindimas: 'Reikia aiškiau išreikšti, kad paremti buvo Čartoriskių priešininkai, o ne pati „priešininkė“ konfederacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; llm_object: [[objektai/grupes/Bajorai|Bajorai]]; llm_object: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Jekaterina II|Jekaterina II]] rėmė [[objektai/grupes/Bajorai|Bajorai]]; [[objektai/asmenys/Jekaterina II|Jekaterina II]] buvo priešas [[objektai/grupes/Čartoriskiai|Čartoriskiai]]'
-  temporaliniai_duomenys: 'įvykio data: 1764 m.; įvykio data: 1767-1768; įvykio data: 1768 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia aiškiau išreikšti, kad paremti buvo Čartoriskių priešininkai, o ne pati „priešininkė“ konfederacija.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8e1b3d9e09d74302b7130801a7bae2d2d4c76def4bd6a6f41f36f162c7eab1b3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prancūzija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jekaterina II: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prancūzija: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jekaterina II" parinktas kaip owner_note_path. Targetas "Prancūzija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-170054"></a>
 - t-005
   global_id: t-170054
   teiginys: 'Jekaterinos II laikais į vietinį valdymą buvo įtrauktos atskirų luomų savivaldos institucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=df39bdc25ab058bd1c4f8de45bc7add0e174221af4bf532458a350e7654e407f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jekaterina II: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jekaterina II" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117394|Žydai]]: Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.
 - susijęs iš [[objektai/ivykiai/Jekaterinos II sėslumo ribos nustatymas (1791 m.).md#claim-t-20210|Jekaterinos II sėslumo ribos nustatymas (1791 m.)]]: Jekaterina II 1791 m. nubrėžė sėslumo ribą, išvardydama gubernijas, kuriose galėjo gyventi žydai.
 - susijęs iš [[objektai/paprociai/Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje.md#claim-t-54377|Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje]]: Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.
@@ -164,7 +102,6 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
     paraližuojančios liberum veto teisės pa-
     naikinimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -187,7 +124,6 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 
     tapo Jakaterina rr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -206,7 +142,6 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
     bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus parei-
     gūnus, žemutinės teismų grandies teisėjus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -226,7 +161,6 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
     1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio
     23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -30,23 +30,8 @@ Nenurodyta
 - t-001
   global_id: t-185800
   teiginys: 'Jazbutas, nuniokojęs kai kurias Lenkijos pasienio žemes, buvo sumuštas Henriko Cutsverto tarp Alnos ir Narevo upių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Jazbuto veiksmą, pralaimėjimą ir vietą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Lenkija; mentioned_place: Narevas; mentioned_place: Aukaimis; mentioned_place: Baiga; llm_object: Lenkija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 280506-281145; hash=d608449f8bce6e2a0f40fda65cd2a2a34e74a47b3f48c6b391d3693cac47f321; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Lenkija: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jazbutas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Lenkijos pasienio žemių nuniokojimas tiesiogiai rodo Jazbuto karinį antpuolį prieš Lenkijos žemes.
 
 ## Reikšmingi paminėjimai
 
@@ -71,10 +56,8 @@ Nenurodyta
     buvo
     ramus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

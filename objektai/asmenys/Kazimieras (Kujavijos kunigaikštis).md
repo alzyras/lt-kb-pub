@@ -3,6 +3,11 @@ tipas: asmuo
 pavadinimas: 'Kazimieras (Kujavijos kunigaikštis)'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+description: 'Kujavijos kunigaikštis Kazimieras minimas kovose su Sventopelku, žygiuose prie Naklo ir Sveče bei lietuvių puolimų kontekste.'
+socialDescription: 'Kazimieras siejamas su Kujavijos nusiaubimu, žygiais prieš Sventopelką ir lietuvių puolimų Lenkijoje epizodais.'
+seo_atnaujinta: '2026-07-02T21:03:54.564629+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -15,7 +20,7 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimierą275 bei Kališo kunigaikštį ir brolius ir patarė jiems traukti su kariuomene prieš Sventopelką. Dusburgietis teigia, kad apie naują Sventopelko karą ir susidūrimą prie Renzeno Kadangi žmogaus pojūčiai visados linkę į bloga ir žmogus, nors ir pasenęs, nelengvai 275 Kujavijos kunigaikštis. Dusburgietis teigia, kad galop, nutaręs slepiamą piktumą atvirai parodyti, surinko stiprią kariuomenę ir įsibrovė į Kujaviją, kunigaikščio Kazimiero žemę, kurią, degindamas ir plėšdamas, baisiai sunaikino, daugybę krikščionių išsivarydamas į nelaisvę bei išžudydamas, galop sugrįžo.
+Kazimieras, Kujavijos kunigaikštis, Dusburgiečio pasakojime minimas kaip Lenkijos kunigaikštis, įtrauktas į karinius veiksmus prieš Sventopelką. Jis siejamas su žygiais prie Naklo ir Sveče pilies, taip pat su Sventopelko įsiveržimu į Kujaviją, kuri buvo nusiaubta deginant ir plėšiant. Kituose fragmentuose Kazimieras pasirodo lietuvių žygių į Lenkiją kontekste: jis persekiojo besitraukiančius lietuvius ir, paliauboms žlugus, buvo nužudytas su savo žmonėmis.
 
 ## Teiginiai
 
@@ -23,28 +28,13 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
 - t-001
   global_id: t-63803
   teiginys: 'Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagalbą, kai lenkai išsigando Sventopelko raitelių.'
-  sudarymo_pagrindimas: 'Sakinys išvalytas nuo perteklinių detalių ir turi aiškų veikėją.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=24cdb2333429fd78e050478c44f4f3c6dea3474d7162b0cafe19040945ee2e86; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimieras (Kujavijos kunigaikštis): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras (Kujavijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-63804"></a>
 - t-002
   global_id: t-63804
   teiginys: 'Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų leidosi persekioti iš Lenkijos besitraukiančių lietuvių.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, turi aiškų veiksmą ir atitinka citatos informaciją.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Lenčica; mentioned_place: Mazovija; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)|Kazimieras (Kujavijos kunigaikštis)]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-006
 
@@ -52,66 +42,27 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
 - t-003
   global_id: t-63805
   teiginys: 'Lietuviai, nutraukę paliaubas, nužudė kunigaikštį Kazimierą ir visus jo žmones, išskyrus vieną karį.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Viena; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Lenkija; mentioned_place: Lenčica; mentioned_place: Lietuva; mentioned_place: Mazovija'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2c16fa3036af72cbe8e624047b34e8087e22229cf88c0c12ab4dccbfc934fdeb; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kujavija: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kujavija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Sventopelkas įsibrovė į Kujaviją.
 
 <a id="claim-t-63806"></a>
 - t-004
   global_id: t-63806
   teiginys: 'Magistras su Torunės broliais ir kunigaikščiu Kazimieru ketino žygiuoti prieš Sventopelko statomą Sveče pilį.'
-  sudarymo_pagrindimas: 'Išplėstas neaiškus vietos paminėjimas pagal citatos kontekstą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kulmas; mentioned_place: Santyras; mentioned_place: Torunė; mentioned_place: Vysla'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=86e226a9d44214bf239784c07e600c61d7cd13425752cc51a488cb574e94e36e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sventopelkas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimieras (Kujavijos kunigaikštis): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Sventopelkas: mention_match, person, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras (Kujavijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Sventopelkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-63808"></a>
 - t-005
   global_id: t-63808
   teiginys: 'Lenkijos kunigaikštis Kazimieras buvo pakviestas žygiuoti su kariuomene prieš Sventopelką.'
-  sudarymo_pagrindimas: 'Sakinys sutrumpintas iki aiškaus, citata pagrįsto veiksmo.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Naklas; mentioned_place: Pomeranija'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 318222-318631; hash=bc803f068dfb0592d35c14dccf2f914702b0d675dfe04b29dbdd65caf06e5666; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimieras (Kujavijos kunigaikštis): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras (Kujavijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-63809"></a>
 - t-006
   global_id: t-63809
   teiginys: 'Sventopelkas įsibrovė į kunigaikščio Kazimiero žemę Kujaviją ir ją nusiaubė degindamas bei plėšdamas.'
-  sudarymo_pagrindimas: 'Teiginys yra išbaigtas ir paremtas citata apie Kazimiero žemės nusiaubimą.'
-  susije_objektai: 'llm_object: Kujavija; llm_object: [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)|Kazimieras (Kujavijos kunigaikštis)]]; mentioned_place: Kujavija; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
-  semantiniai_rysiai: 'Kujavija priklausė [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)|Kazimieras (Kujavijos kunigaikštis)]]'
   pagrindžia:
     - c-001
 
@@ -131,7 +82,6 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     nesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su
     manimi gyventi taikiai“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -147,7 +97,6 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     lenkai išsigandę visi išlakstė, išskyrus vieną riterį Martyną iš Krušvicos, vėliavininką, bei
     kunigaikštį Kazimierą, kuris nutarė tuoj pat kviestis į pagalbą Henriką iš Lichtenšteino.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -166,7 +115,6 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
     traukti su kariuomene į šią vietą. Jis mat norėjo neleisti statyti čia pilies.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -187,7 +135,6 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     viską, kas ugnimi deginama, sudegino, daugybę gyventojų išžudė, išsivedė  į nelaisvę
     moteris bei vaikus ir, pasigrobę didžiulį grobį, sugrįžo atgal.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -206,11 +153,10 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     magistrą, pagalbos. Kai šis atvyko su didele kariuomene ir užpuolė netikėlius, minėtieji
     kunigaikščiai pasileido bėgti su visais savo lenkais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-006
+
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-006
   santrauka: 'Dusburgietis teigia, kad po to, kai jie ėmė trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių žūties, leidosi jų persekioti su tūkstančiu ir aštuoniais šimtais vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -233,7 +179,6 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     juos  ir nužudė kunigaikštį Kazimierą bei visus jo žmones, išskyrus vieną karį, kuris
     paspruko, kad galėtų kitiems apie tai papasakoti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

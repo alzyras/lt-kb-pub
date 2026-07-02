@@ -30,43 +30,15 @@ amziai:
 - t-001
   global_id: t-114776
   teiginys: '1578 m. sausio 28 d. Steponas Batoras suteikė Mogiliavui privilegiją, kuria miestas gavo Magdeburgo teisę.'
-  sudarymo_pagrindimas: 'Pašalintas bibliografinis ir OCR triukšmas, paliktas esminis faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Baltarusija'
-  temporaliniai_duomenys: 'įvykio data: 1578 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas bibliografinis ir OCR triukšmas, paliktas esminis faktas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f77272fdcbbde461f549cdba4996cd6b4fa25532bfcedcb570207ec3ddb1f94b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Mogiliavas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Mogiliavas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Rusų sudegintas Mogiliavas tiesiogiai rodo karinį puolimą prieš miestą.
 
 <a id="claim-t-114777"></a>
 - t-002
   global_id: t-114777
   teiginys: 'Žlugus deryboms, rusai Padneprėje įsiveržė į rytines LDK valdas ir sudegino Mogiliavą, siaubė Šklovo apylinkes.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Mogiliavą ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Mogiliavas; mentioned_place: Šklovas; llm_object: Šklovas; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Pskovas'
-  semantiniai_rysiai: '[[objektai/grupes/Rusai|Rusai]] puolė Mogiliavas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 341685-342022; hash=f00ec5f2e5992d31d339747f230f4a41b35dc2edc7c5d7cdc530127128c094a0; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltarusija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mogiliavas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baltarusija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mogiliavas" parinktas kaip owner_note_path. Targetas "Baltarusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Karaliaus Aleksandro privilegija Elenai dėl Mogiliavo pilies (1503 m.): 1503 m. Aleksandro privilegija suteikė karalienei Elenai teisę iki gyvos galvos turėti, naudotis ir ramiai valdyti Mogiliavo pilį su priklausiniais.
 - susijęs iš Mstislavlis: Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Mstislavlį, Mogiliavą ir Toropiecą.
 - susijęs iš [[objektai/asmenys/M. K. Pacas.md#claim-t-40314|M. K. Pacas]]: Lauko etmono M. K. Paco kariai 1665 metais buvo apgulę Mogiliavą.
@@ -93,7 +65,6 @@ amziai:
     gos atminties kanclerio Rumiancevo lėšomis: EeAopyccKuü apxuBb, HacTb
     I, MocKBa, 1824, in 4to, p. 27.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -111,7 +82,6 @@ amziai:
     Liepos 15 d. karaliaus S. Batoro ka-
     riuomenė patraukė į Pskovą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

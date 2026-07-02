@@ -26,23 +26,8 @@ Dusburgietis teigia, kad potkowski E.
 - t-001
   global_id: t-61237
   teiginys: 'E. Potkowskio veikalas „Rycerze w habitach“ išleistas Varšuvoje 1974 m.'
-  sudarymo_pagrindimas: 'Citata palaiko autorių, pavadinimą, leidimo vietą ir metus.'
-  susije_objektai: 'mentioned_place: Varšuva'
-  temporaliniai_duomenys: 'įvykio data: 1974 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko autorių, pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 791175-791224; hash=1a89eb24b1b577aea62f3d3f3b31684ce47f646a87c6618ba1383da0ff1ba0f1; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Varšuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Potkowski E. Rycerze w habitach: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Varšuva: mention_match, place, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Potkowski E. Rycerze w habitach" parinktas kaip owner_note_path. Targetas "Varšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -52,7 +37,6 @@ Dusburgietis teigia, kad potkowski E.
   citata_originali: |
     Potkowski E. Rycerze w habitach.— Warszawa, 1974.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

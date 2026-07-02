@@ -27,9 +27,6 @@ Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Ra
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 559517-559700; hash=3fc267e3f4eb522d1eb90304ff93d52f68b49e6e8107767c30752d08d97555b7; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -44,9 +41,7 @@ Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Ra
     // Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum
     1232. -  Nr. 7.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

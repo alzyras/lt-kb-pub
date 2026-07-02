@@ -45,25 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-62953
   teiginys: '1298 m. Rygos miestiečių pakviestas Lietuvos karalius Vytenis užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys per ilgas, nutrūkęs ir turi išnašos triukšmo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga; llm_object: [[objektai/ivykiai/Vytenio užimta Karkuso pilis (1298 m.)|Vytenio užimta Karkuso pilis (1298 m.)]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] užėmė [[objektai/ivykiai/Vytenio užimta Karkuso pilis (1298 m.)|Vytenio užimta Karkuso pilis (1298 m.)]]'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1298 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytenis buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradinis teiginys per ilgas, nutrūkęs ir turi išnašos triukšmo.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bd8c8757b21eb21f1ef0a2f550a597bd7621bda7ed80569b18a7aedd6586e366; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Vytenio užimta Karkuso pilis (1298 m.): 0.65
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vytenio užimta Karkuso pilis (1298 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Tekstas tiesiogiai mini Vytenio Karkuso pilies užėmimą, bet atskiro Karkuso objekto kandidatuose nėra.
 
 ## Reikšmingi paminėjimai
 
@@ -83,7 +66,6 @@ Nenurodyta
     šimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą, 22 brolius ir
     1500 krikščionių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

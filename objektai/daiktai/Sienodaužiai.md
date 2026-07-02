@@ -51,39 +51,20 @@ Nenurodyta
   teiginys: 'Apgultos aukštos ir stiprios pilies mūrams griauti buvo pastatyti sienodaužiai ir pilies mūrų aukščio bokštas.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 693744-694106; hash=862983ca16e1955e827c7c127b739d9c7cf9b7ae1c8744cfeb5b0b3cb070a5f6; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-171481"></a>
 - t-002
   global_id: t-171481
   teiginys: 'Puldami Gotteswerderį lietuviai naudojo 15 mašinų ir 5 sienodaužius.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Torno'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 698095-698399; hash=f278fd3217b23fe32e4812857f5b2b0650ff7e91134b1b0e564bb986446e9779; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sienodaužiai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sienodaužiai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-171483"></a>
 - t-004
   global_id: t-171483
   teiginys: 'Apgulimo metu pilies mūrams griauti buvo pastatyti sienodaužiai ir pilies mūrų aukščio bokštas.'
-  sudarymo_pagrindimas: 'Įvardytas kontekstas ir pašalintas neaiškus įvardis.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 693744-694106; hash=862983ca16e1955e827c7c127b739d9c7cf9b7ae1c8744cfeb5b0b3cb070a5f6; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -96,7 +77,6 @@ Nenurodyta
     Tačiau kryžiuočiai tuojau pat Gotteswerderi užpuolė ir, lietuviams
     keršydami, pilį su jos 109 gynėjais sudegino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -114,7 +94,6 @@ Nenurodyta
     puolami dieną ir naktį », « bet jie, krikščionių nelaimei, karžygiškai
     gynėsi ».
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

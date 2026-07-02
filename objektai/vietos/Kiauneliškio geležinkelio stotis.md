@@ -27,23 +27,8 @@ Ožasiai fo} Svyroneéliai 6 Šemetas oje, Kiauneliškio geležinkelio stoties i
 - t-001
   global_id: t-41780
   teiginys: '1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kariai puolė partizanų žemines Kiauneliškio geležinkelio stoties apylinkėse.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, enciklopedinis ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prisikėlimo apygarda|Prisikėlimo apygarda]]; mentioned_group: [[objektai/grupes/Vytauto apygarda|Vytauto apygarda]]; mentioned_place: Giedraičiai; mentioned_place: Kaunas; mentioned_place: Labanoras; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Pagaigalė; mentioned_place: Smilgiai; mentioned_place: Švenčionėliai; mentioned_place: Žiežmariai'
-  temporaliniai_duomenys: 'įvykio data: 1949 m.; įvykio data: 1951 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, enciklopedinis ir paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1ac6ed59f5a6dcf8e983b31c64bf54f9e544455db346c819062b13abf2b6fb4e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Giedraičiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kiauneliškio geležinkelio stotis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Giedraičiai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kiauneliškio geležinkelio stotis" parinktas kaip owner_note_path. Targetas "Giedraičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -68,7 +53,6 @@ Ožasiai fo} Svyroneéliai 6 Šemetas oje, Kiauneliškio geležinkelio stoties i
     PRIENAPĖSSJ — demas Aukštadvoris -——4 ners OAstravas SN PADAUGYVENES KAUTYNES
     Bisétonas Cea o ae 1 ORudamina pr = DanušavaO | Vaistamkas 1949 m. sausio 25 d. Smilgių vIsč.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

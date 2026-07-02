@@ -18,29 +18,15 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
 - t-001
   global_id: t-186007
   teiginys: 'Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienuolyną ir pradėjo vadovauti karui prieš Daumantą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pagrindžia Lauro veiksmus; pašalinti nutrūkę ir pertekliniai fragmentai.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 250407-251301; hash=771db1745284aeb16a2dc4967beeb1e04094b73e21ad15dc2bd0d7730211177f; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-186008"></a>
 - t-002
   global_id: t-186008
   teiginys: 'Lauras po sutelktų pajėgų patraukė prieš Daumantą, mūšyje įgijo persvarą ir nukovė Daumantą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pagrindžia veiksmų seką ir rezultatą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 251765-252504; hash=448e6b21e3bc039472940763e17c62af8588defa14394deefb85e310c2a2fe24; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184678|Boleslovas (Mazovijos kunigaikštis)]]: Boleslovas, Mazovijos kunigaikštis, vedė Lauro seserį, tikėdamasis per giminystę su valdovais sumažinti lietuvių užpuldinėjimus.
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184628|maršalas]]: Vytenis, suaugęs Traidenio šeimoje, tapo rūmų pareigūnu, kurį paprastai vadino maršalu.
 ## Reikšmingi paminėjimai
@@ -70,7 +56,6 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
     vės, tačiau, nebūdami tikri, kaip baigsis karas, dve­
     jojo dėl juodviejų siūlymų, nežinodami, paskui ką eiti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -95,7 +80,6 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
     locko kraštą ir vienu užmoju atsiėmė žemes, kurias
     Daumantas anksčiau buvo užgrobęs.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

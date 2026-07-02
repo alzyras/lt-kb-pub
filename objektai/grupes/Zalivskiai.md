@@ -26,24 +26,8 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
 - t-001
   global_id: t-86836
   teiginys: '1583 m. Savickiai pardavė namą Kristupui Zalivskiui, o vėliau jis iš Zalivskių atiteko Neliubovičiams.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia namo pardavimo ir vėlesnio perėjimo faktą.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Neliubovičiai|Neliubovičiai]]; llm_object: [[objektai/grupes/Zalivskiai|Zalivskiai]]; llm_object: [[objektai/grupes/Savickiai|Savickiai]]; mentioned_group: [[objektai/grupes/Neliubovičiai|Neliubovičiai]]; mentioned_group: [[objektai/grupes/Savickiai|Savickiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Cimermanas|Cimermanas]]'
-  semantiniai_rysiai: '[[objektai/daiktai/Namas|Namas]] priklausė [[objektai/grupes/Zalivskiai|Zalivskiai]]'
-  temporaliniai_duomenys: 'prekybos laikotarpis: 1583 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „prekybos laikotarpis“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia namo pardavimo ir vėlesnio perėjimo faktą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 386412-386559; hash=1b21390d99c9a540c9aa4ed170bfa9f7926f71490e6f21de3aefb7a22a63a30d; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Neliubovičiai: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Namas: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Neliubovičiai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad namas vėliau atiteko Neliubovičiams.
 - susijęs iš [[objektai/asmenys/Kristupas Zalivskis.md#claim-t-87761|Kristupas Zalivskis]]: 1583 m. Savickiai pardavė namą Kristupui Zalivskiui, o vėliau jis iš Zalivskių atiteko Neliubovičiams.
 - susijęs iš [[objektai/asmenys/Jonas Neliubovičius.md#claim-t-87728|Jonas Neliubovičius]]: 1607 m. Jonas Neliubovičius mūrinį namą su sklypu pardavė Vilniaus kanauninkui Vilčiopolskiui.
 - susijęs iš [[objektai/grupes/Neliubovičiai.md#claim-t-86814|Neliubovičiai]]: 1583 m. Savickių Kristupui Zalivskiui parduota valda vėliau iš Zalivskių atiteko Neliubovičiams.
@@ -60,7 +44,6 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
     1583. Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių
     atiteko Neliubovičiams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

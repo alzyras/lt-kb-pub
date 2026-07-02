@@ -42,9 +42,6 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 600204-600587; hash=1b92212a83508fa3750c59259081f2bb64eccabf755a76892647894f299b5896; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-66955"></a>
 - t-002
   global_id: t-66955
@@ -53,9 +50,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9d9fe8cadb2bffe832623e3e4114ba4bef4b44e903cc44af1a61cf0eaba49450; match=normalized; occurrences=1
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -69,13 +63,10 @@ Nenurodyta
     atvykęs į Lietuvą (1579 m.). Netrukus akademijos įkūrimą pa-
     tvirtino ir popiežius.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-002
+    - t-002- c-002
   santrauka: 'Vilniaus akademijos įkūrimui Lietuvoje priešinosi protestantai didikai Radvila ir Valavičius, atsisakę spausti valstybinį antspaudą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -86,9 +77,7 @@ Nenurodyta
     Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vice-
     kanclerio urėdas, nusileido ir prispaudė antspaudą.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

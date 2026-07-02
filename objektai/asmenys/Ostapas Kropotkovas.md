@@ -31,16 +31,6 @@ Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuope
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 722798-723397; hash=291850f35b0755cabfabaf557fcc6a765f26d86d90922507e2c3252ff4fedc6d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Ostapas Kropotkovas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Herbas: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Ostapas Kropotkovas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Herbas tiesiogiai nurodytas kaip duotas Ostapui Kropotkovui.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -57,10 +47,8 @@ Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuope
     Podbužo dvam Voluinėje už nuopelnus kare su totoriais. Datuotas Vil­
     niuje 1354 melų mgpjūčio 7 dieną.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

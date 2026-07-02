@@ -38,44 +38,15 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
 - t-001
   global_id: t-87590
   teiginys: 'Vinrichas Kniprodė 1365 metais su didele kariauna įsiveržė į Lietuvą ir priartėjo prie Vilniaus pilių.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai apibendrina citatoje nurodytą Vinricho Kniprodės žygį.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Kernavė; mentioned_place: Prūsija; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vinrichas Kniprodė|Vinrichas Kniprodė]] surengė žygį į Lietuva; [[objektai/asmenys/Vinrichas Kniprodė|Vinrichas Kniprodė]] surengė žygį į Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1365 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai apibendrina citatoje nurodytą Vinricho Kniprodės žygį.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2b3252ec669d75d08ac948f1eb49641a74bcbaecf060ab93b3d57f4dc5665ba3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vinrichas Kniprodė: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vinrichas Kniprodė su kariauna įsiveržė į Lietuvą.
 
 <a id="claim-t-87591"></a>
 - t-002
   global_id: t-87591
   teiginys: 'Vinrichas Kniprodė 1375 metais dėl staigaus atodrėkio ir upių polaidžio turėjo skubiai trauktis atgal į Prūsiją.'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Prūsija; mentioned_place: Prūsija; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Prancūzija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vinrichas Kniprodė|Vinrichas Kniprodė]] keliavo į Prūsija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 90375-90784; hash=b4aa9e14a6e510b74b6633f962fd3c9107994b88827495c5d06843a19f70ceaa; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsija: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vinrichas Kniprodė: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekste tiesiogiai nurodyta, kad Vinrichas traukėsi atgal į Prūsiją.
 
 <a id="claim-t-188645"></a>
 - t-003
@@ -85,16 +56,6 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
     - c-003
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 403362-403833; hash=bd70ddf023614c99732b4400c10ef148220787008a0a02c5e9f965d56387eaed; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vinrichas Kniprodė: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vinrichas Kniprodė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Treteris.md#claim-t-190078|Treteris]]: Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir teigė, kad Vinrichas Kniprodė 1351–1355 m. įsakė jį nukirsti.
 - susijęs iš [[objektai/ivykiai/Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.).md#claim-t-55149|Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)]]: 1365 m. Vinrichas Kniprodė su didele kariauna įsiveržė į Lietuvą ir, sudeginęs valsčius iki Kernavės bei Maišiagalos, priartėjo prie Vilniaus pilių.
 - susijęs iš [[objektai/ivykiai/Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.).md#claim-t-81836|Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)]]: 1365 m. didysis Prūsijos magistras Vinrichas Kniprodė su didele kariauna įsiveržė į Lietuvą ir priartėjo prie Vilniaus pilių.
@@ -117,13 +78,11 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
     binai trauktis atgal į Prūsiją dėl staigaus atodrėkio ir upių
     polaidžio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-- c-002
+    - t-002- c-002
   santrauka: 'Vinrichas Kniprodė 1365 metais su didele kariauna įsiveržė į Lietuvą ir priartėjo prie Vilniaus pilių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -137,13 +96,11 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
     deginęs visus valsčius nuo Labūnavos iki pat Kernavės ir
     Maišiagalos, priartėjo prie Vilniaus pilių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-- c-003
+    - t-001- c-003
   santrauka: 'Narbutas, remdamasis Treteriu, rašo, kad Vinrichas Kniprodė vyskupo Jono I prašymu įsakė nukirsti garbintą ąžuolą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -156,10 +113,8 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
     Jono I prašomas, įsakė jį nukirsti. Tai buvo tarp 1351 ir 1355
     metų; tada tasai Jonas I buvo Varmijos vyskupas.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 

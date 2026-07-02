@@ -44,9 +44,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1ef006a52f81f39e43271dd37fab435aa0a10d616d0937ddfc3ff359c01a4880; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -63,9 +60,7 @@ Nenurodyta
     nepulsiąs; taigi bajorija galinti džiaugtis savo laisve ir niekuo
     nesirūpinti.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

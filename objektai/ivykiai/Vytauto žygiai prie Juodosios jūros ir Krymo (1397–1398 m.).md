@@ -46,9 +46,6 @@ Nenurodyta
 - t-001
   global_id: t-31498
   teiginys: '1397 m. Vytautas surengė didelį žygį prie Juodosios jūros ir į Krymą.'
-  susije_objektai: 'llm_object: Krymas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krymas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Trakai'
-  temporaliniai_duomenys: 'įvykio data: 1397 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -56,9 +53,6 @@ Nenurodyta
 - t-002
   global_id: t-31499
   teiginys: 'Pasak Ivinskio, 1398 m. žygio metu paimti karaimai, berods, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Dniepras; llm_object: Luckas; llm_object: Trakai'
-  temporaliniai_duomenys: 'įvykio data: 1398 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -66,11 +60,6 @@ Nenurodyta
 - t-003
   global_id: t-31500
   teiginys: '1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės tvirtovę.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Dniepras; mentioned_place: Tavanė; mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_place: Luckas'
-  temporaliniai_duomenys: 'pastatymo data: 1398 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
 
@@ -78,9 +67,6 @@ Nenurodyta
 - t-004
   global_id: t-31501
   teiginys: '1397 m. Vytautas, veikiausiai pritariant Jogailai, surengė didelį žygį prie Juodosios jūros ir į Krymą.'
-  susije_objektai: 'llm_object: Krymas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krymas; mentioned_group: [[objektai/grupes/Lietuvos totoriai|Lietuvos totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai; llm_object: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1397 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -88,23 +74,8 @@ Nenurodyta
 - t-005
   global_id: t-31502
   teiginys: 'Po 1397 m. žygio Vytautas pusę atsivežtų totorių belaisvių ir pabėgėlių atidavė Jogailai, o kitus įkurdino Trakų kunigaikštijoje.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai ir tiksliai nusako citatoje minimą Vytauto veiksmą po 1397 m. žygio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; llm_object: [[objektai/grupes/Totoriai|Totoriai]]'
-  temporaliniai_duomenys: 'įvykio data: po 1397 m.; įvykio data: 1397 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai ir tiksliai nusako citatoje minimą Vytauto veiksmą po 1397 m. žygio.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5698fbb68e5f93a38e8b74f76e081495438c9e1b8a055906403e40158ed9b32a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Krymas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Krymas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claim ir citata tiesiogiai nurodo Vytauto žygį į Krymą.
 
 ## Reikšmingi paminėjimai
 
@@ -115,7 +86,6 @@ Nenurodyta
     tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
     tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -135,7 +105,6 @@ Nenurodyta
     Lietuvos totoriai išlaikė savo mahometonišką tikėjimą ir papročius,
     kai tuo tarpu Lenkijoje jie buvo sukrikščioninti ir sulenkinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -152,7 +121,6 @@ Nenurodyta
     totorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos
     Vytautas įkurdino Trakų kunigaikštijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

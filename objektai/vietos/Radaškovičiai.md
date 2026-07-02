@@ -27,16 +27,6 @@ amziai:
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 898098-898708; hash=162233a8ced6135d4a26f01b2e75b66aec45e7e7c00651562823a2391fedf0e7; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Radaškovičiai: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žygimantas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Radaškovičiai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Žygimantas su kariuomene pasiekė Radaškovičius.
 - susijęs iš Vilnius: Karalius Žygimantas po Piotrkovo seimo su kariuomene išžygiavo iš Vilniaus, bet pasiekė tik Radaškovičius.
 - susijęs iš Vilnius: Karalius Žygimantas po Piotrkovo seimo su kariuomene išžygiavo iš Vilniaus, bet pasiekė tik Radaškovičius.
 ## Reikšmingi paminėjimai
@@ -58,10 +48,8 @@ amziai:
     bėjo sušaukti seimą Gardine dar 1567 metų pa­
     baigoje, išsiuntinėjęs universalus Lietuvai.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

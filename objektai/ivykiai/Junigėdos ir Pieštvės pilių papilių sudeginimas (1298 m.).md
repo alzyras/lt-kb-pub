@@ -45,20 +45,8 @@ Nenurodyta
 - t-001
   global_id: t-59531
   teiginys: 'Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigėdos ir Pieštvės pilis ir iki pamatų sudegino jų papilius.'
-  sudarymo_pagrindimas: 'Citata remia teiginį, bet datos vieta šaltinyje pateikta su OCR triukšmu.'
-  susije_objektai: 'mentioned_place: Pieštvė; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Junigeda; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Ragainė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0198af235c245a80e0c261ad108c3aaa90d084d86bb73e0b7dfbb71c04646446; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pieštvė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Junigėdos ir Pieštvės pilių papilių sudeginimas (1298 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Pieštvė: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Junigėdos ir Pieštvės pilių papilių sudeginimas (1298 m.)" parinktas kaip owner_note_path. Targetas "Pieštvė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -80,7 +68,6 @@ Nenurodyta
 
              272 (265).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

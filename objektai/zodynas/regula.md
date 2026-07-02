@@ -23,8 +23,6 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
 - t-001
   global_id: t-82094
   teiginys: 'Goštautas po vienuolių nužudymo vėl atkvietė tos pačios regulos vienuolių iš Lenkijos.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie regulos vienuolius, bet pradinis teiginys per ilgas ir nutrūkęs.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]'
   pagrindžia:
     - c-001
 
@@ -32,11 +30,6 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
 - t-002
   global_id: t-184637
   teiginys: 'Vaišvilkas Galiče gyveno pagal griežtesnes regulas, remdamasis Grigorijaus iš Polonos mokslu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis sakinys negrabiai perteikia citatos mintį; perrašyta aiškiau ir glaustai.'
-  susije_objektai: 'mentioned_place: Polona; mentioned_place: Nemunas'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172807|Vilniaus magistratas]]: Vilniaus tarėjams buvo nurodyta su ponais tartis dėl duonos dydžio, svorio ir kitų miesto tvarkos dalykų.
@@ -69,7 +62,6 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
     įvykius iš tamsos į ryškią šviesą iš­
     kelti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -93,7 +85,6 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
     baimingai ir pastoviai gyventi, kartkartėmis, tiesa,
     kurstomas didikų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

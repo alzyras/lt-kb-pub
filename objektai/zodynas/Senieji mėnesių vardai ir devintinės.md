@@ -27,7 +27,6 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - t-001
   global_id: t-07718
   teiginys: 'Tarp senųjų mėnesių vardų minimi siekis, karvelis, kirmėšų, šilo mėnuo ir spalių mėnuo.'
-  sudarymo_pagrindimas: 'Citata leidžia pateikti konkrečius senųjų vardų pavyzdžius.'
   pagrindžia:
     - c-001
 
@@ -35,7 +34,6 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - t-002
   global_id: t-07719
   teiginys: 'Senieji metai buvo dalijami į trylika mėnesių.'
-  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir suformuluotas kaip aiškus faktas.'
   pagrindžia:
     - c-001
 
@@ -43,7 +41,6 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - t-003
   global_id: t-07720
   teiginys: 'Senųjų mėnesių sistemoje kiekvienas mėnuo turėjo po 27 dienas ir dalijosi į tris devintinėmis vadintas dalis.'
-  sudarymo_pagrindimas: 'Teiginys glaustai ir tiksliai apibendrina citatoje nurodytą mėnesių ir devintinių sistemą.'
   pagrindžia:
     - c-001
 
@@ -54,7 +51,6 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
   citata_originali: |
     Metus dalijo į trylika mėnesių, kuriuos taip vadino: 1. siekis, 2. sausis, 3. kovas, 4. karvelis, arba balandis, 5. gegužė, 6. kirmėšų, arba birželis, 7. liepos mėnuo, 8. rugpjūtis, 9. rugsėjis, 10. šilo mėnuo, 11. spalių mėnuo, 12. lapkristis, 13. gruodis. Kožnas mėnuo turėjo saviep 27 dienas ir dalijos į tris dalis, arba taip vadinamas devintines, nuo devintosios dienos, kurioje svietas, visuotinai susirinkęs, meldės arba linksminos[43].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

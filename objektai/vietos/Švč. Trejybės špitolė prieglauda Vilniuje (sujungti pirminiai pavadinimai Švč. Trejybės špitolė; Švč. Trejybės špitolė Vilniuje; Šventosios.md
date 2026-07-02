@@ -29,8 +29,6 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - t-001
   global_id: t-85973
   teiginys: 'Šventosios Trejybės prieglaudą buvo numatyta plėsti supirkus namelius prie Šventosios Trejybės ir Šv. Dvasios bažnyčių.'
-  sudarymo_pagrindimas: 'Citata palaiko prieglaudos plėtimo faktą, bet pradinis teiginys yra OCR fragmentas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]'
   pagrindžia:
     - c-001
 
@@ -38,34 +36,15 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - t-002
   global_id: t-85974
   teiginys: 'Karalius testamentu pavedė seserims plėsti Švč. Trejybės prieglaudą, supirkinėjant aplinkinius namus.'
-  sudarymo_pagrindimas: 'Citata palaiko prieglaudos plėtimo pavedimą, bet pradinis teiginys nutrūkęs.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 550447-550779; hash=afa8955efbc0db241cdf047f0402c453495ef290c3a683395ac000d226f5faff; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švč. Trejybės špitolė prieglauda Vilniuje (sujungti pirminiai pavadinimai Švč. Trejybės špitolė; Švč. Trejybės špitolė Vilniuje; Šventosios: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švč. Trejybės špitolė prieglauda Vilniuje (sujungti pirminiai pavadinimai Švč. Trejybės špitolė; Švč. Trejybės špitolė Vilniuje; Šventosios" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-85976"></a>
 - t-003
   global_id: t-85976
   teiginys: '1545 m. gegužės 4 d. Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatinis ir tiksliai perteikia citatos faktą apie prieglaudos pajamas.'
-  susije_objektai: 'mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1545 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatinis ir tiksliai perteikia citatos faktą apie prieglaudos pajamas.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 550780-551097; hash=dd6bbd4c7a26faea8f351cbdd566479b5d833e4238a93ed75b85e9a403ec1224; match=whitespace_regex
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -83,7 +62,6 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     miausia, kaip ir kiti, būtų leidžiami į prieglaudą, o ši prie­
     glauda būtų plečiama.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -101,7 +79,6 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     viršuje, priešais dominikonų Šv. Dvasios bažnyčią stovin­
     čius33.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -118,7 +95,6 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     Hozijui pasitraukus iš šių pareigų, vyriausiojo jos globėjo
     titulą nuo vyskupo karalius perkėlė sau.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

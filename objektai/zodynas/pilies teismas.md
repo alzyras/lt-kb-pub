@@ -21,20 +21,8 @@ Pagaliau baudžiamosios (kriminalinės) bylos buvo pavestos spręsti trečiam, v
 - t-001
   global_id: t-03118
   teiginys: 'Pilies teismui buvo pavesta spręsti baudžiamąsias bylas.'
-  sudarymo_pagrindimas: 'Pašalintas neaiškus žodis „trečiam“, paliktas tikslus faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/urėdas|urėdas]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=61ac1237cf3ee764849e952e6ad2589d8299bc70bd057bf1a5cda3328812dbb6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: pilies teismas (pilis): owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pilies teismas (pilis)" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -49,7 +37,6 @@ Pagaliau baudžiamosios (kriminalinės) bylos buvo pavestos spręsti trečiam, v
     Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek
     daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

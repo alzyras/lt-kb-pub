@@ -29,21 +29,8 @@ Lietuvai liko sukilimo inscenizacijos scenarijus.
 - t-001
   global_id: t-77785
   teiginys: 'Lietuvai liko sukilimo inscenizacijos scenarijus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas|Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Jonas Budrys (Polovinskas)|Jonas Budrys (Polovinskas)]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Rytprūsiai; mentioned_place: Šilutė'
-  temporaliniai_duomenys: 'įvykio data: 1923 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 305655-307559; hash=369a74eef874bea1e82a93b12e408504ffddbb046228d98603d58fce71caabdd; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bermontininkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: sukilimo inscenizacija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bermontininkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "sukilimo inscenizacija" parinktas kaip owner_note_path. Targetas "Bermontininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -78,11 +65,9 @@ Lietuvai liko sukilimo inscenizacijos scenarijus.
     prancūzai, tačiau garsiai protestavo visi – aršiausiai prancūzai, formaliai
     vokiečiai ir net britai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
     - t-002

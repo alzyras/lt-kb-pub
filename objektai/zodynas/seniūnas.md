@@ -35,7 +35,6 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - t-001
   global_id: t-12584
   teiginys: 'Seniūnas šiame tekste yra lenkiškas urėdas Lietuvoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/urėdas|urėdas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -43,11 +42,6 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - t-002
   global_id: t-12585
   teiginys: '1411 m. Vytautas pats paskyrė seniūną iš Ordino atgautai Žemaitijai.'
-  sudarymo_pagrindimas: 'Citata leidžia tiksliau nurodyti, kad Žemaitija buvo atgauta iš Ordino.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/organas|organas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
-  temporaliniai_duomenys: 'įvykio data: 1411 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia tiksliau nurodyti, kad Žemaitija buvo atgauta iš Ordino.'
   pagrindžia:
     - c-002
 
@@ -55,9 +49,6 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - t-003
   global_id: t-12586
   teiginys: 'Seniūnas turėjo teismo valdžią ir vietininko teises.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/organas|organas]]'
-  temporaliniai_duomenys: 'įvykio data: 1411 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -65,14 +56,6 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - t-004
   global_id: t-187529
   teiginys: 'Algirdo valdymo laikotarpiu Vilniaus ir Trakų vaivadų pareigybių dar nebuvo; iki 1413 m. panašias funkcijas vykdė seniūnai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia pastabą apie seniūnų funkcijas iki 1413 m. Nepridėtos atskiros pirmųjų vaivadų ir seniūnų pavardės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Trakai; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: iki 1413 m.; įvykio data: 1387 m.; įvykio data: 1413 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai perteikia pastabą apie seniūnų funkcijas iki 1413 m. Nepridėtos atskiros pirmųjų vaivadų ir seniūnų pavardės.'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Hanulas, arba Hanka.md#claim-t-87511|Hanulas, arba Hanka]]: Hanulas autentiškame 1385 m. Vladislovo Jogailos laiške vadinamas Hanka, Vilniaus seniūnu.
@@ -147,7 +130,6 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     (lenk. starosta). Tai buvo 1386 met. Jogailos Vilniun atsiųstas
     jau minėtas vad. „Vilniaus seniūnas“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -163,7 +145,6 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     nyčios dvaruose. Jis naudojosi visomis vietininko teisėmis ir
     paprastomis jo pajamomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -181,7 +162,6 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
     vaivada buvo Vaitiekus M anvydas (1413—1424), o pirmas Goš­
     tautas Vilniaus vaivados poste — Jonas Goštautas (1443—1458).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

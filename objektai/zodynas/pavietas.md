@@ -24,7 +24,6 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
 - t-001
   global_id: t-113660
   teiginys: 'Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, kuris vietoje spręsdavo žemės ribų bylas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/urėdas|urėdas]]'
   pagrindžia:
     - c-003
 
@@ -32,8 +31,6 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
 - t-002
   global_id: t-113661
   teiginys: 'Veliuona kurį laiką buvo Žemaitijos pavieto centras.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/urėdas|urėdas]]; mentioned_place: Veliuona'
   pagrindžia:
     - c-001
 
@@ -41,42 +38,15 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
 - t-003
   global_id: t-113662
   teiginys: 'Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie Tauragnų pilies dovanojimą su pavietu, pašalinus OCR triukšmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Brasta; mentioned_place: Dubnas; mentioned_place: Gniezno; mentioned_place: Klodovas; mentioned_place: Lietuva; mentioned_place: Tauragnai; mentioned_place: Tauragnų pilis; mentioned_place: Verkiai; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e387aa5b9883ed622ca11b931e0656125ac8dbab009ea8f4821d1ec2c457d584; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Veliuona: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: pavietas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Veliuona: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pavietas" parinktas kaip owner_note_path. Targetas "Veliuona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-182966"></a>
 - t-005
   global_id: t-182966
   teiginys: 'Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo po vieną pakamorę žemės ribų byloms spręsti.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis sakinys per ilgas ir turi neaiškių nuorodų, todėl faktas sukonkretintas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Viena; mentioned_object: [[objektai/zodynas/urėdas|urėdas]]'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 479391-479722; hash=340bd6c1575649c2ad6b9b37cea0b871b11f962a940ef5bcbdb4e19b51b610d4; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: pavietas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pavietas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Dubrovno pavietas: Dubrovno pavietas atiteko Vilniaus katedrai ir kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.
 - susijęs iš [[objektai/asmenys/Vaidila.md#claim-t-87462|Vaidila]]: Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.
 - susijęs iš [[objektai/grupes/Saulės garbintojai.md#claim-t-189533|Saulės garbintojai]]: Narbutas pasakojo, kad Jeronimas keliaudamas rado saulės garbintojus, ypač garbinusius didžiulį geležinį kūjį.
@@ -98,7 +68,6 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
     ° už jos - aukštutinis miestas; ant kito - dvaro parkas ir so­
     das.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -138,7 +107,6 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
     teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
     istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -154,7 +122,6 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
     skiriamas urėdas — pakamorė, kuris visas tokias bylas spręs-
     davo vietoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -171,7 +138,6 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
     davo vietoje. Pagaliau baudžiamosios (kriminalinės) bylos
     buvo pavestos spręsti trečiam, vadinamajam pilies teismui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

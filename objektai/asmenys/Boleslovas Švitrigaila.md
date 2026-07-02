@@ -3,6 +3,11 @@ tipas: asmuo
 pavadinimas: 'Boleslovas Švitrigaila'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+description: 'Boleslovas Švitrigaila pralaimėjęs traukėsi į Kijevą, niokojo Lietuvos žemes, vėl tikėjosi valdžios ir iš Kazimiero atgavo Lucką.'
+socialDescription: 'Boleslovo Švitrigailos kovos, pralaimėjimai, bandymas grįžti į valdžią ir Kazimiero sugrąžintas Luckas.'
+seo_atnaujinta: '2026-07-02T21:03:54.612555+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 ---
@@ -10,7 +15,7 @@ atnaujinta: ''
 
 ## Santrauka
 
-Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstančių karių, sunkiai paspruko į Kijevą. Boleslovas Švitrigaila padalijo kariuomenę į tris žygio voras ir pats įsiveržęs nuniokojo senąsias Lietuvos žemes. Po Žygimanto pašalinimo Boleslovas Švitrigaila vėl galėjo tikėtis grįžti į valdžią, nors didikai jo tebekenė ir keikė.
+Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstančių karių, sunkiai paspruko į Kijevą. Vėliau jis padalijo kariuomenę į tris žygio voras, pats įsiveržė į senąsias Lietuvos žemes ir jas nuniokojo. Po Žygimanto pašalinimo Švitrigaila vėl tikėjosi grįžti į valdžią, o Kazimieras jam sugrąžino Lucką.
 
 ## Teiginiai
 
@@ -18,92 +23,29 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
 - t-001
   global_id: t-185932
   teiginys: 'Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstančių karių, sunkiai paspruko į Kijevą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikia pašalinti OCR klaidas ir perteklinę autorinę įžangą.'
-  susije_objektai: 'llm_object: Kijevas; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kijevas'
-  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas Švitrigaila|Boleslovas Švitrigaila]] keliavo į Kijevas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 782950-783204; hash=a9b32ea917637fa77ff81b320def20ef5c88205a85a8a3d3ccd2c084d192bd05; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Kijevas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Boleslovas Švitrigaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Boleslovas Švitrigaila pasitraukė į Kijevą.
 
 <a id="claim-t-185933"></a>
 - t-002
   global_id: t-185933
   teiginys: 'Boleslovas Švitrigaila padalijo kariuomenę į tris žygio voras ir pats įsiveržęs nuniokojo senąsias Lietuvos žemes.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie Švitrigailos žygį, bet pradinis tekstas per ilgas ir su OCR klaidomis.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Boleslovas Švitrigaila|Boleslovas Švitrigaila]] puolė Lietuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 785714-786239; hash=86d713f8a65986efef69cb6e7b2a69fe6aeed3e9434b8da6fb4963a29f40b40c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Lietuva: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Boleslovas Švitrigaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Įsiveržimas į Lietuvos žemes tiesiogiai palaiko puolimo ryšį.
 
 <a id="claim-t-185934"></a>
 - t-003
   global_id: t-185934
   teiginys: 'Po Žygimanto pašalinimo Boleslovas Švitrigaila vėl galėjo tikėtis grįžti į valdžią, nors didikai jo tebekenė ir keikė.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko situaciją, bet reikia pilno, glausto sakinio be boilerplate ir fragmentų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Dakija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 814355-814926; hash=61395c5e357e9faea538886d87ba95a9391bbc840749b542b081e8a50d2d7da0; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Švitrigaila: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Boleslovas Švitrigaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Švitrigaila: mention_match, person, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Boleslovas Švitrigaila" parinktas kaip owner_note_path. Targetas "Švitrigaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185935"></a>
 - t-004
   global_id: t-185935
   teiginys: 'Kazimieras potvarkiu sugrąžino savo dėdei Boleslovui Švitrigailai Lucką.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko faktą, bet pradiniame teiginyje yra neaiškus įvardis.'
-  susije_objektai: 'mentioned_place: Luckas; mentioned_place: Lietuva; llm_object: [[objektai/asmenys/Boleslovas Švitrigaila|Boleslovas Švitrigaila]]'
-  semantiniai_rysiai: 'Luckas priklausė [[objektai/asmenys/Boleslovas Švitrigaila|Boleslovas Švitrigaila]]'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 841510-841951; hash=8a859552f2070de7adbbdbe44a3259a17e337f4798e835f15c6d26f2b0c3f930; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Boleslovas Švitrigaila: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Luckas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Boleslovas Švitrigaila: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Lucko sugrąžinimas Švitrigailai rodo, kad Luckas vėl priklausė jam, nors formuluotė yra netiesioginė.
 - susijęs iš [[objektai/ivykiai/Švitrigailos 1433 m. žygis Lietuvos siaubimas, Vitebsko užėmimas ir Bresto apgultis.md#claim-t-185546|Švitrigailos 1433 m. žygis Lietuvos siaubimas, Vitebsko užėmimas ir Bresto apgultis]]: 1433 m. Boleslovas Švitrigaila padalijo kariuomenę į tris voras; viena įsiveržė į senąsias Lietuvos žemes ir jas nuniokojo.
 - susijęs iš [[objektai/ivykiai/Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė.md#claim-t-185516|Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė]]: 1435 m. Boleslovas Švitrigaila užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės.
 - susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-184691|Dimitras Kaributas]]: Sutramdžius Rusią, Dimitras Kaributas buvo pasiųstas į Severską, kad iš tos pusės nekiltų naujų sąmyšių.
@@ -123,7 +65,6 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
     į nelaisvę, tarp jų — žymieji karo vadai ir jo šalinin­
     kai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -149,7 +90,6 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
     449
     15.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -176,7 +116,6 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
     mokslininkų įspėtas, tylomis išvyko iš Dakijos ir sku­
     bėjo į Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -208,7 +147,6 @@ Boleslovas Švitrigaila po pralaimėto mūšio, netekęs dešimties tūkstanči�
     grąžina-
     viešpatavo taika.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

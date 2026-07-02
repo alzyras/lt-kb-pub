@@ -21,16 +21,6 @@ Narbutas žvaigždininką (Zwajždinikas) sieja su pranašavimu iš žvaigždži
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 531381-532076; hash=d724727a97af121c5cec6b0adab863db8e9b6f960cf8abc9e40c34ab6e88f3ce; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žyniai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žvaigždininkas Zwajždinikas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Žyniai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žvaigždininkas Zwajždinikas" parinktas kaip owner_note_path. Targetas "Žyniai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -51,9 +41,7 @@ Narbutas žvaigždininką (Zwajždinikas) sieja su pranašavimu iš žvaigždži
     sią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta
     garsaus pranašo, kurio teirautasi apie tos šventyklos likimą.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

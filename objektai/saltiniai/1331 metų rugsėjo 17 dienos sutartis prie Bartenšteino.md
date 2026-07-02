@@ -32,48 +32,18 @@ Narbutas mini 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Barten�
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 227123-227583; hash=f65253b9d38a35ac6e61b9a4f76cbc638412ab1f68c13ab5fb4456c3b6e7fed0; match=exact
-  sprendimo_priezastis: final::darbas/prompts/05_quality_control/01_normalize_tags.md
-  ryšio_patikimumas: pastate -> Fridburgas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Fridburgas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad kryžiuočiai pasistatė pilis, tarp jų Fridburgą.
 - t-004
   teiginys: 'Narbuto pasakojime pagal 1331 m. rugsėjo 17 d. sutartį prie Bartenšteino buvo sunaikintos Fridburgo ir Bajerburgo pilys.'
   pagrindžia:
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 227123-227583; hash=f65253b9d38a35ac6e61b9a4f76cbc638412ab1f68c13ab5fb4456c3b6e7fed0; match=exact
-  sprendimo_priezastis: final::darbas/prompts/05_quality_control/01_normalize_tags.md
-  ryšio_patikimumas: pastate -> Fridburgas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Fridburgas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kryžiuočiai pasistatė Fridburgo pilį.
 - t-005
   teiginys: 'Pagal 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Bartenšteino, Fridburgo ir Bajerburgo pilys buvo sunaikintos.'
   pagrindžia:
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 227341-227653; hash=bc80fb0195f1dd3fcfa5837db466ec9ec6e853da90b375301d50d0f80a70fd71; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Veliuona: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Veliuona: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Veliuonos sudeginimas tiesiogiai rodo kryžiuočių karinį veiksmą prieš šią vietą.
 
 ## Reikšmingi paminėjimai
 
@@ -92,14 +62,11 @@ Narbutas mini 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Barten�
     dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys
     buvo sunaikintos.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-    - t-004
-- c-002
+    - t-004- c-002
   santrauka: 'Pagal 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Bartenšteino, Fridburgo ir Bajerburgo pilys buvo sunaikintos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -110,9 +77,7 @@ Narbutas mini 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Barten�
     buvo sunaikintos. Vis dėlto 1364 metais kryžiuočiai sudegino
     Veliuoną ir sugriovė pilį.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005

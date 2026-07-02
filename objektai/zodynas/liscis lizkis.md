@@ -29,23 +29,8 @@ Dusburgietis teigia, kad liscis, lizkis ‘stovykla, apsistojimo vieta’, iš p
 - t-001
   global_id: t-58945
   teiginys: 'Liscis, lizkis ‘stovykla, apsistojimo vieta’, iš pr.'
-  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_place: Lisske; mentioned_place: Nemunas; mentioned_place: Semba; mentioned_place: Tepliava; mentioned_place: Torunė'
-  temporaliniai_duomenys: 'įvykio data: 1233 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 166228-167142; hash=c38dd8afe5f3b87048310484a6cec196de6cb62aad337d96ddb65a2c44d96653; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lisske: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: liscis lizkis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lisske: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "liscis lizkis" parinktas kaip owner_note_path. Targetas "Lisske" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -65,7 +50,6 @@ Dusburgietis teigia, kad liscis, lizkis ‘stovykla, apsistojimo vieta’, iš p
     (greta Pokarvių) ir kt. (Weber L. Preussen..., p. 497, 506, 510, 526, 530); Liškiava prie
     Nemuno (Būga K. 1, p. 424).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

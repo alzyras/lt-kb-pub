@@ -34,7 +34,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 - t-001
   global_id: t-10755
   teiginys: 'XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinama Hanza.'
-  susije_objektai: 'mentioned_place: Baltija; mentioned_place: D. Naugardas; mentioned_place: Gotlandas; mentioned_place: Lietuva; mentioned_place: Naugardas'
   pagrindžia:
     - c-001
 
@@ -42,7 +41,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 - t-002
   global_id: t-10757
   teiginys: 'Hanza Kaune ir Polocke įsteigė savo agentūras, vadintas pirklių kontoromis.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Polockas; mentioned_place: Dauguva; mentioned_place: Nemunas'
   pagrindžia:
     - c-002
 
@@ -50,11 +48,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 - t-003
   global_id: t-116684
   teiginys: '1416 m. Hanzos vadovybė įsikišo, kai Dorpatas uždraudė prekybą su Naugardu, bet turėjo sutikti su Dorpato draudimu.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatinis faktinis sakinys ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_place: Dorpatas; mentioned_place: Naugardas; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1416 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatinis faktinis sakinys ir atitinka citatos informaciją.'
   pagrindžia:
     - c-008
 
@@ -62,8 +55,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 - t-004
   global_id: t-116685
   teiginys: 'Vytauto laikų Lietuva buvo kraštas, kurio negalėjo aplenkti Hanzos ir kiti pirkliai.'
-  sudarymo_pagrindimas: 'Perrašyta, kad teiginys būtų gramatinis ir turėtų aiškų veiksnį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Baltija; mentioned_place: Dniepras; mentioned_place: Dniestras; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Nemunas'
   pagrindžia:
     - c-007
 
@@ -71,11 +62,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 - t-005
   global_id: t-116687
   teiginys: 'XIII amžiuje vokiečių miestai sudarė prisiekusiųjų sąjungas, žinomas Hanzos vardu.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Hamburgas; mentioned_place: Naugardas'
-  temporaliniai_duomenys: 'įvykio data: 1241 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-004
 
@@ -83,8 +69,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 - t-006
   global_id: t-116690
   teiginys: 'Veliuonos derybose dalyvavo Liubeko ir Stralsundo atstovai, nes Vytauto ir Ordino nesantaika trukdė Hanzai susisiekti su Lietuva.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Liubekas; mentioned_place: Stralsundas; mentioned_place: Veliuona'
   pagrindžia:
     - c-010
 
@@ -92,8 +76,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 - t-007
   global_id: t-116691
   teiginys: 'Gediminas per rygiečius kreipėsi į Hanzos miestus ir kvietė amatininkus, pirklius, žemdirbius bei riterius vykti į Lietuvą.'
-  sudarymo_pagrindimas: 'Reikia išplėsti įvardį ir sutrumpinti sakinį iki vieno aiškaus fakto.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Naugardukas; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -101,8 +83,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 - t-008
   global_id: t-116692
   teiginys: 'Hanza dviejuose prekybos centruose veikiai įsteigė savo agentūras, vadintas pirklių kontoromis.'
-  sudarymo_pagrindimas: 'Pradiniame teiginyje yra neaiški nuoroda „tuose centruose“.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-005
 
@@ -110,9 +90,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 - t-009
   global_id: t-116693
   teiginys: 'Hanzos miestų tinklui priklausė Kauno miestas.'
-  sudarymo_pagrindimas: 'Reikia aiškiau susieti faktą su Hanza kaip užrašo objektu.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Kaunas; mentioned_place: Europa; mentioned_place: Europos geografinis centras; mentioned_place: Italija; mentioned_place: Lietuva; mentioned_place: Suomija; mentioned_place: Šveicarija'
-  semantiniai_rysiai: 'Kaunas priklausė [[objektai/grupes/Hanza|Hanza]]'
   pagrindžia:
     - c-006
 
@@ -120,8 +97,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 - t-010
   global_id: t-116694
   teiginys: 'Rygiečiai Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.'
-  sudarymo_pagrindimas: 'Pašalintas neaiškus konteksto fragmentas ir paliktas citatos paremtas faktas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Polockas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   pagrindžia:
     - c-009
 - susijęs iš Dorpatas: Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta gadinti dėl prekybos interesų šiaurėje.
@@ -194,7 +169,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     tijos jūroje buvo Visby miestas Gotlando saloje; šiaurėje prie
     Hanzos prisidėjo D. Naugardas (žiūr. 28—30 psl.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -210,7 +184,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     centras buvo Kaunas: mat, prekybai labai patogi jo vieta — dvie-
     jų didelių upių santakas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -228,7 +201,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     jau esą krikščionių, vienuolių, turinčių ir savo bažnyčių; jis pats
     pastatydinęs porą bažnyčių Vilniuje ir vieną Naugarduke.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -251,7 +223,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     ĮVADAS
     Krokuva, Kališas ir Naugardas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -269,7 +240,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     didelė dalis pietų Lietuvos prekių ėmė plaukti per Lenkiją, — kai
     su šia prasidėjo Lietuvos santykiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -285,7 +255,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     ji dažnai laikoma Rytų Europos dalimi. Tokiais atvejais turima galvoje ne
     tiek geografinė, kiek geopolitinė krašto padėtis: XIX–XX a.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -309,7 +278,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     jo su ja prekybos santykius, kurie Vytauto laikais dar labiau
     išsiplėtė ir sutvirtėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -327,7 +295,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     mu sutikti. Ir šis žygis buvo padarytas ne be Lietuvos politinės
     įtakos^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -343,7 +310,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     patvirtintą sutartį su Polocku. Bet Vytautas jiems atsakė, kad
     jis pats su jais jokios sutarties nedarė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -360,7 +326,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     Lietuva Vokiečių Ordino žemėmis. Atvyko jie Ordino kviečia­
     mi, kad palaikytų jo pusę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

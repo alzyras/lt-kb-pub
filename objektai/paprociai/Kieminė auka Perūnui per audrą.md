@@ -34,7 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-07784
   teiginys: 'Po audros gaspadorius linksmindamasis keldavo namiškiams puotą ar gėrynę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Gaspadorius|Gaspadorius]]'
   pagrindžia:
     - c-002
 
@@ -42,7 +41,6 @@ Nenurodyta
 - t-002
   global_id: t-07785
   teiginys: 'Kilus audrai arba grasinant krušai šeimininkas tris kartus apeidavo savo rugius ar varstą su lašinių paltimi ir melsdavo Perūną.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Gaspadorius|Gaspadorius]]'
   pagrindžia:
     - c-001
 
@@ -57,7 +55,6 @@ Nenurodyta
         varstą^952 , trigubai tais žodžiais melsdamas Perūną, savo Titį: „Perime dievali, nemušk ant mano
         javų to kipšo, melsiu tave šia palčia lašinių.“^
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -70,7 +67,6 @@ Nenurodyta
         puotą, arba gėrynę, jog jį Perūnas nuo tos nelaimės paglemžti^954 teikės, todėl šis, jam
         dėkavodamas, iš džiaugsmo pats su šeimyna besveikas lašinius suvalgęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

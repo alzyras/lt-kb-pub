@@ -20,20 +20,8 @@ Buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-0jo pulko
 - t-001
   global_id: t-40829
   teiginys: 'Į Vilnių buvo atskraidinti Pskovo 76-osios oro desanto divizijos 234-ojo pulko kariai su BMD-1 ir BMD-2 mašinomis.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius; mentioned_place: Vitebskas; mentioned_place: Šiauliai'
-  semantiniai_rysiai: '[[objektai/grupes/76-osios oro desanto divizijos 234-asis pulkas|76-osios oro desanto divizijos 234-asis pulkas]] siuntė į Vilnius; [[objektai/grupes/76-osios oro desanto divizijos 234-asis pulkas|76-osios oro desanto divizijos 234-asis pulkas]] keliavo į Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a16ada2c5e1803aa48861a2d0e34c58aa0020387050a1843d28494747a5020be; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Vilnius: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: 76-osios oro desanto divizijos 234-asis pulkas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad šio pulko kariai buvo atskraidinti į Vilnių.
 
 ## Reikšmingi paminėjimai
 
@@ -59,7 +47,6 @@ Buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-0jo pulko
     tinių lėktuvų 11-76, kurių vienas talpina iki
     145 desantininkų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

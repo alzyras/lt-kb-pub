@@ -20,8 +20,6 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
 - t-001
   global_id: t-42264
   teiginys: '9-ojo pulko batalionas turėjo iš Videniškio pulti Giedraičių kryptimi ir paremti 2-ojo pulko puolimą.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėją, veiksmą ir Videniškio vaidmenį puolimo plane.'
-  susije_objektai: 'mentioned_place: Giedraičiai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Tautų Sąjungos kontrolės komisija|Tautų Sąjungos kontrolės komisija]]; mentioned_place: Ukmergė; mentioned_place: Želva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/M. Butkievičiaus kavalerijos brigada.md#claim-t-41078|M. Butkievičiaus kavalerijos brigada]]: Plk. M. Butkievičiaus kavalerijos brigada prasiveržė į lietuvių užnugarį ir iki dienos pabaigos pasiekė Videniškio rajoną.
@@ -55,7 +53,6 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
     Sunkusis prancūziškas
     kulkosvaidis Hotchkiss.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

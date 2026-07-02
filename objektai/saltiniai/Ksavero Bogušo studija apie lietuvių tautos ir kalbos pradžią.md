@@ -21,16 +21,6 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 815810-816181; hash=198c8d27bedc1a4798a298eb76c2f578156160f2565dfbb2d308dfb99887161a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ksaveras Bogušas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ksavero Bogušo studija apie lietuvių tautos ir kalbos pradžią: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Ksaveras Bogušas: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ksavero Bogušo studija apie lietuvių tautos ir kalbos pradžią" parinktas kaip owner_note_path. Targetas "Ksaveras Bogušas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-190493"></a>
 - t-002
   global_id: t-190493
@@ -39,16 +29,6 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 816121-816451; hash=64e2cffea9439d174f2ba7b92e5fee78c8c0a2c42f9f56c6f30cbd68992dcefe; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ksaveras Bogušas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ksavero Bogušo studija apie lietuvių tautos ir kalbos pradžią: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Ksaveras Bogušas: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ksavero Bogušo studija apie lietuvių tautos ir kalbos pradžią" parinktas kaip owner_note_path. Targetas "Ksaveras Bogušas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -66,13 +46,10 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
     30
     Šių eilių proga negaliu neprisiminti tokio atsitikimo.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas rašo, kad pirmą kartą paėmęs Ksavero Bogušo studiją į rankas ypač susidomėjo joje pateiktomis eilėmis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -84,9 +61,7 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
     lietuviams, jie klausėsi su dideliu malonumu, sakydami, kad, jų iš­
     manymu, harmoningas žodžių skambesys perteiktas nuostabiai.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

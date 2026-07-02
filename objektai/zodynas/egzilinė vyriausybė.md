@@ -29,14 +29,6 @@ Iš pradžių penktame dešimtmetyje LDT stengėsi sudaryti Lietuvos tremties (e
 - t-001
   global_id: t-183418
   teiginys: 'Penktame dešimtmetyje Lietuvos diplomatinė tarnyba stengėsi sudaryti Lietuvos tremties, arba egzilinę, vyriausybę.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Santrumpą verta išplėsti, kad subjektas būtų aiškus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos diplomatinė tarnyba|Lietuvos diplomatinė tarnyba]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: iki 1940 m.; įvykio data: 1940 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Santrumpą verta išplėsti, kad subjektas būtų aiškus.'
   pagrindžia:
     - c-001
 
@@ -55,10 +47,8 @@ Iš pradžių penktame dešimtmetyje LDT stengėsi sudaryti Lietuvos tremties (e
     diplomatus, kurie diplomatinėje tarnyboje dirbo iki 1940 m. Lietuvos oku-
     pacijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

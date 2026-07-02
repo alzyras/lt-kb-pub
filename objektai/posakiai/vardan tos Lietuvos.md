@@ -32,19 +32,8 @@ Formulė pateikiama kaip patriotinė kovos ir ištvermės ašis, siejama su Vyta
 - t-001
   global_id: t-36022
   teiginys: 'Posakis „vardan tos Lietuvos“ siejamas su patriotizmu, praeities meile ir jėgomis kovoje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/tautinė sąmonė|tautinė sąmonė]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3bc3e66b35d2e65b94ee55f8a531f82e381baee37f9958aab82febed2e466d2c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> tautinė sąmonė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: vardan tos Lietuvos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: tautinė sąmonė: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "vardan tos Lietuvos" parinktas kaip owner_note_path. Targetas "tautinė sąmonė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -65,7 +54,6 @@ Formulė pateikiama kaip patriotinė kovos ir ištvermės ašis, siejama su Vyta
     da Jogaila nuėjo į Lenkiją jos karalium, o Lietuvą pasiliko val­
     dyti Vytautas?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -84,7 +72,6 @@ Formulė pateikiama kaip patriotinė kovos ir ištvermės ašis, siejama su Vyta
     voje „vardan tos Lietuvos“ visais laikais, kol bus žemėje lietu­
     vių tauta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -29,49 +29,15 @@ Bychovco kronikos rankraštis buvo aptiktas Aleksandro Bychovco Mogiliovcų dvar
 - t-001
   global_id: t-187262
   teiginys: 'Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klimaševskis aptiko Bychovco kronikos rankraštį.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pradinė formuluotė neenciklopedinė ir vartoja neaiškų kontekstinį žodį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ipolitas Klimaševskis|Ipolitas Klimaševskis]]; mentioned_place: Lietuva; llm_object: Mogiliovcai'
-  semantiniai_rysiai: '[[objektai/asmenys/Ipolitas Klimaševskis|Ipolitas Klimaševskis]] keliavo į Mogiliovcai'
-  temporaliniai_duomenys: 'įvykio data: iki 1830 m.; įvykio data: po 1446 m.; įvykio data: 1446 m.; įvykio data: 1506 m.; įvykio data: 1830 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė neenciklopedinė ir vartoja neaiškų kontekstinį žodį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e3012c3dc5cbdca4485641019eb6f8462a3795e635d99117c52eb0887df639e8; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: keliavo_i -> Mogiliovcai: 0.55
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Mogiliovcai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Rankraščio aptikimas Mogiliovcų dvaro bibliotekoje leidžia tik netiesiogiai sieti Klimaševskį su šia vieta.
 
 <a id="claim-t-187263"></a>
 - t-002
   global_id: t-187263
   teiginys: 'Iki 1830 m. Ipolitas Klimaševskis Bychovco kronikos rankraštį aptiko Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo rankraščio radėją, laiką ir Mogiliovcų dvaro biblioteką. Jis remiasi įvado informacija, todėl papildoma metraščio poleminė atribucija nereikalinga.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ipolitas Klimaševskis|Ipolitas Klimaševskis]]; mentioned_place: Lietuva; llm_object: Mogiliovcai'
-  semantiniai_rysiai: '[[objektai/asmenys/Ipolitas Klimaševskis|Ipolitas Klimaševskis]] keliavo į Mogiliovcai'
-  temporaliniai_duomenys: 'įvykio data: iki 1830 m.; įvykio data: po 1446 m.; įvykio data: 1446 m.; įvykio data: 1506 m.; įvykio data: 1830 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo rankraščio radėją, laiką ir Mogiliovcų dvaro biblioteką. Jis remiasi įvado informacija, todėl papildoma metraščio poleminė atribucija nereikalinga.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e3012c3dc5cbdca4485641019eb6f8462a3795e635d99117c52eb0887df639e8; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: keliavo_i -> Mogiliovcai: 0.55
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Mogiliovcai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Rankraščio aptikimas Mogiliovcų dvaro bibliotekoje leidžia tik netiesiogiai sieti Klimaševskį su šia vieta.
 - susijęs iš [[objektai/asmenys/Aleksandras Bychovcas.md#claim-t-186502|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]: Aleksandrui Bychovcui priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas Bychovco kronikos rankraštis.
 - susijęs iš [[objektai/asmenys/Ipolitas Klimaševskis.md#claim-t-186505|Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)]]: Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. aptikęs Bychovco kronikos rankraštį Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje.
 - susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186807|Bychovco kronikos rankraštis]]: Bychovco kronikos rankraštį prieš 1830 m. Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje aptiko Ipolitas Klimaševskis.
@@ -96,7 +62,6 @@ Bychovco kronikos rankraštis buvo aptiktas Aleksandro Bychovco Mogiliovcų dvar
     sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­
     niaus gimnazijos mokytojas Ipolitas Klimaševskis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

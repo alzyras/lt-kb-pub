@@ -27,8 +27,6 @@ Papildomos aiškios formos neišskirtos.
 - t-001
   global_id: t-70051
   teiginys: 'Žodis „stigavoja“ citatose vartojamas pasakų ir senovės raštininkų liudijimams nusakyti.'
-  sudarymo_pagrindimas: 'Citatos pagrindžia vartoseną, bet pradinė formuluotė per plati dėl gamtos būsenos.'
-  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-002
     - c-003
@@ -47,7 +45,6 @@ Papildomos aiškios formos neišskirtos.
   citata_originali: |
     Tokią būseną^21 jūros tame krašte, viena, stigavoja^22 daugybė jūrinių varlakaušių^23 , į akmenį pavirtusių, visur randamų, beje, ant kalvų, per 300 kurpių^24 aukštesnių už jūros paviršių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -59,7 +56,6 @@ Papildomos aiškios formos neišskirtos.
   citata_originali: |
     šiandien jau nebrasi, ką pačios pasakos, tarp žmonių tebesančios, stigavoja, kaipogi tebepasakoja: ten ežeras užrukęs, kitur po žeme palindęs, kitur nuo vienos vietos persikėlęs į kitą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -83,7 +79,6 @@ Papildomos aiškios formos neišskirtos.
       citata_originali: |
         jog svietas dar pasakomis minėjo, jog nuo Indijos kilimo buvo, jau nuo jų būdo, dabos ir tikybos, kuo būtinai indijonims pavėdavo^68 , kaip mums tą senovės raštininkai stigavoja^69.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -18,7 +18,6 @@ Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje t
 - t-001
   global_id: t-70215
   teiginys: 'Lėnas čia reiškia Ordino valdžiai pavaldžią feodalinę valdą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
 
@@ -26,8 +25,6 @@ Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje t
 - t-002
   global_id: t-70216
   teiginys: 'Vytautas pažadėjo valdyti savo tėviškę kaip Ordino lėną, jei Ordinas padėtų ją atgauti.'
-  sudarymo_pagrindimas: 'Reikia aiškiai įtraukti citatoje nurodytą sąlygą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
 
@@ -43,7 +40,6 @@ Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje t
     są savo tėviškę valdyti, kaip Ordino lėną, jei tik šis jam padėtų
     ją atgauti^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

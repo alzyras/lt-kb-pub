@@ -20,12 +20,8 @@ Be to, buvo keturi sidabriniai dubenys, užstatyti pas auksakalį Adomą a die 1
 - t-001
   global_id: t-87902
   teiginys: 'Auksakaliui Adomui nuo gegužės 16 d. iki rugpjūčio 18 d. buvo užstatyti keturi sidabriniai dubenys už 300 florinų.'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi kontekstinį junginį ir lotynišką datos fragmentą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 829278-829472; hash=2a6e9e269ad39ba5692d0663efec9a6a4fa57a07601065cc14b848be12e5f96e; match=whitespace_regex
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-187943|Adomas Stanislovas Naruševičius]]: Adomas Stanislovas Naruševičius šešių tomų veikalu „Lenkų tautos istorija“ pradėjo kritiškas praeities studijas.
 - susijęs iš [[objektai/daiktai/Akmeninė knyga.md#claim-t-59676|Akmeninė knyga]]: 1232 m. Tolede vienas žydas surado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais.
 - susijęs iš [[objektai/ivykiai/Tolede akmeninės knygos suradimas ir žydo krikštas (1232 m.).md#claim-t-91920|Tolede akmeninės knygos suradimas ir žydo krikštas (1232 m.)]]: 1232 m. Tolede žydas rado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais.
@@ -44,7 +40,6 @@ Be to, buvo keturi sidabriniai dubenys, užstatyti pas auksakalį Adomą a die 1
     žės 16 dienos iki rugpj. 18 dienos] už tris šimtus flor. Nuo to
     20 flor. palūkanų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -38,8 +38,6 @@ Nenurodyta
 - t-001
   global_id: t-08327
   teiginys: 'Neturtingieji rėjos duoboje pėrėsi, nes ant kakalio buvo sukrauta krosnis.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Įvardis išplėstas pagal objekto kontekstą, sakinys padarytas savarankiškas.'
   pagrindžia:
     - c-001
 
@@ -54,7 +52,6 @@ Nenurodyta
         žvaigždžinys^234 , keliaudamas po šiaurę, per penkis šimtus metų pirm gimimo Kristaus minavoja
         jau tą trobesį savo kelionės raštuose, kaipo stebuklingą ir negirdėtą daiktą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

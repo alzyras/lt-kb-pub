@@ -32,127 +32,43 @@ amziai:
 - t-001
   global_id: t-65304
   teiginys: 'Kazokai vijosi bėgantį priešą, įsiveržė į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus.'
-  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalintas neaiškus pradinis kontekstas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e2c4b8462b12c859d34f828c5a6513e25ff1d98e81bef0937e19bec78e58efca; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kražiai: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kazokai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kražiai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad kazokai šturmavo Kražių bažnyčią.
 
 <a id="claim-t-65305"></a>
 - t-002
   global_id: t-65305
   teiginys: 'Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą.'
-  sudarymo_pagrindimas: 'Originalas buvo fragmentiškas sąrašo elementas, todėl performuluotas į pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos totoriai|Lietuvos totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Dauguva; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Švedai|Švedai]]'
-  semantiniai_rysiai: '[[objektai/grupes/Kazokai|Kazokai]] puolė [[objektai/grupes/Švedai|Švedai]]'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f4b4952b488c9dbbfbdc2170d00b222346bcb0e1d50ea62af6e26fef7f26ae42; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaimas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazokai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Kaimas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazokai" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-65306"></a>
 - t-003
   global_id: t-65306
   teiginys: 'Ukrainos kazokų stovyklą pirmiausia atakavo janičarai, o po jų puolė turkų kavalerija.'
-  sudarymo_pagrindimas: 'Perrašyta glaudžiau ir pašalinta perteklinė skliaustinė detalė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Janičarai|Janičarai]]; llm_object: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Ukraina'
-  semantiniai_rysiai: '[[objektai/grupes/Janičarai|Janičarai]] puolė [[objektai/grupes/Kazokai|Kazokai]]'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=eed62762cb00045bb04c59ce4a871e775c62cb960f0227fa351c587183a37afd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Švedai: 0.52
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuvos totoriai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Lietuvos totoriai minimi tame pačiame sparne, kurio uždavinys buvo nublokšti švedus.
 
 <a id="claim-t-65307"></a>
 - t-004
   global_id: t-65307
   teiginys: '1906 m. pavasarį caro valdžia kazokų ir kariuomenės pastangomis atkūrė savo kiek pakoreguotą tvarką.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako caro valdžios veiksmą pasitelkiant kazokus ir kariuomenę.'
-  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1906 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako caro valdžios veiksmą pasitelkiant kazokus ir kariuomenę.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9e1f5b56b0936af7dfd89ac4008d05b8b279059da4b3b0e759489d2d2d44b8d2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kazokai: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Janičarai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kazokai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad janičarai atakavo Ukrainos kazokų stovyklą.
 
 <a id="claim-t-65308"></a>
 - t-005
   global_id: t-65308
   teiginys: '1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie kazokų veiksmus Kražiuose.'
-  susije_objektai: 'llm_object: Kražiai; llm_object: [[objektai/ivykiai/Kražių įvykiai|Kražių įvykiai]]; mentioned_event: [[objektai/ivykiai/Kražių įvykiai|Kražių įvykiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Kražių skerdynėmis“|„Kražių skerdynėmis“]]; mentioned_place: Europa; mentioned_place: Kražiai'
-  semantiniai_rysiai: '[[objektai/grupes/Kazokai|Kazokai]] puolė Kražiai; [[objektai/grupes/Kazokai|Kazokai]] dalyvavo mūšyje [[objektai/ivykiai/Kražių įvykiai|Kražių įvykiai]]'
-  temporaliniai_duomenys: 'įvykio data: 1893 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie kazokų veiksmus Kražiuose.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 470657-471353; hash=2ddf7b1cea85edcb194188ea2878ae1b5ce686b7bf30bfec86cf72c50ad5dca4; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> husarai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazokai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: husarai: mention_match, thing, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazokai" parinktas kaip owner_note_path. Targetas "husarai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-65309"></a>
 - t-006
   global_id: t-65309
   teiginys: 'Kazokai buvo lengvoji raitija, kurios paskirtis buvo paremti husarus mūšyje ir naikinti jų sumuštus eskadronus.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai apibūdina kazokų rūšį ir karinę paskirtį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Strėlės|Strėlės]]'
-  temporaliniai_duomenys: 'įvykio data: 1621 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai apibūdina kazokų rūšį ir karinę paskirtį.'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 472143-472406; hash=cca16cb29e90de828da53ccee48cd015ea392da603884db16ee175947f7874fb; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Artilerija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazokai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazokai" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Vilnius: 1655 m. liepą rusai ir jų sąjungininkai kazokai, sumušę lietuvius prie Ašmenos, priartėjo prie Vilniaus.
 - susijęs iš Ašmena: 1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.
 - susijęs iš Ašmena: 1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.
@@ -267,7 +183,6 @@ amziai:
     kę miestelio gyventojai. Buvo sužeistų ir užmuštų, išprievartautų mote-
     rų – liaudis tuos įvykius pavadino „Kražių skerdynėmis“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -283,7 +198,6 @@ amziai:
     Tačiau, slūgstant revoliucijos bangai, caro valdžia 1906 m. pavasarį ka-
     zokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -304,7 +218,6 @@ amziai:
     nublokšti švedus į šiaurėje esantį pelkėtą
     mišką ir ten juos sunaikinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -321,7 +234,6 @@ amziai:
     tis. LDK didysis etmonas pasiuntė ke-
     letą lengvosios kavalerijos - „lisovčikų“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -345,7 +257,6 @@ amziai:
 
     1621 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -365,7 +276,6 @@ amziai:
     nių pajėgų vadas liepė grįžti į savas | 4 rf
     pozicijas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -384,7 +294,6 @@ amziai:
     lus. Taip pat jie buvo įsiveržę ir į
     turkų stovyklą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

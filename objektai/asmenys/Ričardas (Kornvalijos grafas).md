@@ -30,23 +30,8 @@ Dusburgietis teigia, kad apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornva
 - t-001
   global_id: t-60426
   teiginys: '1256 m. Vokietijos valdovai nesutardami Romos karaliais išrinko Kastilijos karalių Alfonsą ir Kornvalijos grafą Ričardą.'
-  sudarymo_pagrindimas: 'Citata nurodo, kad buvo išrinkti du Romos karaliai nesantarvės metais.'
-  susije_objektai: 'mentioned_place: Anglija; mentioned_place: Vokietija'
-  temporaliniai_duomenys: 'įvykio data: 1256 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata nurodo, kad buvo išrinkti du Romos karaliai nesantarvės metais.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 708019-708439; hash=e2a73b50ddc5f4948b1d588cebe7932813e32a32d62920965e1390cac78645d2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ričardas (Kornvalijos grafas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Anglija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ričardas (Kornvalijos grafas)" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -64,11 +49,9 @@ Dusburgietis teigia, kad apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornva
 
                            40.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
     - t-002

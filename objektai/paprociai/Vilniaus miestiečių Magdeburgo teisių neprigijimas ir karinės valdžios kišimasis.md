@@ -43,20 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87289
   teiginys: 'Vilniaus Magdeburgo teisės buvo menkai paveikios dėl miestiečių nepripratimo, karo sumaišties ir karinės valdžios kišimosi į miesto valdymą.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir fragmentiškumas; teiginys tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 306112-306897; hash=34cc27894f5201910b2e1c1d5083e95a55201154e4c47c20eb39fcf1ac5d8742; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Magdeburgo teisės: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus miestiečių Magdeburgo teisių neprigijimas ir karinės valdžios kišimasis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Magdeburgo teisės: mention_match, thing, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus miestiečių Magdeburgo teisių neprigijimas ir karinės valdžios kišimasis" parinktas kaip owner_note_path. Targetas "Magdeburgo teisės" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -78,7 +66,6 @@ Nenurodyta
     mąsi į municipalinius valdymo reikalus. Paminėsime tad tik
     žymesnius įvykius, kurie dėjosi Vilniuje Vytauto laikais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -31,115 +31,43 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
 - t-001
   global_id: t-58391
   teiginys: '1317 m. vasarą apie birželio 24 d. maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo kariuomenę į keturias dalis.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą žygį ir kariuomenės padalijimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Hartmanas|Hartmanas]]; mentioned_place: Pilėnai; mentioned_place: Ragainė; mentioned_place: Semba; llm_object: Pagraudė'
-  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]] puolė Pagraudė; [[objektai/asmenys/Hartmanas|Hartmanas]] puolė Pagraudė'
-  temporaliniai_duomenys: 'įvykio data: 1317 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą žygį ir kariuomenės padalijimą.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 585234-585636; hash=63e0122ea0e1b375ab7549d7e803a94db0fd85e652fe9f8702deaba6aa4e10cd; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-58392"></a>
 - t-002
   global_id: t-58392
   teiginys: 'Pagraudės ieškota ir labiau į rytus, nors ji siejama su valsčiumi Žemaičių pietvakariuose ties Jūros upe.'
-  sudarymo_pagrindimas: 'Citata palaiko lokalizacijos neapibrėžtumą ir galimą vietą.'
-  susije_objektai: 'llm_object: Pagraudė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gedimino pilis'
-  semantiniai_rysiai: 'Gedimino pilis priklausė Pagraudė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 587602-588145; hash=683f3f1f69ca6f103dfc223cd0e98dc837424b0182eb1029e6aaf872e65b7dcc; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Pagraudė: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gedimino pilis (pilis): llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Pagraudė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Pastaba nurodo, kad Pagraudės valsčiuje buvo Gedimino pilis.
 
 <a id="claim-t-58393"></a>
 - t-003
   global_id: t-58393
   teiginys: 'Per žygį į Žemaitijos Pagraudės valsčių užpuolikas pasalomis nukovė beveik visus jį besivijusius raitelius, išskyrus šešis.'
-  sudarymo_pagrindimas: 'Pašalintas triukšmas ir suformuluotas aiškus faktas apie Pagraudę.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5a6fa5a22cd14f99fd7028182da4efa8871db8c02e3977cc05941a37395eadbe; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuva: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pagraudė: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Pagraudė tiesiogiai įvardyta kaip Lietuvos valsčius.
 
 <a id="claim-t-58394"></a>
 - t-004
   global_id: t-58394
   teiginys: 'Brolis Eberhardas su kariuomene staiga įsiveržė į Lietuvos Pagraudės valsčių ir degindamas bei plėšdamas nusiaubė didžiąją jo dalį.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Lietuva; llm_object: Pagraudė; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
-  semantiniai_rysiai: 'Pagraudė priklausė Lietuva; [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]] puolė Pagraudė; [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]] surengė žygį į Pagraudė'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=45088ca7186321129bfa4c3c70dce2615336e85535ca4ced53319cac3720676c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Pagraudė: 0.56
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Fridrichas Kvicas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Pagraudė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Fridrichas Kvicas su Hartmanu turėjo pulti Pagraudės valsčiaus kaimus, nors įsakymas liko neįvykdytas.
 
 <a id="claim-t-184189"></a>
 - t-005
   global_id: t-184189
   teiginys: 'Karas taip palaužė Pagraudės žmones, kad jie ilgus metus nebepajėgė suburti tiek raitelių, kiek galėjo anksčiau.'
-  teiginio_tipas: 'saltinio_teiginys'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatos turinį.'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 585177-585539; hash=23e8e610ae2a7dbe59e81ea36aee17ae766d05b45098f03541585b541f887d0f; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-185076"></a>
 - t-006
   global_id: t-185076
   teiginys: 'Sunaikinus Christmemelio įgulą, kryžiuočiai nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo su OCR triukšmu; citata remia konkretų faktą apie Pagraudę.'
-  susije_objektai: 'llm_object: Medininkai; llm_object: Pagraudė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]; mentioned_place: Medininkai'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] puolė Pagraudė'
-  temporaliniai_duomenys: 'įvykio data: 1316 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo su OCR triukšmu; citata remia konkretų faktą apie Pagraudę.'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 334341-334759; hash=391439d7222eecbf3ef47172543a5126fbd10b32d3e92497bcb246af1eea13e8; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Medininkai: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Medininkai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje Medininkai tiesiogiai įvardyti tarp kryžiuočių nusiaubtų valsčių.
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185490|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: 1316 m. pradžioje kryžiuočiai pasiuntė skirtingas kariaunas krašto niokoti ir nusiaubė Paštuvos, Medininkų bei Pagraudės valsčius.
 - susijęs iš Medininkų valsčius: 1316 m. kryžiuočiai nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje.md#claim-t-62892|Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje]]: Liudvikas iš Libencelės Pagraudės valsčiuje surengė pasalą ir nukovė visus jį vijusius raitelius, išskyrus šešis.
@@ -184,7 +112,6 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     reikšmę. Tad pats Pagraudės vardas reikštų vietą, teritoriją prie graudės ‘miško, girios’,
     t. y. Pa-miškę. Pa-girį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -201,7 +128,6 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     tiek raitelių, kiek galėjo anksčiau. Be to, jis patraukė  į valsčių, vardu Vaikiai545, kur
     — irgi iš pasalų — nukovė daug kilmingųjų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -221,7 +147,6 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį557 ant kalno, kur minėtasis
     grafas iš Hoinbergo bei daugybė kitų kilmingųjų buvo įšventinti  į riterius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -241,7 +166,6 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu
     apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -257,7 +181,6 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     šešis. Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti
     tiek raitelių, kiek galėjo anksčiau.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -278,7 +201,6 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     ir Sudargo šeimynai, nes netikėtai pasirodęs priešas
     paėmė į nelaisvę žmoną, sūnus ir visus šeimynykščius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

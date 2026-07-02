@@ -38,58 +38,22 @@ Nenurodyta
 - t-001
   global_id: t-89362
   teiginys: 'Pagudėnai pasidavė broliams po pasakojamo stebuklo ir nuolatinių brolių antpuolių, davę įkaitų ir priėmę tikėjimą.'
-  sudarymo_pagrindimas: 'Citata remia aiškesnį sakinį apie pagudėnų pasidavimo priežastis ir rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 258740-259362; hash=2a552cc3faa84fde83448f357fa8dee185c9904a963c478a33d28a498ad0cd9b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89363"></a>
 - t-002
   global_id: t-89363
   teiginys: 'Dusburgietis pasakoja, kad pagudėnų kariuomenė pabėgo pamačiusi lauką, pilną ginkluotų vyrų, panašių į Ordino brolius.'
-  sudarymo_pagrindimas: 'Tai autoriaus perteikiamas stebuklo aiškinimas, todėl tinka atsargi šaltinio atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 259188-259710; hash=b528e5d934ad73a797ec0d1e01ec16e46caa2e70e68490c3e19728f1cdb7bdd3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pagudėnai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Pagudėnai: mention_match, group, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas" parinktas kaip owner_note_path. Targetas "Pagudėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-89364"></a>
 - t-003
   global_id: t-89364
   teiginys: 'Elbingo broliai su nedidele ginklanešių palyda vijosi didelę prūsų kariuomenę, prisiplėšusią grobio jų valdomose apygardose.'
-  sudarymo_pagrindimas: 'Pašalinta perteklinė autorystės formulė ir sakinys sutrumpintas į aiškų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Elbingas; mentioned_place: Viena'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 259188-259710; hash=b528e5d934ad73a797ec0d1e01ec16e46caa2e70e68490c3e19728f1cdb7bdd3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pagudėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Pagudėnai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas" parinktas kaip owner_note_path. Targetas "Pagudėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -103,7 +67,6 @@ Nenurodyta
     matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė,
     davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -122,7 +85,6 @@ Nenurodyta
     nebuvę. Į tai jis tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių
     ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomenė leidosi bėgti“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

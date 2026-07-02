@@ -23,41 +23,15 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
 - t-001
   global_id: t-58650
   teiginys: 'Vartenbergas buvo Kulmo žemėje ant kalno, buvusiame ežero viduryje, stovėjusi pilis, kurioje gyveno broliai ir ginklanešiai.'
-  sudarymo_pagrindimas: 'Citata pagrindžia pilies vietą ir įgulą; pradinis teiginys per ilgas ir su antraštės triukšmu.'
-  susije_objektai: 'llm_object: Kulmas; mentioned_place: Kulmas; mentioned_place: Sūduva; mentioned_place: Viena'
-  semantiniai_rysiai: 'Vartenbergas priklausė Kulmas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=51d0197a7bf2013eefaf253a75e3d638d69229ee0c76484feb02564f53b20a20; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Kulmas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vartenbergas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai lokalizuoja Vartenbergą Kulmo žemėje.
 
 <a id="claim-t-58651"></a>
 - t-002
   global_id: t-58651
   teiginys: 'Sūduviai po ilgų antpuolių sudegino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia pilies sunaikinimą ir padarinius; pradinis teiginys per ilgas.'
-  susije_objektai: 'llm_object: Vartenbergas; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]'
-  semantiniai_rysiai: '[[objektai/grupes/Sūduviai|Sūduviai]] puolė Vartenbergas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 456519-456819; hash=bbd0779d499e162c460ab194d17e1b37874051d9169d49a8670f88898f89e488; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Vartenbergas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vartenbergas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Ilgi antpuoliai ir pilies sudeginimas tiesiogiai rodo Sūduvių puolimą prieš Vartenbergą.
 - susijęs iš [[objektai/ivykiai/Vartenbergo pilies užkariavimas.md#claim-t-62522|Vartenbergo pilies užkariavimas (pilis)]]: Sūduviai po ilgų antpuolių sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudydami du Ordino brolius su visa šeimyna.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175108|Sūduviai-jotvingiai]]: Sūduviai sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89233|Sūduviai]]: Sūduviai sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista.
@@ -89,7 +63,6 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
     užgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris  ir vaikus išsivarė  į
     nelaisvę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -109,7 +82,6 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
 
                      160 (155).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

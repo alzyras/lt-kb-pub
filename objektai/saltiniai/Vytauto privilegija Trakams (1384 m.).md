@@ -29,23 +29,8 @@ Vieno­ je Vytauto privilegijoje, suteiktoje Trakams, rašytoje pod lita Bożeho
 - t-001
   global_id: t-88504
   teiginys: '1384 m. Vytauto privilegija Trakams liudija, kad Trakai dar prieš Lietuvos krikštą buvo svarbus Lietuvos miestas.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Trakų reikšmę prieš krikščionybės įvedimą Lietuvoje.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1384 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia Trakų reikšmę prieš krikščionybės įvedimą Lietuvoje.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 134961-135729; hash=11a7f3a9fbb1d8643653f04f1eac1c134e685370bbac0833b7877292062d8ef4; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuva: 0.89
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Trakai: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai vadina Trakus Lietuvos miestu, todėl Trakai priskiriami Lietuvai.
 
 ## Reikšmingi paminėjimai
 
@@ -79,7 +64,6 @@ Vieno­ je Vytauto privilegijoje, suteiktoje Trakams, rašytoje pod lita Bożeho
     gamtos aplinkumoje stovėdamas, prie seniausių Lietuvos
     tvirtovių būtų priskirtas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

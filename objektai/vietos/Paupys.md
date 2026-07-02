@@ -27,24 +27,8 @@ Dejevo, į Paupį.
 - t-001
   global_id: t-38525
   teiginys: '1794 m. liepos 19 d. dalis rusų pajėgų prasiveržė ir užėmė Paupį bei Užupį.'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo per trumpas; citata palaiko konkretų faktą apie Paupį.'
-  susije_objektai: 'llm_object: Paupys; llm_object: Užupis; mentioned_place: Užupis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Rusai|Rusai]] užėmė Paupys'
-  temporaliniai_duomenys: 'įvykio data: 1794 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo per trumpas; citata palaiko konkretų faktą apie Paupį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 618399-618825; hash=e22eddbd3c88b0fa872c7cf997bffe3a25f5ed56ffb679c41e1678099fba3968; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Paupys: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Paupys: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad rusų pajėgoms pavyko užimti Paupį.
 
 ## Reikšmingi paminėjimai
 
@@ -65,7 +49,6 @@ Dejevo, į Paupį.
     tačiau daliai pavyko prasiveržti ir užimti
     Paupį bei Užupį, pastarasis buvo padegtas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

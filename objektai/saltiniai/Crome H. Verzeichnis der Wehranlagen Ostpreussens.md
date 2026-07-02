@@ -28,12 +28,8 @@ Dusburgietis teigia, kad crome H.
 - t-001
   global_id: t-61063
   teiginys: 'H. Crome darbas „Verzeichnis der Wehranlagen Ostpreussens“ publikuotas „Prussia“ leidinio tomuose 1938–1940 metais.'
-  sudarymo_pagrindimas: 'Citata yra bibliografinis įrašas, todėl galima suformuluoti faktą apie publikavimo vietą ir laiką.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 767787-768032; hash=8b3e2a4da9c1db6a0a351ccbc36fcc8613f2129bfc7c665f402625a4871ca9eb; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -45,7 +41,6 @@ Dusburgietis teigia, kad crome H.
     32, Teil 1 (1938), S. 173—209; Teil 2 (1939), S.. 297—324; Bd. 33, Heft 1—2 (1939),
     S. 268—289; Bd. 34 (1940), S. 83—145 (Zusätze und Berichtigungen, S. 146—149).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

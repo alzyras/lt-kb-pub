@@ -31,21 +31,8 @@ Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus š
 - t-001
   global_id: t-87881
   teiginys: 'Pastorius Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas Vilniuje netoli Žuvų turgaus.'
-  sudarymo_pagrindimas: 'Pradinis sakinys per platus; citata palaiko konkretų faktą apie Vendrichovskį.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Cvinglis|Cvinglis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vendrichovskis|Vendrichovskis]] gyveno Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 569878-570451; hash=ada899ee774e9046bea317ce067ce7076028169a4f4d620891181dcb49d3638f; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vilnius: 0.57
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vendrichovskis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas sieja Vendrichovskio ilgalaikę viešą veiklą su Vilniaus miesto centru.
 - susijęs iš Žuvų turgus Vilniuje (sujungti pirminiai pavadinimai Žuvų turgavietė; Žuvų turgus Vilniuje): Netoli Žuvų turgaus Vilniuje pastoriai Čechavičius ir Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas.
 - susijęs iš Žuvų turgus Vilniuje: Netoli Žuvų turgaus Vilniuje pastoriai Čechavičius ir Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas.
 - susijęs iš [[objektai/daiktai/Reformatų didieji maldos namai prie Šv. Mykolo bažnyčios.md#claim-t-87092|Reformatų didieji maldos namai prie Šv. Mykolo bažnyčios]]: Reformatų didieji maldos namai buvo išmūryti ties Šv. Mykolo bažnyčia Vilniuje.
@@ -75,7 +62,6 @@ Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus š
     šai tas apeigas vykdė, kol ties Šv. Mykolo bažnyčia buvo
     išmūryti didieji maldos namai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

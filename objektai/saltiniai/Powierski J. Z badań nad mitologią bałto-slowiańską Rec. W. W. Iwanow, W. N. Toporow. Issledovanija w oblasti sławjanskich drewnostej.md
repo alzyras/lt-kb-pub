@@ -26,15 +26,8 @@ Dusburgietis teigia, kad powierski J.
 - t-001
   global_id: t-61248
   teiginys: 'J. Powierskio recenzija apie W. W. Iwanowo ir W. N. Toporowo veikalą paskelbta 1977 m. žurnale „Slavia antiqua“.'
-  sudarymo_pagrindimas: 'Citata remia bibliografinį faktą, o pradinis teiginys neturi predikato.'
-  temporaliniai_duomenys: 'įvykio data: 1977 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata remia bibliografinį faktą, o pradinis teiginys neturi predikato.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 792897-793093; hash=ba4adfb29218851e78ac511d693cbd2d4071f4c1ab213610744eb6a701f8f84a; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -46,7 +39,6 @@ Dusburgietis teigia, kad powierski J.
     Toporow. Issledovanija w oblasti sławjanskich drewnostej.— Slavia antiqua, Warszawa—
     Poznań, 1977, t. 24, s. 305—316.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

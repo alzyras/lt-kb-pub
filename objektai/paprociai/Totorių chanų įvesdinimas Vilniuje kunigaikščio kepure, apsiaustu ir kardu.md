@@ -50,23 +50,8 @@ Nenurodyta
 - t-001
   global_id: t-87226
   teiginys: '1419 m. Vilniaus pilyje Vytautas didžiosios ordos chanu paskelbė Betsabutą, uždėdamas kepurę, apsiausdamas apsiaustu ir prisegdamas kardą.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai apibendrina citatoje aprašytą 1419 m. įvesdinimą.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Kerimberdėjus|Kerimberdėjus]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Smolenskas; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1419 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai apibendrina citatoje aprašytą 1419 m. įvesdinimą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 333849-335692; hash=613dc30048c63b16272439e8e45b470752e194586e0d1803b7d80e9b1541546d; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai mini Vytauto mūšius su totoriais.
 
 ## Reikšmingi paminėjimai
 
@@ -110,7 +95,6 @@ Nenurodyta
     maršalkos Radvilos, buvo išsiųstas į ordą, sėdo į tėvo sostą ir
     liko ištikimas Lietuvai bei paslaugus75 iki pat mirties.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

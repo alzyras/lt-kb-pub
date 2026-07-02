@@ -31,23 +31,8 @@ Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties me
 - t-001
   global_id: t-59049
   teiginys: 'Švento Jono ligoninės ordinas siejamas su 1104 m. popiežiaus Urbono II laikais.'
-  sudarymo_pagrindimas: 'Reikia pašalinti boilerplate formuluotę ir palikti aiškų faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Tamplierių ordinas|Tamplierių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]'
-  temporaliniai_duomenys: 'įvykio data: 1104 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia pašalinti boilerplate formuluotę ir palikti aiškų faktinį sakinį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cb949f1150f53d95db6742c554f1776da0fdfd37614f78135e93d0f91e6ca081; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Tamplierių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švento Jono ligoninės ordinas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Tamplierių ordinas: mention_match, group, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švento Jono ligoninės ordinas" parinktas kaip owner_note_path. Targetas "Tamplierių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88537|Cistersų ordinas]]: Cistersų ordinas kronikos chronologiniame sąraše siejamas su 1097 Viešpaties metais.
 - susijęs iš [[objektai/grupes/Kartūzų ordinas.md#claim-t-63007|Kartūzų ordinas]]: Kartūzų ordinas datuojamas 1082 metais, popiežiaus Viktoro III laikais.
 - susijęs iš [[objektai/grupes/Tamplierių ordinas.md#claim-t-89287|Tamplierių ordinas]]: Tamplierių ordinas siejamas su 1112 m. popiežiaus Paskalio II laikais, o 1312 m. kovo 23 d. popiežius Klemensas V jį panaikino Vieno suvažiavime.
@@ -69,7 +54,6 @@ Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties me
       Teutonų namų ordinas — 1190 viešpaties metais popiežiaus Celestino III ir imperatoriaus
     Henriko VI laikais (Dusb.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

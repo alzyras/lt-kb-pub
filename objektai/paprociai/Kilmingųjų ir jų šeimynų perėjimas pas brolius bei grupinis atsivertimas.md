@@ -49,9 +49,6 @@ Nenurodyta
 - t-001
   global_id: t-62131
   teiginys: 'Skalvos viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys pilnai perteikia citatoje aprašytą Skalvos viešpačių pasitraukimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Surdeta|Surdeta]]; mentioned_person: [[objektai/asmenys/Svisdeta|Svisdeta]]; mentioned_place: Skalva; mentioned_place: Skalvos žemė'
   pagrindžia:
     - c-001
 
@@ -71,7 +68,6 @@ Nenurodyta
     kad jų kariuomenės vadai, vadovavę jiems karo metais, yra pasitraukę, irgi pasidavė
     krikščionių tikėjimui. Šitaip visa ši žemė liko ilgiems metams be gyventojų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -98,7 +94,6 @@ Nenurodyta
 
           176 (171).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified

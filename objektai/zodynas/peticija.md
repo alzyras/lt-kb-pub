@@ -20,12 +20,8 @@ Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. pa
 - t-001
   global_id: t-70281
   teiginys: 'Rašant peticijas dėl lietuvių kalbos grąžinimo į mokyklas, konservatoriai dėjosi pritariantys lietuvių rūpesčiams.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir publicistinis; palikta aiški citatos remiama faktinė dalis.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=33eba30f375f3058e39192b961526ebf2d274ecd33fe3fae156d60cc6921aadc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -46,7 +42,6 @@ Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. pa
     josi pritarią tiems lietuvių rūpesčiams, o iš tikro parlamente lie-
     tuvių reikalų neužtardavo nė vienu žodžiu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

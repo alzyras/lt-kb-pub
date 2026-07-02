@@ -29,15 +29,8 @@ amziai:
 - t-001
   global_id: t-02165
   teiginys: 'Laikraštis 1892–1894 m. ėjo „Garso“ vardu, o 1894–1899 m. jį leido dešimties kunigų bendrovė.'
-  sudarymo_pagrindimas: 'Perrašyta sklandžiau, pašalinant santrumpas ir išlaikant citatos faktus.'
-  temporaliniai_duomenys: 'įvykio data: 1892-1894; įvykio data: 1894 m.; įvykio data: 1894-1899; įvykio data: 1899 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Perrašyta sklandžiau, pašalinant santrumpas ir išlaikant citatos faktus.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a44ff7bc5473b1675dfbcd2967e9e66844c05027b64e992f049896ec918a1d2c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -54,7 +47,6 @@ amziai:
     ninių, tridieninių ir savaitinių; kiti — dvisavaitiniai ir mėne-
     siniai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

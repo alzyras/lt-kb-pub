@@ -23,20 +23,8 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
 - t-001
   global_id: t-86577
   teiginys: 'Vidivarijų vardas, Jornandeso duotas tautai prie Vyslos žiočių, aiškintas kaip įvairių tautų sambūrio nomen sociale.'
-  sudarymo_pagrindimas: 'Citata palaiko aiškinimą, kad tai bendruomenės, o ne vienos giminės vardas.'
-  susije_objektai: 'mentioned_place: Vysla; mentioned_author: [[objektai/autoriai/Thunmanas|Thunmanas]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vidivarii|Vidivarii]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Gardinas; mentioned_place: Vilija; mentioned_place: Vilniaus gubernija; mentioned_place: Vilnius; llm_object: Vysla'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=dc860b9b062ebdb222d6e9f803d50cd20effcc812cb78e1d785693a6ecb40a8e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vysla: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vidivarii: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vysla: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vardas aiškinamas kaip tautos, buvusios prie Vyslos žiočių, pavadinimas.
 
 ## Reikšmingi paminėjimai
 
@@ -69,7 +57,6 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
     vardas], koks yra frankų pavadini­
     mas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

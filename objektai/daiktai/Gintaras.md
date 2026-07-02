@@ -38,12 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-08290
   teiginys: 'Aukojant dievams degindavo gintarus kartu su kitomis aukojimo medžiagomis.'
-  teiginio_tipas: 'faktas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 225965-226449; hash=486e9acf8a970ac5e15e91d624b941a5604a5de6768acbb7a58744bbd752a40a; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/autoriai/Kassiodoras.md#claim-t-30755|Kassiodoras]]: Kassiodoras, ostgotų karaliaus Teodoriko aukštas valdininkas, savo raštuose pateikė Teodoriko padėkos laišką aisčiams už gintaro dovanas.
 - susijęs iš [[objektai/autoriai/Plinius C. Secundus.md#claim-t-64820|Plinius C. Secundus]]: Plinijus Vyresnysis pateikė žinių apie Nerono laikais surengtą žygį, iš kurio romėnų raitelis parvežė daug gintaro.
 - susijęs iš [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale).md#claim-t-63356|Tacitas (romėnų rašytojas, I amžiaus gale)]]: Tacitas veikale „Germania“ aisčiams paskyrė skyrelį ir trumpai aprašė jų gyvenimą, tikybą bei gintarą.
@@ -80,7 +76,6 @@ Nenurodyta
         gintarus, mirą ir kitus kvepiančius daiktus ir melsdamos; ant kurių visados amžina ugnis kūrinos,
         kasant juos, šiandien dar randamos tenai supuvusios ir sutrynėjusios^841 anglys tą stigavoja.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

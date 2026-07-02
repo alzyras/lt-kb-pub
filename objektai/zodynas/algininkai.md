@@ -19,89 +19,29 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
 - t-001
   global_id: t-185363
   teiginys: 'Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algininkus įgulos tarnybai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas, paliktas citatos remiamas faktas apie algininkų samdymą.'
-  susije_objektai: 'mentioned_place: Teodosija (Kafa)'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 901892-902359; hash=be30ba39c014eb73b9c0954a27535963110eb968d7e63dcc12e42f73028acdd3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Teodosija (Kafa): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: algininkai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Teodosija (Kafa): mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "algininkai" parinktas kaip owner_note_path. Targetas "Teodosija (Kafa)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185364"></a>
 - t-002
   global_id: t-185364
   teiginys: 'Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstančius algininkų, didikų kariaunas ir karališkąsias vėliavas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Perrašyta aiškiau susiejant veiksmą su Minsko puolimu ir algininkais.'
-  susije_objektai: 'llm_object: Minskas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Minskas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1068547-1069274; hash=f138cdabfcc7ac41d713e80a40764f4974ba1e8d8989f9a4edac33bc04a7bb6d; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Minskas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Minskas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje Maskvėnų pulkai kartu su Glinskiu tiesiogiai įvardyti kaip puolę Minską.
 
 <a id="claim-t-185365"></a>
 - t-003
   global_id: t-185365
   teiginys: 'Prieš mūšį algininkai įsitvirtino rikiuotės priekyje, kai Konstantinas stojo dešiniajame, o Mikalojus Kameneckis kairiajame sparne.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata remia algininkų vietą kariuomenės rikiuotėje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1096930-1097388; hash=274dba07345abef8a2c40118424e63a4dda3b8b8e8ff032e2924c92c3a40fb3f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konstantinas (Karijotaitis): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: algininkai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Konstantinas (Karijotaitis): mention_match, person, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "algininkai" parinktas kaip owner_note_path. Targetas "Konstantinas (Karijotaitis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187517"></a>
 - t-004
   global_id: t-187517
   teiginys: 'Aleksandras Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą išsiuntė dvarionis ir nemaža vengrų algininkų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas titulas, o sakinio branduolys paliktas apie algininkų išsiuntimą į pagalbą. Nepridėta totorių persekiojimo ir platesnės antraštės informacijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/zodynas/dvarionis|dvarionis]]; mentioned_place: Bobruiskas; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Perekopas; mentioned_place: Podolė; mentioned_place: Pripetė; mentioned_place: Sluckas; llm_object: Naugardukas; llm_object: Sluckas'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 282237-282933; hash=a6ea472be431b5864e1aa692f502654b3f9c123710462fca4b02ae2ff07df1e2; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Naugardukas: 0.79
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Antraštė tiesiogiai mini totorių siautėjimą Naugarduko krašte.
 
 ## Reikšmingi paminėjimai
 
@@ -123,14 +63,11 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
     k ijo je
     algininkų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstančius algininkų, didikų kariaunas ir karališkąsias vėliavas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -150,14 +87,11 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
     damas stoti į atvirą kovą veikiausiai dėl to, kad turė­
     jo per mažai karių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Prieš mūšį algininkai įsitvirtino rikiuotės priekyje, kai Konstantinas stojo dešiniajame, o Mikalojus Kameneckis kairiajame sparne.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -173,14 +107,11 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
     remti pavojaus. Vyriausiuoju karvedžiu paliko Lanc-
     koronskį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
-
 - c-004
   santrauka: 'Aleksandras Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą išsiuntė dvarionis ir nemaža vengrų algininkų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -200,10 +131,8 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
     už šešių mylių nuo Bobruisko 4 , prie Lizos 5  upės; buvo
     jų tik pusantro šimto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-004

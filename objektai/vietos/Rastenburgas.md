@@ -42,11 +42,6 @@ amziai:
 - t-001
   global_id: t-69145
   teiginys: 'Rastenburgo pilis buvo įkurta 1345 m.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys, o citata nurodo Rastenburgo pilies įkūrimo datą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Alenšteinas; mentioned_place: Angerburgas; mentioned_place: Girdava; mentioned_place: Johanisburgas; mentioned_place: Klaipėda; mentioned_place: Lietuva; mentioned_place: Lotzenburgas; mentioned_place: Ortelsburgas; mentioned_place: Ragainė; mentioned_place: Röselis; mentioned_place: Tilžė; mentioned_place: Vėluva; mentioned_place: Įsrutis'
-  temporaliniai_duomenys: 'įvykio data: 1252 m.; įvykio data: 1289 m.; įvykio data: 1293 m.; įvykio data: 1325 m.; įvykio data: 1335 m.; įvykio data: 1337 m.; įvykio data: 1340 m.; įvykio data: apie 1340 m.; įvykio data: 1345 m.; įvykio data: 1353 m.; įvykio data: 1395 m.; įvykio data: 1398 m.; įvykio data: 1435 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys, o citata nurodo Rastenburgo pilies įkūrimo datą.'
   pagrindžia:
     - c-001
 
@@ -54,11 +49,6 @@ amziai:
 - t-002
   global_id: t-185122
   teiginys: 'Veliuonoje pasilikęs karalius medžiodamas vos išvengė Rastenburgo komtūro surengtų kryžiuočių pasalų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Perrašyta sklandžiau, aiškiau susiejant pasalas su Rastenburgo komtūru.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Veliuona; mentioned_place: Viena'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184508|Kryžiuočių ordinas]]: Medžiodamas prie Veliuonos karalius vos nepakliuvo į kryžiuočių pasalą, kurią surengė Rastenburgo komtūras.
@@ -88,7 +78,6 @@ amziai:
     - Kaip matome, Į pietus nuo Ragainės, be vėlyvos Lykos pilaitės, nebuvo
         jokios ordino pilies.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,7 +104,6 @@ amziai:
     tinkamoje vietoje. Po to ir viena, ir kita šalis puldinėjo
     ir siaubė viską, kas pakliuvo po ranka.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

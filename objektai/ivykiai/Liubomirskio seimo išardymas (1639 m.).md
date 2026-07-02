@@ -40,9 +40,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 718065-718308; hash=d02f50007a84eff03d10f1b0d9db8433dbe8d2fca92c64541b194d5a86d0f3e4; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -54,9 +51,7 @@ Nenurodyta
     Ir štai 1639 m. Liubomirskis, o 1652 m. Čičinskas pasisakė nesutinką
     pratęsti seimui laiko, ir seimai išsiskirstė.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -51,23 +51,8 @@ Nenurodyta
 - t-001
   global_id: t-39240
   teiginys: 'Japoniškas 30 modelio Arisaka šautuvas buvo 1897 m. modelio ginklas, kurio šovinys buvo 6,5x50 mm SR, o dėtuvėje tilpo 5 šoviniai.'
-  sudarymo_pagrindimas: 'Pradinė formuluotė sujungia nesuderintus fragmentus ir turi prieštaringą svorio duomenį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1897 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė sujungia nesuderintus fragmentus ir turi prieštaringą svorio duomenį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 737731-738027; hash=fbbb34859664ad86d4569e20781328cdf3a5df576b2f3d303e02d9681ddae431; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Šautuvai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Arisaka 30 modelio šautuvas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Šautuvai: mention_match, thing, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Arisaka 30 modelio šautuvas" parinktas kaip owner_note_path. Targetas "Šautuvai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -82,7 +67,6 @@ Nenurodyta
 
     Dešinioji kolona (vadas - karin.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

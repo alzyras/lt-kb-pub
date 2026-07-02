@@ -36,11 +36,6 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
 - t-001
   global_id: t-64799
   teiginys: 'P. Šležas 1937 m. leidinyje „Naujoji Romuva“ paskelbė straipsnį „Lietuvos krikštas“.'
-  sudarymo_pagrindimas: 'Citata pateikia autoriaus, straipsnio, leidinio ir metų duomenis.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]'
-  temporaliniai_duomenys: 'įvykio data: 1937 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pateikia autoriaus, straipsnio, leidinio ir metų duomenis.'
   pagrindžia:
     - c-003
 
@@ -48,11 +43,6 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
 - t-002
   global_id: t-64800
   teiginys: 'P. Šležas 1930 m. redagavo kolektyvinę monografiją apie Vytautą Didįjį.'
-  sudarymo_pagrindimas: 'Citata aiškiai sieja Šležą su 1930 m. kolektyvinės monografijos redagavimu.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1930 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata aiškiai sieja Šležą su 1930 m. kolektyvinės monografijos redagavimu.'
   pagrindžia:
     - c-002
 
@@ -60,7 +50,6 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
 - t-003
   global_id: t-64801
   teiginys: 'Turinyje P. Šležui priskiriami skyriai „Vytauto santykiai su Lenkija“ ir „Vytauto konfliktas su Lenkija dėl karūnacijos“.'
-  susije_objektai: 'mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/P. Klimas.md#claim-t-00063|P. Klimas]]: P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą.
@@ -79,7 +68,6 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
     P. Šležas. Vytauto santykiai su Lenkija ....................... 141
     P. Šležas. Vytauto konfliktas su Lenkija dėl karūnacijos ............. 205
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -103,7 +91,6 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
     Navakienė, V. Trumpa). Lietuvos istorikų eiles papildė užsienyje
     iš Lietuvos istorijos savo disertacijas rašiusieji (M. Krasauskaitė,
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -120,7 +107,6 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
     ker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f. Kirchenge-
     schichte, t. 10, 1928, 357-368 p.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

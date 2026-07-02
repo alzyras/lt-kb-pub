@@ -21,8 +21,6 @@ tags:
 - t-001
   global_id: t-31267
   teiginys: 'Istorijos priešaušryje lietgalių žemėse turėjo būti gana daug atskirų sričių kunigų.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie lietgalių žemėse buvusius sričių kunigus.'
-  susije_objektai: 'mentioned_place: Prūsų žemė'
   pagrindžia:
     - c-002
 
@@ -30,20 +28,8 @@ tags:
 - t-002
   global_id: t-31268
   teiginys: 'Net tarp vienkiemius mėgusių lietgalių rasta kuopinių kaimų.'
-  sudarymo_pagrindimas: 'Rewrite failed deterministic gates: missing_factual_predicate'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a1ac941cc332915e82ed0a0cbac0d30149b3d3782d062e2565ffa1e36ae3090b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsų žemė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietgaliai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietgaliai" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178775|Jotvingiai]]: Pagal XIII a. duomenis Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-184328|Kuršiai]]: Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65556|Kuršiai]]: Istorijos priešaušryje kuršių žemėse turėjo būti gana daug atskirų sričių kunigų, atlikdavusių aukojimus.
@@ -66,7 +52,6 @@ tags:
     kydavo lietuvių gyvenamų viensėdžių sodybų, tačiau kaiminės
     sodybos dominavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -81,7 +66,6 @@ tags:
     drauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž.
     dalis jų yra žinoma ir vardais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -96,7 +80,6 @@ tags:
     plotus. Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais. Net ir
     pas vienkiemius pamėgusius lietgalius yra atrasta kuopinių kaimų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

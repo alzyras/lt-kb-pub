@@ -33,11 +33,6 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
 - t-001
   global_id: t-00045
   teiginys: 'K. Duonelaitis vadintas didžiuoju Mažosios Lietuvos poetu ir skundėsi, kad kolonistai kraštą užkrėtė nedorybėmis.'
-  sudarymo_pagrindimas: 'Reikia faktinio predikato apie asmenį, ne tik įvardijimo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1780 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia faktinio predikato apie asmenį, ne tik įvardijimo.'
   pagrindžia:
     - c-002
 
@@ -45,8 +40,6 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
 - t-002
   global_id: t-00047
   teiginys: 'Spaudos draudimo metu Amerikoje buvo išleisti K. Duonelaičio ir kitų žymesniųjų lietuvių autorių raštai.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie raštų išleidimą, bet pradinė formuluotė per silpna.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]'
   pagrindžia:
     - c-001
 
@@ -63,7 +56,6 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
     Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)
     raštų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -79,7 +71,6 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
     džiasi, kad kolonistai užkrėtę kraštą visokiomis nedorybėmis, ir
     ragina lietuvius su jais nesusidėti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

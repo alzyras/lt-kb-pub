@@ -39,23 +39,8 @@ Nenurodyta
 - t-001
   global_id: t-01747
   teiginys: '1654–1655 m. Lietuvą užpuolė Maskva ir Švedai.'
-  sudarymo_pagrindimas: 'Pašalinta neaiški įvardžio nuoroda ir paliktas citatos palaikomas faktas apie įvykį.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Atskiri Lietuvos seimai|Atskiri Lietuvos seimai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
-  temporaliniai_duomenys: 'įvykio data: 1654-1655; įvykio data: 1655 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalinta neaiški įvardžio nuoroda ir paliktas citatos palaikomas faktas apie įvykį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6482dde0998854adf1d680063f54abb382d8e8c5f05ff6384e83d0dc91c89cdc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Lietuva: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad Švedai kartu su Maskva užpuolė Lietuvą.
 
 ## Reikšmingi paminėjimai
 
@@ -69,7 +54,6 @@ Nenurodyta
     1654—5 m., ją užpuolus Maskvai su Švedais), bet pagaliau jie
     visiškai išnyko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

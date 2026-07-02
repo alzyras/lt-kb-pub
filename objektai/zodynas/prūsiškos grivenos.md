@@ -28,23 +28,8 @@ Tų anuomet garsių vaišių parengi­ mas ir žygio išlaidos, pasak kai kurių
 - t-001
   global_id: t-86612
   teiginys: '1392 m. Kauno iškilmių parengimas ir žygio išlaidos, pasak metraštininkų, siekė beveik 500 000 prūsiškų grivenų.'
-  sudarymo_pagrindimas: 'Citata palaiko skaitinį faktą, o OCR klaidos pašalintos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Škotai|Škotai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/posakiai/pasak kai kurių|pasak kai kurių]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1392 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko skaitinį faktą, o OCR klaidos pašalintos.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 288609-289843; hash=9e861dd3ba208dc53f5f18ff95023c12c6cfef7ce6e0ee9f37dd2a4ee8ad986d; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Anglai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: prūsiškos grivenos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Anglai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "prūsiškos grivenos" parinktas kaip owner_note_path. Targetas "Anglai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -78,7 +63,6 @@ Tų anuomet garsių vaišių parengi­ mas ir žygio išlaidos, pasak kai kurių
     mas ir žygio išlaidos, pasak kai kurių metraštininkų, siekė maž­
     ne penkiskart po šimtą tūkstančių prūsiškų grive'nų42.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

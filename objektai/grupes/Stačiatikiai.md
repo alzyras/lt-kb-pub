@@ -38,9 +38,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - t-001
   global_id: t-182592
   teiginys: 'Gedimino laikais Vilniaus „rusėnų pusėje“ stovėjo cerkvės, o Algirdas toleravo stačiatikybę, kai ji neprieštaravo valdovo interesams.'
-  sudarymo_pagrindimas: 'Sakinys aiškiai nusako stačiatikių padėtį ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] rėmė [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; [[objektai/grupes/Stačiatikiai|Stačiatikiai]] gyveno Vilnius'
   pagrindžia:
     - c-003
 
@@ -48,8 +45,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - t-002
   global_id: t-182593
   teiginys: 'Bajoriškoji santvarka leido šalia katalikų egzistuoti stačiatikiams ir kitoms etnokonfesinėms bendrijoms.'
-  sudarymo_pagrindimas: 'Pirminis teiginys yra nutrūkęs ir apkrautas šalutine informacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/Liberum veto|Liberum veto]]; mentioned_object: [[objektai/posakiai/„tvanas“|„tvanas“]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Švedija'
   pagrindžia:
     - c-002
 
@@ -57,11 +52,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - t-003
   global_id: t-182594
   teiginys: 'Apie 1500 m. LDK veikė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.'
-  sudarymo_pagrindimas: 'Pirminis teiginys nepagrįstas citata, todėl pakeistas citatos palaikomu faktu apie stačiatikius.'
-  susije_objektai: 'mentioned_place: Kijevas; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_place: Lenkija; mentioned_place: Naugardukas'
-  temporaliniai_duomenys: 'įvykio data: po 1387 m.; įvykio data: 1387 m.; įvykio data: 1500 m.; įvykio data: apie 1500 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Pirminis teiginys nepagrįstas citata, todėl pakeistas citatos palaikomu faktu apie stačiatikius.'
   pagrindžia:
     - c-004
 
@@ -69,15 +59,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - t-004
   global_id: t-183185
   teiginys: '1418 m. Vytautas į Konstancą pasiuntė G. Camblako stačiatikių delegaciją, turėjusią pagrįsti unijos su Katalikų bažnyčia siekį.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pirminis tekstas yra sakinio fragmentas be aiškaus veiksnio.'
-  susije_objektai: 'llm_object: Konstanca; mentioned_group: [[objektai/grupes/Katalikų Bažnyčia|Katalikų Bažnyčia]]; mentioned_author: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstanca'
-  semantiniai_rysiai: '[[objektai/grupes/Stačiatikiai|Stačiatikiai]] keliavo į Konstanca'
-  temporaliniai_duomenys: 'įvykio data: 1413 m.; įvykio data: 1418 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pirminis tekstas yra sakinio fragmentas be aiškaus veiksnio.'
   pagrindžia:
     - c-005
 
@@ -85,10 +66,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - t-005
   global_id: t-184225
   teiginys: 'Katalikams buvo draudžiamos mišrios vedybos su stačiatikiais, o nekatalikiškai pusei tokiose santuokose liepta priimti katalikybę.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176309|Algirdas (Lietuvos valdovas)]]: Abi Algirdo žmonos ir pirmosios žmonos vaikai buvo stačiatikių tikėjimo.
@@ -321,7 +298,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
     jiems nesuteikta jokių teisių ir privilegijų. Tas sulaikė stačia­
     tikybės plitimą ir jos vietoje į rytus plito katalikų tikėjimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -349,7 +325,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
     vazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo
     Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -367,7 +342,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
     se, kūrė valdovo raštinę. Vienuolynuose rašoma bulgarų kilmės slavų
     bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -388,7 +362,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
     kurios stačiatikių svoris nulėmė, kad bent jau bažnytinės unijos įgyvendini-
     mo klausimu LDK, o ne Lenkija buvo aktualiausia erdvė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -403,7 +376,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
     Konstancą jau minėtą G. Camblako stačiatikių delegaciją, turėjusią pa-
     grįsti siekį gyventi unijoje su Katalikų bažnyčia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

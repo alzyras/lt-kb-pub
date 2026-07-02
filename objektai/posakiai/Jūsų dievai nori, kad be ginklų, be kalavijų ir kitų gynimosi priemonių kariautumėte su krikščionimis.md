@@ -21,8 +21,6 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
 - t-001
   global_id: t-89590
   teiginys: 'Krikščionys pavijo ir išžudė neginkluotą kariuomenę, o sūduviai ir kitos kaimyninės gentys įsibrovė į Galindą.'
-  sudarymo_pagrindimas: 'Citata remia glaustesnį, gramatinį konteksto teiginį.'
-  susije_objektai: 'llm_object: Galinda; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Galinda; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]'
   pagrindžia:
     - c-001
 
@@ -30,20 +28,8 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
 - t-002
   global_id: t-89591
   teiginys: 'Pabėgę belaisviai krikščionims pranešė, kad netikėlių kariuomenė neturėjo ginklų ir kitų gynimosi priemonių.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata remia aiškią faktinę mintį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Galinda'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 208929-209548; hash=0bd5c086339f22b767af62be776680bc4c073203289a53b66c5054be8066b6cd; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Galinda: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Galinda: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad sūduviai įsibrovė į Galindos žemę.
 
 ## Reikšmingi paminėjimai
 
@@ -59,7 +45,6 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
     ir išsivarė  į amžiną vergovę moteris, vaikus bei kitus likusius. Šitaip toji žemė po šiai
     dienai paliko nusiaubta203.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

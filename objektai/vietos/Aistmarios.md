@@ -32,12 +32,6 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
 - t-001
   global_id: t-97718
   teiginys: 'Sembos žemėje, Aistmarių pakrantėje, stovėjo pilis beveik priešais Brandenburgo pilį.'
-  sudarymo_pagrindimas: 'Citata leidžia patikimai teigti tik pilies vietą; asmenų įvardijimui trūksta aiškaus konteksto.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kulmas; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Viena; llm_object: Semba'
-  semantiniai_rysiai: 'Aistmarios priklausė Semba'
-  temporaliniai_duomenys: 'įvykio data: 1267 m.; įvykio data: po 1273 m.; įvykio data: 1273 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia patikimai teigti tik pilies vietą; asmenų įvardijimui trūksta aiškaus konteksto.'
   pagrindžia:
     - c-002
 
@@ -45,11 +39,6 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
 - t-002
   global_id: t-97721
   teiginys: 'Hermano Wartberges kronikoje aprašyta siena Priegliumi turėjo eiti iki Aistmarių.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir su neaiškia nuoroda; citata palaiko glaustesnį faktą apie Aistmares.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Prieglius'
-  temporaliniai_duomenys: 'įvykio data: 1351 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir su neaiškia nuoroda; citata palaiko glaustesnį faktą apie Aistmares.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Steinavas.md#claim-t-184128|Steinavas]]: Steinavas nuvyko pas Karaliaučiaus komtūrą, išdavė Glapo paslaptį ir patarė komtūrui žygiuoti drauge su juo.
@@ -87,7 +76,6 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
     krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki
     Aistmarių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -106,7 +94,6 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
       409 Konradas Vyresnysis  iš Tirbergo (Frankonija), 1267 m.— Santyro, vėliau —
     Kristburgo, Kulmo komtūras, nuo 1273 m.— Prūsijos krašto magistras.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -21,42 +21,15 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
 - t-001
   global_id: t-20092
   teiginys: 'Vyšnioveckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.'
-  sudarymo_pagrindimas: 'Pašalinta neaiški nuoroda ir suformuluotas sakinys apie objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Alšėnų kunigaikščiai|Alšėnų kunigaikščiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Alšėnai; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 64837-65368; hash=296b3667ad5c4da7ae5d8c7dc17d62734aefd796ccac7303c0194f37a634523c; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alšėnų kunigaikščiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vyšnioveckiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Alšėnų kunigaikščiai: mention_match, group, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vyšnioveckiai" parinktas kaip owner_note_path. Targetas "Alšėnų kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183201"></a>
 - t-002
   global_id: t-183201
   teiginys: 'Vyšnioveckiai buvo viena iš garsių vėlesnių laikų LDK giminių, kilusių iš periferinių sritinių žemių kunigaikščių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sakinys pritaikytas konkrečiai giminei ir pašalintas perteklinis sąrašas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Alšėnų kunigaikščiai|Alšėnų kunigaikščiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Alšėnai; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 64837-65368; hash=296b3667ad5c4da7ae5d8c7dc17d62734aefd796ccac7303c0194f37a634523c; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alšėnų kunigaikščiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vyšnioveckiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Alšėnų kunigaikščiai: mention_match, group, gap=101
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vyšnioveckiai" parinktas kaip owner_note_path. Targetas "Alšėnų kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Vyšnivecis: Vyšnivecis buvo viena iš Vyšnioveckių tėvonijų Voluinėje.
 - susijęs iš Vyšnivecis: Vyšnivecis buvo viena iš Vyšnioveckių tėvonijų Voluinėje.
 - susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-70368|tėvonija tėvų palikimas]]: Voluinėje tėvonijas sukūrė Sanguškos, Čartoriskiai, Vyšnioveckiai ir kitos Gediminaičių šakos.
@@ -92,7 +65,6 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
     gaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,
     Alšėnų kunigaikščiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

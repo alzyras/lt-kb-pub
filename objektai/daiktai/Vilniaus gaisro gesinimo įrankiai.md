@@ -48,23 +48,8 @@ Nenurodyta
 - t-001
   global_id: t-54730
   teiginys: '1524 m. karalius priekaištavo Vilniaus magistratui, kad miestas neturi gaisrui gesinti odinių kibirų, kirvių ir kablių.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai remiasi citatoje išvardytais gaisro gesinimo įrankiais.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1524 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai remiasi citatoje išvardytais gaisro gesinimo įrankiais.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 607632-608014; hash=0ef97c12e48f098bea2fd99601efd034577d4b335fc65a7765473425d05d7432; match=whitespace_regex
-  sprendimo_priezastis: gap::items
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus gaisro gesinimo įrankiai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus gaisro gesinimo įrankiai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/Laivo pavidalo akmens kirviai.md#claim-t-71566|Laivo pavidalo akmens kirviai]]: Laivo pavidalo akmens kirviai su skyle kotui įstatyti išskiriami kaip būdingas neolito įrankis.
 - susijęs iš [[objektai/daiktai/Ūkio įrankiai.md#claim-t-08360|Ūkio įrankiai]]: Įrankius jie patys sau kalė ir gaminosi be svetimo meistro, o šiame sąraše tiesiogiai minimi grąžtai, kaltai, Strūnos, skaptai, skrytulės, kirviai ir skliutai.
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172805|Vilniaus magistratas]]: 1524 m. karalius priekaištavo Vilniaus magistratui dėl nesutarimų su bendruomene ir nubaudė jį šimto kapų grašių bauda.
@@ -95,7 +80,6 @@ Nenurodyta
     Kad trukdo skųstis karaliui.
     Už visa tai karalius baudžia šimto kapų grašių bauda.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

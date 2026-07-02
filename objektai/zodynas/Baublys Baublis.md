@@ -21,16 +21,6 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 408218-408729; hash=84d3acbf659d9130b471b9ec992fc24376c429370da3c4efe56f5669c511aef7; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> D. Poškos Baublys: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Baublys Baublis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: D. Poškos Baublys: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baublys Baublis" parinktas kaip owner_note_path. Targetas "D. Poškos Baublys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-189219"></a>
 - t-002
   global_id: t-189219
@@ -39,9 +29,6 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 533483-533742; hash=0f5155ec878b09ee40faf16595b85394eb625e7682ca9fd0e4756291fc437a8c; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -58,13 +45,10 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
     rio sutrūnijusio vidaus pasigirsdavo balsas, panašus į buliaus
     baubimą.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas Baubliu vadino pasakojimų pranašišką ąžuolą, kuris esą kalbėdavęs ir atsakydavęs į klausimus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -74,9 +58,7 @@ Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį
     medžiuose, sėdėdavęs koks apgavikas. Tokį ąžuolą vadindavo
     Baubliu (Baublis)Ąi.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

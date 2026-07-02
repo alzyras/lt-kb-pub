@@ -36,9 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 248174-248818; hash=6807690bea38d413db55fa0325f5ced819b15a1f11db03f86e095221c7ed58e6; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -57,9 +54,7 @@ Nenurodyta
     Žemaitijoje paprasta liaudis dainuoja dainas, turinčias kažkokį
     ryšį su tuo deivių verpėjų arba audėjų garbinimu.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

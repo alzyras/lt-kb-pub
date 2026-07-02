@@ -41,21 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-186846
   teiginys: 'Lietuvos metraščio pasakojime maskvėnai prie Tykiosios Sosnos iš Vytauto valdinių severskiečių atėmė tris statines medaus.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Reikalingas šaltinio priskyrimas konfliktinei kronikos scenai; teiginys sukonkretintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=428f4e3ca7f81c0e84bc6b97469aa101c89bdf50298738df0d9ed253bfd2b280; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Statinės medaus: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=106
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Statinės medaus" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -79,7 +66,6 @@ Nenurodyta
     nius, kad suieškojęs nubaustų kaltininkus bei atlygintų
     nuostolius severskiečiams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

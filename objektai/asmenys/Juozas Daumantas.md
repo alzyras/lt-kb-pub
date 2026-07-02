@@ -28,48 +28,15 @@ PARTIZANŲ ĮVAIZDIS Juozas Daumantas savo prisiminimuose pasakoja apie vyravus�
 - t-001
   global_id: t-40235
   teiginys: 'Juozas Daumantas prisiminimuose aprašė Tauro apygardos partizanų susišaudymą per 1945 m. Kalėdas.'
-  sudarymo_pagrindimas: 'Teiginys yra taisyklingas faktinis sakinys apie Juozą Daumantą ir jo prisiminimus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]'
-  temporaliniai_duomenys: 'įvykio data: 1945 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra taisyklingas faktinis sakinys apie Juozą Daumantą ir jo prisiminimus.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 954600-955120; hash=2c93c8fecf1f707d39515dd558f0cd9ecb3caa6234ac21c0b99f3ab906c821e9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Daumantas (kunigaikštis, XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Juozas Daumantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Daumantas (kunigaikštis, XV a.): mention_match, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Daumantas" parinktas kaip owner_note_path. Targetas "Daumantas (kunigaikštis, XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183745"></a>
 - t-002
   global_id: t-183745
   teiginys: 'Juozas Daumantas prisiminimuose pasakojo apie Tauro apygardos partizanų viešnagę per 1945 m. Kalėdas, pasibaigusią susišaudymu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys sujungia kelias temas ir turi antraštės bei fragmento triukšmo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]'
-  temporaliniai_duomenys: 'įvykio data: 1945 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys sujungia kelias temas ir turi antraštės bei fragmento triukšmo.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 954322-954933; hash=fab05c5b42511cf74fa4a56be50f33be80c02828bd5da983ffbdb98e8410c260; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Daumantas (kunigaikštis, XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Juozas Daumantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Daumantas (kunigaikštis, XV a.): mention_match, person, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Daumantas" parinktas kaip owner_note_path. Targetas "Daumantas (kunigaikštis, XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Juozas Lukša-Daumantas.md#claim-t-183697|Juozas Lukša-Daumantas]]: STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinusius kolaborantus.
 - susijęs iš [[objektai/autoriai/Juozas Lukša-Daumantas.md#claim-t-40632|Juozas Lukša-Daumantas]]: Juozas Daumantas aprašė Tauro apygardos partizanų 1945 m. Kalėdų apsilankymą pas ūkininką, pasibaigusį susišaudymu.
 - susijęs iš [[objektai/autoriai/Juozas Lukša-Daumantas.md#claim-t-40634|Juozas Lukša-Daumantas]]: Juozas Daumantas rašė apie stribus, sovietiniams okupantams talkinusius kolaborantus.
@@ -92,7 +59,6 @@ PARTIZANŲ ĮVAIZDIS Juozas Daumantas savo prisiminimuose pasakoja apie vyravus�
     ištraukoje matyti, kokį pranašumą suteikia kulkosvaidžių šautuviniai šoviniai, prieš pis-
     toletų-kulkosvaidžių šovinius, kurių kulkos, sutikusios kliūtį, greitai praranda energiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -119,7 +85,6 @@ PARTIZANŲ ĮVAIZDIS Juozas Daumantas savo prisiminimuose pasakoja apie vyravus�
     Juozas Daumantas savo prisiminimuose pasakoja apie Tauro apygardos partizanų
     pasisvečiavimą pas ūkininką per 1945 m. Kalėdas, kuris pasibaigė susišaudymu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -47,15 +47,8 @@ Nenurodyta
 - t-001
   global_id: t-59713
   teiginys: '1306 m. Karaliaučiaus pilyje prie švento Ruprechto relikvijų, pasak kronikos, pagijo daug žmonių, šunų ir traukos gyvulių.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir atitinka citatoje pateiktą informaciją.'
-  temporaliniai_duomenys: 'įvykio data: 1306 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir atitinka citatoje pateiktą informaciją.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=056ac7780abab532c97cf3ee44ec8a913d9dfc5c6659d701a5a4b1ee15ad7874; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -73,7 +66,6 @@ Nenurodyta
 
         102.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -20,20 +20,8 @@ Skelbta, kad sovietų kariuomenės įžengimas siekia tik sustiprinti Lietuvos s
 - t-001
   global_id: t-77850
   teiginys: 'Sovietų kariuomenei įžengus skelbta, kad tai tik sustiprins Lietuvos saugumą ir kad „Lietuvos kariuomenė pasilieka ir toliau“.'
-  sudarymo_pagrindimas: 'Reikia sklandesnės vieno sakinio formuluotės, tiksliau perteikiančios citatos turinį.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 385148-385510; hash=8e538f12890eadd75ae7e9c016f61acecfa1b1361b54519fc0043cf26f574674; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: „Lietuvos kariuomenė pasilieka ir toliau...“: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„Lietuvos kariuomenė pasilieka ir toliau...“" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -50,7 +38,6 @@ Skelbta, kad sovietų kariuomenės įžengimas siekia tik sustiprinti Lietuvos s
     gandai privertė įtikinėti gyventojus, kad žemės nuosavybė nebus liečiama
     ir kad „Lietuvos kariuomenė pasilieka ir toliau.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

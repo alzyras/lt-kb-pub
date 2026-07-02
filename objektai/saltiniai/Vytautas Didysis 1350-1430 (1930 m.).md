@@ -33,7 +33,6 @@ atnaujinta: ''
 - t-001
   global_id: t-67583
   teiginys: 'Leidinio rengėjai dėkojo prof. A. Aleknai už patarimus rašant ir redaguojant monografiją.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Alekna|A. Alekna]]'
   pagrindžia:
     - c-003
 
@@ -41,7 +40,6 @@ atnaujinta: ''
 - t-002
   global_id: t-67586
   teiginys: 'Leidinio rengėjai siekė sugrupuoti istorikų surinktus faktus lietuvio akimis ir objektyvumo laikytis tiek, kiek leido faktų pažinimas.'
-  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -49,7 +47,6 @@ atnaujinta: ''
 - t-003
   global_id: t-67589
   teiginys: 'Leidinio rengėjai buvo sutarę laikytis vidurio tarp moksliško ir populiaraus veikalo.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -67,7 +64,6 @@ atnaujinta: ''
     bo pobūdį: laikytis vidurio tarp moksliško ir popu­
     liaraus veikalo, ir išsiskirstėm.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -86,7 +82,6 @@ atnaujinta: ''
     jektingumo, laikėmės, kiek leido istorijos faktų pažinimas bei
     jų supratimas, momentas ir pats veikalo pobūdis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -104,7 +99,6 @@ atnaujinta: ''
     guojant, ir kartu apgailestaujam, kad gerb, profesorius dėl
     ligos negalėjo parašyti šiai knygai įžangos žodžio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

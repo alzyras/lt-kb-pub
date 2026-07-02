@@ -27,7 +27,6 @@ Vartojamos formos: `įšleiti`, `įšleitėj`.
 - t-001
   global_id: t-70421
   teiginys: '`Įšleitė` šiame tekste reiškia geografinę sritį, panašią į pašlaitę, slėnį ar įdubą.'
-  susije_objektai: 'mentioned_place: Isteris'
   pagrindžia:
     - c-001
 
@@ -40,7 +39,6 @@ Vartojamos formos: `įšleiti`, `įšleitėj`.
         teka nuo tos kalvos į Uksinę, arba Juodąją, marę, tarp kurių didžiosios yra: Niperis, Tyrulė ir
         Isteris, arba Dunojus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

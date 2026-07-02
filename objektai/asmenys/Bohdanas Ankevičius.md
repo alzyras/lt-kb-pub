@@ -21,20 +21,8 @@ List Radzcy Wileńskomu Bohdanu Onkieiviczu, na wybranie jemu winnych peneźy z 
 - t-001
   global_id: t-87635
   teiginys: 'Vilniaus tarėjas Bohdanas Ankevičius gavo leidimą surinkti jam priklausančius pinigus iš Bobruisko ir Svisločės smuklių už devynerius metus.'
-  sudarymo_pagrindimas: 'Citata patvirtina Bohdano Ankevičiaus pareigas ir leidimą surinkti pinigus, o pradinė formuluotė yra fragmentiška.'
-  susije_objektai: 'mentioned_place: Bobruiskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 539689-540121; hash=2e95d3b9c1e0a9fd500e4f372db1bb83f083056f33e7a5b12a012f1abead8e57; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bobruiskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bohdanas Ankevičius: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bobruiskas: mention_match, place, gap=72
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bohdanas Ankevičius" parinktas kaip owner_note_path. Targetas "Bobruiskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -55,7 +43,6 @@ List Radzcy Wileńskomu Bohdanu Onkieiviczu, na wybranie jemu winnych peneźy z 
     klausančią pinigų sumą 472 kapas
     grašių iš Oršos smuklės už 6 metus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

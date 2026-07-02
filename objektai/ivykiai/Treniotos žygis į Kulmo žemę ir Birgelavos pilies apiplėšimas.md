@@ -38,21 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-62509
   teiginys: 'Treniota subūrė iki 30 tūkst. vyrų, įsiveržė į Kulmo žemę ir paėmė Birgelavos pilį, pagrobdamas gyvulius bei mantą.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Birgelava; llm_object: Kulmas; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Birgelava; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 456820-457408; hash=9dce7b960cc19e623319fb6f41e664e65b305bb2b51673de594dbfa1dc1cf2b3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Birgelava: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Treniota: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Birgelava: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Treniota ir jo pajėgos paėmė Birgelavos pilį.
 
 ## Reikšmingi paminėjimai
 
@@ -70,7 +57,6 @@ Nenurodyta
     brolių ir tų žmonių, kurie buvo subėgę į pilį. Broliai ir kiti žmonės išliko gyvi, gindamiesi
     viename kuore.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

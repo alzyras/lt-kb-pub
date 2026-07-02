@@ -20,12 +20,8 @@ Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taik
 - t-001
   global_id: t-104174
   teiginys: 'Taikos tarpininkai vadovavo reformos vykdymo apylinkėms, į kurias buvo padalintos apskritys.'
-  sudarymo_pagrindimas: 'Pradinis teiginys labiau tinka taikos suvažiavimams, todėl perrašyta pagal šio įrašo objektą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 943731-944149; hash=f1763064960c4156c792132c6796db17dc41eba5034e78c183520cccfe2e9230; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -41,7 +37,6 @@ Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taik
     rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
     Dvarininkai, žinoma, tik savimi tesirūpino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

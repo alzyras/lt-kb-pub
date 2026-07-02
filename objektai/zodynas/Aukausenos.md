@@ -27,7 +27,6 @@ Vartojamos formos: `aukos`, `aukas`.
 - t-001
   global_id: t-07688
   teiginys: 'Aukausenos buvo skirstomos į iškilmines, išeigines ir kiemines.'
-  sudarymo_pagrindimas: 'Citata aiškiai nurodo aukausenų rūšis, todėl verta įvardyti objektą.'
   pagrindžia:
     - c-002
 
@@ -46,7 +45,6 @@ Vartojamos formos: `aukos`, `aukas`.
   citata_originali: |
     Pavestoji diena atlikimui aukos buvo visados aiški ir gaidri^947 , jei kana kados^948 nulijo, tad tą turėjo už dievų rūstybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -57,7 +55,6 @@ Vartojamos formos: `aukos`, `aukas`.
   citata_originali: |
     Aukausenos^936 buvo įvairios: iškilminės, išeiginės ir kieminės, kurias visados svietas susirinkęs atlikdavo ant kalnų, kalvų ar ant akmenų po dideliais didelesniais ąžuolais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

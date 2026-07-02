@@ -30,12 +30,6 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
 - t-001
   global_id: t-168139
   teiginys: 'Komitetas gynė žmones nuo okupacinės valdžios žiaurumų, rekvizicijų ir neteisybių bei atstovavo lietuvių politiniams reikalams.'
-  sudarymo_pagrindimas: 'Sutrumpinta ir pašalinta perteklinė, sunkiai skaitoma sakinio sandara.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Lozana; mentioned_place: Rusija; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  semantiniai_rysiai: '[[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti]] gynė [[objektai/grupes/Lietuviai|Lietuviai]]'
-  temporaliniai_duomenys: 'įvykio data: 1916 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sutrumpinta ir pašalinta perteklinė, sunkiai skaitoma sakinio sandara.'
   pagrindžia:
     - c-003
 
@@ -43,9 +37,6 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
 - t-002
   global_id: t-168140
   teiginys: 'Komiteto pasiuntiniai slapta veikė Lietuvoje, telkdami krašte likusius inteligentus Lietuvos atstatymo darbui.'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškesnį enciklopedinį teiginį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vokietija; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti]] siuntė į Lietuva'
   pagrindžia:
     - c-001
 
@@ -53,8 +44,6 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
 - t-003
   global_id: t-168143
   teiginys: 'Dėl partijų kovų Centraliniame Komitete kilo ginčų, ir trys kairiųjų pažiūrų nariai iš jo išstojo.'
-  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikia aiškesnio subjekto ir glaustesnės formos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Rusija; mentioned_place: Viena; mentioned_place: Vokietija'
   pagrindžia:
     - c-004
 
@@ -62,9 +51,6 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
 - t-004
   global_id: t-168144
   teiginys: 'Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje.'
-  sudarymo_pagrindimas: 'Reikia pataisyti žodžių tvarką ir pašalinti OCR skaidymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Skandinavija; mentioned_place: Vokietija; mentioned_place: Šveicarija; mentioned_place: Rusija; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  semantiniai_rysiai: '[[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti]] rėmė [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
 - susijęs iš Voronežas: Lietuvių Komitetas Voroneže įsteigtose lietuviškose gimnazijose organizavo jaunuomenės mokymą.
@@ -81,7 +67,6 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     žmonių dėl to nukentėjo — buvo susodinti į kalėjimus arba iš-
     vežti į Vokietiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -99,7 +84,6 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     tuvius rinkti aukas (Amerikos prezidentas Vilsonas net paskyrė
     specialią dieną rinkliavai).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -121,7 +105,6 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     tautų kongresas pareikalavo visai nepriklausomos Lietuvos
     atstatymo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -142,7 +125,6 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     nizacija viena atstovavo to meto lietuvių reikalams tiek vokiečių
     okupuotoje Lietuvoje, tiek Rusijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -158,7 +140,6 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     būsimajai Lietuvai. Komitetas rūpinosi per savo atstovus Skan-
     dinavijoje ir Šveicarijoje ir lietuvių belaisviais Vokietijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

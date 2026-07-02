@@ -43,44 +43,15 @@ Nenurodyta
 - t-001
   global_id: t-62829
   teiginys: '1290 m. balandžio 23 d. magistras Meinhardas su 500 raitelių ir 2000 pėstininkų smarkiai užpuolė Kolainių pilį.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_place: Kolainiai; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
-  temporaliniai_duomenys: 'įvykio data: 1290 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys pilnas, gramatiškas ir tiksliai paremtas citata.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 559609-560069; hash=34df968df89f06ae8f31282c7918c6e76452138f299162529f2960ea5a6d5890; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kolainiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kolainių pilies puolimas (1290 m. balandžio 23 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kolainių pilies puolimas (1290 m. balandžio 23 d.)" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-62830"></a>
 - t-002
   global_id: t-62830
   teiginys: 'Per Kolainių pilies puolimą visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikėjo pašalinti perteklinį šaltinio stilių ir atribuciją.'
-  susije_objektai: 'mentioned_place: Kolainiai; mentioned_object: [[objektai/posakiai/prisiekęs dievų galybe|prisiekęs dievų galybe]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 559935-560590; hash=e390b53d2b5f5bc4a80b757dc3d7d65ca133400d97bd52f63c6473d7572cab13; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kolainiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kolainių pilies puolimas (1290 m. balandžio 23 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kolainių pilies puolimas (1290 m. balandžio 23 d.)" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -97,14 +68,11 @@ Nenurodyta
     apgulą. Neilgai trukus vadas Surminas paliko šią  pilį prisiekęs dievų galybe niekad
     ateityje nelaukti, kol broliai užpulsią kokią pilį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -116,11 +84,9 @@ Nenurodyta
     priešinosi broliams. Galop visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti, kad
     nuo pilies sienų kraujas tekėjo nelyginant patvinęs liūčių vanduo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
     - t-003

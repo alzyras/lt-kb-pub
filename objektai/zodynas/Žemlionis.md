@@ -27,8 +27,6 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
 - t-001
   global_id: t-70424
   teiginys: 'Žemlionys karo metu išsirinkdavo narsų ir kantrų vyrą, kuris tapdavo karvedžiu arba atmonu.'
-  sudarymo_pagrindimas: 'Citata pagrindžia konkretų žemlionių veiksmą, o pradinis teiginys pernelyg miglotas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemlionys|Žemlionys]]'
   pagrindžia:
     - c-002
     - c-003
@@ -37,8 +35,6 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
 - t-002
   global_id: t-70425
   teiginys: 'Žemlioniu vadintas kiemas, karo metu pagal turimą žemę išleidęs vieną ar kelis raitus kareivius.'
-  sudarymo_pagrindimas: 'Pradinis teiginys klaidingai suveda sąvoką į žmogų, o citatoje žemlioniu vadinamas kiemas.'
-  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -57,7 +53,6 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   citata_originali: |
     Jei toksai kiemas, karei kėlusis, leido kareivį jotą^259 vieną ar du, tris – pagal tą, kaip daug žemės turėjo, tad vadinos žemlioniu^260 , nuo žemės, kurią buvo sau pragyvenęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -75,7 +70,6 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
         abydas padarytas. Vadino jį didžiuoju gaspadorium, arba didžiuoju kunigaikščiu, beje, didžiuoju
         kunigu, arba rykiu, beje, karalium, nuo žodžio lotyniško rex regis – karalius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -95,7 +89,6 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
       citata_originali: |
         Kožnoj tėvūnijoj buvo dar tie vyresnieji: raktininkas, kurs lobius didžiojo kunigaikščio už raktui laikė ir saugojo, jo pripadėtojas vadinos parakčia; buvo dar pilies ponas, kurs pilį valdė, jo pripadėtoju buvo angininkas, kurs raktus angos pilies saugojo; karūžasis^1061 , kurio žinioj žemlionys buvo, prie kurio buvo karės vėliava, jo pripadėtoju buvo šimtininkas, arba pulkorius, nuo žodžio pulti, kurs šimtą vyrų į karę vedė, to paskuojo pripadėtoju buvo dešimtininkas, kurs dešimtį vyrų į karę vedė, ir tekūnas, arba vizius, gudiškai voznius^1062.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

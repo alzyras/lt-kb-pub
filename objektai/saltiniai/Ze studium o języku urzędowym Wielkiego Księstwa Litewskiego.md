@@ -26,15 +26,8 @@ amziai:
 - t-001
   global_id: t-32019
   teiginys: 'W. Kwiatkowskio „Ze studium o języku urzędowym Wielkiego Księstwa Litewskiego“ paskelbta „Prace Alma Mater Vilnensis“ 1958 m. Londone, p. 133–160.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas bibliografinis sakinys, atitinkantis citatą.'
-  temporaliniai_duomenys: 'įvykio data: 1958 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas bibliografinis sakinys, atitinkantis citatą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0fcec19b8b160aea55a9ef0b10d6240fce1944f89c7617218a263b11eb842d4b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -49,7 +42,6 @@ amziai:
     Księstwa Litewskiego, Prace Alma Mater Vilnensis, London 1958, 133-160
     p. — Liubavskij, M. : LOD, 1892.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -51,8 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-35569
   teiginys: 'Vytautas sutiko priimti čekų karūną ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, paremtas citatos informacija.'
-  susije_objektai: 'llm_object: Praga; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Praga; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-002
 
@@ -60,8 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-35570
   teiginys: 'Čekai pasiūlė Vytautui karūnuotis Čekijos karaliaus karūna.'
-  sudarymo_pagrindimas: 'Reikia pašalinti dviprasmį įvardį ir sakinį padaryti aiškesnį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Čekija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]'
   pagrindžia:
     - c-004
 
@@ -69,7 +65,6 @@ Nenurodyta
 - t-003
   global_id: t-35571
   teiginys: 'Vėliau Vytautas nuo husitų siūlytos karūnos atsisakė, nes ji galėjo per brangiai kaštuoti.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-003
 
@@ -77,23 +72,8 @@ Nenurodyta
 - t-004
   global_id: t-35572
   teiginys: '1420 m. husitai pasiūlė Jogailai Šv. Vaclovo karūną.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1420 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 478141-478331; hash=357e120361665b1214cc85fe81f2fad1fa09cffb3d334c215de4d4a1076a11c3; match=exact
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair
-  ryšio_patikimumas: susije_su -> Karūna: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šv. Vaclovo karūna: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Vaclovo karūna" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -105,7 +85,6 @@ Nenurodyta
     priimti pasiūlymo be susitarimo „su brangiausiu broliu, Lietuvos
     kunigaikščiu Vytautu”.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -122,7 +101,6 @@ Nenurodyta
     savo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­
     linkybėms, Vytautas nuo to sumanymo atsisakė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -141,7 +119,6 @@ Nenurodyta
     lėtų jam per brangiai kaštuoti, taip buvo su bažnytinės unijos
     mėginimu, kai paaiškėjo, kad ją sunku įgyvendinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -156,7 +133,6 @@ Nenurodyta
     pirmą vietą. Tą rodo ir tuo laiku čekų kreipimasis į jį sosto rei­
     kalais, t. y. Vytautui pasiūlė karūnuotis jų karaliaus karūna.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

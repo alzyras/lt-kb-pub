@@ -13,9 +13,9 @@ datos:
   - '1447 m.'
 date_start: '1386'
 date_end: '1447'
-description: 'Skirgaila – Jogailos brolis ir vietininkas Lietuvoje, siejamas su Polocku, Trakais, konfliktais su Vytautu ir krikšto derybomis.'
-socialDescription: 'Skirgailos biografijoje ryškėja Jogailos politinis pasitikėjimas, ribota valdžia Lietuvoje, Polocko ir Trakų klausimai bei aštrūs santykiai su Vytautu.'
-seo_atnaujinta: '2026-07-02T19:20:23.302858+03:00'
+description: 'Skirgaila – Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., valdęs Vilniaus sritis, siejamas su Polocku ir konfliktais su Vytautu.'
+socialDescription: 'Jogailos brolis Skirgaila: ribota valdžia Lietuvoje, Polocko epizodas, konfliktai su Vytautu ir prieštaringas vertinimas šaltiniuose.'
+seo_atnaujinta: '2026-07-02T20:14:54.767453+03:00'
 seo_policy_version: 'seo_summary_v1'
 seo_nepakanka_duomenu: 'false'
 sukurta: ''
@@ -32,7 +32,7 @@ tags:
 
 ## Santrauka
 
-Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., kurio valdžia buvo apribota Vilniaus sritimis. Jis siejamas su pasižadėjimu kartu su Jogaila per ketverius metus pasikrikštyti su visu kraštu, Polocko valdymu ir konfliktais su Vytautu. Šaltiniuose išryškėja ir neigiamas jo vertinimas: aplaidumas, žiaurus elgesys, nepopuliarumas Lietuvoje bei smarkus ginčas su Vytautu 1393 m.
+Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo valdžia daugiausia siejama su Vilniaus sritimis ir buvo ribota. Šaltiniuose jis minimas Polocko kunigaikštystės kontekste, konfliktuose su Vytautu ir 1393 m. ginče, kurį spręsti į Vilnių vyko Jogaila ir Jadvyga. Vertinimuose išryškėja nepalankus Skirgailos paveikslas: jam priskiriamas aplaidumas, žiaurus elgesys ir nepopuliarumas Lietuvoje.
 
 ## Savybės
 
@@ -50,11 +50,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-001
   global_id: t-179641
   teiginys: 'Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Vilnių.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Skirgailai pavestą Lietuvą ir su citata suderinamą kontekstą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Luckas'
-  temporaliniai_duomenys: 'įvykio data: 1389 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Skirgailai pavestą Lietuvą ir su citata suderinamą kontekstą.'
   pagrindžia:
     - c-017
 
@@ -62,9 +57,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-002
   global_id: t-179642
   teiginys: 'Jogaila pasiuntė Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, ir dėl to kilo atviras susirėmimas.'
-  sudarymo_pagrindimas: 'Patikslinta enciklopedinė formuluotė ir pašalinta neaiški jungtis „o tai“.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Jogaila|Jogaila]]; llm_object: Polockas; mentioned_place: Polockas; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Livonija'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] buvo brolis [[objektai/asmenys/Jogaila|Jogaila]]'
   pagrindžia:
     - c-006
 
@@ -72,11 +64,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-003
   global_id: t-179643
   teiginys: '1393 m. tarp Vytauto ir Skirgailos kilo smarkus ginčas, kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.'
-  sudarymo_pagrindimas: 'Pašalintas kontekstinis žodis „vėl“, kad sakinys būtų savarankiškas.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_author: [[objektai/autoriai/J. Posilge|J. Posilge]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
-  temporaliniai_duomenys: 'kelionės data: 1393 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Skirgaila keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas kontekstinis žodis „vėl“, kad sakinys būtų savarankiškas.'
   pagrindžia:
     - c-024
 
@@ -84,7 +71,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-004
   global_id: t-179644
   teiginys: 'Skirgaila buvo apibūdintas kaip didelis girtuoklis, smarkus žmogus ir geras chirurgas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos didikai|Lietuvos didikai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-023
 
@@ -92,7 +78,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-005
   global_id: t-179645
   teiginys: 'Skirgaila, anot citatos, gavęs valdžią aplaidumu ir žiauriu elgesiu nuteikė prieš save didesnę Lietuvos dalį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-015
 
@@ -100,9 +85,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-006
   global_id: t-179646
   teiginys: 'Jogaila po susitaikymo su Vytautu sutaikė jį ir su didžiausiu Vytauto priešu Skirgaila.'
-  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir pašalinti išnašų bei OCR likučiai.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_place: Kremencas; mentioned_place: Lenkija; mentioned_place: Stožkas; mentioned_place: Trakai'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] buvo priešas [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-028
 
@@ -110,9 +92,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-007
   global_id: t-179647
   teiginys: 'Trakuose viešpatavusio Skirgailos išvarymas galėjo sukelti naują karą.'
-  sudarymo_pagrindimas: 'Perrašyta į glaustesnį pilną sakinį be dviprasmio įvardžio.'
-  susije_objektai: 'llm_object: Trakai; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] valdė miestą Trakai'
   pagrindžia:
     - c-018
 
@@ -120,8 +99,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-008
   global_id: t-179649
   teiginys: 'Balińskis Skirgailos valdžios pradžią siejo su aplaidumu ir žiauriu elgesiu, kurie prieš jį nuteikė didesnę Lietuvos dalį.'
-  sudarymo_pagrindimas: 'Teiginyje yra autoriaus vertinimas, todėl jį reikia priskirti Balińskiui.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-015
 
@@ -129,8 +106,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-009
   global_id: t-179650
   teiginys: 'Skirgailai išvykus į Polocką, Vytautui atsirado proga bandyti įgyvendinti sumanymą užimti Vilniaus Žemutinę pilį.'
-  susije_objektai: 'llm_object: Polockas; mentioned_place: Polockas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] keliavo į Polockas'
   pagrindžia:
     - c-007
 
@@ -138,8 +113,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-010
   global_id: t-179652
   teiginys: 'Skirgaila su Jogaila pasižadėjo per ketverius metus pasikrikštyti su visu kraštu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Viena; llm_object: [[objektai/asmenys/Jogaila|Jogaila]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] buvo sąjungininkas su [[objektai/asmenys/Jogaila|Jogaila]]'
   pagrindžia:
     - c-001
 
@@ -147,9 +120,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-011
   global_id: t-179654
   teiginys: 'Jogaila paskyrė Skirgailą savo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu, pavaldžiu karaliaus valdžiai.'
-  sudarymo_pagrindimas: 'Citata aiškiai pagrindžia Skirgailos paskyrimą ir titulą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija'
-  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] paskyrė [[objektai/asmenys/Skirgaila|Skirgaila]]'
   pagrindžia:
     - c-016
 
@@ -157,9 +127,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-012
   global_id: t-179655
   teiginys: 'Jogaila pasiuntė brolį Skirgailą su slaptais įgaliojimais į Vakarų Europą, o Marienburge Skirgaila buvo draugiškai priimtas.'
-  sudarymo_pagrindimas: 'Perrašyta pašalinant dviprasmį įvardį ir aiškiau įvardijant Skirgailą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Marienburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] buvo brolis [[objektai/asmenys/Jogaila|Jogaila]]'
   pagrindžia:
     - c-026
 
@@ -167,8 +134,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-013
   global_id: t-179656
   teiginys: 'Karalienė Jadvyga stengėsi sutaikyti Skirgailą su Vytautu, o po sutarčių Skirgaila gavo Kijevo kunigaikštystę ir kelias pilis.'
-  sudarymo_pagrindimas: 'Pradinėje formuluotėje neaišku, kuris asmuo gavo Kijevo kunigaikštystę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
 
@@ -176,12 +141,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-014
   global_id: t-179657
   teiginys: '1394 m. Vytautui panaikinus Kijevo kunigaikštiją, Kijevą gavo Skirgaila.'
-  sudarymo_pagrindimas: 'Pradinis teiginys daugiausia apie Vytauto veiksmus, todėl paliktas aiškus faktas apie Skirgailą.'
-  susije_objektai: 'llm_object: Kijevas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_place: Luckas; mentioned_place: Podolė'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] valdė miestą Kijevas'
-  temporaliniai_duomenys: 'įvykio data: 1393 m.; įvykio data: 1394 m.; įvykio data: 1395 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys daugiausia apie Vytauto veiksmus, todėl paliktas aiškus faktas apie Skirgailą.'
   pagrindžia:
     - c-025
 
@@ -189,11 +148,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-015
   global_id: t-179658
   teiginys: 'Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi kontekstinį jungtuką ir archajišką, neenciklopedinę formuluotę.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Mstislavlis; mentioned_place: Vechra; mentioned_place: Vorskla'
-  temporaliniai_duomenys: 'mūšio data: 1399 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Skirgaila puolė Lenkija“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi kontekstinį jungtuką ir archajišką, neenciklopedinę formuluotę.'
   pagrindžia:
     - c-019
 
@@ -201,11 +155,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-016
   global_id: t-179659
   teiginys: 'Skirgaila ne anksčiau kaip 1388 m. tapo didžiuoju kunigaikščiu, nes 1387 m. dokumentuose vadintas tik Trakų kunigaikščiu.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Prūsija; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1387 m.; įvykio data: 1388 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-014
 
@@ -213,11 +162,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-017
   global_id: t-179660
   teiginys: '1391 m. liepos 22 d. Jogaila dokumentu pažadėjo Skirgailai be jo žinios neatiduoti Vilniaus ir kitų miestų.'
-  sudarymo_pagrindimas: 'Originalas per ilgas ir gremėzdiškas; perrašyta išlaikant citatos pagrindžiamą faktą.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
-  temporaliniai_duomenys: 'įvykio data: 1391 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Originalas per ilgas ir gremėzdiškas; perrašyta išlaikant citatos pagrindžiamą faktą.'
   pagrindžia:
     - c-012
 
@@ -225,7 +169,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-018
   global_id: t-179661
   teiginys: 'Lietuvos visuomenė buvo nepatenkinta Skirgailos valdymu, nes jis buvo nepopuliarus ir nesugebėjo sutelkti valstybės jėgų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-027
 
@@ -233,9 +176,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-019
   global_id: t-179662
   teiginys: 'Jogaila pavedė Lietuvą savo broliui Skirgailai, todėl Vytautui labiau parūpo Lietuvos ateitis negu jos krikštas.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys, o citata tiesiogiai palaiko jo turinį.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Jogaila|Jogaila]]; llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] buvo brolis [[objektai/asmenys/Jogaila|Jogaila]]; [[objektai/asmenys/Jogaila|Jogaila]] paskyrė [[objektai/asmenys/Skirgaila|Skirgaila]]; [[objektai/asmenys/Skirgaila|Skirgaila]] valdė Lietuva'
   pagrindžia:
     - c-017
 
@@ -243,87 +183,34 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-020
   global_id: t-179663
   teiginys: 'Skirgaila neturėjo visos valdžios valstybėje, nes Vilnių Jogaila pasiliko sau.'
-  sudarymo_pagrindimas: 'Teiginys tiesiogiai paremtas citata ir yra gramatiškai užbaigtas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6d1d9c7925c75765fb0ae1579b706e523a2f8d9f9d67e29604ce3895b3e8aa2e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Jogaila (kunigaikštis, XIV–XV a.): 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai vadina Skirgailą Jogailos broliu.
 
 <a id="claim-t-179664"></a>
 - t-021
   global_id: t-179664
   teiginys: '1388 m. prie Kauno sudarytoje taikos sutartyje Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Trakai; mentioned_place: Kaunas'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] buvo valdovas Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1388 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-020
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4ef1d191273a68be974a99dd8b833b15dcccae3f9df5010663e322b4dba02ca8; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_miesta -> Trakai: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: „Viešpatavo Trakuose“ tiesiogiai nurodo Skirgailos valdžią Trakuose.
 
 <a id="claim-t-179665"></a>
 - t-022
   global_id: t-179665
   teiginys: 'Balińskis Skirgailos būdą apibūdino kaip niršų ir siejo jį su Vytauto baime dėl pasikėsinimo į gyvybę.'
-  sudarymo_pagrindimas: 'Citata remia autoriaus vertinimą, todėl reikia aiškios šaltinio atribucijos.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
   pagrindžia:
     - c-013
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9836cf82770b5ea8317293b3d2897211235fa00f4ed1b3e70d8b065fe4cf9546; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kardas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skirgaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kardas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirgaila" parinktas kaip owner_note_path. Targetas "Kardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-179666"></a>
 - t-023
   global_id: t-179666
   teiginys: 'Jogaila paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu, pavaldžiu karališkajai valdžiai.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija'
-  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] paskyrė [[objektai/asmenys/Skirgaila|Skirgaila]]'
   pagrindžia:
     - c-016
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=986c766822fc7d3927350adde0d3975fd306b8170d9baefc9758c5dff2648dcc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skirgaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirgaila" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-179667"></a>
 - t-024
   global_id: t-179667
   teiginys: 'Jogaila pasiuntė savo brolį Skirgailą į Polocko kunigaikštystę vietoje Kęstučiui palankaus Andriaus Algirdaičio.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Skirgailos pasiuntimą į Polocką.'
-  susije_objektai: 'mentioned_place: Polockas; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-006
 
@@ -331,109 +218,41 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-025
   global_id: t-179668
   teiginys: 'Jogaila sutaikė Vytautą su Skirgaila, kuris citatoje vadinamas didžiausiu Vytauto priešu.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_place: Kremencas; mentioned_place: Stožkas; mentioned_place: Trakai'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] buvo priešas [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bcce22ea4450df9421ade6ce780f6058d70c6b5857d29637dcef180afa20cd50; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kremenecas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skirgaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kremenecas: mention_match, place, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirgaila" parinktas kaip owner_note_path. Targetas "Kremenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179669"></a>
 - t-026
   global_id: t-179669
   teiginys: 'Karalienė Jadvyga stengėsi sutaikyti Skirgailą su Vytautu, o sutartimis Skirgaila gavo Kijevo kunigaikštystę ir kelias pilis.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Jadvygos tarpininkavimą ir Skirgailai tekusias valdas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Kijevas'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] valdė teritoriją Kijevas'
   pagrindžia:
     - c-008
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 761197-761336; hash=92fc0fb123ae390f1da39fa8cea37d0c61e886937fe550a41488c72107d425b4; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Bendras pasižadėjimas rodo politinį veikimą kartu, nors relacija nėra aiškiai įvardyta kaip sąjunga.
 
 <a id="claim-t-179670"></a>
 - t-027
   global_id: t-179670
   teiginys: 'Skirgaila nuolatine buveine pasirinko Trakų pilį ir išvykdavo į mūšius su Prūsijos ordinu bei maištaujančiais kunigaikščiais.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Skirgailos buveinę ir karinius išvykimus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsija; mentioned_place: Trakai; llm_object: Trakai; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] gyveno Trakai; [[objektai/asmenys/Skirgaila|Skirgaila]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-022
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=01edc2ca8d2160e4b758524af802692b5f8881d89d41024b5c6c7bc9534ee4b2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skirgaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=99
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirgaila" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179671"></a>
 - t-028
   global_id: t-179671
   teiginys: 'Skirgailai buvo pavesta valdyti Vilniaus sritis.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] valdė teritoriją Vilnius'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a050b086f11c096d6451c9bdf3ab96f833f69af0024f77f058d632ce316891eb; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skirgaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirgaila" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179672"></a>
 - t-029
   global_id: t-179672
   teiginys: 'Skirgaila mirė 1395 m., po to Kremenecas vėl susijungė su Volynija.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Kremenecas; mentioned_place: Volynija; mentioned_person: [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)|Feodoras (Ostrogo kunigaikštis)]]; mentioned_place: Luckas; llm_object: Volynija'
-  temporaliniai_duomenys: 'įvykio data: 1395 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-011
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 826128-826529; hash=0c21ba12b7ab137ffe785807d272d86c385630b4fd1ec0c99c0f82e054f7357a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skirgaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirgaila" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179673"></a>
 - t-030
   global_id: t-179673
   teiginys: 'Skirgaila mirė 1395 m., o po jo mirties Kremenecas vėl susijungė su Volynija.'
-  susije_objektai: 'mentioned_place: Kremenecas; mentioned_place: Volynija; mentioned_person: [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)|Feodoras (Ostrogo kunigaikštis)]]; mentioned_place: Luckas'
-  temporaliniai_duomenys: 'įvykio data: 1395 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-011
 
@@ -441,10 +260,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-031
   global_id: t-179674
   teiginys: 'Jogaila iki 1392 m. bandė valdyti Lietuvą per savo vietininką brolį Skirgailą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Jogaila|Jogaila]]; llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] buvo brolis [[objektai/asmenys/Jogaila|Jogaila]]; [[objektai/asmenys/Jogaila|Jogaila]] paskyrė [[objektai/asmenys/Skirgaila|Skirgaila]]'
-  temporaliniai_duomenys: 'įvykio data: iki 1392 m.; įvykio data: 1392 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-005
 
@@ -452,28 +267,13 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-032
   global_id: t-179675
   teiginys: 'Skirgaila išvyko į Polocką, ir tai sudarė progą įgyvendinti prieš tai sumanytą planą.'
-  sudarymo_pagrindimas: 'Pašalinus puslapio ir antraštės triukšmą lieka palaikomas faktas apie Skirgailos išvykimą.'
-  susije_objektai: 'llm_object: Polockas; mentioned_place: Polockas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] keliavo į Polockas'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=086fa206d5da4e7afda42a388b48bc411af0d33af6c9fd5497595a83b5d31f98; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skirgaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirgaila" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179676"></a>
 - t-033
   global_id: t-179676
   teiginys: 'Skirgailos rūpesčiu Kęstučio palaikai buvo nuvežti į Vilnių ir turėjo būti sudeginti pagal pagonių paprotį.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Europa; mentioned_place: Krėva'
   pagrindžia:
     - c-009
 
@@ -481,52 +281,20 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-034
   global_id: t-179677
   teiginys: 'Vytautas negalėjo taikstytis su Skirgailos paaukštinimu, todėl Gardine susimokė išvyti Skirgailą iš sostinės ir paimti valdžią.'
-  sudarymo_pagrindimas: 'Citata leidžia padaryti aiškesnį sakinį su vieta ir veiksmo priežastimi.'
-  susije_objektai: 'mentioned_place: Gardinas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; llm_object: Gardinas'
   pagrindžia:
     - c-021
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 380042-380180; hash=ad836c99b05e9f7d21cf9b875cd56648302f2019488dd09ac75381d09ea1c5cd; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_teritorija -> Vilnius: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo Skirgailai pavestas valdyti Vilniaus sritis.
 
 <a id="claim-t-179678"></a>
 - t-035
   global_id: t-179678
   teiginys: 'Jogaila, užrašydamas Skirgailai Trakus ir Polocką, pažadėjo laikyti jį aukščiau už visus kitus brolius.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai paremtas citata apie Jogailos pažadą Skirgailai.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_author: [[objektai/autoriai/G. Rhode|G. Rhode]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
   pagrindžia:
     - c-010
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 397799-398135; hash=82a3c8da38284132c73134b84ea4f90d252f32ac3edf3ec3d295995899bd6fba; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai vadina Skirgailą didžiausiu Vytauto priešu.
 
 <a id="claim-t-184377"></a>
 - t-038
   global_id: t-184377
   teiginys: '1387–1392 m. Skirgaila neturėjo visos valdžios Lietuvoje, nes Vilnių Jogaila pasiliko sau.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citatos informacija apie Skirgailos valdžią.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Klemensas Moskorzewskis|Klemensas Moskorzewskis]]'
-  temporaliniai_duomenys: 'įvykio data: 1387-1392; įvykio data: 1392 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citatos informacija apie Skirgailos valdžią.'
   pagrindžia:
     - c-029
 
@@ -534,23 +302,8 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
 - t-039
   global_id: t-184826
   teiginys: 'Skirgaila Šventaragio slėnyje surengė Kęstučiui karališkas šermenis ir laidotuves.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys gramatiškas, aiškus ir paremtas citatoje nurodytomis Kęstučio laidotuvėmis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_object: [[objektai/zodynas/budeliai|budeliai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Krėva; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-030
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6e30559324d0e7b0d9b7f3dd546fba3a64a1ca5d4b8ef2bde0ab0bd6582938ed; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Skirgaila: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=53
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirgaila" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-188617"></a>
 - t-040
@@ -560,16 +313,6 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     - c-031
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 830784-831207; hash=f0803dfac03e425e8b719914da9530cd3f79be6144c93b500c3b24d74cc5d94b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Skirgaila: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Skirgaila: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Jogaila paskyrė Skirgailą.
 - susijęs iš Verkiai: Tarp Verkių ir Šeškinės kalno įsiplieskė mūšis, kuriame kryžiuočiai neleido lietuvių-lenkų kariuomenei ilgai priešintis.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176250|vietininkas]]: Jogaila paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176255|vietininkas]]: Vladislovas Jogaila Vilniuje paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu.
@@ -818,13 +561,11 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     Skirgaila pasižadėjo ketverių metų būvyje pasikrikštyti su visu
     kraštu. Kitu aktu buvo daroma savotiška karinė sąjunga.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-- c-002
+    - t-010- c-002
   santrauka: 'Skirgaila neturėjo visos valdžios valstybėje, nes Vilnių Jogaila pasiliko sau.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -836,26 +577,22 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     kunigaikštijoje ėmė valdyti svetimieji, «ko anksčiau lietuvių
     žemėje nebūdavo »5 6.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020
-- c-003
+    - t-020- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Skirgailai buvo pavesta valdyti Vilniaus sritis. Jo valdžia
     nesiekė kitų kunigaikščių (Ged. giminės) teritorijų. Ji buvo la­
     bai apribota.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-028
-- c-004
+    - t-028- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Susitaikinęs Jogaila su Vytautu, stengėsi jį, pagaliau, su­
@@ -865,13 +602,11 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     kunigaikštijos. Po metų, kai vėl kilo tarp jų nesusipratimai,
     juos sutaikino Jadvyga.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025
-- c-005
+    - t-025- c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Klausimas kaip Lietuva
@@ -880,13 +615,11 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     Skirgailą, kurį, kaip sako Dlugošas, buvo paskyręs „pro prin­
     cipali duce“, „ut summe rerum in Lithuaniae praeesset^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-031
-- c-006
+    - t-031- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip
@@ -906,14 +639,12 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     Vaidilos, ir didysis komtūras, ku­
     ris jiems iškėlė puikias vaišes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-    - t-024
-- c-007
+    - t-024- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     116
@@ -930,14 +661,12 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     ir atiduoti į Vytauto rankas, kuris manė suskubsiąs su savo
     kariais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
-    - t-032
-- c-008
+    - t-032- c-008
   santrauka: 'Karalienė Jadvyga stengėsi sutaikyti Skirgailą su Vytautu, o sutartimis Skirgaila gavo Kijevo kunigaikštystę ir kelias pilis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -956,14 +685,12 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     48
     Długosz Histor.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
-    - t-013
-- c-009
+    - t-013- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau, apsuptas išdavikų,
@@ -978,13 +705,11 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
     neišvengiamos pražūties.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-033
-- c-010
+    - t-033- c-010
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^1) **Plačiau žr. G. Rhode : RhOP, I, 307, 344 p.**
@@ -999,14 +724,12 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     Skirgailos politinis svoris, kurio valdžion pateko svarbios že­
     mės, turėjo padidėti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-036
-    - t-035
-- c-011
+    - t-035- c-011
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ostrogo kunigaikštis Feodoras turėjo iš
@@ -1015,14 +738,12 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     sekė dar lengviau įvykdyti, kai mirė Skirgaila (1395 m.). Kre-
     meniecas vėl susijungė su Volynija^4 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
-    - t-029
-- c-012
+    - t-029- c-012
   santrauka: '1391 m. liepos 22 d. Jogaila dokumentu pažadėjo Skirgailai be jo žinios neatiduoti Vilniaus ir kitų miestų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1034,13 +755,11 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     ir jo palikuonys. Iš to matyt, kad Skirgaila sužinojo aukščiau
     minėtą projektą, kuriam jis skubinos užbėgti už akių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017
-- c-013
+    - t-017- c-013
   santrauka: 'Dėl Skirgailos niršaus būdo Vytautas negalėjo būti tikras, kad nebus pasikėsinta į jo gyvybę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1060,14 +779,12 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     Lietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­
     tinės Skirgailą ir paimti valdžią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
-    - t-037
-- c-014
+    - t-037- c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Išties trumpas, bet itin nesėkmingas buvo Vilniui Skir­
@@ -1084,13 +801,11 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     censis, bet niekur nėra Dux Lithua-
     niae.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-- c-015
+    - t-016- c-015
   santrauka: 'Skirgaila, gavęs valdžią, aplaidumu ir žiauriu elgesiu nuteikė prieš save didesnę Lietuvos dalį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1111,14 +826,12 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     mu užėmė ano valdos sostinę Gardiną ir šiaip taip
     patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-    - t-005
-- c-016
+    - t-005- c-016
   santrauka: 'Jogaila paskyrė Skirgailą savo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu, pavaldžiu karaliaus valdžiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1134,14 +847,12 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     gaila išleido savo seserį Aleksandrą, ir Jonušo, vyresniojo
     Mazovijos kunigaikščio, kuris vedė Vytauto seserį Oną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
-    - t-023
-- c-017
+    - t-023- c-017
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tačiau viso šio darbo
@@ -1153,14 +864,12 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     traukti ir antrą kartą bėgti pas kryžiuočius ir pradėti su Jo­
     gaila karą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-    - t-019
-- c-018
+    - t-019- c-018
   santrauka: 'Trakuose viešpatavusio Skirgailos išvarymas galėjo sukelti naują karą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1170,13 +879,11 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     tėviškę. Tuo tarpu Trakuose viešpatavo Skirgaila, kurio išva­
     rymas vėl galėjo sukelti naują karą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-- c-019
+    - t-007- c-019
   santrauka: 'Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1187,13 +894,11 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     Vėliau laisvę atgavęs, Andrius žuvo Vytauto pusėje 1399 m. besi­
     kaudamas su totoriais prie Vorsklos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-- c-020
+    - t-015- c-020
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tik taikos sutartyje tarp Ordi­
@@ -1211,13 +916,11 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     didysis Lietuvos kunigaikštis ir Tra­
     kų bei Polocko valdovas].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021
-- c-021
+    - t-021- c-021
   santrauka: 'Vytautas negalėjo taikstytis su Skirgailos paaukštinimu, todėl Gardine susimokė išvyti Skirgailą iš sostinės ir paimti valdžią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1238,13 +941,11 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     18
     Slap t. Karai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034
-- c-022
+    - t-034- c-022
   santrauka: 'Skirgaila nuolatine buveine pasirinko Trakų pilį ir išvykdavo į mūšius su Prūsijos ordinu bei maištaujančiais kunigaikščiais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1257,13 +958,11 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     Baltojoje Rusioje maištaujančiais įvairių valdų kunigaikš­
     čiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027
-- c-023
+    - t-027- c-023
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     To­
@@ -1280,13 +979,11 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     pats sužeistuosius apraišiodavo, nes tais laikais buvęs geras
     chirurgas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-- c-024
+    - t-004- c-024
   santrauka: '1393 m. tarp Vytauto ir Skirgailos kilo smarkus ginčas, kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1298,13 +995,11 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     kunigaikštis. 1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas,
     kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-- c-025
+    - t-003- c-025
   santrauka: '1394 m. Vytautui panaikinus Kijevo kunigaikštiją, Kijevą gavo Skirgaila.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1314,13 +1009,11 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014
-- c-026
+    - t-014- c-026
   santrauka: 'Jogaila pasiuntė brolį Skirgailą su slaptais įgaliojimais į Vakarų Europą, o Marienburge Skirgaila buvo draugiškai priimtas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1332,13 +1025,11 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     nusakyti, bet vis dėlto jis negalėjo neturėti ryšio su tais santy­
     kiais, kuriuos vėliau Jogaila užmezgė su Vokiečių Ordinu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012
-- c-027
+    - t-012- c-027
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taip galvoti
@@ -1349,13 +1040,11 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     mu nebuvo jos tarpe populiarus ir nesugebėjo sujungti vienon
     galybėn skylančių Lietuvos jėgų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018
-- c-028
+    - t-018- c-028
   santrauka: 'Jogaila po susitaikymo su Vytautu sutaikė jį ir su didžiausiu Vytauto priešu Skirgaila.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1370,13 +1059,11 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     imti Kijevą ir atiduoti jam Kremencą ir Stožką vietoj Trakų
     kunigaikštijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-- c-029
+    - t-006- c-029
   santrauka: '1387–1392 m. Skirgaila neturėjo visos valdžios Lietuvoje, nes Vilnių Jogaila pasiliko sau.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1386,13 +1073,11 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
     Klemensas Moskorzewskis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-038
-- c-030
+    - t-038- c-030
   santrauka: 'Skirgaila Šventaragio slėnyje surengė Kęstučiui karališkas šermenis ir laidotuves.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1416,13 +1101,11 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     slėnyje surengė dėdei karališkas šermenis ir laidotu­
     ves.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-039
-- c-031
+    - t-039- c-031
   santrauka: 'Narbutas Lietuvos 1386–1447 m. laikotarpį apibūdino kaip didžiausios galybės epochą ir rašė, kad Vytautas sostą paveldėjo iš Skirgailos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1435,10 +1118,8 @@ Skirgaila pristatomas kaip Jogailos brolis ir vietininkas Lietuvoje iki 1392 m.,
     siekė didžiausios savo galybės laikotarpį, ypač valdant Vytautui,
     kuris sostą paveldėjo iš Skirgailos.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-040
 

@@ -43,63 +43,27 @@ Nenurodyta
 - t-001
   global_id: t-75368
   teiginys: 'Viešas lietuvių kalbos vartojimas ir lietuviškų pamaldų reikalavimai bažnyčiose kėlė lenkiškai kalbančiųjų opoziciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Kaimas; mentioned_place: Viena; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 233746-234181; hash=5c51344f301cf4c16b40d70505c33febd8c344dd574c3a4b98dd46b4e69cff54; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Lenkai: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Lietuvių kalbos viešas vartojimas kėlė lenkiškai kalbančiųjų opoziciją, todėl ryšys rodo priešpriešą tarp grupių.
 
 <a id="claim-t-75369"></a>
 - t-002
   global_id: t-75369
   teiginys: 'Būsimų tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kartu su krikščionimis demokratais kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
-  sudarymo_pagrindimas: 'Citata remia tikslesnį teiginį su aiškiai įvardytais veikėjais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 241679-242384; hash=4c4a4872137aae560fcd8bd1309ee87ef1f2f8c67b1804053ad42de0c28a9d9e; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Lietuviai: 0.76
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Krikščionys: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad krikščionys demokratai pritarė etninių lietuvių tautiniam sąjūdžiui.
 
 <a id="claim-t-75370"></a>
 - t-003
   global_id: t-75370
   teiginys: 'Viešas kalbėjimas lietuviškai ir lietuviškų pamaldų reikalavimai bažnyčiose kėlė lenkiškai kalbančiųjų opoziciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Kaimas; mentioned_place: Viena; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 233746-234181; hash=5c51344f301cf4c16b40d70505c33febd8c344dd574c3a4b98dd46b4e69cff54; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Lenkai: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo lenkiškai kalbančiųjų opoziciją lietuvių kalbos viešam vartojimui.
 
 <a id="claim-t-75371"></a>
 - t-004
   global_id: t-75371
   teiginys: 'Krikščionys demokratai ir būsimi tautininkai kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
 
@@ -115,7 +79,6 @@ Nenurodyta
     vis labiau tolo nuo lietuviškai kalbančių kaimo gyventojų, o tautiškai ne-
     susipratę kunigai jau rimtai kirtosi su lietuvių aspiracijomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -137,7 +100,6 @@ Nenurodyta
     no Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos
     bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

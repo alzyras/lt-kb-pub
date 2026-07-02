@@ -44,9 +44,6 @@ Nenurodyta
 - t-001
   global_id: t-62823
   teiginys: 'Ketvirtosios atskalūnybės sąmokslas buvo susektas statant Ragainės pilį, o kaltinami bartai ir pagudėnai buvo nubausti.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pradinė formuluotė turi vertinamosios kalbos ir nereikalingą atribuciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_place: Ragainė; mentioned_place: Prūsija; mentioned_place: Semba'
   pagrindžia:
     - c-001
 
@@ -68,11 +65,9 @@ Nenurodyta
     šlykštus sąmokslas buvo susektas tada, kai statė Ragainės pilį523, ir kiekvienas bartas bei
     pagudėnas, kaltinamas dėl šio niekingo sąmokslo, gavo tinkamą atpildą už savo darbus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
     - t-001

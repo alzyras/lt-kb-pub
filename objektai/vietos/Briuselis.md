@@ -29,11 +29,6 @@ Derybos prasidėjo Briuselyje 1921 metų balandžio 20 d.
 - t-001
   global_id: t-170309
   teiginys: 'Įstojusi į Europos Sąjungą Lietuva galėjo Briuselyje reikšti savo poziciją įvairiais klausimais ir veikti ES sprendimus.'
-  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir paliktas citatos palaikomas faktas apie Briuselį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas Brazauskas|Algirdas Brazauskas]]; mentioned_person: [[objektai/asmenys/Antanas Valionis|Antanas Valionis]]; mentioned_place: Europa; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 2003 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir paliktas citatos palaikomas faktas apie Briuselį.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Algirdas Brazauskas.md#claim-t-75684|Algirdas Brazauskas]]: 2003 m. Atėnuose Algirdas Brazauskas pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.
@@ -63,7 +58,6 @@ Derybos prasidėjo Briuselyje 1921 metų balandžio 20 d.
     dimams nedidelė, Vidurio ir Rytų Europos šalių pozicijoms tam tikrais
     atvejais sutapus, jų kolektyvinė galia gali gerokai padidėti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

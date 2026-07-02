@@ -27,7 +27,6 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
 - t-001
   global_id: t-07705
   teiginys: 'Karšinčius turėjo nukaršinti priėmusius tėvus ir po jų mirties paveldėdavo visą turtą.'
-  sudarymo_pagrindimas: 'Citata remia globos ir paveldėjimo pareigas, bet ne bendrą išlaikymą.'
   pagrindžia:
     - c-001
     - c-002
@@ -36,7 +35,6 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
 - t-002
   global_id: t-07706
   teiginys: 'Karšinčius galėjo būti mažasis sūnus, likęs tėvų namuose ir paveldėjęs tėviškę bei palikimą.'
-  sudarymo_pagrindimas: 'Citata remia konkretesnį paveldėjimo vaidmenį.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82182|Aleksandras Jogailaitis]]: Žinia apie 1506 m. rugpjūtį pasiektą Lietuvos pergalę prie Klecko Aleksandrą Jogailaitį pasiekė Vilniuje.
@@ -48,7 +46,6 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
   citata_originali: |
     Nes jei vyresnieji sūnai buvo išrėdyti^1118 iš namų viršiau minavotu pragumu, tad mažasis sunūs paliko butoje tėvų karšinčium ir veldėjo tėviškę ir visą palikimą; jam reikėjo seseris išrėdyti^1119 su tokia pasoga^1120 , kokią tėvas mirdamas buvo joms padėjęs, jei nebuvo padėta, mažasis brolis turėjo iš trečiosios dalies savo tėviškės išrėdyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -60,7 +57,6 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
   citata_originali: |
     Jei tėvai bevaikiai buvo, tad priėmė sau karšinčių, kurs, įstojęs į sūnaus vietą, į karę turėjo traukti už tėvą, nuo ko ir karšinčium vadinos, priimti vardą savo geradėjų ir juos nukaršinti padoriai, kaip pridera sūnui savo tėvus, kuriems mirus, visa paveldėjo, it būt jų sūnus buvęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

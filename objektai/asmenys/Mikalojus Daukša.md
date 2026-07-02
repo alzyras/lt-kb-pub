@@ -33,9 +33,6 @@ periodo_grupes: []
 - t-001
   global_id: t-78026
   teiginys: 'Daukšos lietuviakalbė programa nebuvo įgyvendinta.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  temporaliniai_duomenys: 'įvykio data: 1646 m.; įvykio data: 1737 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/posakiai/„Kurgi, sakau, pasaulyje yra tauta...“.md#claim-t-67311|„Kurgi, sakau, pasaulyje yra tauta...“]]: Posakiu „Kurgi, sakau, pasaulyje yra tauta...“ Mikalojus Daukša pabrėžė tėvų žemę, papročius ir kalbą kaip savus tautos dalykus.
@@ -52,7 +49,6 @@ periodo_grupes: []
     kalbos funkcionavimu kasdieniu – Bažnyčios ir mokyklos – lygmeniu.
     Todėl M. Daukšos lietuviakalbė programa nebuvo įgyvendinta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -43,63 +43,24 @@ Nenurodyta
 - t-001
   global_id: t-62678
   teiginys: 'Prūsai pasistatydino daug laivų, kad naikintų maistą į Karaliaučiaus pilį gabenusius brolių laivus.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje aprašytą prūsų veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c3ac7db8145d17a99d2c19a63003fe4b800cdd6a2d0e1225829eba6eaa3aeadc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis): owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=43
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-62679"></a>
 - t-002
   global_id: t-62679
   teiginys: 'Karaliaučiaus pilį, kaip ir Kroicburgo bei Bartenšteino pilis, apgulėjai apsupo trimis stipriais kuorais.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Bartenšteinas; mentioned_place: Kroicburgas'
   pagrindžia:
     - c-003
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=894d47e22154db58298123a966a04a9d2c06ceee9a9b0c3758b1562f6a74a945; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Laivai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis): owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Laivai: mention_match, thing, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-62680"></a>
 - t-003
   global_id: t-62680
   teiginys: 'Prūsai pastatė tiltą per Priegliaus upę ir įrengė kuorus, siekdami trukdyti reikmenų gabenimui į Karaliaučiaus pilį.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir su antraštės triukšmu; citata palaiko tilto ir kuorų paskirtį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Prieglius; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fe7b5ec1c41b354d16cc22a4360d4fab2db5171312ece5bfbdb4cdb67132db23; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis): owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kuorai: mention_match, thing, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)" parinktas kaip owner_note_path. Targetas "Kuorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -117,7 +78,6 @@ Nenurodyta
     puldinėję brolių laivus, kurių nemaža jau buvo sunaikinę, o įgulas paėmę nelaisvėn ir
     išžudę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -141,7 +101,6 @@ Nenurodyta
     su tokia daugybe priešų, kad broliai galėtų, juos išvaikę, iki pamatų išardyti ir sunaikinti
     tiltą bei kuorus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -158,7 +117,6 @@ Nenurodyta
     stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl
     apsuptieji negalėjo nei įeiti, nei išeiti iš pilies.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -175,7 +133,6 @@ Nenurodyta
     antpuolių, kokių patyrė pavojų, kokį nepakeliamą alkį ir šiaip stygių kentė apsuptieji
     broliai ir kiti žmonės šiose pilyse.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

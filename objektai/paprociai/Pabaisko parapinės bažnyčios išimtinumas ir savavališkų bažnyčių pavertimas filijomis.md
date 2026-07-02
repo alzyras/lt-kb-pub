@@ -43,39 +43,15 @@ Nenurodyta
 - t-001
   global_id: t-87218
   teiginys: 'Pabaisko parapijos ribose neturėjo veikti kita parapinė bažnyčia, o savavališkai pastatytos bažnyčios turėjo tapti Pabaisko filijomis.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi OCR triukšmo, bet citata remia aiškų faktą.'
-  susije_objektai: 'mentioned_place: Kertuša; mentioned_place: Vilnius; mentioned_place: Šesarka; mentioned_place: Šešulka; mentioned_place: Šešuolė; mentioned_place: Širvinta'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 492517-493575; hash=fd8b6e1f16df55cbd136c0af8ebbb64ed229179ef47ea6ee7a4051a622609d46; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kertuša: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kertuša: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis" parinktas kaip owner_note_path. Targetas "Kertuša" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-87219"></a>
 - t-002
   global_id: t-87219
   teiginys: 'Pabaisko parapijos ribose neturėjo būti statoma ar veikti kita parapinė bažnyčia, kad ji nedarytų nuostolio Pabaisko bažnyčiai.'
-  sudarymo_pagrindimas: 'Citata palaiko parapijos išimtinumą; pašalinta dokumento formulė ir nutrūkęs fragmentas.'
-  susije_objektai: 'mentioned_place: Kertuša; mentioned_place: Vilnius; mentioned_place: Šesarka; mentioned_place: Šešulka; mentioned_place: Šešuolė; mentioned_place: Širvinta'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 492843-493925; hash=46cb65ceb1adcdcfcc03507a33fa560a4de6337e6bfd9deeaa6f4baa3c0c0489; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kertuša: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kertuša: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis" parinktas kaip owner_note_path. Targetas "Kertuša" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -107,7 +83,6 @@ Nenurodyta
     Filia subjectaque Ecclesiae Poboyscensi fiat, qualis dicitur ex-
     tructa esse Ecclesia in Wronowo seu Wiesza.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -141,7 +116,6 @@ Nenurodyta
     num distillatum, et omnis Generis Potus propinari sine quovis
     impedimento licebit.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

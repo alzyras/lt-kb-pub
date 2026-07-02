@@ -36,16 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 415341-415901; hash=229099a576dcdf54d3078e8a31e0449c11a1c4798c59d32294969d41c88f1645; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Aukurai: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Romėnai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Aukurai: llm_allowed_candidate, thing
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad romėnai statė aukurus.
 - susijęs iš [[objektai/grupes/Senovės romėnai.md#claim-t-189375|Senovės romėnai]]: Narbutas lygina, kad senovės egiptiečiai, graikai ir romėnai statė prabangius aukurus atskiriems dievams.
 - susijęs iš [[objektai/daiktai/Amžinosios ugnies aukuras, malkos ir pelenai.md#claim-t-189673|Amžinosios ugnies aukuras, malkos ir pelenai]]: Narbutas nuolatinės aukos esme laikė niekad negęstančios ugnies kurstymą Praurimės, Kurko, Perkūno ir Amžinosios ugnies aukuruose.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188277|Lietuviai]]: Narbutas teigė, kad lietuviai senojoje religijoje daug reikšmės skyrė ugniai ir šventiesiems aukurų židiniams.
@@ -86,10 +76,8 @@ Nenurodyta
     prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
     kai kuriuos, buvusius Perkūno šventyklose.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

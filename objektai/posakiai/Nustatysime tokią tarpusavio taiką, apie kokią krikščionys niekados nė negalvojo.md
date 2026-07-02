@@ -34,38 +34,15 @@ Tai iškilminga ir hiperbolinė taikos pažado formulė.
 - t-001
   global_id: t-54760
   teiginys: 'Lietuviškame vertime pažadas suformuluotas kaip taika, apie kokią krikščionys niekados nė negalvojo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 143792-145019; hash=200f4c1984634f202ee4a4851ed787626f1a062b7e0bfbc346102a5dca50ed80; match=whitespace_regex
-  sprendimo_priezastis: gap::sayings
-  ryšio_patikimumas: susije_su -> Krikščionys: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Krikščionys: mention_match, group, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo" parinktas kaip owner_note_path. Targetas "Krikščionys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54761"></a>
 - t-002
   global_id: t-54761
   teiginys: 'Formulė „talem pacem ordinabimus“ žadėjo nustatyti tokią taiką, kokios krikščionys nebuvo patyrę.'
-  sudarymo_pagrindimas: 'Manual fix after rewrite gate.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 146144-146900; hash=438a659eef8d23dabfaa178414da05899c8d8fa148bb4d344f079e07eae9d673; match=whitespace_regex
-  sprendimo_priezastis: gap::sayings
-  ryšio_patikimumas: susije_su -> Krikščionys: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Krikščionys: mention_match, group, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo" parinktas kaip owner_note_path. Targetas "Krikščionys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -94,7 +71,6 @@ Tai iškilminga ir hiperbolinė taikos pažado formulė.
     et mortificationem clericorum, Je talibus monacbis sibi unus­
     quisque caueat consulimus Jominorum.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -117,7 +93,6 @@ Tai iškilminga ir hiperbolinė taikos pažado formulė.
     mingai prižadame jums visiems, kad nustatysime tokią tar­
     pusavio taiką, apie kokią krikščionys niekados nė negalvojo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

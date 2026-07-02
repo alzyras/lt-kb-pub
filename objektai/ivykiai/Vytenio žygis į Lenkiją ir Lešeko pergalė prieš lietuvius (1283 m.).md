@@ -36,23 +36,8 @@ Nenurodyta
 - t-001
   global_id: t-185790
   teiginys: 'Vytenis, sutelkęs didesnę nei įprasta kariuomenę, užpuolė lenkų kraštą, nuniokojo Lukovo apylinkes ir įsiveržė į Sandomiro žemę.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko konkretų žygio veiksmą, o pradinis teiginys nutrūkęs ir per daug interpretacinis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Lukovas; mentioned_place: Sandomiras; llm_object: Lukovas; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Jotvingija; llm_object: Sandomiras; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 259337-260290; hash=72f41166a579b8ea41460fca826150dce92d8ef92ee0eadb8439f5e3b7de4f69; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Lukovas: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lukovas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Lukovo apylinkių nuniokojimas tiesiogiai priskirtas Vyteniui.
 
 ## Reikšmingi paminėjimai
 
@@ -80,10 +65,8 @@ Nenurodyta
     vaikų, be kito grobio, išsivarė šešis tūkstančius žmo­
     nių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

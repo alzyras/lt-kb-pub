@@ -29,12 +29,6 @@ amziai:
 - t-001
   global_id: t-182853
   teiginys: '1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą.'
-  sudarymo_pagrindimas: 'Citata pagrindžia faktą, o įvestyje įvardis pakeistas aiškiu vardu.'
-  susije_objektai: 'llm_object: Ovručas; llm_object: Žitomiras; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Ovručas; mentioned_place: Vladimiras; llm_object: Vladimiras'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užėmė Žitomiras'
-  temporaliniai_duomenys: 'įvykio data: 1394 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą, o įvestyje įvardis pakeistas aiškiu vardu.'
   pagrindžia:
     - c-001
 - susijęs iš Ovručas: 1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą.
@@ -62,7 +56,6 @@ amziai:
     mes ir paėmė Ovručą ir Žitomirą. Nusigandęs Vladimiras at­
     važiavo Vytautui nusilenkti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -34,7 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-09593
   teiginys: 'Partizanai dažnai įrengdavo požemines slėptuves upelio kranto šlaite, kur buvo lengviau gauti vandens ir slėpti pėdsakus.'
-  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet papildytas vandens motyvu ir tiksliau suformuluotas pagal šaltinį.'
   pagrindžia:
     - c-002
 
@@ -49,7 +48,6 @@ Nenurodyta
 - t-003
   global_id: t-09595
   teiginys: 'Partizanai slėptuves įsirengdavo sodybose, o nenorėdami pakenkti rėmėjams stengdavosi bunkerius įrengti miške.'
-  sudarymo_pagrindimas: 'Citata remia priežastį ir slėptuvių vietas, bet ne bendrą „vėliau“ formuluotę.'
   pagrindžia:
     - c-004
 
@@ -72,7 +70,6 @@ Nenurodyta
     partizanų judėjimas būdavo labai apribotas, ant sniego pėdsakus aptikti lengva, todėl
     ypač vėlesniais rezistencijos metais dažniausiai tekdavo visą žiemą pratūnoti po žeme.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -84,7 +81,6 @@ Nenurodyta
     Tipiškas partizanų bunkeris. Žaliukai dažnai stengdavosi įrengti savo požemines slėptuves upelio
     kranto šlaite (lengvai pasiekiamas vanduo, einant upeliu, buvo galima geriau paslėpti pėdsakus).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,7 +98,6 @@ Nenurodyta
     ir šeimininkai, sodyba šturmo metu, ar po jo, dažnai būdavo sudeginama, šeimininkai,
     jei likdavo gyvi, ištremiami.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -120,7 +115,6 @@ Nenurodyta
     bunkerius įsirengti miške. Ankstyviausi bunkeriai būdavo maži, skirti laikinam prie-
     globsčiui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -22,20 +22,8 @@ Dusburgietis teigia, kad žodis dažnai apibūdina gyvenvietę iki miesto privil
 - t-001
   global_id: t-60708
   teiginys: 'R. Grieseris aiškino, kad žodis dažnai apibūdina gyvenvietę iki miesto privilegijos suteikimo.'
-  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Grieserio aiškintą sąvoką.'
-  susije_objektai: 'mentioned_place: Tepliava'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 166628-166855; hash=d2068f1dcfdb2fbb53e191136ed0bf4ef8bdb385d21c9cb057731f1566a29287; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Tepliava: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Grieser R: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Tepliava: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Grieser R" parinktas kaip owner_note_path. Targetas "Tepliava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -48,7 +36,6 @@ Dusburgietis teigia, kad žodis dažnai apibūdina gyvenvietę iki miesto privil
     nuo Bartenšteino), Lyskow, Liskaw, Liskouwe, vėliau Lischkau  į šiaurę nuo Tepliavos
     ir kt.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

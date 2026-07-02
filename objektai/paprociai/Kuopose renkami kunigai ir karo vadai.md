@@ -34,8 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-07788
   teiginys: 'Į kuopas suėjęs svietas rinkdavo žynius arba kunigus iš dorų, išmintingų ir patyrusių vyrų.'
-  sudarymo_pagrindimas: 'Teiginį reikia aiškiai susieti su kuopose renkamais kunigais.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
     - c-002
@@ -50,7 +48,6 @@ Nenurodyta
         pakėlė tarp savęs vieną į senojo vietą, taip pat senelį, 70 ar 80 metų turintį, ir į tą jų darbą svietas
         nesikišo. Kokia rėdą Lietuvos tautoje, rodos, didžiai ilgai buvusi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -65,7 +62,6 @@ Nenurodyta
         rinko pats svietas, į kuopas^974 suėjęs, tarp savęs, vyrus dorus, išmintingus, viso prityrusius, kuriems,
         kūrėjų kūrėjo pasiteiraujant, ūkės^975 lietą^976 rėdyti reikėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

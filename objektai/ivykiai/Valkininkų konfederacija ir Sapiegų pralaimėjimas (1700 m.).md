@@ -48,7 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-78641
   teiginys: 'Valkininkų kautynės baigėsi Sapiegų pralaimėjimu, o jų kariuomenei vadovavęs Mykolas Sapiega buvo apsuptas ir pasidavė.'
-  sudarymo_pagrindimas: 'Fragmentas perrašytas į savarankišką sakinį be nutrūkusios pabaigos.'
   pagrindžia:
     - c-002
 
@@ -56,8 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-78642
   teiginys: 'Karolio Zikaro sudarytame leidinyje Valkininkų mūšis siejamas su suirutės Lietuvoje pradžia ir kaimynų įtakos stiprėjimu.'
-  sudarymo_pagrindimas: 'Tai interpretacinis teiginys, todėl pridėta šaltinio atribucija.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Valkininkai; mentioned_author: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Valkininkų konfederacija.md#claim-t-78533|Valkininkų konfederacija]]: Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė.
@@ -90,7 +87,6 @@ Nenurodyta
 
     I. KUNIGAIKŠTYSTĖ
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -110,7 +106,6 @@ Nenurodyta
     sydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu
     buvo sukapoti dar du belaisviai).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

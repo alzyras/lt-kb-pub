@@ -31,42 +31,15 @@ Bermonto-Avalovo, siekusio nuversti bolševikus Rusijoje ir atkurti Rusijos impe
 - t-001
   global_id: t-40379
   teiginys: 'Vokiečių remiamas buvęs carinės Rusijos kariuomenės pulkininkas P. Bermontas-Avalovas vadovavo Rusijos vakarų armijai.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako P. Bermonto-Avalovo statusą ir vadovavimą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/P. Bermontas-Avalovas|P. Bermontas-Avalovas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Baltija; mentioned_place: Rusija'
-  semantiniai_rysiai: '[[objektai/grupes/Vokiečiai|Vokiečiai]] rėmė [[objektai/asmenys/P. Bermontas-Avalovas|P. Bermontas-Avalovas]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 774339-774776; hash=f61c53ba503d09bf98594b7c0f9c9c03b55548e5d516ae6b1de37f0759fc560f; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Mintauja: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: P. Bermontas-Avalovas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Mintauja: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Jo pajėgos tiesiogiai nurodytos telkusis Mintaujoje; asmuo siejamas per jo pajėgas.
 
 <a id="claim-t-40381"></a>
 - t-002
   global_id: t-40381
   teiginys: 'P. Bermontas-Avalovas siekė nuversti bolševikus Rusijoje ir atkurti Rusijos imperiją, o jo pajėgos 1919 m. telkėsi Mintaujoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Mintauja; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Virgoličius|Virgoličius]]; mentioned_place: Lietuva; llm_object: Mintauja'
-  semantiniai_rysiai: '[[objektai/asmenys/P. Bermontas-Avalovas|P. Bermontas-Avalovas]] keliavo į Mintauja'
-  temporaliniai_duomenys: 'įvykio data: 1919 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=519a31dfa177981c93e4be70addcf67f797ced80d7e0532c142419e5f8273c26; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> P. Bermontas-Avalovas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vokiečiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: P. Bermontas-Avalovas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginyje Bermontas-Avalovas tiesiogiai apibūdintas kaip vokiečių remiamas.
 
 ## Reikšmingi paminėjimai
 
@@ -84,7 +57,6 @@ Bermonto-Avalovo, siekusio nuversti bolševikus Rusijoje ir atkurti Rusijos impe
     mos pajėgos turėjo užimti Latviją, jam pavaldaus plk.
     Virgoličiaus pajėgos turėjo užimti Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -101,7 +73,6 @@ Bermonto-Avalovo, siekusio nuversti bolševikus Rusijoje ir atkurti Rusijos impe
     vokiečių remiamas buvęs carinės Rusijos
     kariuomenės plk. P. Bermontas-Avalovas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -23,8 +23,6 @@ Dusburgietis teigia, kad prūsai tikėjo, kad kūnas prisikelia iš numirusiųj�
 - t-001
   global_id: t-58908
   teiginys: 'Dusburgiečio kronikoje nobilis žymi prūsų ir lietuvių visuomenės socialines viršūnes.'
-  sudarymo_pagrindimas: 'Citata aiškiai paaiškina termino reikšmę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsų žemė; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Anglija; mentioned_place: Lenkija; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -49,7 +47,6 @@ Dusburgietis teigia, kad prūsai tikėjo, kad kūnas prisikelia iš numirusiųj�
        Ilgainiui kilmingiesiems apibūdinti Prūsijoje įsigalėjo vitingų, o Lietuvoje — bajorų
     vardas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

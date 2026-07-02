@@ -38,20 +38,8 @@ Nenurodyta
 - t-001
   global_id: t-08289
   teiginys: 'Kaltininkus pririšdavo prie dybo ir plakdavo.'
-  teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Vieža|Vieža]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=df84e3e421f4780fe1f6626ba687cadba955308b1cb70139c82695f0f3b770c0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> vieža: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dybas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: vieža: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dybas" parinktas kaip owner_note_path. Targetas "vieža" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -66,7 +54,6 @@ Nenurodyta
         vėžys pakerėj turėjo lindoti. Tuos, kurie svetimas bites kieme ar girioj bartis^1130 išlaužė, prikalus
         bambą prie aulio ar drevės, varė apsukui pliekdami, lig žarnos neišėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

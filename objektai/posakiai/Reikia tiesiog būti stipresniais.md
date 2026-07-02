@@ -21,12 +21,8 @@ Reikia tiesiog būti stipresniais.
 - t-001
   global_id: t-39036
   teiginys: 'Posakis „Reikia tiesiog būti stipresniais“ apibūdina karių pareigą mūšyje nepasiduoti baimei, panikai ir savisaugos instinktui.'
-  sudarymo_pagrindimas: 'Pradinis tekstas yra tik posakis, o citata paaiškina jo kontekstą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 43825-44159; hash=5a0646abe07c7694eee16d6280a24c8ab568e9841146415a245880da08f9baeb; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -41,7 +37,6 @@ Reikia tiesiog būti stipresniais.
     duoti savisaugos instinktui, kaustančiai baimei, kylančiai panikai
     ir įvykdyti savo pareigą. Reikia tiesiog būti stipresniais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

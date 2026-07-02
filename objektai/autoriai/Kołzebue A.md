@@ -28,15 +28,8 @@ Dusburgietis teigia, kad kołzebue A.
 - t-001
   global_id: t-60845
   teiginys: 'Kołzebue A. 1808 m. Rygoje išleido antrąjį veikalo „Preußens ältere Geschichte“ tomą.'
-  sudarymo_pagrindimas: 'Citata nurodo autorių, veikalo tomą, leidimo vietą ir metus.'
-  temporaliniai_duomenys: 'įvykio data: 1808 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata nurodo autorių, veikalo tomą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 779569-779629; hash=ff3ddfab71614780032b3fbe70380d4c9c53ed5d10966ce37b08e20a073205d3; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -46,7 +39,6 @@ Dusburgietis teigia, kad kołzebue A.
   citata_originali: |
     Kołzebue A. Preußens ältere Geschichte.— Bd. 2.— Riga, 1808.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

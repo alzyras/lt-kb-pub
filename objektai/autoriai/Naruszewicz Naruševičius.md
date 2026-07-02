@@ -31,9 +31,6 @@ periodo_grupes:
 - t-001
   global_id: t-87996
   teiginys: 'Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1816 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -52,7 +49,6 @@ periodo_grupes:
     siradę dar Gedimino ir Algirdo lai­
     kais, tačiau nėra patikimų to įrodymų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

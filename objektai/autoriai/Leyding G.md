@@ -30,15 +30,8 @@ Dusburgietis teigia, kad see, lyginame su 1401 m. dokumentų Colmen/Kaelmen (GAO
 - t-001
   global_id: t-60743
   teiginys: 'G. Leydingas pateikė Kölmsee ir Kolm formas ežero vardui Osos aukštupyje apibūdinti.'
-  sudarymo_pagrindimas: 'Citata palaiko konkretų autoriaus žodyne pateiktų vardų faktą.'
-  temporaliniai_duomenys: 'įvykio data: 1401 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko konkretų autoriaus žodyne pateiktų vardų faktą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 183751-184024; hash=a9ecaf2dded8da44eeb89b312699a84d73e7e894035f8110e0a01bc185631289; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -51,7 +44,6 @@ Dusburgietis teigia, kad see, lyginame su 1401 m. dokumentų Colmen/Kaelmen (GAO
     Słownik..., d. 2, p, 315) — ežero  į šiaurės vakarus nuo dab, Ylavos Osos aukštupyje
     (pietrytinėje Pamedėje) vardu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

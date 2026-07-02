@@ -27,11 +27,6 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 - t-001
   global_id: t-70155
   teiginys: 'Sovietų santvarkai hipių veikla nesiderino su homo sovieticus nustatytomis gyvenimo taisyklėmis.'
-  sudarymo_pagrindimas: 'Reikia tiksliau ir sklandžiau perteikti citatoje esančią formuluotę apie homo sovieticus taisykles.'
-  susije_objektai: 'mentioned_place: Praha'
-  temporaliniai_duomenys: 'įvykio data: 1968 m.; įvykio data: apie 1968 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Reikia tiksliau ir sklandžiau perteikti citatoje esančią formuluotę apie homo sovieticus taisykles.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Hipių judėjimas sovietinėje Lietuvoje.md#claim-t-183132|Hipių judėjimas sovietinėje Lietuvoje]]: Sovietinės Lietuvos hipių judėjimas protestavo prieš sovietinę sistemą, o ne prieš vartotojišką visuomenę kaip Vakarų hipiai.
@@ -53,7 +48,6 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
     ilgi plaukai) niekaip nesiderino su homo sovieticus nustatyto gyvenimo
     taisyklėmis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -73,7 +67,6 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
     rašomas teisės pažeidimų protokolas, ne vienas jų išmestas iš aukštosios
     mokyklos ar kitos mokymo įstaigos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

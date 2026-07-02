@@ -21,20 +21,8 @@ tags:
 - t-001
   global_id: t-35744
   teiginys: 'Jogaila su Pamario kunigaikščių sąjunga rėmė koaliciją, kuri priešinosi Vytautui dėl Smolensko.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pamaris; mentioned_place: Smolenskas; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Maskva; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
-  semantiniai_rysiai: '[[objektai/grupes/Pamario kunigaikščių sąjunga|Pamario kunigaikščių sąjunga]] buvo priešas [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=73b44ad7c67fa7a38528be50ebe16a1fb8deb627b8d8af070af00f0a751b3f49; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pamario kunigaikščių sąjunga: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Claim tekstas sieja Pamario kunigaikščių sąjungos remtą koaliciją su priešinamusi Vytautui, bet koalicija nėra atskiras leidžiamas objektas.
 
 ## Reikšmingi paminėjimai
 
@@ -51,7 +39,6 @@ tags:
     čių sąjunga su Maskva priešaky atpuolė, ir tuo pačiu Vytautas
     tylėjimu išgavo Smolensko užėmimo aprobaciją (pripažinimą).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

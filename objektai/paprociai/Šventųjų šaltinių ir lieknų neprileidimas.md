@@ -34,7 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-07824
   teiginys: 'Žemaičiai neleisdavo krikščionims artintis prie savo šventųjų šaltinių ir lieknų, nes bijojo, kad jie juos suterš ar sumaitos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   pagrindžia:
     - c-001
 
@@ -47,7 +46,6 @@ Nenurodyta
         krikščionių prie pačių savo šaltenių ir lieknų, idant jų krikščionys neįurštų^682 ir
         nesumaitotų.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

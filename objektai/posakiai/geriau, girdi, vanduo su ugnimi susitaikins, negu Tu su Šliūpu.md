@@ -20,12 +20,8 @@ Gerai man vienas inteligentas sakė, kai ketinau važiuoti į Ameriką: geriau, 
 - t-001
   global_id: t-02089
   teiginys: 'Vienas inteligentas prieš kelionę į Ameriką perspėjo, kad vanduo su ugnimi greičiau susitaikins negu adresatas su Šliūpu.'
-  sudarymo_pagrindimas: 'Pataisyta citatos forma ir pašalinta laiško pabaigos nuotrupa.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=06d6e4d0850e936ae1c98cd627e661009331b666cab6062bfac0bcf883670293; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -38,7 +34,6 @@ Gerai man vienas inteligentas sakė, kai ketinau važiuoti į Ameriką: geriau, 
     girdi, vanduo su ugnimi susitaikins, negu Tu su Šliūpu. Likie
     sveikas, tegul Tau Dievas padeda".
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

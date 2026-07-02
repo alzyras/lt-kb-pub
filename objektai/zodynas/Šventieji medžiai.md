@@ -21,16 +21,6 @@ Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medž
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 397673-398001; hash=6784260065cc112a2986673813921dae8ec7ab1e3eaff11fdb8b4e18c834b9b9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> stabmeldžiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šventieji medžiai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: stabmeldžiai: mention_match, thing, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventieji medžiai" parinktas kaip owner_note_path. Targetas "stabmeldžiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Albertas Krantcas.md#claim-t-190128|Albertas Krantcas]]: Narbutas rašo, kad Albertas Krantcas neneigė prie Upsalos augusio medžio nuolatinio žaliavimo, bet negalėjo nustatyti jo rūšies.
 - susijęs iš [[objektai/autoriai/Albertas Krantcas.md#claim-t-190380|Albertas Krantcas]]: Narbutas rašė, kad Albertas Krantcas neneigė visą laiką žaliavusio šventojo medžio, bet teigė, jog jo rūšies niekas negalėjo nustatyti.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190573|Lietuviai]]: Narbutas rašė, kad lietuvių religija mokė pamaldumo medžiams, o šventieji medžiai buvo puošiami trofėjais ir girliandomis.
@@ -49,9 +39,7 @@ Narbutas rašo, kad stabmeldžiai šventais pripažindavo ne tik pavienius medž
     sichtono istorija, Dodonės ir Delfų šventieji miškai buvo gar­
     sus Antikos laikais.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

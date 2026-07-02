@@ -23,21 +23,8 @@ tags:
 - t-001
   global_id: t-86776
   teiginys: 'Vilniaus rusų vienuoliai, žmonių vadinti „čiornais“, nuo Gedimino laikų turėjo savo vienuolyną.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Vilniaus rusų vienuoliai „čiornai“|Vilniaus rusų vienuoliai „čiornai“]] gyveno Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=63a4c047b67e5dc34a3037a2b105e39bf548a639357b8c49e8786c9f65b6ef5a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vilnius: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vilniaus rusų vienuoliai „čiornai“: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Formuluotė tiesiogiai sieja rusų vienuolius su Vilniumi.
 
 ## Reikšmingi paminėjimai
 
@@ -64,7 +51,6 @@ tags:
     kurie nuo Gedimino laikų, kaip matėme, turėjo savo vie­
     nuolyną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

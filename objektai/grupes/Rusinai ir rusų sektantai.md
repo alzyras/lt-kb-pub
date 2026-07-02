@@ -21,16 +21,6 @@ Narbutas rašė, kad valdant Jonui Kazimierui į Lietuvą persikėlė persekioja
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 709936-710333; hash=36e44dad3f109ba46608d748eacf6eade8d9635eb32185b8334b23fe28de816a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Rusinai ir rusų sektantai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo rusų sentikių persikėlimą į Lietuvą.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -46,10 +36,8 @@ Narbutas rašė, kad valdant Jonui Kazimierui į Lietuvą persikėlė persekioja
     ma spėti iš Kulčinskio duomenų', pas mus buvo nemažai įvai­
     rių rusų sektantų.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

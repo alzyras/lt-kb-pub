@@ -21,16 +21,6 @@ Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dė
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 653323-653429; hash=3c7471dfb29513ee8df142052faba4c4491c2d1dc809b1b8f677eca70ee5e34f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Seversko žemės: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Triznų giminė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Seversko žemės: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Triznų giminės kilmę iš Seversko žemės; leistina artimiausia vietos semantika yra gyveno.
 
 ## Reikšmingi paminėjimai
 
@@ -43,9 +33,7 @@ Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dė
     23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-
     rožytnej Polski. -  T. II).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

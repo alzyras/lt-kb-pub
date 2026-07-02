@@ -23,23 +23,15 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
 - t-001
   global_id: t-70321
   teiginys: 'Vilniaus-Radomo susitarime Lietuvos savarankiškumas buvo paskelbtas laikinu, galiojančiu tik iki Vytauto mirties.'
-  sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir patikslintas teiginio subjektas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 254577-255216; hash=ba098c2190d7671a3bfd82895a9b160d461ab274cded3287d301a13350a76fee; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-70322"></a>
 - t-002
   global_id: t-70322
   teiginys: 'Vilniaus-Radomo susitarimu buvo patvirtintas Vytauto savarankiškumas, bet po jo mirties Lietuva turėjo grįžti Jogailai ir jo įpėdiniams.'
-  sudarymo_pagrindimas: 'Pradinis teiginys prasidėjo neaiškiu įvardžiu; perrašyta aiškiai įvardijant susitarimą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=12faf0163c051f19d2def5c45e158bb7a264b247bbabc133702697b734a10f88; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-45347|Krėvos sutartis (1385 m.)]]: Krėvos sutartį sudaryti skatino ypač įnirtingi vokiečių puolimai ir prieš sutartį sekančios Lietuvos jėgos.
 ## Reikšmingi paminėjimai
 
@@ -55,7 +47,6 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
     lietuvių ir be Vytauto žinios. Tuo būdu Lietuvos savarankišku-
     mas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -77,7 +68,6 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
     vo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jo-
     gailai ir jo įpėdiniams, Lenkų karaliams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

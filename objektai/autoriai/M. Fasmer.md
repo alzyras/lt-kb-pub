@@ -30,9 +30,6 @@ Fasmer : Otryvki V.
   teiginys: 'M. Fasmeris su M. Priselkovu paskelbė darbą apie V. N. Beneševičiaus ištraukas Rusios XIV a. bažnyčios istorijai.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=eb9dc7d047e8d8a8ca4428e98bd7721ae0171db0f23f07f105ce634e198f2ebd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/autoriai/M. Priselkov.md#claim-t-30847|M. Priselkov]]: M. Priselkovas kartu su M. Fasmeriu paskelbė darbą apie V. N. Beneševičiaus ištraukas iš XIV a. Rusios bažnyčios istorijos.
 - susijęs iš M. Priselkov, M. Fasmer Otryvki V. N. Beneševiča po istoriji russkoj cerkvi XIV v: M. Priselkovo ir M. Fasmerio „Otryvki V. N. Beneševiča po istoriji russkoj cerkvi XIV v.“ publikuota 1916 m., p. 49–61.
 ## Reikšmingi paminėjimai
@@ -45,7 +42,6 @@ Fasmer : Otryvki V.
     koj cerkvi XIV v._** **(Izvestija Otd. Russk. Jaz. i Slov.) 1916, 49-61 p.**
     (^7) **LUB, II, 333 p.**
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

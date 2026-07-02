@@ -25,8 +25,6 @@ Valstybinė santvarka po Liublino unijos.
 - t-001
   global_id: t-72004
   teiginys: 'Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė atsiimti Žemaitiją.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir kontekstinė pradžia, išlaikyti citatos remiami faktai.'
-  susije_objektai: 'mentioned_place: Žemaitija; mentioned_place: Lenkija; mentioned_place: Salynas'
   pagrindžia:
     - c-001
 
@@ -34,7 +32,6 @@ Valstybinė santvarka po Liublino unijos.
 - t-002
   global_id: t-72005
   teiginys: 'Nauja unija padėjo Vytautui apsisaugoti nuo Lenkijos ir trauktis nuo Ordino, siekiant atsiimti Žemaitiją.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Žemaitija; mentioned_place: Salynas'
   pagrindžia:
     - c-001
 
@@ -42,14 +39,6 @@ Valstybinė santvarka po Liublino unijos.
 - t-003
   global_id: t-184641
   teiginys: '1566 m. Lietuvoje nerimą kėlė tai, kad karaliui mirus iki unijos sudarymo lenkai gali liautis teikę pagalbą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išlaikytas citatos faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1566 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir išlaikytas citatos faktas.'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188627|Teodoras Narbutas]]: Teodoras Narbutas LTI apžvelgė politinę ir kultūrinę lietuvių raidą nuo seniausių laikų iki 1569 m. Liublino unijos.
@@ -171,7 +160,6 @@ Valstybinė santvarka po Liublino unijos.
     kęs reikalus rytuose ir viduje, ėmė trauktis nuo Ordino, dė­
     damas pastangų atsiimti lietuvišką kraštą — Žemaitija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -209,7 +197,6 @@ Valstybinė santvarka po Liublino unijos.
     ju n g ai, k u ri b ū tų  užbaigusi p o rą šim tm ečių u žtru k u sias
     ab ie jų  šalių p astan g as.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -31,24 +31,8 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - t-001
   global_id: t-60323
   teiginys: '1324 m. Petras iš Rozenbergo ir jo dėdė Hermanas su daugybe riterių bei ginklanešių atvyko į Prūsiją.'
-  sudarymo_pagrindimas: 'Teiginys pilnas ir remiasi citatoje pateikta informacija.'
-  susije_objektai: 'llm_object: Prūsija; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Petras iš Rozenbergo|Petras iš Rozenbergo]]; mentioned_place: Reinas; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė)|Hermanas (Petro iš Rozenbergo dėdė)]] keliavo į Prūsija'
-  temporaliniai_duomenys: 'kelionės data: 1324 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Hermanas (Petro iš Rozenbergo dėdė) keliavo į Prūsija“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir remiasi citatoje pateikta informacija.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=576e6b0362b7e8d939a614e3d7149f9e07aac63f4230f84d2ccb4d2401e07276; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsija: 0.89
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Petras iš Rozenbergo: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje Petras iš Rozenbergo įtrauktas tarp atvykusiųjų į Prūsiją.
 
 ## Reikšmingi paminėjimai
 
@@ -66,7 +50,6 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 
        349 (342). Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

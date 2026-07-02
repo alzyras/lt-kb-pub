@@ -46,9 +46,6 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 416166-416656; hash=41b44ad7fe5841a927c72b2a6b0d9c28339f27f607255bf296b413b427862eda; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-67148"></a>
 - t-002
   global_id: t-67148
@@ -57,9 +54,6 @@ Nenurodyta
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 416967-417506; hash=6e56569bfb2a308830b0a16bb5f0a3ab32d66a35ffccd7fc2b50ce90906a1c17; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-67150"></a>
 - t-003
   global_id: t-67150
@@ -68,9 +62,6 @@ Nenurodyta
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=86e18f8ecde366d02a02d67ebc0ac538093fdf5c4a87d01539d2b77fce0e1a95; match=normalized; occurrences=1
-  sprendimo_priezastis: auto
 <a id="claim-t-67151"></a>
 - t-004
   global_id: t-67151
@@ -79,9 +70,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=20ccba46c58de3307d81da63c9645eb6b14bbbeb92a98b6ed40503f306e11c50; match=normalized; occurrences=1
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -95,13 +83,10 @@ Nenurodyta
     seimai pirmiausia būdavo reikalingi renkant naują didįjį kuni-
     gaikštį.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-002
+    - t-004- c-002
   santrauka: 'Sprendžiant Lietuvos santykius su Lenkija, bajorijos nuomonė ir pritarimas buvo svarbūs, nes Lietuva rėmėsi visuomenės balsu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -114,13 +99,10 @@ Nenurodyta
     kesčiais bajoriją. O tą buvo galima padaryti tik jai pačiai
     sutinkant. Taigi tam sutikimui gauti ir reikėdavo šaukti seimą.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-003
+    - t-001- c-003
   santrauka: 'Į Lietuvos bajorijos seimus atvykdavo ponų taryba, aukštesnieji valstybės urėdai ir norintys dalyvauti bajorai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -134,13 +116,10 @@ Nenurodyta
     rėdavo pasitarti; o jei kas norėdavo ką patsai pareikšti, galė-
     davo atvykti į seimą ir nekviestas.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-004
+    - t-002- c-004
   santrauka: 'Nuo XVI a. vidurio Lietuvos bajorijos seimas tapo toks įtakingas, kad be jo nebūdavo sprendžiamas joks svarbesnis reikalas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -156,9 +135,7 @@ Nenurodyta
     mokesčių ir t. t. Tad d. kunigaikštis bajorijos pageidavimų daž-
     niausiai klausydavo.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003

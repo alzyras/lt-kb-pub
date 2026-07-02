@@ -27,7 +27,6 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
 - t-001
   global_id: t-86086
   teiginys: 'Mamoničių namai, pasak autoriaus, stovėjo dabartinių Sledzinskio namų Nr. 203 vietoje.'
-  sudarymo_pagrindimas: 'Citata palaiko vietos identifikavimą, bet pradinis sakinys turi OCR triukšmo ir perteklinės informacijos.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Mamoničių giminė.md#claim-t-86746|Mamoničių giminė]]: Mamoničių namai, anot citatos, veikiausiai stovėjo ten, kur vėliau buvo Sledzinskio namai Nr. 203.
@@ -46,7 +45,6 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
     cerkvelė. Vėliau Mamoničių spaus­
     tuvė, matyt, atiteko bazilijonams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

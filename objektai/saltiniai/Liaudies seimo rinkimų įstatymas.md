@@ -22,10 +22,6 @@ Pagal rinkimų įstatymą išrinktais atstovais laikomi tie kandidatai, kurie ga
 - t-001
   global_id: t-183363
   teiginys: 'Liaudies seimo rinkimų įstatymas numatė, kad išrinktais atstovais laikomi balsų daugumą gavę kandidatai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Perrašyta glaustai, pašalinant perteklinę formuluotę ir išlaikant citatos patvirtintą nuostatą.'
   pagrindžia:
     - c-001
 
@@ -40,10 +36,8 @@ Pagal rinkimų įstatymą išrinktais atstovais laikomi tie kandidatai, kurie ga
     sų. O režimas paskelbė, jog išrinkti visi kandidatai – tad rinkimų rezulta-
     tai suklastoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

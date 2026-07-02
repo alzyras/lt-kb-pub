@@ -35,42 +35,15 @@ Nenurodyta
 - t-001
   global_id: t-88111
   teiginys: 'Trakų žydai prašė patvirtinti jiems priklausiusias teises, laisves ir kitus dalykus, nurodytus Vytauto privilegijoje.'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs šaltinio fragmentas; citata pagrindžia aiškų faktą apie prašymą.'
-  susije_objektai: 'llm_object: Trakai; mentioned_group: [[objektai/grupes/Trakų žydai|Trakų žydai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Trakai; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 407990-409395; hash=a3ee88366e8b17f3ae8b446faa90bbe7db0872a1e26af61124609f55d0652a85; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Lenkija: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žygimantas Senasis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai įvardija Žygimantą Senąjį Lenkijos karaliumi.
 
 <a id="claim-t-88112"></a>
 - t-002
   global_id: t-88112
   teiginys: '1388 m. Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Žygimantas Senasis ją patvirtino Melnyke.'
-  sudarymo_pagrindimas: 'Citata palaiko privilegijos suteikimą, adresatus ir vėlesnį patvirtinimą.'
-  susije_objektai: 'llm_object: Lenkija; llm_object: Lietuva; llm_object: Trakai; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Trakai; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/posakiai/Viešpaties vardu Amen|Viešpaties vardu Amen]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Melnikas; mentioned_place: Viena; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1388 m.; įvykio data: 1507 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko privilegijos suteikimą, adresatus ir vėlesnį patvirtinimą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 408689-410343; hash=b68921277835ff2f12da85401f0bdc0c7051dcff428a554a7dcb9565e4b15764; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Trakai: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Trakų žydai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo žydus, esančius Trakų mieste.
 
 ## Reikšmingi paminėjimai
 
@@ -112,7 +85,6 @@ Nenurodyta
     joks krikščionis prieš žydą, nebent su krikščionimi ir su žy­
     du būtų prileistas liudyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -151,7 +123,6 @@ Nenurodyta
     tvirtinti teiktumės, o tos privilegijos reikalai tokiais žodžiais
     turi būti parašyti: Viešpaties vardu Amen.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -20,12 +20,8 @@ Jis net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pakeleivingą",
 - t-001
   global_id: t-02263
   teiginys: '„Pakeleivingą“ buvo sumanyta leisti kaip specialų laikraštį, bet leidimas jam nebuvo gautas.'
-  sudarymo_pagrindimas: 'Teiginys pagrįstas citata, bet pataisyta sakinio forma pagal pavadinimą ir citatos prasmę.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2daa0780eb116fb0b5c59164ed5287258cfc06301833c0304ffc9c751a55dfa5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -39,7 +35,6 @@ Jis net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pakeleivingą",
     net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pake-
     leivingą", bet negavo leidimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

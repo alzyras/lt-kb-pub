@@ -20,19 +20,8 @@ Taktinį pranašumą sąlygojo jų lengvoji kavalerija.
 - t-001
   global_id: t-42478
   teiginys: 'Lengvoji kavalerija totoriams suteikė taktinį pranašumą, nes raiteliai su savimi vesdavosi po tris atsarginius žirgus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Krymas; mentioned_place: Perekopas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=511b995d50bbda86156167e8760dd03be997673bae640299ab3a2f13a66e92a5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Totoriai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: lengvoji kavalerija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "lengvoji kavalerija" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70311|rotmistras]]: Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius.
 - susijęs iš [[objektai/zodynas/sunkioji kavalerija.md#claim-t-42513|sunkioji kavalerija]]: Tautinio autoramento pagrindu formuota sunkioji kavalerija buvo husarai.
 - susijęs iš [[objektai/asmenys/Antoine Gramont.md#claim-t-40035|Antoine Gramont]]: Prancūzijos grafas Antoine Gramont 1663-1664 m. pasakojo apie kazokus, tarnavusius Lenkijos-Lietuvos kariuomenėse.
@@ -61,7 +50,6 @@ Taktinį pranašumą sąlygojo jų lengvoji kavalerija.
     čiai, jog anaiptol ne visada žinia apie toto-
     rių reidą galėdavo užbėgti jiems už akių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

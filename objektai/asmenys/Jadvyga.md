@@ -14,6 +14,11 @@ sukurta: ''
 atnaujinta: ''
 amziai: []
 periodo_grupes: []
+description: 'Jadvyga – Lenkijos „karaliumi“ vainikuota Liudviko Anjou duktė, kurios santuoka su Jogaila siejama su Lietuvos ir Lenkijos suartėjimu.'
+socialDescription: 'Jadvyga šaltiniuose iškyla kaip Jogailos santuokos partnerė, Lenkijos valdovė ir tarpininkė Vytauto bei Skirgailos ginčuose.'
+seo_atnaujinta: '2026-07-02T21:03:54.575709+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 tags:
   - asmuo
 ---
@@ -21,19 +26,13 @@ tags:
 
 ## Santrauka
 
-1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.
+Jadvyga, Liudviko Anjou duktė, 1384 m. spalio 15 d. Krokuvoje buvo vainikuota Lenkijos „karaliumi“. Jogailai priėmus lenkų sąlygas, jo santuoka su Jadvyga siejama su Lietuvos ir Lenkijos suartėjimu bei Lietuvos krikščioninimo lūžiu. Šaltiniuose Jadvyga minima ir kaip politinė tarpininkė: 1393 m. ji su Jogaila vyko į Vilnių spręsti Vytauto ir Skirgailos ginčo.
 
 ## Teiginiai
 <a id="claim-t-176407"></a>
 - t-001
   global_id: t-176407
   teiginys: '1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos smarkaus ginčo.'
-  sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis ir aiškiai įvardyti ginčo dalyviai.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/J. Posilge|J. Posilge]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Jadvyga|Jadvyga]] keliavo į Vilnius'
-  temporaliniai_duomenys: 'kelionės data: 1393 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jadvyga keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas neaiškus įvardis ir aiškiai įvardyti ginčo dalyviai.'
   pagrindžia:
     - c-003
 
@@ -41,57 +40,20 @@ tags:
 - t-002
   global_id: t-176408
   teiginys: '1388–1389 m. Algirdaitis dviem raštais prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai.'
-  sudarymo_pagrindimas: 'Pašalinta neaiški įvardžio nuoroda ir suformuotas pilnas sakinys.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: D. Naugardas; mentioned_place: Naugardas; llm_object: [[objektai/asmenys/Jadvyga|Jadvyga]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] rėmė [[objektai/asmenys/Jadvyga|Jadvyga]]'
-  temporaliniai_duomenys: 'įvykio data: 1388-1389; įvykio data: 1389 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalinta neaiški įvardžio nuoroda ir suformuotas pilnas sakinys.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=04a752731c4a25cb705db0f72ebf16a3228481a69940dd16e1dc29d46b75f640; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: vede -> Jadvyga: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jadvyga: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jogaila turėjo vesti Jadvygą.
 
 <a id="claim-t-176410"></a>
 - t-003
   global_id: t-176410
   teiginys: 'Liudviko Anjou duktė Jadvyga 1384 m. spalio 15 d. Krokuvoje buvo vainikuota Lenkijos „karaliumi“.'
-  sudarymo_pagrindimas: 'Pradiniame teiginyje trūko aiškaus veiksnio, kas vainikavo; citata patikimai palaiko pasyvią formą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; llm_object: Krokuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] vedė [[objektai/asmenys/Jadvyga|Jadvyga]]; [[objektai/asmenys/Jadvyga|Jadvyga]] keliavo į Krokuva'
-  temporaliniai_duomenys: 'įvykio data: 1384 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje trūko aiškaus veiksnio, kas vainikavo; citata patikimai palaiko pasyvią formą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=940aa22242f3b440b4f5f0eb604c5bcdcebe0c43e1a1b62a8079a256837934fd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Jadvyga: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jadvyga: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Ištikimybės priesaika Jadvygai tiesiogiai rodo politinį rėmimo/paklusnumo ryšį.
 
 <a id="claim-t-176411"></a>
 - t-004
   global_id: t-176411
   teiginys: 'Popiežius Grigalius X 1272 m. kanonizavo šventą Jadvygą, Lenkijos kunigaikštienę.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citata paremtas faktas.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Grigalius X|Grigalius X]]'
-  temporaliniai_duomenys: 'įvykio data: 1272 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir paliktas citata paremtas faktas.'
   pagrindžia:
     - c-004
 
@@ -99,11 +61,6 @@ tags:
 - t-005
   global_id: t-184714
   teiginys: 'Kunigaikščiai pasirinko karalienę Jadvygą tarpininke sprendžiant Skirgailos ir Vytauto ginčą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata remia pilnesnį teiginį su aiškiu tarpininkavimo kontekstu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]'
   pagrindžia:
     - c-005
 
@@ -115,16 +72,6 @@ tags:
     - c-006
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 704054-704726; hash=2a9bac7b75e3f46fd4b125ce692a66ee575142a7c9f32a0ec66bc4174c793bc5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jadvyga: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jadvyga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186714|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogailos krikštas įvyko 1386 m. vasario 15 d., jungtuvės su Jadvyga vasario 18 d., o vainikavimas kovo 4 d.
 - susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186715|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogaila 1386 m. vasario 12 d. atvyko į Krokuvą, vasario 15 d. buvo pakrikštytas, vasario 18 d. vedė Jadvygą ir kovo 4 d. vainikuotas Lenkijos karaliumi.
 - susijęs iš Jadvygos laiškas Vytautui (1398 m.): 1398 m. Jadvygos laišku Vytautui reikalauta mokėti metinį činšą už Lietuvos ir Rusijos žemes, laikytas jos kraičiu.
@@ -210,13 +157,11 @@ tags:
     naujasis D. Naugardo kunigaikštis respublikos vardu žadėjo Ka­
     rūnai paklusnumą^9.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-- c-002
+    - t-002- c-002
   santrauka: 'Liudviko Anjou duktė Jadvyga 1384 m. spalio 15 d. Krokuvoje buvo vainikuota Lenkijos „karaliumi“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -225,13 +170,11 @@ tags:
     ir vesti Liudviko Anjou dukterį Jadvygą, kuri jau 1384.X.15 d.
     Krokuvoje buvo vainikuota Lenkijos « karaliumi ».
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-- c-003
+    - t-003- c-003
   santrauka: '1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos smarkaus ginčo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -243,13 +186,11 @@ tags:
     kunigaikštis. 1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas,
     kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-- c-004
+    - t-001- c-004
   santrauka: 'Popiežius Grigalius X 1272 m. kanonizavo šventą Jadvygą, Lenkijos kunigaikštienę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -259,13 +200,11 @@ tags:
       1272 viešpaties metais popiežiumi buvo Grigalius X. Jis kanonizavo šventą Jadvygą,
     Lenkijos kunigaikštienę (Mart. p. 413, 414; Ptol. 23, 1).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-- c-005
+    - t-004- c-005
   santrauka: 'Kunigaikščiai pasirinko karalienę Jadvygą tarpininke sprendžiant Skirgailos ir Vytauto ginčą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -281,13 +220,11 @@ tags:
     V y ta u ta s  su sita ik o
     šitokiomis sąlygomis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-- c-006
+    - t-005- c-006
   santrauka: 'Narbutas vaizduoja, kad Lenkijos karalienės Jadvygos santuoka su Vladislovu per vieną dieną pasiekė Lietuvos krikščioninimo lūžį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -304,10 +241,8 @@ tags:
     jų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­
     džių.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
 

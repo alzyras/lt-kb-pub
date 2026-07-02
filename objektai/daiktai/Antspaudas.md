@@ -50,11 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-64897
   teiginys: '1401 m. kovo 11 d. Radome duoto Lenkų karališkosios tarybos dokumento originalas išliko Radvilų archyve su 49 antspaudais.'
-  sudarymo_pagrindimas: 'Pradinis sakinys negramatiškas; citata aiškiai palaiko pataisytą faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Radomas'
-  temporaliniai_duomenys: 'įvykio data: 1401 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis sakinys negramatiškas; citata aiškiai palaiko pataisytą faktą.'
   pagrindžia:
     - c-002
 
@@ -62,7 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-64898
   teiginys: 'XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Prūsų žemė'
   pagrindžia:
     - c-001
 
@@ -70,14 +64,6 @@ Nenurodyta
 - t-003
   global_id: t-184601
   teiginys: '1649 m. rugpjūčio 25 d. Vilniuje leidimas spausdinti Lietuvos istorijos pirmą dalį buvo paliudytas įprastiniu tarnybos antspaudu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie antspaudo panaudojimą ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1649 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis sakinys apie antspaudo panaudojimą ir paremtas citata.'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Bičkus.md#claim-t-190227|Bičkus]]: Narbutas nurodo, kad Bičkus 1604 metais pridėjo antspaudą su driežiuko piešiniu.
@@ -259,7 +245,6 @@ Nenurodyta
     mi tos sutarties originalą, sakė esą matę visų keturių valdovų
     sveikas antspaudas^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -277,7 +262,6 @@ Nenurodyta
     dome, išlikęs originalas su 49 antspaudomis, yra Radvilų archyve Niesvyžiuj.
     (^2) ) C. ep. V., 223.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -307,7 +291,6 @@ Nenurodyta
     paliudydamas įprastiniu tarnybos antspaudu. Vilniuje,
     1649 viešpaties metais, rugpjūčio 25 dieną.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

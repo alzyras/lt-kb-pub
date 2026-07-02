@@ -31,21 +31,8 @@ periodo_grupes:
 - t-001
   global_id: t-87680
   teiginys: 'Goštautas buvo Trakų vaivada ir Barboros Radvilaitės vyras, po kurio mirties Barbora liko našlė.'
-  sudarymo_pagrindimas: 'Citata tiksliai remia asmens statusą ir ryšį su Barbora Radvilaite.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Barboros rūmai Vilniuje; mentioned_place: Trakai; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vengrija; mentioned_place: Vilnius; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Goštautas (Trakų vaivada, Barboros vyras)|Goštautas (Trakų vaivada, Barboros vyras)]] buvo vyras [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 547466-548070; hash=e451c8035cb8c4e9598e5fc148264484f9de3b1797f551a30766c69497c578d2; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_vyras -> Barbora Radvilaitė: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Goštautas (Trakų vaivada, Barboros vyras): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Barbora Radvilaitė: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Goštautas buvo Barboros Radvilaitės vyras.
 
 ## Reikšmingi paminėjimai
 
@@ -69,7 +56,6 @@ periodo_grupes:
     atrado kuklumą ir sulaukė prielankumo. Barboros rūmai
     stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

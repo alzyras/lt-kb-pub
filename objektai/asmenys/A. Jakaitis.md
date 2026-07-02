@@ -21,21 +21,8 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
 - t-001
   global_id: t-39978
   teiginys: 'Mjr. A. Jakaitis vadovavo 10-ajam pulkui, kuris iš Šipliškių turėjo žygiuoti į Suvalkus, o iš ten į Augustavą.'
-  sudarymo_pagrindimas: 'Teiginys performuluotas taip, kad sakinio objektas būtų A. Jakaitis.'
-  susije_objektai: 'mentioned_place: Augustavas; mentioned_place: Seinai; mentioned_place: Vokietija; llm_object: Augustavas'
-  semantiniai_rysiai: '[[objektai/asmenys/A. Jakaitis|A. Jakaitis]] keliavo į Augustavas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=aa0579e5fa9b1b7b5689d09aa8f5b59006e54cb817d81232bf8d8395c67a0af6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Augustavas: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: A. Jakaitis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Augustavas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas nurodo A. Jakaičio vadovaujamo pulko numatytą žygį į Augustavą.
 
 ## Reikšmingi paminėjimai
 
@@ -56,7 +43,6 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
     o iš ten į Augustavą, dešiniu sparnu siekti
     Vokietijos sieną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

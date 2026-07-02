@@ -18,8 +18,6 @@ atnaujinta: ''
 - t-001
   global_id: t-11668
   teiginys: 'Įsigalėjęs kardininkų ordinas virto paprasta militarine valstybe.'
-  sudarymo_pagrindimas: 'Citata leidžia tiksliau įvardyti minimą ordiną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]'
   pagrindžia:
     - c-001
 
@@ -36,7 +34,6 @@ atnaujinta: ''
     bėti dvasiškijai varyti apaštalavimo darbą karingų pagonų tar­
     pe. Bet įsigalėjęs Ordinas virto paprasta militarine valstybe.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

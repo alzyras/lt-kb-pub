@@ -31,9 +31,6 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
 - t-001
   global_id: t-69178
   teiginys: 'Tarptautinės bendruomenės dėmesys buvo nukrypęs į Vokietijos Ruhro sritį, kurią tuo metu okupavo prancūzų kariuomenė.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Ruhro srities okupaciją ir tarptautinį dėmesį.'
-  susije_objektai: 'llm_object: Ruhro sritis; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Ambasadorių Konferencija|Ambasadorių Konferencija]]; mentioned_place: Lietuva; mentioned_place: Vokietija; llm_object: Vokietija'
-  semantiniai_rysiai: '[[objektai/grupes/Prancūzai|Prancūzai]] užėmė Ruhro sritis; Ruhro sritis priklausė Vokietija'
   pagrindžia:
     - c-001
 
@@ -54,7 +51,6 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
     pradėti karinę operaciją, suvaidino ryž-
     tingai nusiteikę Šaulių sąjungos nariai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

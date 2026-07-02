@@ -42,22 +42,9 @@ Nenurodyta
 - t-001
   global_id: t-62694
   teiginys: 'Kiti naujakrikščiai vėliau buvo valdomi pagal tą pačią sutartį ir laisves, kurios buvo suteiktos pirmiesiems pasidavusiems.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis ir pašalintas autorinis įvadas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]'
   pagrindžia:
     - c-001
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 252567-252787; hash=c92f32b58aa8d36bbebdd8ddd80a65b6e868a289f348ec1a907d9d174e03e54d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> naujakrikščiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Naujakrikščių valdymas pagal tą pačią sutartį ir laisves (sutartis): owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: naujakrikščiai: mention_match, thing, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naujakrikščių valdymas pagal tą pačią sutartį ir laisves (sutartis)" parinktas kaip owner_note_path. Targetas "naujakrikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -74,7 +61,6 @@ Nenurodyta
 
                        15.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -90,7 +76,6 @@ Nenurodyta
     kariavo, kad jie pasidavė tikėjimui bei broliams. Ir kiti naujakrikščiai vėliau buvo valdomi,
     remiantis ta pačia sutartimi bei laisvėmis, kurios tuo metu šiems buvo suteiktos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -21,16 +21,6 @@ Narbutas Ukmergės apskrities dainelę „Založym do san koniki“ pateikė kai
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 828810-829411; hash=8b49bfacef8a988cbe8719c5c9dbf5488e55d4d7e70e0832777b1371399fc59a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dauguva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Založym do san koniki: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Založym do san koniki" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -59,9 +49,7 @@ Narbutas Ukmergės apskrities dainelę „Založym do san koniki“ pateikė kai
     Tobie siestruniu pięč zlotych pierscieni,
     A tobie bracie dziewaję Lolewkę.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

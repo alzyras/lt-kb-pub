@@ -20,12 +20,8 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
 - t-001
   global_id: t-42509
   teiginys: 'Saugumo majoro Aleksejaus Sokolovo suformuotoms specialiosioms grupėms paprastai vadovaudavo operatyvininkas.'
-  sudarymo_pagrindimas: 'Teiginį verta sutrumpinti ir aiškiau susieti su specialiosiomis grupėmis.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f19f55c4b65abecb8961fa9ba60eda5eafcd8a193932ec2b8945c6051c2607d7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -40,7 +36,6 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
     bių pabėgti ar pasitraukti iš spec. grupių sudėties, nes tuojau pat
     „kompromatas“ būtų pamestas tikriesiems partizanams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

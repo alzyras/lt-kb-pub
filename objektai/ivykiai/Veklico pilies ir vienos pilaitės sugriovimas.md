@@ -39,39 +39,15 @@ Nenurodyta
 - t-001
   global_id: t-66945
   teiginys: 'Pagudėnai su sūduviais ir kitomis Prūsijos gentimis sudegino pilaitę tarp Ragavos ir Veisikos upių.'
-  sudarymo_pagrindimas: 'Rewrite failed deterministic gates: claim_missing_note_object'
-  susije_objektai: 'llm_object: Pilaitė; mentioned_place: Pilaitė; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_place: Drūsinė; mentioned_place: Elbingas; mentioned_place: Kaimas; mentioned_place: Kulmas; mentioned_place: Kulmenzė; mentioned_place: Pagudė; mentioned_place: Pamedė; mentioned_place: Torunė; mentioned_place: Veklicas; mentioned_place: Viena'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 466185-467525; hash=c4774888e834dbe6a5132ba45ea414407325b948b5b8272d0e39d2808d943ecc; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Pilaitė: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Pilaitė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Pagudėnai įvardyti kaip kariuomenės subūrėjai, po antpuolio sudeginę pilaitę.
 
 <a id="claim-t-66946"></a>
 - t-002
   global_id: t-66946
   teiginys: 'Užpuolikai prie Ragavos upės ilgai puolė Veklico pilį, palaužė jos gynėjus, pilį sudegino, o žmones paėmė į nelaisvę arba nukovė.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata apie Veklico pilį.'
-  susije_objektai: 'mentioned_place: Veklicas; mentioned_place: Drūsinė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3d33bf128f1e304aac9965c458ddbcb8157995ed560cd724e070b2c033576253; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Veklicas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Veklico pilies ir vienos pilaitės sugriovimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Veklicas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Veklico pilies ir vienos pilaitės sugriovimas" parinktas kaip owner_note_path. Targetas "Veklicas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -90,7 +66,6 @@ Nenurodyta
 
         170 (165).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -121,7 +96,6 @@ Nenurodyta
     kur Veisika įteka į Drūsinės ežerą452, ir po neilgo antpuolio ją sudegino, žmones paėmė
     į nelaisvę ar nužudė, išskyrus tuos, kurie valtimis paspruko per Drūsinės ežerą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

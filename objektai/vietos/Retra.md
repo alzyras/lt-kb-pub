@@ -21,16 +21,6 @@ Narbutas Retrą laikė herulų miestu, kurio liekanos, jo teigimu, aptiktos prie
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 458355-458788; hash=b056b3b068bf7fcfa40f9393b234727df410f4b3dedff74ab83d43fca3cb0a61; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Herulai: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Retra: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Herulai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata Retrą apibūdina kaip herulų miestą, todėl ji siejama su herulais.
 - susijęs iš [[objektai/asmenys/Jonas Potockis.md#claim-t-190071|Jonas Potockis]]: Narbutas, remdamasis Jono Potockio tyrimais, siejo Retros šventyklos žynį Krewe, lietuvių stabus ir Meklenburgo bei Lužicos runų užrašus.
 - susijęs iš Prilvicas: Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir laikė Retrą pirmykščiu herulų miestu.
 ## Reikšmingi paminėjimai
@@ -46,10 +36,8 @@ Narbutas Retrą laikė herulų miestu, kurio liekanos, jo teigimu, aptiktos prie
     l<»Ii Penclino, Meklenburge. Retroje stovėjo šventykla, stulbi­
     nanti prabangumu tas beveik dar laukines Europos šalis.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

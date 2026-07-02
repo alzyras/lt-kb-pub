@@ -41,9 +41,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1293272-1293666; hash=602806b2586c6f801dd6bcfe47bcd14f8df5227b655978839d8ca6a2c38b6f73; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -58,9 +55,7 @@ Nenurodyta
     lietuvių spaudos uždraudimą ir lietuvių kovą dėl savo spaudos
     teisės.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

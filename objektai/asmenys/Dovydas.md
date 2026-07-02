@@ -25,9 +25,6 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 - t-001
   global_id: t-82261
   teiginys: 'Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę Plocko diecezijoje ir ją nusiaubė.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Dobrynė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dobrynė; mentioned_place: Plockas'
-  semantiniai_rysiai: '[[objektai/asmenys/Dovydas|Dovydas]] surengė žygį į Dobrynė; [[objektai/asmenys/Dovydas|Dovydas]] puolė Dobrynė'
   pagrindžia:
     - c-001
 
@@ -35,12 +32,6 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 - t-002
   global_id: t-184693
   teiginys: 'Pulko vadas Dovydas žuvo grįždamas su kariuomene namo po Mazovijos siaubimo.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas dviprasmiškas šalutinis sakinys ir OCR triukšmo poveikis.'
-  susije_objektai: 'llm_object: Mazovija; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Mazovija'
-  semantiniai_rysiai: '[[objektai/asmenys/Dovydas|Dovydas]] puolė Mazovija'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Erdenas, arba Jerdenas.md#claim-t-87498|Erdenas, arba Jerdenas]]: Erdenas nurodomas kaip pirmuoju Vilniaus kunigaikščiu laikyto Dovilo arba Dovydo sūnus.
@@ -92,7 +83,6 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
     čią minėtoje Plocko diecezijoje, visą
     pragaištingai nusiaubė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,11 +105,10 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
     Kodrūnas, apgultosios pilies vadas, jie netruko ją užgrobti, dalį žmonių paimti į nelaisvę,
     o kitus išžudyti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-003
+
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-003
   santrauka: 'Pulko vadas Dovydas žuvo grįždamas su kariuomene namo po Mazovijos siaubimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -138,7 +127,6 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
     maž nebuvo ėmęsis žygio, kurio nebūtų labai sėkmin­
     gai užbaigęs.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

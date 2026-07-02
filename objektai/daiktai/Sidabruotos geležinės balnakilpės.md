@@ -50,7 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-10161
   teiginys: 'Šaltinio fragmentuose balnakilpės datuojamos XI-XIII a., o iliustracijos antraštėje – XI-XII a.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Hermanas Vartbergė.md#claim-t-171495|Hermanas Vartbergė]]: Hermano Vartbergės „Livonijos kronikoje“ aprašytas 1236 m. Saulės mūšis ir jo pasekmės Kalavijuočių ordinui.
@@ -65,7 +64,6 @@ Nenurodyta
     p. 23, Lietuvoje karių kapuose rastos sidabruotos geležinės xI-x11 a. balnakilpės. Veršvai,
     Rimaisiai. VDKM, Artūro Užgalio nuotr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

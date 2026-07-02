@@ -28,7 +28,6 @@ amziai:
 - t-001
   global_id: t-66382
   teiginys: 'Žemaičių medininkai šiame šaltinyje pateikiami kaip atspari ir pajūrį ginanti žemaičių grupė.'
-  susije_objektai: 'mentioned_place: Medininkai; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
 
@@ -42,7 +41,6 @@ amziai:
         įtaką, arba uostą, upės Šventosios ties Palanga, kuri jiems buvo dar likusi, gyniojo ir, noris kaulais
         savo taškuodami^1431 , niekaip jos vokiečiams neįdavė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

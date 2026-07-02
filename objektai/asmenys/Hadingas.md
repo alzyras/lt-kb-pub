@@ -21,16 +21,6 @@ Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs da
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 187032-187384; hash=121433da11f055aa9f97b4cb7b46f7936e611275d98f3610969c36c65cf1f0bd; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Danija: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Hadingas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Danija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Hadingas citatoje tiesiogiai įvardytas Danijos karaliumi.
 - susijęs iš [[objektai/zodynas/Froblosk.md#claim-t-189293|Froblosk]]: Narbutas Froblosk vadina senovės švedų juodąsias aukas dievui Fra, kuriomis Hadingas maldavęs pagalbos per jūros audrą.
 ## Reikšmingi paminėjimai
 - c-001
@@ -44,10 +34,8 @@ Narbutas pasakoja, kad Danijos karalius Hadingas per jūros audrą, praradęs da
     novės švedai vadinoFroblosk, auka dievui Fra. Valdant Hote-
     riui, Balderis pakeitė ją žmonių auka (Eddy).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

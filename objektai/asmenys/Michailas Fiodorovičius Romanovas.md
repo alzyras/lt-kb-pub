@@ -29,23 +29,8 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
 - t-001
   global_id: t-40337
   teiginys: 'Michailas Fiodorovičius Romanovas 1613 m. Zemskinio susirinkimo buvo išrinktas caru.'
-  sudarymo_pagrindimas: 'Claimas yra pilnas faktinis sakinys apie asmenį ir atitinka citatą.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Smolenskas'
-  temporaliniai_duomenys: 'įvykio data: 1611 m.; įvykio data: 1613 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Claimas yra pilnas faktinis sakinys apie asmenį ir atitinka citatą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=72c8b5bc3f903dcbbcaaa8e07ece1600bd0e1a44318132cf74aa5744775b8bb5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Michailas Fiodorovičius Romanovas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Michailas Fiodorovičius Romanovas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Zemskinis susirinkimas.md#claim-t-183670|Zemskinis susirinkimas]]: 1613 m. Zemskinis susirinkimas išrinko caru Michailą Fiodorovičių Romanovą.
 - susijęs iš [[objektai/grupes/Zemskinis susirinkimas.md#claim-t-183670|Zemskinis susirinkimas]]: 1613 m. Zemskinis susirinkimas išrinko caru Michailą Fiodorovičių Romanovą.
 ## Reikšmingi paminėjimai
@@ -60,7 +45,6 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
     sių apsiausties, Lenkijos ir Lietuvos pajė-
     gos užėmė Smolenską.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -77,7 +61,6 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
     1613 m. Zemskinio susirinkimo išrinktas
     Michailas Fiodorovičius Romanovas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

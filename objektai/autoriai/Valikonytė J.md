@@ -28,20 +28,8 @@ Dusburgietis teigia, kad valikonytė J.
 - t-001
   global_id: t-60809
   teiginys: 'J. Valikonytė parašė straipsnį apie dvigubą išpirką už moterį Lietuvos Didžiojoje Kunigaikštystėje.'
-  sudarymo_pagrindimas: 'Citata pateikia aiškią J. Valikonytės straipsnio nuorodą.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 801191-801341; hash=12260a693897573d61d8cbd1c04f68d078d64cf18cd1775b135c8512d965a994; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valikonytė J: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valikonytė J" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -52,7 +40,6 @@ Dusburgietis teigia, kad valikonytė J.
     Valikonytė  J. Dviguba išpirka už moterį Lietuvos Didžiojoje Kunigaikštystėje XVI
     amžiaus pirmojoje pusėje — Istorija, V., 1977, 17, sąs. 2, p. 51—64.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

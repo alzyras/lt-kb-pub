@@ -21,41 +21,15 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
 - t-001
   global_id: t-60139
   teiginys: 'Herkus Mantas ietimi sunkiai sužeidė Henriką Ulenbušą, kai šis tempė arbaletą, bet Henriko Ulenbušo žaizda vėliau užgijo.'
-  sudarymo_pagrindimas: 'Citata palaiko sužeidimo aplinkybes ir baigtį.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Henrikas Ulenbušas|Henrikas Ulenbušas]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Herkus Mantas|Herkus Mantas]] puolė [[objektai/asmenys/Henrikas Ulenbušas|Henrikas Ulenbušas]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=acbc6a18843dbfa5e00a01dc119244987b0645134e2e9edbe68df38e4fe0dab5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Henrikas Ulenbušas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Herkus Mantas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Henrikas Ulenbušas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Herkus Mantas tiesiogiai sužeidė Henriką Ulenbušą ietimi.
 
 <a id="claim-t-60140"></a>
 - t-002
   global_id: t-60140
   teiginys: 'Henrikas Ulenbušas nepasitraukė iš mūšio lauko ir narsiu gynimusi paskatino kitus grįžti į kovą su sembais.'
-  sudarymo_pagrindimas: 'Teiginys sutrumpintas, išlaikant citatos palaikomą asmens veiksmą ir rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Kvedenava; mentioned_place: Viena; llm_object: [[objektai/grupes/Sembai|Sembai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Ulenbušas|Henrikas Ulenbušas]] kariavo prieš [[objektai/grupes/Sembai|Sembai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b44bc2e5ce2455c903cd7f86c8b5be0dfab62c6251c86b30eae135369dc5308e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Sembai: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas Ulenbušas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Sembai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Henriko gynimasis paskatino grįžti į mūšį, kuriame nukauta daug sembų.
 - susijęs iš [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas.md#claim-t-89361|Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]: Henrikas Ulenbušas per sembų kontrpuolimą nepasitraukė ir pradėjo gintis, todėl kiti broliai grįžo į mūšio lauką.
 ## Reikšmingi paminėjimai
 
@@ -77,7 +51,6 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
 
                108 (103).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -94,7 +67,6 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
     vėliau ir užgijo. Sitai matydamas, vienas tarnas trumpąja ietimi sužeidė minėtąjį Herkų
     ir šitaip jam atseikėjo tuo pačiu saiku.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

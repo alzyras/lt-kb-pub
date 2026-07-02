@@ -31,9 +31,6 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
 - t-001
   global_id: t-172045
   teiginys: 'Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o vėliau priartėjo prie Kauno.'
-  sudarymo_pagrindimas: 'Sakinys pataisytas, kad aiškiai įvardytų veikėją ir pašalintų neapibrėžtą nuorodą.'
-  susije_objektai: 'llm_object: Zaslavlis; llm_object: Lietuva; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Maskva; mentioned_place: Trakai; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] užėmė Zaslavlis'
   pagrindžia:
     - c-001
 
@@ -41,11 +38,6 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
 - t-002
   global_id: t-184407
   teiginys: 'Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Zaslavlį ir atitinka citatą.'
-  susije_objektai: 'mentioned_place: Podolė; mentioned_place: Volinija; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Pinskas; mentioned_place: Polesė; mentioned_place: Turovas'
   pagrindžia:
     - c-002
 
@@ -53,27 +45,8 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
 - t-003
   global_id: t-187689
   teiginys: 'Zaslavlis buvo gyvenvietė apie 20 km į šiaurės vakarus nuo Minsko.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus geografinis faktas, tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Zaslavlis; mentioned_place: Minskas; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Maskva; llm_object: Maskva'
-  semantiniai_rysiai: '[[objektai/asmenys/Jaunutis|Jaunutis]] valdė Zaslavlis'
-  temporaliniai_duomenys: 'įvykio data: 1366 m.; įvykio data: apie 1366 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus geografinis faktas, tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 392030-392405; hash=0576afafa9d6b8870cecb49447a2a532fa341368c39b04decf325aab48c21977; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Zaslavlis: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jaunutis (valdovas, XIV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Zaslavlis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad Jaunutis valdė Zaslavlį iki mirties.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96111|Gediminaičių dinastija]]: Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96111|Gediminaičių dinastija]]: Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184664|Algirdas (Lietuvos valdovas)]]: Kęstutis ir Algirdas sutarė, kad Algirdas gaus didžiojo kunigaikščio titulą, o kitą valdžią jie dalysis lygiomis.
@@ -122,7 +95,6 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
 
     priversdamas priešą badauti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -139,7 +111,6 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
     Volinijos ir Podolės) valdė Jaunučio sūnus. Po kietų kovų su
     Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -157,7 +128,6 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
     Valdė jį iki mirties (apie 1366 m.). Jaunučio palikuonių rankose
     Zaslavlio valda išbuvo iki XVI a. vidurio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

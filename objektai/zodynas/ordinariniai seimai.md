@@ -21,48 +21,29 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
 - t-001
   global_id: t-72706
   teiginys: 'Seime atstovai išsirinkdavo maršalką arba direktorių, o jų išrinkimo teisėtumo tikrinimas vadintas rugomis.'
-  sudarymo_pagrindimas: 'Pašalintos OCR klaidos ir sujungta į glaustą sakinį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 548628-548781; hash=8ea28af5b86a3b978eea3d0a7a3b695a6636f0e65616524b654c94eae034261d; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-72707"></a>
 - t-002
   global_id: t-72707
   teiginys: 'Ordinariniai seimai turėjo rinktis kas dveji metai, o jų darbas trukdavo šešias savaites.'
-  sudarymo_pagrindimas: 'Antraštė pakeista citatos palaikomu faktiniu teiginiu.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ff917b771f7eccf6f186646e4de68f3ed858aff3e62d506bf74d3810c12c2380; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 <a id="claim-t-72710"></a>
 - t-004
   global_id: t-72710
   teiginys: 'Po seimo ginčytinus mokesčių klausimus turėdavo spręsti reliaciniai seimeliai.'
-  sudarymo_pagrindimas: 'Pašalinta žodyninė įžanga ir suformuluotas pilnas faktinis sakinys.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 548628-548781; hash=8ea28af5b86a3b978eea3d0a7a3b695a6636f0e65616524b654c94eae034261d; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-182962"></a>
 - t-005
   global_id: t-182962
   teiginys: 'Ordinariniai seimai paprastai dirbdavo šešias savaites, tačiau seimui sutikus jų laikas galėjo būti pratęstas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškiu įvardžiu, o citata leidžia pateikti aiškesnį sakinį apie objektą.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 548701-548995; hash=7b3ba14efcf9358ef3aa7607c3b465579979dd87ea7cdedb465104c38b02e918; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -75,14 +56,11 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     tikrinamas atstovų išrinkimo teisėtumas. Ta procedūra buvo
     vadinama r u g o m i s.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Po seimo ginčytinus mokesčių klausimus turėdavo spręsti reliaciniai seimeliai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -96,14 +74,11 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     „broliams", t. y. savo seimeliui. Tą dalyką turėdavo išspręsti
     tuojau po seimo įvykstą vadinamieji reliaciniai seimeliai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-004
-
 - c-003
   santrauka: 'Ordinariniai seimai turėjo rinktis kas dveji metai, o jų darbas trukdavo šešias savaites.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -112,15 +87,12 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     dveji metai. Tai buvo vadinamieji ordinariniai seimai,
     kurių darbas trukdavo šešetą savaičių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
     - t-002
-
 - c-004
   santrauka: 'Ordinariniai seimai paprastai dirbdavo šešias savaites, tačiau seimui sutikus jų laikas galėjo būti pratęstas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -132,10 +104,8 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     tiek kitų seimų laikas, pačiam seimui sutinkant, galėjo būti ir
     pratęstas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-005

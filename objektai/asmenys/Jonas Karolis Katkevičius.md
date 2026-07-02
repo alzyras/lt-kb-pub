@@ -9,6 +9,11 @@ datos:
   - '1609 m.'
 date_start: '1590'
 date_end: '1609'
+description: 'Jonas Karolis Katkevičius – LDK karvedys, kovojęs Livonijoje su švedais, 1605 m. tapęs didžiuoju etmonu ir garsėjęs Salaspilio pergale.'
+socialDescription: 'LDK karvedys Jonas Karolis Katkevičius išgarsėjo kovomis Livonijoje, Salaspilio pergale ir paskutine pergale Chotino mūšyje.'
+seo_atnaujinta: '2026-07-02T21:03:54.596440+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius. Jonas Karolis Katkevičius: a. Śliwiński, J. K. Chod- kiewicz (1929) ; Balčiūnas, Pirmasis švedų karas ir Kirchholmo kova (Karo Arch. I); V. Biržiška, D. Lietuvos hetmonas J. K. Katkevičius (Mūsų Žin. 1921, Nr. 3); — XV—XVIII a. Lietuvos kariuomenės vadai (ten pat, 1922, NN 6—7); A.. Jonas Karolis Katkevičius: jonui Jeronimui K. († 1579 m.) mirus, jo vietą užėmė sūnus Jonas Karolis. Iš pradžių jis gavo Žemaičių seniūniją ir lauko hetmono buožę, o vėliau (1605 m.) — didžiojo hetmono buožę ir Vilniaus vaivadiją (1616 m.).
+Jonas Karolis Katkevičius buvo LDK karvedys, 1590 m. pradėjęs tarnybą Lietuvos kariuomenėje, o 1605 m. tapęs Lietuvos didžiuoju etmonu. Livonijoje jis kovojo su švedais, 1605 m. pasiekė pergalę ties Salaspiliu ir neleido švedams užimti Rygos. 1608 m. grįžęs į Livoniją išvadavo Kuoknesę bei Viljandį, o Chotino mūšis minimas kaip paskutinė jo pergalė.
 
 ## Teiginiai
 
@@ -34,12 +39,6 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
 - t-001
   global_id: t-79042
   teiginys: '1604 m. Karoliui IX tapus Švedijos karaliumi, Jonas Karolis Katkevičius Livonijoje toliau kovojo su švedais.'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo labiau apie karo eigą, todėl perrašytas kaip faktas apie užrašo objektą.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Švedai|Švedai]]; llm_object: Ryga; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Livonija; mentioned_place: Švedija; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Estija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Salaspilis; mentioned_place: Valakija'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas Karolis Katkevičius|Jonas Karolis Katkevičius]] kariavo prieš [[objektai/grupes/Švedai|Švedai]]; [[objektai/asmenys/Jonas Karolis Katkevičius|Jonas Karolis Katkevičius]] gynė Ryga'
-  temporaliniai_duomenys: 'mūšio data: 1590 m.; mūšio data: 1595 m.; mūšio data: 1599 m.; mūšio data: 1600 m.; mūšio data: 1601-1602; mūšio data: 1602 m.; mūšio data: 1603 m.; mūšio data: 1604 m.; mūšio data: 1605 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas Karolis Katkevičius kariavo prieš Švedai“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo labiau apie karo eigą, todėl perrašytas kaip faktas apie užrašo objektą.'
   pagrindžia:
     - c-001
 
@@ -47,9 +46,6 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
 - t-002
   global_id: t-79043
   teiginys: 'Chotino mūšis tapo paskutine Jono Karolio Katkevičiaus pasiekta pergale.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Joną Karolį Katkevičių ir atitinka citatą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]; mentioned_place: Chotinas; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas Karolis Katkevičius|Jonas Karolis Katkevičius]] dalyvavo mūšyje [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]'
   pagrindžia:
     - c-002
 
@@ -57,7 +53,6 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
 - t-003
   global_id: t-79044
   teiginys: 'Po Jono Jeronimo Katkevičiaus mirties Jonas Karolis Katkevičius užėmė jo vietą ir vėliau gavo didžiojo hetmono buožę bei Vilniaus vaivadiją.'
-  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-005
 
@@ -65,7 +60,6 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
 - t-004
   global_id: t-79046
   teiginys: 'Karaliaus atsiųstas Jonas Karolis Katkevičius nebeišgelbėjo Maskvos įgulos.'
-  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-004
 
@@ -73,12 +67,6 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
 - t-005
   global_id: t-79047
   teiginys: 'Jonas Karolis Katkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį.'
-  sudarymo_pagrindimas: 'Teiginys yra rišlus ir paremtas citata, pašalinant OCR triukšmą.'
-  susije_objektai: 'llm_object: Livonija; mentioned_place: Kuoknesė; mentioned_place: Livonija; mentioned_place: Viljandis; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/rokošas|rokošas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Daugavgryva; mentioned_place: Lenkija; mentioned_place: Ryga; llm_object: Kuoknesė; llm_object: Viljandis'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas Karolis Katkevičius|Jonas Karolis Katkevičius]] keliavo į Livonija; [[objektai/asmenys/Jonas Karolis Katkevičius|Jonas Karolis Katkevičius]] užėmė Kuoknesė; [[objektai/asmenys/Jonas Karolis Katkevičius|Jonas Karolis Katkevičius]] užėmė Viljandis'
-  temporaliniai_duomenys: 'įvykio data: 1608 m.; įvykio data: 1609 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra rišlus ir paremtas citata, pašalinant OCR triukšmą.'
   pagrindžia:
     - c-003
 
@@ -111,7 +99,6 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     siekė savo garsiąją pergalę ties Salaspiliu ir neleido
     švedams užimti Rygos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -129,7 +116,6 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
 
     sukurti galingiausią savo laiko karinę jėgą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -151,7 +137,6 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     Joną Karolį Chodkevičių nutraukti karo komis sugebėjo atsilaikyti prieš netikėtą
     veiksmus Livonijoje ir vykti į Lenkiją padėti lietuvių puolimą. Po nepavykusio puolimo
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -165,7 +150,6 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     būrių alinamas kraštas sukilo. Maskvos įgulai buvo sunku iš-
     silaikyti. Jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -181,7 +165,6 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     jis gavo Žemaičių seniūniją ir lauko hetmono buožę, o vėliau (1605
     m.) — didžiojo hetmono buožę ir Vilniaus vaivadiją (1616 m.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

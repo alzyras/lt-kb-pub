@@ -45,9 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-31415
   teiginys: '1322 m. Gediminas sudarė taikos sutartį su Livonija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Livonija; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Nemunas'
-  temporaliniai_duomenys: 'įvykio data: 1322 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -55,11 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-31416
   teiginys: '1322 m. Gedimino taikos sutartyje su Livonija minėti Aukštaičiai reiškė geografinį žemės pavadinimą.'
-  sudarymo_pagrindimas: 'Teiginys pataisytas gramatiškai, išlaikant citatos palaikomą prasmę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Livonija; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Polockas'
-  temporaliniai_duomenys: 'įvykio data: 1322 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys pataisytas gramatiškai, išlaikant citatos palaikomą prasmę.'
   pagrindžia:
     - c-002
 
@@ -80,7 +72,6 @@ Nenurodyta
     su Livonija (« Eystoythen »), buvo grynai geografinis žemės pavadi­
     nimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -101,7 +92,6 @@ Nenurodyta
     Platus miškų ruožas skyrė lietuvių gyvenvietes nuo Polocko
     žemės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

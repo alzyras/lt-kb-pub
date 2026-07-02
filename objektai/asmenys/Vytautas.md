@@ -22,9 +22,9 @@ aliases:
 variantai:
   - 'Vytautas (Lietuvos valdovas, 1384 m.)'
   - 'Vytautas Didysis'
-description: 'Vytautas – Lietuvos valdovas, siejamas su Žemaičiais, Trakų pilimi, ordinu, krikščionybės plėtra ir Žalgirio mūšiu.'
-socialDescription: 'Vytauto istorija apie valdžią, diplomatiją, kovas su ordinu, Žemaičių klausimą, Trakų pilį ir Lietuvos reikalų gynimą.'
-seo_atnaujinta: '2026-07-02T19:20:23.252192+03:00'
+description: 'Vytautas - Lietuvos valdovas, siejamas su Žemaičiais, ordinu, Trakų pilimi, krikščionybės plėtra ir Žalgirio mūšiu.'
+socialDescription: 'Vytautas šaltiniuose iškyla kaip Lietuvos valdovas, stiprinęs valstybę, gynęs jos reikalus ir vadovavęs Lietuvos pulkams Žalgirio mūšyje.'
+seo_atnaujinta: '2026-07-02T20:14:54.740601+03:00'
 seo_policy_version: 'seo_summary_v1'
 seo_nepakanka_duomenu: 'false'
 sukurta: ''
@@ -42,7 +42,7 @@ tags:
 
 ## Santrauka
 
-Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės stiprinimu, Žemaičių įjungimu ir Lietuvos reikalų gynimu laiškuose. Šaltiniai pabrėžia jo santykius su ordinu, 1384 m. krikštą Vygando vardu, Salyno suvažiavimą ir Trakų Galvės ežero salos pilį. Taip pat akcentuojama Vytauto vadovybė Žalgirio mūšyje ir vaidmuo krikščionybės plėtroje.
+Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių įjungimu ir Lietuvos reikalų gynimu laiškuose. Šaltiniai mini jo santykius su Kryžiuočių ordinu, 1384 m. krikštą Vygando vardu, Salyno suvažiavimą ir Trakų Galvės ežero salos pilį. Jo veikla taip pat siejama su krikščionybės plėtra, Medininkų vyskupija ir vadovavimu Lietuvos pulkams Žalgirio mūšyje.
 
 ## Vaidmenys
 
@@ -70,8 +70,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-001
   global_id: t-05208
   teiginys: 'Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santykių atsiradimu stepėje.'
-  susije_objektai: 'mentioned_place: Dniepras; mentioned_place: Baltija; mentioned_place: Viena; llm_object: Dniepras'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Dniepras'
   pagrindžia:
     - c-018
 
@@ -79,8 +77,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-002
   global_id: t-05209
   teiginys: 'Vytauto „arklių girdymas“ Juodojoje jūroje ilgai išliko žmonių atmintyje.'
-  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Dniepras; mentioned_place: Viena; llm_object: Dniepras'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užkariavo Dniepras'
   pagrindžia:
     - c-018
 
@@ -88,8 +84,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-003
   global_id: t-05210
   teiginys: 'Žemaičiai į Lietuvos valstybę labiau buvo įjungti Vytauto laikais.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir susijęs su Vytauto laikų Lietuvos valstybės raida.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-020
 
@@ -97,11 +91,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-004
   global_id: t-05211
   teiginys: 'Sugrįžęs iš ordino, Vytautas 1384–1389 m. tarnavo Jogailai ir rėmė jo politinius bei kultūrinius žygius.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1384-1389; įvykio data: 1389 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-024
 
@@ -109,7 +98,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-005
   global_id: t-05212
   teiginys: 'Vytautas aktyviai rūpinosi krikščionybės plėtra ir, šaltinio vertinimu, kaip Lietuvos krikščionintojas turėjo žymių nuopelnų greta Jogailos.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-028
 
@@ -117,7 +105,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-006
   global_id: t-05213
   teiginys: 'Vytautas įsteigė ir aprūpino Medininkų vyskupiją bei organizavo eilę parapinių bažnyčių Lietuvoje.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-029
 
@@ -125,9 +112,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-007
   global_id: t-05214
   teiginys: 'Vytautas laiškuose gynė Lietuvos reikalus ir nepriklausomybę prieš lenkų nusistatymą.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai nusako Vytauto poziciją, kurią patvirtina citata.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Luckas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] gynė Lietuva'
   pagrindžia:
     - c-027
     - c-104
@@ -136,8 +120,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-008
   global_id: t-05215
   teiginys: 'Trakų Galvės ežero salos pilis tapo Vytauto Didžiojo pasididžiavimu.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata apie pilies reikšmę Vytautui.'
-  susije_objektai: 'mentioned_place: Galvės ežero salos pilis; mentioned_place: Nemunas; mentioned_place: Salos; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-019
 
@@ -145,12 +127,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-009
   global_id: t-05216
   teiginys: '1392 m. gavęs Vilnių Vytautas įgijo didžiojo Lietuvos kunigaikščio titulą.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, veiksmą ir rezultatą, paremtą citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Astravas; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė miestą Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1392 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, veiksmą ir rezultatą, paremtą citata.'
   pagrindžia:
     - c-014
     - c-021
@@ -160,105 +136,37 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-010
   global_id: t-05217
   teiginys: 'Algirdo pasiektas Okos šaltinių valdas papildomai teužvaldė Vytautas, paimdamas Okos aukštupių kunigaikštijas.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Būgas; mentioned_place: Dniepras; mentioned_place: Černigovas'
-  temporaliniai_duomenys: 'įvykio data: 1362 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-022
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5dc09d44a2037ed63f74e07c835fdf6cd56be5eac3e628156d94d7dbdf89f6bd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Dniepras: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Dniepras: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vytauto pasirodymas Dniepro žemupyje rodo jo atvykimą ar žygį į šią vietą.
 
 <a id="claim-t-05218"></a>
 - t-011
   global_id: t-05218
   teiginys: 'Per 1384-1404 m. Vytautas keturis kartus raštu pažadėjo ordinui Žemaičius ir tiek pat kartų juos vėl susigrąžino.'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus ir atitinka citatoje pateiktą informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Markvardas Salzbaclias|Markvardas Salzbaclias]]'
-  temporaliniai_duomenys: 'įvykio data: 1384-1404; įvykio data: 1404 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus ir atitinka citatoje pateiktą informaciją.'
   pagrindžia:
     - c-015
     - c-025
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5dc09d44a2037ed63f74e07c835fdf6cd56be5eac3e628156d94d7dbdf89f6bd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzkariavo -> Dniepras: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Dniepras: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje tiesiogiai siejamas Vytauto pasirodymas Dniepro žemupyje su užvaldymu, todėl galima fiksuoti užkariavimo / užvaldymo ryšį.
 
 <a id="claim-t-05219"></a>
 - t-012
   global_id: t-05219
   teiginys: 'Salyno suvažiavimo puotoje Vytautas buvo paskelbtas Lietuvos karaliumi.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Prūsų žemė; mentioned_place: Salynas'
-  temporaliniai_duomenys: 'įvykio data: 1392 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=856150fa2d27c65e17797e7c7c8c92909584be58774f5e08aabad33e8cdef443; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuva: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad žemaičiai buvo įjungti į Lietuvos valstybę.
 
 <a id="claim-t-05220"></a>
 - t-013
   global_id: t-05220
   teiginys: '1404 m. prie Lampėdžių Vytautas pažadėjo per dešimtį metų nepriiminėti iš ordino žemių činšininkų.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiksliai perteikia Vytauto pažadą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Smolenskas'
-  temporaliniai_duomenys: 'įvykio data: 1404 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiksliai perteikia Vytauto pažadą.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3de528b5270397dfc84a349b73b31257c89e190545f49b97ca3a1de4fa26cdb2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-05221"></a>
 - t-014
   global_id: t-05221
   teiginys: 'Vytautas kautynių metu tvarkė pulkus, davinėjo įsakymus, jodinėjo keisdamas žirgus ir atstatinėjo pralaužtas vietas.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir pagrįstas citatos aprašymu apie Vytauto veiksmus kautynėse.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a5fa1fbfc5119f7f2315c2ea2220cc937017d8e99ce071bba43a5d3864a1bf49; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=77
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-05222"></a>
 - t-015
@@ -266,305 +174,109 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
   teiginys: 'Vytautui buvo būdingas taupumas, bet jis dosniai švaistydavosi, kai reikėdavo pasirodyti užsieniečiams.'
   pagrindžia:
     - c-030
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=82ecb7c795e9e97f2975201939ad67031b8fbc4c4b39f68efc3c52058dd31022; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=88
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-10104"></a>
 - t-016
   global_id: t-10104
   teiginys: '1410 m. Vytautas, suvienijęs jėgas su Jogailos vedama Lenkijos kariuomene, Žalgirio mūšyje visiškai sutriuškino Kryžiuočių ordiną.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Vytauto veiksmą ir mūšio rezultatą.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija; mentioned_place: Europa; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  temporaliniai_duomenys: 'įvykio data: 1410 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Vytauto veiksmą ir mūšio rezultatą.'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c74e6ddf4cf5845351a3a2bafd9efe443640109e25c4a0ae9aacbedb6a43628c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Lietuva: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas gynė Lietuvos reikalus ir nepriklausomybę.
 
 <a id="claim-t-10105"></a>
 - t-017
   global_id: t-10105
   teiginys: 'Vytautas buvo vienas galingiausių Lietuvos valdovų ir maksimaliai išplėtė valstybę, prijungdamas Smolenską ir pasiekdamas Juodąją jūrą.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, išsamus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Smolenskas; llm_object: Lietuva; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Vorskla'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užėmė Smolenskas; [[objektai/asmenys/Vytautas|Vytautas]] valdė Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1399 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, išsamus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9b1c0b5775b9676430e55a3a970f73fa4636615acf6e5062e82cd5e5cc87ec9c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Galvės ežero salos pilis (pilis): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Galvės ežero salos pilis (pilis): mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Galvės ežero salos pilis (pilis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-10703"></a>
 - t-021
   global_id: t-10703
   teiginys: 'Vytautas iš Krėvos pabėgo su žmona Ona ir paspruko pas Jonušą.'
-  susije_objektai: 'mentioned_place: Krėva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=59999d18c9f7263297df3e3080732f782a1f5bf264209d946e977943fb976655; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-10704"></a>
 - t-022
   global_id: t-10704
   teiginys: '1384 m. Vytautas, ieškodamas ordino paramos, pasižadėjo būti jo vasalu ir buvo pakrikštytas Vygando vardu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Lietuva; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1384 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 904878-905260; hash=7b2a36c32fe0d1ef31cfbf50295cffaa4533e2128d43e9d3a1ebb1a107486f25; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-10709"></a>
 - t-023
   global_id: t-10709
   teiginys: 'Lucko suvažiavime Vytautas buvo šeimininkas, o ten iškeltas jo karūnavimo Lietuvos karaliumi sumanymas.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Zbignevas Olesnickis|Zbignevas Olesnickis]]; mentioned_place: Luckas'
   pagrindžia:
     - c-105
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a813543824546684e8ee9824e4d1ce4a980bd83d67d69455d6fb2a7446d77a54; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žirgai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Žirgai: mention_match, thing, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Žirgai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176624"></a>
 - t-024
   global_id: t-176624
   teiginys: '1401 m. Vytautas iškilmingu aktu laidavo, kad po jo mirties Lietuva ir Rusia pereis Jogailos valdžion.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Rusia; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Vilnius; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1401 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-068
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=dccdd5e2159fe1ede660761fd9fbbef45e8a41e1e4d7bf7f63f42c911b91cf34; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 <a id="claim-t-176625"></a>
 - t-025
   global_id: t-176625
   teiginys: 'Vytautas tikėjo, kad viename pralaimėtame mūšyje jį išgelbėjo Švč. Mergelė Marija.'
-  sudarymo_pagrindimas: 'Pataisyta gramatika ir aiškiau įvardytas veikėjas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-060
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 55638-55851; hash=8cd9be8404bcb8bbe607727783d1132bfbadae6cf566985922bf4cb7c8123711; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Claim ir citata tiesiogiai nurodo karinį susidūrimą, kuriame Vytautas sutriuškino Kryžiuočių ordiną.
 
 <a id="claim-t-176626"></a>
 - t-026
   global_id: t-176626
   teiginys: 'Vytautas pirmasis metė Lietuvos kariuomenę į Žalgirio mūšį, nes nesulaukė Jogailos žodžio pradėti kovą.'
-  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Vytauto veiksmą mūšyje.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-056
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 55853-56103; hash=699760c6fe9a1d133d8ac154f2fcf7e825041424073df8d09626d493d74ea967; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Smolenskas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Smolenskas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: „Prijungęs Smolenską“ tiesiogiai pagrindžia Smolensko užėmimo / prijungimo ryšį.
 
 <a id="claim-t-176628"></a>
 - t-027
   global_id: t-176628
   teiginys: 'Vytautas augo susidurdamas ir su pagoniška pasaulėžiūra, ir su krikščionybės idėjomis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Vilnius; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] gyveno Vilnius'
   pagrindžia:
     - c-061
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 55853-56103; hash=699760c6fe9a1d133d8ac154f2fcf7e825041424073df8d09626d493d74ea967; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Pralaimėjimas totoriams prie Vorsklos tiesiogiai reiškia karinę priešpriešą su totoriais.
 
 <a id="claim-t-176629"></a>
 - t-028
   global_id: t-176629
   teiginys: 'Vytautas laiškuose gynė Lietuvos reikalus ir nepriklausomybę, nepakęsdamas Didžiosios Lietuvos Kunigaikštijos žeminimo.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai pagrįstas citata apie Vytauto laiškus.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Luckas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] gynė Lietuva'
   pagrindžia:
     - c-027
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 103307-103902; hash=0adc1c33aa30d9febe966e03c8333701fcba46f6eb977a7b20c9ce3d733e9cfb; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176630"></a>
 - t-029
   global_id: t-176630
   teiginys: 'Vytauto tolerancijos įvaizdis sietas su totorių pakvietimu į Lietuvą ir žydams suteiktomis privilegijomis.'
-  sudarymo_pagrindimas: 'Pašalintas publicistinis kontekstas ir suformuotas aiškus teiginys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; llm_object: Lietuva; mentioned_place: Europa; mentioned_place: Kaunas'
   pagrindžia:
     - c-066
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7effdb0030b85a010bec1c68b68d404d66ab6dfaf7ba8478c35831a6e70e09a7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Žemaitija atiteko Vytautui ir Jogailai iki gyvos galvos.
 
 <a id="claim-t-176631"></a>
 - t-030
   global_id: t-176631
   teiginys: '1401 m. Vytautas davė Jogailai aktą, kad po jo mirties Lietuva ir Rusia pereis karaliaus valdžion.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie Vytauto įsipareigojimą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusia; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lenkija; mentioned_place: Vilnius; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1401 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Vytauto įsipareigojimą.'
   pagrindžia:
     - c-085
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=973f9517fe020c952fadb36cb288f5d9fced367a14aa9b3ddb0f3d1111fbe9a1; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vydimantas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vydimantas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Vydimantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176632"></a>
 - t-031
   global_id: t-176632
   teiginys: 'Po Žalgirio mūšio atsirado Vytauto funduotų bažnyčių ir vienuolynų, o 1413 m. buvo apkrikštyta Žemaitija.'
-  sudarymo_pagrindimas: 'Pradinis sakinys per ilgas; citata remia glaustesnį faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Katalikų Bažnyčia|Katalikų Bažnyčia]]; mentioned_place: Žemaitija; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1413 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis sakinys per ilgas; citata remia glaustesnį faktą.'
   pagrindžia:
     - c-082
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 40126-40476; hash=406d9d2e23b5bf2c9112534c844434ebbdfd69a50042ce22ffe08b714d1553bd; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vytauto tėvystę Kęstučio atžvilgiu.
 
 <a id="claim-t-176633"></a>
 - t-032
   global_id: t-176633
   teiginys: 'Po sūnų Jono ir Jurgio netekties Vytautas puolėsi prie sutarties su Jogaila.'
-  sudarymo_pagrindimas: 'Citata palaiko teiginį, sutvarkytas nutrūkęs sakinys.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas|Jonas]] buvo sūnus [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-100
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 41741-42264; hash=0a0baba4d63f074916811d88c516bd046d4d77780d889d6281d62e36e383e319; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vilnius: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata rodo Vytauto buvimą Algirdo šeimoje Vilniuje, kur jis susidurdavo su krikščionybės idėjomis.
 
 <a id="claim-t-176634"></a>
 - t-033
   global_id: t-176634
   teiginys: 'Vytautas valdė 1392–1430 m. ir šaltinyje vadinamas žymiausiu Lietuvos valdovu.'
-  sudarymo_pagrindimas: 'Pradinis tekstas yra lentelės fragmentas, ne sakinys.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1392-1430; įvykio data: 1430 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra lentelės fragmentas, ne sakinys.'
   pagrindžia:
     - c-132
 
@@ -572,31 +284,13 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-034
   global_id: t-176635
   teiginys: '1386 m. Vytautas užbaigė Šv. Jono bažnyčią, kurią Vladislovas Jogaila buvo pradėjęs statyti savo lėšomis.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo, kad Jogailos pradėtą Šv. Jono bažnyčią užbaigė Vytautas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kijevas; mentioned_place: Plockas; mentioned_place: Pskovas; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1386 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai nurodo, kad Jogailos pradėtą Šv. Jono bažnyčią užbaigė Vytautas.'
   pagrindžia:
     - c-123
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 46696-46898; hash=1f021425403b9f64c145bee767db78ed406516df714de4a829c16726d43a5616; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=68
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176636"></a>
 - t-035
   global_id: t-176636
   teiginys: 'Po Žalgirio mūšio Vytautas fundavo bažnyčias ir vienuolynus, o 1413 m. buvo apkrikštyta Žemaitija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Katalikų Bažnyčia|Katalikų Bažnyčia]]; mentioned_place: Žemaitija; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1413 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-082
 
@@ -604,57 +298,20 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-036
   global_id: t-176638
   teiginys: 'Vytauto Didžiojo kulto pasakojime jis vaizduotas kaip Žalgirio mūšį laimėjęs karvedys ir Lietuvos karūnos siekęs valdovas.'
-  sudarymo_pagrindimas: 'Pradinis tekstas nutrūksta ir turi būti perrašytas į užbaigtą sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1930 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis tekstas nutrūksta ir turi būti perrašytas į užbaigtą sakinį.'
   pagrindžia:
     - c-049
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 88783-89050; hash=57f4ad87b83f8dc9f691de7f1a099ee941fb326c4140339e6739ce2aba4f2f57; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, 1384 m.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, 1384 m.): mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, 1384 m.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176639"></a>
 - t-037
   global_id: t-176639
   teiginys: '1390 m. sausio 19 d. prie Gardino Ordino pasiųstas komtūras sudarė sutartį su Vytautu.'
-  sudarymo_pagrindimas: 'Citata palaiko datą, vietą ir sutarties faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Gardinas; mentioned_place: Kernavė; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] sudarė sutartį su [[objektai/asmenys/Vytautas|Vytautas]]'
-  temporaliniai_duomenys: 'įvykio data: 1390 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko datą, vietą ir sutarties faktą.'
   pagrindžia:
     - c-099
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 649172-649523; hash=054812f06881d738f1f700a84da613d21500f3484b87ee2a198cfb53ce18f832; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Lietuva: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas gavo valdyti visą Lietuvą.
 
 <a id="claim-t-176640"></a>
 - t-038
   global_id: t-176640
   teiginys: 'Vytautas Didysis, Kęstučio sūnus, valdė 1392–1430 m. ir šaltinyje vadinamas iškiliausiu Gediminaičių dinastijos atstovu.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citatos palaikomas faktas.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai|Įsivaizduojami Lietuvos valdovų portretai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1392-1430; įvykio data: 1430 m.; įvykio data: 1838 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir paliktas citatos palaikomas faktas.'
   pagrindžia:
     - c-074
 
@@ -662,11 +319,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-039
   global_id: t-176641
   teiginys: '1377 m. Vytautas surengė žygį į Ordino žemes ir pasirodė kaip savarankiškas lietuvių kariuomenės vadas.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
-  temporaliniai_duomenys: 'įvykio data: 1377 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, faktinis ir paremtas citata.'
   pagrindžia:
     - c-010
 
@@ -674,53 +326,20 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-040
   global_id: t-176642
   teiginys: 'Vytauto Didžiojo vardas siejamas su LDK tradicija, kėlusia atgimstančios lietuvių tautos sąmonę.'
-  sudarymo_pagrindimas: 'Pradinė formuluotė per plati, bet citata remia teiginį apie Vytauto vardą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-047
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 641722-641949; hash=add0d932bfcc44a500b339533ebdb18ea120b0c8e4e714e5ec92f2668d9851a3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176643"></a>
 - t-041
   global_id: t-176643
   teiginys: 'Vytautas savo sostinėje iškilmingai priėmė Vladislovą Jogailą, atvykusį malšinti kivirčų su kryžiuočiais.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Vytauto priėmimą ir Jogailos apsilankymo tikslą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Janas Kropidła|Janas Kropidła]]; mentioned_place: Alšėnai; mentioned_place: Krėva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1418 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia Vytauto priėmimą ir Jogailos apsilankymo tikslą.'
   pagrindžia:
     - c-113
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d58e2e66fa6bf7146b7582573af7997f1c62b0385361fc88723eb874b96b35ef; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Lietuva: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kontekstas yra Lietuvos valdovai, o šalia Vytauto nurodyti jo valdymo metai.
 
 <a id="claim-t-176644"></a>
 - t-042
   global_id: t-176644
   teiginys: '1413 m. Vytautas su Jogaila pradėjo krikštyti žemaičius.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Vytauto veiksmą.'
-  susije_objektai: 'llm_object: Konstanca; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_author: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_group: [[objektai/grupes/Katalikų Bažnyčia|Katalikų Bažnyčia]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Konstanca'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] siuntė į Konstanca'
-  temporaliniai_duomenys: 'įvykio data: 1413 m.; įvykio data: 1418 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Vytauto veiksmą.'
   pagrindžia:
     - c-072
 
@@ -728,10 +347,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-043
   global_id: t-176646
   teiginys: 'Kęstučio sūnus Vytautas Didysis valdė 1392–1430 m. ir laikytas iškiliausiu dinastijos atstovu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai|Įsivaizduojami Lietuvos valdovų portretai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1392-1430; įvykio data: 1430 m.; įvykio data: 1838 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-074
 
@@ -739,52 +354,20 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-044
   global_id: t-176647
   teiginys: '1384 m. rugpjūčio 23 d. Vytauto dovanojimo aktas Trakų miestui liudijo, kad jis jau buvo krikščionis.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos informaciją apie Vytautą.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_place: Lietuva; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1384 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatos informaciją apie Vytautą.'
   pagrindžia:
     - c-091
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 77765-78116; hash=2659f558cccbb16e4481f6b8b9fd71722edba1fa57fad5919f20451acc4adc13; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Luckas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Luckas perėjo Vytauto žinion.
 
 <a id="claim-t-176648"></a>
 - t-045
   global_id: t-176648
   teiginys: 'Sužinojęs sprendimą Dauguose, Vytautas Didysis pasiuntė sekretorių Mikalojų Cebulką pareikšti Zigmantui nepasitenkinimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]'
   pagrindžia:
     - c-042
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 79794-80403; hash=63267e75af8a5ac8213ef6492e645e9b2c48cda00106bcca2f526a48299a0a29; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Grigorijus Camblakas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Grigorijus Camblakas: mention_match, author, gap=105
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Grigorijus Camblakas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176650"></a>
 - t-046
   global_id: t-176650
   teiginys: 'Vytauto valdymas 1392–1430 m. šaltinyje apibūdinamas kaip epochinių permainų metas.'
-  sudarymo_pagrindimas: 'Pašalintas antraštės ir OCR triukšmas.'
-  susije_objektai: 'llm_object: Lenkija; llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1392 m.; įvykio data: 1392-1430; įvykio data: 1430 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas antraštės ir OCR triukšmas.'
   pagrindžia:
     - c-101
 
@@ -792,94 +375,34 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-047
   global_id: t-176651
   teiginys: '1429 m. sausio 6 d. Vytautas Didysis Lucke sušaukė popiežiaus paskirtą suvažiavimą.'
-  susije_objektai: 'mentioned_place: Luckas; mentioned_place: Europa'
-  temporaliniai_duomenys: 'įvykio data: 1429 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-052
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=13959913473e77a8fa03f80329f20cf4d51917d8e3d36629ca4568aa17c53149; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176652"></a>
 - t-048
   global_id: t-176652
   teiginys: 'Tų metų rugpjūtį Vytautas Didysis su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą.'
-  susije_objektai: 'llm_object: Pskovas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_place: Dorpatas; mentioned_place: Naugardas; mentioned_place: Rusija'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] puolė Pskovas; [[objektai/asmenys/Vytautas|Vytautas]] surengė žygį į Pskovas'
-  temporaliniai_duomenys: 'įvykio data: 1426 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-067
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 82765-83213; hash=b1e4af18c13393e7c7aa35f13e9b9151aa817dd5c647c6e77dc235b3dbfda1af; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176653"></a>
 - t-049
   global_id: t-176653
   teiginys: '1430 m. spalio 27 d. mirė Lietuvos valdovas Vytautas Didysis Kęstutaitis.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Vytauto mirtį.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo valdovas Lietuva'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1430 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Vytauto mirtį.'
   pagrindžia:
     - c-040
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 83684-84028; hash=c8725f7d83378c40233d008c47e649cd518c95d48133a62ba9b735a26c17253a; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176654"></a>
 - t-050
   global_id: t-176654
   teiginys: 'Vytautas mokėjo vokiečių ir lotynų kalbas, o šaltinyje svarstoma, kad galėjo mokėti ir rusų bei totorių kalbas.'
-  sudarymo_pagrindimas: 'Citata palaiko atsargesnį sakinį apie kalbų mokėjimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-033
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 84275-84496; hash=f92b353dd06b1c6c1600f65903e31609521d62ffb8c831f58a42bc6eebcef5c1; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=91
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176655"></a>
 - t-051
   global_id: t-176655
   teiginys: '1398 m. spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.'
-  sudarymo_pagrindimas: 'Fragmentas perrašytas į pilną sakinį ir išplėstas asmens vardas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas Jungingenas|Konradas Jungingenas]]; mentioned_person: [[objektai/asmenys/Ulrichas von Jungingenas|Ulrichas von Jungingenas]]; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Salyne'
-  temporaliniai_duomenys: 'įvykio data: 1398 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Fragmentas perrašytas į pilną sakinį ir išplėstas asmens vardas.'
   pagrindžia:
     - c-016
 
@@ -887,30 +410,13 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-052
   global_id: t-176656
   teiginys: 'Kochanovskio nuomone, Horodlės unija Vytautas Didysis siekė ne lenkinti Lietuvą, o ją civilizuoti.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/lenkinti|lenkinti]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Kochanovskis|Kochanovskis]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Europa; mentioned_place: Horodlė; mentioned_place: Lenkija'
   pagrindžia:
     - c-125
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=50407cef301c05e2ae0bd0435943636dcd14e89066d65afd7ad38e7638ac8c2a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Katalikų Bažnyčia: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Katalikų Bažnyčia: mention_match, group, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Katalikų Bažnyčia" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176657"></a>
 - t-053
   global_id: t-176657
   teiginys: '1410 m. Vytautas, su kariuomene įžengęs į Prūsiją, rado jam palankių prūsų bajorų.'
-  sudarymo_pagrindimas: 'Pašalinta perteklinė interpretacinė dalis ir išlaikyta citatos esmė.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
-  semantiniai_rysiai: '[[objektai/grupes/Bajorai|Bajorai]] rėmė [[objektai/asmenys/Vytautas|Vytautas]]'
-  temporaliniai_duomenys: 'įvykio data: 1285 m.; įvykio data: 1292 m.; įvykio data: 1293 m.; įvykio data: 1337 m.; įvykio data: 1410 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalinta perteklinė interpretacinė dalis ir išlaikyta citatos esmė.'
   pagrindžia:
     - c-079
 
@@ -918,7 +424,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-054
   global_id: t-176658
   teiginys: 'Vytautas Didysis palaikė neblogus santykius su turkais, kurie jo valdymo metu vis labiau skverbėsi į Balkanų pusiasalį.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)|Konstancijos susirinkimas (1414–1418 m.)]]; mentioned_person: [[objektai/asmenys/Paleologas|Paleologas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Konstancija; mentioned_place: Konstantinopolis; mentioned_place: Maskva; mentioned_place: Moldavija; mentioned_place: Viena'
   pagrindžia:
     - c-109
 
@@ -926,45 +431,20 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-055
   global_id: t-176659
   teiginys: 'Nuo jaunystės Vytautas mėgo karo dalykus ir sekė Vakarų Europos naujoves.'
-  susije_objektai: 'mentioned_place: Europa'
   pagrindžia:
     - c-013
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 91472-91686; hash=acc2bd1b68d6bf2f5e57f5355f2a1f3935f13d6d1f6dc4ccbe921d3e5cf600f4; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Konstanca: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Konstanca: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas siunčia delegaciją į Konstancą.
 
 <a id="claim-t-176660"></a>
 - t-056
   global_id: t-176660
   teiginys: 'Žalgirio mūšio metu Vytautas Didysis pats vedė savo kariuomenę ir vadovavo visai sąjunginei kariuomenei.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Moravai|Moravai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krokuva; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo sąjungininkas su [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-054
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=15dcd2fa1888d60cd5446dc7db3346f6da01cd005c67acbf780bed6568717623; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176661"></a>
 - t-057
   global_id: t-176661
   teiginys: 'Mazovijos kunigaikštis Henrikas su slaptu Jogailos pavedimu atvyko pas Vytautą.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie atvykimą pas Vytautą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Mazovija; mentioned_place: Plockas; mentioned_place: Vilnius'
   pagrindžia:
     - c-121
 
@@ -972,112 +452,41 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-058
   global_id: t-176662
   teiginys: '1392 m. Vytautas galutinai atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir gavo valdyti visą Lietuvą.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą faktą.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: [[objektai/asmenys/Jogaila|Jogaila]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė Lietuva; [[objektai/asmenys/Vytautas|Vytautas]] sudarė sutartį su [[objektai/asmenys/Jogaila|Jogaila]]'
-  temporaliniai_duomenys: 'įvykio data: 1392 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą faktą.'
   pagrindžia:
     - c-012
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=452058276a32793e7100b9fdac9c0e6646f8427633537cad418beb3ffc10375c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Zigmantas I: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Zigmantas I rėmė Vytauto vainikavimo planą.
 
 <a id="claim-t-176663"></a>
 - t-059
   global_id: t-176663
   teiginys: 'Vytautas šiame veikale pavadintas žymiausiu dinastijos atstovu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Vydimantas|Vydimantas]]'
   pagrindžia:
     - c-081
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4566e112ac5cdc027e9e072217e5da9b91ab88fd99cde2b77121e4d5377de2ce; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176664"></a>
 - t-060
   global_id: t-176664
   teiginys: 'Vytautas išvyko į Žemaitiją, kur jo tėvui Kęstučiui nuo seno buvo palankūs paprasti žmonės ir bajorai.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Anglija; llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-090
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f479109d4aa35e28aaa3f8ae3ca3361d763f4c0a79fa808cc978923fc1342bf5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karaimai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Karaimai: mention_match, group, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Karaimai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176666"></a>
 - t-061
   global_id: t-176666
   teiginys: 'Kol Jogaila tarėsi su pasiuntiniais, Vytautas Didysis judėjo tarp kariuomenių ir rūpinosi jų tvarka.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
   pagrindžia:
     - c-117
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4f6fb39397f95c0e32d2d833902b3de4918e9732239d0dc63caab89c02710534; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176667"></a>
 - t-062
   global_id: t-176667
   teiginys: '1422 m. liepos pabaigoje Vytautas Didysis ir Jogaila, nelaukdami Ordino užpuolimo, išžygiavo prieš Ordiną.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  temporaliniai_duomenys: 'įvykio data: po 1414 m.; įvykio data: 1414 m.; įvykio data: 1422 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-037
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7a064592788a2e738c5637b842d3c2c4b9f911d3e28d18b4e2996d5ed5641578; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Vitebskas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas kartu su Skirgaila paėmė Vitebską.
 
 <a id="claim-t-176668"></a>
 - t-063
   global_id: t-176668
   teiginys: 'Vytauto karūnacijos projektas siejamas su Lietuvos christianizacijos ir europeizacijos kontekstu.'
-  sudarymo_pagrindimas: 'Citata remia interpretacinį teiginį, todėl reikia aiškesnės formuluotės.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vengrija'
-  temporaliniai_duomenys: 'įvykio data: 1422 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata remia interpretacinį teiginį, todėl reikia aiškesnės formuluotės.'
   pagrindžia:
     - c-044
 
@@ -1085,576 +494,202 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-064
   global_id: t-176669
   teiginys: 'Puolant Vilnių Vytautas su žemaičiais, Derbio kunigaikščiu ir anglų pėstininkais kovėsi su Karigaila.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi OCR triukšmo, o citata leidžia suformuluoti aiškesnį faktą apie Vytautą.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Bombardos|Bombardos]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] puolė Vilnius'
   pagrindžia:
     - c-048
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=59999d18c9f7263297df3e3080732f782a1f5bf264209d946e977943fb976655; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Kryžiuočių ordinas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas pažadėjo ordinui padėti užimti Žemaičius.
 
 <a id="claim-t-176670"></a>
 - t-065
   global_id: t-176670
   teiginys: 'Vilniuje Vytautas iš vyskupo Andriaus Važilo gavo patepimą tapti didžiuoju Lietuvos kunigaikščiu.'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus ir paremtas citata.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo valdovas Lietuva'
   pagrindžia:
     - c-088
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 904878-905260; hash=7b2a36c32fe0d1ef31cfbf50295cffaa4533e2128d43e9d3a1ebb1a107486f25; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ritterswerderis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Ritterswerderis: mention_match, place, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Ritterswerderis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176671"></a>
 - t-066
   global_id: t-176671
   teiginys: '1422 m. Vytautas į Prahą pasiuntė savo sūnėną Žygimantą Kaributaitį kaip čekų pageidaujamą valdovą.'
-  sudarymo_pagrindimas: 'Citata palaiko datą, veiksmą ir asmenį.'
-  susije_objektai: 'llm_object: Praha; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Praha; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Valakija; mentioned_place: Vilnius; mentioned_place: Volga'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] siuntė į Praha'
-  temporaliniai_duomenys: 'įvykio data: 1420 m.; įvykio data: 1422 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko datą, veiksmą ir asmenį.'
   pagrindžia:
     - c-058
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 908485-908825; hash=a0b4e2e922d366d4ebe15cb398c47ec7b9ac42e7cda06c2546826c64d8b42898; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Salos: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Salos: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Salos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176672"></a>
 - t-067
   global_id: t-176672
   teiginys: 'Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei buveinei.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Trakai; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo sūnus [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-110
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1bcf9bac733089a2e44f02383724db47d26795c875420396b170f7e892cd3a88; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Markvardas Salzbaclias: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Markvardas Salzbaclias: mention_match, person, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Markvardas Salzbaclias" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176673"></a>
 - t-068
   global_id: t-176673
   teiginys: 'Vytautas su lietuviais ir lenkais užklupo Rittersverderio pilį stačiusį magistrą ir ragino jį pasitraukti iš krašto.'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį ir fragmentišką kontekstą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Rittersverderis; mentioned_place: Nemunas; llm_object: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo sąjungininkas su [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/asmenys/Vytautas|Vytautas]] buvo sąjungininkas su [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-130
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a813543824546684e8ee9824e4d1ce4a980bd83d67d69455d6fb2a7446d77a54; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dlugošas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dlugošas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176674"></a>
 - t-069
   global_id: t-176674
   teiginys: 'Vytautas viešai dėjosi nekaltas ir, Markvardo Salzbacho įžeistas dėl kaltinimų išdavus ordiną, skundėsi magistrui.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir fragmentiška citatos formuluotė.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Markvardas Salzbaclias|Markvardas Salzbaclias]]'
   pagrindžia:
     - c-015
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c74e6ddf4cf5845351a3a2bafd9efe443640109e25c4a0ae9aacbedb6a43628c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Lietuva: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas gynė Lietuvos reikalus ir nepriklausomybę.
 
 <a id="claim-t-176675"></a>
 - t-070
   global_id: t-176675
   teiginys: 'Vytautas per savo agentus Lenkijoje skleidė nuostatą, kad karas su Vokiečių ordinu būtinas.'
-  sudarymo_pagrindimas: 'Pašalintas kontekstinis „Todėl“ ir suformuotas savarankiškas sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
   pagrindžia:
     - c-098
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=87d26cce5464c907e9a68d5180b308bef80dbda3710cc22f5b4f85a5a9c17ebe; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Naugardas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Naugardas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vytauto žygį prieš Naugardą.
 
 <a id="claim-t-176677"></a>
 - t-072
   global_id: t-176677
   teiginys: 'Vytautas dažnai paremdavo prieš Vokiečių ordino valdžią sukilusius žemaičius.'
-  sudarymo_pagrindimas: 'Pradinis teiginys sujungė nesusijusius fragmentus; citata leidžia aiškų sakinį apie Vytautą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Ašmena; mentioned_place: Klaipėda; mentioned_place: Torunė; mentioned_place: Žemaitija'
-  semantiniai_rysiai: 'Žemaitija priklausė [[objektai/asmenys/Vytautas|Vytautas]]'
-  temporaliniai_duomenys: 'įvykio data: 1410 m.; įvykio data: 1411 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys sujungė nesusijusius fragmentus; citata leidžia aiškų sakinį apie Vytautą.'
   pagrindžia:
     - c-111
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 219944-220350; hash=15f6cf04735c68ee489980b2a04e98ee8c8d46d6840bb11ae2d9bd9785e756d0; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Lenkai: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Sąjunginės kariuomenės kontekste minimi lenkai, todėl galima atsargiai fiksuoti sąjunginį ryšį su lenkais.
 
 <a id="claim-t-176679"></a>
 - t-074
   global_id: t-176679
   teiginys: '1384 m. Vytautas sudarė sutartį su Ordinu, kuris prisiekė atgauti jam atimtą tėvoniją.'
-  sudarymo_pagrindimas: 'Citata palaiko datą ir sutarties turinį.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  temporaliniai_duomenys: 'įvykio data: 1384 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko datą ir sutarties turinį.'
   pagrindžia:
     - c-127
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c6bd4b689ccb20416ea2ce5086b85b91fa2dfe73a620da015dad6f5186ee120e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krikščionys: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Krikščionys: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Krikščionys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176680"></a>
 - t-075
   global_id: t-176680
   teiginys: 'Vytautas įkūnijo tautinį ir politinį idealą, siejamą su Lietuvos vadavimu iš priklausomybės nuo lenkų.'
-  sudarymo_pagrindimas: 'Pradinis sakinys per ilgas ir turi perteklinį kontekstą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Kaunas; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] gynė Lietuva'
   pagrindžia:
     - c-063
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bad9d95f8001551dca5939a85031ebdcd5560a57ab45a115dc86d1d6d83f1506; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_miesta -> Gardinas: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai vadina Vytautą Gardino kunigaikščiu, todėl pagrindžia Gardino valdymą.
 
 <a id="claim-t-176682"></a>
 - t-076
   global_id: t-176682
   teiginys: 'Vytauto laikais Lietuvos Didžioji Kunigaikštystė buvo itin galinga, o jo galią jautė visas regionas.'
-  sudarymo_pagrindimas: 'Citata palaiko apibendrintą faktą apie Vytauto galios mastą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Europa; mentioned_place: Luckas'
-  temporaliniai_duomenys: 'įvykio data: 1429 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko apibendrintą faktą apie Vytauto galios mastą.'
   pagrindžia:
     - c-116
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=939fe77091e498ead5b5d74d403019e1aa134f3ea0cfb7cf9240ae37621dbc99; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas su Jogaila išžygiavo prieš Ordiną.
 
 <a id="claim-t-176683"></a>
 - t-077
   global_id: t-176683
   teiginys: '1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos tapatumą.'
-  sudarymo_pagrindimas: 'Citata palaiko laiško faktą, pašalinti puslapio ir OCR likučiai.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Vidivarii|Vidivarii]]; mentioned_object: [[objektai/daiktai/Medžioklių trobelės|Medžioklių trobelės]]; mentioned_place: Vysla'
-  temporaliniai_duomenys: 'įvykio data: 1420 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko laiško faktą, pašalinti puslapio ir OCR likučiai.'
   pagrindžia:
     - c-069
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9249d97975066683c84d3c05de8a8e06d36f57f90886ce6f0e5e4da72db2c8e7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Pskovas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Pskovas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas užpuolė Pskovą.
 
 <a id="claim-t-176685"></a>
 - t-078
   global_id: t-176685
   teiginys: '1430 m. Vytautas vėl gavo Jogailos sutikimą karūnacijai, bet nesulaukė lenkų didikų pritarimo ir mirė 1430 m. spalio 27 d.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Vytautą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1430 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Vytautą.'
   pagrindžia:
     - c-077
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1bb05927b7cb95d29604737250a448f36421964c77eaddeec7158cd6389a214e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Konstancija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Konstancija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Konstancija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176687"></a>
 - t-079
   global_id: t-176687
   teiginys: 'Vytautas Didysis Trakuose ir Algirdo šeimoje Vilniuje susidurdavo su krikščionybės idėjomis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Europa; llm_object: Trakai; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] gyveno Trakai; [[objektai/asmenys/Vytautas|Vytautas]] gyveno Vilnius'
   pagrindžia:
     - c-083
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b70739fab6fc7fab41bd2e2dd7f1f68a082c3436ac6221d28488a7cff0c6daac; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas sugrįžo į Lietuvą.
 
 <a id="claim-t-176688"></a>
 - t-080
   global_id: t-176688
   teiginys: 'Jogaila negrąžino Vytautui nei Lietuvos valdymo, nei po Kęstučio mirties priklausiusio paveldo.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą Jogailos veiksmą Vytauto atžvilgiu.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Gardinas'
   pagrindžia:
     - c-087
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 392798-392956; hash=08e34b8bcbdf37dd33e01c5cd8fd64464acbbaf3cf3598caf943f2df0a0d38da; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176690"></a>
 - t-081
   global_id: t-176690
   teiginys: 'Vytautas, nesulaukęs Jogailos įsakymo pradėti mūšį, surizikavo ir pirmasis pasiuntė į kovą Lietuvos kariuomenę.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-056
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=801b3019b1aa5a7203a1f5f5dc5f8875422528485fd2ef494bde7fecf0b6c0f0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176692"></a>
 - t-083
   global_id: t-176692
   teiginys: 'Vytautas laikomas Kęstučio ir Birutės sūnumi, gimusiu apie 1350 m.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Rudava'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo sūnus [[objektai/asmenys/Kęstutis|Kęstutis]]; [[objektai/asmenys/Vytautas|Vytautas]] buvo sūnus [[objektai/asmenys/Birutė|Birutė]]'
-  temporaliniai_duomenys: 'įvykio data: 1350 m.; įvykio data: apie 1350 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-009
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 444255-444787; hash=b98f7f5783e80876ccaac230723e4275f18d0946b392ef1f444c86b44ba96947; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai aprašo kovą su Ordinu, vadovaujant Vytautui.
 
 <a id="claim-t-176693"></a>
 - t-084
   global_id: t-176693
   teiginys: 'Vytautas, pralaimėjęs mūšį ir netoli Vilniaus praradęs tūkstantį žmonių, turėjo slėptis Trakų pilyje.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos faktą apie Vytautą.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-129
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 469743-470369; hash=2e76fbc8c02043bad7f6174c6effbfc920b5a59b512dece2def0716cbc692e77; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176694"></a>
 - t-085
   global_id: t-176694
   teiginys: 'Vytautas Didysis antrą kartą sulaužė sutartį su Ordinu ir su savo šalininkais sugrįžo į Lietuvą.'
-  sudarymo_pagrindimas: 'Teiginys yra užbaigtas sakinys ir remiasi citatos faktu.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Lietuva; [[objektai/asmenys/Vytautas|Vytautas]] sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-096
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 476870-477297; hash=bcec3e9fa513243941761148b02a5a2af761725a8fb19bdd4bdc6612b5df8ce8; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Zigmantas (Romos imperatorius): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Zigmantas (Romos imperatorius): mention_match, person, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Zigmantas (Romos imperatorius)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176695"></a>
 - t-086
   global_id: t-176695
   teiginys: 'Vytautas siekė gauti karūną ir Vakarų pripažinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-038
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 523092-523335; hash=c12e5bd3f18389a97c3bc730a406fdc22a0547ec3973469e8f4033482d8e9e03; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Luckas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Luckas: mention_match, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Luckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176696"></a>
 - t-087
   global_id: t-176696
   teiginys: '1404 m. rugpjūčio viduryje Vytautas po Smolensko operacijos susitiko su didžiuoju magistru Ritterswerderio saloje.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Ritterswerderis; mentioned_place: Smolenskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  temporaliniai_duomenys: 'įvykio data: 1404 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 538249-538684; hash=9b117ac0d6de8c8ee6abe7165be86b3b52b6d8cd28e8cdccc993b1350a2c6a74; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176698"></a>
 - t-088
   global_id: t-176698
   teiginys: 'Vytauto karas su Skirgaila pablogino Vilniaus padėtį.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, sakinys išvalytas.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] kariavo prieš [[objektai/asmenys/Skirgaila|Skirgaila]]'
   pagrindžia:
     - c-131
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 545502-545790; hash=98b7e9d04f61620815787b5893dc222ec7b68588b989e6bd7b6cb67ee1a89330; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenčica: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenčica: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lenčica" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176699"></a>
 - t-089
   global_id: t-176699
   teiginys: '1410 m. liepos 15 d. Žalgirio mūšyje Vytautas Didysis vadovavo kovai su Vokiečių Ordinu ir jo sąjungininkais.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Europa; mentioned_place: Vargiai; llm_object: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/asmenys/Vytautas|Vytautas]] buvo sąjungininkas su [[objektai/grupes/Lenkai|Lenkai]]; [[objektai/asmenys/Vytautas|Vytautas]] buvo sąjungininkas su [[objektai/grupes/Lietuviai|Lietuviai]]'
-  temporaliniai_duomenys: 'įvykio data: 1410 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-108
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 552987-553390; hash=5ff20f73710f0a688d898d3c615bf179047531c517f3c0da383e10679824461e; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Volkoviskas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Volkoviskas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytautas palydėjo pasiuntinius iki Volkovisko.
 
 <a id="claim-t-176700"></a>
 - t-090
   global_id: t-176700
   teiginys: 'Vytautas Didysis buvo Kęstučio sūnus ir valdė 1392–1430 m.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Vytautą Didįjį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai|Įsivaizduojami Lietuvos valdovų portretai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1392-1430; įvykio data: 1430 m.; įvykio data: 1838 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Vytautą Didįjį.'
   pagrindžia:
     - c-074
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 561417-561887; hash=5eec6306cb5f5970610ec22c1eded8b17560ac2e788aea2bc52f8954a402045b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karūna: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=64
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176701"></a>
 - t-091
   global_id: t-176701
   teiginys: 'Vytauto politika šaltinyje siejama su bažnytine politika, Lietuvos konversija ir Žemaičių krikštu.'
-  sudarymo_pagrindimas: 'Tai šaltinio interpretacija, todėl reikia atribucijos.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lenkija'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė Lietuva'
   pagrindžia:
     - c-059
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c6203bb33092d0dd4a662e73a643b259cf927c59dada081af323b791aec2297f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Lietuva: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata kalba apie ištikimus žmones iš Lietuvos, siejamus su lietuviais; tai pagrindžia atsargų gyvenamosios / kilmės vietos ryšį.
 
 <a id="claim-t-176702"></a>
 - t-092
   global_id: t-176702
   teiginys: 'Vytautas Didysis iš Jogailos gavo Lietuvą kaip lėną didžiojo kunigaikščio teisėmis.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-102
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 30044-30165; hash=ba6616bb171caed7f6c7ed48bd4d820a0a19f4bd88382e3c7815f14c132252f8; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Lietuva: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai vadina Vytautą Lietuvos valdovu ir pateikia jo valdymo metus.
 
 <a id="claim-t-176703"></a>
 - t-093
   global_id: t-176703
   teiginys: 'Pasiligojusi Vytauto žmona Julijona buvo apsistojusi prie Vilniaus buvusiame kunigaikščių kaime Memitz.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_place: Kaimas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Rūdninkai'
   pagrindžia:
     - c-114
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 42579-42877; hash=174f1950a388d3faf18c73ba4fee4bf426173bcdf282a152f0baa375f8ae0f36; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karūna: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176704"></a>
 - t-094
   global_id: t-176704
   teiginys: 'Vytautas Didysis laiške Jogailai piktinosi jo teiginiu, kad Lietuvos bajorai negali laisvai rinkti valdovo be lenkų sutikimo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Lenkija'
   pagrindžia:
     - c-118
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d58e2e66fa6bf7146b7582573af7997f1c62b0385361fc88723eb874b96b35ef; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Lietuva: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kontekstas yra Lietuvos valdovai, o šalia Vytauto nurodyti valdymo metai.
 
 <a id="claim-t-176705"></a>
 - t-095
   global_id: t-176705
   teiginys: 'Vytautui priskiriama pirmoji vienos Žemaitijos bažnyčios fundacija po krikščionybės įvedimo.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, bet vieta neįvardyta, todėl formuluotė palikta atsargi.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_place: Viena; mentioned_object: [[objektai/zodynas/Sanctuarium|Sanctuarium]]; mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Vladislovas IV|Vladislovas IV]]'
   pagrindžia:
     - c-073
 
@@ -1662,12 +697,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-096
   global_id: t-176706
   teiginys: '1426 m. Vytautas dėl žmonos Julijonos ligos kreipėsi į didįjį magistrą prašydamas gydytojo.'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus ir paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Julijona (Algirdo žmona)|Julijona (Algirdo žmona)]]; mentioned_object: [[objektai/zodynas/indiktas|indiktas]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Julijona|Julijona]] buvo žmona [[objektai/asmenys/Vytautas|Vytautas]]'
-  temporaliniai_duomenys: 'įvykio data: 1426 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus ir paremtas citata.'
   pagrindžia:
     - c-039
 
@@ -1675,11 +704,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-097
   global_id: t-176707
   teiginys: 'Vytauto politika šaltinyje interpretuojama kaip orientuota į „švento valdovo“ įvaizdį.'
-  sudarymo_pagrindimas: 'Tai interpretacija, todėl reikalinga aiški atribucija.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vengrija'
-  temporaliniai_duomenys: 'įvykio data: 1422 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Tai interpretacija, todėl reikalinga aiški atribucija.'
   pagrindžia:
     - c-044
 
@@ -1687,69 +711,27 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-098
   global_id: t-176708
   teiginys: 'Vytautas susitaikė su pusbroliu Skirgaila ir sudarė su juo sąjungą prieš kiekvieną priešą, išskyrus Lenkijos karalių.'
-  sudarymo_pagrindimas: 'Citata perteikia Vytauto užrašų turinį apie susitaikymą ir sąjungą su Skirgaila.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lenkija; mentioned_object: [[objektai/posakiai/Nuo Baltijos iki pat Juodosios jūros|Nuo Baltijos iki pat Juodosios jūros]]; mentioned_place: Baltija; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo sąjungininkas su [[objektai/asmenys/Skirgaila|Skirgaila]]; [[objektai/asmenys/Vytautas|Vytautas]] sudarė sutartį su [[objektai/asmenys/Skirgaila|Skirgaila]]'
   pagrindžia:
     - c-071
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=13959913473e77a8fa03f80329f20cf4d51917d8e3d36629ca4568aa17c53149; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176709"></a>
 - t-099
   global_id: t-176709
   teiginys: 'Vėlesniais Vytauto valdymo laikais Vilnius atsigavo po Skirgailos valdymo ir praturtėjo.'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra pernelyg ilgas ir paremtas dvigubu neigimu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Vilnius; llm_object: Livonija; llm_object: Naugardas; llm_object: Prūsija; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Prūsija'
   pagrindžia:
     - c-122
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 82765-83213; hash=b1e4af18c13393e7c7aa35f13e9b9151aa817dd5c647c6e77dc235b3dbfda1af; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176710"></a>
 - t-100
   global_id: t-176710
   teiginys: 'Vytautas priėmė Maskvos metropolitą Fotijų, tačiau šis nieko nelaimėjęs išvyko į Maskvą.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie priėmimą ir rezultatą.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-076
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 84275-84496; hash=f92b353dd06b1c6c1600f65903e31609521d62ffb8c831f58a42bc6eebcef5c1; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176711"></a>
 - t-101
   global_id: t-176711
   teiginys: '1424 m. Vytautas suteikė Vilniui privilegijų, kuriomis nuo įvairių duoklių buvo atleisti Romos katalikų tikėjimą išpažinę miestiečiai.'
-  sudarymo_pagrindimas: 'Citata patikslina, kad privilegijomis naudojosi tik Romos katalikai.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1424 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata patikslina, kad privilegijomis naudojosi tik Romos katalikai.'
   pagrindžia:
     - c-115
 
@@ -1757,33 +739,13 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-102
   global_id: t-176712
   teiginys: 'Pirmoji Balinskio Vilniaus istorijos dalis baigiama 1430 m., kai mirė Vytautas Didysis.'
-  sudarymo_pagrindimas: 'Citata palaiko bibliografinį faktą apie Vytauto mirtį kaip ribą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1430 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko bibliografinį faktą apie Vytauto mirtį kaip ribą.'
   pagrindžia:
     - c-095
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=50407cef301c05e2ae0bd0435943636dcd14e89066d65afd7ad38e7638ac8c2a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Katalikų Bažnyčia: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Katalikų Bažnyčia: mention_match, group, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Katalikų Bažnyčia" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176714"></a>
 - t-103
   global_id: t-176714
   teiginys: '1430 m. Vytautas ketino karūnuotis Lietuvos karaliumi, dalyvaujant sušauktiems kunigaikščiams ir pasiuntiniams.'
-  sudarymo_pagrindimas: 'Citata nurodo Vytauto ketinimą karūnuotis ir pakviestus dalyvius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Pulavai; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1430 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata nurodo Vytauto ketinimą karūnuotis ir pakviestus dalyvius.'
   pagrindžia:
     - c-065
 
@@ -1791,8 +753,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-104
   global_id: t-176715
   teiginys: 'Vytautas Lietuvos Didžiojoje Kunigaikštystėje apgyvendino musulmonų totorių ir karaimų bendruomenes.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai sieja Vytautą su totorių ir karaimų apgyvendinimu LDK.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lenkija; mentioned_place: Liublinas; mentioned_place: Vilnius'
   pagrindžia:
     - c-055
 
@@ -1800,244 +760,90 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-106
   global_id: t-176717
   teiginys: 'Sausio 19 d. prie Gardino Ordino komtūras sudarė sutartį su Vytautu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Gardinas; mentioned_place: Kernavė; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] sudarė sutartį su [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-075
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=15dcd2fa1888d60cd5446dc7db3346f6da01cd005c67acbf780bed6568717623; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176718"></a>
 - t-107
   global_id: t-176718
   teiginys: 'Vytautas siekė Lietuvos karaliaus karūnos, tačiau tam priešinosi Vladislovas Jogaila ir Lenkijos senatas.'
-  sudarymo_pagrindimas: 'Citata palaiko Vytauto siekį ir opoziciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos senatas|Lenkijos senatas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-089
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=452058276a32793e7100b9fdac9c0e6646f8427633537cad418beb3ffc10375c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vokiečių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Vokiečių ordiną kaip Vytauto vainikavimo plano rėmėją.
 
 <a id="claim-t-176719"></a>
 - t-108
   global_id: t-176719
   teiginys: 'Vytauto palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.'
-  sudarymo_pagrindimas: 'Teiginys yra trumpas, aiškus ir paremtas citata.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo palaidotas Vilnius'
   pagrindžia:
     - c-106
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4566e112ac5cdc027e9e072217e5da9b91ab88fd99cde2b77121e4d5377de2ce; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176720"></a>
 - t-109
   global_id: t-176720
   teiginys: 'Vytautas kautynių metu tvarkė pulkus, davinėjo įsakymus ir pralaužtas vietas atstatinėjo arba keitė naujais daliniais.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai apibūdina Vytauto veiksmus kautynių metu ir yra paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f479109d4aa35e28aaa3f8ae3ca3361d763f4c0a79fa808cc978923fc1342bf5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Lietuva: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Karaimai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad karaimų bendruomenės buvo apgyvendintos Lietuvos Didžiojoje Kunigaikštystėje.
 
 <a id="claim-t-176721"></a>
 - t-110
   global_id: t-176721
   teiginys: 'Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Vytauto atminimą.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-063
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 325130-325467; hash=4fb8845c7612f6bd678b08ca8d74b2b06c3e6dc2d8c80485670a2df87e77f3b2; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176724"></a>
 - t-111
   global_id: t-176724
   teiginys: 'Vytautas, apsimetęs ordino draugu, mainėsi laiškais, davė patarimus, keitėsi brangiomis dovanomis ir tarėsi nematąs įvykių Žemaičiuose.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka citatos informaciją apie Vytauto elgesį ordino atžvilgiu.'
-  susije_objektai: 'mentioned_place: Salos; mentioned_place: Trakai'
   pagrindžia:
     - c-017
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6671866a3106537eda5b6836d83f203dd05a99edb12335454ed6bb1879bfc7c4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176726"></a>
 - t-112
   global_id: t-176726
   teiginys: '1398 m. pabaigos kompromisu Vytautui Didžiajam buvo pripažinta nuo Lenkijos priklausanti didžiojo kunigaikščio valdžia.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1398 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-070
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 325684-326242; hash=aab4322351b229351b2b3d1accbf96b0d0e48a85deae68eda430f4161e3c4feb; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karūna: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=98
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176728"></a>
 - t-113
   global_id: t-176728
   teiginys: 'Vytautas buvo karo tarybos pirmininkas ir tikrasis Tanenbergo mūšio vadas.'
-  susije_objektai: 'mentioned_place: Tanenbergas'
   pagrindžia:
     - c-008
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 326541-327165; hash=8b666d5e30a97322b3e146058ce919a5396396073073b37147e64ce7db02ebe0; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lietuva: 0.84
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad totoriai buvo pakviesti į Lietuvą, todėl palaikomas judėjimas į šią vietą.
 
 <a id="claim-t-176729"></a>
 - t-114
   global_id: t-176729
   teiginys: 'Palikdamas Vilnių, Kęstutis Trakų pilies gynybą ir valdžią pavedė savo sūnui Vytautui.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata.'
-  susije_objektai: 'llm_object: Trakai; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] gynė Trakai; [[objektai/asmenys/Vytautas|Vytautas]] valdė miestą Trakai'
   pagrindžia:
     - c-036
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b5cb371c19378978e7dac9be4d9c19d92ebd422e2c2686e9f2ae0c4adc7e02f2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=58
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176730"></a>
 - t-115
   global_id: t-176730
   teiginys: '1422 m. Vytautas pasiuntė į Prahą savo sūnėną Žygimantą Kaributaitį kaip pageidaujamą valdovą.'
-  susije_objektai: 'llm_object: Praha; mentioned_place: Praha; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Valakija; mentioned_place: Vilnius; mentioned_place: Volga'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] siuntė į Praha'
-  temporaliniai_duomenys: 'įvykio data: 1420 m.; įvykio data: 1422 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-058
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6b0135246e2fe0343ae3918cd072c9f00d42a1e48ecada67cd5ef939736c6736; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Smetona: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: A. Smetona: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176731"></a>
 - t-116
   global_id: t-176731
   teiginys: 'Vytautas Lucko suvažiavime priėmė imperatoriaus siūlomą vainiką ir pareiškė tai darantis niekieno neatsiklausdamas.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_event: [[objektai/ivykiai/Lucko suvažiavimas|Lucko suvažiavimas]]; mentioned_person: [[objektai/asmenys/Zigmantas I|Zigmantas I]]; mentioned_place: Luckas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Europa; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas I|Zigmantas I]] rėmė [[objektai/asmenys/Vytautas|Vytautas]]; [[objektai/grupes/Vokiečiai|Vokiečiai]] rėmė [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-078
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=baedf8bba4ac84ed95d1afd7d9f0ac1e4b584bc6010b878dddbe4965ebf3615b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vytautas aiškiai vadinamas Lietuvos valdovu.
 
 <a id="claim-t-176732"></a>
 - t-117
   global_id: t-176732
   teiginys: 'Po suvažiavimo Vytautas įsitikino, kad su Lenkija geruoju nesusitars, ir laukė karūnos kaip valstybės laisvės ženklo.'
-  sudarymo_pagrindimas: 'Reikia sklandesnės žodžių tvarkos ir aiškesnės formuluotės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Horodlė; mentioned_place: Viena'
   pagrindžia:
     - c-126
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7effdb0030b85a010bec1c68b68d404d66ab6dfaf7ba8478c35831a6e70e09a7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žemaitija: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Žemaitija atiteko Vytautui ir Jogailai.
 
 <a id="claim-t-176733"></a>
 - t-118
   global_id: t-176733
   teiginys: 'Su Jogailos žinia, Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Vytauto, Skirgailos, Jogailos ir Vitebsko ryšį.'
-  susije_objektai: 'llm_object: Vitebskas; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Vitebskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] užėmė Vitebskas'
-  temporaliniai_duomenys: 'įvykio data: 1392 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Vytauto, Skirgailos, Jogailos ir Vitebsko ryšį.'
   pagrindžia:
     - c-026
 
@@ -2045,54 +851,20 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-119
   global_id: t-176734
   teiginys: 'Atgimstančios lietuvių tautos sąmonėje Vytautas buvo pasirinktas valstybės ir tautos didvyriu.'
-  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalinta perteklinė vardijimo forma.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/jubiliejus|jubiliejus]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1930 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir pašalinta perteklinė vardijimo forma.'
   pagrindžia:
     - c-103
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 642221-642580; hash=762385e1f5ae313a4295069b43c3e140318ebd03407233cc36f798a542ffeadf; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lotynai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lotynai: mention_match, group, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lotynai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176735"></a>
 - t-120
   global_id: t-176735
   teiginys: 'Vilniaus vyskupui Petrui atsisakius sutuokti dėl artimos giminystės, tarp jo ir Vytauto kilo karšti ginčai.'
-  sudarymo_pagrindimas: 'Citata palaiko ginčo faktą.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Janas Kropidła|Janas Kropidła]]; mentioned_person: [[objektai/asmenys/Kerimberdėjus|Kerimberdėjus]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] kariavo prieš [[objektai/grupes/Totoriai|Totoriai]]'
-  temporaliniai_duomenys: 'įvykio data: 1419 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko ginčo faktą.'
   pagrindžia:
     - c-080
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 643475-643895; hash=eac6d1bec799cf6a863a69105e50c879aefa79511e9afa58dbbbd89184e14ba7; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai įvardija Kęstutį kaip Vytauto tėvą.
 
 <a id="claim-t-176736"></a>
 - t-121
   global_id: t-176736
   teiginys: '1383 m. Tapiau Vytautas buvo pakrikštytas ir gavo Vigando vardą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Trakai'
-  temporaliniai_duomenys: 'įvykio data: 1383 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-011
 
@@ -2100,8 +872,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-122
   global_id: t-176737
   teiginys: 'Vytauto seserį Oną vedė vyresnysis Mazovijos kunigaikštis Jonušas.'
-  sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie Vytauto giminystę.'
-  susije_objektai: 'mentioned_place: Mazovija; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-057
 
@@ -2109,9 +879,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-123
   global_id: t-176738
   teiginys: 'Lucko suvažiavimas Lietuvos istorijoje siejamas su Vytauto vainikavimo planu, kurį rėmė Zigmantas I ir Vokiečių ordinas.'
-  sudarymo_pagrindimas: 'Pradinė formuluotė per ilga, bet citata remia glaustesnį teiginį.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_event: [[objektai/ivykiai/Lucko suvažiavimas|Lucko suvažiavimas]]; mentioned_person: [[objektai/asmenys/Zigmantas I|Zigmantas I]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Luckas'
-  semantiniai_rysiai: '[[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]] rėmė [[objektai/asmenys/Vytautas|Vytautas]]; [[objektai/asmenys/Zigmantas I|Zigmantas I]] rėmė [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-078
 
@@ -2119,8 +886,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-124
   global_id: t-176739
   teiginys: 'Vytautas LDK apgyvendino musulmonų totorių ir karaimų bendruomenes.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Vilnius'
   pagrindžia:
     - c-055
 
@@ -2128,8 +893,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-125
   global_id: t-176741
   teiginys: 'Vytauto valdymo užkariavimai pastūmė Lietuvos sienas nuo Baltijos iki Juodosios jūros.'
-  sudarymo_pagrindimas: 'Teiginys apibendrina citatoje pateiktą Vytauto valdymo vertinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Nuo Baltijos iki pat Juodosios jūros|Nuo Baltijos iki pat Juodosios jūros]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-071
 
@@ -2137,57 +900,20 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-126
   global_id: t-176742
   teiginys: 'Vytautas nustojo mokėti duoklę mongolams, panaikino dalinių kunigaikštijų sistemą, paskyrė vietininkus ir sutelkė realią valdžią LDK savo rankose.'
-  sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir suformuluotas enciklopedinis sakinys.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_place: Luckas; mentioned_place: Podolė; llm_object: Podolė'
-  semantiniai_rysiai: 'Luckas priklausė [[objektai/asmenys/Vytautas|Vytautas]]; [[objektai/asmenys/Vytautas|Vytautas]] valdė teritoriją Podolė'
-  temporaliniai_duomenys: 'įvykio data: 1393 m.; įvykio data: 1394 m.; įvykio data: 1395 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalinta kontekstinė pradžia ir suformuluotas enciklopedinis sakinys.'
   pagrindžia:
     - c-093
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=994fcf6a27c2fdec1ed7d82e75a9b96e8e9b121c29e76cd241f4fd6399e6dd6b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jonas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginio konstrukcija rodo, kad Jonas minimas kaip vienas Vytauto sūnų.
 
 <a id="claim-t-176743"></a>
 - t-127
   global_id: t-176743
   teiginys: 'Pasižadėdamas ordinui padėti užimti Žemaičius, Vytautas sutiko ten jam pastatyti dvi naujas pilis.'
-  sudarymo_pagrindimas: 'Teiginys yra tikslus ir paremtas citata apie Vytauto įsipareigojimą ordinui.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Prūsų žemė; mentioned_place: Salynas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] rėmė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  temporaliniai_duomenys: 'pastatymo data: 1392 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus ir paremtas citata apie Vytauto įsipareigojimą ordinui.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1e9aeb0972b828f1a107bc45003b31b90b1bd827578e819e38b8f3246c9a43fa; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.97
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas buvo Kęstučio sūnus.
 
 <a id="claim-t-176744"></a>
 - t-128
   global_id: t-176744
   teiginys: 'Nuo 1930 m. rugsėjo 8 d. Tautos šventė minėjo neįvykusį Vytauto karūnavimą ir Švenčiausiosios Mergelės Marijos gimimą.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie Vytauto karūnavimo atminimą Tautos šventėje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: po 1930 m.; įvykio data: 1930 m.; įvykio data: 1934 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Vytauto karūnavimo atminimą Tautos šventėje.'
   pagrindžia:
     - c-043
 
@@ -2195,8 +921,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-129
   global_id: t-176745
   teiginys: 'Vytautas Didysis lenkų pasiuntinius apdovanojo ir išvykstant pats palydėjo iki Volkovisko.'
-  susije_objektai: 'llm_object: Volkoviskas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Volkoviskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Volkoviskas'
   pagrindžia:
     - c-064
 
@@ -2204,109 +928,41 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-130
   global_id: t-176746
   teiginys: 'Vytautas įsakė žemaičiams puldinėti Ordino pilis ir taip slėpė jungtinės Lenkijos ir Lietuvos kariuomenės puolimo kryptį.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-051
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=190ee0073152dcee4f47326319647735762bc86fd31a3a47769003e190447f6b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Skirgaila: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Skirgaila: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai apibūdina Vytauto karą su Skirgaila.
 
 <a id="claim-t-176747"></a>
 - t-131
   global_id: t-176747
   teiginys: 'Jogailai išvykus į Lenkiją, akylai stebimas Vytautas negalėjo savarankiškai imtis veiksmų.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia Vytauto padėtį pagal citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
   pagrindžia:
     - c-087
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=08dcade37c70a316d59fb7339b63378e2e141cd06d167fe2c166bdf86a398d9b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176748"></a>
 - t-132
   global_id: t-176748
   teiginys: '1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Vytauto veiksmus.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_place: Florencija; mentioned_place: Naugardukas; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įkūrimo data: 1415 m.; įkūrimo data: 1439 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Vytauto veiksmus.'
   pagrindžia:
     - c-119
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9b6688806b0d96ffdf1ac801c57e03445e0640ec2c784bba0de52864942e38d4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176749"></a>
 - t-133
   global_id: t-176749
   teiginys: 'Vytautas įsakė žemaičiams puldinėti Ordino pilis, kad pridengtų jungtinės Lenkijos ir Lietuvos kariuomenės puolimo kryptį.'
-  sudarymo_pagrindimas: 'Perrašyta pašalinant dviprasmį įvardį ir patikslinant objektą.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-051
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=74a497808b842195882ebf930604a2e0008012686a5dba25171cd54dd80f50f0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Polockas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skirgaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Skirgailos išvykimą į Polocką.
 
 <a id="claim-t-176750"></a>
 - t-134
   global_id: t-176750
   teiginys: 'Vytautas nutraukė ryšius su Maskvos metropolitu Fotijumi ir liepė Naugarduke išrinkti Lietuvai atskirą metropolitą.'
-  sudarymo_pagrindimas: 'Citata palaiko abu Vytauto veiksmus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fotijus|Fotijus]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardukas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-092
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6aeb3893558ba7a2ee1240e323d03e0dd762d0c443814bda9c6373330e5146e4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: sudare_sutarti_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.82
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Sutartį sudarė Ordino komtūras, todėl ryšys su Ordinu laikomas atstovaujamu, bet ne tiesiogiai įvardytu kaip visas ordinas.
 
 <a id="claim-t-176751"></a>
 - t-135
   global_id: t-176751
   teiginys: 'Zenonas Ivinskis Vytautui priskyrė taupumą ir didelį švaistymąsi materialinėmis gėrybėmis, ypač siekiant pasirodyti užsieniečiams.'
-  sudarymo_pagrindimas: 'Tai autoriaus charakterio vertinimas, todėl reikalinga atribucija.'
-  susije_objektai: 'llm_object: Naugardas; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Naugardas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] surengė žygį į Naugardas'
-  temporaliniai_duomenys: 'įvykio data: 1428 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Tai autoriaus charakterio vertinimas, todėl reikalinga atribucija.'
   pagrindžia:
     - c-031
 
@@ -2314,164 +970,62 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-136
   global_id: t-176752
   teiginys: 'Vytauto laiškas dėl gydytojo buvo datuotas Obolcuose 1426 m. sausio 13 dieną.'
-  sudarymo_pagrindimas: 'Teiginys nurodo laiško vietą ir datą pagal citatą.'
-  susije_objektai: 'mentioned_place: Vitebskas'
-  temporaliniai_duomenys: 'įvykio data: 1426 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys nurodo laiško vietą ir datą pagal citatą.'
   pagrindžia:
     - c-120
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=22af16b7ad8e19aef13470074223f3f3ccaff5693c18491ace164f764e70748e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Vilnius: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai sieja Vytautą su Vilniaus puolimu.
 
 <a id="claim-t-176753"></a>
 - t-137
   global_id: t-176753
   teiginys: 'Jogaila ir Vytautas buvo paskatinti Lucke sušaukti monarchų ir kunigaikščių suvažiavimą.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, bet įvardis apie iniciatorių nepakankamai aiškus.'
-  susije_objektai: 'mentioned_place: Luckas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-046
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=37de4925435d08097d375d5a8016f0256ae600be6a7d9177658ff626a61d9d3d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176754"></a>
 - t-138
   global_id: t-176754
   teiginys: 'Vytautas sukvietė Lietuvos ir Rusios didikus į tarybą ir klausė, ar jie nori būti pavaldūs Lenkijai.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-062
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5cada1fdf8473aa590a76101ce10f8187782c8e94b1b6465365224ff328d48fa; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Lietuva: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sieja Vytauto įvesdinimą su tapimu Lietuvos didžiuoju kunigaikščiu.
 
 <a id="claim-t-176755"></a>
 - t-139
   global_id: t-176755
   teiginys: 'Žalgirio mūšio rytą Vytautas siekė lemiamo mūšio, o Jogaila delsė, laukdamas Ordino pasiūlymo derėtis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]'
   pagrindžia:
     - c-097
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=216b838271cef42a28debd3a8e8443e2355e55cb05def6690e189dd2367c82a6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176756"></a>
 - t-140
   global_id: t-176756
   teiginys: '1413 m. Salyno derybose Vytautas pareiškė, kad Prūsai iki Osos yra jo tėvų palikimas.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Vytauto pareiškimą, bet pradinis teiginys nutrūkęs ir su kabučių klaidomis.'
-  susije_objektai: 'mentioned_place: Prūsų žemė; mentioned_place: Salynas; mentioned_place: Vysla'
-  temporaliniai_duomenys: 'įvykio data: 1413 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia Vytauto pareiškimą, bet pradinis teiginys nutrūkęs ir su kabučių klaidomis.'
   pagrindžia:
     - c-086
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c02a1afd2f8317919bf16d7886cd706e547c269699ba232db95e4b855a044f15; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Lenkai: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citatoje Vytautas veikia kartu su lenkais karinėje situacijoje, todėl palaikomas sąjungininkystės ryšys.
 
 <a id="claim-t-176758"></a>
 - t-141
   global_id: t-176758
   teiginys: 'Mazovijos kunigaikštis Henrikas su slaptu Jogailos pavedimu buvo atvykęs pas Vytautą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Mazovija; mentioned_place: Plockas'
   pagrindžia:
     - c-084
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5a62492ffaa39ea19f01f484f90fd2528add9d5e26fe4165d2467242a135e945; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=91
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176759"></a>
 - t-142
   global_id: t-176759
   teiginys: 'Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose svarstė svarbiausius Lietuvos reikalus, nors Vilnius liko Didžiosios Kunigaikštystės sostinė.'
-  sudarymo_pagrindimas: 'Citata kalba ne tik apie Vytautą, bet ir apie Žygimantą bei Kazimierą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  temporaliniai_duomenys: 'įvykio data: po 1400 m.; įvykio data: 1400 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata kalba ne tik apie Vytautą, bet ir apie Žygimantą bei Kazimierą.'
   pagrindžia:
     - c-112
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c95bd9fbfb234d4ed7ebe01a11458f2830a2e71dc2cefcf298e019c3af3f67c9; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Lietuva: 0.82
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad Jogaila aukščiausiąją valdžią Lietuvoje patikėjo Vytautui.
 
 <a id="claim-t-176761"></a>
 - t-144
   global_id: t-176761
   teiginys: 'Vytautas dėl teisingo elgesio pelnė didelę pagarbą tarp savųjų ir svetimųjų.'
-  sudarymo_pagrindimas: 'Pirminiame teiginyje yra nenorminė forma ir galima suformuluoti sklandžiau.'
   pagrindžia:
     - c-032
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0811eda00dc2b7162f93f2c8490d09baaf301d6a8c1a6fa1a1f82e7c4cee5bf4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alšėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Alšėnai: mention_match, place, gap=49
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Alšėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176762"></a>
 - t-145
   global_id: t-176762
   teiginys: 'Lietuviai krikštijosi Vytauto Didžiojo ir Jogailos paraginti bei vykdydami jų įsakymus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-045
 
@@ -2479,27 +1033,13 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-146
   global_id: t-176763
   teiginys: 'Mokslininkai kelia mintį, kad Vytauto valstybės pakraščiuose galėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
-  sudarymo_pagrindimas: 'Pradinė formuluotė per ilga ir nepakankamai aiškiai susieta su Vytautu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; llm_object: Lietuva'
   pagrindžia:
     - c-050
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=186a717fef636cb8e4d63afeacc3048ecbc8caf7971ee0e4cae68bce0b7bfcbf; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Praha: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Praha: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas pasiuntė asmenį į Prahą.
 
 <a id="claim-t-176764"></a>
 - t-147
   global_id: t-176764
   teiginys: 'Jogailai išvykus į Lenkiją, Vytautas buvo akylai stebimas ir negalėjo savarankiškai veikti.'
-  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti karalių.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
   pagrindžia:
     - c-035
 
@@ -2507,106 +1047,41 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-148
   global_id: t-176765
   teiginys: 'Vytautas Gardine susimokė su jam palankiais Lietuvos kunigaikščiais ir didikais išvyti Skirgailą iš sostinės ir paimti valdžią.'
-  sudarymo_pagrindimas: 'Teiginys nurodo Vytauto veiksmą ir tikslą pagal citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
   pagrindžia:
     - c-035
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=823f2f008c041dbb94880d157d5b6e371f824f89f9da9a0c8a0ed06866faa260; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176766"></a>
 - t-149
   global_id: t-176766
   teiginys: 'Vytautas Didysis nuo pirmos krikšto dienos aktyviai dalyvavo krikštijime, aiškino tikėjimą ir ragino žmones krikštytis.'
-  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Lietuva; llm_object: Gardinas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė miestą Gardinas'
   pagrindžia:
     - c-124
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d58e2e66fa6bf7146b7582573af7997f1c62b0385361fc88723eb874b96b35ef; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Gediminas: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Algirdas buvo Gedimino sūnus.
 
 <a id="claim-t-176767"></a>
 - t-150
   global_id: t-176767
   teiginys: '1418 m. mirus žmonai Onai, Vytautas nusprendė vesti jos dukterėčią Julijoną Alšėniškę.'
-  susije_objektai: 'mentioned_place: Alšėnai; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Janas Kropidła|Janas Kropidła]]; mentioned_place: Krėva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1418 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-113
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 76406-77021; hash=53ccae6509b071ce087b5be467054e8f332bf67eb2e1ddf5b6749dc36204b6cf; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Lenkija: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Jogaila tapo Lenkijos karaliumi.
 
 <a id="claim-t-176768"></a>
 - t-151
   global_id: t-176768
   teiginys: 'Vytautas bandė užimti Žemutinę pilį, į Vilnių pasiuntęs roges su jose paslėptais ginkluotais žmonėmis.'
-  susije_objektai: 'llm_object: Polockas; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Polockas; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] siuntė į Vilnius'
   pagrindžia:
     - c-094
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 268228-268748; hash=110703b1dc4e04d6b8640df45d1cf9d9ece6836884f9840c876cc2ee541d913f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176769"></a>
 - t-152
   global_id: t-176769
   teiginys: 'Vytauto istoriškai reikšminga veikla prasidėjo Kęstučio kovos su Jogaila metu.'
-  sudarymo_pagrindimas: 'Reikia ištaisyti kalbą ir OCR triukšmą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo sūnus [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-034
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 268684-268964; hash=0ad7f16c1c7f67f03ca6415a09588d48539df600dbd2e7d0364a0dc7ad5c1fa1; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mergelė Marija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mergelė Marija: mention_match, person, gap=67
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Mergelė Marija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176770"></a>
 - t-153
   global_id: t-176770
   teiginys: 'Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Krėva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Dubysa; mentioned_place: Europa; llm_object: Krėva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Krėva'
   pagrindžia:
     - c-041
 
@@ -2614,53 +1089,20 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-154
   global_id: t-176771
   teiginys: 'Kėzmarke Vytautas Didysis atmetė Zigmanto siūlymą suardyti uniją ir priimti karaliaus karūną.'
-  susije_objektai: 'llm_object: Kėzmarkas; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]; mentioned_place: Kėzmarkas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Kėzmarkas'
   pagrindžia:
     - c-107
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 830784-831207; hash=f0803dfac03e425e8b719914da9530cd3f79be6144c93b500c3b24d74cc5d94b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Lietuva: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Frazė „ypač valdant Vytautui“ tiesiogiai teigia Vytauto valdymą Lietuvos laikotarpio kontekste.
 
 <a id="claim-t-176772"></a>
 - t-155
   global_id: t-176772
   teiginys: '1429 m. Vytautas Didysis į Lenčicą pas Jogailą pasiuntė delegatus Gedgaudą ir Rumbaudą.'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus ir paremtas citatoje nurodytais asmenimis bei vieta.'
-  susije_objektai: 'mentioned_place: Lenčica; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1429 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus ir paremtas citatoje nurodytais asmenimis bei vieta.'
   pagrindžia:
     - c-128
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b5cb371c19378978e7dac9be4d9c19d92ebd422e2c2686e9f2ae0c4adc7e02f2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Lietuva: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys Vytautą sieja su Lietuvos vadavimu iš priklausomybės, todėl palaikomas Lietuvos gynimo ryšys.
 
 <a id="claim-t-183844"></a>
 - t-158
   global_id: t-183844
   teiginys: 'Vytauto karas su Skirgaila dar labiau pablogino Vilniaus padėtį.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, pašalintas OCR triukšmas.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] kariavo prieš [[objektai/asmenys/Skirgaila|Skirgaila]]'
   pagrindžia:
     - c-134
 
@@ -2668,447 +1110,141 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
 - t-160
   global_id: t-184862
   teiginys: 'Vytautas, iš draugų sužinojęs apie Jogailos veiksmus, su Birute pasitraukė į Gardiną.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys daugiausia apie Jogailą; citata remia faktą apie Vytautą.'
-  susije_objektai: 'llm_object: Trakai; llm_object: Gardinas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Gardinas; mentioned_place: Prūsija; mentioned_place: Trakai'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Gardinas'
   pagrindžia:
     - c-136
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 103307-103902; hash=0adc1c33aa30d9febe966e03c8333701fcba46f6eb977a7b20c9ce3d733e9cfb; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Trakai: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautui buvo pavesta Trakų pilies gynyba.
 
 <a id="claim-t-184863"></a>
 - t-161
   global_id: t-184863
   teiginys: 'Skirgaila Jogailos vardu turėjo viešai pažadėti Vytautui saugumą ir neliečiamybę taikos derybose.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Vytautui pažadėtą saugumą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
   pagrindžia:
     - c-137
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 104679-105289; hash=8a0574e3bfad4db905df5406894cefca863420eddf861d0d40f091d5195c0c8f; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=88
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184864"></a>
 - t-162
   global_id: t-184864
   teiginys: 'Ona įspėjo Vytautą apie gresiančią mirtį ir patarė jam pabėgti apsirengus merginos drabužiais.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo vertinamojo pobūdžio; citata remia konkretesnį faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/budeliai|budeliai]]'
   pagrindžia:
     - c-138
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 107282-107965; hash=d500c2d91d770247fbaeb5f5ed650b01605817bc2dc9f2f95945adf0ad837613; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Krėva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Krėva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys nurodo Vytauto pervežimą į Krėvą, nors judėjimas buvo priverstinis.
 
 <a id="claim-t-184865"></a>
 - t-163
   global_id: t-184865
   teiginys: 'Mazovijos kunigaikščiai Jonušas ir Zemovitas priėmė Vytautą, bet nesistengė suteikti jam deramos pagalbos.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Atkurti vardai ir užbaigtas nutrūkęs teiginys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Zemovitas|Zemovitas]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Palenkė'
   pagrindžia:
     - c-139
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 114675-115423; hash=9230dfd1aa72995013477e7d3336d59f38a3ac27efd82b8e5ef61b4e8a697b11; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Vytautas sudarė sutartį su Ordinu.
 
 <a id="claim-t-184866"></a>
 - t-164
   global_id: t-184866
   teiginys: 'Vytautas iš Konrado Celnerio gavo karių ir lėšų karui.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, bet sakinys turi aiškiau sietis su Vytautu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-140
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 115424-115668; hash=90c0742cc15637e1be7361a20e1ccef813f9d0a404e79b9e2a746792b5735559; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jonas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginio konstrukcija rodo, kad Jonas minimas kaip vienas Vytauto sūnų.
 
 <a id="claim-t-184867"></a>
 - t-165
   global_id: t-184867
   teiginys: 'Sklido gandai, kad tariamasi dėl Henriko Mazoviečio ir Vytauto sesers Ringailės santuokos.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalinti puslapio antraštės artefaktai ir sutvarkytas sakinys.'
-  susije_objektai: 'mentioned_place: Mazovija'
   pagrindžia:
     - c-141
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 223914-224418; hash=01dece01c0a21a5aeaf46c134ebbe108de68c7d3b58e3cc2a726da5fa8e71850; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184868"></a>
 - t-166
   global_id: t-184868
   teiginys: 'Vytautas po mūšio nukreipė visas savo jėgas į Vilnių, norėdamas užimti pilis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys tiesiogiai perteikia citatoje nurodytą Vytauto veiksmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]'
   pagrindžia:
     - c-142
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 251348-251861; hash=37f97643b7ae6d1f1140b81f5722603ea8eb03c28fc2eeaaaa02e9881ec19b64; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mazovija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mazovija: mention_match, place, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184869"></a>
 - t-167
   global_id: t-184869
   teiginys: 'Vytautas, pranešęs Olesnickiui apie atvykimą, buvo jo prielankiai įlydėtas į Vilnių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Perrašyta taip, kad teiginio subjektas būtų Vytautas.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Vilnius'
   pagrindžia:
     - c-143
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=08dcade37c70a316d59fb7339b63378e2e141cd06d167fe2c166bdf86a398d9b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184870"></a>
 - t-168
   global_id: t-184870
   teiginys: 'Vytautui parodžius palankumą, apsuptieji pasidavė jo malonei.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalinta boilerplate įžanga, paliktas pilnas faktinis sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Podolė; mentioned_place: Vilnius'
   pagrindžia:
     - c-144
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9b6688806b0d96ffdf1ac801c57e03445e0640ec2c784bba0de52864942e38d4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184871"></a>
 - t-169
   global_id: t-184871
   teiginys: 'Vytautas ėmėsi karo prieš Švitrigailą, siekdamas didesnio Baltarusijos žemių paklusnumo Lietuvos didžiajam kunigaikščiui.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalinti puslapio antraštės artefaktai ir patikslintas objektas.'
-  susije_objektai: 'mentioned_place: Baltarusija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Druckas; llm_object: Druckas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] puolė Druckas'
   pagrindžia:
     - c-145
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 257326-258053; hash=2f57fc040dd8e78dd8c01edb59398aa1d27625b2d107bd3f079c86ddb3034bf7; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: sudare_sutarti_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys nurodo, kad Ordino pasiųstas komtūras sudarė sutartį su Vytautu, todėl ryšys laikomas Ordino atstovaujamu.
 
 <a id="claim-t-184872"></a>
 - t-170
   global_id: t-184872
   teiginys: 'Trisdešimtą apgulos dieną Vytauto kariai pro sugriautus įtvirtinimus įsiveržė į žemutinę pilį.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiksliai remiasi citata apie Vytauto karių veiksmus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pilėnas|pilėnas]]; mentioned_place: Livonija'
   pagrindžia:
     - c-146
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 259271-260146; hash=df49085245a70c0b42b38fd76dcc6a18524acf1963da851ea186813fba4ff0ab; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citatoje sakoma, kad žemaičiai sudarė sutartį su Ordinu.
 
 <a id="claim-t-184874"></a>
 - t-171
   global_id: t-184874
   teiginys: 'Stovėdamas su raitija vienoje vietoje, Vytautas kasdien vis labiau juto maisto stoką.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalinta neaiški kontekstinė nuoroda.'
-  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-147
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 294610-295125; hash=6f73e4f6232d1e88319ce92114628c08a40075810adc54ee92a78d1411ec3829; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Henrikas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184875"></a>
 - t-172
   global_id: t-184875
   teiginys: 'Vytautas su didikais Goštautu, Rumbaudu ir Radvila išvyko pas imperatorių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sutrumpinta iki aiškaus citata paremto fakto.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_person: [[objektai/asmenys/Rumbaudas|Rumbaudas]]; mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
   pagrindžia:
     - c-148
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=216b838271cef42a28debd3a8e8443e2355e55cb05def6690e189dd2367c82a6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Skirgaila: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Skirgaila: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytautas sudarė sąjungą su Skirgaila.
 
 <a id="claim-t-184876"></a>
 - t-173
   global_id: t-184876
   teiginys: 'Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Vytauto veiksmą ir vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; llm_object: Naugardukas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Naugardukas'
   pagrindžia:
     - c-149
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 297585-298500; hash=859af48acd0d764849264671c094e06cb6f11d04c09f7dcae60126379694ea2e; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: prekiavo_su -> Livonija: 0.84
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad Vilniaus prekyba išsišakojo su Livonijos miestais.
 
 <a id="claim-t-184877"></a>
 - t-174
   global_id: t-184877
   teiginys: 'Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Alšėnų kunigaikščio Algimantaičio dukra Julijona.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sakinys sutvarkytas ir sutelktas į faktą apie Vytautą.'
-  susije_objektai: 'llm_object: Trakai; llm_object: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Alšėnai; mentioned_place: Trakai; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Trakai; [[objektai/asmenys/Vytautas|Vytautas]] buvo vyras [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]'
   pagrindžia:
     - c-150
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1d00dbb4a2a019b2b119517b8d27e30f08ff2459597777d723033ffe77240484; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Lietuva: 0.82
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad Jogaila valdžią Lietuvoje patikėjo Vytautui.
 
 <a id="claim-t-184878"></a>
 - t-175
   global_id: t-184878
   teiginys: 'Vytautas paskelbė Jerim Berdį teisėtu valdovu ir pasiryžo jį paremti grąžinant į valdžią.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos faktą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Skitija; llm_object: Skitija'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] siuntė į Skitija'
   pagrindžia:
     - c-151
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0811eda00dc2b7162f93f2c8490d09baaf301d6a8c1a6fa1a1f82e7c4cee5bf4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alšėnai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Alšėnai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Alšėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184879"></a>
 - t-176
   global_id: t-184879
   teiginys: 'Kojelavičiaus vertinimu, garbės troškimas sutrukdė Vytautui įžvelgti, kad Zigmanto siūlymai ardė lietuvių ir lenkų sandraugą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Tai autoriaus interpretacija, todėl reikalinga šaltinio atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; llm_object: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo sąjungininkas su [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]'
   pagrindžia:
     - c-152
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=07c853747ca390637bc349d209abbeff234e429bd9f3816c7381a13eee412db1; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Totoriai: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata nurodo Vytauto laimėtus mūšius su totoriais.
 
 <a id="claim-t-184880"></a>
 - t-177
   global_id: t-184880
   teiginys: 'Gavęs slaptų laiškų iš kai kurių lenkų, Vytautas griežtai atsakė pasiuntiniams dėl karališkojo vainiko.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pirminis teiginys turėjo miglotą nuorodą į senąsias viltis.'
   pagrindžia:
     - c-153
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 344299-344900; hash=3b180e586fb12d7d4ca13236c1ac842f249456aec01167e9b21683c65e7db94f; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Fotijus: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Fotijus: mention_match, person, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Fotijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184881"></a>
 - t-178
   global_id: t-184881
   teiginys: 'Artėjant laukiamai dienai, Vytautui vis didesnį nerimą kėlė galimos kliūtys.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalinta autorinė įžanga ir sutvarkyta rašyba.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Odojevas; mentioned_place: Vilnius; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Vilnius'
   pagrindžia:
     - c-154
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 346860-347328; hash=93207ca826bb1749ad95601dd68bd40a9f488a9ff942b5ed37569a35a6600508; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184882"></a>
 - t-179
   global_id: t-184882
   teiginys: 'Žygimantas buvo palaidotas tame pačiame kape, kuriame jau ilsėjosi jo brolio Vytauto palaikai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata apie Vytautą remia tik kapo ir palaikų faktą.'
   pagrindžia:
     - c-155
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 349844-350399; hash=e7f4483208e351a6c136847d1ef61b787f8370e1f3a94d829ee70ea1d89a1089; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Luckas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Luckas: mention_match, place, gap=25
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Luckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-188647"></a>
 - t-180
@@ -3118,16 +1254,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     - c-156
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 268228-268748; hash=110703b1dc4e04d6b8640df45d1cf9d9ece6836884f9840c876cc2ee541d913f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Birutė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Birutė: mention_match, person, gap=50
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Birutė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-188648"></a>
 - t-181
   global_id: t-188648
@@ -3136,16 +1262,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     - c-157
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 268684-268964; hash=0ad7f16c1c7f67f03ca6415a09588d48539df600dbd2e7d0364a0dc7ad5c1fa1; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Birutė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Birutė: mention_match, person, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Birutė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-188649"></a>
 - t-182
   global_id: t-188649
@@ -3154,16 +1270,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     - c-158
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 269929-270472; hash=5b2e5d5e58dc9439184c299e330b32f127b67ba7ac49ad455958c18efbf7e101; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukuras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aukuras: mention_match, thing, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Aukuras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-188650"></a>
 - t-183
   global_id: t-188650
@@ -3172,16 +1278,6 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     - c-159
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 830784-831207; hash=f0803dfac03e425e8b719914da9530cd3f79be6144c93b500c3b24d74cc5d94b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_palaidotas -> Vilnius: 0.97
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vytauto palaikai buvo palaidoti Vilniuje.
 - susijęs iš [[objektai/asmenys/Marija (pirmoji Vytauto žmona).md#claim-t-35217|Marija (pirmoji Vytauto žmona)]]: Vytauto pirmoji žmona Marija buvo Rusijos kunigaikštytė ir, anot šaltinio, veikiausiai stačiatikė.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179646|Skirgaila]]: Jogaila po susitaikymo su Vytautu sutaikė jį ir su didžiausiu Vytauto priešu Skirgaila.
 - susijęs iš [[objektai/asmenys/Sofija (Vytauto duktė).md#claim-t-176614|Sofija (Vytauto duktė)]]: Jogaila, varžydamas Vytautą, be jo sutikimo uždraudė išleisti Sofiją už Maskvos kunigaikščio.
@@ -4579,13 +2675,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     ruoštais arkliais paspruko pas savo sesers vyrą, Mozūrų kuni-
     gaikštį Jonušą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021
-- c-002
+    - t-021- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pabėgėlis Vytautas už paramą turėjo priimti visas ordino
@@ -4593,13 +2687,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     nijoje būti ordino vasalu (1384 m.). Ordinas pakrikštijo Vytautą
     Vygando vardu ir išsiuntė su didele kariuomene į Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022
-- c-003
+    - t-022- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pasižadėdamas ordinui padėti užimti Žemaičius, Vytautas
@@ -4612,14 +2704,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     jo didikų ir bajorų, kurie per Prūsų ir Livonijos magistrų surengtą
     puotą Vytautą paskelbė Lietuvos karaliumi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
-    - t-127
-- c-004
+    - t-127- c-004
   santrauka: '1404 m. rugpjūčio viduryje Vytautas po Smolensko operacijos susitiko su didžiuoju magistru Ritterswerderio saloje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -4631,14 +2721,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Jungingenu, Vytautas pažadėjo per dešimtį metų nepriiminėti iš
     ordino žemių (Žemaičių) činšininkų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-087
-    - t-013
-- c-005
+    - t-013- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip
@@ -4650,14 +2738,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     pulkus, davinėjo įsakymus, keisdamas žirgus visur jodinėjo, kau­
     tynių metu atstatinėjo pralaužtas vietas ar keitė naujais daliniais^19.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
-    - t-109
-- c-006
+    - t-109- c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tik 1410 m. Lietuvos val-
@@ -4665,13 +2751,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     vedama Lenkijos kariuomene, viename didžiausių viduramžių
     Europos Žalgirio mūšyje visiškai sutriuškino Kryžiuočių ordiną..
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-- c-007
+    - t-016- c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vienas galingiausių Lietuvos valdovų, didysis kunigaikštis
@@ -4679,14 +2763,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Smolenską ir pasiekęs Juodąją jūrą. Vytauto pralaimėjimas toto-
     riams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
-    - t-018
-- c-008
+    - t-018- c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visų viršininku buvo laikomas Jogaila, ir jis turėjo duoti ženklą
@@ -4695,13 +2777,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     šio laimėjimo nuopelnas, be abejo, pirmučiausia priklauso Vy-
     tautui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-113
-- c-009
+    - t-113- c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene
@@ -4711,13 +2791,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     šyje^2 ), 1430 metais mirdamas jis turėjęs aštuoniasdešimt metų,
     vadinasi turėjo gimti apie 1350 metus^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-083
-- c-010
+    - t-083- c-010
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Po kiek laiko kronikos vėl mini 1377 metų Vytauto žygį.
@@ -4725,13 +2803,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     sant, į Ordino žemes. Tuokart jis pasirodė savarankiškas lie­
     tuvių kariuomenės vadas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-039
-- c-011
+    - t-039- c-011
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Grįždamas iš šito žygio, Kryžiuočių Ordinas 1383 metų
@@ -4740,13 +2816,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     jų įgula be vilties kovojo su gausiu priešu. Krikšte Vytautui
     buvo duotas Vigando vardas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-121
-- c-012
+    - t-121- c-012
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1392 metai Vytauto gyvenime yra persilaužimo metai —
@@ -4756,13 +2830,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     rino su tautos ir valstybės reikalais: tautos priešai yra ir jo
     priešai, tautos draugai — jo draugai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-058
-- c-013
+    - t-058- c-013
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nuo pat jaunystės Vytautas mėgo karo dalykus, ginklus.
@@ -4770,13 +2842,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     dalykų mielai mokydavosi ir lengvai juos pasisavindavo. Ypač
     jis sekdavo Vakarų Eurpos išradimus ir papročius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-055
-- c-014
+    - t-055- c-014
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Savo grįžimu iš ordino Vytautas, pradžioje tik Skirgailos vietą
@@ -4785,13 +2855,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     duoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi
     Trakų ir Lucko kunigaikščiais2S.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-- c-015
+    - t-009- c-015
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vytautas viešai dėjosi nekaltas ir norėjo « savo rankas nusi­
@@ -4801,14 +2869,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     valdovus. Užsigavęs dėl tokių kalbų, Vytautas skundėsi magis­
     trui^62.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
-    - t-069
-- c-016
+    - t-069- c-016
   santrauka: '1398 m. spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -4818,13 +2884,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     tino sutartį^6. Pasilikdamas sau Nevėžio žiotis, Vytautas kryžiuo­
     čiams užleido visus Žemaičius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-051
-- c-017
+    - t-051- c-017
   santrauka: 'Vytautas, apsimetęs ordino draugu, mainėsi laiškais, davė patarimus, keitėsi brangiomis dovanomis ir tarėsi nematąs įvykių Žemaičiuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -4835,13 +2899,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     savo meisterį į Trakus garsiajai salos piliai statyti Trakų (Galvės)
     ežere^44.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-111
-- c-018
+    - t-111- c-018
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     labai siaurą priėjimą prie Baltijos (Palangos), kurią čia pirmą
@@ -4853,14 +2915,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     pastovesnius santykius. Vytauto «arklių girdymas» Juodojoje
     jūroje ilgai pasiliko žmonių atminime.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-    - t-001
-- c-019
+    - t-001- c-019
   santrauka: 'Trakų Galvės ežero salos pilis tapo Vytauto Didžiojo pasididžiavimu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -4872,13 +2932,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     (Galvės) ežero salos didelė pilis, tapusi Vytauto Didžiojo pasidi­
     džiavimu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-- c-020
+    - t-008- c-020
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     politinį gyvenimą. Ir socialiniu atžvilgiu jie skyrėsi nuo kitų lie­
@@ -4887,13 +2945,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     XVI amž.
     Žemaičius įveikti kryžiuočiams buvo sunku.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-- c-021
+    - t-003- c-021
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Todėl Kęstutis ir Algirdas, norėdami paimti
@@ -4903,13 +2959,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     gaikščio titulą, kai 1392 m. gavo vyriausią Lietuvos miestą Vilnių ;
     taip ėjo ir toliau.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-- c-022
+    - t-009- c-022
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^262) ii skyrius: valstybės iškilimas
@@ -4923,13 +2977,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
     Dniepro žemupį, kuris tada buvo tuščias^13.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-- c-023
+    - t-010- c-023
   santrauka: 'Sugrįžęs iš ordino, Vytautas 1384–1389 m. tarnavo Jogailai ir rėmė jo politinius bei kultūrinius žygius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -4942,13 +2994,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Pusbroliui išsikėlus Krokuvon, Kęstutaitis galėjo tikėtis įgyti žy­
     mesni vaidmenį Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-105
-- c-024
+    - t-105- c-024
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Sugrįžęs iš ordino, Vytautas penkerius metus (1384-89) tarnavo
@@ -4957,13 +3007,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Pusbroliui išsikėlus Krokuvon, Kęstutaitis galėjo tikėtis įgyti žy­
     mesni vaidmenį Lietuvoje. Bet jis nesulaukė užtarnauto įvertinimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-- c-025
+    - t-004- c-025
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvos ir ordino santykių
@@ -4975,13 +3023,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     ordinui raštu pažadėjo Žemaičius ir tiek pat kartų juos vėl greitai
     susigrąžino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-- c-026
+    - t-011- c-026
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Du suimti paties Jogailos broliai buvo nusiųsti Krokuvon^3.
@@ -4990,14 +3036,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Jogailos valią buvo įsišeimininkavęs Vitebske. Su Jogailos žinia,
     Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-118
-    - t-009
-- c-027
+    - t-009- c-027
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvos kunigaikštijos priklausomybę nuo Karūnos. Susi­
@@ -5007,14 +3051,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     nusistatymą gynė visos Lietuvos reikalus ir jos nepriklausomybę,
     nepakęsdamas D. L. kunigaikštijos žeminimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-    - t-028
-- c-028
+    - t-028- c-028
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Galutinis unijos sulaužymas butų
@@ -5025,13 +3067,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     plėsti, ir kaip Lietuvos krikščionintojas, šalia Jogailos, turi jis žy­
     mių, o gal ir žymesnių nuopelnų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-- c-029
+    - t-005- c-029
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tai butų davę progos vokiečių ordinui vesti
@@ -5045,13 +3085,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     ir aprūpindamas Medininkų vyskupiją, bet taip pat organizuodamas
     eilę parapinių bažnyčių Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-- c-030
+    - t-006- c-030
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šalia jo politikoje reikalingo didelio lankstumo, kyšojo nepaprasta
@@ -5060,13 +3098,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     charakteringas didelis švaistymasis materialinėmis gėrybėmis, ypač
     kai reikėdavo pasirodyti užsieniečiams.
   citata_rodoma: ''
-  teiginio_tipas: vertinimas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-- c-031
+    - t-015- c-031
   santrauka: 'Zenonas Ivinskis Vytautui priskyrė taupumą ir didelį švaistymąsi materialinėmis gėrybėmis, ypač siekiant pasirodyti užsieniečiams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -5079,13 +3115,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     10.000 rb. gautos kontribucijos išdalijo jis žygio dalyviams lenkų
     karininkams (riteriams).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-135
-- c-032
+    - t-135- c-032
   santrauka: 'Vytautas dėl teisingo elgesio pelnė didelę pagarbą tarp savųjų ir svetimųjų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -5098,13 +3132,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     laiką, jei jo kiek atlikdavo, praleisdavo medžioklėje arba eida­
     mas šachmatais. Bet visur kur matėsi saikas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-144
-- c-033
+    - t-144- c-033
   santrauka: 'Vytautas mokėjo vokiečių ir lotynų kalbas, o šaltinyje svarstoma, kad galėjo mokėti ir rusų bei totorių kalbas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -5115,13 +3147,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     kun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert
     de Lannoy, buvo siuntinėjami totorių kalba raštai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-050
-- c-034
+    - t-050- c-034
   santrauka: 'Vytauto istoriškai reikšminga veikla prasidėjo Kęstučio kovos su Jogaila metu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -5133,13 +3163,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     giau tėvą. Bet jo veikime nežymu dar didelio veiklumo, savos
     iniciatyvos jis nereiškė, pildė tik Kęstučio įsakymus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-152
-- c-035
+    - t-152- c-035
   santrauka: 'Jogailai išvykus į Lenkiją, Vytautas buvo akylai stebimas ir negalėjo savarankiškai veikti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5160,13 +3188,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     18
     Slap t. Karai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-147
-- c-036
+    - t-147- c-036
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ir Lietuvos sostinė ilgai netvėrė Kęstučio valdžioje;
@@ -5181,14 +3207,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     mažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais,
     nusprendė užimti Vilnių ir Trakus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-114
-    - t-028
-- c-037
+    - t-028- c-037
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lengviausia, žinoma, buvo įtraukti į karą Vokiečių Or­
@@ -5200,13 +3224,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     limo, 1422 m. liepos mėn. gale išžygiavo prieš Ordiną tuo pat
     keliu, kaip ir į Žalgirio mūšį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-062
-- c-038
+    - t-062- c-038
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva liks savarankiška civilizacinė monada, todėl
@@ -5215,13 +3237,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
     Mindaugas sukuria Lietuvos valstybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-086
-- c-039
+    - t-086- c-039
   santrauka: '1426 m. Vytautas dėl žmonos Julijonos ligos kreipėsi į didįjį magistrą prašydamas gydytojo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5248,13 +3268,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     i dwa skotcy [Vilniuje, birželio 9-ta
     diena, 2 indiktas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-096
-- c-040
+    - t-096- c-040
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio priešistorė
@@ -5271,14 +3289,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     tik patvirtino jau esamą padėtį, LDK diduo-
     menės valią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-049
-    - t-019
-- c-041
+    - t-019- c-041
   santrauka: 'Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5296,14 +3312,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
     sudarė su jais paliaubas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-153
-    - t-030
-- c-042
+    - t-030- c-042
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kai šį sprendimą sužinojo Vytautas ir
@@ -5315,13 +3329,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui
     nepasitenkinimą^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-045
-- c-043
+    - t-045- c-043
   santrauka: 'Nuo 1930 m. rugsėjo 8 d. Tautos šventė minėjo neįvykusį Vytauto karūnavimą ir Švenčiausiosios Mergelės Marijos gimimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -5338,13 +3350,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų ga-
     tvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-128
-- c-044
+    - t-128- c-044
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atrodo, kad visa Vytauto politika orientuota į „švento
@@ -5357,14 +3367,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Siekti karūnacijos Vytautas pradėjo išsprendęs savo politikos priori-
     tetą – 1422 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-063
-    - t-097
-- c-045
+    - t-097- c-045
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Per menkos buvo dovanos, kad būtų vertusios veidmai­
@@ -5374,13 +3382,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     taujančiu tikėjimu ir įsakąs visiems jį priimti^1 ). Laisvi liko tik
     stačiatikiai, kaipo krikščionys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-145
-- c-046
+    - t-145- c-046
   santrauka: 'Jogaila ir Vytautas buvo paskatinti Lucke sušaukti monarchų ir kunigaikščių suvažiavimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5395,13 +3401,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     lių ir dviejų tautų, pargrįžęs tuoj pat išleido pasiuntinius su
     karūna pas Vytautą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-137
-- c-047
+    - t-137- c-047
   santrauka: 'Vytauto Didžiojo vardas siejamas su LDK tradicija, kėlusia atgimstančios lietuvių tautos sąmonę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -5411,13 +3415,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     gaikščių bei bajorijos, karvedžių Gedimino, Kęstučio, Vytauto Didžiojo
     vardai visuomet kėlė atgimstančios lietuvių tautos sąmonę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-040
-- c-048
+    - t-040- c-048
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
@@ -5427,11 +3429,9 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     sienų. Visos tuometinės artilerijos karo mašinos ir ugnias-
     vaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-049
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-049
   santrauka: 'Vytauto Didžiojo kulto pasakojime jis vaizduotas kaip Žalgirio mūšį laimėjęs karvedys ir Lietuvos karūnos siekęs valdovas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -5447,13 +3447,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     162
     Vytauto Didžiojo kulto kūrimo momentas: 1930 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-036
-- c-050
+    - t-036- c-050
   santrauka: 'Mokslininkai kelia mintį, kad Vytauto valstybės pakraščiuose galėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -5466,13 +3464,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Lietuvos. Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol
     vadina lietuvius „leišiais“), o gal ir „liečiais“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-146
-- c-051
+    - t-146- c-051
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vytautas apgavo Ordino vadus – davė žemaičiams įsaky-
@@ -5483,14 +3479,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     giuojama tiesiai link sostinės, siekiant strateginio tikslo – susidurti su vi-
     somis Ordino pajėgomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-133
-    - t-130
-- c-052
+    - t-130- c-052
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šis pavojus ir turėjo būt aptartas suvažia­
@@ -5499,13 +3493,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Į šį nepaprastą Vytauto kviečiamą susirinkimą gausiai su­
     plaukė svečių tiek iš Vakarų, tiek ir iš Rytų Europos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-047
-- c-053
+    - t-047- c-053
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi
@@ -5520,13 +3512,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     galėtų būti prilyginti tai nelaimei,
     kokią pats per juos iškentėjo?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-032
-- c-054
+    - t-032- c-054
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas savo ka­
@@ -5538,13 +3528,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės
     vadovybė atiteko Vytautui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-056
-- c-055
+    - t-056- c-055
   santrauka: 'Vytautas Lietuvos Didžiojoje Kunigaikštystėje apgyvendino musulmonų totorių ir karaimų bendruomenes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -5557,14 +3545,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
     menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-104
-    - t-124
-- c-056
+    - t-124- c-056
   santrauka: 'Vytautas pirmasis metė Lietuvos kariuomenę į Žalgirio mūšį, nes nesulaukė Jogailos žodžio pradėti kovą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -5573,14 +3559,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     lenkų riteriai. Todėl Vytautas surizikavo – pirmasis metė į mūšį Lietuvos
     kariuomenę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
-    - t-081
-- c-057
+    - t-081- c-057
   santrauka: 'Vytauto seserį Oną vedė vyresnysis Mazovijos kunigaikštis Jonušas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5595,13 +3579,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     to karalius, spiriamas karalystės reikalų, greitai išskubėjo į
     Lenkiją, Vilnių palikęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-122
-- c-058
+    - t-122- c-058
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytauto
@@ -5616,14 +3598,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
     Žygimantą Kaributaitį, savo sūnėną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-052
-    - t-066
-- c-059
+    - t-066- c-059
   santrauka: 'Vytauto politika šaltinyje siejama su bažnytine politika, Lietuvos konversija ir Žemaičių krikštu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -5637,13 +3617,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     mulių su stačiatikiškąja arba graikiškąja tradicija, jo karūnacijos projektą
     reikėtų matyti Lietuvos christianizacijos ir europeizacijos kontekste.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-091
-- c-060
+    - t-091- c-060
   santrauka: 'Vytautas tikėjo, kad viename pralaimėtame mūšyje jį išgelbėjo Švč. Mergelė Marija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -5656,13 +3634,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     nytinę politiką Lietuvos krikšto akcijoje užgožė Jogaila, o pagrindinis Vy-
     tauto tikslas buvo pastatyti Lietuvą Europos katalikiškųjų šalių greton.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025
-- c-061
+    - t-025- c-061
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Todėl ji savo grynai lietuviškomis tradicijomis
@@ -5675,13 +3651,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     tikėjimo skelbimo reikalais, bet ir apsigyvendavo kunigaikščių
     dvaruose raštininkais, patarėjais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027
-- c-062
+    - t-027- c-062
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Il KNYGA
@@ -5694,13 +3668,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     nemokėję Lenkijai duoklių - toks buvo atsakymas į tą prama­
     naus Vytauto klausimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-047
-- c-063
+    - t-047- c-063
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Be to, Vytautas įkūnijo kiekvienam
@@ -5714,14 +3686,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     jų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado –
     A. Smetonos, tarsi ir antrojo Vytauto – valdomą Lietuvos valstybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-110
-    - t-075
-- c-064
+    - t-075- c-064
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nežiūrint visų nesusipratimų su lenkais, Vytautas ir dabar
@@ -5732,13 +3702,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     neatmesiąs^1 ). Apie karą su Lenkija, jis nemanąs, bet kiekvieną
     jos puolimą atremsiąs^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-129
-- c-065
+    - t-129- c-065
   santrauka: '1430 m. Vytautas ketino karūnuotis Lietuvos karaliumi, dalyvaujant sušauktiems kunigaikščiams ir pasiuntiniams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5763,13 +3731,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
     magistras, Mazovijos kunigaikščiai ir totorių chanai84.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-103
-- c-066
+    - t-103- c-066
   santrauka: 'Vytauto tolerancijos įvaizdis sietas su totorių pakvietimu į Lietuvą ir žydams suteiktomis privilegijomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -5783,13 +3749,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
     vos miestuose ir miesteliuose, jam pastatyti paminklai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029
-- c-067
+    - t-029- c-067
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taigi šiam
@@ -5804,13 +3768,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     turėjo savo globėju, skundėsi, kad pskoviečiai vargina jo že­
     mes^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-048
-- c-068
+    - t-048- c-068
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Didysis kunigaikštis ne­
@@ -5829,13 +3791,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Jahrbücher Johannes Linde.nblatts,
     P-113.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-048
-- c-069
+    - t-048- c-069
   santrauka: '1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos tapatumą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5868,14 +3828,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     mis, palei gausių upių, versmių, ežerų krantus, stovėjo var­
     ganos medžioklių trobelės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-077
-    - t-027
-- c-070
+    - t-027- c-070
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Apie tai galima spręsti iš to, kad Jogaila, kartu su
@@ -5890,13 +3848,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Vytautui didžiojo kunigaikščio valdžia, bet pareinanti nuo Len­
     kijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-112
-- c-071
+    - t-112- c-071
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Warsz.
@@ -5925,14 +3881,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     valiojo greit pakilti iš vargų, kokius patyrė per pastarąsias
     apgultis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-045
-    - t-098
-- c-072
+    - t-098- c-072
   santrauka: '1413 m. Vytautas su Jogaila pradėjo krikštyti žemaičius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -5941,14 +3895,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Konstancą jau minėtą G. Camblako stačiatikių delegaciją, turėjusią pa-
     grįsti siekį gyventi unijoje su Katalikų bažnyčia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-071
-    - t-042
-- c-073
+    - t-042- c-073
   santrauka: 'Vytautui priskiriama pirmoji vienos Žemaitijos bažnyčios fundacija po krikščionybės įvedimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5962,14 +3914,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta
     klebonija tapo išties reikšmingiausia Žemaitijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-095
-    - t-034
-- c-074
+    - t-034- c-074
   santrauka: 'Vytautas Didysis, Kęstučio sūnus, valdė 1392–1430 m. ir šaltinyje vadinamas iškiliausiu Gediminaičių dinastijos atstovu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -5985,15 +3935,13 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
     čių dinastija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-038
     - t-043
-    - t-090
-- c-075
+    - t-090- c-075
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tų karingų vienuolių viršininkas, greitas
@@ -6011,13 +3959,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     mi, Vytauto labui nieko nenuveikę, nė negalvodami apie
     Vilniaus užėmimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-040
-- c-076
+    - t-040- c-076
   santrauka: 'Vytautas priėmė Maskvos metropolitą Fotijų, tačiau šis nieko nelaimėjęs išvyko į Maskvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6043,13 +3989,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     ir apsaugojo. Vytauto palaikai buvo atvežti į Vilnių ir iškil­
     mingai palaidoti85.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-100
-- c-077
+    - t-100- c-077
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1430 m. Vytautas Jogailos sutikimą vėl gavo, reikėjo sulaukti
@@ -6059,14 +4003,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     pašalino didžiuosius pavojus, įteisino savo egzistenciją, įžengė į Europą,
     pritapo prie jos ir joje išsilaikė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-078
-    - t-082
-- c-078
+    - t-082- c-078
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lucko suvažiavi-
@@ -6080,14 +4022,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     numatytą XIV a. pabaigoje ir atvedusį į galutinį tikslą: Lietuvos monar-
     chija turėjo įsitvirtinti Europos politinėje sistemoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-123
-    - t-116
-- c-079
+    - t-116- c-079
   santrauka: '1410 m. Vytautas, su kariuomene įžengęs į Prūsiją, rado jam palankių prūsų bajorų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6099,13 +4039,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Bajerburgą36. Net 1410 m. Vytautas, įžengęs su kariuomene į Prūsiją, rado jam palankių
     prūsų bajorų, kurie dar nebuvo užmiršę savo baltiškosios kilmės37.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-053
-- c-080
+    - t-053- c-080
   santrauka: 'Vilniaus vyskupui Petrui atsisakius sutuokti dėl artimos giminystės, tarp jo ir Vytauto kilo karšti ginčai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6130,13 +4068,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     73 nė Ona mirė Trakuose, o palaidota
     Ona buvo Smolensko kunigaikščio buvo Vilniuje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-120
-- c-081
+    - t-120- c-081
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas, apie kurį mes čia kalbėsime, buvo žymiausias
@@ -6148,13 +4084,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     giems valdovams buvę nepatogu susirišti giminystės ryšiais su
     savo pavaldiniais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-059
-- c-082
+    - t-059- c-082
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai
@@ -6166,14 +4100,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
     Katalikų bažnyčia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
-    - t-035
-- c-083
+    - t-035- c-083
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet iš ki­
@@ -6187,13 +4119,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     buvo kryžiuotis, nes tėvo dvare vokiečių belaisvių nestigdavo;
     todėl jis iš jų bus išmokęs skaityti ir rašyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-079
-- c-084
+    - t-079- c-084
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaprastas Rin­
@@ -6207,11 +4137,9 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     narsus, kaip ir apsukrus, skubinai išvyksta iš Marienburgo, ir
     pridurmais puolusiems kryžiuočiams nuo jo gerokai kliūna.
   citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-085
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-085
   santrauka: '1401 m. Vytautas davė Jogailai aktą, kad po jo mirties Lietuva ir Rusia pereis karaliaus valdžion.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6226,13 +4154,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­
     jungta prie Lenkijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-030
-- c-086
+    - t-030- c-086
   santrauka: '1413 m. Salyno derybose Vytautas pareiškė, kad Prūsai iki Osos yra jo tėvų palikimas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6240,13 +4166,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     „...Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos (t. y. visų
     prūsų žemių iki Vyslos su Pamede imtinai — R. B.), nes jie yra mano tėvų palikimas“41.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-140
-- c-087
+    - t-140- c-087
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Įtarusis Jogaila nepasitikėjo Vytautu ir, laužydamas
@@ -6265,14 +4189,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Lietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­
     tinės Skirgailą ir paimti valdžią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-037
-    - t-080
-- c-088
+    - t-080- c-088
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tasai kunigaikštis, toks pat
@@ -6286,13 +4208,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis
     valdovas, daugelis kunigaikščių ir bajorų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-044
-- c-089
+    - t-044- c-089
   santrauka: 'Vytautas siekė Lietuvos karaliaus karūnos, tačiau tam priešinosi Vladislovas Jogaila ir Lenkijos senatas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6314,13 +4234,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     vė, užuot savo šlovę apvainikavęs, gėdą sau užtrauks, p
     tėvynei nelaimę atneš.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-107
-- c-090
+    - t-107- c-090
   santrauka: 'Vytautas išvyko į Žemaitiją, kur jo tėvui Kęstučiui nuo seno buvo palankūs paprasti žmonės ir bajorai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6345,14 +4263,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę
     jų esant.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-060
-    - t-041
-- c-091
+    - t-041- c-091
   santrauka: '1384 m. rugpjūčio 23 d. Vytauto dovanojimo aktas Trakų miestui liudijo, kad jis jau buvo krikščionis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6377,13 +4293,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     pėdsakų šios pilies vienos sienos se­
     novinėje tapyboje yra iki šiol išlikę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-044
-- c-092
+    - t-044- c-092
   santrauka: 'Vytautas nutraukė ryšius su Maskvos metropolitu Fotijumi ir liepė Naugarduke išrinkti Lietuvai atskirą metropolitą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6406,13 +4320,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     k i Specimen Ecclesiae Ruthenicae,
     Pars.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-134
-- c-093
+    - t-134- c-093
   santrauka: 'Vytautas nustojo mokėti duoklę mongolams, panaikino dalinių kunigaikštijų sistemą, paskyrė vietininkus ir sutelkė realią valdžią LDK savo rankose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -6422,13 +4334,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-126
-- c-094
+    - t-126- c-094
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     116
@@ -6448,11 +4358,9 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais
     pavertė anksčiau negu suspėjo Vytautas su kariauna19.
   citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-095
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-095
   santrauka: 'Pirmoji Balinskio Vilniaus istorijos dalis baigiama 1430 m., kai mirė Vytautas Didysis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6468,13 +4376,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Batoro valdymo metais 1586 m. Pirmoji knygos dalis užbaigia­
     ma 1430 m. - Vytauto Didžiojo mirtimi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-102
-- c-096
+    - t-102- c-096
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     sustiprėjusi Vytauto padėtis. Ir Vytautas, nesitikėdamas tuo
@@ -6482,13 +4388,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     kartą sutartį su Ordinu ir su savo šalininkais sugrįžo į Lietuvą.
     Vytautui grįžus, tarp jo ir Jogailos rugpiūčio mėn.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-085
-- c-097
+    - t-085- c-097
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tos dienos rytą Jogailos ir Vytauto pozicijos skyrėsi. Vytautas troško
@@ -6497,13 +4401,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     menės dydžiu, žygio kryptimi, grėsmingu jėgos demonstravimu manė
     priversti Ordiną pradėti derybas ir jam padiktuoti savo sąlygas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-139
-- c-098
+    - t-139- c-098
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl Vytautas
@@ -6511,14 +4413,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     dinu būtina. Jogaila į karą su Ordinu nesiveržė, nes pralaimėjęs galėjo
     prarasti Lenkijos sostą. Vytauto pastangos davė rezultatų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-143
-    - t-070
-- c-099
+    - t-070- c-099
   santrauka: '1390 m. sausio 19 d. prie Gardino Ordino pasiųstas komtūras sudarė sutartį su Vytautu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6536,13 +4436,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė
     aplinkines žemes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-037
-- c-100
+    - t-037- c-100
   santrauka: 'Po sūnų Jono ir Jurgio netekties Vytautas puolėsi prie sutarties su Jogaila.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6555,13 +4453,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     prie sutarties su Jogaila, visą širdį
     dėdamas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-032
-- c-101
+    - t-032- c-101
   santrauka: 'Vytauto valdymas 1392–1430 m. šaltinyje apibūdinamas kaip epochinių permainų metas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -6580,26 +4476,22 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     44
     imperiškai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-046
-- c-102
+    - t-046- c-102
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tai gryni vasalystės pažadai. Tuo būdu Vytautas gavo iš Jo­
     gailos Lietuvą didž. kunigaikščio teisėmis, kaip lėną. Ši sutar­
     tis grąžino jam Lietuvos valdžią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-092
-- c-103
+    - t-092- c-103
   santrauka: 'Atgimstančios lietuvių tautos sąmonėje Vytautas buvo pasirinktas valstybės ir tautos didvyriu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -6610,13 +4502,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     vos didysis kunigaikštis, didis karo vadas, tautos genijus. 1930 m. iškil-
     mingai pažymėtas Vytauto mirties 500 metų jubiliejus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-119
-- c-104
+    - t-119- c-104
   santrauka: 'Vytautas laiškuose gynė Lietuvos reikalus ir nepriklausomybę prieš lenkų nusistatymą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -6628,13 +4518,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Visos aplinkybės taip susidėjo, kad Vytautui jėga reikėjo vai­
     niką išsikovoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-- c-105
+    - t-007- c-105
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau-
@@ -6644,13 +4532,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     vavo Lietuvos savarankiškumo priešas, vysk. Zbignevas
     Olesnickis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023
-- c-106
+    - t-023- c-106
   santrauka: 'Vytauto palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6664,13 +4550,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     tikslo bet kokiomis priemonėmis, - tokie tad buvo Vytauto
     geri ir blogi bruožai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-108
-- c-107
+    - t-108- c-107
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas šiuo laiku atmetė ir gundymą suardyti uniją, ka­
@@ -6685,13 +4569,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     tuo klausimu, bet priešingai, sugrįžęs tuojau pranešė Jogailai
     tuos pasitarimus^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-154
-- c-108
+    - t-154- c-108
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ir tuo būdu prisiartino Vokiečių
@@ -6704,13 +4586,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     kad vargiai vieni lietuviai be lenkų sąjungininkystės, kad ir to­
     kiam gabiam Vytautui vadovaujant, būtų nugalėję kryžiuočius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-089
-- c-109
+    - t-089- c-109
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas turėjo neblogus santykius ir su kita mongolų šaka
@@ -6725,13 +4605,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     tytę, bet tas nepakenkė geriems Vytauto santykiams su turkais,
     apie ką jis pats gyrėsi Zigmantui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-054
-- c-110
+    - t-054- c-110
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trakų pilis, reikia many­
@@ -6755,11 +4633,9 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     mo Galve, buvęs kunigaikščio žvė­
     rynas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-111
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-111
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Švitrigaila
@@ -6776,14 +4652,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     galvos“, Vytautas siekė susigrąžinti ją visam laikui kartu su
     Klaipėda ir visa Užnemune.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-072
-    - t-020
-- c-112
+    - t-020- c-112
   santrauka: 'Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose svarstė svarbiausius Lietuvos reikalus, nors Vilnius liko Didžiosios Kunigaikštystės sostinė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6798,13 +4672,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     gaikštystės sostinė. Toksai pagrindinės valdžios nutolimas
     nuo sostinės galėjo turėti blogos įtakos jos gerovei.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-142
-- c-113
+    - t-142- c-113
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
@@ -6823,15 +4695,13 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Janas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­
     ti, ir kuris palaimino tą santuoką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-050
     - t-049
-    - t-041
-- c-114
+    - t-041- c-114
   santrauka: 'Pasiligojusi Vytauto žmona Julijona buvo apsistojusi prie Vilniaus buvusiame kunigaikščių kaime Memitz.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6847,13 +4717,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­
     vo Rūdninkų vardą, kaip ir nuo jų vingiuojanti gatvė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-093
-- c-115
+    - t-093- c-115
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas Vilniui suteikė (1424 metais)
@@ -6868,11 +4736,9 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     įstatymus ar įsipareigojimus, kurie buvo reikalingi išimtinai
     Lietuvos interesams ginti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-116
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-116
   santrauka: 'Vytauto laikais Lietuvos Didžioji Kunigaikštystė buvo itin galinga, o jo galią jautė visas regionas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -6890,13 +4756,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     procesą, bet būtent Vytautas geriausiai sugebėjo pasinaudoti istorijos tei-
     kiamomis galimybėmis ir nutiesė kelius Europos kultūrai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-076
-- c-117
+    - t-076- c-117
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas
@@ -6906,13 +4770,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     lenkų ir lietuvių kariuomenių, dažnai mainydamas arklius“
     (Dlugošas). Tai Vytauto apsauga.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-061
-- c-118
+    - t-061- c-118
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Juk
@@ -6925,13 +4787,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Toliau Vytautas pabrėžia, kad šis punktas galės būt pritai­
     kintas tik jam mirus^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-094
-- c-119
+    - t-094- c-119
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1415 m. Naugarduke sušaukęs LDK stačiatikių
@@ -6944,13 +4804,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
     idėją (ji įgyvendinta vėliau – 1439 m. Florencijoje).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-132
-- c-120
+    - t-132- c-120
   santrauka: 'Vytauto laiškas dėl gydytojo buvo datuotas Obolcuose 1426 m. sausio 13 dieną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6962,13 +4820,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     ce, tarp Vitebsko ir Smolensko, 1426
     metų sausio 13 dieną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-136
-- c-121
+    - t-136- c-121
   santrauka: 'Mazovijos kunigaikštis Henrikas su slaptu Jogailos pavedimu atvyko pas Vytautą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6986,13 +4842,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     rikui, vėliau grįžus į Plocką, kainavo gyvybę, lėmė greitesnį
     karaliaus susitarimą su Vytautu48.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-057
-- c-122
+    - t-057- c-122
   santrauka: 'Vėlesniais Vytauto valdymo laikais Vilnius atsigavo po Skirgailos valdymo ir praturtėjo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7013,13 +4867,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
     klestėti!
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-099
-- c-123
+    - t-099- c-123
   santrauka: '1386 m. Vytautas užbaigė Šv. Jono bažnyčią, kurią Vladislovas Jogaila buvo pradėjęs statyti savo lėšomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7038,13 +4890,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     mes pašventino vyskupai: Kijevo - Mykolas ir Plocko -
     Stanislovas82.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034
-- c-124
+    - t-034- c-124
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas nuo pat pirmos krikšto dienos aktyviai daly­
@@ -7055,13 +4905,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     vadovu buvo Jogaila, kuris stengėsi Vytautą nustumti į šalį
     nuo rūpinimosi Lietuva ir krikšto reikalais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-149
-- c-125
+    - t-149- c-125
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­
@@ -7075,13 +4923,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     auklėtas, negalėjo nepastebėti ir nejausti to didelio savo krašto
     atsilikimo, ko jis ir negalėjo ilgiau toleruoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-052
-- c-126
+    - t-052- c-126
   santrauka: 'Po suvažiavimo Vytautas įsitikino, kad su Lenkija geruoju nesusitars, ir laukė karūnos kaip valstybės laisvės ženklo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -7095,13 +4941,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     žinia kitos pusės, dabar lenkai išsirinko sau Jogailos įpėdinį be
     Vytauto ir lietuvių bajorų žinios ir pritarimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-117
-- c-127
+    - t-117- c-127
   santrauka: '1384 m. Vytautas sudarė sutartį su Ordinu, kuris prisiekė atgauti jam atimtą tėvoniją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7125,14 +4969,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     savo paveldėjimo teises į valstybę
     Perleistų kryžiuočiams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-074
-    - t-031
-- c-128
+    - t-031- c-128
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kai sužinojo, kad kryžiuočių
@@ -7142,13 +4984,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     poldum). Atvykę jie į Lenčicą (1429 VI. 18), įteikė Jogailai Vy­
     tauto laišką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-155
-- c-129
+    - t-155- c-129
   santrauka: 'Vytautas, pralaimėjęs mūšį ir netoli Vilniaus praradęs tūkstantį žmonių, turėjo slėptis Trakų pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7169,14 +5009,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     vai užėmęs, jeigu Kęstutis su stipriais pulkais iš Žemaitijos į
     pagalbą sūnui pagaliau nebūtų atvykęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-084
-    - t-029
-- c-130
+    - t-029- c-130
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jokūbą, vėl išsiruošė ana­
@@ -7187,11 +5025,9 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     51
     Lindenblatt Jahrbücher, p. 9 4 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-131
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-131
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta liūdna Vilniaus
@@ -7205,13 +5041,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     mų, o dėl Skirgailos niršaus būdo negalėjo netgi būti tikras,
     kad nebus pasikėsinta į jo gyvybę18.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-036
-- c-132
+    - t-036- c-132
   santrauka: '1392–1430 žymiausio Lietuvos valdovo Vytauto valdymo metai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -7222,14 +5056,12 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     1410 
     Žalgirio (Griunvaldo) mūšis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-156
-    - t-033
-- c-133
+    - t-033- c-133
   santrauka: 'Vytautas įsakė žemaičiams puldinėti Ordino pilis, kad pridengtų jungtinės Lenkijos ir Lietuvos kariuomenės puolimo kryptį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -7241,13 +5073,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     ir netikėtas – paprastai karuose su Lenkija ar su Lietuva Ordinas būdavo
     puolančioji pusė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-157
-- c-134
+    - t-157- c-134
   santrauka: 'Vytauto karas su Skirgaila dar labiau pablogino Vilniaus padėtį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7263,13 +5093,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     tuvos valdymo, bet ir paveldo, po Kęstučio mirties priklau­
     sančio, negrąžino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-158
-- c-135
+    - t-158- c-135
   santrauka: 'Vytautas, apsimetęs ordino draugu, mainėsi laiškais, davė patarimus, keitėsi brangiomis dovanomis ir tarėsi nematąs įvykių Žemaičiuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -7279,13 +5107,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     įvairiomis brangiomis dovanomis^43 , tarėsi nematąs, kas dėjosi Že­
     maičiuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-159
-- c-136
+    - t-159- c-136
   santrauka: 'Vytautas, iš draugų sužinojęs apie Jogailos veiksmus, su Birute pasitraukė į Gardiną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -7304,13 +5130,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     mi iš niekur paramos, jie perėjo į Jogailos pusę, ati­
     duodami miestą, pilis bei turtą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-160
-- c-137
+    - t-160- c-137
   santrauka: 'Skirgaila Jogailos vardu turėjo viešai pažadėti Vytautui saugumą ir neliečiamybę taikos derybose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -7334,13 +5158,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     J o gai-
     tas patarė atjoti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-161
-- c-138
+    - t-161- c-138
   santrauka: 'Ona įspėjo Vytautą apie gresiančią mirtį ir patarė jam pabėgti apsirengus merginos drabužiais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -7358,13 +5180,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     ties: draugai jau, girdi, parūpinę visko, kas reikalinga
     bėgliui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-162
-- c-139
+    - t-162- c-139
   santrauka: 'Mazovijos kunigaikščiai Jonušas ir Zemovitas priėmė Vytautą, bet nesistengė suteikti jam deramos pagalbos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -7388,13 +5208,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     gauti, nei karaliaus įžeisti, rūpindamiesi, kad, kilus ka­
     rui, patys vienaip ar kitaip išvengtų bėdos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-163
-- c-140
+    - t-163- c-140
   santrauka: 'Vytautas iš Konrado Celnerio gavo karių ir lėšų karui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -7413,13 +5231,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     duoda, tikėdamasis, kad visas pelnas ilgainiui atiteks
     kryžiuočiams.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-164
-- c-141
+    - t-164- c-141
   santrauka: 'Sklido gandai, kad tariamasi dėl Henriko Mazoviečio ir Vytauto sesers Ringailės santuokos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -7437,13 +5253,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     parinko būrį bajorų, pasirengusių tokiam žygiui, ir jį
     išsiuntė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-165
-- c-142
+    - t-165- c-142
   santrauka: 'Vytautas po mūšio nukreipė visas savo jėgas į Vilnių, norėdamas užimti pilis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -7454,13 +5268,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     pilis. Jas užkariauti vis dėlto pasirodė kur kas sunkiau,
     nei tikėjosi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-166
-- c-143
+    - t-166- c-143
   santrauka: 'Vytautas, pranešęs Olesnickiui apie atvykimą, buvo jo prielankiai įlydėtas į Vilnių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -7478,13 +5290,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     turėdamas vilties užimti val­
     džią.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-167
-- c-144
+    - t-167- c-144
   santrauka: 'Vytautui parodžius palankumą, apsuptieji pasidavė jo malonei.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -7495,13 +5305,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     vių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­
     na išgabeno į Vilnių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-168
-- c-145
+    - t-168- c-145
   santrauka: 'Vytautas ėmėsi karo prieš Švitrigailą, siekdamas didesnio Baltarusijos žemių paklusnumo Lietuvos didžiajam kunigaikščiui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -7528,13 +5336,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     pažadėję ir prisiekę ištikimybę Vytautui bei jo įpėdi­
     niams, susilaukė, ko prašė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-169
-- c-146
+    - t-169- c-146
   santrauka: 'Trisdešimtą apgulos dieną Vytauto kariai pro sugriautus įtvirtinimus įsiveržė į žemutinę pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -7550,13 +5356,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     žemutinę pilį. Kovojant dėl miesto sienos, žuvo vienas
     kitas pilėnas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-170
-- c-147
+    - t-170- c-147
   santrauka: 'Stovėdamas su raitija vienoje vietoje, Vytautas kasdien vis labiau juto maisto stoką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -7573,13 +5377,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     p ra šy-
     syti taikos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-171
-- c-148
+    - t-171- c-148
   santrauka: 'Vytautas su didikais Goštautu, Rumbaudu ir Radvila išvyko pas imperatorių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -7598,13 +5400,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     jų reikalui, kuo greičiausiai, niekam nieko nesakyda­
     mas, ten išvyks ir Jogaila patvirtinti naujo susitarimo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-172
-- c-149
+    - t-172- c-149
   santrauka: 'Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -7619,13 +5419,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     h  u žgniaužia N augar-
     jame dalyvavo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-173
-- c-150
+    - t-173- c-150
   santrauka: 'Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Alšėnų kunigaikščio Algimantaičio dukra Julijona.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -7636,13 +5434,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     šėnų kunigaikščio Algimantaičio dukra. Julijona mi-
     rusiajai buvo teta.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-174
-- c-151
+    - t-174- c-151
   santrauka: 'Vytautas paskelbė Jerim Berdį teisėtu valdovu ir pasiryžo jį paremti grąžinant į valdžią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -7657,13 +5453,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Radvilai skubiai sutelkti Lietuvos žemėse didelę kariuo­
     menę ir su ja palydėti Jerim Berdį į Skitiją.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-175
-- c-152
+    - t-175- c-152
   santrauka: 'Kojelavičiaus vertinimu, garbės troškimas sutrukdė Vytautui įžvelgti, kad Zigmanto siūlymai ardė lietuvių ir lenkų sandraugą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -7683,13 +5477,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     susidraugavo su imperatoriumi sau pačiam davęs žodį
     nieko nedaryti be karaliaus žinios ir sutikimo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-176
-- c-153
+    - t-176- c-153
   santrauka: 'Gavęs slaptų laiškų iš kai kurių lenkų, Vytautas griežtai atsakė pasiuntiniams dėl karališkojo vainiko.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -7715,13 +5507,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     liškąjį vainiką ir pats jį užsidėtų, tada neabejotinai pa­
     tirtų iš žmonių daugiau gėdos nei garbės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-177
-- c-154
+    - t-177- c-154
   santrauka: 'Artėjant laukiamai dienai, Vytautui vis didesnį nerimą kėlė galimos kliūtys.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -7737,13 +5527,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     gistrus, kuriuos visus svetingai vaišino valstybės lė­
     šomis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-178
-- c-155
+    - t-178- c-155
   santrauka: 'Žygimantas buvo palaidotas tame pačiame kape, kuriame jau ilsėjosi jo brolio Vytauto palaikai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -7758,13 +5546,11 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     dytas valdovas, bet ir todėl, kad krito galybė paprastų
     atsitiko.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-179
-- c-156
+    - t-179- c-156
   santrauka: 'Narbutas Vytautą įvardija kaip Kęstučio ir kunigaikštienės Birutės sūnų, kartu su Patriku, Tautvila, Sigaila ir Danute.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -7778,13 +5564,10 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     Sigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­
     nė, būdama gyva, garsėjo savo kilniaširdiškumu.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-180
-- c-157
+    - t-180- c-157
   santrauka: 'Narbutas rašo, kad Vytautui viešpataujant Lietuvoje kunigaikštienė Birutė sugrįžo į Palangą ir ten mirė 1416 m.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -7795,13 +5578,10 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     užbaigė gyvenimą. Žmonės, menantys jos dorybes ir nuopel­
     nus, laikė ją šventa.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-181
-- c-158
+    - t-181- c-158
   santrauka: 'Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai aukurą ir apeigas, nes negalėjo palenkti jos į krikščionybę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -7815,13 +5595,10 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
     deivę, juk ir Strijkovskis tą patvirtina.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-182
-- c-159
+    - t-182- c-159
   santrauka: 'Narbutas 1386–1447 m. laikotarpį laiko didžiausios Lietuvos galybės epocha, ypač Vytauto valdymo metu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -7834,10 +5611,8 @@ Vytautas pristatomas kaip Lietuvos valdovas, kurio veikla siejama su valstybės 
     siekė didžiausios savo galybės laikotarpį, ypač valdant Vytautui,
     kuris sostą paveldėjo iš Skirgailos.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-183
 

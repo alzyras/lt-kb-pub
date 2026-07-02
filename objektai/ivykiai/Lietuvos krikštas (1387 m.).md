@@ -48,8 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-186366
   teiginys: 'Po Lietuvos krikšto pavaldiniui buvo nurodoma, kokį tikėjimą jis turi išpažinti.'
-  teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Europa'
   pagrindžia:
     - c-001
 
@@ -57,51 +55,20 @@ Nenurodyta
 - t-002
   global_id: t-186367
   teiginys: '1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Žemaitija; mentioned_place: Kijevas'
-  temporaliniai_duomenys: 'įvykio data: 1387 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 75448-75855; hash=20357a9071c9fc17fdd15ed54d5d0f0a18fd13d76e44a04c8bcbc4b5fa429fdd; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos krikštas (1387 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos krikštas (1387 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186368"></a>
 - t-003
   global_id: t-186368
   teiginys: 'Alegoriniame Europos šalių žygyje prie kryžiaus Lietuva vaizduota kaip paskutinė ir pėsčia valstybė.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pašalintas antraštinis fragmentiškumas, paliktas paremtas teiginys.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Europa'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 75448-75855; hash=20357a9071c9fc17fdd15ed54d5d0f0a18fd13d76e44a04c8bcbc4b5fa429fdd; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos krikštas (1387 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos krikštas (1387 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186369"></a>
 - t-004
   global_id: t-186369
   teiginys: 'Po Lietuvos krikšto feodaliniai santykiai įgijo idėjinį pagrindą, nes pavaldiniui buvo nurodoma, kokį tikėjimą išpažinti.'
-  teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Europa'
   pagrindžia:
     - c-001
 
@@ -109,20 +76,8 @@ Nenurodyta
 - t-005
   global_id: t-186370
   teiginys: 'Lietuvos krikšto metu Vytautas aktyviai aiškino žmonėms tikėjimą ir ragino juos krikštytis.'
-  teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Gardinas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 23688-24062; hash=531060b98e53cebc157ae6374fdb71b4c30319717cb5b8084201cc8ff90b3dc1; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos krikštas (1387 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos krikštas (1387 m.)" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182809|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija neleido Vilniaus miestiečiams įgyti daugiau laisvių.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173246|Vladislovas Jogaila]]: Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija nesuteikė Vilniaus miestiečiams palankaus meto įgyti daugiau laisvių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178873|Kryžiuočių ordinas]]: Kryžiuočiai Vakarų Europoje skleidė gandus, kad Lietuvos krikštas buvo tariamas ir paviršutiniškas.
@@ -148,7 +103,6 @@ Nenurodyta
     Lietuva paskutinė ir pėsčia valstybė alegoriniame Europos šalių
     žygyje prie kryžiaus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -167,7 +121,6 @@ Nenurodyta
     spaudos pridėtos privilegijų raštuose; taigi jis prisidėjo ir prie
     naujos visuomeninės tvarkos įvedimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -186,7 +139,6 @@ Nenurodyta
     apsikrikštijimo regionu – šiais įvykiais bai-
     gė formuotis krikščioniškoji Europa.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -29,11 +29,6 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
 - t-001
   global_id: t-66324
   teiginys: '1943 m. gegužę–birželį gestapas suėmė šešis iš devynių Vyriausiojo Lietuvos išlaisvinimo komiteto vadovybės narių.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir daugiausia ne apie objektą; citata remia konkretų VLIK faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_place: Vokietija; mentioned_place: Štuthofas'
-  temporaliniai_duomenys: 'įvykio data: 1943 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir daugiausia ne apie objektą; citata remia konkretų VLIK faktą.'
   pagrindžia:
     - c-002
 
@@ -41,11 +36,6 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
 - t-002
   global_id: t-66326
   teiginys: 'Iš Europos į JAV persikėlęs VLIK siekė veikti išvien su ALT ir PLB bei tarptautiniu mastu pasitarnauti Lietuvos laisvės bylai.'
-  sudarymo_pagrindimas: 'Sakinys gramatiškas ir pagrįstas citatos informacija apie VLIK, ALT ir PLB siekius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba]]; mentioned_place: Europa'
-  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1951 m.; įvykio data: 1991 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys gramatiškas ir pagrįstas citatos informacija apie VLIK, ALT ir PLB siekius.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Lietuvių frontas.md#claim-t-74624|Lietuvių frontas]]: Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą.
@@ -68,7 +58,6 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
     riausiasis Lietuvos išlaisvinimo komitetas (VLIK). Jos siekė veikti išvien
     ir pasitarnauti Lietuvos laisvės bylai tarptautiniu mastu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -92,7 +81,6 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
     suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
     grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

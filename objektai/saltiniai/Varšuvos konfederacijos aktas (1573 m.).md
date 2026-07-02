@@ -24,9 +24,6 @@ tags:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9bae07b86b6dbaf293010251ff94241d2fb12235c6f1d34d69a5638d1fcdea9c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 <a id="claim-t-67556"></a>
 - t-002
   global_id: t-67556
@@ -35,9 +32,6 @@ tags:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c72e5e2fa4c98c0a4c65bd897c3e7af474bae126a2c991b53bd952482ec7a000; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -56,13 +50,10 @@ tags:
     racijos akto nuostatus, nors Lenkijos katalikų Bažnyčios sinodas
     buvo iškeikęs visus tos konfederacijos gynėjus.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: '1573 metų Varšuvos konfederacija garantavo, kad dėl tikėjimo niekas nebus persekiojamas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -73,9 +64,7 @@ tags:
     metų Varšuvos konfederacijos, kuri garantavo, kad dėl tikė-
     jimo niekas nebus persekiojamas.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

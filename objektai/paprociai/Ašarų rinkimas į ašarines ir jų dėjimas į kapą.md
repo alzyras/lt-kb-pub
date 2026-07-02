@@ -42,9 +42,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 650710-651096; hash=483624f108b97fde04e404fc085b69ab1a389cb70b3d667c2f8c32c5f28fff23; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-189821"></a>
 - t-002
   global_id: t-189821
@@ -53,9 +50,6 @@ Nenurodyta
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 665357-665866; hash=fde4f5c452aed02e7301f1e2189bde3fe81a0bec90bd21bd857d8797ecc10309; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-189822"></a>
 - t-003
   global_id: t-189822
@@ -64,16 +58,6 @@ Nenurodyta
     - c-003
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 666710-667087; hash=c0e070a5baea18b68f4a6585e4fd105ed876953236d39b5e0458cc4fa53e6e1d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sandara: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ašarų rinkimas į ašarines ir jų dėjimas į kapą: owner_note_path, thing
-  ryšio_targeto_parinkimas: Sandara: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ašarų rinkimas į ašarines ir jų dėjimas į kapą" parinktas kaip owner_note_path. Targetas "Sandara" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -89,13 +73,10 @@ Nenurodyta
     indelių; šiuos indus, arba ašarines, pastatydavo kape prie mi­
     rusiojo kojų. Apie tai bus straipsnyje „Kapai“.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas pastebėjo sudaužytų ašarinių liekanų, o kelių šukių vidus buvo dengtas tamsiai rudos spalvos glazūra.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -109,13 +90,10 @@ Nenurodyta
     linius dubenėlius, kurių seniau niekas nedrįsdavo judinti; vė­
     liau smalsūs svečiai surinko ir šukes.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
+    - t-002- c-003
   santrauka: 'Narbutas rašo, kad toje vietoje buvo randama daug ašarinėms priskiriamų nuolaužų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -128,9 +106,7 @@ Nenurodyta
     dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­
     rias dėdavo sudegintų žmonių pelenus.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003

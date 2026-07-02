@@ -45,9 +45,6 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=73381c8d6366aba61203c6e5f3bd931c0c5b8b89f7451d0ef09f59ca5fb5cee2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 <a id="claim-t-67200"></a>
 - t-002
   global_id: t-67200
@@ -56,9 +53,6 @@ Nenurodyta
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e8a502420e59635b930af52f81edee527fa314a2fd692845ae749ced9da939f0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 <a id="claim-t-67201"></a>
 - t-003
   global_id: t-67201
@@ -67,9 +61,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4ae56b15d89bcf0e8009dc35179b8950ca04c0b8900ed7bbbbc2d1e3a8dd5546; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -81,13 +72,10 @@ Nenurodyta
     tikrinamas atstovų išrinkimo teisėtumas. Ta procedūra buvo
     vadinama r u g o m i s.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-002
+    - t-003- c-002
   santrauka: 'Seimo pradžioje visi bučiuodavo soste sėdinčiam karaliui ranką, o kancleris arba vicekancleris paskelbdavo karaliaus pasiūlymus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -100,13 +88,10 @@ Nenurodyta
     liaus pasiūlymus, t. y. pakartodavo ir papildydavo seimeliams
     praneštus svarstyti klausimus.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-003
+    - t-001- c-003
   santrauka: 'Seimas būdavo baigiamas atsisveikinimu su karaliumi, per kurį visi vėl bučiuodavo jam ranką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -125,9 +110,7 @@ Nenurodyta
     lium, — ir vėl visi bu-
     čiuodavo jam ranką.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

@@ -36,101 +36,36 @@ Nenurodyta
 - t-001
   global_id: t-186639
   teiginys: 'Lietuvos metraščio pasakojime 6953 metais nutrūko Kazimiero taika su Maskvos didžiuoju kunigaikščiu.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Palikta metraščio atribucija ir pridėtas citatoje esantis laiko žymuo.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Viazma'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0ce37ff5a81ffed039313a96e58816c9b5917115845c24370f1c8c045d902184; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186640"></a>
 - t-002
   global_id: t-186640
   teiginys: 'Lietuvos metraščio pasakojime Kazimieras tą pačią žiemą pasiuntė savo vaivadas, kunigaikščius ir ponus su kariuomene pulti Maskvos žemės.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Išplėstas veiksmo vykdytojų įvardijimas iš citatos.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_place: Maskvos žemės; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Viazma'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0ce37ff5a81ffed039313a96e58816c9b5917115845c24370f1c8c045d902184; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: puole -> Viazma: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Viazma: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Totoriai nurodyti kaip kartu veikę užpuolikai, nusiaubę Viazmos žemę.
 
 <a id="claim-t-186641"></a>
 - t-003
   global_id: t-186641
   teiginys: 'Lietuvos metraštis lietuvių pergalę prieš juos vijusius maskvėnus aiškina Dievo pagalba ir pasakoja apie belaisvių nuvarymą į Smolenską.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Dieviška pagalba yra atribucijai jautrus religinis aiškinimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Viazma; llm_object: [[objektai/grupes/Maskvėnai|Maskvėnai]]; llm_object: Smolenskas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0ce37ff5a81ffed039313a96e58816c9b5917115845c24370f1c8c045d902184; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Maskva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=93
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186642"></a>
 - t-004
   global_id: t-186642
   teiginys: 'Lietuvos metraščio pasakojime maskvėnai su totoriais atėjo ir nusiaubė Viazmos žemę.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Sakinys aiškus, bet chronikos karo pasakojimui palikta atribucija.'
-  susije_objektai: 'llm_object: Viazma; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Maskva; mentioned_place: Viazma; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; llm_object: [[objektai/grupes/Totoriai|Totoriai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0ce37ff5a81ffed039313a96e58816c9b5917115845c24370f1c8c045d902184; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Kaluga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kaluga: mention_match, place, gap=60
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę" parinktas kaip owner_note_path. Targetas "Kaluga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186643"></a>
 - t-005
   global_id: t-186643
   teiginys: 'Lietuvos metraščio pasakojime Kazimiero kariuomenė nusiaubė Kozelską, Vereją, Možaiską ir Kalugą per žygį į Maskvos žemę.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalintas nereikalingas teiginio boilerplate.'
-  susije_objektai: 'mentioned_place: Kaluga; mentioned_place: Maskva; mentioned_place: Možaiskas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Viazma'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0ce37ff5a81ffed039313a96e58816c9b5917115845c24370f1c8c045d902184; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: kariavo_pries -> Maskvėnai: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Maskvėnai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Pasakojime lietuviai nugali juos vijusius maskvėnus, todėl tiesiogiai palaikomas karinis konfliktas.
 
 ## Reikšmingi paminėjimai
 
@@ -152,7 +87,6 @@ Nenurodyta
     rą, ir buvo jis tuomet su visa valstybe didžiai garbina­
     mas ir šlovinamas5 0 .
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

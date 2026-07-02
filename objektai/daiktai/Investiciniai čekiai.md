@@ -63,7 +63,6 @@ Nenurodyta
 - t-002
   global_id: t-75328
   teiginys: 'Investicinius čekius patikėjusiems asmenims nebuvo palikta garantijų, kai privatizavimui kūrėsi žemės ūkio akcinės ir investicinės bendrovės.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -71,7 +70,6 @@ Nenurodyta
 - t-003
   global_id: t-75329
   teiginys: 'Daugelis gyventojų investicinius čekius pardavė ir nesugebėjo privatizuoti savo gyvenamojo būsto.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą faktą.'
   pagrindžia:
     - c-004
 
@@ -79,7 +77,6 @@ Nenurodyta
 - t-004
   global_id: t-75330
   teiginys: 'Investicinius čekius bendrovėms patikėjusiems asmenims nebuvo palikta garantijų.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -87,7 +84,6 @@ Nenurodyta
 - t-005
   global_id: t-75331
   teiginys: 'Šalies piliečiams buvo sudarytos galimybės įsigyti privatizuojamo valstybės turto už investicinius čekius, bet tinkamai tuo pasinaudojo ne visi.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie investicinius čekius.'
   pagrindžia:
     - c-002
 
@@ -95,7 +91,6 @@ Nenurodyta
 - t-006
   global_id: t-75333
   teiginys: 'Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsigyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo pasinaudojo ne visi.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatinis ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-004
 
@@ -112,7 +107,6 @@ Nenurodyta
     tas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lė-
     šos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -131,7 +125,6 @@ Nenurodyta
     gyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo
     pasinaudojo ne visi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -152,7 +145,6 @@ Nenurodyta
     savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo,
     nepalikta garantijų investicinius čekius patikėjusiems asmenims.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -172,7 +164,6 @@ Nenurodyta
     kos „išvalstybinimo“ būdas; šiaip ar taip, jis lėmė pirmojo dešimtmečio
     šalies ūkio raidą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

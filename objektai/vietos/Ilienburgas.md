@@ -33,42 +33,15 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
 - t-001
   global_id: t-58558
   teiginys: 'Ilienburgas buvo vėlesnis Gilgenburgas, dabartinis Dąbrównas, sąsmaukoje tarp dviejų ežerų senoje Sasnos žemėje.'
-  sudarymo_pagrindimas: 'Citata palaiko tapatinimą ir geografinį apibūdinimą.'
-  susije_objektai: 'mentioned_place: Gilgenburgas'
-  temporaliniai_duomenys: 'įvykio data: 1319 m.; įvykio data: 1326 m.; įvykio data: 1340 m.; įvykio data: 1350 m.; įvykio data: 1351 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko tapatinimą ir geografinį apibūdinimą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ffd46237aa1cf6d7a3059958dea08d42ff11caaf1a2996197e2a2c8af6271cf8; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ilienburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ilienburgas" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58559"></a>
 - t-002
   global_id: t-58559
   teiginys: 'Kristburgo komtūras Luterbergas pastatė miestą prie Ilienburgo pilies.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir citata tiesiogiai patvirtina miesto pastatymą prie Ilienburgo pilies.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Luterbergas|Luterbergas]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Bartenšteinas; mentioned_place: Kristburgas; mentioned_place: Lunenburgas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 690970-691435; hash=b7fcedca50837b4914cb227d2c1595a77e46ceef24de31751633d9e6d88b82c6; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gilgenburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ilienburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Gilgenburgas: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ilienburgas" parinktas kaip owner_note_path. Targetas "Gilgenburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Luterbergas.md#claim-t-60168|Luterbergas]]: Luterbergas, Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras, pastatė miestą prie Ilienburgo pilies.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Altenburgo.md#claim-t-59949|Ditrichas iš Altenburgo]]: Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje.
 - susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-183941|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
@@ -88,7 +61,6 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
     1319 m., prie jos miestas įkurtas 1326 m. (PUB, 3, 3, p. 708, 697; Weber L., Preussen...,
     p. 473; Ambrassat A., Die Provinz..., p. 421).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -111,7 +83,6 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
 
       593 D.— Says, Jer.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -48,7 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-78619
   teiginys: '1787 m. Kaneve Kotryna ir Stanislovas Augustas sutarė, kad kitų metų seime karalius sieks Respublikos paramos Rusijai kare su turkais.'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo per ilgas, triukšmingas ir nutrūkęs.'
   pagrindžia:
     - c-003
 
@@ -56,11 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-78620
   teiginys: 'Ketverių metų seimas 1791 m. gegužės 3 d. priėmė konstituciją ir kitus įstatymus, turėjusius reformuoti valstybę bei atsikratyti Rusijos protektorato.'
-  sudarymo_pagrindimas: 'Pašalintas antraštės ir puslapio triukšmas, paliktas citatos remiamas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Ketverių metų seimas|Ketverių metų seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Rusija; mentioned_event: [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Švedija'
-  temporaliniai_duomenys: 'įvykio data: 1791 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas antraštės ir puslapio triukšmas, paliktas citatos remiamas faktas.'
   pagrindžia:
     - c-001
 
@@ -68,12 +62,8 @@ Nenurodyta
 - t-003
   global_id: t-78623
   teiginys: 'Ketverių metų seimas atmetė siūlymą sudaryti karinę sąjungą su Rusija ir, Prūsijos palaikomas, ėmėsi reformų.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir palikta aiški faktinė esmė.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=02498c65274031b56772df9c0d39e6ff9e4695a0c846f5786052a34de55b52ae; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -98,7 +88,6 @@ Nenurodyta
     kija, o dar anksčiau su Švedija, Rusija vėl
     sutelkė dėmesį į ATR.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -117,7 +106,6 @@ Nenurodyta
     sija ir, Prūsijos palaikomas,
     ėmėsi reformų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -136,7 +124,6 @@ Nenurodyta
     dėjo leisti padidinti Respublikos kariuomenę ir bent kiek
     praplėsti karaliaus valdžią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

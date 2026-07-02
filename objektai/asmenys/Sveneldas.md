@@ -21,16 +21,6 @@ Vla dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul tą Didžiaja
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 166016-166548; hash=10f3cd0d8bae921906eaa744d7844fc51994c7aa63105313082d39ce9027308c; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Naugardas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sveneldas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sveneldas" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Slavai.md#claim-t-188343|Slavai]]: Narbutas aiškino, kad slavai rusinai Perūno kultą iškilmingai perėmė tik po Vladimiro Didžiojo ir Sveneldo veiksmų.
 ## Reikšmingi paminėjimai
 - c-001
@@ -47,9 +37,7 @@ Vla dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul tą Didžiaja
     rusinai negarbino Jupiterio su tokiomis iškilmėmis ir, aišku,
     jis buvo garbinamas ne Perūno vardu.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

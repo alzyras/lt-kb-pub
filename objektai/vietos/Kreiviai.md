@@ -27,20 +27,8 @@ Dusburgietis teigia, kad akmenos krante, Kreivių kaime (Jucaičių apyl.
 - t-001
   global_id: t-58699
   teiginys: 'Kreivių kaime, kairiajame Akmenos krante, yra Pilės kalva su ovalia aikštele ir terasomis papėdėje.'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti konkretų faktą apie Kreiviuose esančią kalvą.'
-  susije_objektai: 'mentioned_place: Kaimas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 214596-215421; hash=7a4266444a727486b4ac0fd1feedcd6e3d69da6bc5fc4aed1a65ac880bd0de89; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaimas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kreiviai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kreiviai" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Mickevičius J. Putvės pilis XIV amžiuje: Pūtvės pilis ir laukas siejami su Pūtvės kaimu prie Akmenos, į pietryčius nuo Šilalės, arba su gretimo Kreivių kaimo piliakalniu.
 - susijęs iš Mickevičius J. Putvės pilis XIV amžiuje: Kreiviai, anksčiau vadinti Kryvos vardu, ir gretimas Romės Laukas galėjo būti susiję su pagonišku kultu.
 - susijęs iš [[objektai/autoriai/Tarasenka P.md#claim-t-64857|Tarasenka P]]: P. Tarasenkos veikale „Pėdos“ Velnių stalo vieta žemėlapyje pažymėta netiksliai.
@@ -61,7 +49,6 @@ Dusburgietis teigia, kad akmenos krante, Kreivių kaime (Jucaičių apyl.
     netiksliai). Vad., Kreiv- resp. Kriv-  ir Rom- vietovardžių  ir atitinkamų archeologinių
     paminklų komplekso esama ir prie Akmenos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

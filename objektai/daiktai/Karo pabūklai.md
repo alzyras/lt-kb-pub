@@ -43,21 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-59688
   teiginys: 'Brolis Gerhardas anksčiau garsėjo kaip gabus račius ir didelis karo pabūklų meistras.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'llm_object: Marienburgas; llm_object: [[objektai/daiktai/Karo pabūklai|Karo pabūklai]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_place: Marienburgas; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Gerhardas|Gerhardas]] pastatė [[objektai/daiktai/Karo pabūklai|Karo pabūklai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9ab61137f9735df7488e35e4b0fe334f0347b2148f8d2e9b989c3d7f5b00335c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Marienburgas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gerhardas (valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Marienburgas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Gerhardo gyvenimą Marienburgo pilyje.
 
 ## Reikšmingi paminėjimai
 
@@ -77,7 +64,6 @@ Nenurodyta
     būdo; kad šitai būtų akivaizdu, jie  jį užklojo balta marška, kaip paprastai užklojami
     numirėliai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

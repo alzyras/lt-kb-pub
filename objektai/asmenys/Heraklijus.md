@@ -30,50 +30,15 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
 - t-001
   global_id: t-60320
   teiginys: 'Apie 600 m. imperatorius Heraklijus nugalėjo persų karalių Chosrovą ir parsigabeno Viešpaties kryžiaus dalį.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Chosrovas|Chosrovas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Chosrovas|Chosrovas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Heraklijus|Heraklijus]] kariavo prieš [[objektai/asmenys/Chosrovas|Chosrovas]]'
-  temporaliniai_duomenys: 'įvykio data: 600 m; įvykio data: apie 600 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=07f6c576a85895871a04e8c491abf3d6e0f9c8c9c36fe4d3c169494faf6db975; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Chosrovas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Heraklijus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Chosrovas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Heraklijaus karą prieš Chosrovą.
 
 <a id="claim-t-184086"></a>
 - t-002
   global_id: t-184086
   teiginys: 'Apie 600 m. imperatorius Heraklijus atstatė Dievo bažnyčias ir sutvarkė Chosrovo nuniokotą Šventąją žemę.'
-  teiginio_tipas: 'saltinio_teiginys'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citatos informacija.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Chosrovas|Chosrovas]]; mentioned_person: [[objektai/asmenys/Chosrovas|Chosrovas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Heraklijus|Heraklijus]] kariavo prieš [[objektai/asmenys/Chosrovas|Chosrovas]]'
-  temporaliniai_duomenys: 'įvykio data: 600 m; įvykio data: apie 600 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citatos informacija.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=07f6c576a85895871a04e8c491abf3d6e0f9c8c9c36fe4d3c169494faf6db975; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Chosrovas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Heraklijus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Chosrovas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Heraklijaus karą prieš Chosrovą.
 - susijęs iš [[objektai/asmenys/Chosrovas.md#claim-t-184051|Chosrovas]]: Apie 600 m. persų karalių Chosrovą nugalėjo imperatorius Heraklijus, susigrąžinęs Viešpaties kryžiaus dalį.
 - susijęs iš [[objektai/asmenys/Chosrovas.md#claim-t-60257|Chosrovas]]: Apie 600 m. persų karalių Chosrovą nugalėjo imperatorius Heraklijus, susigrąžinęs Viešpaties kryžiaus dalį.
 - susijęs iš Šventoji žemė: Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė po Heraklijaus pasitraukimo.
@@ -95,7 +60,6 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
 
                             78. Apie šventosios žemės reikalus
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

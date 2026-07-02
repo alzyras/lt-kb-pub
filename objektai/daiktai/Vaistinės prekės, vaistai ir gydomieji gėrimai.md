@@ -55,9 +55,6 @@ Nenurodyta
   teiginys: 'Vaistinėje buvo žaliavų, užjūrio ir vietinių preparatų, medikamentų bei medžiagų atsargų, kurios buvo surašytos, persvertos ir įvertintos.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 390557-391224; hash=8181aaf90e051fcd16fb9bb15e5fd1f5c509576e3d050dbbc522fc398d8ace49; match=whitespace_regex
-  sprendimo_priezastis: gap::items
 
 <a id="claim-t-55056"></a>
 - t-002
@@ -65,9 +62,6 @@ Nenurodyta
   teiginys: 'Kol vaistinėje buvo leidžiama laikyti ir pardavinėti degtinę, metinės pajamos galėjo siekti 30 000 auksinų, o po draudimo jos sumažėjo.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 390649-391594; hash=ed7add2ecff483487a2cac3380a7990153f416cf02c715c265bc626c1310268f; match=whitespace_regex
-  sprendimo_priezastis: gap::items
 
 <a id="claim-t-55057"></a>
 - t-003
@@ -75,30 +69,18 @@ Nenurodyta
   teiginys: 'Dalis medikamentų buvo skiriama kolegijoje sergantiems asmenims, kuriems vaistininkai turėjo be užmokesčio duoti vaistų.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 392872-393148; hash=306daf91536960187edbe796172cba1781ff39c7bb153227ccaa64f477eab120; match=whitespace_regex
-  sprendimo_priezastis: gap::items
 
 <a id="claim-t-172859"></a>
 - t-004
   global_id: t-172859
   teiginys: 'Didžioji iš Krokuvos atgabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia.'
-  sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 390649-391594; hash=ed7add2ecff483487a2cac3380a7990153f416cf02c715c265bc626c1310268f; match=whitespace_regex
-  sprendimo_priezastis: gap::items
 
 <a id="claim-t-172862"></a>
 - t-005
   global_id: t-172862
   teiginys: '1780 m. vaistinė kelių vaistininkų dėka buvo išsiplėtusi ir pasiekusi klestintį būvį.'
-  sudarymo_pagrindimas: 'Įvardyta numanoma vaistinė ir pašalintas kontekstinis, neaiškus įvardis.'
-  temporaliniai_duomenys: 'įvykio data: 1780 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Įvardyta numanoma vaistinė ir pašalintas kontekstinis, neaiškus įvardis.'
   pagrindžia:
     - c-003
 
@@ -106,8 +88,6 @@ Nenurodyta
 - t-006
   global_id: t-172863
   teiginys: 'Aleksandro laikais Vilniuje pirmą kartą minimi gydytojas ir vaistinė.'
-  sudarymo_pagrindimas: 'Reikia mažiau vaizdingos ir enciklopediškesnės formuluotės.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/indiktas|indiktas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Julijona (Algirdo žmona)|Julijona (Algirdo žmona)]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/daiktai/Akademinės vaistinės prekės medikamentai, medžiagos ir degtinė.md#claim-t-87043|Akademinės vaistinės prekės medikamentai, medžiagos ir degtinė]]: Surašius, persvėrus ir įvertinus Akademinės vaistinės medžiagas, jų vertė buvo mažesnė 28 707 auksinais ir 12 grašių.
@@ -156,7 +136,6 @@ Nenurodyta
     tų visų medikamentų bei medžiagų vertė buvo mažesnė 28
     707 auksinais ir 12 grašių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -171,7 +150,6 @@ Nenurodyta
     Collegio sergantiems asmenims, kuriuos vaistininkams rei­
     kia tenebantur be užmokesčio gydyti ir duoti vaistų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -200,7 +178,6 @@ Nenurodyta
     vaistinėse pardavinėti degtinę, tad pajamos tiesiog in tertio
     sorte krito.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -234,7 +211,6 @@ Nenurodyta
     i dwa skotcy [Vilniuje, birželio 9-ta
     diena, 2 indiktas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -258,7 +234,6 @@ Nenurodyta
     ba bei saugumu, bet akivaizdaus pagerėjimo valdant miestą
     nebuvo matyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

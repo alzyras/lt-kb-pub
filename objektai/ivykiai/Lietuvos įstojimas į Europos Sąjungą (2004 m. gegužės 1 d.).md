@@ -39,8 +39,6 @@ Nenurodyta
 - t-001
   global_id: t-75222
   teiginys: 'Lietuvai tapus ES nare, šalyje įsigaliojo Sąjungos nuostatos valstybių narių gyventojams.'
-  sudarymo_pagrindimas: 'Reikia pašalinti neaiškų įvardį ir pataisyti stilių.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Europa'
   pagrindžia:
     - c-001
 
@@ -48,8 +46,6 @@ Nenurodyta
 - t-002
   global_id: t-75223
   teiginys: 'Po Lietuvos įstojimo į ES padidėjo šalies prekybos ir eksportuojamų prekių gamybos apimtys.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -67,7 +63,6 @@ Nenurodyta
     konsulinių kiekvienos šalies narės įstaigų; peticijos (kolektyvinio prašy-
     mo) Europos parlamentui teisę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -87,7 +82,6 @@ Nenurodyta
     ir netiesiogiai kištis į ūkio funkcionavimą ir suteikė daugiau laisvių ir ga-
     limybių Lietuvos įmonėms bei vartotojams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

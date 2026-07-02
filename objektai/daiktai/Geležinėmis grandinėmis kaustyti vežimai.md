@@ -43,38 +43,15 @@ Nenurodyta
 - t-001
   global_id: t-40714
   teiginys: 'Prie Vorsklos Vytauto įtvirtintoje stovykloje buvo geležinėmis grandinėmis kaustytų vežimų, patrankėlių, patrankų ir arbaletų.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Arbaletai|Arbaletai]]; mentioned_person: [[objektai/asmenys/Edigėjus|Edigėjus]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vorskla'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 217652-218060; hash=3d611c93c1dde839cec3196a54823625826868ff22bd4d6d252b9ded9c57b4e8; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Arbaletai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Geležinėmis grandinėmis kaustyti vežimai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Arbaletai: mention_match, thing, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Geležinėmis grandinėmis kaustyti vežimai" parinktas kaip owner_note_path. Targetas "Arbaletai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-40715"></a>
 - t-002
   global_id: t-40715
   teiginys: 'Vorsklos mūšyje Timūr-Kutluko totoriai paėmė Vytauto kariuomenės gurguolę, vežimus su geležinėmis grandinėmis, patrankas, arbaletus ir daug turto.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nepakankamai aiškiai susieja objektą su mūšio kontekstu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Arbaletai|Arbaletai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vorskla'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2d5544fb1850a7b1a4083c815e41b271a094a873e1ff7a5218de59c5feeeee08; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Arbaletai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Geležinėmis grandinėmis kaustyti vežimai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Arbaletai: mention_match, thing, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Geležinėmis grandinėmis kaustyti vežimai" parinktas kaip owner_note_path. Targetas "Arbaletai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -92,7 +69,6 @@ Nenurodyta
     Ordos ženklais. Tuomet Vytautas įsakė
     savo kariams ruoštis kautynėms.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -116,7 +92,6 @@ Nenurodyta
     Vytautas ir jo brolis Žygimantas bėgo,
     persėsdami nuo žirgo ant žirgo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

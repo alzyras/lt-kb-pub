@@ -33,11 +33,6 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 - t-001
   global_id: t-78932
   teiginys: 'Rygos vyskupas Albertas nugalėjo Jersikos karalių Visvaldį.'
-  sudarymo_pagrindimas: 'Citata leidžia patikslinti, kad Visvaldis buvo Jersikos karalius.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas (Rygos vyskupas)|Albertas (Rygos vyskupas)]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Ryga'
-  temporaliniai_duomenys: 'įvykio data: 1202 m.; įvykio data: 1204 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia patikslinti, kad Visvaldis buvo Jersikos karalius.'
   pagrindžia:
     - c-003
 
@@ -45,23 +40,15 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 - t-002
   global_id: t-78933
   teiginys: 'Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas.'
-  sudarymo_pagrindimas: 'Pradinis teiginys negramatiškas, bet citata aiškiai pagrindžia pataisytą sakinį.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=eead83f95fb1a36c357656f62b8efadca93ff0be4e930995afd87792fcc83e20; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 <a id="claim-t-78934"></a>
 - t-003
   global_id: t-78934
   teiginys: 'Vyskupas Albertas 1202 m. savo vyskupijoje įkūrė ordiną, kurį 1204 m. patvirtino popiežius.'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti tikslesnį faktą apie Alberto įkurtą ordiną.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3da88a706691eaa48523418603507445e37c26d1a967c9df6dedb2cd284a33fa; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Albertas (Brandenburgo markgrafas).md#claim-t-60227|Albertas (Brandenburgo markgrafas)]]: Brandenburgo markgrafas Albertas buvo tarp didikų, pritarusių, kad Fridrichas prašytų popiežiaus patvirtinti ligoninę.
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89608|Albertas iš Meiseno]]: Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie burnos pasirodė komunijos paplotėlis.
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89609|Albertas iš Meiseno]]: Albertas iš Meiseno, traukdamas su broliais prieš tikėjimo priešus, pasitraukė nuo kitų ir meldėsi dėl Kristaus kūno priėmimo.
@@ -114,7 +101,6 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     pijoje. Jo 1202 m. įkurtą ordiną 1204 m. popiežius patvirtino ir
     jam suteikė templininkų įstatus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -131,7 +117,6 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     Kol buvo gyvas vysk. Albertas († 1229 m.), Livonijoje nau-
     jos vokiečių valstybės valdovas buvo jis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -163,7 +148,6 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     tis Konradas ir padovanojo
     jiems Kulmo žemę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

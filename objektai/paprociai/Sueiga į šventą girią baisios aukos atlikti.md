@@ -34,7 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-07805
   teiginys: 'Žemaičių giminių pasiuntiniai nustatytu laiku sueidavo į šventą girią atlikti baisios aukos pagal seną įprotį.'
-  sudarymo_pagrindimas: 'Citata pagrindžia sueigą, dalyvius, vietą ir aukos atlikimą; sakinys patikslintas pagal šaltinį.'
   pagrindžia:
     - c-001
     - c-002
@@ -48,7 +47,6 @@ Nenurodyta
          visų giminių tos tautos sueina į šventą girią senu įpročiu baisios aukos atlikti; ir taip, nugalavę
          akivaizdoj žmogųį aukauja pagal nuožmų įprotį, godoja^100 dar ir kitaip tą girią: nieksai tenai
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -60,7 +58,6 @@ Nenurodyta
     negali, negut^101 surištas, įžengti, kaipo nenusižeminęs prieš galybę aukščiausią. Jei netyčiomis jis
          tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

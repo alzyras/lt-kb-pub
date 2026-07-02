@@ -30,43 +30,15 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
 - t-001
   global_id: t-36164
   teiginys: '1420 m. pradžioje Breslave buvo sušauktas Vokietijos kunigaikščių ir kurfiurstų suvažiavimas.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Breslave sušauktą suvažiavimą.'
-  susije_objektai: 'mentioned_place: Vokietija; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Anglija; mentioned_place: Kulmija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Torno'
-  temporaliniai_duomenys: 'įvykio data: iki 1420 m.; įvykio data: 1420 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Breslave sušauktą suvažiavimą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=be4774ac8ba0b38ebc38854cfd47d3f71ed6ac0ce43534370007c249b0e25189; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vokietija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Breslavas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vokietija: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Breslavas" parinktas kaip owner_note_path. Targetas "Vokietija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-36165"></a>
 - t-002
   global_id: t-36165
   teiginys: '1420 m. Breslavo suvažiavime Zigmantas Liuksemburgietis patvirtino 1411 m. Torno sutartį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas Liuksemburgietis|Zigmantas Liuksemburgietis]]; mentioned_place: Torno'
-  temporaliniai_duomenys: 'įvykio data: 1411 m.; įvykio data: 1420 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=44fe4291c8a2125be27c07fa6d5e720f661083ecdb192cf3ae015098f8042acc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Torno: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Breslavas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Torno: mention_match, place, gap=67
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Breslavas" parinktas kaip owner_note_path. Targetas "Torno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Jonas Kropidla.md#claim-t-35148|Jonas Kropidla]]: Kujavų vyskupas Jonas Kropidla Breslave pareiškė imperatoriui Zigmantui, kad karaliaus vardo vertas tik Vytautas.
 - susijęs iš [[objektai/asmenys/Jonas Kropidła.md#claim-t-35150|Jonas Kropidła]]: Kujavų vyskupas Jonas Kropidła Breslave imperatoriui Zigmantui pareiškė, kad karaliaus vardo vertas tik Vytautas.
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184438|Martynas V]]: Popiežiui Martynui V Vytautas ir Jogaila pateikė bylą prieš Ordiną, kovodami prieš Breslavo sprendimą.
@@ -96,7 +68,6 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
     galutinis sprendimas, kas čia ir buvo padaryta: Zigmantas L.
     patvirtino Torno sutartį (1411).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -117,7 +88,6 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
     statyti pilis ir daryti kitokius sutvirtinimus; Lenkijos preten­
     zijas valdyti Pamario, Kulmijos ir Michalovo žemes paneigė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

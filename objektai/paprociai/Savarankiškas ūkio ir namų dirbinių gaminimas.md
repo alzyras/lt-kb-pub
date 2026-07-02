@@ -34,8 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-07803
   teiginys: 'Senovės lietuviai patys kalė namų statybos ir dailidystės įrankius, nes manė, kad pamatytą daiktą žmogus turi gebėti pasidirbti.'
-  sudarymo_pagrindimas: 'Citata pagrindžia savarankišką įrankių gaminimą ir požiūrį į gebėjimą juos pasidirbti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Strūnijo|Strūnijo]]'
   pagrindžia:
     - c-001
 
@@ -50,7 +48,6 @@ Nenurodyta
         paregėjęs, tą turi padirbti. Ir taip jų grąžtai, kaltai, Strūnos^570 , skaptai, skrytulės^571 , kirviai, skliutai
         yra pačių dirbti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

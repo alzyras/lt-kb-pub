@@ -21,16 +21,6 @@ Narbuto pastaboje Rusijos gilumoje gyvenantys mordviai iki šiol laikėsi papro�
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 618086-618623; hash=9acc1b96dcf5c52ef45c00ee68d5b973de7be995b8de360e457cd83b3ce1f142; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Rusijos giluma: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mordviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Rusijos giluma: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad mordviai gyvena Rusijos gilumoje.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -47,10 +37,8 @@ Narbuto pastaboje Rusijos gilumoje gyvenantys mordviai iki šiol laikėsi papro�
     roliukų, didesnius per juosmenį, prisiūtus prie marškinių. Tokios mer­
     gaitės mažiausią sujudėjimą galima išgirsti net patamsyje.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -33,27 +33,13 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
 - t-001
   global_id: t-60852
   teiginys: 'Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Wonsdorff ir Wansdorf.'
-  sudarymo_pagrindimas: 'Citata patvirtina Olivos kronikoje pateiktas pavadinimo formas ir jų aiškinimą.'
-  susije_objektai: 'mentioned_place: Oliva'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6a8cadcdf4395ccd8a7ae17c486a76122128daedb572ad71db1b11e2aa28eeb0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Oliva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Olivos kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Oliva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Olivos kronika" parinktas kaip owner_note_path. Targetas "Oliva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60853"></a>
 - t-002
   global_id: t-60853
   teiginys: 'Olivos kronikoje Cristburgo pavadinimas pateikiamas formomis Kirsburg ir Kirsberg.'
-  sudarymo_pagrindimas: 'Citata patvirtina Olivos kronikoje pateiktas vietovardžio formas.'
-  susije_objektai: 'mentioned_place: Oliva; mentioned_place: Kulmas; mentioned_place: Prūsija'
   pagrindžia:
     - c-006
 
@@ -61,137 +47,50 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
 - t-003
   global_id: t-60854
   teiginys: 'Olivos kronikoje atitinkama vieta perteikta žodžiais „tradidit illis“, reiškiančiais „jiems perdavė“.'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas ir su OCR triukšmu; citata palaiko teiginį apie Olivos kronikos formuluotę.'
-  susije_objektai: 'mentioned_place: Oliva'
   pagrindžia:
     - c-009
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 138663-138748; hash=ad0f438febe75c6d3a1c6ee77e64cb095353ed3dde08c5ae56d8f2f26db40c15; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Oliva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Olivos kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Oliva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Olivos kronika" parinktas kaip owner_note_path. Targetas "Oliva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60855"></a>
 - t-004
   global_id: t-60855
   teiginys: 'Senesnėje Olivos kronikoje: generatio [...] Bogatini (SRP, 1, p. 680).'
-  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_place: Oliva'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 255568-255721; hash=baae9987703c172c802baa421cc242b2eac7bd9ab778a0a50c6247ef0a88698e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Oliva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Olivos kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Oliva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Olivos kronika" parinktas kaip owner_note_path. Targetas "Oliva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60856"></a>
 - t-005
   global_id: t-60856
   teiginys: 'Senojoje Olivos kronikoje nurodyta, kad per 1243 (1242?) m. birželio 15 d. kautynes Sventopelkas buvo sudaręs paliaubas su Ordinu.'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų teiginį apie Olivos kronikoje pateiktą informaciją.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: Kulmas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Oliva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kulmas; mentioned_place: Pamedė'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 267246-267365; hash=52041efc77c873dc270308f0fab1899033c9e06c328e766108d3bb8b2b21b62a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Oliva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Olivos kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Oliva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Olivos kronika" parinktas kaip owner_note_path. Targetas "Oliva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60857"></a>
 - t-006
   global_id: t-60857
   teiginys: 'Olivos kronikoje vietovardis pateikiamas formomis Kirske ir Kirsko.'
-  sudarymo_pagrindimas: 'Citata palaiko trumpą faktinį teiginį apie kronikoje vartojamas vietovardžio formas.'
-  susije_objektai: 'mentioned_place: Oliva'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c2de83f387f119f7e6ea399a7399f21a3c8aa1e4c0271d89022b3755a6886016; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Oliva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Olivos kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Oliva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Olivos kronika" parinktas kaip owner_note_path. Targetas "Oliva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60858"></a>
 - t-007
   global_id: t-60858
   teiginys: 'Senojoje Olivos kronikoje aiškiau aprašytas Dusburgiečio minimas Pamedės niokojimas.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo, kad tas epizodas aiškesnis Senojoje Olivos kronikoje.'
-  susije_objektai: 'mentioned_place: Oliva; mentioned_place: Pamedė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 296785-297478; hash=5c0330f5b79c2793d673d52b6d491b6cd0e61c6ec38aafe5ad92b9fcd82780d7; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Sventopelkas buvo sudaręs paliaubas su Ordinu.
 
 <a id="claim-t-60860"></a>
 - t-008
   global_id: t-60860
   teiginys: 'J. Venta analizavo Olivos kronikos šaltinius ir svarstė išlikusios Dusburgiečio kronikos redakciją.'
-  sudarymo_pagrindimas: 'Citata palaiko aiškų teiginį apie Olivos kronikos šaltinių analizę.'
-  susije_objektai: 'mentioned_place: Oliva; mentioned_author: [[objektai/autoriai/J. Poverskis|J. Poverskis]]; mentioned_author: [[objektai/autoriai/J. Venta|J. Venta]]; mentioned_place: Pamaris; mentioned_place: Venta'
-  temporaliniai_duomenys: 'įvykio data: 1326 m.; įvykio data: 1330 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų teiginį apie Olivos kronikos šaltinių analizę.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 323579-323794; hash=ce18c520c3d3e8b2b7d69e556a3f6f716620bff5d231dd5939eeb8dafdcc4a09; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Oliva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Olivos kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Oliva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Olivos kronika" parinktas kaip owner_note_path. Targetas "Oliva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60861"></a>
 - t-009
   global_id: t-60861
   teiginys: 'Olivos kronikoje Renseno ežeras minimas lotyniška forma „ad lacum qui dicitur Rensin“.'
-  sudarymo_pagrindimas: 'Citata patvirtina Olivos kronikoje vartotą Renseno ežero pavadinimo formą.'
-  susije_objektai: 'mentioned_place: Oliva; mentioned_place: Torunė; mentioned_place: Vysla'
   pagrindžia:
     - c-008
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 354777-354910; hash=0e48b777cb08e0b7543f66c912162c9f9b2be76a19e97d18198474b699c102cb; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Oliva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Olivos kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Oliva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Olivos kronika" parinktas kaip owner_note_path. Targetas "Oliva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -202,7 +101,6 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     240  Dusburgietis aprašo ne vien tik Reisių (Riseno) valsčiaus, bet visos Pamedės
     niokojimą. Apie tai aiškiau Senojoje Olivos kronikoje (SRP, 1, p. 678).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -222,7 +120,6 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     3-oji 1326—1330 m. redakcijos neišliko), arba neišlikusios 1-osios 1326 m. redakcijos
     cenzūruotas antrininkas94.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -235,7 +132,6 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     249 D.— viri, didi Gobotini, Jer.— dî Gobotinin. Senesnėje Olivos kronikoje: generatio
     [...] Bogatini (SRP, 1, p. 680).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -255,7 +151,6 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     602), Wansdorf (ten pat, 1, p. 686). Tai suvokietintas D. III, 75 paragrafe minimo
     Unzatrapio (GAO, p. 190; Instraupio —Lietuvių karas, p. 147) pavadinimas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -268,7 +163,6 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     330 D.— Tirsko (III, 175), Jer — Tirske, Dirske; Olivos kronika— Kirske (SRP, 5, p.
     602), Kirsko (SRP, 1, p. 685). Tirška (Salys A.).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -285,7 +179,6 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     Kirsberg (ten pat, 1, p. 683); Prūsijos trumpojoje eiliuotoje kronikoje Kirsburg (ten pat,
     2, p. 2).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -304,7 +197,6 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     HP, 1, 1, p. 448; Matusas J., Senovės prūsų..., p. 30—31; Lietuvių karas..., p. 133—134
     (Jasas R.); plg. Пашуто В. T., Борьба..., c. 71; Powierski J., Przyczyny..., p. 202).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -319,7 +211,6 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     p. 682; 5, 162). Tais vardais vadinta Renseno ežeras (XVI a.— jezioro Rządz), Vyslos
     deš. kranto atšaka  į pietus nuo Grudziondzo (Sch-K XV; SZCh, p. 112).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -331,7 +222,6 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   citata_originali: |
     167 D.— edificavit; Olivos kronika — tradidit illis (SRP, 1, p. 676) — jiems perdavė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

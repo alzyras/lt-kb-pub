@@ -45,25 +45,9 @@ Nenurodyta
 - t-001
   global_id: t-62819
   teiginys: '1255 m. magistras ir broliai pastatė Karaliaučiaus pilį, kurią Čekijos karaliaus garbei pavadino Karaliaus pilimi.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Sakinys yra gramatiškas, enciklopedinis ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Čekija; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
-  temporaliniai_duomenys: 'pastatymo data: 1255 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys yra gramatiškas, enciklopedinis ir paremtas citata.'
   pagrindžia:
     - c-001
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=707746c6f772ecbe2f43a89c3dff4e947e010ee64a40166ee11b0019c0320a86; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Čekija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karaliaučiaus, arba Tvankstės, pilies pastatymas (1255 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Čekija: mention_match, place, gap=26
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, arba Tvankstės, pilies pastatymas (1255 m.)" parinktas kaip owner_note_path. Targetas "Čekija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -80,7 +64,6 @@ Nenurodyta
     daiktas, per 4 km  į šiaurės rytus nuo dab. Kaliningrado centrinės aikštės, prie dab.
     automobilių  kelio Kaliningradas—Poleskas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,7 +83,6 @@ Nenurodyta
       324 D.— Quedenow, Jer.— Quedenowe; Kvedenava, valsčiaus centras, buvęs, galimas
     daiktas, per 4 km  į šiaurės rytus nuo dab.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -119,7 +101,6 @@ Nenurodyta
 
            73 (72).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified

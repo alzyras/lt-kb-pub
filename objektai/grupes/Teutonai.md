@@ -20,7 +20,6 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 - t-001
   global_id: t-07849
   teiginys: 'Teutonai pavergė pajūryje gyvenusius erulius ir kraštovardžiams pridėdavo savo žodį land.'
-  sudarymo_pagrindimas: 'Citatos palaiko konkretesnį faktą apie pavergimą ir vardų darybą.'
   pagrindžia:
     - c-001
     - c-002
@@ -415,7 +414,6 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
         _Samland_ , iš žodžių žem ir _land_ , tai yra Žemasis kraštas, kaipo viršiau minavojau, o gyventojus to
         krašto vadino _Samländer_ , tai yra žemaičiai, beje: žmonės, gyvenantys žemai, arba pajūriais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -428,7 +426,6 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
         nuvergė, tad nuo jų, kaipo žinovų Žemaičių jūros, apie tą rytų, arba aušros, kraštą išsijautojo^106 ir
         tais pačiais vardais vadino, pridėdami savo žodį _land_ – kraštas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

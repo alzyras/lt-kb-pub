@@ -27,7 +27,6 @@ Vartojamos formos: `veldėme`.
 - t-001
   global_id: t-07694
   teiginys: '`Veldėmė` šiame tekste reiškia paveldimą žemės nuosavybę.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]'
   pagrindžia:
     - c-001
     - c-002
@@ -36,8 +35,6 @@ Vartojamos formos: `veldėme`.
 - t-002
   global_id: t-07695
   teiginys: 'Veldėme laikytas gyvenimas ir gruntas, įgytas darbu ir galėtas dovanoti kaip savas daiktas.'
-  sudarymo_pagrindimas: 'Patikslintas ryšys su žodžio objektu ir pašalintas nepagrįstas šeimos motyvas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]'
   pagrindžia:
     - c-001
 
@@ -48,7 +45,6 @@ Vartojamos formos: `veldėme`.
   citata_originali: |
     Pirma žemė, arba gruntas, visuomenis buvo, ir, kurs kame buvo pragyvenęs, girios vidury namą sau pastrūnijęs, dirvas apsukui praplėšęs ir pievas praskynęs, tas tokį savo gyvenimą ir gruntą, tam gyvenimui priderantį, turėjo už savo veldėmę^1033 ir galėjo kaip tinkamas dovanoti kaip kokį daiktą, kurį būt savo nuopelnu įgijęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -60,7 +56,6 @@ Vartojamos formos: `veldėme`.
   citata_originali: |
     Dar Zigmantas III DLK, Augustu vadinamas, metuose 1557 savo valsčionų^1034 įstatymuose sako: „Lig šiol dar negal iš galvos lietuviams to iškulti, kurie vis taria^1035 , jog žemė esanti jų veldėme, kurios niekas nuo jų negalįs atimti neigi niekam dovanoti kaipo jų pelną.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

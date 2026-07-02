@@ -54,7 +54,6 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 - t-001
   global_id: t-10296
   teiginys: 'Lietuvių kariuomenė prie Strėvos upės pavijo grįžtantį priešą po Ordino niokojimų.'
-  susije_objektai: 'mentioned_place: Strėva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 
@@ -62,10 +61,6 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 - t-002
   global_id: t-10297
   teiginys: '1348 m. vasario 2 d. Strėvos kautynės vyko ties Žiežmarių brasta, o lietuviai ir rusų daliniai atakavo priešą ietimis ir lankais.'
-  susije_objektai: 'llm_object: [[objektai/ivykiai/Strėvos mūšis (1348 m.)|Strėvos mūšis (1348 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_place: Lietuva; mentioned_place: Strėva; mentioned_place: Žiežmariai; mentioned_object: [[objektai/zodynas/vyskupo teisėjas|vyskupo teisėjas]]; mentioned_place: Semba'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Strėvos mūšis (1348 m.)|Strėvos mūšis (1348 m.)]]; [[objektai/grupes/Rusai|Rusai]] dalyvavo mūšyje [[objektai/ivykiai/Strėvos mūšis (1348 m.)|Strėvos mūšis (1348 m.)]]'
-  temporaliniai_duomenys: 'įvykio data: 1348 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -73,40 +68,15 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 - t-003
   global_id: t-10298
   teiginys: 'Vygando kronika Strėvos mūšį sieja su Ordino maršalu, didžiuoju komtūru, didelės lietuvių ir rusų kariuomenės telkimu ir mirtinu susirėmimu prie Strėvos upės.'
-  susije_objektai: 'llm_object: [[objektai/ivykiai/Strėvos mūšis (1348 m.)|Strėvos mūšis (1348 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Strėva; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_person: [[objektai/asmenys/Zygfridas iš Da[he]nfeldo|Zygfridas iš Da[he]nfeldo]]; mentioned_place: Smolenskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Zygfridas iš Da[he]nfeldo|Zygfridas iš Da[he]nfeldo]] dalyvavo mūšyje [[objektai/ivykiai/Strėvos mūšis (1348 m.)|Strėvos mūšis (1348 m.)]]; [[objektai/grupes/Rusai|Rusai]] dalyvavo mūšyje [[objektai/ivykiai/Strėvos mūšis (1348 m.)|Strėvos mūšis (1348 m.)]]'
-  temporaliniai_duomenys: 'įvykio data: 1348 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bbc11b9fe0baf1bf397f7ac3edd2b98604ff4b05fb60de92146264212d3aff95; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Strėva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Strėvos mūšis (1348 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Strėva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Strėvos mūšis (1348 m.)" parinktas kaip owner_note_path. Targetas "Strėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-10299"></a>
 - t-004
   global_id: t-10299
   teiginys: 'Strėvos mūšis, nors ir nuostolingas, prisidėjo prie galingo Ordino spaudimo atremimo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Strėva; mentioned_author: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4ba1c3d0ccc1043f76b4917ff1b9dc2783e8ff074c612eda5abb1114e1b3b444; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Strėvos mūšis (1348 m.): 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Strėvos mūšis (1348 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Citata nurodo lietuvių veikimą pačiame mūšyje.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 ## Reikšmingi paminėjimai
 
@@ -121,7 +91,6 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     ir kt. apylinkės. Atgal grįžtantį priešą prie
     Strėvos upės pavijo Lietuvos kariuomenė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -141,7 +110,6 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     Daug ordino brolių žuvo, tarp jų Gdan-
     sko komtūras, Sembos vyskupo teisėjas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -159,7 +127,6 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     Jie vejasi grįžtantį maršalą. Ir atsitiko Marijos Įvesdinimo dieną [1348 m. vasario 2 d.
     J, kad vienu metu [suėję] prie Strėvos upės susiremia mirtiname mūšyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -180,7 +147,6 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
     navo Europos riteriams ir vis daugiau jų vi-
     liojo į talką Ordinui žygiuose prieš Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

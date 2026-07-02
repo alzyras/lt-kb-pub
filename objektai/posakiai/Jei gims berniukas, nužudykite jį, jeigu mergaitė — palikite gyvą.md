@@ -21,20 +21,8 @@ Dusburgietis teigia, kad kaip tas faraonas, kuris, norėdamas sunaikinti Izraeli
 - t-001
   global_id: t-59099
   teiginys: 'Dusburgiečio pasakojime galindai nutarė žudyti gimusias mergaites, o berniukus palikti karui.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir remiasi bibliniu palyginimu; faktinis branduolys aiškiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_place: Galinda'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 205853-206484; hash=1eb57352219fea489e06562b97b11343c0ab0ed1d2ac226c94e8184769c751b2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Galinda: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Galinda: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą" parinktas kaip owner_note_path. Targetas "Galinda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -52,11 +40,9 @@ Dusburgietis teigia, kad kaip tas faraonas, kuris, norėdamas sunaikinti Izraeli
     nes motinos, išvydusios gimusių mergaičių grožį, slapčiomis jas augino, vieningai
     nutarė nupjaustyti visoms savo žmonoms krūtis, kad neturėtų kuo maitinti kūdikių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
     - t-001

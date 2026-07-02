@@ -21,16 +21,6 @@ Narbutas rašo, kad Malachovskis bajoriškų pavardžių rinkinyje pateikė žin
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 722388-722797; hash=2adb9f00f079eb5a8a7ac5a75c9a1659ca101f7f04a62bd016591c1ba40d2f0b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Herbas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Malachovskis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Herbas: mention_match, thing, gap=92
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Malachovskis" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -46,9 +36,7 @@ Narbutas rašo, kad Malachovskis bajoriškų pavardžių rinkinyje pateikė žin
     šaltiniu remdamasis). Šis herbas, pavadintas Krunevičiaus vardu, ži­
     nomas ir Neseckiui.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

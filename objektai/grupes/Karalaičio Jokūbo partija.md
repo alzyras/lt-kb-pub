@@ -20,21 +20,8 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
 - t-001
   global_id: t-01344
   teiginys: 'Dauguma Karalaičio Jokūbo partijos šalininkų perėjo į Augusto pusę.'
-  sudarymo_pagrindimas: 'Pašalintas nuo konteksto priklausantis žodis „tuomet“.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; llm_object: [[objektai/asmenys/Augustas|Augustas]]'
-  semantiniai_rysiai: '[[objektai/grupes/Karalaičio Jokūbo partija|Karalaičio Jokūbo partija]] rėmė [[objektai/asmenys/Augustas|Augustas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3c0c8fe0285aaada4729a8fe14a4b8b5bca6d64df24ebafbc4a334f8a10ab526; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Augustas: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Karalaičio Jokūbo partija: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Augustas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Partijos šalininkai perėjo į Augusto pusę, todėl tai tiesiogiai rodo Augusto rėmimą.
 
 ## Reikšmingi paminėjimai
 
@@ -53,7 +40,6 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
     vas. Tuomet daugumas,
     ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pusę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

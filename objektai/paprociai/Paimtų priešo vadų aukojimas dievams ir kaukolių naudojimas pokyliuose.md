@@ -34,7 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-07829
   teiginys: 'Sugautus priešo vyresniuosius lietuviai aukodavo dievams gyvus sudegindami.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Malkinė|Malkinė]]'
   pagrindžia:
     - c-001
 
@@ -49,7 +48,6 @@ Nenurodyta
         apačia, sudegino. Jei buvo keletą vyresniųjų sugavę, tad lėmė, kurs būt vertesnis dievams aukauti,
         tą, kurį nulėmė, taip pat sudegino, kaip jei pirmąjį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

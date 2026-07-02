@@ -58,8 +58,6 @@ Sovietinės represinės institucijos partizaninio judėjimo atramai slopinti nau
 - t-001
   global_id: t-20825
   teiginys: 'Represinės institucijos viešai išniekindavo žuvusių partizanų kūnus, neleisdavo jų palaidoti ir slapčia užkasdavo pelkėse ar šiukšlynuose.'
-  sudarymo_pagrindimas: 'Perrašyta į aiškesnį sakinį, įtraukiant citatoje nurodytus slaptus užkasimus.'
-  susije_objektai: 'mentioned_place: Sibiras'
   pagrindžia:
     - c-001
 
@@ -86,7 +84,6 @@ Sovietinės represinės institucijos partizaninio judėjimo atramai slopinti nau
     miestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-
     čia užkasdavo pelkėse ar šiukšlynuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

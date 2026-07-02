@@ -29,43 +29,15 @@ Po triukšmingų puotų jis išvyko iš Vilniaus, tik kai kuriuos ponus apdovano
 - t-001
   global_id: t-67270
   teiginys: 'Išvykdamas iš Vilniaus caras Aleksandras I Oginskiui pareiškė, kad Lietuvos reikalų neleido sutvarkyti laiko stoka.'
-  sudarymo_pagrindimas: 'Pradinio teiginio įvardis „jis“ buvo neaiškus, todėl veikėjas įvardytas tiesiogiai.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Aleksandras I|Aleksandras I]]; mentioned_place: Lenkija; mentioned_place: Rusija; mentioned_place: Varšuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1812 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinio teiginio įvardis „jis“ buvo neaiškus, todėl veikėjas įvardytas tiesiogiai.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=92e4e7ce9ea2b6370246ae34132a9407082c151f3610c68e68d982d42be073c2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos reikalų neleidusi sutvarkyti laiko stoka: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos reikalų neleidusi sutvarkyti laiko stoka" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-67271"></a>
 - t-002
   global_id: t-67271
   teiginys: 'Pasiteisinimas laiko stoka buvo diplomatiškas atsikalbėjimas, skirtas nesugriauti Lietuvos bajorijos vilčių.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1812 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3bf3c0d742f24321d95fb4f7807302d19cfcdddd1933579c234499d8198cc0e1; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos reikalų neleidusi sutvarkyti laiko stoka: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=67
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos reikalų neleidusi sutvarkyti laiko stoka" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -84,7 +56,6 @@ Po triukšmingų puotų jis išvyko iš Vilniaus, tik kai kuriuos ponus apdovano
     kindamas Oginskiui pareiškė, kad Lietuvos reikalų neleidusi
     sutvarkyti laiko stoka.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -103,7 +74,6 @@ Po triukšmingų puotų jis išvyko iš Vilniaus, tik kai kuriuos ponus apdovano
     kad ši nepultų į Napoleono glėbį, kuris tuo tarpu su savo kariuo-
     mene stovėjo Vilkavišky ir jau buvo paskelbęs Rusijai karą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

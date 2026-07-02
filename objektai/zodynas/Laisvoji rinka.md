@@ -20,58 +20,22 @@ Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu deši
 - t-001
   global_id: t-75565
   teiginys: 'Po sovietinės sistemos žlugimo daugelis Lietuvos pramonės įmonių neteko žaliavų, rinkų ir užsakymų.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ir turi būti sutrumpintas į pilną sakinį.'
-  susije_objektai: 'mentioned_place: Estija; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Suomija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=26057bc03ba3b17eb244e899f99c6efa5ea7eea27cdf0f5453801b7843274113; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: prekiavo_su -> SSRS: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Suomija: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: SSRS: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Eksportas į SSRS tiesiogiai rodo Suomijos ekonominius mainus su SSRS.
 
 <a id="claim-t-75566"></a>
 - t-002
   global_id: t-75566
   teiginys: 'Suomijos, laisvosios rinkos šalies, ekonomika smuko daugiau kaip dešimt procentų, nes 22 proc. produkcijos Suomija eksportavo į SSRS.'
-  sudarymo_pagrindimas: 'Reikia sklandesnės formuluotės ir aiškaus antrojo sakinio dėmens subjekto.'
-  susije_objektai: 'llm_object: SSRS; mentioned_place: SSRS; mentioned_place: Estija; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Suomija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8e96ba956f7a8c962243970550def790a5921f4bc1d120a2cd0e7db97825d79a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Laisvoji rinka: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laisvoji rinka" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-75567"></a>
 - t-003
   global_id: t-75567
   teiginys: 'Paaiškėjus, kad dauguma buvusių kolūkiečių nesugeba ar neturi galimybių vieni ūkininkauti, pradėtos steigti žemės ūkio bendrovės, tačiau dauguma jų irgi nemokėjo tvarkytis naujais laisvosios rinkos pagrindais ir per keletą metų bankrutavo.'
-  sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=26057bc03ba3b17eb244e899f99c6efa5ea7eea27cdf0f5453801b7843274113; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Estija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Laisvoji rinka: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Estija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laisvoji rinka" parinktas kaip owner_note_path. Targetas "Estija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -89,7 +53,6 @@ Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu deši
     rinkos šalies, ekonomika patyrė didesnį negu dešimties procentų nuos-
     mukį, nes 22 proc. savo produkcijos Suomija eksportavo į SSRS.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -109,7 +72,6 @@ Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu deši
     nį Lietuvos AS pirmininką V. Landsbergį, nors sunkumai buvo senosios
     ekonomikos pasekmės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

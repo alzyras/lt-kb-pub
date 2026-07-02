@@ -28,8 +28,6 @@ tags:
 - t-001
   global_id: t-06878
   teiginys: 'Gediminas raštuose save titulavo Lietuvos ir daugelio rusų karaliumi.'
-  sudarymo_pagrindimas: 'Boilerplate pakeistas tiesiogiai citata paremtu faktu apie titulavimąsi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-001
 
@@ -44,7 +42,6 @@ tags:
     gelio rusų karalium" _(Rex lithuanorum et multorum
     ruthenorum)._
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

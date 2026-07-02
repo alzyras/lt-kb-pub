@@ -44,23 +44,8 @@ Nenurodyta
 - t-001
   global_id: t-20459
   teiginys: '1562 m. Radvila Juodasis įkūrė spaustuvę Nesvyžiuje, o 1569 m. Chodkevičiai įsteigė spaustuvę Zabluduve.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie spaustuvių steigimą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_place: Nesvyžius; mentioned_place: Zabluduvas; mentioned_place: Maskva; llm_object: Zabluduvas'
-  temporaliniai_duomenys: 'įkūrimo data: 1562 m.; įkūrimo data: 1569 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus sakinys apie spaustuvių steigimą ir yra paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=906a29d8f0a3bd9ac1d5f217f08e49f7bab47614ec66b7bacfa3b345b768aa1c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Zabluduvas: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Chodkevičiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Zabluduvas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sieja Chodkevičius su spaustuvės steigimu Zabluduve, nors spaustuvė nėra atskiras objektas.
 
 ## Reikšmingi paminėjimai
 
@@ -74,7 +59,6 @@ Nenurodyta
     pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
     jos pobūdį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

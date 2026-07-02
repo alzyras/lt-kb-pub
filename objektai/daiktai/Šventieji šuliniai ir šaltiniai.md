@@ -36,9 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 484276-484693; hash=8054e4c39f047809188eb52f0f8e250299e835e08f8c9cb215071346bf60e217; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -53,9 +50,7 @@ Nenurodyta
     krikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių
     šaltinių. Toks šaltinis vadinosi šulinys (Szulnis).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

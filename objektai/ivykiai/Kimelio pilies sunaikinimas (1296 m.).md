@@ -43,24 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-62317
   teiginys: '1296 m. Liudvikas iš Libencelės su broliais įsiveržė į Kimelio pilį, išžudė jos gyventojus ir sudegino pilį ligi pamatų.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo negramatiškas ir su šaltinio fragmentais; citata pagrindžia pilies sunaikinimą.'
-  susije_objektai: 'llm_object: Kimelis; mentioned_place: Kimelis; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]]; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1296 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo negramatiškas ir su šaltinio fragmentais; citata pagrindžia pilies sunaikinimą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 595635-596537; hash=f2fa9211dd336ae0d7d1173e83c9fe7c6b05eca334e5b27d8ae95fb87780aa56; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kimelis: 0.89
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Liudvikas iš Libencelės: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kimelis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kimetlio pilis buvo tiesiogiai užpulta ir sudeginta Liudviko vadovaujamo žygio metu.
 
 ## Reikšmingi paminėjimai
 
@@ -81,7 +65,6 @@ Nenurodyta
     išlaidų, nei triūso, tačiau nesėkmingai. Narsiai įsiveržę į pilį, jie išžudė jos gyventojus, o
     ją pačią, pakišę ugnį, ligi pamatu sudegino.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

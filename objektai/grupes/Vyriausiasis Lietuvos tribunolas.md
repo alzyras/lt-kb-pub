@@ -32,11 +32,6 @@ Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m
 - t-001
   global_id: t-113374
   teiginys: '1785 m. kovo 14 d. Vyriausiasis Lietuvos tribunolas Vilniuje pavedė Pabaisko bažnyčios fundacijos privilegiją įrašyti į Tribunolo viešąsias knygas.'
-  sudarymo_pagrindimas: 'Citata remia konkretų Tribunolo veiksmą, pašalintas priedų ir puslapių triukšmas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_place: Lenkija; mentioned_place: Mozyrius; mentioned_place: Ukmergė'
-  temporaliniai_duomenys: 'įvykio data: 1785 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata remia konkretų Tribunolo veiksmą, pašalintas priedų ir puslapių triukšmas.'
   pagrindžia:
     - c-001
 
@@ -44,9 +39,6 @@ Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m
 - t-002
   global_id: t-113375
   teiginys: 'Steponui Batorui 1578 m. Lenkijoje įkūrus bajorijos renkamą tribunolą, netrukus toks tribunolas buvo įsteigtas ir Lietuvoje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija; mentioned_place: Maskva'
-  temporaliniai_duomenys: 'įvykio data: 1578 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/ivykiai/Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.).md#claim-t-66984|Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)]]: Vyriausiasis Lietuvos tribunolas buvo svarstytas keliuose Lietuvos seimuose ir galutinai įkurtas 1581 m.
@@ -99,7 +91,6 @@ Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m
     riausiojo Tribunolo Teismas, aną [dokumentą] priėmę, pa­
     vedėme įrašyti į Tribunolo Viešąsias knygas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -117,7 +108,6 @@ Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m
     bunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir
     Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

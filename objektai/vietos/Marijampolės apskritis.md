@@ -28,16 +28,6 @@ amziai:
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 170064-170702; hash=1db98ffe7b2fa32aa9e110d46fe4eec0e07166654606a4afcf378ab302593ad3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Marijampolės apskritis: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lokaičiai: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Marijampolės apskritis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Lokaičiai tiesiogiai lokalizuojami Marijampolės apskrityje.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -57,10 +47,8 @@ amziai:
     jas, man pasakojo: „Gavau varinį žiedą su puse colio pločio,
     11 colių diametro“.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

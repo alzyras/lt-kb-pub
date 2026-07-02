@@ -31,20 +31,8 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
 - t-001
   global_id: t-30255
   teiginys: 'Getautas su Rumbaudu, Galminu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Klausigaila|Klausigaila]]; mentioned_person: [[objektai/asmenys/Vasibutas|Vasibutas]]; mentioned_place: Nevėžis; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Nemunas; mentioned_place: Raseiniai; llm_object: Nevėžis'
-  semantiniai_rysiai: '[[objektai/asmenys/Getautas|Getautas]] keliavo į Nevėžis'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=60804368537f848b2239958e2de792fd7ac31afa6493de483cea2d7de95c527e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Nevėžis: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Getautas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Nevėžis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Getautas priklauso asmenų grupei, kuri persikėlė per Nevėžį.
 
 ## Reikšmingi paminėjimai
 
@@ -59,7 +47,6 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
     bajoras « Clawssegail » 1390 Karaliaučiuje su kitais Žemaičių kilmin­
     gaisiais buvo pažadėjęs remti į ordiną pabėgusį Vytautą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

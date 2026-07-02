@@ -42,21 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-62115
   teiginys: 'Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pašalinta antraštė, fragmentas ir neaiški nuoroda „šitai“.'
-  susije_objektai: 'llm_object: Labguva; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Labguva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2e8dd04842d7728b6e5fd0952df2e2e30da85ee3613e503c423800ce8a00467d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Labguva: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skalviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Labguva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad skalvių pasiųsti vyrai staiga užėmė Labguvą.
 
 ## Reikšmingi paminėjimai
 
@@ -75,11 +62,9 @@ Nenurodyta
 
       469  D.— Ramige.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
     - t-002

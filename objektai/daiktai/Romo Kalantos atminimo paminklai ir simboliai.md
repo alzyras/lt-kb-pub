@@ -41,8 +41,6 @@ Nenurodyta
 - t-001
   global_id: t-45538
   teiginys: 'Užsienyje gyvenantys lietuviai statė Romo Kalantos paminklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose.'
-  susije_objektai: 'llm_object: [[objektai/daiktai/Romo Kalantos atminimo paminklai ir simboliai|Romo Kalantos atminimo paminklai ir simboliai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] pastatė [[objektai/daiktai/Romo Kalantos atminimo paminklai ir simboliai|Romo Kalantos atminimo paminklai ir simboliai]]'
   pagrindžia:
     - c-001
 
@@ -50,8 +48,6 @@ Nenurodyta
 - t-002
   global_id: t-45539
   teiginys: 'Romo Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą, o kauniečiai kasmet minėdavo gegužės 14-ąją.'
-  sudarymo_pagrindimas: 'Reikia išskleisti inicialą į pilną asmens vardą ir pavardę pagal objekto pavadinimą.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -69,7 +65,6 @@ Nenurodyta
     tautines šventes, viešose vietose piešdavo tautinio valstybingumo simbo-
     lius – sovietų valdžia visiškai nebekontroliavo Lietuvos visuomenės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -84,7 +79,6 @@ Nenurodyta
     R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
     klausimą. Kiekvienais metais kauniečiai paminėdavo gegužės 14-ąją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

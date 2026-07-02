@@ -22,12 +22,8 @@ IL 4U 326 ## Puslapis 343 IV KNYGA tautoms, kurios paprastai patenka jų globai,
 - t-001
   global_id: t-86622
   teiginys: 'Apskritys turėjo būti perduotos tik užstato, o ne dominijos teise.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia skirtį tarp užstato ir dominijos teisės.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 639461-639800; hash=b46470533976ce440e44e53f91298f33e1f1284b66722dc66fec796e1b49fa46; match=whitespace_regex
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -49,7 +45,6 @@ IL 4U 326 ## Puslapis 343 IV KNYGA tautoms, kurios paprastai patenka jų globai,
     juolab kad šios apskritys mums turi būti perduotos tiktai
     užstato, o ne dominijos teise.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

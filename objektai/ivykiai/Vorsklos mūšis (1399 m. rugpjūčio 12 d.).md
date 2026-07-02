@@ -50,9 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-63377
   teiginys: 'Prieš Vorsklos mūšį Vytautas penkias dienas stovėjo įtvirtintoje stovykloje kitoje Vorsklos pusėje.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pradinis teiginys gramatiškai negrabokas ir perkrautas detalėmis, o citata leidžia glaustesnį faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vorskla; mentioned_person: [[objektai/asmenys/Edigėjus|Edigėjus]]; mentioned_place: Lietuva; llm_object: Vorskla'
   pagrindžia:
     - c-002
 
@@ -60,59 +57,20 @@ Nenurodyta
 - t-002
   global_id: t-63383
   teiginys: '1399 m. rugpjūčio 12 d., likus dviem valandoms iki saulėlydžio, prasidėjo Vorsklos mūšis.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pradinis teiginys remiasi citatos formuluote, bet reikia aiškiai įvardyti mūšį ir pašalinti kabučių fragmentiškumą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_place: Vorskla; mentioned_person: [[objektai/asmenys/Edigėjus|Edigėjus]]'
-  temporaliniai_duomenys: 'mūšio data: 1399 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys remiasi citatos formuluote, bet reikia aiškiai įvardyti mūšį ir pašalinti kabučių fragmentiškumą.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 217652-218060; hash=3d611c93c1dde839cec3196a54823625826868ff22bd4d6d252b9ded9c57b4e8; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vorskla: 0.55
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vorskla: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Trumpalaikis kariuomenės stovėjimas prie Vorsklos tiesiogiai nurodytas, bet relacija „gyveno“ čia tik apytiksliai atitinka buvimą vietoje.
 
 <a id="claim-t-183677"></a>
 - t-003
   global_id: t-183677
   teiginys: 'Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prie Vorsklos patyrė nesėkmę prieš totorius.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys tinkamai priskiria informaciją Detmaro Liubeko kronikos tęsiniui.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Vorskla; mentioned_author: [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Liubekas'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 218062-218298; hash=1e815c474f1bda4f78f2aa8b5f8887f277d0be56f679538290e1533e6b956e50; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vorskla: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vorsklos mūšis (1399 m. rugpjūčio 12 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Vorskla: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vorsklos mūšis (1399 m. rugpjūčio 12 d.)" parinktas kaip owner_note_path. Targetas "Vorskla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184235"></a>
 - t-004
   global_id: t-184235
   teiginys: 'Vorsklos mūšiui kautynių vieta buvo numatyta Vorsklos upės apylinkėse.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis sakinys gramatiškai netaisyklingas.'
-  susije_objektai: 'mentioned_place: Vorskla'
-  temporaliniai_duomenys: 'įvykio data: 1399 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis sakinys gramatiškai netaisyklingas.'
   pagrindžia:
     - c-008
 
@@ -127,13 +85,10 @@ Nenurodyta
     žvaigždė, taip šviesi ir taip aukštai iškilusi, prie Vorsklos apte­
     mo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
 
-- c-002
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-002
   santrauka: 'Prieš Vorsklos mūšį Vytautas penkias dienas stovėjo įtvirtintoje stovykloje kitoje Vorsklos pusėje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -148,14 +103,11 @@ Nenurodyta
     Ordos ženklais. Tuomet Vytautas įsakė
     savo kariams ruoštis kautynėms.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   santrauka: '1399 m. rugpjūčio 12 d., likus dviem valandoms iki saulėlydžio, prasidėjo Vorsklos mūšis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -167,14 +119,11 @@ Nenurodyta
     kurią Vytauto ir krikščionių kunigaikščių
     pulkai atrodė smulkia saujele.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
-
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -184,13 +133,10 @@ Nenurodyta
     reiškė galą Vytauto didiesiems planams. Didelė dalis apsuptos jo
     kariuomenės (skaičiuojama trys ketvirčiai) buvo išžudyta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
 
-- c-005
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš vokiečių ordino kariuomenės teišsigelbėjo pora riterių (jų
@@ -200,13 +146,10 @@ Nenurodyta
     Pačiam Vytautui nakties tamsoje, drauge su jaunu broliu
     Žygimantu ir Švitrigaila, pasisekė pabėgti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
 
-- c-006
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vorsklos kautynės, apie kurias iš ano laiko yra daug šaltinių^35 ,
@@ -216,13 +159,10 @@ Nenurodyta
     kritusių, nes iš viso Vytauto pusėje kovojančių krikščionių tebuvo
     bent dešimtį kartų mažiau.
   citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
 
-- c-007
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-007
   santrauka: 'Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prie Vorsklos patyrė nesėkmę prieš totorius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -245,14 +185,11 @@ Nenurodyta
     Vytauto ir jo sąjungininkų karių. Vytautas
     prarado apie 14 savo kariuomenės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
-
 - c-008
   santrauka: 'Vorsklos mūšiui kautynių vieta buvo numatyta Vorsklos upės apylinkėse.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -262,10 +199,8 @@ Nenurodyta
     upės apylinkės. 1399 m. rugpiūčio pradžioj Vytauto karo jė­
     gos susitelkė kairiajame Vorsklos^1 ) upės krante.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-004

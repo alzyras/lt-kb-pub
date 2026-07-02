@@ -22,10 +22,6 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
 - t-001
   global_id: t-63281
   teiginys: 'Unzatrapio žemės vyrai kartu su komtūro kariuomene įsiveržė į Notangos pakraštį ir jį nuniokojo plėšdami bei degindami.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Citata pagrindžia Vonsdorfo, siejamo su Unzatrapiu, vyrų dalyvavimą Notangos pakraščio nuniokojime.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Notanga; mentioned_place: Viena; mentioned_place: Vonsdorfas; llm_object: Notanga'
-  semantiniai_rysiai: '[[objektai/grupes/Unzatrapio žemės gyventojai|Unzatrapio žemės gyventojai]] puolė Notanga'
   pagrindžia:
     - c-001
 
@@ -44,7 +40,6 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
     drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su
     moterimis ir mažais vaikais išsivarė kartu su kitu grobiu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

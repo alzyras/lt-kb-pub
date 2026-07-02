@@ -29,23 +29,8 @@ Nors paktas minėjo Lietuvos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kai
 - t-001
   global_id: t-21156
   teiginys: 'SSRS ir Lietuvos savitarpio pagalbos sutartis rėmėsi 1920 m. ir 1926 m. Lietuvos bei Sovietų Rusijos sutartimis kaip baziniais dokumentais.'
-  sudarymo_pagrindimas: 'Citata pagrindžia paminėjimą, bet pradinis teiginys buvo per ilgas ir mažiau aiškus.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: SSRS; mentioned_place: Vilnius; mentioned_place: Vokietija'
-  temporaliniai_duomenys: 'sutarties data: 1920 m.; sutarties data: 1926 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia paminėjimą, bet pradinis teiginys buvo per ilgas ir mažiau aiškus.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2e449d4e208b3a43566a2bae31df907fa8b93ac8b6e7ff8a27c2359d281e628a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartys: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=3
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartys" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -62,7 +47,6 @@ Nors paktas minėjo Lietuvos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kai
     santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos
     nepriklausomybei.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

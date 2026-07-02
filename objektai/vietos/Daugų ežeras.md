@@ -21,16 +21,6 @@ Narbutas rašo, kad Daugų ežeras Trakų apskrityje garsėjo daugeliu padavimų
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 392840-393020; hash=20e7e2e70e7be6739b8e452bcf4dbc3fd64f9508d3eaa9a3eb831de47a13deb7; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Trakai: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Daugų ežeras: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Daugų ežeras yra Trakų apskrityje.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -41,10 +31,8 @@ Narbutas rašo, kad Daugų ežeras Trakų apskrityje garsėjo daugeliu padavimų
     nam ežerui. Ypač Daugų ežeras, vienas iš giliausių Lietuvoje
     ir bene visoje Europoje, garsėja daugeliu tos rūšies padavimų.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -48,7 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-168690
   teiginys: 'Pirmoji Lietuvos rašliava apibūdinama kaip istorinė ir publicistiška.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -63,8 +62,6 @@ Nenurodyta
 - t-003
   global_id: t-168695
   teiginys: 'Iškilus unijos klausimui, Lenkijoje atsirado publicistiškos rašliavos, kurioje Lietuva buvo žeminama kaip nedėkinga ir maištaujanti valstybė.'
-  sudarymo_pagrindimas: 'Teiginys susietas su rašliava ir išvalytas nuo perteklinio konteksto.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-002
 
@@ -83,7 +80,6 @@ Nenurodyta
     Žodžiu, pirmoji Lietuvos rašliava buvo istorinė ir turėjo
     publicistišką charakterį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -103,7 +99,6 @@ Nenurodyta
     raštų, kuriuose Lietuva buvo žeminama, vaizduojama, kaip nedė-
     kinga, maištaujanti lenkų globojama valstybė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -118,7 +113,6 @@ Nenurodyta
     ir naujųjų laikų įvykius. Tokio vadovėlio reikalą gyvai jautė
     tiek visuomenė, tiek mokykla.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

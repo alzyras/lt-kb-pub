@@ -34,9 +34,6 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
 - t-001
   global_id: t-55218
   teiginys: 'Latopisiec Litwy i Kronika Ruška nurodomas kaip šaltinis dėl Šv. Mikalojaus bažnyčios Vilniuje.'
-  susije_objektai: 'mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1827 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -44,26 +41,13 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
 - t-002
   global_id: t-55219
   teiginys: 'Danilovičiaus Latopisiec mini, kad Karigailos lenkų įgula neįsileido į Aukštutinę pilį ir apie jo mirtį nutyli.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 82243-82441; hash=6c2976a959c73bdecbae14fcfa73c4c84eb1e9d69f76ec2deb56b89a2fe3ce5d; match=whitespace_regex
-  sprendimo_priezastis: gap::sources
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Latopisiec Litwy i Kronika Ruška: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=86
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Latopisiec Litwy i Kronika Ruška" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-82002"></a>
 - t-003
   global_id: t-82002
   teiginys: '„Latopisiec Litewski“ mūšio vietą nurodo prie Vilijos upės, ties Horodoku, vietovėje, vadintoje Weyiszczuszki.'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo gramatiškai nepatogus ir turėjo neaiškų įvardijimą.'
-  susije_objektai: 'mentioned_place: Vilija; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]'
   pagrindžia:
     - c-004
 
@@ -71,7 +55,6 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
 - t-004
   global_id: t-82003
   teiginys: '„Kronika Ruška“ pateikia panašią užuominą apie Glebą, įdėtą leidinyje „Latopisiec Litewski“ 212 puslapyje.'
-  sudarymo_pagrindimas: 'Rewrite failed deterministic gates: missing_factual_predicate'
   pagrindžia:
     - c-003
 
@@ -79,20 +62,8 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
 - t-005
   global_id: t-82004
   teiginys: '„Latopisiec Litwy i Kronika Ruška“ mini, kad lenkų įgula Aukštutinėje pilyje neįsileido kunigaikščio Karigailos.'
-  sudarymo_pagrindimas: 'Citata pagrindžia glaustą faktą apie kronikos liudijimą, o pradinis teiginys turi OCR klaidų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 276335-276628; hash=b4114567a6f6bc34c6f0bcad336db2d2ba88da209970edf7957c5ecbdbe6b8d8; match=whitespace_regex
-  sprendimo_priezastis: gap::sources
-  ryšio_patikimumas: susije_su -> Karigaila: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Latopisiec Litwy i Kronika Ruška: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Karigaila: mention_match, person, gap=21
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Latopisiec Litwy i Kronika Ruška" parinktas kaip owner_note_path. Targetas "Karigaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -106,7 +77,6 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
     je egzistavimą jau 1347 metais. Kal­
     bame čia apie Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -125,7 +95,6 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
     čio Karigailos į ją neįsileido, o- apie
     jo mirtį visai nutyli.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -142,7 +111,6 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
     č i a u s, įdėta Latopisiec Litewski, p.
     212.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -163,7 +131,6 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
     Horodoku, vietovėje, vadinamoje
     Weyiszczuszki.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

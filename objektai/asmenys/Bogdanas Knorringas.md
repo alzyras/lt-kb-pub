@@ -28,9 +28,6 @@ Rusijos kariuomenės korpusui, puolusiam Vilnių, vadovavo generolas leitenantas
 - t-001
   global_id: t-40069
   teiginys: '1794 m. liepos 19 d. Bogdano Knorringo vadovaujamas Rusijos kariuomenės korpusas pasiekė Vilnių.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Rusijos kariuomenės korpusas|Rusijos kariuomenės korpusas]]; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_event: [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.)|Vilniaus gynyba (1794 m. liepos 19–20 d.)]]; llm_object: [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.)|Vilniaus gynyba (1794 m. liepos 19–20 d.)]]'
-  temporaliniai_duomenys: 'įvykio data: 1794 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Nikolajus Arsenjevas.md#claim-t-40373|Nikolajus Arsenjevas]]: Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas majoras Nikolajus Arsenjevas.
@@ -51,7 +48,6 @@ Rusijos kariuomenės korpusui, puolusiam Vilnių, vadovavo generolas leitenantas
     kolonas, pasiekė Vilnių. Pirmajai va-
     dovavo gen. mjr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

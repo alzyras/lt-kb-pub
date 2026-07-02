@@ -26,12 +26,8 @@ Dusburgietis teigia, kad kuris netgi turėjo ilgai jam mokėti duoklę po 1000 a
 - t-001
   global_id: t-58916
   teiginys: 'Marobortinai citatoje minimi kaip aukso pinigai, kuriais kasdien mokėta po 1000 vienetų duoklės.'
-  sudarymo_pagrindimas: 'Citata palaiko pinigų rūšį ir jų naudojimą duoklei, bet pradinis teiginys yra fragmentiškas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 697988-698098; hash=5c3f7e78d80a8d34f07078eda734390c17c9446600088cb700138a689c37d6e1; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -46,7 +42,6 @@ Dusburgietis teigia, kad kuris netgi turėjo ilgai jam mokėti duoklę po 1000 a
 
                24.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

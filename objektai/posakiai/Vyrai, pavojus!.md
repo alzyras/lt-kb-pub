@@ -31,7 +31,6 @@ amziai:
 - t-001
   global_id: t-41471
   teiginys: 'Šūksnis „Vyrai, pavojus!“ buvo ištartas pastebėjus, kad stovyklą supa čekistai.'
-  sudarymo_pagrindimas: 'Pirminis teiginys perrašomas į pilną, aiškų sakinį be perteklinio konteksto.'
   pagrindžia:
     - c-001
 
@@ -46,7 +45,6 @@ amziai:
     Kalbėdamas su ryšininku pastebėjau, kad stovyklą supa čekistai ir sušukau: „Vyrai, pavo-
     jus!“ Dangus nubėgo į tą pusę, kur buvo čekistai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -59,7 +57,6 @@ amziai:
     jus!“ Dangus nubėgo į tą pusę, kur buvo čekistai. Kovos draugai, pašokę iš miego, griebėsi
     ginklų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

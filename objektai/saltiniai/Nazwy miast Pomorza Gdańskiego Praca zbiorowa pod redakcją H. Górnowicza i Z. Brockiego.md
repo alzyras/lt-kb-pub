@@ -26,15 +26,8 @@ Dusburgietis teigia, kad nazwy miast Pomorza Gdańskiego / Praca zbiorowa pod re
 - t-001
   global_id: t-61195
   teiginys: 'Rinkinys „Nazwy miast Pomorza Gdańskiego“ išleistas 1978 m., jį redagavo H. Górnowiczas ir Z. Brockis.'
-  sudarymo_pagrindimas: 'Citata pagrindžia pavadinimą, redaktorius ir leidimo metus.'
-  temporaliniai_duomenys: 'įvykio data: 1978 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia pavadinimą, redaktorius ir leidimo metus.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 788007-788135; hash=26d010eb4f91ac7373325b491fa0bff272ab7994474ea90a091d04b82a1e3549; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -45,7 +38,6 @@ Dusburgietis teigia, kad nazwy miast Pomorza Gdańskiego / Praca zbiorowa pod re
     Nazwy miast Pomorza Gdańskiego / Praca zbiorowa pod redakcją H. Górnowicza i Z.
     Brockiego.—Wrocław—Warszawa—Kraków—Gdańsk, 1978.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

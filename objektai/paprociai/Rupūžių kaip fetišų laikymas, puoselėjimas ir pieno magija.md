@@ -36,9 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 347691-348012; hash=aea24a5da603a412db3200abb52965b58badf4912c8e48221be6868de8f46c4b; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -52,9 +49,7 @@ Nenurodyta
     sakomą pasibjaurėjimą. Ji taip pat leidžiasi prijaukinama ir
     taip pripranta, kad ją galima išmokyti kai kurių judesių.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -34,7 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-07806
   teiginys: 'Neturėdami kuo pavaišinti svečio, šeimininkai verkdavo ir guosdavosi vargais, kad nebūtų palaikyti blogais gaspadoriais.'
-  sudarymo_pagrindimas: 'Citata aiškiai pagrindžia paprotį ir jo motyvą, sakinys sutrumpintas ir sugramatintas.'
   pagrindžia:
     - c-001
 
@@ -48,7 +47,6 @@ Nenurodyta
         prispaudimais ir neteisybėmis, to vien dėjęsi^502 , idant svetys neturėtų jo už piktos širdies žmogų
         ir netartų jį paiku gaspadorium esant.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

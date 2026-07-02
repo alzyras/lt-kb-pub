@@ -27,7 +27,6 @@ Vartojamos formos: `kūrėjų kūrėjo`.
 - t-001
   global_id: t-70011
   teiginys: 'Kūrėjų kūrėjas vienintelis galėjo įeiti į nurodytą vietą ir klausiantiems duodavo atsakus Perūno vardu.'
-  sudarymo_pagrindimas: 'Citata pagrindžia įėjimo teisę ir Perūno vardu duodamus atsakus, bet ne gyvenimą prie žinyčios.'
   pagrindžia:
     - c-002
 
@@ -43,7 +42,6 @@ Vartojamos formos: `kūrėjų kūrėjo`.
 - t-003
   global_id: t-70013
   teiginys: 'Kūrėjų kūrėjas vienas valdė žynius, davė jiems įsakymus ir per tarnus skelbė iš dievų gautą pamokslą.'
-  sudarymo_pagrindimas: 'Sakinys aiškiai nusako kūrėjų kūrėjo vaidmenį ir atitinka citatos turinį.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/Dievų stabai.md#claim-t-08287|Dievų stabai]]: Tris dievų stabai buvo įstatyti ąžuolo uoksuose.
@@ -61,7 +59,6 @@ Vartojamos formos: `kūrėjų kūrėjo`.
         latuviai, arba kuržemiai, bet dar lybiešiai^876 ir krieviai, kurie nuo jo dievų valios jautojos ir
         teiravos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -73,7 +70,6 @@ Vartojamos formos: `kūrėjų kūrėjo`.
   citata_originali: |
     Pats tiktai visų vyriausiasis kunigaikštis kūrėjų kūrėjas tegalėjęs tenai įeiti, kurs davęs atsakus vardu Perūno klausiantiems.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

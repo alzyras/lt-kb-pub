@@ -56,8 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-10727
   teiginys: 'Seniausieji Lietuvos sidabro pinigai buvo kapos, lietos iš sidabro tam tikrose formose ir randamos skirtingo ilgio, svorio bei ženklinimo.'
-  sudarymo_pagrindimas: 'Citata palaiko tikslesnį teiginį apie kapų formų ir ženklinimo įvairovę.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -65,11 +63,6 @@ Nenurodyta
 - t-002
   global_id: t-10728
   teiginys: 'Kapomis vadintus Lietuvos pinigus greičiausiai liejo ne tik didžiojo kunigaikščio iždas, bet ir privatūs žmonės.'
-  sudarymo_pagrindimas: 'Teiginys pataisytas, kad aiškiai sietųsi su Lietuvos pinigais ir remtųsi citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kaunas'
-  temporaliniai_duomenys: 'įvykio data: 1844 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys pataisytas, kad aiškiai sietųsi su Lietuvos pinigais ir remtųsi citata.'
   pagrindžia:
     - c-002
 
@@ -77,9 +70,6 @@ Nenurodyta
 - t-003
   global_id: t-10729
   teiginys: 'Vytauto laikų pinigėliai dokumentuose minimi jau 1387 m., o jų nominalai buvo siejami su skatikais ir denarais.'
-  susije_objektai: 'llm_object: Vengrija; llm_object: Kezmarkas; mentioned_object: [[objektai/daiktai/Vytauto laikų pinigėliai|Vytauto laikų pinigėliai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kezmarkas; mentioned_place: Vengrija'
-  temporaliniai_duomenys: 'įvykio data: 1387 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -87,7 +77,6 @@ Nenurodyta
 - t-004
   global_id: t-10731
   teiginys: 'Aleksandro pinigų serijoje buvo pinigėlis, pusskatikis ir skatikas, tačiau nevykusiai nukalti skatikai nebuvo leidžiami į apyvartą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Praha'
   pagrindžia:
     - c-004
 
@@ -95,7 +84,6 @@ Nenurodyta
 - t-005
   global_id: t-12316
   teiginys: 'Totoriai turėjo atmušti Vytauto atvaizdą savo piniguose.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vorskla'
   pagrindžia:
     - c-005
 
@@ -103,8 +91,6 @@ Nenurodyta
 - t-006
   global_id: t-12318
   teiginys: 'Vytauto laikais Jogailos ir Vytauto rūmuose kartais mokėta rubliais, o Lietuvoje kursavo ir buvo kalami čekų grašiai.'
-  sudarymo_pagrindimas: 'Patikslinta, kuriuose rūmuose buvo mokėta rubliais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Viena'
   pagrindžia:
     - c-006
 
@@ -112,11 +98,6 @@ Nenurodyta
 - t-007
   global_id: t-12319
   teiginys: 'Lietuviški denariukai atsirado 1387-1390 m.; jų pusėse buvo ieties galas, kryžius ir Gedimino stulpai.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, tačiau pradinis sakinys sklandesnis su pataisyta skyryba.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1387-1390; įvykio data: 1390 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, tačiau pradinis sakinys sklandesnis su pataisyta skyryba.'
   pagrindžia:
     - c-007
 
@@ -124,11 +105,6 @@ Nenurodyta
 - t-008
   global_id: t-12320
   teiginys: 'Vytauto įsakymu Kaune kalti K pinigėliai turėjo Gedimino stulpus ir raidę K, o mokesčiai turėjo būti mokami Lietuvoje kaltais sidabriniais pinigais.'
-  sudarymo_pagrindimas: 'Sakinys pilnas, faktinis ir tiesiogiai paremtas citata apie Vytauto pinigus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Kaunas'
-  temporaliniai_duomenys: 'įvykio data: 1844 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys pilnas, faktinis ir tiesiogiai paremtas citata apie Vytauto pinigus.'
   pagrindžia:
     - c-008
 
@@ -136,28 +112,13 @@ Nenurodyta
 - t-009
   global_id: t-12874
   teiginys: 'Apie 1565 m. Zigmantas Augustas mėgino suvienodinti Lietuvos ir Lenkijos pinigų vertę, kaldindamas lenkiškos vertės monetas Tikocine.'
-  susije_objektai: 'llm_object: Vengrija; llm_object: Kezmarkas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Tikocinas; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas Augustas|Zigmantas Augustas]]; mentioned_place: Kezmarkas; mentioned_place: Vengrija'
-  temporaliniai_duomenys: 'įvykio data: 1565 m.; įvykio data: apie 1565 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-009
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2fba29ee0260a73159cc8132823723c4b7f92101af2b490f9465fd4f3ad8714f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Vengrija: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vengrija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas vyko į Vengriją.
 
 <a id="claim-t-103465"></a>
 - t-010
   global_id: t-103465
   teiginys: 'Lietuvoje tebekursavusias ostmarkes Lietuvos valdžia pavadino auksinais.'
-  sudarymo_pagrindimas: 'Perrašyta aiškiau į enciklopedinį sakinį su konkrečia vieta.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-012
 
@@ -165,8 +126,6 @@ Nenurodyta
 - t-011
   global_id: t-103466
   teiginys: 'Jogailos ir Vytauto dokumente nurodyta mokesčius mokėti Lietuvoje kaltais sidabriniais pinigais, tikriausiai grašiais arba denariukais.'
-  sudarymo_pagrindimas: 'Reikia pašalinti OCR triukšmą ir sutrumpinti sakinį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-014
 
@@ -174,11 +133,6 @@ Nenurodyta
 - t-012
   global_id: t-103467
   teiginys: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Steigiamasis seimas|Steigiamasis seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
-  temporaliniai_duomenys: 'įvykio data: 1922 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
   pagrindžia:
     - c-011
 
@@ -186,11 +140,6 @@ Nenurodyta
 - t-013
   global_id: t-103468
   teiginys: 'Per nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą ir buvo pagrįstas vertybiniais popieriais bei 12 tonų aukso atsargomis.'
-  sudarymo_pagrindimas: 'Perrašyta sklandžiau, pašalinant gremėzdišką formuluotę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/litas|litas]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1922 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Perrašyta sklandžiau, pašalinant gremėzdišką formuluotę.'
   pagrindžia:
     - c-010
 
@@ -198,8 +147,6 @@ Nenurodyta
 - t-014
   global_id: t-103469
   teiginys: 'Vytautas pareikalavo, kad totoriai pripažintų jį tėvu, mokėtų duoklę ir kaldintų jo atvaizdą savo piniguose.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia Vytauto reikalavimus totoriams, nurodytus citatoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-013
 - susijęs iš [[objektai/daiktai/Zigmanto Augusto pinigai.md#claim-t-65011|Zigmanto Augusto pinigai]]: Zigmantas Augustas apie 1565 m. Tikocine pradėjo kalti lenkiškos vertės pinigus, bet dėl nepasitenkinimo darbą nutraukė.
@@ -218,7 +165,6 @@ Nenurodyta
     šytinių žinių (jų vardas,— kaip spėjama, kilęs iš žodžio _kapoti,_ — šaltiniuose
     yra minimas), tad visokios išvados gali būti daromos tik iš radinių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -236,7 +182,6 @@ Nenurodyta
     siai, buvo daromi norint patikrinti sidabro kokybę — norint įsitikinti, ar
     ir jų viduje yra tas pats metalas.
   citata_rodoma: ''
-  teiginio_tipas: interpretacija
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -253,7 +198,6 @@ Nenurodyta
     pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti
     iš savo kunigaikštijų).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -267,7 +211,6 @@ Nenurodyta
     **Alekandro pinigai:** 11 — _pinigėlis;_ 12 — _pusskatikis;_ 13 — _skatikas_
     (skatikai, nevykusiai nukalti, nebuvo leidžiami į apyvartą).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -283,7 +226,6 @@ Nenurodyta
     tėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­
     se.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -302,7 +244,6 @@ Nenurodyta
     (rublis —^1 / 2 svaro gryno sidabro). Vytauto laikais čekų gra­
     šiai buvo kalami ir Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -323,7 +264,6 @@ Nenurodyta
     nigai labai retai pasitaiko. Iš 27 variacijų, vos vienas egzem­
     pliorius turi tariamą raidę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -340,7 +280,6 @@ Nenurodyta
     te pabrėžta, kad mokesčiai būtų mokami kaltais Lietuvoj si­
     dabriniais pinigais; matyt, grašiais arba denariukais.
   citata_rodoma: ''
-  teiginio_tipas: interpretacija
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -355,7 +294,6 @@ Nenurodyta
     čiau Ordino už 40.000 auksinių papirktas, pareiškė, kad karui
     ištikus jis laikysiąs Ordino pusę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -372,7 +310,6 @@ Nenurodyta
     popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose už-
     sienio valstybėse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -388,7 +325,6 @@ Nenurodyta
     niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
     auksu paremtas litas, kurį sudaro 100 centų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -406,7 +342,6 @@ Nenurodyta
     tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
     ieškoti sprendimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -422,7 +357,6 @@ Nenurodyta
     se. Jiems besideriant atvyko ir Timur-Kotlogas ir atmetė
     Vytauto sąlygas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -441,7 +375,6 @@ Nenurodyta
     Be mokesčių Vytautas didindavo dar savo pajamas ir kon­
     tribucijomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

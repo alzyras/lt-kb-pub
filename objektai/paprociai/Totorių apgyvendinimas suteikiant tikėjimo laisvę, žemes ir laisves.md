@@ -49,30 +49,13 @@ Nenurodyta
 - t-001
   global_id: t-87166
   teiginys: 'Vytauto įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir Lydos, Ašmenos bei Naugarduko pavietuose.'
-  sudarymo_pagrindimas: 'Citata pagrindžia totorių įkurdinimo vietas; pašalintas vertinamasis ir fragmentiškas tekstas.'
-  susije_objektai: 'llm_object: Vilnius; llm_object: Nemėžis; llm_object: Ašmena; llm_object: Naugardukas; mentioned_place: Ašmena; mentioned_place: Naugardukas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Lietuva; mentioned_place: Nemėžis; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Lietuva'
-  temporaliniai_duomenys: 'gyvenimo laikotarpis: 1398 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia totorių įkurdinimo vietas; pašalintas vertinamasis ir fragmentiškas tekstas.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 312500-315646; hash=8c2b1061c6c09d2689ab31ce919730dad9b4774f7ee08f4e228f8ba7608bc040; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vilnius: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad totoriai buvo apgyvendinti prie Vilniaus.
 
 <a id="claim-t-87168"></a>
 - t-002
   global_id: t-87168
   teiginys: 'Vytautas prie Vilniaus apgyvendino iš Azovo atsivežtus totorius, paliko jiems senąjį tikėjimą ir suteikė žemės valdų bei laisvių.'
-  sudarymo_pagrindimas: 'Citata pagrindžia apgyvendinimą, tikėjimo laisvę, žemes ir laisves; pašalintas puslapio triukšmas.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Azovas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -168,7 +151,6 @@ Nenurodyta
     žemės valdų ir laisvių, tėvynei iš jų gavo narsių ir ištikimų
     gynėjų ir pavyzdingų piliečių62.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -205,7 +187,6 @@ Nenurodyta
     pavadinimuose: Totoriškės, Totorių
     kapinės ir 1.1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

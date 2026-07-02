@@ -30,8 +30,6 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
 - t-001
   global_id: t-86058
   teiginys: 'Alšėnų kunigaikštis minimas tarp dokumento sudaryme dalyvavusių didikų ir dvasininkų.'
-  sudarymo_pagrindimas: 'Citata fragmentiška, bet pakankamai aiškiai mini Alšėnų kunigaikštį tarp dalyvių.'
-  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Luckas; mentioned_place: Medininkai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -39,24 +37,8 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
 - t-002
   global_id: t-187563
   teiginys: 'Voložine išgirdęs apie Žygimanto mirtį, Jonas Goštautas išskubėjo į Alšėnus pas Jurgį Simonaitį Alšėniškį.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas neatributuotas valdovo titulas, faktas išlaikytas pagal citatą.'
-  susije_objektai: 'llm_object: Alšėnai; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Kijevas; mentioned_place: Luckas; mentioned_place: Medininkai; mentioned_place: Vilnius; mentioned_place: Voložinas'
-  semantiniai_rysiai: '[[objektai/asmenys/Goštautas|Goštautas]] keliavo į Alšėnai'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 215886-216451; hash=789f37cce39af305ce45a3cb559388c998992747f131634c57639a6a9a1a45a3; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Alšėnai: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Goštautas (vyskupas, XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Alšėnai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginyje tiesiogiai nurodyta, kad Jonas Goštautas išskubėjo į Alšėnus.
 - susijęs iš [[objektai/asmenys/Povilas Algimantas.md#claim-t-87835|Povilas Algimantas]]: Povilas Algimantas buvo Alšėnų kunigaikštis, nuo 1536 m. Vilniaus vyskupas ir mirė 1553 metais.
 - susijęs iš [[objektai/asmenys/Janas Kropidła.md#claim-t-87701|Janas Kropidła]]: Kujavų vyskupas Janas Kropidła Vytauto prašymu palaimino Vytauto ir Julijonos Alšėniškės santuoką.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-184744|Julijona (Vytauto žmona)]]: Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.
@@ -152,7 +134,6 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
     ................Jonui, Jurgiui Astikaičiui, Trakų...................
     Gregorovičiui, Alšėnų kunigaikščiui ir Kijevo...................
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -174,7 +155,6 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
     Vilniaus kaštelionui, Žemaičių seniūnui Kęsgailai, ir
     Mikalojui Nemiravičiui * , ir krašto maršalui Radvilai 9 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

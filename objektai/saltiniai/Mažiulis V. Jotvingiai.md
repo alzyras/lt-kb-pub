@@ -26,15 +26,8 @@ Dusburgietis teigia, kad mažiulis V.
 - t-001
   global_id: t-61167
   teiginys: 'V. Mažiulio straipsnis „Jotvingiai“ paskelbtas MG 1966 m. Nr. 1, p. 32–33.'
-  sudarymo_pagrindimas: 'Citata pateikia bibliografinį įrašo faktą.'
-  temporaliniai_duomenys: 'įvykio data: 1966 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį įrašo faktą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 785320-785371; hash=484f94fe6fab55bfe2421887c7ad632286d6578e6238f49e40e3889144f6cc09; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -44,7 +37,6 @@ Dusburgietis teigia, kad mažiulis V.
   citata_originali: |
     Mažiulis V. Jotvingiai.— MG, 1966, Nr. 1, p. 32—33.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

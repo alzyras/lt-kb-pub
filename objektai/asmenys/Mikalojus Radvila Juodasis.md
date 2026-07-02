@@ -10,6 +10,11 @@ datos:
   - '1576 m.'
 date_start: '1515'
 date_end: '1576'
+description: 'Mikalojus Radvila Juodasis - Vilniaus vaivada, Lietuvos didysis kancleris ir maršalka, Reformacijos rėmėjas ir Brastos spaustuvės steigėjas.'
+socialDescription: 'Vilniaus vaivada ir Lietuvos didysis kancleris Mikalojus Radvila Juodasis iškilo kaip Reformacijos rėmėjas, Brastos spaustuvės steigėjas ir įtakingas Radvilų giminės atstovas.'
+seo_atnaujinta: '2026-07-02T20:14:54.863131+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus vilniečius. Lietuvoje protestantų galva ir uoliausias protestantizmo skleidėjas pasidarė artimiausias Zigmanto Augusto patarėjas Mikalojus Radvila Juodasis. Radvilos Juodojo, suorganizavo mokslintus lietuvius, kurie paskelbė atsakymą Ožechovskiui (1564 m.) knygutėje, pavadintoje „Lenko pasikalbėjimu su lietuviu".
+Mikalojus Radvila Juodasis buvo Vilniaus vaivada, Lietuvos didysis kancleris ir maršalka. Šaltiniuose jis siejamas su Reformacijos rėmimu Vilniuje, 1553 m. Brastoje įkurta spaustuve ir Radvilų privilegijų patvirtinimu Nesvyžiaus kunigaikščių įpėdiniams. Jo veikla apima ir miesto istorijos epizodus, pavyzdžiui, nuo 1541 m. iš kapitulos nuomotą Filipovo namą.
 
 ## Teiginiai
 
@@ -34,34 +39,13 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 - t-001
   global_id: t-113878
   teiginys: 'Mikalojus Radvila Juodasis nuo 1541 m. nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo po 20 kapų lietuviškų grašių.'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/činšas|činšas]]; mentioned_place: Kardinalija; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: po 1541 m.; įvykio data: 1541 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=394914538710d4880d6b33d848da62f0ca93b9489818a87843aca8ef79756977; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Mikalojus Radvila Juodasis: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Šarvai: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Mikalojus Radvila Juodasis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai įvardija šarvus kaip Mikalojaus Radvilos Juodojo šarvus.
 
 <a id="claim-t-113879"></a>
 - t-002
   global_id: t-113879
   teiginys: 'Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka; jo šarvų viršutinė dalis apie 1555 m. pagaminta Niurnberge.'
-  sudarymo_pagrindimas: 'Citata leidžia teiginį aiškiau susieti su asmens pareigomis ir šarvais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Lietuva; mentioned_place: Niurnbergas; llm_object: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_object: [[objektai/daiktai/Pistoletas|Pistoletas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lenkija'
-  semantiniai_rysiai: '[[objektai/daiktai/Šarvai|Šarvai]] priklausė [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]'
-  temporaliniai_duomenys: 'įvykio data: 1555 m.; įvykio data: apie 1555 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia teiginį aiškiau susieti su asmens pareigomis ir šarvais.'
   pagrindžia:
     - c-007
 
@@ -69,11 +53,6 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 - t-003
   global_id: t-113880
   teiginys: 'Vilniaus vaivada Mikalojus Radvila Juodasis stipriai palaikė Vilniuje įsišaknijusį Martyno Liuterio ir Cvinglio mokslą.'
-  sudarymo_pagrindimas: 'Teiginys faktiškas, bet reikia pašalinti OCR klaidas ir sutrumpinti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Cvinglis|Cvinglis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1557 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys faktiškas, bet reikia pašalinti OCR klaidas ir sutrumpinti.'
   pagrindžia:
     - c-003
 
@@ -81,8 +60,6 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 - t-004
   global_id: t-113881
   teiginys: 'Mikalojus Radvila Juodasis nuo 1541 metų iš kapitulos nuomojo Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/činšas|činšas]]; mentioned_place: Kardinalija; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -90,27 +67,13 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 - t-005
   global_id: t-113882
   teiginys: 'Žygimantas rašte pabrėžė Mikalojaus Radvilos Juodojo ištikimą tarnystę karo ir taikos metu bei nuopelnus Respublikai.'
-  sudarymo_pagrindimas: 'Citata palaiko apibendrintą faktą apie rašte įvardytus nuopelnus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_place: Borisovas; mentioned_place: Brasta; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Olyka; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=394914538710d4880d6b33d848da62f0ca93b9489818a87843aca8ef79756977; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Mikalojus Radvila Juodasis: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Šarvai: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Mikalojus Radvila Juodasis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginyje „jo šarvų“ nurodo į Mikalojų Radvilą Juodąjį, todėl šarvai priskiriami jam.
 
 <a id="claim-t-113883"></a>
 - t-006
   global_id: t-113883
   teiginys: 'Mikalojui Radvilai Juodajam ir jo teisėtiems Nesvyžiaus kunigaikščių įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai.'
-  sudarymo_pagrindimas: 'Citata pagrindžia suteiktas teises, o pradinis teiginys yra nutrūkęs fragmentas.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Olyka; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -118,103 +81,36 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 - t-007
   global_id: t-113884
   teiginys: 'Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.'
-  sudarymo_pagrindimas: 'Pašalintas kontekstinis junginys „dar vieną“ ir sakinys sukonkretintas apie asmenį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Viena; mentioned_place: Zabluduvas'
-  temporaliniai_duomenys: 'įkūrimo data: 1553 m.; įkūrimo data: 1569 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas kontekstinis junginys „dar vieną“ ir sakinys sukonkretintas apie asmenį.'
   pagrindžia:
     - c-008
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=71924edd69a9cf1c8a7267593f4bc904cc302023578c1f34981da8d22f9f6f4d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mikalojus Radvila: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mikalojus Radvila Juodasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mikalojus Radvila: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila Juodasis" parinktas kaip owner_note_path. Targetas "Mikalojus Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-113885"></a>
 - t-008
   global_id: t-113885
   teiginys: 'Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Pistoletas|Pistoletas]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lenkija'
-  semantiniai_rysiai: '[[objektai/daiktai/Šarvai|Šarvai]] priklausė [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]'
-  temporaliniai_duomenys: 'įvykio data: 1555 m.; įvykio data: apie 1555 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 599774-600480; hash=c7fe0a1d171f6eeb1e03e6a2491f766b5df3352b25d3326e8d60afb16e34ce95; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mikalojus Radvila Juodasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=102
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila Juodasis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-113887"></a>
 - t-010
   global_id: t-113887
   teiginys: 'Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kalbą dėl to, kad „būtų liaudžiai suprantama“.'
-  sudarymo_pagrindimas: 'Sakinys yra aiškus, gramatiškas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/posakiai/„būtų liaudžiai suprantama“|„būtų liaudžiai suprantama“]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_place: Biržai'
-  temporaliniai_duomenys: 'įvykio data: 1563 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus, gramatiškas ir pagrįstas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=93eb56162ba219e869201e2c934fc103a8cae792e602a5fdfa8c0a63abccb509; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mikalojus Radvila Juodasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=82
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila Juodasis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-113888"></a>
 - t-011
   global_id: t-113888
   teiginys: 'Mikalojus Radvila Juodasis iš pradžių galingai palaikė disidentų pusėje veikusių priešininkų atremti turėjusį Volaną.'
-  sudarymo_pagrindimas: 'Pirminis teiginys gramatiškai ne visai sklandus; perrašyta aiškiau pagal citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=394914538710d4880d6b33d848da62f0ca93b9489818a87843aca8ef79756977; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Mikalojus Radvila Juodasis: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Šarvai: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Mikalojus Radvila Juodasis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai įvardija šarvus kaip Mikalojaus Radvilos Juodojo šarvus.
 
 <a id="claim-t-113889"></a>
 - t-012
   global_id: t-113889
   teiginys: 'Mikalojui Radvilai Juodajam ir jo teisėtiems Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Olyka; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 599774-600480; hash=c7fe0a1d171f6eeb1e03e6a2491f766b5df3352b25d3326e8d60afb16e34ce95; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mikalojus Radvila Juodasis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila Juodasis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Martynas Liuteris.md#claim-t-82553|Martynas Liuteris]]: Martyno Liuterio ir Cvinglio mokslą Vilniuje stipriai palaikė Vilniaus vaivada Mikalojus Radvila Juodasis.
 - susijęs iš [[objektai/autoriai/Jacobas Schrenckas.md#claim-t-78083|Jacobas Schrenckas]]: Jacobo Schrencko „Armamentarium Heroicum“ 1603 m. Insbruke pateikė Mikalojaus Radvilos Juodojo atvaizdą.
 - susijęs iš [[objektai/grupes/Radvilų giminė.md#claim-t-172762|Radvilų giminė]]: Mikalojus Radvila Juodasis nuo 1541 m. nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo 20 kapų lietuviškų grašių.
@@ -245,7 +141,6 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
     1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kal-
     bą dėl to, kad „būtų liaudžiai suprantama“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -282,7 +177,6 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
     raliaus ir kunigaikščio pasižadėjimu ir autoritetu atnaujin­
     tos ir atgaivintos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -330,7 +224,6 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
     1556 metų tapo visų reformos šalininkų prieglobsčiu ir mo­
     kykla.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -380,7 +273,6 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
     vo būtinybė; ir nėra nė vieno, kuris manytų, jog jis (Radvila)
     nesirūpina Respublikos gerove ir mūsų garbe.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -404,7 +296,6 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
     bet jos, valdant išmintingam ir narsiam Steponui, negalėjo
     jo atvesti į užsibrėžtą tikslą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -435,7 +326,6 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
     Kristupu pradėjo teismo procesą dėl
     Filipovo namo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -465,7 +355,6 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
     ereliu ir raide S (Sigismundus)
     Vokietija, XVI a. trečiasis ketvirtis
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -485,7 +374,6 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
     pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
     jos pobūdį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

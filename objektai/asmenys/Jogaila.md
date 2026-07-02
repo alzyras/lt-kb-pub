@@ -17,9 +17,9 @@ aliases:
   - 'objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)'
 variantai:
   - 'Jogaila (Lenkijos karalius, 1382 m.)'
-description: 'Jogaila – Lietuvos didysis kunigaikštis, po 1385 m. Krėvos sutarties priėmęs krikštą ir 1386 m. tapęs Lenkijos karaliumi.'
-socialDescription: 'Jogaila siejamas su Krėvos sutartimi, Lietuvos krikštu, Lenkijos sostu ir politiniais santykiais su Kęstučiu bei Vytautu.'
-seo_atnaujinta: '2026-07-02T19:20:23.268335+03:00'
+description: 'Jogaila – LDK valdovas, 1385 m. Krėvos sutartimi susietas su Lenkija, 1386 m. Krokuvoje krikštytas ir karūnuotas karaliumi.'
+socialDescription: 'Jogaila siekė Lenkijos sosto, sudarė 1385 m. Krėvos sutartį, 1386 m. Krokuvoje priėmė krikštą ir tapo Lenkijos karaliumi.'
+seo_atnaujinta: '2026-07-02T20:14:54.755620+03:00'
 seo_policy_version: 'seo_summary_v1'
 seo_nepakanka_duomenu: 'false'
 sukurta: ''
@@ -39,15 +39,13 @@ tags:
 
 ## Santrauka
 
-Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnės politinės galios. 1385 m. Krėvos sutartis susiejo Lietuvą su Lenkija, o 1386 m. Jogaila Krokuvoje priėmė krikštą Vladislovo vardu, vedė Jadvygą ir buvo karūnuotas Lenkijos karaliumi. Jo valdymo istorijoje svarbūs konfliktai su Kęstučiu bei vėlesni santykiai su Vytautu.
+Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnės valdžios Šiaurės Europoje. 1385 m. Krėvos sutartis susiejo jį su Lenkija, o 1386 m. Krokuvoje Jogaila priėmė krikštą Vladislovo vardu, vedė Jadvygą ir buvo karūnuotas Lenkijos karaliumi. Jo politiniame kelyje svarbūs konfliktai su Kęstučiu, Vaidilos įtaka ir vėlesni santykiai su Vytautu.
 
 ## Teiginiai
 <a id="claim-t-182803"></a>
 - t-001
   global_id: t-182803
   teiginys: 'Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata palaiko aiškų sutrumpintą sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Starodubas; mentioned_person: [[objektai/asmenys/Rumbautas|Rumbautas]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Voluinė'
   pagrindžia:
     - c-015
 
@@ -55,9 +53,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-002
   global_id: t-182804
   teiginys: 'Siekdamas didelės valdžios, Jogaila pirmiausia sutelkė jėgas nusikratyti dėdės Kęstučio.'
-  sudarymo_pagrindimas: 'Reikia pataisyti linksnį ir išlaikyti citatos pagrįstą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] buvo priešas [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-014
 
@@ -65,8 +60,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-003
   global_id: t-182807
   teiginys: 'Vladislovo Jogailos lėšomis pradėtą statyti Šv. Jono bažnyčią užbaigė Vytautas.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Jogailos finansinį vaidmenį bažnyčios statyboje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kijevas; mentioned_place: Plockas; mentioned_place: Pskovas; mentioned_place: Vilnius'
   pagrindžia:
     - c-010
 
@@ -74,8 +67,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-004
   global_id: t-182809
   teiginys: 'Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija neleido Vilniaus miestiečiams įgyti daugiau laisvių.'
-  sudarymo_pagrindimas: 'Citata pagrindžia politinės permainos poveikį Vilniaus miestiečiams.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Lietuvos krikštas (1387 m.)|Lietuvos krikštas (1387 m.)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Pskovas'
   pagrindžia:
     - c-013
 
@@ -83,8 +74,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-005
   global_id: t-182810
   teiginys: 'Beginklis Jogaila su visa savo palyda buvo įkalintas pilyje ir daugybės kareivių saugojamas.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-012
 
@@ -92,8 +81,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-006
   global_id: t-182811
   teiginys: 'Jogaila siekė Lenkijos sosto ir ketino sukurti naują galingą valstybę Šiaurės Europoje.'
-  sudarymo_pagrindimas: 'Citata aiškiai pagrindžia Jogailos politinį sumanymą.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-011
 
@@ -101,9 +88,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-007
   global_id: t-182812
   teiginys: 'Algirdui užleidus sostą, jo sūnus Jogaila dar tėvui gyvam esant perėmė aukščiausiąją Lietuvos valdžią.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Jogailos valdžios perėmimą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] buvo sūnus [[objektai/asmenys/Algirdas|Algirdas]]'
   pagrindžia:
     - c-017
 
@@ -111,8 +95,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-008
   global_id: t-182813
   teiginys: 'Jogaila, siekdamas atgauti paveldą ir atkeršyti už Vaidilos mirtį, sutelkė pajėgas ir nusprendė užimti Vilnių bei Trakus.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Jogailos motyvus ir karinį sprendimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-009
 
@@ -120,8 +102,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-009
   global_id: t-182815
   teiginys: 'Jogailos siekius patarimais rėmė ir savo įtaka skatino bajoras Vaidila.'
-  sudarymo_pagrindimas: 'Pradinį teiginį pakanka išvalyti nuo OCR triukšmo; citata jį pagrindžia.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-016
 
@@ -129,15 +109,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-010
   global_id: t-183536
   teiginys: 'Pagal 1385 m. Krėvos sutartį su Lenkija Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Jogailos tapimą Lenkijos karaliumi.'
-  susije_objektai: 'llm_object: Lenkija; llm_object: Lietuva; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] buvo valdovas Lenkija; [[objektai/asmenys/Jogaila|Jogaila]] buvo valdovas Lietuva'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1385 m.; valdymo laikotarpis: 1387 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Jogailos tapimą Lenkijos karaliumi.'
   pagrindžia:
     - c-018
 
@@ -145,14 +116,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-011
   global_id: t-183537
   teiginys: '1385 m. rugpjūčio 14 d. Jogaila sutiko su Krėvos sutarties dokumento turiniu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Jogailos sprendimą Krėvos pilyje.'
-  susije_objektai: 'mentioned_place: Krėva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/posakiai/„prišlieti“|„prišlieti“]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1385 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Jogailos sprendimą Krėvos pilyje.'
   pagrindžia:
     - c-019
 
@@ -160,11 +123,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-012
   global_id: t-183538
   teiginys: 'Eidintas, Bumblauskas, Kulakauskas ir Tamošaitis Jogailos elgesį sudarant Krėvos sutartį aiškina ankstyvojo monarcho valstybės kaip nuosavybės samprata.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra interpretacinis, todėl reikia aiškios šaltinio autorystės.'
-  susije_objektai: 'llm_object: Lenkija; mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_place: Krėva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Lietuva'
   pagrindžia:
     - c-020
 
@@ -172,14 +130,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-013
   global_id: t-183539
   teiginys: '1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, kuria buvo įsteigiama ir aprūpinama vyskupo institucija.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Jogailos privilegiją Vilniaus vyskupui.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1387 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Jogailos privilegiją Vilniaus vyskupui.'
   pagrindžia:
     - c-021
 
@@ -187,11 +137,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-014
   global_id: t-183540
   teiginys: 'Žalgirio mūšio rytą Jogaila delsė laukdamas Ordino pasiūlymo derėtis, o Vytautas troško lemiamo mūšio.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis sakinys turi neaiškią nuorodą „tos dienos“ ir neatskleidžia faktinio turinio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]'
   pagrindžia:
     - c-022
 
@@ -199,14 +144,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-015
   global_id: t-183541
   teiginys: 'Po Žalgirio mūšio Vakaruose sklido paskviliai, kad Jogailos ir Vytauto pergalė buvusi netikra, nes jie rėmėsi pagonimis ir totoriais musulmonais.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys perrašytas sklandžiau, pašalinant neenciklopedinę formuluotę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
-  temporaliniai_duomenys: 'įvykio data: 1413 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys perrašytas sklandžiau, pašalinant neenciklopedinę formuluotę.'
   pagrindžia:
     - c-023
 
@@ -214,14 +151,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-016
   global_id: t-183542
   teiginys: 'Jogailos ir Jadvygos vedybomis 1386 m. prasidėjo Lietuvos ir Lenkijos suartėjimas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Jogailos ir Jadvygos vedybų reikšmę.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_event: [[objektai/ivykiai/Liublino unija (1569 m.)|Liublino unija (1569 m.)]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Liublinas; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1386 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Jogailos ir Jadvygos vedybų reikšmę.'
   pagrindžia:
     - c-024
 
@@ -229,11 +158,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-017
   global_id: t-184264
   teiginys: 'Pasimeldęs Jogaila Vytauto ir lenkų riterių raginimu užsidėjo šarvus ir nuvyko prie kariuomenės.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Jogailos veiksmus ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]'
   pagrindžia:
     - c-002
 
@@ -241,11 +165,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-018
   global_id: t-184265
   teiginys: 'Jogaila netrukus įsakė duoti ženklą mūšiui.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra trumpas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-003
 
@@ -253,15 +172,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-019
   global_id: t-184266
   teiginys: '1386 m. Jogaila su savo broliais, Vytautu, kaipo Gardino kunigaikščiu, ir būriu dvaro didikų išvyko į Krokuvą priimti krikšto, vesti lenkų karalaitę Jadvygą ir karūnuotis Lenkijos karaliumi.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Jogailos išvykimą į Krokuvą 1386 m.'
-  susije_objektai: 'llm_object: Krokuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Gardinas; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Gniezno'
-  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] keliavo į Krokuva'
-  temporaliniai_duomenys: 'įvykio data: 1386 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Jogailos išvykimą į Krokuvą 1386 m.'
   pagrindžia:
     - c-004
 
@@ -269,14 +179,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-020
   global_id: t-184267
   teiginys: '1413 m. Kauno saloje vykusiame Žemaitijos sienų suvažiavime dalyvavo Jogaila.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis sakinys per ilgas ir prasideda kontekstiniu junginiu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Nevėžis'
-  temporaliniai_duomenys: 'įvykio data: 1413 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis sakinys per ilgas ir prasideda kontekstiniu junginiu.'
   pagrindžia:
     - c-025
 
@@ -284,14 +186,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-021
   global_id: t-184268
   teiginys: '1392 m. rugpjūčio 5 d. Ostrovoje Jogaila sudarė taiką su Vytautu ir grąžino jam tėviškę.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs ir nebaigtas.'
-  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1392 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo nutrūkęs ir nebaigtas.'
   pagrindžia:
     - c-005
 
@@ -299,14 +193,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-022
   global_id: t-184269
   teiginys: 'Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Jogailos veiksmą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Rusija; mentioned_place: Torno'
-  temporaliniai_duomenys: 'įvykio data: 1403 m.; įvykio data: 1409 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Jogailos veiksmą ir yra paremtas citata.'
   pagrindžia:
     - c-006
 
@@ -314,11 +200,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-023
   global_id: t-184270
   teiginys: 'Po Jadvygos mirties lenkai pažadėjo Jogailai, kad Lenkijos sostą galės užimti jo vaikai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinė frazė yra aiškinamasis įvadas, o citata palaiko konkretesnį faktą.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]'
   pagrindžia:
     - c-026
 
@@ -326,14 +207,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-024
   global_id: t-184271
   teiginys: '1417 m. Jogaila vedė trečią žmoną.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, glaustas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1417 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, glaustas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-007
 
@@ -341,11 +214,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-025
   global_id: t-184272
   teiginys: 'Jogaila nebuvo visiškai nutraukęs santykių su Vytautu ir Lietuva, nes dažnai čia viešėdavo.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir atitinka citatą apie Jogailos ryšius su Vytautu ir Lietuva.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-008
 
@@ -353,11 +221,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-026
   global_id: t-184273
   teiginys: 'Lucke Zigmantas pasiūlė Jogailai karūnuoti Vytautą, kuris buvo suvažiavimo šeimininkas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi OCR triukšmo; citata palaiko glaustesnį faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Luckas'
   pagrindžia:
     - c-027
 
@@ -365,11 +228,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-027
   global_id: t-184274
   teiginys: 'Laiške Jogaila atkalbinėjo Zigmantą nuo sumanymo karūnuoti Vytautą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą Jogailos laiško turinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-028
 
@@ -377,11 +235,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-028
   global_id: t-184275
   teiginys: 'Jogaila atsakyme Vytautui teisinosi, kad laiškas Zigmantui buvo parašytas be jo žinios.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko geresnį faktą apie Jogailos atsakymą, o pradinis teiginys yra interpretacinis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-029
 
@@ -389,11 +242,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-029
   global_id: t-184276
   teiginys: 'Jogaila suprato, kad laisva paveldima Lietuvos karalija padėtų jam tvirtai laikytis Lenkijoje ir išlaikyti dinastijos teises.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sutrumpinta ir sugramatinta vertinamojo pobūdžio formuluotė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-030
 
@@ -401,11 +249,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-030
   global_id: t-184277
   teiginys: 'Jogailos ir Vytauto rūmuose kartais buvo mokama rubliais, patekusiais iš slavų kraštų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir paremtas citata apie mokėjimus rubliais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]'
   pagrindžia:
     - c-031
 
@@ -413,11 +256,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-031
   global_id: t-184278
   teiginys: 'Istoriškai reikšmingas Vytauto veikimas prasidėjo Kęstučio kovos su Jogaila metu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys palaikomas, bet reikia pataisyti kalbą ir OCR klaidas.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Viena'
   pagrindžia:
     - c-032
 
@@ -425,11 +263,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-032
   global_id: t-184279
   teiginys: 'Autoriaus vertinimu, Vytauto pasitikėjimas Jogaila buvo per didelis ir tapo Kęstučio mirties priežastimi.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pateikia autoriaus interpretaciją, todėl reikia aiškios atribucijos.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-033
 
@@ -437,14 +270,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-033
   global_id: t-184280
   teiginys: '1392 m. Jogaila susitaikė su Vytautu, kai šis atsisakė sąjungos su Ordinu ir gavo valdyti visą Lietuvą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradiniame teiginyje veiksmo centras yra Vytautas, todėl perrašyta aiškiau susiejant faktą su Jogaila.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
-  temporaliniai_duomenys: 'įvykio data: 1392 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje veiksmo centras yra Vytautas, todėl perrašyta aiškiau susiejant faktą su Jogaila.'
   pagrindžia:
     - c-034
 
@@ -452,12 +277,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-034
   global_id: t-184373
   teiginys: 'Jogaila su Olesnickiu atvyko į Vilnių ir, aiškėjant Vytauto įpėdinystei, linko nesipriešinti vainikavimui.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia, sakinys suformuluotas kaip savarankiškas faktas.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Vilnius; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] keliavo į Vilnius'
   pagrindžia:
     - c-001
 
@@ -465,12 +284,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-035
   global_id: t-184719
   teiginys: 'Kojelavičius Jogailai priskiria klastingą dėdės nužudymą ir morališkai nepateisina jo slaptų sandėrių su kryžiuočiais.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinė formuluotė netaisyklinga ir perteikia autoriaus vertinimą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Krėva; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] buvo sūnus [[objektai/asmenys/Algirdas|Algirdas]]; [[objektai/asmenys/Jogaila|Jogaila]] sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-035
 
@@ -478,11 +291,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-036
   global_id: t-184720
   teiginys: 'Tapęs Lenkijos karaliumi, Jogaila Petro Pšonkos ir Otono Čecharovičiaus turtus perdavė karalystės iždui.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citatą galima paversti rišliu faktiniu sakiniu be OCR triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Viena'
   pagrindžia:
     - c-036
 
@@ -490,11 +298,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-037
   global_id: t-184721
   teiginys: 'Sulaukęs paramos iš Livonijos ir Prūsijos, Jogaila su kariuomene traukė iš Vilniaus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Jogailos veiksmą ir remiasi citata.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_place: Poleksija; mentioned_place: Suražas'
   pagrindžia:
     - c-037
 
@@ -502,12 +305,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-038
   global_id: t-184722
   teiginys: 'Prieš Kęstučio kariuomenę stojęs Jogaila numanė, kad kova pareikalaus didelių aukų, todėl pirmiau bandė veikti žodžiais.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinė formuluotė nutrūkusi ir per ilga.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] kariavo prieš [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-038
 
@@ -515,12 +312,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-039
   global_id: t-184723
   teiginys: 'Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Krėva; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Krėva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/budeliai|budeliai]]; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] siuntė į Krėva; [[objektai/asmenys/Jogaila|Jogaila]] siuntė į Vilnius'
   pagrindžia:
     - c-039
 
@@ -528,14 +319,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-040
   global_id: t-184724
   teiginys: 'Sužinojęs apie Jadvygos paskelbimą Lenkijos karaliene, Jogaila nutarė prašyti jos rankos.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinė formuluotė nepakankamai aiški be konteksto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_person: [[objektai/asmenys/Bodzanta|Bodzanta]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1385 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė nepakankamai aiški be konteksto.'
   pagrindžia:
     - c-040
 
@@ -543,11 +326,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-041
   global_id: t-184725
   teiginys: 'Jogaila asmeniškai pasveikino karalienę ir per Skirgailą bei Vytautą pasiuntė jai gausių dovanų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Jogailos veiksmus ir atitinka citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Bodzanta|Bodzanta]]'
   pagrindžia:
     - c-041
 
@@ -555,11 +333,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-042
   global_id: t-184726
   teiginys: 'Sužinojęs apie Švitrigailos veiksmus Vitebske, Jogaila paliepė Vytautui kariauti, kol šis atsiims žemes ir sutriuškins Švitrigailą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinė formuluotė iškraipyta ir klaidingai užbaigta.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Dnepras; mentioned_place: Livonija; mentioned_place: Polockas; mentioned_place: Vitebskas'
   pagrindžia:
     - c-042
 
@@ -567,11 +340,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-043
   global_id: t-184727
   teiginys: 'Įspėtas dėl gresiančio karo, Jogaila susitarė su Vytautu ir atvyko į Kauną, apsimesdamas turįs kitų ketinimų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citatą reikia sukonkretinti į pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-043
 
@@ -579,12 +347,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-044
   global_id: t-184728
   teiginys: 'Norėdamas palengvinti maisto stokos kamuojamos Lietuvos dalią, Jogaila įsakė į Lietuvą gabenti dvidešimt laivų grūdų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinė formuluotė per ilga ir turi OCR skaidymo klaidų.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vysla'
-  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] siuntė į Lietuva'
   pagrindžia:
     - c-044
 
@@ -592,11 +354,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-045
   global_id: t-184729
   teiginys: 'Jogaila atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Reikia aiškesnės sakinio formos be perteklinės atribucijos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenčica'
   pagrindžia:
     - c-045
 
@@ -604,11 +361,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-046
   global_id: t-184730
   teiginys: 'Matydamas kryžiuočių sėkmę, karalius Jogaila įsakė visoms Lenkijos žemėms stoti į kovą su Prūsija.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, paremtas citata.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bobrovnikai; mentioned_place: Lenčica; mentioned_place: Volynė'
   pagrindžia:
     - c-046
 
@@ -616,12 +368,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-047
   global_id: t-184731
   teiginys: 'Kai Edigejus siaubė Rusią, Jogaila Sanoke susituokė su Elžbieta ir iškėlė vestuvių puotą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir pagrįstas citatos informacija.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_place: Sanokas; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Edigejus|Edigejus]]; mentioned_place: Austrija'
-  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] vedė [[objektai/asmenys/Elžbieta|Elžbieta]]'
   pagrindžia:
     - c-047
 
@@ -629,11 +375,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-048
   global_id: t-184732
   teiginys: 'Aptaręs pasiūlymus su senatu ir Vytautu, Jogaila sutiko jungtis į karą su turkais tik susitarus visiems krikščionių valdovams.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinė formuluotė nutrūkusi ir užteršta OCR klaidomis.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Vengrija'
   pagrindžia:
     - c-048
 
@@ -641,11 +382,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-049
   global_id: t-184733
   teiginys: 'Iš Lucko grįžęs į Lenkiją, Jogaila Korčine sukvietė seimą, kad luomai nuspręstų, kaip priešintis Vytauto siekiams.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Reikia pašalinti antraštės triukšmą ir sutrumpinti sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_place: Korčinas; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Viena'
   pagrindžia:
     - c-049
 
@@ -653,11 +389,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-050
   global_id: t-184734
   teiginys: 'Sužinojęs apie Vytauto vainikavimo reikalą, karalius Jogaila ieškojo užtarėjų ir apie viską pranešė Romos popiežiui.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Jogailos veiksmą dėl Vytauto vainikavimo reikalo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]'
   pagrindžia:
     - c-050
 
@@ -665,11 +396,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-051
   global_id: t-184735
   teiginys: 'Jogaila sakė nieko nedarysiąs be lenkų senatorių, kuriuos jam priskyrė valstybė, pritarimo.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinėje formuluotėje yra OCR klaidų ir perteklinė atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-051
 
@@ -677,11 +403,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
 - t-052
   global_id: t-184736
   teiginys: 'Raginamas imtis veiksmų prieš Boleslovą, Jogaila neilgai priešinosi ir pasiuntė žygūnus pas Žygimantą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citatą reikia išplėsti į aiškų faktinį teiginį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-052
 
@@ -693,16 +414,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     - c-053
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 269929-270472; hash=5b2e5d5e58dc9439184c299e330b32f127b67ba7ac49ad455958c18efbf7e101; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukuras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aukuras: mention_match, thing, gap=79
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Aukuras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-188543"></a>
 - t-054
   global_id: t-188543
@@ -711,16 +422,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     - c-054
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 389009-389253; hash=b56e21c5c5229b16258f1dd1d8f1deafe319c4724cd8e3d063778df0988f18c7; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Neris: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Neris: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Neris" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 <a id="claim-t-188544"></a>
 - t-055
   global_id: t-188544
@@ -729,16 +430,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     - c-055
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 704054-704726; hash=2a9bac7b75e3f46fd4b125ce692a66ee575142a7c9f32a0ec66bc4174c793bc5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-188545"></a>
 - t-056
   global_id: t-188545
@@ -747,16 +438,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     - c-056
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 713317-713786; hash=b88c578f514aaba6552ac81d72fed6fd91bd60b1129ba41b7860b80857f4ddf3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Konstanca: 0.85
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Konstanca: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekste sakoma, kad Vladislovas Jogaila pasiuntinį nusiuntė į Konstancos susirinkimą.
 <a id="claim-t-188546"></a>
 - t-057
   global_id: t-188546
@@ -765,16 +446,6 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     - c-057
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 821880-822425; hash=5cd56c691ddec880a12eab8c67cfbb219c59297c4d882e4dfd9b3dbfb5c3a2a2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Lietuva: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad Vladislovas Jogaila 1392 metais nusiuntė Jeronimą skelbti tikėjimo Lietuvoje.
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51025|Jadvyga (Jogailos duktė)]]: Horodlėje karalaitė Jadvyga buvo pripažinta Lenkijos sosto įpėdine, o Vytautas paskirtas jos globėju.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179655|Skirgaila]]: Jogaila pasiuntė brolį Skirgailą su slaptais įgaliojimais į Vakarų Europą, o Marienburge Skirgaila buvo draugiškai priimtas.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179662|Skirgaila]]: Jogaila pavedė Lietuvą savo broliui Skirgailai, todėl Vytautui labiau parūpo Lietuvos ateitis negu jos krikštas.
@@ -1496,13 +1167,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     iš jo sūnų, buvo jau linkęs vainikavimui nesipriešinti. Bet visai
     kitaip buvo galvojama Lenkijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034
-- c-002
+    - t-034- c-002
   santrauka: 'Pasimeldęs Jogaila Vytauto ir lenkų riterių raginimu užsidėjo šarvus ir nuvyko prie kariuomenės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1514,13 +1183,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     gas riterių įšventinimo ceremonijas. Iš viso įšventino riteriais
     apie tūkstantį vyrų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017
-- c-003
+    - t-017- c-003
   santrauka: 'Jogaila netrukus įsakė duoti ženklą mūšiui.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1530,13 +1197,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     jį apstatė geriausia sargyba. Jį saugojo kunigaikščio Kaributo
     vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018
-- c-004
+    - t-018- c-004
   santrauka: '1386 m. Jogaila su savo broliais, Vytautu, kaipo Gardino kunigaikščiu, ir būriu dvaro didikų išvyko į Krokuvą priimti krikšto, vesti lenkų karalaitę Jadvygą ir karūnuotis Lenkijos karaliumi.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1547,13 +1212,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     kuvos katedroje, kur jį pakrikštijo Gniezno vysk. Bodzanta
     Vladislovo vardu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019
-- c-005
+    - t-019- c-005
   santrauka: '1392 m. rugpjūčio 5 d. Ostrovoje Jogaila sudarė taiką su Vytautu ir grąžino jam tėviškę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1564,13 +1227,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     pridėjo kitas žemes, jų tarpe — Lucką, kuris vos neseniai, t. y.
     tų pačių metų bal. mėn. 16 d. buvo patvirtintas Lenkijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021
-- c-006
+    - t-021- c-006
   santrauka: 'Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1588,13 +1249,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     Lenkija, kurioj tos pačios pretenzijos grėsė raumumui valdant
     Raudonąją Rusiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022
-- c-007
+    - t-022- c-007
   santrauka: '1417 m. Jogaila vedė trečią žmoną.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1607,13 +1266,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     veldimą Lietuvą, kame pagal tą įpėdinystės teisę viešpatautų
     ir jo sūnūs, sulaukti iš paskutinės žmonos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024
-- c-008
+    - t-024- c-008
   santrauka: 'Jogaila nebuvo visiškai nutraukęs santykių su Vytautu ir Lietuva, nes dažnai čia viešėdavo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1623,13 +1280,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     siomis Lietuvai valandomis, pav., kad ir bado metu, ištiesdavo
     jis savo duosnią ranką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025
-- c-009
+    - t-025- c-009
   santrauka: 'Jogaila, siekdamas atgauti paveldą ir atkeršyti už Vaidilos mirtį, sutelkė pajėgas ir nusprendė užimti Vilnių bei Trakus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1642,13 +1297,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     nusprendė užimti Vilnių ir Trakus. Hanulas, arba Hanka32,
     užmuš, o mūsų kraštą užvaldys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-- c-010
+    - t-008- c-010
   santrauka: 'Vladislovo Jogailos lėšomis pradėtą statyti Šv. Jono bažnyčią užbaigė Vytautas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1667,13 +1320,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     mes pašventino vyskupai: Kijevo - Mykolas ir Plocko -
     Stanislovas82.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-- c-011
+    - t-003- c-011
   santrauka: 'Jogaila siekė Lenkijos sosto ir ketino sukurti naują galingą valstybę Šiaurės Europoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1699,13 +1350,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     kėti, kad būtų kalbama apie tiltą per
     Viliją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-- c-012
+    - t-006- c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Beprotiškai įniršęs, kaip sako
@@ -1717,13 +1366,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     tęsė, apie tai pasklido žinia ne tik Lenkijoje, bet ir tolesnėse
     šalyse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-- c-013
+    - t-005- c-013
   santrauka: 'Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija neleido Vilniaus miestiečiams įgyti daugiau laisvių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1736,13 +1383,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     laisvių. Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar-
     das, atsidūrė kitokiose aplinkybėse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-- c-014
+    - t-004- c-014
   santrauka: 'Siekdamas didelės valdžios, Jogaila pirmiausia sutelkė jėgas nusikratyti dėdės Kęstučio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1762,13 +1407,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     dindavo trumpumo dėlei -Jagiełło, o
     lotyniškai - jagelo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-- c-015
+    - t-002- c-015
   santrauka: 'Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1786,13 +1429,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     didikus - Rumbautą ir Goštautą - išlaisvino ir atsiuntė jam
     į Vilnių13.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-- c-016
+    - t-001- c-016
   santrauka: 'Jogailos siekius patarimais rėmė ir savo įtaka skatino bajoras Vaidila.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1807,13 +1448,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­
     žiuočių ir palengvinti jiems Kęstučio valdų puolimą28.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-- c-017
+    - t-009- c-017
   santrauka: 'Algirdui užleidus sostą, jo sūnus Jogaila dar tėvui gyvam esant perėmė aukščiausiąją Lietuvos valdžią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1842,13 +1481,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     visuomenės pamatai, kurią tinkamai išlaikyti gebėjo Gedi­
     minas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-- c-018
+    - t-007- c-018
   santrauka: 'Pagal 1385 m. Krėvos sutartį su Lenkija Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1859,13 +1496,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     jimą, Jogaila naikino senojo tikėjimo apraiškas: šventąsias girias, žalčius,
     šventąją ugnį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-- c-019
+    - t-010- c-019
   santrauka: '1385 m. rugpjūčio 14 d. Jogaila sutiko su Krėvos sutarties dokumento turiniu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1876,13 +1511,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų
     belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-- c-020
+    - t-011- c-020
   santrauka: 'Eidintas, Bumblauskas, Kulakauskas ir Tamošaitis Jogailos elgesį sudarant Krėvos sutartį aiškina ankstyvojo monarcho valstybės kaip nuosavybės samprata.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1898,13 +1531,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     Jogaila, Lietuvos didysis kunigaikštis, tapo Jogailos, Lenkijos karaliaus,
     vasalu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012
-- c-021
+    - t-012- c-021
   santrauka: '1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, kuria buvo įsteigiama ir aprūpinama vyskupo institucija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1915,13 +1546,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     jėga priversti priimti katalikybę. Jogaila, pavertęs Lietuvą krikščioniška
     šalimi, panaikino pagrindinę politinės izoliacijos priežastį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-- c-022
+    - t-013- c-022
   santrauka: 'Žalgirio mūšio rytą Jogaila delsė laukdamas Ordino pasiūlymo derėtis, o Vytautas troško lemiamo mūšio.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1931,13 +1560,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     menės dydžiu, žygio kryptimi, grėsmingu jėgos demonstravimu manė
     priversti Ordiną pradėti derybas ir jam padiktuoti savo sąlygas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014
-- c-023
+    - t-014- c-023
   santrauka: 'Po Žalgirio mūšio Vakaruose sklido paskviliai, kad Jogailos ir Vytauto pergalė buvusi netikra, nes jie rėmėsi pagonimis ir totoriais musulmonais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1946,13 +1573,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     jie nugalėjo pasitelkę pagonis, totorius musulmonus. Todėl 1413 m. Vy-
     tautas su Jogaila pradeda krikštyti žemaičius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-- c-024
+    - t-015- c-024
   santrauka: 'Jogailos ir Jadvygos vedybomis 1386 m. prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1965,13 +1590,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos
     ir Lenkijos suartėjimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-- c-025
+    - t-016- c-025
   santrauka: '1413 m. Kauno saloje vykusiame Žemaitijos sienų suvažiavime dalyvavo Jogaila.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1986,13 +1609,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     Veliuoną, kuri esanti Ordino žemėje ir atiduoti kryžiuočiams
     visas Nemuno ir Nevėžio krantuose Vytauto pastatytas pilis^4 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020
-- c-026
+    - t-020- c-026
   santrauka: 'Po Jadvygos mirties lenkai pažadėjo Jogailai, kad Lenkijos sostą galės užimti jo vaikai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2008,13 +1629,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     kimybės priesaika: matyt, nenorėta tos teisės išplėsti ant tų
     Jogailos vaikų, kurie būtų kilę ne iš Piastų dinastijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023
-- c-027
+    - t-023- c-027
   santrauka: 'Lucke Zigmantas pasiūlė Jogailai karūnuoti Vytautą, kuris buvo suvažiavimo šeimininkas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2028,13 +1647,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     mantą apie tai pasikalbėti. Nors buvo jau vakaras, Zigmantas
     aplankė Vytautą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026
-- c-028
+    - t-026- c-028
   santrauka: 'Laiške Jogaila atkalbinėjo Zigmantą nuo sumanymo karūnuoti Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2044,13 +1661,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     vęs sutikimą ir nurodo, kad iš to galįs kilti tarp Lietuvos ir Len­
     kijos naminis karas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027
-- c-029
+    - t-027- c-029
   santrauka: 'Jogaila atsakyme Vytautui teisinosi, kad laiškas Zigmantui buvo parašytas be jo žinios.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2064,13 +1679,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     nios; jam nežinomas net ir jo turinys. Ir nenuostabu, nes jis
     nemokėjo skaityti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-028
-- c-030
+    - t-028- c-030
   santrauka: 'Jogaila suprato, kad laisva paveldima Lietuvos karalija padėtų jam tvirtai laikytis Lenkijoje ir išlaikyti dinastijos teises.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2083,13 +1696,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     jo^4 ). Lenkai bijojo leisti vieną Jogailą į Lietuvą ir prisiprašė,
     kad leistų kartu su juo vykti ir kai kuriems jų atstovams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029
-- c-031
+    - t-029- c-031
   santrauka: 'Jogailos ir Vytauto rūmuose kartais buvo mokama rubliais, patekusiais iš slavų kraštų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2101,13 +1712,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     vo kartais mokama rubliais, patekusiais iš slavų kraštų; bet tai
     dar nebuvo monetos, o paprasti sukapoti sidabro gabalai^5 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-030
-- c-032
+    - t-030- c-032
   santrauka: 'Istoriškai reikšmingas Vytauto veikimas prasidėjo Kęstučio kovos su Jogaila metu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2120,13 +1729,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     buvo jam artimi — Kęstutis kaip tėvas, Jogaila kaip draugas
     — pusbrolis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-031
-- c-033
+    - t-031- c-033
   santrauka: 'Autoriaus vertinimu, Vytauto pasitikėjimas Jogaila buvo per didelis ir tapo Kęstučio mirties priežastimi.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2137,13 +1744,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     buvo paaiškėję, kad Jogaila neteisingai elgėsi. Vytauto per di­
     delis pasitikėjimas buvo Kęstučio mirties priežastis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-032
-- c-034
+    - t-032- c-034
   santrauka: '1392 m. Jogaila susitaikė su Vytautu, kai šis atsisakė sąjungos su Ordinu ir gavo valdyti visą Lietuvą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2156,13 +1761,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     la ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.
     Jo santykiai su tauta pasikeitė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-033
-- c-035
+    - t-033- c-035
   santrauka: 'Kojelavičius Jogailai priskiria klastingą dėdės nužudymą ir morališkai nepateisina jo slaptų sandėrių su kryžiuočiais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2180,13 +1783,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     priskiriami ir slapti sandėriai su kryžiuočiais, morališ­
     kai nepateisinami.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-035
-- c-036
+    - t-035- c-036
   santrauka: 'Tapęs Lenkijos karaliumi, Jogaila Petro Pšonkos ir Otono Čecharovičiaus turtus perdavė karalystės iždui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2207,13 +1808,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     įgyvendinti trukdė didžiausia to krašto upė Vysla, te­
     kanti gana plačia ir gilia vaga.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-036
-- c-037
+    - t-036- c-037
   santrauka: 'Sulaukęs paramos iš Livonijos ir Prūsijos, Jogaila su kariuomene traukė iš Vilniaus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2231,13 +1830,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     nojo, kad priešas vedasi didžiulę kariuomenę, kuriai
     jie neprilygsta nei ginkluote, nei karių skaičiumi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-037
-- c-038
+    - t-037- c-038
   santrauka: 'Prieš Kęstučio kariuomenę stojęs Jogaila numanė, kad kova pareikalaus didelių aukų, todėl pirmiau bandė veikti žodžiais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2256,13 +1853,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     monėmis. Tegu jie atsimeną, jog viena prieš kitą sto­
     vinčios ne priešų, bet giminaičių rikiuotės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-038
-- c-039
+    - t-038- c-039
   santrauka: 'Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2287,13 +1882,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     kša, Bilgenis, Lisica ir kiti)
     Krėvos kalėjime jį pasmaugė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-039
-- c-040
+    - t-039- c-040
   santrauka: 'Sužinojęs apie Jadvygos paskelbimą Lenkijos karaliene, Jogaila nutarė prašyti jos rankos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2325,13 +1918,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     Hanulas, Vilniaus seniūnas;
     jie vežėsi puikiausių dovanų karalienei bei didikams.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-040
-- c-041
+    - t-040- c-041
   santrauka: 'Jogaila asmeniškai pasveikino karalienę ir per Skirgailą bei Vytautą pasiuntė jai gausių dovanų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2347,13 +1938,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     apkrikštytas, gavo Vladislo­
     vo vardą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-041
-- c-042
+    - t-041- c-042
   santrauka: 'Sužinojęs apie Švitrigailos veiksmus Vitebske, Jogaila paliepė Vytautui kariauti, kol šis atsiims žemes ir sutriuškins Švitrigailą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2381,13 +1970,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     Vytautui tol kariauti, kol neatsiims žemės ir nesutriuš­
     kins Švitrigailos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-042
-- c-043
+    - t-042- c-043
   santrauka: 'Įspėtas dėl gresiančio karo, Jogaila susitarė su Vytautu ir atvyko į Kauną, apsimesdamas turįs kitų ketinimų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2399,13 +1986,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     Kauną. Nelyginant į vaišes čia pasikvietė kryžiuočių
     vadovus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-043
-- c-044
+    - t-043- c-044
   santrauka: 'Norėdamas palengvinti maisto stokos kamuojamos Lietuvos dalią, Jogaila įsakė į Lietuvą gabenti dvidešimt laivų grūdų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2420,13 +2005,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     gas karu i
     juos išsivežė kitur.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-044
-- c-045
+    - t-044- c-045
   santrauka: 'Jogaila atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2444,13 +2027,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     gų, visokiais būdais skatinti magistrą draugiškai už­
     baigti ginčą su Vytautu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-045
-- c-046
+    - t-045- c-046
   santrauka: 'Matydamas kryžiuočių sėkmę, karalius Jogaila įsakė visoms Lenkijos žemėms stoti į kovą su Prūsija.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2462,13 +2043,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     riams paliepė rinktis į Volbožą, Didžiosios Lenkijos —
     į Lenčicą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-046
-- c-047
+    - t-046- c-047
   santrauka: 'Kai Edigejus siaubė Rusią, Jogaila Sanoke susituokė su Elžbieta ir iškėlė vestuvių puotą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2483,13 +2062,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     gus, nes niekas neabejojo, kad ir dangus smerkė tai,
     ką atmetė lyg susitarę žmonės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-047
-- c-048
+    - t-047- c-048
   santrauka: 'Aptaręs pasiūlymus su senatu ir Vytautu, Jogaila sutiko jungtis į karą su turkais tik susitarus visiems krikščionių valdovams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2514,13 +2091,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     negalįs nepaisyti sudarytų susitarimų, kuriuos lengva
     sulaužyti, bet sunku atnaujinti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-048
-- c-049
+    - t-048- c-049
   santrauka: 'Iš Lucko grįžęs į Lenkiją, Jogaila Korčine sukvietė seimą, kad luomai nuspręstų, kaip priešintis Vytauto siekiams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2539,13 +2114,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     spręstų, kaip dera priešintis
     nesaikingiems Vytauto potroškiams.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-049
-- c-050
+    - t-049- c-050
   santrauka: 'Sužinojęs apie Vytauto vainikavimo reikalą, karalius Jogaila ieškojo užtarėjų ir apie viską pranešė Romos popiežiui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2563,13 +2136,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     krės krikščioniškąją valstybę, paragino Zigmantą bei
     Vytautą atsisakyti savo sumanymo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-050
-- c-051
+    - t-050- c-051
   santrauka: 'Jogaila sakė nieko nedarysiąs be lenkų senatorių, kuriuos jam priskyrė valstybė, pritarimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2586,13 +2157,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     riuos jam priskyrusi valstybė. Tada Vytautas sugalvojo
     perkalbėti lenkus, o pirmiausia — Zbignevą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-051
-- c-052
+    - t-051- c-052
   santrauka: 'Raginamas imtis veiksmų prieš Boleslovą, Jogaila neilgai priešinosi ir pasiuntė žygūnus pas Žygimantą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2604,13 +2173,11 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     nelyginant atlyginimą už pergalę Lietuvos Didžiąją
     Kunigaikštystę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-052
-- c-053
+    - t-052- c-053
   santrauka: 'Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Žemaitijoje ilgiau išlikusį aukurą ir apeigas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -2624,13 +2191,10 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
     deivę, juk ir Strijkovskis tą patvirtina.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-053
-- c-054
+    - t-053- c-054
   santrauka: 'Narbutas atmeta nuomonę, kad Šventosios vardas kilo iš lietuvių krikštijimo jos vandeniu Jogailai atvertus tautą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -2640,13 +2204,10 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     verta nuomonė, jog upė turinti tokį vardą dėl to, kad jos van­
     deniu buvo krikštijami lietuviai, kai Jogaila visus atvertė.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-054
-- c-055
+    - t-054- c-055
   santrauka: 'Narbutas aprašo autorių, giriantį Vladislovą Jogailą, jo brolius ir jų nuolankumą bažnyčiai dėl lietuvių atvertimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -2663,13 +2224,10 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     jų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­
     džių.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-055
-- c-056
+    - t-055- c-056
   santrauka: 'Narbutas rašo, kad Vladislovas Jogaila į Konstancos susirinkimą pasiuntė Teodorą Lenką skųsti kryžiuočių žiaurumų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -2683,13 +2241,10 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     rumais atgrasančius lietuvius veiksmingai priimti šventąjį ti­
     kėjimą. Apie tai žinome iš Dlugošo.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-056
-- c-057
+    - t-056- c-057
   santrauka: 'Narbutas rašo, kad 1392 metais Vladislovas Jogaila pasiuntė Jeronimą Prahiškį pas Vytautą skelbti Lietuvoje krikščionių tikėjimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -2703,10 +2258,8 @@ Jogaila buvo Lietuvos didysis kunigaikštis, siekęs Lenkijos sosto ir platesnė
     metais nusiuntė jį, kaip pasiryžusį skelbti Lietuvoje krikščionių tikė­
     jimą, su laišku pas Vytautą.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-057
 

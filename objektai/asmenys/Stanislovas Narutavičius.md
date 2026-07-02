@@ -20,9 +20,6 @@ Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M.
 - t-001
   global_id: t-75999
   teiginys: 'Stanislovas Narutavičius buvo vienas Lietuvos nepriklausomybės kūrėjų ir Lietuvos Tarybos narys.'
-  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir kitų asmenų perteklinis kontekstas.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Gabrielis Narutovičius|Gabrielis Narutovičius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gabrielis Narutovičius|Gabrielis Narutovičius]]; mentioned_place: Lenkija; mentioned_place: Vargiai'
-  semantiniai_rysiai: '[[objektai/asmenys/Stanislovas Narutavičius|Stanislovas Narutavičius]] buvo brolis [[objektai/asmenys/Gabrielis Narutovičius|Gabrielis Narutovičius]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Gabrielis Narutovičius.md#claim-t-26441|Gabrielis Narutovičius]]: Dvarininkas Gabrielis Narutovičius tapo Lenkijos prezidentu.
@@ -48,7 +45,6 @@ Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M.
     kijos prezidentu, o jo brolis Stanislovas Narutavičius – vienu iš Lietuvos
     nepriklausomybės kūrėjų, Lietuvos Tarybos nariu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

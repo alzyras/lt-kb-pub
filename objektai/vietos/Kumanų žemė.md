@@ -28,16 +28,6 @@ Narbutas Vytenio nelaisvės epizodą sieja su Batu stovykla Kumanų žemėje, i�
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 362717-363215; hash=80b5fff2485f350cfc6b992a78920c8fb51d71e014a125646a60644af9cc115d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Polockas: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytenis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vytenis valdė Polocko kunigaikštystę.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -54,10 +44,8 @@ Narbutas Vytenio nelaisvės epizodą sieja su Batu stovykla Kumanų žemėje, i�
     gaikštystę kartu su savo tėvu. Tebesitęsiančios tarpusavio ko­
     vos Lietuvoje buvo daugelio valstybės permainų priežastis.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -36,26 +36,8 @@ Nenurodyta
 - t-001
   global_id: t-185755
   teiginys: '1448 m. Mykolui su skitais įsiveržus į Severską, Kazimieras atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys apie įvykį.'
-  susije_objektai: 'llm_object: Severskas; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Severskas'
-  temporaliniai_duomenys: 'įvykio data: 1448 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys apie įvykį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 855488-856069; hash=1dcf0e80047a7d38eeb239177fe06d8476703c2c0fec2d0a2624450185a01c45; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Severskas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mykolas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Severskas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai aprašo Mykolo įsiveržimą į Severską.
 
 ## Reikšmingi paminėjimai
 
@@ -80,10 +62,8 @@ Nenurodyta
     karą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų
     žemių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

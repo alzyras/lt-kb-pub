@@ -30,27 +30,15 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
 - t-001
   global_id: t-73348
   teiginys: 'Po Smolensko paėmimo 1514 m. Konstantinas Ostrogiškis ties Orša smarkiai sumušė Maskvos kariuomenę.'
-  sudarymo_pagrindimas: 'Citata leidžia aiškiau suformuluoti faktą.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Konstantinas Ostrogiškis|Konstantinas Ostrogiškis]]; mentioned_place: Smolenskas'
-  temporaliniai_duomenys: 'įvykio data: 1514 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia aiškiau suformuluoti faktą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2b85d331e8b3b386f552637d75d9bea23d733f476f47a7ccd870bc52b6e7eaab; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 <a id="claim-t-73349"></a>
 - t-002
   global_id: t-73349
   teiginys: 'Oršoje įsteigta jėzuitų kolegija buvo karaliaus Zigmanto fundacija.'
-  sudarymo_pagrindimas: 'Iš sąrašo išskirtas citatos palaikomas faktas apie Oršą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 689807-690475; hash=8067db089f246b467b965cbdcbc93fb11aa2b7cfcdc95d5bc2bd6396860b3948; match=whitespace_regex
-  sprendimo_priezastis: auto
 - susijęs iš Druckas: Druckas buvo paimtas kartu su Orša prieš priartėjant prie Vitebsko.
 ## Reikšmingi paminėjimai
 
@@ -64,7 +52,6 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
     Netrukus po to atvykęs K. Ostrogiškis smarkiai sumušė Mas-
     kvos kariuomenę ties Orša.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -89,7 +76,6 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
     kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
     piegos f-ja).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

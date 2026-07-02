@@ -21,16 +21,6 @@ Narbutas svarsto, ar Lukas Davidas naudojosi visa vyskupo Kristijono kronika, ar
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 781271-782230; hash=c9d975cf9ae6c457d9c284338380e38f7c1f78ace17a9e2f496c7e0c4a6d361d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Foigtas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Luko Davido išrašai iš vyskupo Kristijono kronikos: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Foigtas: mention_match, author
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Luko Davido išrašai iš vyskupo Kristijono kronikos" parinktas kaip owner_note_path. Targetas "Foigtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -56,9 +46,7 @@ Narbutas svarsto, ar Lukas Davidas naudojosi visa vyskupo Kristijono kronika, ar
     ba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­
     rokai išsamesniais paaiškinimais negu Simonas Grunau17.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

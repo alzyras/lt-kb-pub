@@ -28,43 +28,22 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
 - t-001
   global_id: t-22193
   teiginys: 'Kolūkietis be kolūkio vadovybės leidimo negalėjo išsikelti, o menką atlygį už darbadienius papildydavo pajamomis iš 0,6 ha sodybinio sklypo.'
-  sudarymo_pagrindimas: 'Citata neremia pateiktų 1949 m. procentų, bet remia faktus apie kolūkiečio padėtį.'
-  temporaliniai_duomenys: 'įvykio data: 1949 m.; įvykio data: 1952 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata neremia pateiktų 1949 m. procentų, bet remia faktus apie kolūkiečio padėtį.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 439158-439601; hash=e683a3624f27c51177c37de011f3d3c553ee16f9f06f65b9da88086fda3288c4; match=whitespace_regex
-  sprendimo_priezastis: auto
 
 <a id="claim-t-22194"></a>
 - t-002
   global_id: t-22194
   teiginys: 'Varu į kolūkius varomi valstiečiai mažai uždirbo, nesistengė sąžiningai dirbti ir, nepaisydami bausmių, pradėjo vogti iš kolūkių.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie prievartinę kolektyvizaciją, kolūkius ir valstiečių elgesį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ec8946ce3f2ae6dfa607bcc4768264cb91d8c527cb8af906d6f51d33fa12729b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 <a id="claim-t-183435"></a>
 - t-003
   global_id: t-183435
   teiginys: '1949 m. pradžioje į kolūkius buvo įstoję 4 proc. visų valstiečių, o metų pabaigoje - jau 62 proc.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai pateikia 1949 m. valstiečių įstojimo į kolūkius kaitą.'
-  temporaliniai_duomenys: 'įvykio data: 1949 m.; įvykio data: 1952 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai pateikia 1949 m. valstiečių įstojimo į kolūkius kaitą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 439158-439601; hash=e683a3624f27c51177c37de011f3d3c553ee16f9f06f65b9da88086fda3288c4; match=whitespace_regex
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -79,14 +58,11 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
     aukšta tikinčiojo į Dievą valstiečio moralė, kai kurie savo sunkią dalią
     ėmė laistyti degtine.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 proc., o metų pabaigoje – jau 62 proc.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -99,11 +75,9 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
     pragyveno iš 0,6 ha sodybinio žemės sklypo, gaudamas iš jo net apie
     3/4 savo pajamų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
     - t-001

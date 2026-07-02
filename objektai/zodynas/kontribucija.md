@@ -28,8 +28,6 @@ amziai:
 - t-001
   global_id: t-181977
   teiginys: 'Totoriai pasuko Kijevo link ir paėmė iš miesto 3000 rublių kontribucijos.'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentiškas ir turi neaiškų įvardį.'
-  susije_objektai: 'llm_object: Kijevas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kijevas; mentioned_place: Luckas'
   pagrindžia:
     - c-001
 
@@ -44,7 +42,6 @@ amziai:
     link, paėmė iš jo 3000 rublių kontribucijos. Po to dar pasu­
     ko į Lucko žemes, ir tik iš ten grįžo į savo stepes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

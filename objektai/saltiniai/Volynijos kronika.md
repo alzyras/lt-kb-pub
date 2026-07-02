@@ -29,11 +29,6 @@ Volynijos kronika šiame veikale cituojama kaip šaltinis, teigiantis, kad 1248 
 - t-001
   global_id: t-11207
   teiginys: 'Volynijos kronika nurodė, kad 1248 m. viename mūšyje žuvo net 40 jotvingių kunigų.'
-  sudarymo_pagrindimas: 'Teiginį verta perrašyti be boilerplate, paliekant citata paremtą faktą.'
-  susije_objektai: 'mentioned_place: Viena; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  temporaliniai_duomenys: 'įvykio data: 1248 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginį verta perrašyti be boilerplate, paliekant citata paremtą faktą.'
   pagrindžia:
     - c-001
 
@@ -51,7 +46,6 @@ Volynijos kronika šiame veikale cituojama kaip šaltinis, teigiantis, kad 1248 
     myninės tautos tuo tarpu jau buvo susiorganizavusios į gana
     stambius vienetus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

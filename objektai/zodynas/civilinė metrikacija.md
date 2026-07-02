@@ -29,15 +29,8 @@ Naujoji valdžia, taupydama lėšas, mažino atlyginimus, planavo įvesti civili
 - t-001
   global_id: t-77790
   teiginys: 'III Seimo naujoji valdžia planavo įvesti civilinę metrikaciją, kuri būtų finansiškai paveikusi katalikų kunigus.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir apkrautas kitais su civiline metrikacija nesusijusiais faktais.'
-  temporaliniai_duomenys: 'įvykio data: po 1927 m.; įvykio data: 1927 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir apkrautas kitais su civiline metrikacija nesusijusiais faktais.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 312095-312725; hash=5b16c5aae214e66c565542c53b3105376c220b9245433793d51774e1d50bf39b; match=whitespace_regex
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -56,7 +49,6 @@ Naujoji valdžia, taupydama lėšas, mažino atlyginimus, planavo įvesti civili
     likų kunigams, nes nuo 1927 m. pradžios dar ketinta nebemokėti algų
     dvasininkams), ėmė mažinti karininkų skaičių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

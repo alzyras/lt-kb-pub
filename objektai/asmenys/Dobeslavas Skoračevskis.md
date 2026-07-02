@@ -23,20 +23,8 @@ Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, a
 - t-001
   global_id: t-80710
   teiginys: 'Dobeslavas Skoračevskis buvo Ordino pasiuntinys, atvykęs pas Jogailą į stovyklą derėtis dėl taikos.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir apkrautas kontekstu, bet citata patvirtina Skoračevskio pasiuntinio vaidmenį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=37f9bffd8607d9687cacf1332a966df83566b4c3cb2ad5b68281a1e232f09613; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> J. Dlugošas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dobeslavas Skoračevskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: J. Dlugošas: mention_match, author, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobeslavas Skoračevskis" parinktas kaip owner_note_path. Targetas "J. Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -63,7 +51,6 @@ Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, a
     | buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju
     magistru.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

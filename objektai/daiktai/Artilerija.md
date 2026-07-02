@@ -51,33 +51,13 @@ Nenurodyta
 - t-001
   global_id: t-187515
   teiginys: 'Komentare nurodoma, kad 1501-1502 m. žiemą Aukso ordos totoriai nesulaukė realios paramos kariuomene, artilerija ir maistu iš Aleksandro ir LDK Ponų Tarybos.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Perrašyta į vieną aiškų sakinį be antro aiškinamojo fragmento; teiginys remiasi komentaro citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Severskas; mentioned_place: Starodubas'
-  temporaliniai_duomenys: 'įvykio data: 1501 m.; įvykio data: 1501-1502; įvykio data: 1502 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Perrašyta į vieną aiškų sakinį be antro aiškinamojo fragmento; teiginys remiasi komentaro citata.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=187a65544a50a53d2e0f784d91cd7004b6ff24051ad13863604ec1c6c665df78; match=fallback; occurrences=0
-  sprendimo_priezastis: gap::items
-  ryšio_patikimumas: kariavo_pries -> Lenkai: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata nurodo, kad Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose.
 
 <a id="claim-t-187516"></a>
 - t-002
   global_id: t-187516
   teiginys: 'Lietuvių artilerija 1920 m. kovose prie Giedraičių veikė prieš lenkų dalinius.'
-  teiginio_tipas: 'faktas'
-  susije_objektai: 'llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Giedraičiai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Tautų Sąjunga|Tautų Sąjunga]]; mentioned_group: [[objektai/grupes/Želigovskininkai|Želigovskininkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1920 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/A. Tučkovas.md#claim-t-39984|A. Tučkovas]]: Kapitonas A. Tučkovas, vadovavęs rusų artilerijos parkui Poguliankoje, atsitraukė su įgulos likučiais.
@@ -279,7 +259,6 @@ Nenurodyta
     tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos
     vadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -298,7 +277,6 @@ Nenurodyta
     įvertinusios Ir nesugebėjusios reikiamai panaudoti savo sųjun-
     gininko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

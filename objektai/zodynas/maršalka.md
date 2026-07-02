@@ -23,12 +23,8 @@ tags:
 - t-001
   global_id: t-70234
   teiginys: 'Rūdavos mūšyje žuvusiam maršalkai Schindekopui paminklinis kryžius buvo pastatytas tuoj po mūšio ir atnaujintas 1835 m.'
-  sudarymo_pagrindimas: 'Reikia pašalinti neaiškų įvardį ir padaryti sakinį savarankišką.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=26afbbaf7395534b3a4aeadb9e93565ad1e772b4e94b9e9c099d35b1f5962ff5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Vaitiekus Narutavičius.md#claim-t-87875|Vaitiekus Narutavičius]]: Vaitiekus Narutavičius 1507 m. Melnike dalyvavo kaip rūmų maršalka ir Josvainių seniūnas.
 - susijęs iš [[objektai/paprociai/Seimo darbų statutas ir instrukcijų saikdinimo draudimas.md#claim-t-02018|Seimo darbų statutas ir instrukcijų saikdinimo draudimas (seimas)]]: Iki statuto seimo darbai vyko be nustatytos tvarkos ir dažnai iširdavo atstovams nesusitarus išrinkti maršalkos.
 - susijęs iš Švitrigailos garantinis raštas Mzusui: Švitrigailos dvaro maršalka buvo Mzusas, kuriam išduotas didžiojo kunigaikščio garantinis raštas saugotas Slaptajame archyve.
@@ -81,7 +77,6 @@ tags:
     padarė su ja sutartis, tačiau kryžiuočiai vis dėlto nesitraukė; ne-
     pajėgdami paimti pilių, jie naikino miestus ir apylinkes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

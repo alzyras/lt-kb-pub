@@ -21,16 +21,6 @@ Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų de
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 232402-232781; hash=b73137c74afd4fd7cd4b8ec788dc7e039633ca5ee44d83303e9ee4335cfc2572; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksotas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Milda Aleksota mildauninkai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Aleksotas: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Milda Aleksota mildauninkai" parinktas kaip owner_note_path. Targetas "Aleksotas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-189312"></a>
 - t-002
   global_id: t-189312
@@ -39,16 +29,6 @@ Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų de
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 232832-233219; hash=3bdf7c248966526e1bb26d66433af1241b29276b24eab4cc566e528d114b16a1; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksotas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Milda Aleksota mildauninkai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Aleksotas: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Milda Aleksota mildauninkai" parinktas kaip owner_note_path. Targetas "Aleksotas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -64,13 +44,10 @@ Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų de
     Lietuvos Venerą.
     Jai buvo skirtas balandžio mėnuo.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas Mildos garbinimą siejo su Kauno apylinkėmis ir Aleksoto priemiesčio vardu, o mildauninkais vadino meilėje padedančius kerėtojus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -82,9 +59,7 @@ Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų de
     kerėtojus, padedančius meilėje, kaimiečiai vadina mildaunin-
     kais (Mildawnikas).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

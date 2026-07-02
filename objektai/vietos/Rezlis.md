@@ -31,42 +31,15 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 - t-001
   global_id: t-58620
   teiginys: 'Rezlis, dabartinis Rešelis, buvo į šiaurės rytus nuo Olštino, o jo vardas kildinamas iš prūsų kalbos.'
-  sudarymo_pagrindimas: 'Citata palaiko vietos tapatinimą, padėtį ir vardo kilmę, bet pradinė formuluotė per ilga ir triukšminga.'
-  susije_objektai: 'mentioned_place: Prūsų žemė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Varmė'
-  temporaliniai_duomenys: 'įvykio data: 1450 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko vietos tapatinimą, padėtį ir vardo kilmę, bet pradinė formuluotė per ilga ir triukšminga.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 270742-271464; hash=205f3d5347afa04cbf084ca421535fde44b4e31b54b6728b5d74b3462b0ce3fd; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Barta: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rezlis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Barta: mention_match, place, gap=62
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rezlis" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58621"></a>
 - t-002
   global_id: t-58621
   teiginys: 'Ordino broliai Bartos žemėje pastatė tris pilis: Bartenšteino, Vizenburgo ir Rezlio.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas; citata remia glaustą faktą apie Rezlio pilį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Barta; mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Kroicburgas; mentioned_place: Notanga; mentioned_place: Varmė; mentioned_place: Vizenburgas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 272851-273215; hash=008847109503f842795167b91dc05c94a160babcd836b4efed05d87cd1eda394; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsų žemė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rezlis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=88
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rezlis" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178959|Kryžiuočių ordinas]]: Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178959|Kryžiuočių ordinas]]: Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.
 - susijęs iš [[objektai/ivykiai/Rezlio pilies sudeginimas ir įgulos pasitraukimas.md#claim-t-62459|Rezlio pilies sudeginimas ir įgulos pasitraukimas (pilis)]]: Rezlio pilies broliai sudegino pilį ir slaptais dykrų keliais pasitraukė, išgirdę apie prūsų apsiaustas pilis.
@@ -89,7 +62,6 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
     gynybinė konstrukcija aptikta 2,8 m gylyje. Kasinėjimai parodė, kad čia VI—VIII a. jau
     buvo gyvenvietė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -110,7 +82,6 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
     ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta
     daug brolių ir ginklanešių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

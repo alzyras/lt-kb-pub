@@ -46,23 +46,8 @@ Nenurodyta
 - t-001
   global_id: t-91913
   teiginys: 'Konrado iš Tirbergo pasiųstas Sembos fogtas Ditrichas su kariuomene Retavos valsčiuje užėmė ir sudegino dvi pilis.'
-  sudarymo_pagrindimas: 'Citata remia aiškų veikėjo, vietos ir rezultato sakinį be nutrūkusio fragmento.'
-  susije_objektai: 'llm_object: Nadruva; mentioned_place: Retavos valsčius; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Bartenšteinas; mentioned_place: Bysleida; mentioned_place: Nadruva; mentioned_place: Semba'
-  temporaliniai_duomenys: 'įvykio data: 1274 m.; įvykio data: 1292 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata remia aiškų veikėjo, vietos ir rezultato sakinį be nutrūkusio fragmento.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 474806-476555; hash=fc2e0c2b4421d1eb59a34b254418f803f94dd7621a0611ea540acccec7a6303f; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Nadruva: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Nadruva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekste aiškiai sakoma, kad Konradas pasiuntė Ditrichą su kariuomene į Nadruvą.
 
 ## Reikšmingi paminėjimai
 
@@ -97,7 +82,6 @@ Nenurodyta
     beje, jiems čia atiteko toks didelis grobis, tiek arklių, gyvulių bei visokiausių daiktų, kad
     vos ne vos stengė šitai išsigabenti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

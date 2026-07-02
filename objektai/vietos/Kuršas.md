@@ -48,12 +48,6 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - t-001
   global_id: t-90761
   teiginys: '1244 m. Mindaugas žygyje į Kuršą prie Ambotės atvedė didelę kariuomenę.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka citatos faktą.'
-  susije_objektai: 'llm_object: Kuršas; mentioned_place: Ambotė; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Europa'
-  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] surengė žygį į Kuršas'
-  temporaliniai_duomenys: 'įvykio data: 1244 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir atitinka citatos faktą.'
   pagrindžia:
     - c-003
 
@@ -61,11 +55,6 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - t-002
   global_id: t-90762
   teiginys: '1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir nurodo Saksonijos kariuomenės veiksmą Kurše.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Šiaurės karas|Šiaurės karas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Saksonija; llm_object: [[objektai/grupes/Rusai|Rusai]]'
-  temporaliniai_duomenys: 'įvykio data: 1700 m.; įvykio data: 1702 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir nurodo Saksonijos kariuomenės veiksmą Kurše.'
   pagrindžia:
     - c-009
 
@@ -73,12 +62,6 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - t-003
   global_id: t-90763
   teiginys: 'Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis nesėkmingai puolė Ordino valdytą Embutės pilį.'
-  sudarymo_pagrindimas: '1244 m. data citatoje nepagrįsta, todėl paliktas tik šaltinio remiamas teiginys.'
-  susije_objektai: 'llm_object: Embutė; llm_object: Kuršas; mentioned_place: Embutė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] puolė Kuršas'
-  temporaliniai_duomenys: 'įvykio data: 1245-1246; įvykio data: 1246 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: '1244 m. data citatoje nepagrįsta, todėl paliktas tik šaltinio remiamas teiginys.'
   pagrindžia:
     - c-005
 
@@ -86,12 +69,6 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - t-004
   global_id: t-90764
   teiginys: '1244 m. Mindaugas žygyje į Kuršą prie Ambotės buvo atvedęs didelę kariuomenę.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Kuršas; mentioned_place: Ambotė; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Europa'
-  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] surengė žygį į Kuršas'
-  temporaliniai_duomenys: 'įvykio data: 1244 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
 
@@ -99,172 +76,62 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - t-005
   global_id: t-90766
   teiginys: 'Nemunas prie Klaipėdos įteka į jūrą ir skiria Prūsiją nuo Rusios, Lietuvos bei Kuršo.'
-  sudarymo_pagrindimas: 'Citata pagrindžia geografinį faktą; nereikia autoriaus boilerplate.'
-  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Vysla'
-  temporaliniai_duomenys: 'įvykio data: 1236 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia geografinį faktą; nereikia autoriaus boilerplate.'
   pagrindžia:
     - c-011
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 323260-323511; hash=4d06ca31df76b40f4cd7655d74cb4349e86674f70b60bf901f24699b7f41f18b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Švedai: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kuršiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Kuršiai tiesiogiai apibūdinti kaip anksčiau priklausę švedų valdžiai.
 
 <a id="claim-t-90767"></a>
 - t-006
   global_id: t-90767
   teiginys: '1435 m. spalį žemaičiai Kurše sudegino Durbės pilį ir taip dar kartą smogė Livonijai.'
-  sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir tiesiogiai susieja Kuršą su 1435 m. Durbės pilies sudeginimu.'
-  susije_objektai: 'llm_object: Durbė; mentioned_place: Durbė; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vokietija; llm_object: Livonija'
-  temporaliniai_duomenys: 'įvykio data: 1435 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus, gramatiškas ir tiesiogiai susieja Kuršą su 1435 m. Durbės pilies sudeginimu.'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7554225d4f09ebb4528358d3ffe8a8ea553a9ed32b2299ec9d8df1634192c310; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kuršiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kuršas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kuršiai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršas" parinktas kaip owner_note_path. Targetas "Kuršiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-90768"></a>
 - t-007
   global_id: t-90768
   teiginys: 'Švedų karalius Olafas, išgirdęs apie danų nesėkmę, siekė iš naujo užvaldyti Kuršą švedams.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Seeburgas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f74ca317e75ad5db673781943576bf2bd44fadd252296d761505bcf6ed5c2add; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Kuršiai: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ceklis: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Kuršiai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Ceklio sritis tiesiogiai nurodyta kaip priskiriama kuršiams.
 
 <a id="claim-t-90769"></a>
 - t-008
   global_id: t-90769
   teiginys: '1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo dalį, grobdami, degindami ir išsivesdami belaisvius.'
-  sudarymo_pagrindimas: 'Citata palaiko Kuršo dalies nuniokojimą ir belaisvių išsivedimą.'
-  susije_objektai: 'llm_object: Kuršas; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kaimas; mentioned_place: Karšuva; mentioned_place: Livonija; mentioned_place: Minija; mentioned_place: Mituva; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Skalva; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] puolė Kuršas'
-  temporaliniai_duomenys: 'įvykio data: iki 1261 m.; įvykio data: po 1259 m.; įvykio data: 1259 m.; įvykio data: 1260 m.; įvykio data: 1261 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko Kuršo dalies nuniokojimą ir belaisvių išsivedimą.'
   pagrindžia:
     - c-012
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d0ded9b46dcd5b7407cff0610347db839e428e94768de4ad85b68ee2fb1bc8d6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Kuršas: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kuršas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Mindaugo žygis į Kuršą tiesiogiai paminėtas teiginyje.
 
 <a id="claim-t-90770"></a>
 - t-009
   global_id: t-90770
   teiginys: 'Rimbertas pirmasis paminėjo kuršių vardą, o Hervararsaga Kuršo užvaldymą siejo su švedų karaliumi Ivaru.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_author: [[objektai/autoriai/Rimbertas|Rimbertas]]'
-  temporaliniai_duomenys: 'įvykio data: 675 m; įvykio data: apie 675 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 518464-518833; hash=ec2fd9817323f68de910fc8bc59ab02396843b4f1c172fd0ccb346327742e20b; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kuršas: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kuršas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad žemaičiai puolė Kuršą.
 
 <a id="claim-t-90771"></a>
 - t-010
   global_id: t-90771
   teiginys: 'Paliauboms pasibaigus, žemaičiai puolė Kuršą ir vėliau Skuodo laukuose sumušė juos persekiojusius riterius.'
-  susije_objektai: 'llm_object: Kuršas; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Kuldinga'
-  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] puolė Kuršas'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 78298-78570; hash=7a41d393d2cf2e7447a8c51e5a6805fa36199effd04d0f4977a6485abb4faa92; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Embutė: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Embutė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Mindaugo pajėgos tiesiogiai nurodytos kaip puolusios Embutės pilį.
 
 <a id="claim-t-90772"></a>
 - t-011
   global_id: t-90772
   teiginys: 'Žemaičiai puolė Kuršą ir niokojo jį 19 dienų.'
-  sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir paliktas glaustas citata paremtas faktas apie Kuršą.'
-  susije_objektai: 'llm_object: Kuršas; mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija'
-  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] puolė Kuršas'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=86440310a09ede66df4b6815541dbdf43d30f9189fcffef33e42774f46313d9c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kuršas: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kuršas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad žemaičiai puolė Kuršą.
 
 <a id="claim-t-90773"></a>
 - t-012
   global_id: t-90773
   teiginys: 'Dusburgiečio tekste Nemunas nurodomas kaip Prūsiją nuo Kuršo skirianti riba.'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra gramatiškai suiręs, bet citata palaiko aiškią mintį apie Kuršo ribą.'
-  susije_objektai: 'mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Prūsų žemė'
   pagrindžia:
     - c-010
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=02b2b7efc81663d86f1f903fc0b2a2fba8e8ce64df75d68cec7838a589686b6b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Durbė: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Durbė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Žemaičiai tiesiogiai nurodyti kaip sudeginę Durbės pilį.
 
 <a id="claim-t-90774"></a>
 - t-013
   global_id: t-90774
   teiginys: 'Istorinių laikų angoje kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir Klaipėdos apylinkę.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_author: [[objektai/autoriai/A. Salys|A. Salys]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Ceklis; mentioned_place: Venta'
   pagrindžia:
     - c-013
 
@@ -272,103 +139,36 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - t-014
   global_id: t-90775
   teiginys: 'Dalis Kuršo buvo minima tarp teritorijų, į kurias krypo dviejų Lietuvos politinių grupuočių aspiracijos.'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškią nuorodą į grupuotes ir yra per ilgas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Suvalkai'
   pagrindžia:
     - c-014
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=876cb3136dbe1df233bc244502e5c450426292d9aaf6279d8e94dc92bd6fb15d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bauskė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kuršas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Bauskė: mention_match, place, gap=7
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršas" parinktas kaip owner_note_path. Targetas "Bauskė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-90776"></a>
 - t-015
   global_id: t-90776
   teiginys: 'Sapiegų etmonas, iždininkas ir maršalas, paskleidę klaidinantį gandą, iš Vilniaus pasitraukė į Kuršą, Bauskę ir Mintaują.'
-  sudarymo_pagrindimas: 'Reikia pataisyti formuluotę, kad sakinys turėtų aiškų veiksmą ir būtų gramatiškas.'
-  susije_objektai: 'mentioned_place: Bauskė; mentioned_place: Mintauja; mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_place: Druja; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=015005211760a4921fc5d19940d8c21c837371f66ded03a5914f541c9ce1b166; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Rusai: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Švedai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Rusai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citatoje švedai nurodyti kaip sumušę rusų kariuomenę.
 
 <a id="claim-t-90777"></a>
 - t-016
   global_id: t-90777
   teiginys: 'Švedų karalius Olafas, išgirdęs apie danų nesėkmę, siekė iš naujo užvaldyti Kuršą švedų naudai.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Seeburgas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6b6982d4119ee3c04ddb92f38e5283823b2c257356b4725dc6a3567ca0e225c0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kuršas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=57
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184998"></a>
 - t-019
   global_id: t-184998
   teiginys: 'Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citatos įvykių seka.'
-  susije_objektai: 'mentioned_place: Heilsbergas; mentioned_place: Karšuva; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Saksonija'
   pagrindžia:
     - c-016
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 78298-78570; hash=7a41d393d2cf2e7447a8c51e5a6805fa36199effd04d0f4977a6485abb4faa92; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Embutė: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Embutė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Mindaugo pajėgos tiesiogiai nurodytos kaip puolusios Embutės pilį.
 
 <a id="claim-t-184999"></a>
 - t-020
   global_id: t-184999
   teiginys: 'Mindaugas tuo žygiu atgavo Žemaitiją bei Kuršą, nusiaubė Sembą ir vėliau Prūsijoje sukėlė karą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Originalas nutrūkęs ir su OCR klaidomis; citata palaiko glaustą perrašymą.'
-  susije_objektai: 'llm_object: Prūsija; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; llm_object: Semba; llm_object: Kuršas'
-  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] užėmė Kuršas'
   pagrindžia:
     - c-017
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 167310-167641; hash=29f15bdc3ef5ac8ee8da8e2f4c05e76457ec6375488e14f23cae34014a285b78; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krokuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kuršas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršas" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-60094|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją.
 - susijęs iš Alsunga: Narbutas pateikė „Tėve mūsų“ tekstą Kuršo Alsungos katalikų parapijos tarme, gautą iš tenykščio klebono.
 - susijęs iš [[objektai/autoriai/Z. Ivinskis.md#claim-t-179567|Zenonas Ivinskis]]: Z. Ivinskis 4000 lietuvių pajėgas Kurše aiškino kaip jungtines žemaičių ir karaliaus Mindaugo pajėgas prieš Ordiną.
@@ -695,13 +495,11 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     (apie 675 m.), teigianti, jog Kuršą buvo užvaldęs švedų karalius
     įvaras.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-- c-002
+    - t-009- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Apie danų nesėkmę išgirdęs, švedų karalius Olafas panorėjo iš
@@ -712,14 +510,12 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     didelių skaičių « ligą », yra perdėti skaičiai kuršių kovotojų Seeburgo
     (7000) ir Apuolės (15.000) pilyse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-    - t-016
-- c-003
+    - t-016- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tik vakarų Europoje
@@ -730,14 +526,12 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     vartodamas, Eiliuotinės kronikos autorius rašė, kad Mindaugas ten
     atvedęs 30.000 karių^59.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-    - t-001
-- c-004
+    - t-001- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Paliauboms pasibaigus, jie puolė Kuršą. Kai
@@ -747,13 +541,11 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     šiams trauktis iš kautynių lauko, pagonių laimėjimas buvo didelis,
     ir jie, dar labiau padrąsinti, greit antru kartu įsiveržė Kuršan.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-- c-005
+    - t-010- c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mindaugo - „Lietuvos galingo karaliaus“
@@ -764,14 +556,12 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     nuolatinės kovos, abi pusės jų metu pa-
     tyrė didelių nuostolių. 1245-1246 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
-    - t-003
-- c-006
+    - t-003- c-006
   santrauka: 'Žemaičiai puolė Kuršą ir niokojo jį 19 dienų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -784,13 +574,11 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     viską naikino ir degino. Tuo metu žemai-
     čiai puolė Klaipėdą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-- c-007
+    - t-011- c-007
   santrauka: '1435 m. spalį žemaičiai Kurše sudegino Durbės pilį ir taip dar kartą smogė Livonijai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -809,13 +597,11 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     gistro Rusdorfo, atstovaujančio Ordino že-
     mėms Prūsijoje, Livonijoje ir Vokietijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-- c-008
+    - t-006- c-008
   santrauka: 'Sapiegų etmonas, iždininkas ir maršalas, paskleidę klaidinantį gandą, iš Vilniaus pasitraukė į Kuršą, Bauskę ir Mintaują.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -835,13 +621,11 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     nės dalinys įžengė į Vilnių Sapiegoms
     jau išvykus iš miesto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-- c-009
+    - t-015- c-009
   santrauka: '1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -853,13 +637,11 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     saksus nuo Rygos, 1702 m. įsiveržė į Lietuvos terito-
     riją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-- c-010
+    - t-002- c-010
   santrauka: 'Dusburgiečio tekste Nemunas nurodomas kaip Prūsiją nuo Kuršo skirianti riba.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -871,13 +653,11 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     apie Nemuną, skiriantį Prūsiją nuo Kuršo. Teiginys, matyt, atspindi situaciją, kai Ordinas
     ginklu prie Kuršo buvo prijungęs kitas teritorijas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012
-- c-011
+    - t-012- c-011
   santrauka: 'Nemunas prie Klaipėdos įteka į jūrą ir skiria Prūsiją nuo Rusios, Lietuvos bei Kuršo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -888,13 +668,11 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     Lietuvos ir Kuršo187.
       1236 m.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-- c-012
+    - t-005- c-012
   santrauka: '1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo dalį, grobdami, degindami ir išsivesdami belaisvius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -921,13 +699,11 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     o sugautas moteris bei vaikus išsivarė su savimi, kartu gabendamiesi daug kitokio
     grobio.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-- c-013
+    - t-008- c-013
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš XI-XII amž. danų šaltinių (Genealogia regum
@@ -937,13 +713,11 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     Klaipėdos apylinkę. Vadinamoji Ceklio sritis, kuri priskiriama
     Kuršiams, siekė ir dešinįjį Ventos krantą (A. Salys).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-- c-014
+    - t-013- c-014
   santrauka: 'Dalis Kuršo buvo minima tarp teritorijų, į kurias krypo dviejų Lietuvos politinių grupuočių aspiracijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -959,13 +733,11 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-
     priklausomybės siekis etnografiniu pagrindu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014
-- c-015
+    - t-014- c-015
   santrauka: '1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -978,13 +750,11 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     1700 m. Saksonijos kariuomenė įžengė į Kuršą ir
     apsiautė Rygą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018
-- c-016
+    - t-018- c-016
   santrauka: 'Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1002,13 +772,11 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
     tas, čekų karaliaus Otokaro visai neseniai įkurtas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019
-- c-017
+    - t-019- c-017
   santrauka: 'Mindaugas tuo žygiu atgavo Žemaitiją bei Kuršą, nusiaubė Sembą ir vėliau Prūsijoje sukėlė karą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1026,7 +794,6 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
     kerštą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

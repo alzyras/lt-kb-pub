@@ -27,11 +27,6 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
 - t-001
   global_id: t-47983
   teiginys: 'Apuolės piliakalnio 3640 m² aikštėje negalėjo tilpti kronikų minimi 15 000 kovotojų.'
-  sudarymo_pagrindimas: 'Perrašyta glaudžiau ir aiškiau, pašalinant neaiškią sakinio konstrukciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Seeburgas'
-  temporaliniai_duomenys: 'įvykio data: 3640 m'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Perrašyta glaudžiau ir aiškiau, pašalinant neaiškią sakinio konstrukciją.'
   pagrindžia:
     - c-002
 
@@ -39,11 +34,6 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
 - t-002
   global_id: t-47984
   teiginys: 'Apuolės piliakalnio 3640 kv. m aikštėje negalėjo tilpti kronikose minėti 15 tūkst. kuršių kovotojų.'
-  sudarymo_pagrindimas: 'Perrašyta be OCR triukšmo ir perteikta citatos esmė apie Apuolę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Seeburgas'
-  temporaliniai_duomenys: 'įvykio data: 3640 m'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Perrašyta be OCR triukšmo ir perteikta citatos esmė apie Apuolę.'
   pagrindžia:
     - c-002
 
@@ -51,10 +41,6 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
 - t-003
   global_id: t-47985
   teiginys: 'VII a. pabaigoje švedai įsikūrė Grobine ir užėmė Apuolės pilį prie Skuodo.'
-  susije_objektai: 'llm_object: Apuolės pilis; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Durbė; mentioned_place: Gotlandas'
-  semantiniai_rysiai: '[[objektai/grupes/Švedai|Švedai]] užėmė Apuolės pilis'
-  temporaliniai_duomenys: 'įvykio data: 650 m; įvykio data: apie 650 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-001
 
@@ -70,7 +56,6 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
     Apuolės pilį (prie Skuodo). VIII amž. pusėje jie randami Sauslauke
     (prie Durbės).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -89,7 +74,6 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
     Danorum; Saxo Grammaticus) yra matoma, jog kuršiai ir sembai
     protarpiais esą mokėję duoklę ir danams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

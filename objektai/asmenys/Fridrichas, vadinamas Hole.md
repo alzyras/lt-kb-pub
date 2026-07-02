@@ -30,24 +30,8 @@ Dusburgietis teigia, kad apie brolio Fridricho Holės ir 30 vyrų žūtį Tais p
 - t-001
   global_id: t-60280
   teiginys: 'Fridrichas, vadinamas Hole, su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą, o grįždamas iš Kirsnavos valsčiaus buvo nukautas su 30 vyrų.'
-  sudarymo_pagrindimas: 'Pradinis teiginys užterštas paaiškinimų ir puslapio triukšmu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kirsnava; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_person: [[objektai/asmenys/Markvardas (Ragainės komtūras)|Markvardas (Ragainės komtūras)]]; mentioned_place: Baltija; mentioned_place: Semba; mentioned_place: Zelionogradskas; llm_object: Kirsnava'
-  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas, vadinamas Hole|Fridrichas, vadinamas Hole]] puolė Kirsnava'
-  temporaliniai_duomenys: 'įvykio data: po 1372 m.; įvykio data: 1372 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys užterštas paaiškinimų ir puslapio triukšmu.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 537702-538720; hash=e3a5cc41ec566e47fb213ea964c6761984a83e9ad3476e576f55258e38950660; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kirsnava: 0.68
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Fridrichas, vadinamas Hole: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kirsnava: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Grobio paėmimas Kirsnavos valsčiuje rodo karinį antpuolį tame valsčiuje.
 
 ## Reikšmingi paminėjimai
 
@@ -73,7 +57,6 @@ Dusburgietis teigia, kad apie brolio Fridricho Holės ir 30 vyrų žūtį Tais p
     atgal, paėmęs didelį grobį Kirsnavos valsčiuje514, priešai, leidęsi  jį persekioti, nukovė
     ir jį, ir 30 vyrų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

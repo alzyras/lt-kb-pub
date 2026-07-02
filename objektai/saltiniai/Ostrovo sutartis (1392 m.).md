@@ -31,7 +31,6 @@ Ostrovo sutartimi Jogaila atidavė Vytautui valdyti visą didžiąją Lietuvos k
 - t-001
   global_id: t-176235
   teiginys: 'Ostrovo sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti ir turėjo užtikrinti taiką bei tvarką krašte.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Ostrovas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 
@@ -49,7 +48,6 @@ Ostrovo sutartimi Jogaila atidavė Vytautui valdyti visą didžiąją Lietuvos k
     somybei atstatyti^1 ). Be to, ši sutartis turėjo užtikrinti ir taiką ir
     tvarką išvargintam ir nualintam ilgų naminių karų kraštui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

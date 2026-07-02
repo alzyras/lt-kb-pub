@@ -29,24 +29,8 @@ Lapkritį Gedimino „galinga kariuomenė“, vadovaujama Gardino pilininko Dovy
 - t-001
   global_id: t-42096
   teiginys: '1324 m. lapkritį Gedimino kariuomenė siaubė Rezeknės regioną Livonijos pietryčiuose.'
-  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet perrašytas kaip glaustesnis enciklopedinis sakinys.'
-  susije_objektai: 'llm_object: Livonija; mentioned_place: Livonija; mentioned_place: Rezeknė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gardinas; mentioned_place: Mozūrija; llm_object: Rezeknės regionas'
-  semantiniai_rysiai: 'Rezeknės regionas priklausė Livonija; [[objektai/asmenys/Gediminas|Gediminas]] puolė Rezeknės regionas'
-  temporaliniai_duomenys: 'įvykio data: 1324 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet perrašytas kaip glaustesnis enciklopedinis sakinys.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=418e127ae1f1f61ed5c4780bdd396582828d5d5da807723fb3bee5483a845c3f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Livonija: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Rezeknės regionas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Frazė aiškiai lokalizuoja Rezeknės regioną Livonijos pietryčiuose.
 
 ## Reikšmingi paminėjimai
 
@@ -63,7 +47,6 @@ Lapkritį Gedimino „galinga kariuomenė“, vadovaujama Gardino pilininko Dovy
     Rygoje pranešė, kad valdovas derybų dėl krikšto neveda, toliau
     laikysis senolių tikėjimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

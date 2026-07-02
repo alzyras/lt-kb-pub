@@ -44,11 +44,6 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
 - t-001
   global_id: t-66998
   teiginys: '1377 m. žygis buvo pirmas žinomas Vytauto savarankiškas pasirodymas karo lauke.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
-  temporaliniai_duomenys: 'mūšio data: 1377 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
   pagrindžia:
     - c-003
 
@@ -56,7 +51,6 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
 - t-002
   global_id: t-66999
   teiginys: 'Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro.'
-  susije_objektai: 'llm_object: Užnemunė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Nemunas; mentioned_place: Tamova; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Užnemunė; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-002
 
@@ -64,11 +58,6 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
 - t-003
   global_id: t-67000
   teiginys: '1377 m. Vytautas, tėvo pavedamas, surengė žygį į Ordino žemes ir pasirodė kaip savarankiškas lietuvių kariuomenės vadas.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka citatoje nurodytus faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
-  temporaliniai_duomenys: 'įvykio data: 1377 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir atitinka citatoje nurodytus faktus.'
   pagrindžia:
     - c-001
 
@@ -82,7 +71,6 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
     sant, į Ordino žemes. Tuokart jis pasirodė savarankiškas lie­
     tuvių kariuomenės vadas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -104,7 +92,6 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
     žiuočiai, kaip rašo kronikininkas Vygandas Marburgietis, šešias
     dienas turėjo išbūti nematę duonos, o arkliai — pašaro^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -120,7 +107,6 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
     jog grįžtanti kariuomenė turėjo badauti. Kai kurie kareiviai,
     sako, nematę duonos bent po šešias dienas.^4 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

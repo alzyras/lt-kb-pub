@@ -20,20 +20,8 @@ Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideologinės pakrai
 - t-001
   global_id: t-22137
   teiginys: 'Lietuvių ir lenkų politinės grupuotės laikėsi etnolingvistinio nacionalizmo pozicijų ir kitos pusės siekius laikė neteisėtais.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5caec03847d40c59da86c0a75e2ee5ef6e5722b78085c5bae3740be75723acea; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: etnolingvistinis nacionalizmas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "etnolingvistinis nacionalizmas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -53,7 +41,6 @@ Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideologinės pakrai
     onalizmo pozicijų ir a priori kitos pusės siekius laikė priešiškais ir iš esmės
     neteisėtais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

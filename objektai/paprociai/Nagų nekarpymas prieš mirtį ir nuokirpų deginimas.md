@@ -36,16 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 646522-647076; hash=666c521560d990866fe74cc555ce2fa86f1e5d098c70e2a68e02986cd82ecf4c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> vėlė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nagų nekarpymas prieš mirtį ir nuokirpų deginimas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: vėlė: mention_match, thing, gap=81
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nagų nekarpymas prieš mirtį ir nuokirpų deginimas" parinktas kaip owner_note_path. Targetas "vėlė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -63,9 +53,7 @@ Nenurodyta
     sieiti, neišvengiamai turėtų ieškoti, kol surastų visus iki ma­
     žiausios nuokirpos.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

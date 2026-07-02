@@ -31,8 +31,6 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
 - t-002
   global_id: t-93758
   teiginys: 'Kai kurių nuomone, naujų žemių suskirstymas ir žmonių įkurdinimas sodžiais padėjo susidaryti vėlesnei Zigmanto Augusto valakų sistemai.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie Zigmanto Augusto sistemą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Žemaitija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/Zigmanto Augusto pinigai.md#claim-t-65011|Zigmanto Augusto pinigai]]: Zigmantas Augustas apie 1565 m. Tikocine pradėjo kalti lenkiškos vertės pinigus, bet dėl nepasitenkinimo darbą nutraukė.
@@ -57,7 +55,6 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
     Kita reali nauda, kuri tekdavo Vytautui — tai mokesčiai,
     renkami iš žmonių už valdomas žemes, miškus, vandenis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -75,7 +72,6 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
     Lenkija. Vis tai buvo svarbūs faktai, kurie vėlesniajai Lietuvos
     istorijai turėjo labai didelę reikšmę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

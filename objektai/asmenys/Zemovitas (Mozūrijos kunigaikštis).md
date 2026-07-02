@@ -30,24 +30,8 @@ periodo_grupes:
 - t-001
   global_id: t-40545
   teiginys: '1260 m. birželio 5 d. Mozūrijos kunigaikštis Zemovitas su Ordinu sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.'
-  sudarymo_pagrindimas: 'Citata rodo, kad sutartį sudarė Zemovitas ir Ordinas, todėl patikslintas veiksmo dalyvis.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Zemovitas|Zemovitas]]; mentioned_place: Sūduva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Mozūrija'
-  semantiniai_rysiai: '[[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)|Zemovitas (Mozūrijos kunigaikštis)]] sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)|Zemovitas (Mozūrijos kunigaikštis)]] buvo sąjungininkas su [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1260 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Zemovitas (Mozūrijos kunigaikštis) buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata rodo, kad sutartį sudarė Zemovitas ir Ordinas, todėl patikslintas veiksmo dalyvis.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cf9ddffe408046951c01e87337eb3c5966c611b2e314abe0ef636c4f449f8844; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: sudare_sutarti_su -> Kryžiuočių ordinas: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Zemovitas (Mozūrijos kunigaikštis): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė sutartį.
 
 ## Reikšmingi paminėjimai
 
@@ -62,7 +46,6 @@ periodo_grupes:
     užgrobtos Sūduvos pasidalijimo sutartį,
     sustiprindami tarpusavio sąjungą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

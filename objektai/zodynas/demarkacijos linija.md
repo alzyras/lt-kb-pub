@@ -32,11 +32,6 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
 - t-001
   global_id: t-181355
   teiginys: 'Ambasadorių konferencija patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją, pagal kurią Vilnius liko Lenkijos pusėje.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako demarkacijos linijos sprendimą ir Vilniaus padėtį.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Ambasadorių Konferencija|Ambasadorių Konferencija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Ryga; llm_object: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1921 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako demarkacijos linijos sprendimą ir Vilniaus padėtį.'
   pagrindžia:
     - c-001
 
@@ -44,8 +39,6 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
 - t-002
   global_id: t-181357
   teiginys: 'Lietuvos ir Lenkijos demarkacijos linija keliolikai metų nutraukė traukinių ir pašto judėjimą tarp abiejų pusių.'
-  sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškiu įvardžiu ir baigiasi elipse.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/zodynas/administracinė linija demarkacijos linija.md#claim-t-108562|administracinė linija demarkacijos linija]]: 1920 m. spalio 7 d. Suvalkų susitarime nustatyta kariuomenių demarkacijos linija paliko Vilnių Lietuvos pusėje.
@@ -63,7 +56,6 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
     bai Lietuva kategoriškai atsisakė pripažinti šio sprendimo teisėtumą, o Len-
     kija ir Vakarų šalys suprato, kad Vilniaus klausimas išspręstas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -78,7 +70,6 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
     per ją bet kokį traukinių ar net pašto judėjimą keliolikai metų, o automobi-
     lių kelyje išaugo storoki berželiai...
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

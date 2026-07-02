@@ -50,38 +50,15 @@ Nenurodyta
 - t-001
   global_id: t-47810
   teiginys: 'Patobulėjo ginklų, įrankių ir papuošalų formos.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Papuošalai|Papuošalai]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=db14bee9ef45c251edb2c08ae194ca28a07a06c2dbbe41253b57bf3631087bed; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Papuošalai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Geležiniai ginklai ir įrankiai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Papuošalai: mention_match, thing, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Geležiniai ginklai ir įrankiai" parinktas kaip owner_note_path. Targetas "Papuošalai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-47811"></a>
 - t-002
   global_id: t-47811
   teiginys: 'Iš geležies buvo gaminami ginklai, tokie kaip ietys ir kirviai, bei įrankiai, tokie kaip dalgiai, pjautuvai, peiliai ir ylos.'
-  sudarymo_pagrindimas: 'Pašalintas neaiškus laiko žodis ir pataisyta rašyba.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Ietys|Ietys]]; mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_object: [[objektai/daiktai/Papuošalai|Papuošalai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 294366-294571; hash=348c9a6a26b072fe59fa410e36afa1f7fe29b4cddcf589855403f831c730a32b; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Ginklai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Geležiniai ginklai ir įrankiai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Geležiniai ginklai ir įrankiai" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -94,7 +71,6 @@ Nenurodyta
     piautuvų, peilių, ylų ir kt.). O iš žalvario, aukso, sidabro, stiklo
     ir gintaro buvo dirbami papuošalai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -108,7 +84,6 @@ Nenurodyta
     kalniai-tvirtovės. Patobulėjo ginklų, įrankių ir papuošalų formos.
     Mirusiųjų kapai ėmė darytis žymiai turtingesni.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

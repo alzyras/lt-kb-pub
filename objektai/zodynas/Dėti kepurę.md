@@ -27,16 +27,6 @@ Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su už
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 563108-563511; hash=0aec9108cab5a80948adb0eab660e1abe94ef541c0175a4b7d5b776dc71075f0; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Priesaika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dėti kepurę: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Priesaika: mention_match, thing, gap=75
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dėti kepurę" parinktas kaip owner_note_path. Targetas "Priesaika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-189125"></a>
 - t-002
   global_id: t-189125
@@ -45,9 +35,6 @@ Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su už
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 563433-563934; hash=716e2ab4c00b2713ace5e5a700a3ea29b7cac902c1af69498dc62a6e5769141c; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/posakiai/Tas, kuris vežime turi pasikinkęs šešis arklius.md#claim-t-187840|Tas, kuris vežime turi pasikinkęs šešis arklius]]: Narbutas posakį „Tas, kuris vežime turi pasikinkęs šešis arklius“ pateikia kaip labai seną patarlę iš XVI a. vietinių dokumentų.
 ## Reikšmingi paminėjimai
 - c-001
@@ -67,13 +54,10 @@ Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su už
 
     lietuvių liudijimo būdas su užkeikimu arba priesaika.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas rašė, kad liudytojas dėdavo kepurę ant stalo prieš teisėją ir taip laiduodavo savo liudijimo sąžiningumą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -91,9 +75,7 @@ Narbutas dėti kepurę aprašė kaip senovinį lietuvių liudijimo būdą su už
     ginantys pasitikėti, yra senųjų lietuvių būdo bruožas; jiems liu­
     dytojo sąžiningumas buvo ne žaislas.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

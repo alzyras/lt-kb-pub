@@ -20,23 +20,15 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
 - t-001
   global_id: t-72696
   teiginys: 'Inventoriai negalėjo daug padėti valstiečiams, nes jie liko beteisiai ir neturėjo kam skųstis ponui didinant prievoles.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys perrašytas glaustai.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 939666-939940; hash=1447dd56863e6c3e7ed265bfe94f76dd7623be7a9bbe34a078b74b235a62ff53; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-72699"></a>
 - t-002
   global_id: t-72699
   teiginys: 'Inventoriai buvo rengiami valstiečių prievolėms suvienodinti, juose nuo seno buvo surašomos visos valstiečių pareigos.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir neaiški nuoroda „tam tikslui“.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=700b4504004446d43abb23c3cc737fe327e5be27119dfe9ec54005756d02fd27; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 - susijęs iš Lietuvos inventoriai XVII amž: Rinkinys „Lietuvos inventoriai XVII amž.“ buvo sudarytas drauge su M. Juču ir išleistas 1962 m.
 - susijęs iš [[objektai/autoriai/K. Jablonskis.md#claim-t-179503|K. Jablonskis]]: K. Jablonskis sudarė pirmąjį XVI–XVII a. dokumentų rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.
 - susijęs iš [[objektai/autoriai/Konstantinas Jablonskis.md#claim-t-179507|Konstantinas Jablonskis]]: Konstantinas Jablonskis sudarė pirmąjį rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.
@@ -57,7 +49,6 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
 
     ponas didino prievoles, jie neturėjo kam pasiskųsti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -73,7 +64,6 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
     valstiečių pareigos. Inventoriams suvienodinti visose gubernijose
     buvo įsteigti specialūs komitetai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

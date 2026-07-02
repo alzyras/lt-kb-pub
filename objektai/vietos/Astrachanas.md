@@ -29,9 +29,6 @@ Narbutas turėjo omenyje 1828 m. „Dziennik Wilenski“ paskelbtą Jano Potocki
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 854804-854991; hash=444d6ac894122085e7826d307f9de52f71ce8359f7f91b0152624541059d9c45; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/autoriai/Janas Potockis.md#claim-t-190336|Janas Potockis]]: Jano Potockio kelionės į Astrachanę ir jos apylinkes 1797 m. aprašymas buvo paskelbtas „Dziennik Wilenski“ 1828 m.
 - susijęs iš [[objektai/autoriai/Jonas Potockis.md#claim-t-190328|Jonas Potockis]]: Narbutas turėjo omenyje Jono Potockio 1797 m. kelionės į Astrachanę aprašymą, publikuotą „Dziennik Wilenski“ 1828 m.
 ## Reikšmingi paminėjimai
@@ -44,9 +41,7 @@ Narbutas turėjo omenyje 1828 m. „Dziennik Wilenski“ paskelbtą Jano Potocki
     przyleglych, w roku 1797 // Dziennik Wilenski. -
     1828. -  T. V. -  S. 222-240; 284-304.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

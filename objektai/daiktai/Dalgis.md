@@ -47,20 +47,8 @@ Nenurodyta
 - t-001
   global_id: t-40703
   teiginys: 'Per Vilniaus gynybą dalis ginkluotų miesto gyventojų kovėsi specialiai kovai perdarytais dalgiais ir nukaltomis ietimis.'
-  sudarymo_pagrindimas: 'Originalas per platus; citata leidžia suformuluoti aiškesnį teiginį apie dalgių naudojimą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4289374fa9c5b16999150efd01160353a331db008eaf592db2a24a9c3b93e85a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Artilerija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dalgis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Artilerija: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dalgis" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/Kovinis dalgis.md#claim-t-39185|Kovinis dalgis]]: Aprašytame sukilėlių būryje pusė kovotojų buvo ginkluoti dalgiais, o pusė - ietimis.
 - susijęs iš [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.).md#claim-t-10204|Biržų (Medeikių) mūšis (1863 m.)]]: Gegužės 7 d. prie Medeikių rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas.
 - susijęs iš [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.).md#claim-t-10205|Biržų (Medeikių) mūšis (1863 m.)]]: 1863 m. gegužės 7 d. rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas Medeikiuose; sukilėliams mėginant apeiti rusus iš flangų, rusai buvo priversti atsitraukti.
@@ -81,7 +69,6 @@ Nenurodyta
     Vilnių ir jo apylinkes gynė apie 4 tūkstan-
     čiai kovotojų su 13 artilerijos pabūklų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

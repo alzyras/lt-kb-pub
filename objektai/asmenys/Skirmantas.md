@@ -18,70 +18,22 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 - t-001
   global_id: t-186014
   teiginys: 'Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia trumpesnį faktą apie Skirmantą.'
-  susije_objektai: 'llm_object: Naugardukas; mentioned_place: Naugardukas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Mingaila|Mingaila]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirmantas|Skirmantas]] valdė miestą Naugardukas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 135595-136020; hash=aaad68b367b4999dcb9e67b8699b2f9037fe439512a8a2e671c94cee3cfc6827; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_miesta -> Naugardukas: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skirmantas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Naugardukas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Valdžios paveldėjimas Naugarduke tiesiogiai pagrindžia Skirmanto valdymą Naugarduke.
 
 <a id="claim-t-186015"></a>
 - t-002
   global_id: t-186015
   teiginys: 'Artėjant Skirmantui, Mstislavas buvo priverstas sutraukti savo pulkus iš Bresto apylinkių kaimų į stovyklą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikėjo sutvarkyti sakinį ir aiškiai įvardyti veikėjus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Jaselda; llm_object: [[objektai/grupes/Rusai|Rusai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirmantas|Skirmantas]] kariavo prieš [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 137475-138081; hash=94866a8dcd2ee40192e2703150b1ed556929501b8794c28a6ddf67258f5c0d56; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Rusai: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skirmantas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Rusai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata rodo karinį veiksmą prieš rusus, iš kurių Skirmantas atėmė žemes.
 
 <a id="claim-t-186016"></a>
 - t-003
   global_id: t-186016
   teiginys: 'Skirmantas iš priešo rankų atėmė Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra išsamus faktinis sakinys ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'llm_object: Karačevas; llm_object: Severskas; mentioned_place: Karačevas; mentioned_place: Severskas; mentioned_object: [[objektai/zodynas/skitai|skitai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirmantas|Skirmantas]] užėmė Karačevas; [[objektai/asmenys/Skirmantas|Skirmantas]] užėmė Severskas'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 140304-140658; hash=c6b27c30448a9fcf0ea9dbd2e890bd7a9bb633e11f3f1f04226638fd9ef46ae0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Karačevas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skirmantas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Karačevas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Karačevas tiesiogiai įvardytas tarp Skirmanto iš priešo atimtų vietų.
 - susijęs iš Kijevo Rusia: Kukovaitis, nurimęs dėl vidaus reikalų, galėjo siųsti didesnę pagalbą Skirmantui į Rusią.
 - susijęs iš [[objektai/asmenys/Mingaila.md#claim-t-184791|Mingaila]]: Po pergalės prie Polocko Mingaila netrukus mirė, įpėdiniais palikdamas Skirmantą ir Ginvilą.
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187488|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraščio pasakojime Skirmantas liepė sužaloti Balaklajaus pasiuntinius, o kitais metais chanas patraukė į Rusų žemę.
@@ -125,7 +77,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     sis — tėvo Polocke. Sėkmingų lietuvių žygių Rusioje
     nevaliojo pakęsti rusų kunigaikščiai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -163,7 +114,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     kovaitį ir jo karius apdova­
     nojo puikiomis dovanomis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -182,7 +132,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     Starodubą, Černigovą, Karačevą ir beveik visą Severs-
     ko žemę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

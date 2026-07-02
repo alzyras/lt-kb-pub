@@ -26,24 +26,8 @@ Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakel
 - t-001
   global_id: t-41927
   teiginys: '1949 m. vasario 11 d. Minaičių kaime pakeliui į suvažiavimą susitiko Vakarų ir Pietų Lietuvos partizanų atstovai ir vadai.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Minaičių kaimą ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Antanas Liesys-Idenas|Antanas Liesys-Idenas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: Minaičių kaimas'
-  semantiniai_rysiai: '[[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]] keliavo į Minaičių kaimas'
-  temporaliniai_duomenys: 'įvykio data: 1949 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Minaičių kaimą ir atitinka citatos informaciją.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8881c03a2234973243c3fb329c72f2aa26c19d58619cc3f48246f669584a1f9a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Minaičių kaimas: 0.58
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vakarų Lietuvos (Jūros) sritis: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Minaičių kaimas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad Vakarų Lietuvos partizanų atstovai ir vadai susitiko Minaičių kaime pakeliui į suvažiavimą.
 - susijęs iš [[objektai/grupes/Pietų Lietuvos sritis.md#claim-t-54152|Pietų Lietuvos sritis]]: 1949 m. vasario 11 d. pakeliui į Lietuvos partizanų vadų suvažiavimą susitiko Pietų Lietuvos ir Vakarų Lietuvos partizanų atstovai bei vadai.
 - susijęs iš [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis.md#claim-t-41186|Vakarų Lietuvos (Jūros) sritis]]: Vakarų Lietuvos (Jūros) srities partizanų atstovai ir vadai pakeliui į suvažiavimą susitiko su Pietų Lietuvos (Nemuno) partizanų atstovais.
 - susijęs iš Baisogala: Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai.
@@ -80,7 +64,6 @@ Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakel
     Agitacijos ir propagandos skyriaus
     viršininkas Antanas Liesys-Idenas
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

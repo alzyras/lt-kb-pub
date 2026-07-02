@@ -27,8 +27,6 @@ Vartojamos formos: `žiuponais`.
 - t-001
   global_id: t-07692
   teiginys: 'Prašaleičiai lietuvių sau ponus vadino žiuponais, o tokie valdžionai IX amžiuje minimi Žemaičių krašte.'
-  sudarymo_pagrindimas: 'Pradinis sakinys buvo negrabios sandaros; citata leidžia suformuluoti aiškesnį faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
     - c-002
@@ -37,8 +35,6 @@ Vartojamos formos: `žiuponais`.
 - t-002
   global_id: t-07693
   teiginys: 'Žiuponais prašalaičiai vadino lietuvių ponus, kurie IX amžiuje minimi Žemaičių krašte.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai sieja žiuponus su prašalaičių taip vadintais ponais ir IX amžiaus Žemaičiais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 
@@ -49,7 +45,6 @@ Vartojamos formos: `žiuponais`.
   citata_originali: |
     Prašaleičiai, nepermanydami lietuvių kalbos, vadino tuos sau ponus žiuponais^1026 , kurie jau 9 amžiuje yra randami Žemaičių krašte, kaipogi keleivis, gimimo anglas, 890 metuose gimus Kristui buvęs Žemaičiuose, taip rašo: „Žemaičiuose yra daugybė ypatingų rykių, arba valdžionų^1027 , kurie pilyse gyvena ir tarp savęs viens su kitu kariauja, patys geria nugeižėjusį^1028 kumelės pieną, o svietas midų.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -62,7 +57,6 @@ Vartojamos formos: `žiuponais`.
   citata_originali: |
     Kitas raštininkas sako: „Tie sau ponai, turėdami ne tiktai vieną sodą^1029 , bet vieną patį vergą, vadinos rykiais, arba karaliais.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

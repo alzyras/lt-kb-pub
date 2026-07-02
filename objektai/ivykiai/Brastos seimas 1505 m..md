@@ -52,24 +52,8 @@ Nenurodyta
 - t-001
   global_id: t-186806
   teiginys: '1971 m. leidinio pastaba nurodo, kad Bychovco kronikos pasakojimas apie 1505 m. Brastos seimą skiriasi nuo platesnio M. Miechovitos pasakojimo.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie 1971 m. leidinio pastabą ir dviejų pasakojimų skirtumą. Atribucija komentarui jau yra aiški, papildomas vertinimas nepridėtas.'
-  susije_objektai: 'mentioned_place: Brasta; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Volynė; llm_object: Brasta'
-  temporaliniai_duomenys: 'įvykio data: 1505 m.; įvykio data: apie 1505 m.; įvykio data: 1506 m.; įvykio data: 1507 m.; įvykio data: 1971 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis sakinys apie 1971 m. leidinio pastabą ir dviejų pasakojimų skirtumą. Atribucija komentarui jau yra aiški, papildomas vertinimas nepridėtas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=27a30346aca8271e6af93c12dbe1a8f5c0137ce80f47b21808b4352d991c9f7c; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: keliavo_i -> Brasta: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Aleksandras: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Brasta: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Pastaba tiesiogiai nurodo Aleksandrą atvykus į Brastos seimą.
 
 ## Reikšmingi paminėjimai
 
@@ -86,7 +70,6 @@ Nenurodyta
     y ra taip pat M- Miechovitos Kronikoje (p. 367), bet to pasakojimo
     kompozicija ir dalinai turinys abiejuose veikaluose skirtingi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

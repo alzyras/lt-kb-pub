@@ -23,21 +23,8 @@ Bazilijaus ordi­ no vienuoliai, jo žmonos, minėtosios Tverės kunigaikštytė
 - t-001
   global_id: t-86841
   teiginys: 'Algirdo valdymo pradžioje Šv. Bazilijaus ordino vienuoliai įsikūrė Vilniuje ir turėjo medinę bažnyčią.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, tačiau pradiniame teiginyje yra OCR triukšmo ir neaiškių nuorodų.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Tverė'
-  semantiniai_rysiai: '[[objektai/grupes/Šv. Bazilijaus ordinas|Šv. Bazilijaus ordinas]] gyveno Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 80769-81277; hash=cad08baa8684a42e350733f63718b23901a33980ba57913ecaeee7682546349a; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vilnius: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Šv. Bazilijaus ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Šv. Bazilijaus ordino vienuoliai įsikūrė Vilniuje.
 
 ## Reikšmingi paminėjimai
 
@@ -59,7 +46,6 @@ Bazilijaus ordi­ no vienuoliai, jo žmonos, minėtosios Tverės kunigaikštytė
     no vienuoliai, jo žmonos, minėtosios Tverės kunigaikštytės,
     atkviesti, įsikūrė Vilniuje ir turėjo medinę savo bažnyčią17.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

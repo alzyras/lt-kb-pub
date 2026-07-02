@@ -41,9 +41,6 @@ Nenurodyta
 - t-001
   global_id: t-89427
   teiginys: 'Žalvario amžiuje gyvatgalviai kapliai buvo paplitę į vakarus iki Persantės ir laikomi būdingais baltų kultūrinei sričiai.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie objektą ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Pasarė; mentioned_place: Vysla; llm_object: [[objektai/grupes/Baltai|Baltai]]'
-  semantiniai_rysiai: '[[objektai/daiktai/Gyvatgalviai kapliai|Gyvatgalviai kapliai]] priklausė [[objektai/grupes/Baltai|Baltai]]'
   pagrindžia:
     - c-001
 - susijęs iš Lietuvos archeologijos bruožai: Lietuvos archeologijos bruožuose nurodoma, kad žalvario amžiuje iki Persantės vakaruose buvo paplitę baltų kultūrinei sričiai būdingi gyvatgalviai kapliai.
@@ -61,7 +58,6 @@ Nenurodyta
     kultūrinei sričiai (Lietuvos archeologijos bruožai, p. 105—106; MLTE, t. 1, p. 158; Okulicz
     J. Pradzieje ziem pruskich..., s. 171— 173).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

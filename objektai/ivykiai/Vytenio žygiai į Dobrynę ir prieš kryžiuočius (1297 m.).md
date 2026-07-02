@@ -36,26 +36,8 @@ Nenurodyta
 - t-001
   global_id: t-185836
   teiginys: 'Lietuviai staigiu antpuoliu užėmė Dobrynę, kai sekmadienį žmonės buvo išėję iš kaimų į bažnyčias.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Nepatikimos OCR vietos praleistos, paliktas citatos aiškiai pagrįstas faktas.'
-  susije_objektai: 'llm_object: Dobrynė; mentioned_place: Dobrynė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
-  temporaliniai_duomenys: 'įvykio data: 1297 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Nepatikimos OCR vietos praleistos, paliktas citatos aiškiai pagrįstas faktas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 273216-273866; hash=a02a155bd4ef38bdf11210a833c59f4a23a6a4deae1d18c9da6ff6b628dd7415; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Dobrynė: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Dobrynė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad lietuviams pavyko užimti Dobrynės miestą.
 
 ## Reikšmingi paminėjimai
 
@@ -81,10 +63,8 @@ Nenurodyta
     miestą pavyko užimti staigiu
     antpuoliu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

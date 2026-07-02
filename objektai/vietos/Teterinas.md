@@ -22,20 +22,8 @@ Taip pat kitus kaimus prie Teterino dvaro, išsi­ dėsčiusius greta Pruto upė
 - t-001
   global_id: t-86108
   teiginys: 'Teterino dvarui buvo grąžinti ir užrašyti prie Pruto upės buvę kaimai, atimti iš Seislavo kunigaikštienės.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis tekstas per ilgas ir su OCR triukšmu.'
-  susije_objektai: 'mentioned_place: Prutas; mentioned_object: [[objektai/zodynas/inkorporuoti|inkorporuoti]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_place: Bełskas; mentioned_place: Losičiai; mentioned_place: Smolnėnai; mentioned_place: Čirčinskas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 697537-699723; hash=b6886aad04f11d078128bf54b213ee003c0635dace8c679f52b691b3d8d0c546; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prutas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Teterinas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prutas: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Teterinas" parinktas kaip owner_note_path. Targetas "Prutas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Prutas: Prie Pruto upės buvę kaimai buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui.
 - susijęs iš Prutas: Kaimai greta Pruto upės buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui.
 - susijęs iš Aleksandro Jogailaičio dovanojimas Maksimui Vasiljevičiui dėl pievos Užupyje (1493 m. sausio 13 d.): 1493 m. sausio 13 d. Aleksandras Jogailaitis Vilniuje dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą Užupyje už Vilnelės.
@@ -94,7 +82,6 @@ Taip pat kitus kaimus prie Teterino dvaro, išsi­ dėsčiusius greta Pruto upė
     šios žemės kadaise priklausė Bełsko kunigaikščiui Semio­
     nui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

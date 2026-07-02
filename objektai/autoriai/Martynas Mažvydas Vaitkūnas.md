@@ -37,7 +37,6 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
 - t-001
   global_id: t-64753
   teiginys: 'Mažvydas rašė lietuviškas protestantiškas knygas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]'
   pagrindžia:
     - c-001
 
@@ -45,9 +44,6 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
 - t-002
   global_id: t-64754
   teiginys: 'Martynas Mažvydas Vaitkūnas 1547 m. išleido pirmąjį lietuvišką katekizmą, kai kurias giesmes ir kelias tikybines knygutes.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas Mažvydas|Martynas Mažvydas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
-  temporaliniai_duomenys: 'įvykio data: 1547 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -55,9 +51,6 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
 - t-003
   global_id: t-64755
   teiginys: 'Martynas Mažvydas Vaitkūnas siejamas su 1570 m. Mažvydo giesmynu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas Mažvydas|Martynas Mažvydas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
-  temporaliniai_duomenys: 'įvykio data: 1570 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Martynas Mažvydas.md#claim-t-19125|Martynas Mažvydas]]: Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa pateikė pirmą lietuvišką knygą ir pradėjo lietuviakalbės raštijos tradiciją.
@@ -114,7 +107,6 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
     lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi
     buvo skleidę protestantizmą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -128,7 +120,6 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
     viečio. Be to, jis dar išleido keletą kitų reikalingų tikybinių
     knygučių. Kiti jo darbą tęsė toliau.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -139,7 +130,6 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
   citata_originali: |
     1570 m. Mažvydo giesmynas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

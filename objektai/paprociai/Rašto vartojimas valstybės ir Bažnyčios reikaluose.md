@@ -46,9 +46,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=71715c8b1dad2dc374e28e34c68e92fe6b4d6594ebe776f84d945d748e3ce990; match=normalized; occurrences=1
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -63,9 +60,7 @@ Nenurodyta
     bos. Lietuvoje ji plėtojosi labiausiai ukrainiečių, o ypač gudų
     kalbų įtakoje, tad dažnai ji yra vadinama gudų rašto kalba.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -18,24 +18,8 @@ Kafos gyventojai, bijodami prie Juodosios jūros augančios turkų galybės, sum
 - t-001
   global_id: t-185450
   teiginys: 'Kafos gyventojai, bijodami prie Juodosios jūros augančios turkų galybės, sumanė samdyti įgulos karius krikščioniškose karalystėse.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas autorinis boilerplate ir OCR triukšmas; sakinys remiasi citata.'
-  susije_objektai: 'mentioned_place: Teodosija (Kafa); llm_object: Teodosija (Kafa)'
-  semantiniai_rysiai: '[[objektai/grupes/Kafos gyventojai|Kafos gyventojai]] gyveno Teodosija (Kafa)'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 901892-902359; hash=be30ba39c014eb73b9c0954a27535963110eb968d7e63dcc12e42f73028acdd3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Teodosija (Kafa): 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kafos gyventojai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Teodosija (Kafa): llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata Kafos gyventojus tiesiogiai sieja su Teodosijos, vadinamosios Kafos, miestu.
 - susijęs iš Krymas: Kafos gyventojai pasisamdė penkis šimtus raitelių, kuriuos turėjo vestis į Krymą per Lietuvos žemes.
 ## Reikšmingi paminėjimai
 
@@ -57,7 +41,6 @@ Kafos gyventojai, bijodami prie Juodosios jūros augančios turkų galybės, sum
     k ijo je
     algininkų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

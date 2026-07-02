@@ -21,16 +21,6 @@ Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir 
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 458355-458788; hash=b056b3b068bf7fcfa40f9393b234727df410f4b3dedff74ab83d43fca3cb0a61; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Herulai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Prilvicas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Herulai: mention_match, group, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prilvicas" parinktas kaip owner_note_path. Targetas "Herulai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Tadas Volianskis.md#claim-t-189986|Tadas Volianskis]]: Narbutas mini, kad Tadas Volianskis priekaištavo dėl Prilvico statulėlės su užrašu „Szwaixtix“ tapatinimo su Lietuvos Apolonu.
 - susijęs iš [[objektai/autoriai/Maschas.md#claim-t-190372|Maschas]]: Narbutas rašo, kad pagal Mascho ir Wogeno informaciją Prilvico statulėlė „Szwaixtix“ neatitiko Lietuvos Apolonui priskirtų savybių.
 - susijęs iš [[objektai/autoriai/Wogenas.md#claim-t-190462|Wogenas]]: Narbutas, remdamasis Maschu ir Wogenu, teigė, kad Prilvico rinkinio „Szwaixtix“ neatitiko Lietuvos Apolonui priskirtų savybių.
@@ -59,9 +49,7 @@ Narbutas Retros liekanas siejo su Prilvico kaimu netoli Penclino Meklenburge ir 
     l<»Ii Penclino, Meklenburge. Retroje stovėjo šventykla, stulbi­
     nanti prabangumu tas beveik dar laukines Europos šalis.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -22,21 +22,8 @@ Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, a
 - t-001
   global_id: t-60411
   teiginys: 'Pilypas, Fermo vyskupas ir apaštališkojo sosto legatas, atvyko į Lenkijos žemę, kur Konradas iš Tirbergo jam skundėsi dėl Mstivojaus skriaudų.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir citata paremia Pilypo pareigas bei atvykimą į Lenkiją.'
-  susije_objektai: 'llm_object: Lenkija; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Mstivojus|Mstivojus]]; mentioned_place: Lenkija; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Volynė'
-  semantiniai_rysiai: '[[objektai/asmenys/Pilypas (Fermo vyskupas)|Pilypas (Fermo vyskupas)]] keliavo į Lenkija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=25a74c28a0cab15500d2da60bda900e771556d704aa1e4cc428673d37ee6d5ea; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Lenkija: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pilypas (Fermo vyskupas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Pilypas tiesiogiai nurodytas kaip atsiųstas į Lenkijos žemę.
 
 ## Reikšmingi paminėjimai
 
@@ -55,7 +42,6 @@ Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, a
     skriaudų šiose trijose minėtosios kunigaikštystės dalyse bei pateikė įžymiąją privilegiją,
     (SRP, 1, p. 737); Volynės metraštis — Злиньци, Злина (ПСРЛ, 2, стб.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

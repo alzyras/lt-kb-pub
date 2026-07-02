@@ -20,12 +20,8 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 - t-001
   global_id: t-60241
   teiginys: 'Dusburgiečio pasakojime šventasis Augustinas sapne žingsniavo brolių priekyje kartu su Bernardu, Domininku ir Pranciškumi.'
-  sudarymo_pagrindimas: 'Kadangi kalbama apie sapno pasakojimą, būtina šaltinio naratyvo atribucija.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 249654-249879; hash=b4c2b7fc6660bb9c4d74b57fd09792e8c0a4bb4028d894b94598180b584011d7; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-60271|Egidijus (arkivyskupas, XIV a.)]]: Egidijus buvo augustinų ordino mokytojas, o popiežius Bonifacas VIII jį paskyrė Beri arkivyskupu.
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114003|Valerijonas Protasevičius (vyskupas)]]: Vilniaus vyskupas Valerijonas Protasevičius paprieštaravo, kad į sutartį būtų įtraukta sąlyga dėl Augustino tikėjimo laisvo išpažinimo.
 - susijęs iš [[objektai/asmenys/Šventasis Augustinas.md#claim-t-190121|Šventasis Augustinas]]: Narbutas rašė, kad Šventasis Augustinas kryžiaus ženklą siejo su egiptiečių amžinojo gyvenimo vaizdavimu.
@@ -54,7 +50,6 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
     Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo
     priimti ir jį į savo bendrininkus, tačiau jie visi atsisakė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

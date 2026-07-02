@@ -33,9 +33,6 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
 - t-001
   global_id: t-69546
   teiginys: 'Pagal Stepono Batoro planą Kristupas Radvila Perkūnas turėjo saugoti pasienį su Rusija ir imituoti įsiveržimą tarp Veližo ir Smolensko.'
-  sudarymo_pagrindimas: 'Citata leidžia pateikti aiškesnį veiksmą ir tikslą.'
-  susije_objektai: 'llm_object: Veližas; mentioned_place: Smolenskas; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila Perkūnas|Kristupas Radvila Perkūnas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Biala; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Toropecas; llm_object: Rusija'
-  semantiniai_rysiai: '[[objektai/asmenys/Kristupas Radvila Perkūnas|Kristupas Radvila Perkūnas]] keliavo į Veližas'
   pagrindžia:
     - c-001
 
@@ -43,23 +40,8 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
 - t-002
   global_id: t-187667
   teiginys: 'Vytautas išsirengė prieš Pskovą ir paėmė Pskovo miestus Veližą bei Krasnyj Gorod.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sakinys aiškus, konkretus ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Krasnyj Gorod; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Biala; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Rusija; mentioned_place: Smolenskas; mentioned_place: Toropecas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 181196-181980; hash=43fc6f15a4bd7a15edefd444255452f790575c1bd4273d670bb31f4b8985b56a; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Veližas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kristupas Radvila Perkūnas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Veližas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo numatytą žygiavimą Veližo link.
 - susijęs iš [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas.md#claim-t-186598|Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]: Lietuvos metraštis pasakoja, kad kitais metais Vytautas išsirengė prieš Pskovą ir paėmė Veližą bei Krasnyj Gorodą.
 - susijęs iš Krasnyj Gorod: Vytautas per žygį prieš Pskovą paėmė Pskovo miestus Veližą ir Krasnyj Gorod.
 - susijęs iš [[objektai/ivykiai/Pskovo pasidavimas Vytautui ir vietininko paskyrimas.md#claim-t-186598|Pskovo pasidavimas Vytautui ir vietininko paskyrimas]]: Lietuvos metraštis pasakoja, kad kitais metais Vytautas išsirengė prieš Pskovą ir paėmė Veližą bei Krasnyj Gorodą.
@@ -86,7 +68,6 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
     kioms aplinkybėms, veržtis giliau į priešo
     teritoriją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -116,7 +97,6 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
     jų, pramintą Nosimi8 , o pats su visomis pajėgomis nu­
     žygiavo prieš Naugardą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

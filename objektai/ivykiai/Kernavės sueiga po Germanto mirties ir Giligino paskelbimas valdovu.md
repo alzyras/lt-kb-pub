@@ -30,23 +30,8 @@ Nenurodyta
 - t-001
   global_id: t-185712
   teiginys: 'Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Germantas|Germantas]]; llm_object: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; mentioned_person: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_person: [[objektai/asmenys/Trobius|Trobius]]; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_place: Žemaitija; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; llm_object: Žemaitija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 222409-222793; hash=b07660a449b3a70e5f1c588519046ee1b850c7b63c453a6146d43eb919e6179f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Germantas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Giliginas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Germantas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Frazė tiesiogiai įvardija Giliginą kaip Germanto sūnų.
 
 ## Reikšmingi paminėjimai
 
@@ -65,10 +50,8 @@ Nenurodyta
     Lietuvos didžiajam kunigaik­
     ščiui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

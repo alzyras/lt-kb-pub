@@ -41,8 +41,6 @@ Nenurodyta
 - t-001
   global_id: t-09548
   teiginys: 'XVI a. antrojoje pusėje pėstininkai ir artilerija pradėti rikiuoti tarp sunkiosios kavalerijos centro ir lengvosios kavalerijos sparnų.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie rikiuotės raidą ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]'
   pagrindžia:
     - c-002
 
@@ -50,8 +48,6 @@ Nenurodyta
 - t-002
   global_id: t-09550
   teiginys: 'XV a. pabaigoje - XVI a. pradžioje Lietuvoje ir Lenkijoje susiformavo ilgam tradicine tapusi kovinė rikiuotė.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/lengvoji raitija|lengvoji raitija]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -68,7 +64,6 @@ Nenurodyta
     buvo rikiuojama sparnuose ir palaikydavo sunkiųjų raitelių ataką
     flanguodama priešininką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -85,7 +80,6 @@ Nenurodyta
     kavalerijos vėliavų ir lengvosios kavalerijos sparnų, ir paremdavo
     ugnimi centro pajėgų atakas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

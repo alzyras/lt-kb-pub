@@ -30,24 +30,8 @@ periodo_grupes:
 - t-001
   global_id: t-40085
   teiginys: 'Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Dmitrijų Ivanovičių.'
-  susije_objektai: 'llm_object: Tverė; llm_object: Maskva; mentioned_place: Tverė; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Michailas Aleksandrovičius|Michailas Aleksandrovičius]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Nemunas'
-  semantiniai_rysiai: '[[objektai/asmenys/Dmitrijus Ivanovičius|Dmitrijus Ivanovičius]] puolė Tverė; [[objektai/asmenys/Dmitrijus Ivanovičius|Dmitrijus Ivanovičius]] buvo valdovas Maskva'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1368 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Dmitrijus Ivanovičius buvo valdovas Maskva“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Dmitrijų Ivanovičių.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1d24448638edbba9090f17153ac84cce014e4ef215e972bcfa56a0e7b1636390; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Tverė: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Dmitrijus Ivanovičius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Tverė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claim ir citata tiesiogiai nurodo, kad Dmitrijus Ivanovičius puolė Tverę.
 
 ## Reikšmingi paminėjimai
 
@@ -69,7 +53,6 @@ periodo_grupes:
     žiuočiais prie Nemuno vidupio), Algirdas
     1368 m. rudenį ryžosi smogti Maskvai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -96,7 +79,6 @@ periodo_grupes:
     (jo žmona Julijona Tverietė) prašė „pagal-
     bos ir apginti“, kvietė žygiuoti į Maskvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

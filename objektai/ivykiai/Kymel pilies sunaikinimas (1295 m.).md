@@ -44,23 +44,8 @@ Nenurodyta
 - t-001
   global_id: t-31436
   teiginys: '1295 m. kryžiuočiai prie Nemuno sunaikino stiprią Kymel pilį.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai nurodo citatoje minimą pilies sunaikinimą.'
-  susije_objektai: 'llm_object: Kymel; mentioned_place: Kymel; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dubysa; mentioned_place: Gaižuva; mentioned_place: Nemunas; mentioned_place: Pačtuva; mentioned_place: Vilkija'
-  temporaliniai_duomenys: 'įvykio data: 1295 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai nurodo citatoje minimą pilies sunaikinimą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=528f09f8ffc61087043e08a7dda62bb65f1adcb63d6e391313cad07e929a277a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kymel: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kymel: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kryžiuočiai sunaikino Kymel pilį.
 
 ## Reikšmingi paminėjimai
 
@@ -76,7 +61,6 @@ Nenurodyta
     čiavimas yra maža išpiova apie pradedančius išsivystyti ordino ir
     lietuvių santykius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

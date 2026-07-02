@@ -18,24 +18,8 @@ Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti
 - t-001
   global_id: t-186156
   teiginys: 'Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata remia pasiuntinybės pavedimą, bet nemini Stanislovo Daugirdo.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Lietuva; mentioned_place: Trakai; llm_object: Maskva'
-  semantiniai_rysiai: '[[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas|Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]] keliavo į Maskva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1154034-1154672; hash=20e5fcfcc7e468e8b163dcf64f1ff33b1e6fcf9269fdd71f7f04499a6a4eed04; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Maskva: 0.78
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Petras Kiška su kitais pasiuntiniais buvo patikėti vykti į Maskvą.
 
 ## Reikšmingi paminėjimai
 
@@ -61,7 +45,6 @@ Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti
     buvo sutarę karalius Aleksandras ir jo tėvas Ivanas
     Vasiljevičius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

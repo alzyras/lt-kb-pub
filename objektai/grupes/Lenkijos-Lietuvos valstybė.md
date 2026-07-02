@@ -35,16 +35,6 @@ Politinė valstybė / politinis darinys.
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 23698-24530; hash=2f6422996678704454dc7b16fa1ea1c0afc980921ffbd9153457d07661e6a511; match=exact
-  sprendimo_priezastis: final::darbas/prompts/05_quality_control/01_normalize_tags.md
-  ryšio_patikimumas: susije_su -> Austrija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lenkijos-Lietuvos valstybė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=137
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkijos-Lietuvos valstybė" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Trečiasis Lenkijos-Lietuvos valstybės padalijimas (1795 m.).md#claim-t-187974|Trečiasis Lenkijos-Lietuvos valstybės padalijimas (1795 m.)]]: Po trečiojo padalijimo 1795 m. Lenkijos-Lietuvos valstybė visiškai neteko nepriklausomybės.
 ## Reikšmingi paminėjimai
 - c-001
@@ -67,9 +57,7 @@ Politinė valstybė / politinis darinys.
     neteko nepriklausomybės ir priklausė Rusijos, Prūsijos ir Aust­
     rijos imperijoms.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

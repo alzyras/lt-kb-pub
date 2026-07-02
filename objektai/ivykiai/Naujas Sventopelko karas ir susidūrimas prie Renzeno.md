@@ -39,8 +39,6 @@ Nenurodyta
 - t-001
   global_id: t-59381
   teiginys: 'Per susidūrimą prūsai nužudė naująjį maršalą Berleviną, visus brolius ir 400 vyrų, išskyrus 10 pabėgusiųjų.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi neaiškių įvardžių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Kulmas; mentioned_place: Torunė; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -62,11 +60,10 @@ Nenurodyta
     miesto bei pilies ir čia — išdidūs ir pasipūtę — apsistojo iki vakaro. Po to patraukė iki
     pelkės, vardu Renzenas279, kur naktį ilsėjosi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-002
+
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-002
   santrauka: 'Per susidūrimą prūsai nužudė naująjį maršalą Berleviną, visus brolius ir 400 vyrų, išskyrus 10 pabėgusiųjų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -85,7 +82,6 @@ Nenurodyta
     maršalo skirtą vietą, jie atvyko tą valandą, kurią buvo numatęs maršalas, tačiau pabėgo,
     pamatę išžudytus brolius. Prūsai besivydami daugybę išžudė, o kiti pabėgo280.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

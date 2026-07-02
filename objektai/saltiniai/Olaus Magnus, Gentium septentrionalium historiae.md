@@ -29,9 +29,6 @@ Citatoje Olaus Magnus „Gentium septentrionalium historiae“ tapatinama su Ola
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 856887-857086; hash=5556469684bc14e4013adc46bb88216f36d2e595e8f271c027a152ff6c3fbe29; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -45,9 +42,7 @@ Citatoje Olaus Magnus „Gentium septentrionalium historiae“ tapatinama su Ola
     septentrionalium historiae. -  1652 // [Narbutt T]
     Spisanie Muzeum w Szawrach. -  L. 16. -  Nr. 216).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

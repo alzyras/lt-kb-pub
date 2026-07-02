@@ -24,37 +24,18 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   teiginys: 'Tarp karaliaus ir Mozūrų kunigaikščio Ziemovito buvo kilęs ginčas, kurį išsprendė Vytautas.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=86ebb0b34b145d29cbb713b25c104445d0f3e80627628d92d1cd43b4972d2b40; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Lenkija: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ziemovitas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad Ziemovitas buvo išrinktas Lenkijos karaliumi, nors kontekstas yra pretenzijų ir šalininkų pasirinkimo.
 
 <a id="claim-t-93745"></a>
 - t-002
   global_id: t-93745
   teiginys: 'Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir savo šalininkų buvo dukart išrinktas Lenkijos karaliumi.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Austrija; mentioned_place: Gniezno; mentioned_place: Mažlenkiai; mentioned_place: Viena; llm_object: Lenkija'
-  semantiniai_rysiai: '[[objektai/asmenys/Ziemovitas|Ziemovitas]] buvo valdovas Lenkija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b01b2e9d35341e4497b12cc716455b0170da0fcbd8c0b0e7e11c0cc80a8da71e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 <a id="claim-t-93746"></a>
 - t-003
   global_id: t-93746
   teiginys: 'Viename dokumente pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.'
-  sudarymo_pagrindimas: 'Teiginys yra apie Ziemovitą ir remiasi citatoje minimu dokumentu.'
-  susije_objektai: 'mentioned_place: Dobrynė; llm_object: Dobrynė'
-  semantiniai_rysiai: '[[objektai/asmenys/Ziemovitas|Ziemovitas]] surengė žygį į Dobrynė'
   pagrindžia:
     - c-003
 
@@ -62,21 +43,8 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
 - t-005
   global_id: t-93748
   teiginys: 'Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir buvo dukart savo šalininkų išrinktas Lenkijos karaliumi.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatos faktus apie Ziemovitą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Austrija; mentioned_place: Gniezno; mentioned_place: Mažlenkiai; mentioned_place: Viena; llm_object: Lenkija'
-  semantiniai_rysiai: '[[objektai/asmenys/Ziemovitas|Ziemovitas]] buvo valdovas Lenkija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d131c3b6cac0877bc5944f706def21c01ac36e537240fd6a163eb64875e2340f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Dobrynė: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ziemovitas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Dobrynė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai mini Ziemovito įsiveržimą į Dobrynės žemę.
 
 <a id="claim-t-93749"></a>
 - t-006
@@ -84,16 +52,6 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   teiginys: 'Tarp karaliaus ir Mozūrų kunigaikščio Ziemovito kilusį nesusipratimą išsprendė Vytautas.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d131c3b6cac0877bc5944f706def21c01ac36e537240fd6a163eb64875e2340f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Dobrynė: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ziemovitas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Dobrynė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai mini Ziemovito įsiveržimą į Dobrynės žemę.
 - susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-86734|Mazovijos kunigaikščiai]]: 1325 m. kitose Mazovijos žemėse viešpatavo kunigaikščiai Ziemovitas ir Traidenis.
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51024|Jadvyga (Jogailos duktė)]]: Vytautas buvo pašauktas būti karalaitės Jadvygos globėju ir nuo tada turėjo ryškią įtaką Lenkijos reikaluose.
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51028|Jadvyga (Jogailos duktė)]]: Karalaitė Jadvyga buvo pavesta Vytauto globai, nuo kurios prasidėjo ryški jo įtaka lenkų reikaluose.
@@ -122,7 +80,6 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
     priemonėmis pakelti į sostą savo kandidatą, o iš oro pusės kraš­
     tą naikino sileziečiai ir lietuviai^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -138,7 +95,6 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
     liaus bei Mozūrų Ziemovito. Ir šitas nesusipratimas buvo iš­
     spręstas ne keno kito, kaip Vytauto^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -161,7 +117,6 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
     in prenominata Plocendioc totam mise­
     rabiliter devastavit.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

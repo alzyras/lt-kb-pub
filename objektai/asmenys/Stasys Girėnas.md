@@ -30,8 +30,6 @@ periodo_grupes:
 - t-001
   global_id: t-64102
   teiginys: 'Sovietmečiu buvo leidžiama rašyti apie Stepono Dariaus ir Stasio Girėno žygdarbį.'
-  sudarymo_pagrindimas: 'Išplėsti inicialai ir sakinys padarytas aiškesnis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-001
 
@@ -39,15 +37,6 @@ periodo_grupes:
 - t-002
   global_id: t-183570
   teiginys: '1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_object: [[objektai/daiktai/„Pienocentro“ pastatas Kaune|„Pienocentro“ pastatas Kaune]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_person: [[objektai/asmenys/V. Landsbergis-Žemkalnis|V. Landsbergis-Žemkalnis]]; mentioned_place: Kaunas'
-  semantiniai_rysiai: '[[objektai/asmenys/Stasys Girėnas|Stasys Girėnas]] keliavo į Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1933 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -55,14 +44,6 @@ periodo_grupes:
 - t-003
   global_id: t-183571
   teiginys: 'Stasys Girėnas kartu su Steponu Dariumi buvo sumanęs skrydį, kurį 1935 m. gegužės 21–22 d. sėkmingai atliko Feliksas Vaitkus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pirminis teiginys daugiausia apie Feliksą Vaitkų; perrašymas aiškiau susieja faktą su Stasiu Girėnu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Feliksas Vaitkus|Feliksas Vaitkus]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1935 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pirminis teiginys daugiausia apie Feliksą Vaitkų; perrašymas aiškiau susieja faktą su Stasiu Girėnu.'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Steponas Darius.md#claim-t-78013|Steponas Darius]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
@@ -90,7 +71,6 @@ periodo_grupes:
     S. Girėno žygdarbį ir t. t., tačiau apskritai istorija paversta valdžios tarnai-
     te ir naudota antivakarietiškumui ir antikatalikybei skleisti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -109,7 +89,6 @@ periodo_grupes:
     174
     lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -126,7 +105,6 @@ periodo_grupes:
     naikinti sovietmečiu). 1935 m. gegužės 21–22 d. kitas JAV lietuvis, Fe-
     liksas Vaitkus, sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

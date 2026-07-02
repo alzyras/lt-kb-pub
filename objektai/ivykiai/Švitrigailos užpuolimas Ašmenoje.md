@@ -51,140 +51,43 @@ Nenurodyta
 - t-001
   global_id: t-186737
   teiginys: 'Po užpuolimo Ašmenoje Švitrigaila pabėgo su nedidele palyda, o jo žmona, dvariškiai, regalijos, iždas ir kanceliarija atiteko Žygimantui Kęstutaičiui.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys jau yra pilnas lietuviškas sakinys su aiškiu subjektu, veiksmais ir pasekmėmis. Jis remiasi citata ir neprideda nuo jos neatsekamų faktų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; mentioned_place: Ašmena; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_place: Alšėnai; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Trakai'
-  temporaliniai_duomenys: 'įvykio data: 1432 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys jau yra pilnas lietuviškas sakinys su aiškiu subjektu, veiksmais ir pasekmėmis. Jis remiasi citata ir neprideda nuo jos neatsekamų faktų.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b661aa3ab63e98ff9176d1ade513db3481ee95f7f1be9c2c36bfd2801b3488f5; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: dalyvavo_musyje -> Švitrigailos užpuolimas Ašmenoje: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Švitrigailos užpuolimas Ašmenoje: llm_allowed_candidate, event
-  ryšio_paaiskinimas: Žygimantas Kęstutaitis įvardytas tarp užpuolimą Ašmenoje įvykdžiusių veikėjų.
 
 <a id="claim-t-186738"></a>
 - t-002
   global_id: t-186738
   teiginys: 'Redakcinė pastaba nurodo, kad po pabėgimo iš Ašmenos 1432 m. rugsėjo 1 d. naktį Švitrigaila jau rugsėjo 3 d. buvo Polocke.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pastabos pobūdis svarbus, o data išplėsta į aiškią formą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Polockas; mentioned_place: Ašmena; llm_object: Polockas'
-  temporaliniai_duomenys: 'įvykio data: 1432 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pastabos pobūdis svarbus, o data išplėsta į aiškią formą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b661aa3ab63e98ff9176d1ade513db3481ee95f7f1be9c2c36bfd2801b3488f5; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Ašmena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigailos užpuolimas Ašmenoje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigailos užpuolimas Ašmenoje" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186739"></a>
 - t-003
   global_id: t-186739
   teiginys: 'Redakcinė pastaba nurodo, kad Jurgis Lengvenaitis pateko į Žygimanto Kęstutaičio nelaisvę Ašmenos mūšyje ir pabėgo iki 1433 m. spalio 3 d.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Taisyta gramatika ir išlaikyta atribucija redakcinei pastabai.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jurgis Lengvenaitis|Jurgis Lengvenaitis]]; mentioned_place: Ašmena; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Mstislavlis'
-  temporaliniai_duomenys: 'įvykio data: iki 1433 m.; įvykio data: 1399 m.; įvykio data: 1433 m.; įvykio data: 1457 m.; įvykio data: apie 1457 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Taisyta gramatika ir išlaikyta atribucija redakcinei pastabai.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c408f64c6db021cd75ae7a0de3f2b5956de62e1c7d74c19bd60c956ad76aa42b; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: keliavo_i -> Polockas: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Po pabėgimo iš Ašmenos Švitrigaila jau nurodomas Polocke, todėl fiksuojamas judėjimas į Polocką.
 
 <a id="claim-t-186740"></a>
 - t-004
   global_id: t-186740
   teiginys: '1432 m. rugsėjo 1 d. naktį Žygimanto Kęstutaičio ir jo sąjungininkų ginkluoti būriai užpuolė Švitrigailą Ašmenoje.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Citata paremta redakciniu tekstu, todėl nereikia pradėti nuo „Šio leidimo tekste“.'
-  susije_objektai: 'llm_object: [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje|Švitrigailos užpuolimas Ašmenoje]]; mentioned_place: Ašmena; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_person: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; mentioned_place: Alšėnai; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Trakai'
-  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]] dalyvavo mūšyje [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje|Švitrigailos užpuolimas Ašmenoje]]'
-  temporaliniai_duomenys: 'įvykio data: 1432 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata paremta redakciniu tekstu, todėl nereikia pradėti nuo „Šio leidimo tekste“.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7cf54b864bc1114e347d2dbb8be720f319aab5332af5535359749857aa99a42d; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Ašmena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigailos užpuolimas Ašmenoje: owner_note_path, event
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=91
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigailos užpuolimas Ašmenoje" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186741"></a>
 - t-005
   global_id: t-186741
   teiginys: 'Redakcinė pastaba Simoną Jonaitį Alšėniškį laiko vienu svarbiausių 1432 m. rugsėjo 1 d. Švitrigailos užpuolimo Ašmenoje dalyvių.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Vertinimas „vienas svarbiausių“ turi būti aiškiai atribuuotas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Ašmena; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1432 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Vertinimas „vienas svarbiausių“ turi būti aiškiai atribuuotas.'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c407dae25ee0512afe97b804276575aede05ca3911627e56bfbccb27aeb824d5; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Ašmena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigailos užpuolimas Ašmenoje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigailos užpuolimas Ašmenoje" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186742"></a>
 - t-006
   global_id: t-186742
   teiginys: 'Redakcinė pastaba nurodo, kad Petras Mantgirdaitis už dalyvavimą 1432 m. rugsėjo 1 d. Švitrigailos užpuolime Ašmenoje nuo 1434 m. gavo krašto vyriausiojo maršalo vietą.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Reikia glaustesnės sakinio struktūros ir atribucijos redakcinei pastabai.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Ašmena; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_place: Alšėnai; mentioned_place: Kaimas; mentioned_place: Kijevas; mentioned_place: Minskas; mentioned_place: Molodečnas; mentioned_place: Smolenskas'
-  temporaliniai_duomenys: 'įvykio data: po 1422 m.; įvykio data: 1422 m.; įvykio data: 1432 m.; įvykio data: po 1434 m.; įvykio data: 1434 m.; įvykio data: 1435 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia glaustesnės sakinio struktūros ir atribucijos redakcinei pastabai.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5488c7b99a10aa3fd489fe81f8a9b60e579c60cda0ab783fcd1f42e9a7d19573; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Ašmena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Švitrigailos užpuolimas Ašmenoje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigailos užpuolimas Ašmenoje" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -202,7 +105,6 @@ Nenurodyta
     ”  Kituose Lietuvos metraščių nuorašuose M itka Zubrcvickis
     šioje vieloje neminimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -215,7 +117,6 @@ Nenurodyta
     ’ Pabėgus 1432.IX I nakl| ii Ašmenos. Švitrigaila buvo Po­
     locke jau  IX.3.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -239,7 +140,6 @@ Nenurodyta
     3 7  Zaslavlls — dabar BTSR vietovė (45 km |  pietryčius nuo
     Molodečno, 20 Km nuo Minsko).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -264,7 +164,6 @@ Nenurodyta
     taičio rankas Po sųmokslo Žygimantui Kęstutaičiul pasidavė Trakų
     kunigaikštystė (Žemaitija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -283,7 +182,6 @@ Nenurodyta
     neaišku, kodėl Mykolas Jonaitis Alšėniškis buvęs suimtas „ne­
     kaltai".
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

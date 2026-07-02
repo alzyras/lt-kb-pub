@@ -38,32 +38,15 @@ Nenurodyta
 - t-001
   global_id: t-08307
   teiginys: 'Pirmasis giriose gyvenusių žmonių trobesys vadintas nams, namas arba namaitis.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pradinis sakinys turi faktą, bet jį verta sutvarkyti į aiškų enciklopedinį teiginį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 47711-48623; hash=2a2222864e71d5cd7c77a2e4cd53bd0a964db9c5b3e3bc0d8e22d1e178cbf2bb; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-08308"></a>
 - t-002
   global_id: t-08308
   teiginys: 'Senovėj tame name atlikdavo visus namų darbus ir laikydavo reikmenis.'
-  teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 52774-53456; hash=a36cc51c1387875f4dbf5d76669e51b9c387df3d85ffca4e1615b7adf187ade5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalnėnai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Namas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kalnėnai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Namas" parinktas kaip owner_note_path. Targetas "Kalnėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
 - susijęs iš Vilniaus pilis: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54961|Elena (vyskupas, XV–XVI a.)]]: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
@@ -376,7 +359,6 @@ Nenurodyta
         pylė paplavas ir kitą įurštą^183 vandenį, iš kurios duobės tekėjo pro namo pamatą į griovį, kursai
         išvestas buvo namo pasieniu lauko pusėj pakalniui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -393,7 +375,6 @@ Nenurodyta
         šildės ir permerkti nuo lytaus ar krušos džiovinos, vasarą tenai valgė, rudenį ir žiemą stotkus arba
         baldus ir kitą namų padarynę, beje, žambius, akėčias, ant sulos kamaros sukeltus, laikė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

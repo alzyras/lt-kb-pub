@@ -42,8 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-93029
   teiginys: 'Iki Jogailos privilegijos bajorai dėl dvarų ir kraičių turėjo atsiklausti didžiojo kunigaikščio.'
-  sudarymo_pagrindimas: 'Sutrumpinta iki aiškaus, šaltiniu paremto fakto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -51,7 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-93030
   teiginys: 'Apsikrikštijusiems bajorams suteikta pilna laisvė šeimos reikaluose, įskaitant dukterų išleidimą už vyro.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]'
   pagrindžia:
     - c-001
 
@@ -67,7 +64,6 @@ Nenurodyta
     teikta laisvė savo dukteris ir giminaites leisti už joms tinkamų
     vyrų, tik kad jie nebūtų stačiatikiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -89,7 +85,6 @@ Nenurodyta
     ir bajorai, sekdami kunigaikščių pavyzdžiu, taip pat statė baž­
     nyčias ir dovanojo joms žemių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

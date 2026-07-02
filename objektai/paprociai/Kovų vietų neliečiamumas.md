@@ -44,7 +44,6 @@ Nenurodyta
 - t-001
   global_id: t-67129
   teiginys: 'Tokias vietas žmonės paprastai vadino milžinų kapais ir net vyresnybės nurodymu jas ardydami nerasdavo nieko, kas patvirtintų liaudies pasakas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
   pagrindžia:
     - c-001
     - c-002
@@ -59,7 +58,6 @@ Nenurodyta
         sutrynėję ginklai praėjusiųjų gadynių ir kaulai žmonių tokių, kokius šiandien regim dar
         gyvojančius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -79,7 +77,6 @@ Nenurodyta
         kokias vietas paprastai milžinų kapais vadina, apie kuriuos pasakos šiandien dar visiems yra
         žinomos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -38,7 +38,6 @@ Nenurodyta
 - t-001
   global_id: t-67248
   teiginys: 'Kalnėnai ir žemaičiai tuos paukščius gerbia ne dėl kito priežasties, o dėl jų teikiamos linksmybės ir apsaugos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   pagrindžia:
     - c-001
 
@@ -51,7 +50,6 @@ Nenurodyta
         kaip tiktai dėl to paties, dėl kurio šiandien tebdaro, gerbdami juos vienus kaipo prajovus^837
         linksmybės, kitus kaipo savo apgynėjus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

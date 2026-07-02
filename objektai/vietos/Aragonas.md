@@ -29,21 +29,8 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
 - t-001
   global_id: t-86168
   teiginys: 'Aragone esančiame Alkaniso mieste gimė teisininkas Petrus Maureus Royzius.'
-  sudarymo_pagrindimas: 'Pradiniame teiginyje yra nesusijusio teksto ir OCR triukšmo, bet citata pagrindžia faktą apie Aragoną.'
-  susije_objektai: 'llm_object: Aragonas; mentioned_place: Alkanisas; mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: 'Alkanisas priklausė Aragonas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b17850dd9682c4105e8364c31b628dd10e147b997edb9215ae5211bbb383228f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Aragonas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Alkanisas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Aragonas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje Alkaniso miestas aiškiai lokalizuotas Aragone.
 - susijęs iš [[objektai/asmenys/Petras Roizijus.md#claim-t-87829|Petras Roizijus]]: Petras Roizijus buvo iš Aragono kilęs teisininkas, LDK miesto reikalų referendorius ir Vilniaus katedros kustodas.
 - susijęs iš Alkanisas: Alkanisas nurodomas kaip Aragono miestas, kuriame gimė teisininkas Petrus Maureus Royzius.
 - susijęs iš [[objektai/asmenys/Petras Roizijus.md#claim-t-87829|Petras Roizijus]]: Petras Roizijus buvo iš Aragono kilęs teisininkas, LDK miesto reikalų referendorius ir Vilniaus katedros kustodas.
@@ -77,7 +64,6 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
     miesto reikalų referendorius ir Vil­
     niaus katedros kustodas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

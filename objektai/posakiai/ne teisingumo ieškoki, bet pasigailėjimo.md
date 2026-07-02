@@ -23,39 +23,15 @@ Dusburgietis teigia, kad valdovas Henrikas, turėdamas galvoje, kad kiekvienas p
 - t-001
   global_id: t-89597
   teiginys: 'Henrikas iš Lichtenšteino Sventopelkui pareiškė, kad šis turįs ieškoti ne teisingumo, bet pasigailėjimo.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia posakio adresatą ir prasmę.'
-  susije_objektai: 'llm_object: Kulmas; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_person: [[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; llm_object: [[objektai/grupes/Krikščionys|Krikščionys]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 326136-327510; hash=7cf5b22df82392bcefe2d66349b2d4d1f6786356fee7e9872e812f98fa34c2e6; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Kulmas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas iš Lichtenšteino: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Henrikas buvo išleistas į Kulmo miestą.
 
 <a id="claim-t-89598"></a>
 - t-002
   global_id: t-89598
   teiginys: 'Sventopelkui prašant grąžinti įkaitu duotą sūnų, Henrikas iš Lichtenšteino atsakė: „ne teisingumo ieškoki, bet pasigailėjimo“.'
-  sudarymo_pagrindimas: 'Citata pagrindžia derybų situaciją ir posakio pavartojimą.'
-  susije_objektai: 'llm_object: Kulmas; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_person: [[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; llm_object: [[objektai/grupes/Krikščionys|Krikščionys]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 326136-327510; hash=7cf5b22df82392bcefe2d66349b2d4d1f6786356fee7e9872e812f98fa34c2e6; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Kulmas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas iš Lichtenšteino: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Henriko vykimą į Kulmo miestą.
 
 ## Reikšmingi paminėjimai
 
@@ -82,7 +58,6 @@ Dusburgietis teigia, kad valdovas Henrikas, turėdamas galvoje, kad kiekvienas p
     valdovą Henriką į Kulmo miestą, kur šis atpasakojo magistrui bei broliams visa, ką buvo
     girdėjęs.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

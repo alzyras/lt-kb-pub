@@ -20,8 +20,6 @@ amziai:
 - t-001
   global_id: t-11775
   teiginys: 'Pravoslavai priklausė Konstantinopolio patriarchatui ir kadaise buvo valdomi Kijevo metropolito.'
-  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti objektą ir pašalinti neapibrėžtą įvardį.'
-  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Konstantinopolis; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -29,8 +27,6 @@ amziai:
 - t-002
   global_id: t-11776
   teiginys: 'Pravoslavų nepasitenkinimas paskatino Vytautą iškelti rytų ir vakarų bažnyčių unijos idėją.'
-  sudarymo_pagrindimas: 'Įvardytas objektas ir aiškiau suformuluotas citatos paremtas ryšys.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-002
 
@@ -38,7 +34,6 @@ amziai:
 - t-003
   global_id: t-11777
   teiginys: 'Pravoslavai yra vėlyvesnis graikų tikybos žmonių pavadinimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš Zigmanto Kęstutaičio 1434 m. privilegija: Zigmanto Kęstutaičio 1434 m. privilegija sulygino civilines pravoslavų ir katalikų teises, bet pravoslavai valstybinių vietų negalėjo gauti.
@@ -55,7 +50,6 @@ amziai:
     polio patriarchatui ir kadaise buvo valdomi vieno Kijevo metro­
     polito.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -72,7 +66,6 @@ amziai:
     mas tautos vieningumo religišku atžvilgiu svarbą, jis iškėlė rytų
     ir vakarų bažnyčių unijos idėją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

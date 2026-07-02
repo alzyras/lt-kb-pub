@@ -47,23 +47,8 @@ Nenurodyta
 - t-001
   global_id: t-59716
   teiginys: 'Sūduviai iš Lenkijos išsivežė Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslą ir ketino mėtyti į jį ietis.'
-  sudarymo_pagrindimas: 'Pradinis sakinys buvo fragmentiškas; citata tiesiogiai pagrindžia konkretų įvykį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kėdainiai; mentioned_place: Lenkija; mentioned_place: Raseiniai; llm_object: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1419 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis sakinys buvo fragmentiškas; citata tiesiogiai pagrindžia konkretų įvykį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 522586-523508; hash=d1e71c4447b1417abe01c3d6a0713d28d14982ca977bc4f29c785a52553f2345; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Lenkija: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sūduviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lenkija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai mini sūduvių įsiveržimą su kariuomene į Lenkiją.
 
 ## Reikšmingi paminėjimai
 
@@ -86,7 +71,6 @@ Nenurodyta
 
     mano sūnaus karalystėje“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

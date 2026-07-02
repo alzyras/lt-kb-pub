@@ -22,20 +22,8 @@ Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios
 - t-001
   global_id: t-86272
   teiginys: 'Pabaisko parapijos riba ėjo iki Šesarkos upės, kur ties Skočiūnų dvaru Šešulka įteka į Šventąją.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi perteklinio dokumento teksto.'
-  susije_objektai: 'mentioned_place: Šešulka; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Kertuša; mentioned_place: Šešuolė; mentioned_place: Širvinta'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ab605063a7bd1d1816cc37b0973ad06a23293e6e93fc218b28ea8eab97e4d123; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Šešulka: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šesarka: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Šešulka: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šesarka" parinktas kaip owner_note_path. Targetas "Šešulka" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Kertuša: Pabaisko parapijos ribos ėjo nuo Širvintos iki Šventosios ir buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos.
 - susijęs iš Kertuša: Pabaisko parapijos ribos buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės.
 - susijęs iš Šešuolės miškas: Kertušos upė tekėjo per Šešuolės mišką iki Šesarkos upės.
@@ -70,7 +58,6 @@ Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios
     pastatyta ir veikti, kad nepadarytų nuostolio ir skriaudos
     minėtai Pabaisko bažnyčiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

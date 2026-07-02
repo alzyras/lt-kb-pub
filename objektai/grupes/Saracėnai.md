@@ -33,62 +33,22 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
 - t-001
   global_id: t-63210
   teiginys: 'Saracėnų valdovas Almimolinas su gausia kariuomene atvyko į Ispaniją ir paskelbė karą krikščionims.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Pašalinta antraštė ir perteklinis šaltinio įvadas.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Saracėnai|Saracėnai]]; llm_object: Ispanija; mentioned_person: [[objektai/asmenys/Almimolinas|Almimolinas]]; mentioned_place: Ispanija; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Almimolinas|Almimolinas]] buvo valdovas [[objektai/grupes/Saracėnai|Saracėnai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 694037-694443; hash=a9378459d9bdf4c7e70585e496075215b76fb9a7bd77fcc009abc4674ab167eb; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Saracėnai: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Almimolinas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Saracėnai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Tekste Almimolinas tiesiogiai vadinamas saracėnų valdovu.
 
 <a id="claim-t-63211"></a>
 - t-002
   global_id: t-63211
   teiginys: 'Ferdinando nugalėtas Granados saracėnų karalius ilgai mokėjo Kastilijos karaliui po 1000 aukso marobortinų per dieną.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Citata leidžia patikslinti duoklės trukmę ir dydį.'
-  temporaliniai_duomenys: 'įvykio data: 1241 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia patikslinti duoklės trukmę ir dydį.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3797f1f78e65a9b836f9d5855f8004e6023977d2ef9542ebce5aea22bfc45653; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 <a id="claim-t-184583"></a>
 - t-003
   global_id: t-184583
   teiginys: '1429 m. valdovų posėdyje imperatorius ragino po husitų numalšinimo kariuomenę nukreipti prieš turkus ir saracėnus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie saracėnus ir pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Husitai|Husitai]]'
-  temporaliniai_duomenys: 'įvykio data: 1429 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie saracėnus ir pagrįstas citata.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 727202-727704; hash=70312c6da46c51d21a9c83c9862b8850c8798073b2e7c45662fb7293014469ef; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Husitai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Saracėnai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Husitai: mention_match, group, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Saracėnai" parinktas kaip owner_note_path. Targetas "Husitai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Ispanija: 1266 m. iš Afrikos atvykę saracėnai užgrobė Ispaniją, bet vėliau krikščionys juos nugalėjo.
 - susijęs iš [[objektai/ivykiai/tūkstančių saracėnų žūtis totorių žygyje (1300 m.).md#claim-t-59475|tūkstančių saracėnų žūtis totorių žygyje (1300 m.)]]: 1300 m. totoriai žygyje per Kapadokiją, Antiochijos žemę, Armėniją, Damaską ir Gazą nužudė daugiau kaip 200 tūkstančių saracėnų.
 - susijęs iš [[objektai/asmenys/Almimolinas.md#claim-t-60235|Almimolinas]]: Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją ir paskelbė karą nukryžiuotąjį gerbiantiems žmonėms.
@@ -135,7 +95,6 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
     užpuolę, nugalėjo, o tiek daug jų kovoje krito, kad nuo užmuštų saracėnų plūdo upeliai
     kraujo. Almimolinas gėdingai pabėgo su keliais savo kariais (Ptol. 21,9; Mart. p. 392).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -153,7 +112,6 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
     kuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.
     21,33).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -184,7 +142,6 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
 
     siūlyti, nei įgyvendinti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

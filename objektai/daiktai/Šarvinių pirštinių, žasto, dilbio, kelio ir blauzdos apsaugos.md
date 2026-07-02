@@ -41,7 +41,6 @@ Nenurodyta
 - t-001
   global_id: t-40805
   teiginys: 'Žasto, dilbio, kelio ir blauzdos apsaugos datuojamos XIV a. pabaiga ir XV a.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Žasto, dilbio, kelio ir blauzdos apsaugos|Žasto, dilbio, kelio ir blauzdos apsaugos]]; mentioned_object: [[objektai/zodynas/emyras|emyras]]'
   pagrindžia:
     - c-001
 
@@ -57,7 +56,6 @@ Nenurodyta
     dos apsaugos. XIV a. pabaiga-
     xv a. Rekonstrukcija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

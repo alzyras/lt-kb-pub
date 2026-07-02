@@ -42,21 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-59718
   teiginys: 'Ragainės pilies viduryje buvo maždaug 20 žingsnių ilgio ir beveik tokio pat pločio žuvų tvenkinys.'
-  sudarymo_pagrindimas: 'Pašalinta perteklinė įžanga ir suformuluotas aiškus faktas apie tvenkinį.'
-  susije_objektai: 'mentioned_place: Ragainė; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsija; llm_object: Ragainė'
-  semantiniai_rysiai: '[[objektai/daiktai/Žuvų tvenkinys Ragainės pilyje|Žuvų tvenkinys Ragainės pilyje]] priklausė Ragainė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 487718-488423; hash=d7c0d88df47bfb1ddef4943bbf36d8c93cd708c00de271d1a5006b3a62c8f34d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Ragainė: 0.78
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žuvų tvenkinys Ragainės pilyje (pilis): llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tvenkinys tiesiogiai apibūdintas kaip buvęs Ragainės pilies viduryje.
 
 ## Reikšmingi paminėjimai
 
@@ -74,7 +61,6 @@ Nenurodyta
     Kodėl šitaip yra, nežinau, težino vienas dievas, kurio sprendimai nesuprantami, o keliai
     nesuvokiami.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

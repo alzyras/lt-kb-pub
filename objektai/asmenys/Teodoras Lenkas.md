@@ -29,16 +29,6 @@ Vladislovas Jogaila pasiuntė dominikoną Teodorą Lenką į Konstancos susirink
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 713317-713786; hash=b88c578f514aaba6552ac81d72fed6fd91bd60b1129ba41b7860b80857f4ddf3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Konstanca: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Konstanca: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Vladislovas Jogaila pasiuntė Teodorą Lenką į Konstancos susirinkimą.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -55,10 +45,8 @@ Vladislovas Jogaila pasiuntė dominikoną Teodorą Lenką į Konstancos susirink
     rumais atgrasančius lietuvius veiksmingai priimti šventąjį ti­
     kėjimą. Apie tai žinome iš Dlugošo.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

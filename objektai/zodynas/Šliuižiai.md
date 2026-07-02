@@ -23,8 +23,6 @@ Vartojamos formos: `šliuižiu`.
 - t-001
   global_id: t-07640
   teiginys: 'Šliuižiai buvo pirmieji kalnėnų ir žemaičių ratai ant dviejų tekinių.'
-  sudarymo_pagrindimas: 'Sakinys yra pilnas ir tiesiogiai paremtas citatos duomenimis apie šliuižius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_object: [[objektai/daiktai/Ratai ant dviejų tekinių|Ratai ant dviejų tekinių]]'
   pagrindžia:
     - c-001
 
@@ -37,7 +35,6 @@ Vartojamos formos: `šliuižiu`.
         šieną iš pievų vežė bei į kelią keliavo, nesgi kitokių ratų negalėjo dėvėti dėl ankštumo ir šlapumo
         kelio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

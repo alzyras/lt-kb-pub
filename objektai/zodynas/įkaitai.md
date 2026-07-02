@@ -30,11 +30,6 @@ amziai:
 - t-001
   global_id: t-182994
   teiginys: 'Ordinas žymesniųjų Žemaičių bajorų vaikus išvežė į Pavyslį kaip įkaitus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata leidžia įvardyti veikėją ir vietą, todėl teiginys tampa aiškesnis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija.md#claim-t-67243|Įkaitų davimas kaip sutarties garantija (sutartis)]]: 1383 m. žemaičiai, atsitraukdami nuo Vilniaus, davė vokiečiams savo įkaitus, nors jie buvo duoti ne nuo visų Žemaitijos sričių.
@@ -49,7 +44,6 @@ amziai:
     prieš galimą sukilimą. Žymesniųjų bajorų vaikai buvo net iš-
     vežti į Pavyslį, kaip įkaitai. Ordino valdžia buvo labai žiauri.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

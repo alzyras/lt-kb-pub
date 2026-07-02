@@ -47,9 +47,6 @@ Nenurodyta
 - t-001
   global_id: t-05298
   teiginys: '1044 m. Jaroslavas vėl žygiavo į Lietuvą ir pavasarį įkūrė Naugarduką.'
-  susije_objektai: 'llm_object: Lietuva; llm_object: Naugardukas; mentioned_object: [[objektai/posakiai/na Litvu|na Litvu]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Kijevas'
-  temporaliniai_duomenys: 'įkūrimo data: 1044 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -57,11 +54,6 @@ Nenurodyta
 - t-002
   global_id: t-05299
   teiginys: 'XI a. rusų metraščiai mini tik du lietuvių ir Kijevo rusų karinius konfliktus, jei 1040 ir 1044 m. Jaroslavo žygiai nebuvo viena ekspedicija.'
-  sudarymo_pagrindimas: 'Reikia sutvarkyti archajišką ir gremėzdišką formuluotę, išlaikant citatos sąlygą.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Kijevo Rusia|Kijevo Rusia]]; mentioned_group: [[objektai/grupes/Kijevo Rusia|Kijevo Rusia]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kijevas; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Dregovičiai|Dregovičiai]]; mentioned_group: [[objektai/grupes/Krivičiai|Krivičiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Bizantija; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Rusia'
-  temporaliniai_duomenys: 'įvykio data: 988 m; įvykio data: 1044 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia sutvarkyti archajišką ir gremėzdišką formuluotę, išlaikant citatos sąlygą.'
   pagrindžia:
     - c-002
 
@@ -75,7 +67,6 @@ Nenurodyta
     dveji metai iš eilės (1131-32) Kijevo Mstislavas daręs žygius į
     Lietuvą («na Litvu»).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -96,7 +87,6 @@ Nenurodyta
     Kijevo rusų karinius konfliktus, jeigu 1040 ir 1044 m. minimi
     Jaroslavo žygiai nereiškia tik vienos karinės ekspedicijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

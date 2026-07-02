@@ -29,24 +29,8 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
 - t-001
   global_id: t-80619
   teiginys: '1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos, perėjusios Volgą, sudegino Urdomą ir pasuko Staricos link.'
-  sudarymo_pagrindimas: 'Reikia pašalinti inicialą ir suformuluoti sklandesnį enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_place: Starica; llm_object: Urdomas; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Pskovas; mentioned_place: Rusija; mentioned_place: Rževas; mentioned_place: Volga; llm_object: Starica'
-  semantiniai_rysiai: '[[objektai/grupes/Radvilos|Radvilos]] puolė Urdomas'
-  temporaliniai_duomenys: 'įvykio data: 1581 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia pašalinti inicialą ir suformuluoti sklandesnį enciklopedinį sakinį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=110935728f721e253abac819084989a04e5014e5d62f10794d74357b8e89d671; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Urdomas: 0.85
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Radvilos: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Urdomas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Radvilos pajėgos tiesiogiai nurodomos kaip sudeginusios Urdomo miestą.
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78613|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: 1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos nusiaubė Rževo apylinkes, sudegino Urdomo miestą ir pasuko Staricos link.
 - susijęs iš Volgos upė: K. Radvilos pajėgos, perėjusios Volgos upę, sudegino Urdomo miestą ir pasuko Staricos link.
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78617|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: Radvilos pajėgos nusiaubė Rževo, Toropeco ir Staricos apylinkes, o Ivanas IV buvo priverstas evakuoti savo šeimą ir dvarą.
@@ -69,7 +53,6 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
     tas skubiai evakuoti savo šeimą ir dvarą
     su iždu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

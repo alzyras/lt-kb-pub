@@ -57,8 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-75334
   teiginys: 'Liepos 9 d. Vingio parke LPS vadovybė pareikalavo legalizuoti tautinius simbolius: trispalvę ir „Tautišką giesmę“.'
-  sudarymo_pagrindimas: 'Perrašyta tiksliau pagal citatą, išlaikant faktinę atramą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-002
 
@@ -66,11 +64,6 @@ Nenurodyta
 - t-002
   global_id: t-75335
   teiginys: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę.'
-  sudarymo_pagrindimas: 'Teiginys yra trumpas, gramatiškas ir pakankamai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1988 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, gramatiškas ir pakankamai pagrįstas citata.'
   pagrindžia:
     - c-003
 
@@ -78,8 +71,6 @@ Nenurodyta
 - t-003
   global_id: t-75336
   teiginys: 'Po Aleksandro Jakovlevo apsilankymo Lietuvoje LKP vadovybė oficialiai pripažino trispalvę ir „Tautišką giesmę“.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nesusijęs su citata, o citata pagrindžia trispalvės pripažinimą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Romualdas Ozolas|Romualdas Ozolas]]'
   pagrindžia:
     - c-004
 
@@ -87,11 +78,6 @@ Nenurodyta
 - t-004
   global_id: t-75337
   teiginys: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę, „Tautišką giesmę“, Vytį ir Gediminaičių stulpus.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Lietuva; mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1988 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-003
 
@@ -99,8 +85,6 @@ Nenurodyta
 - t-005
   global_id: t-75338
   teiginys: 'Po Aleksandro Jakovlevo apsilankymo Lietuvoje LKP oficialiai pripažino trispalvę ir „Tautišką giesmę“.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Romualdas Ozolas|Romualdas Ozolas]]'
   pagrindžia:
     - c-004
 
@@ -108,11 +92,6 @@ Nenurodyta
 - t-006
   global_id: t-75339
   teiginys: '1919 m. rugsėjo 26 d. virš Kauno skraidę lėktuvai tempė Lietuvos trispalvę.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per platus, o citata tiesiogiai paremia konkretesnį faktą apie trispalvę.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/zodynas/de facto|de facto]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Didžioji Britanija; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Prancūzija'
-  temporaliniai_duomenys: 'įvykio data: 1919 m.; įvykio data: 1920 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per platus, o citata tiesiogiai paremia konkretesnį faktą apie trispalvę.'
   pagrindžia:
     - c-001
 
@@ -132,7 +111,6 @@ Nenurodyta
     vegija, Latvija, Suomija, 1920 m. – Prancūzija (gegužės 11 d.) ir Lenkija
     (liepos 4 d.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -148,7 +126,6 @@ Nenurodyta
     šį mitingą paskelbė reikalavimus legalizuoti tautinius simbolius: trispalvę
     ir „Tautišką giesmę“) – apie 100 tūkst. žmonių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -168,7 +145,6 @@ Nenurodyta
     Svarbiausiu įvykiu tapo 1988 m. spalio 22–23 d. LPS steigiamasis suva-
     žiavimas, kuriame dalyvavo 1 021 delegatas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -188,7 +164,6 @@ Nenurodyta
     kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti
     laikraštis „Atgimimas“ (red. Romualdas Ozolas).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

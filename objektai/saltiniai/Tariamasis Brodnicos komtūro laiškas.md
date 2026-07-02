@@ -18,45 +18,15 @@ Kiuchelmeisteris sugalvojo parašyti tariamąjį Brodnicos komtūro laišką api
 - t-001
   global_id: t-186322
   teiginys: 'Kiuchelmeisteris sugalvojo parašyti tariamąjį Brodnicos komtūro laišką apie varganą Brodnicos padėtį.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pirminis teiginys turi OCR triukšmo ir perteklinės autorinės formuluotės.'
-  susije_objektai: 'mentioned_place: Brodnica; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 680103-680650; hash=2d87ada968df01801f8acc2b31e5f0229d7aa10a35fdc00bd2b332a6482e2253; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brodnica: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tariamasis Brodnicos komtūro laiškas: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Brodnica: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tariamasis Brodnicos komtūro laiškas" parinktas kaip owner_note_path. Targetas "Brodnica" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186323"></a>
 - t-002
   global_id: t-186323
   teiginys: 'Vytautas patikėjo tariamuoju Brodnicos komtūro laišku ir dėl jo nutraukė Kulmo apgulą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų laiško poveikį Vytauto veiksmams.'
-  susije_objektai: 'llm_object: Kulmas; mentioned_place: Brodnica; mentioned_place: Kulmas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 680651-681073; hash=179adb42b07054c2bfde492c874fbdf36e18844f17c5f68644ce87cd2dbb5f11; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: apgule -> Kulmas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Vytautas nutraukė Kulmo apgulą, vadinasi ši apgula buvo jo vykdyta.
 
 ## Reikšmingi paminėjimai
 
@@ -82,14 +52,11 @@ Kiuchelmeisteris sugalvojo parašyti tariamąjį Brodnicos komtūro laišką api
     lų. Jeigu magistras nepaskubėsiąs padėti, priešas ne­
     abejotinai pulsiąs ir po kelių dienų miestas žūsiąs.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Vytautas patikėjo tariamuoju Brodnicos komtūro laišku ir dėl jo nutraukė Kulmo apgulą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -104,10 +71,8 @@ Kiuchelmeisteris sugalvojo parašyti tariamąjį Brodnicos komtūro laišką api
     apgulą, o vylių suvokė tik tada, kai prie Brodnicos pa­
     tyrė, jog padėtis čia visai kitokia.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002

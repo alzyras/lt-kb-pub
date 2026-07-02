@@ -32,21 +32,8 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
 - t-001
   global_id: t-87639
   teiginys: 'Gedimino laiškų rašytojas dviejuose laiškuose Mazovijos kunigaikštį vadino Bonislavu, nors Balińskis tokio kunigaikščio nerado.'
-  sudarymo_pagrindimas: 'Pradinis tekstas buvo fragmentiškas ir nepaaiškino, kieno laiškai bei kodėl vardas problemiškas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Mazovija; mentioned_place: Plockas; llm_object: Mazovija'
-  semantiniai_rysiai: '[[objektai/asmenys/Bonislavas (Mazovijos kunigaikštis )|Bonislavas (Mazovijos kunigaikštis )]] valdė Mazovija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=70a64932d19776a6b83f8593211ea86f63868f19d8b318aec65db7ef74595be3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Mazovija: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bonislavas (Mazovijos kunigaikštis ): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Titulinė formuluotė vadina Bonislovą Mazovijos kunigaikščiu, bet pats tekstas pabrėžia šio identifikavimo abejotinumą.
 
 ## Reikšmingi paminėjimai
 
@@ -68,7 +55,6 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
     kyta randame (p. 989 ir 993) prie 1327 metų - Venceslaus,
     V aniek arba Vanko Masovie Dux, bet dar irVVigand Marb.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

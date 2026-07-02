@@ -7,6 +7,11 @@ datos:
   - '1208 m.'
 date_start: '1208'
 date_end: ''
+description: 'Aleksandras Balinskis – iš Krokuvos kviestas alchemikas ir gydytojas, siejamas su Aleksandro Jogailaičio gydymu Vilniuje.'
+socialDescription: 'Aleksandras Balinskis: Krokuvos alchemikas, Aleksandro Jogailaičio gydymas Vilniuje ir karališkosios vaistinės pėdsakas mieste.'
+seo_atnaujinta: '2026-07-02T21:03:54.604083+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'true'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,7 +25,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydytojas, susijęs su Aleksandro Jogailaičio gydymu Vilniuje. Pasakojimas pabrėžia jo reputaciją, gydymo nesėkmę, vėlesnį kalinimą ir karališkosios vaistinės dalies likimą Vilniuje.
+Aleksandras Balinskis buvo iš Krokuvos atvykęs alchemikas ir gydytojas, kviestas Vilniuje gydyti sergančio Aleksandro Jogailaičio. Šaltiniuose jis siejamas su alchemijos išmanymu, prieštaringai vertintu gydymu, karaliaus mirtimi ir vėlesniu kalinimu Vilniuje bei Krokuvoje. Pasakojime taip pat minima, kad dalis iš Krokuvos pargabentos karališkosios vaistinės liko Vilniuje ir tapo miesto vaistinės pradžia.
 
 ## Variantai
 
@@ -51,83 +56,34 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
 - t-001
   global_id: t-54931
   teiginys: 'Aleksandras Balinskis buvo iš Krokuvos pakviestas alchemikas, kurio gydymas nepadėjo sergančiam Aleksandrui Jogailaičiui.'
-  susije_objektai: 'mentioned_place: Krokuva; mentioned_person: [[objektai/asmenys/Šach Achmedas|Šach Achmedas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 472969-473473; hash=b4f316da0ea8277f851e2c4698d74b43c97b81454ca3be8d39bfc4496aab4ac4; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Krokuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Balinskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Balinskis" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54932"></a>
 - t-002
   global_id: t-54932
   teiginys: 'Aleksandras Balinskis buvo Krokuvos bajoraitis nuo Olkušo, garsėjęs alchemijos išmanymu ir sėkmingu gydymu.'
-  sudarymo_pagrindimas: 'Perrašyta sklandžiau ir pašalinta publicistinio fragmento formuluotė.'
-  susije_objektai: 'mentioned_place: Krokuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 474152-474697; hash=5d97c9288e665ceb67947602a8f868b04ec427259f49619a008c0e8c69cc543f; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Krokuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Balinskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Balinskis" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54933"></a>
 - t-003
   global_id: t-54933
   teiginys: 'Balinskis po karaliaus mirties kalėjo Vilniuje iki Žygimanto atvykimo, o grįžęs į Krokuvą vėl buvo įkalintas.'
-  susije_objektai: 'llm_object: Krokuva; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] keliavo į Krokuva'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 476546-476958; hash=bffa8312f32c1bed4384aa3fd3044783aef78ac01ef46d4d2fc89ec3fd646dfe; match=exact
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: keliavo_i -> Krokuva: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Aleksandras Balinskis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Krokuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje tiesiogiai pasakyta, kad Balinskis sugrįžo į Krokuvą.
 
 <a id="claim-t-54934"></a>
 - t-004
   global_id: t-54934
   teiginys: 'Aleksandro Balinskio iš Krokuvos pargabentos karališkosios vaistinės dalis liko Vilniuje ir tapo miesto vaistinės pradžia.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Balinskio vaidmenį ir yra paremtas citata.'
-  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=077c1462a31aa53d33086bdcd1b2838497e82e25c11ce09be8009c96e64380cf; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
-  ryšio_patikimumas: susije_su -> Krokuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandras Balinskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras Balinskis" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-173117"></a>
 - t-005
   global_id: t-173117
   teiginys: 'Po karaliaus Aleksandro mirties Aleksandras Balinskis kalėjo Vilniuje iki Žygimanto atvykimo.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citatos paremtas faktas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -135,9 +91,6 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
 - t-006
   global_id: t-173118
   teiginys: 'Aleksandras Balinskis garsėjo alchemijos išmanymu ir sėkmingu gydymu, todėl atvyko iš Krokuvos gydyti sergančio Aleksandro.'
-  sudarymo_pagrindimas: 'Citata palaiko aiškesnį faktą apie asmenį.'
-  susije_objektai: 'mentioned_place: Krokuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] keliavo į Vilnius'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Aleksandras II.md#claim-t-82169|Aleksandras II]]: Aleksandro II atėjimas į sostą žymėjo liberalių reformų pradžią ir atgaivino visuomenės politinius siekius.
@@ -344,7 +297,6 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
     mikas Balinskis, vėliau už gydymo nesėkmę ar už savo
     aiškiaregystes sumokėjęs laisvė46.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -370,7 +322,6 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
     ilgai laikomas stiprių žolių garo vo­
     nioje, savo metraščiuose vadino jį
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -403,7 +354,6 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
     miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau
     tapo nuolatinės miesto vaistinės pradžia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -426,7 +376,6 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
     III KNYGA
     lėtoju ir į kapą nužengė triumfuodamas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

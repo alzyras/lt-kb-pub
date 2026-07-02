@@ -34,8 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-07813
   teiginys: 'Kalnėnai ir žemaičiai kūrėsi vienkiemiuose atokiai vieni nuo kitų, kad išvengtų barnių, gaisrų plitimo ir galėtų padėti kaimynams.'
-  sudarymo_pagrindimas: 'Citata leidžia tiksliau nurodyti atstumo priežastis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]'
   pagrindžia:
     - c-001
 
@@ -52,7 +50,6 @@ Nenurodyta
         antrasis, girdėdamas savo susiedo šunis lojant, pats galėtų tuo tarpu pasitiekti o jų^176 nuo savęs
         remti ar antram pagalbą duoti, jei to būt reikę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

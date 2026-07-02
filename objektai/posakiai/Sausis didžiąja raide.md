@@ -38,9 +38,6 @@ amziai:
 - t-001
   global_id: t-41464
   teiginys: 'Posakis „Sausis didžiąja raide“ siejamas su Sausio 13-ąja ir 1991 metų naktimi, kai Lietuva laimėjo ištvermės mūšį.'
-  susije_objektai: 'mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1990 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -48,21 +45,8 @@ amziai:
 - t-002
   global_id: t-41465
   teiginys: 'Formuluotė „Sausis didžiąja raide“ Lietuvoje siejama su Sausio 13-ąja ir 1991 metų nakties atmintimi.'
-  susije_objektai: 'mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1990 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e43c247313fa10803c14d1b9247ada48afd0c5687390065f69d7c88f612b2cc6; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sausis didžiąja raide: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sausis didžiąja raide" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -102,7 +86,6 @@ amziai:
     ne vienam galiūnui arba gudragalviui atrodė, kad ši maža šalis
     skelbia karą negailestingai didvalstybei ir beviltiškai pralaimės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

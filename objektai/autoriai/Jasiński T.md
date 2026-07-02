@@ -31,23 +31,8 @@ Dusburgietis teigia, kad liz- ‘pailsėti’ — MPKP, 2, p. 31), kurios ieško
 - t-001
   global_id: t-60719
   teiginys: 'T. Jasińskis Lisske lokalizavo saloje prie Senosios Torunės.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai sieja Lisske lokalizaciją su T. Jasińskio darbu.'
-  susije_objektai: 'mentioned_place: Lisske; mentioned_place: Torunė'
-  temporaliniai_duomenys: 'įvykio data: 1233 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai sieja Lisske lokalizaciją su T. Jasińskio darbu.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 166228-166627; hash=27722730ce88c0f3361ef73339aec42212f37d3dd5c67f78f47a5c6cc3c7f892; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lisske: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jasiński T: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lisske: mention_match, place, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jasiński T" parinktas kaip owner_note_path. Targetas "Lisske" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -61,7 +46,6 @@ Dusburgietis teigia, kad liz- ‘pailsėti’ — MPKP, 2, p. 31), kurios ieško
     1, 1, Nr. 105, p. 78, 606), dabar lokalizuojama saloje prie Senosios Torunės (SZCh, p.
     133; Jasiński T. Przedmieścia..., 4 žemėl.).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

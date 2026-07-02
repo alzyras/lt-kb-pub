@@ -18,24 +18,8 @@ Petras Semaška buvo tarp didikų, kurie karaliaus paliepimu atlydėjo maskvėn�
 - t-001
   global_id: t-186247
   teiginys: 'Petras Semaška buvo tarp didikų, kurie karaliaus paliepimu atlydėjo maskvėnų legatą į Liubliną.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas nutrūkęs vardas ir OCR klaidos, paliktas citatos remiamas vaidmuo.'
-  susije_objektai: 'llm_object: Liublinas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Liublinas; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Teodoras Vodka|Teodoras Vodka]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Petras Semaška|Petras Semaška]] keliavo į Liublinas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1232341-1232796; hash=ebd38d63b480c707750f7401029f97d0383ca65d3024f979084216012f764a8b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Liublinas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Petras Semaška: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Liublinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Petras Semaška minimas tarp didikų, atlydėjusių legatą į Liubliną.
 
 ## Reikšmingi paminėjimai
 
@@ -53,11 +37,9 @@ Petras Semaška buvo tarp didikų, kurie karaliaus paliepimu atlydėjo maskvėn�
     taruoju metu maskvėnai, kaip žinia, netitulavo Augusto
     karaliumi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
 

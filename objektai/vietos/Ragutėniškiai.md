@@ -21,16 +21,6 @@ Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo s
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 525689-526179; hash=e63b8dc6291b8867e33ddf9903fbc6f44bf948176ea0a9556b15f970c62fd69a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Nočia: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ragutėniškiai: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Nočia: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Ragutėniškiai tiesiogiai lokalizuojami Nočios parapijoje.
 - susijęs iš Lydos apskritis: Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo su Ragučio žynių moterų pavadinimu.
 ## Reikšmingi paminėjimai
 - c-001
@@ -48,10 +38,8 @@ Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo s
     gutieniszfd) bajorkaimis; ši vieta, be abejo, susijusi su anksčiau
     nurodytu moterų žynių pavadinimu.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

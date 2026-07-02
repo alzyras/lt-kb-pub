@@ -47,11 +47,6 @@ Nenurodyta
 - t-001
   global_id: t-67016
   teiginys: '1409 m. gegužę žemaičiai sudegino Skirsnemunę ir puolė kitas naujas pilis bei Klaipėdą.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, pilnas ir tiesiogiai pagrįstas citata apie 1409 m. sukilimo veiksmus.'
-  susije_objektai: 'llm_object: Skirsnemunė; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Skirsnemunė'
-  temporaliniai_duomenys: 'įvykio data: 1409 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, pilnas ir tiesiogiai pagrįstas citata apie 1409 m. sukilimo veiksmus.'
   pagrindžia:
     - c-002
 
@@ -59,7 +54,6 @@ Nenurodyta
 - t-002
   global_id: t-67018
   teiginys: 'Tų pačių įvykių fone ordinas 1409.VIII.6 buvo priverstas skelbti karą Lenkijai.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-003
 
@@ -67,11 +61,6 @@ Nenurodyta
 - t-003
   global_id: t-67019
   teiginys: '1409 m. pradžioje Ordinas uždarė Žemaičių sieną su Lietuva ir uždraudė ten pardavinėti arklius, galvijus ir medų.'
-  sudarymo_pagrindimas: 'Teiginys pataisytas į sklandesnę bendrinę lietuvių kalbą, išlaikant citatos faktus.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
-  temporaliniai_duomenys: 'įvykio data: 1409 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys pataisytas į sklandesnę bendrinę lietuvių kalbą, išlaikant citatos faktus.'
   pagrindžia:
     - c-001
 
@@ -79,20 +68,8 @@ Nenurodyta
 - t-004
   global_id: t-67022
   teiginys: 'Kai sukilimas apėmė visą Žemaičių kraštą, ordino vietininkas pasitraukė į Prūsus ir sudegino Dubysos pilį.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako sukilimo mastą ir Ordino vietininko pasitraukimą, paremtą citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Dubysa; mentioned_place: Prūsų žemė; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Klaipėda; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9c7066e7969607e27c1632b6450140092cfbeaa4f281b5bae46c65710a45b3bc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičių sukilimas 1409 m: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių sukilimas 1409 m" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -104,7 +81,6 @@ Nenurodyta
     tuvon. Jis uždraudė ten pardavinėti arklius, galvijus ir medų 54 55.
     Vytautas ėmė skųstis tokiu kaimyno griežtumu^55.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -118,7 +94,6 @@ Nenurodyta
     sudegino ordino vietininkui reikalingą Skirsnemunę^59 , be to, puolė
     Žemaičiuose kitas dvi naujas pilis ir Klaipėdą^60.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -132,7 +107,6 @@ Nenurodyta
     skelbti karą Lenkijai (1409.VIII.6), nes ordinui nepasisekė Jogailos
     atskirti nuo ketvirtą kartą atsimetusio Vytauto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -148,7 +122,6 @@ Nenurodyta
     puolimus^69. Ordino vietininkas su savo įgula pasitraukė į Prūsus,
     savo sostinę — Dubysos pilį pats sudegindamas^70.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

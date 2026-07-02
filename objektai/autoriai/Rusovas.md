@@ -29,16 +29,6 @@ Narbutas rašo, kad Rusovas latvių jaunimui priskyrė deivės Dahklos garbinim�
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 225849-226258; hash=d1f2ad946c88e7718251134b6a5dde66d8c90dcd78512af45f02032a4e861b78; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Latviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rusovas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Latviai: mention_match, group, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusovas" parinktas kaip owner_note_path. Targetas "Latviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -54,9 +44,7 @@ Narbutas rašo, kad Rusovas latvių jaunimui priskyrė deivės Dahklos garbinim�
     mitą pastebi Stenderis, bet dėl savo keistos etimologizacijos
     sudvejina: vienur vadinaDekkla, kitur -  Tikla.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

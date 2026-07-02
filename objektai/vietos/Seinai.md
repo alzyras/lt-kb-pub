@@ -30,8 +30,6 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
 - t-001
   global_id: t-181449
   teiginys: 'Ratifikavus sutartį Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir palikta aiški, šaltinio paremta faktinė mintis.'
-  susije_objektai: 'mentioned_place: Punskas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Potsdamas; mentioned_place: SSRS; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/K. Ramanauskas.md#claim-t-40252|K. Ramanauskas]]: Mjr. K. Ramanausko grupė turėjo iš Beržininko žygiuoti per Gibus ir Seinus prie Augustavo esančio Kaleitų ežero link.
@@ -70,7 +68,6 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
     se įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje
     atiduota 50-čiai metų administruoti SSRS.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -43,24 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-62238
   teiginys: '1295 m. Teutonų ordino didysis magistras Konradas iš Foichtvangeno atvyko į Prūsiją ir parėmė brolius dovanomis bei pamokymais.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako asmenį, datą, veiksmą ir yra paremtas citata.'
-  susije_objektai: 'llm_object: Prūsija; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas iš Foichtvangeno|Konradas iš Foichtvangeno]]; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_place: Kimelis; llm_object: [[objektai/grupes/Teutonai|Teutonai]]'
-  temporaliniai_duomenys: 'kelionės data: 1295 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) keliavo į Prūsija“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako asmenį, datą, veiksmą ir yra paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1c9a469b8d897b2408ccf1a2322febcf9257137525cdde04f066f4d63c51bf50; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsija: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Konradas iš Foichtvangeno: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Konrado atvykimą į Prūsijos žemę.
 
 ## Reikšmingi paminėjimai
 
@@ -78,7 +62,6 @@ Nenurodyta
 
                  265 (258). Apie Kimelio pilies sunaikinimą 1296 metais
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

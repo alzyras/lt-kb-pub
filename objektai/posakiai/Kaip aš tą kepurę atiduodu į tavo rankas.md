@@ -21,9 +21,6 @@ Narbuto aprašyme lietuvių liudytojas dėdavo kepurę prieš teisėją ir ja la
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 563433-563934; hash=716e2ab4c00b2713ace5e5a700a3ea29b7cac902c1af69498dc62a6e5769141c; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -44,9 +41,7 @@ Narbuto aprašyme lietuvių liudytojas dėdavo kepurę prieš teisėją ir ja la
     ginantys pasitikėti, yra senųjų lietuvių būdo bruožas; jiems liu­
     dytojo sąžiningumas buvo ne žaislas.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

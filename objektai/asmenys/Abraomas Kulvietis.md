@@ -55,12 +55,6 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
 - t-001
   global_id: t-181560
   teiginys: '1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines pažiūras ir savo mokykloje išlavino 60 mokinių.'
-  sudarymo_pagrindimas: 'Citata aiškiai pagrindžia veiklą, bet pradinis teiginys nutrūkęs.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Alšėnai; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]] gyveno Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1539 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata aiškiai pagrindžia veiklą, bet pradinis teiginys nutrūkęs.'
   pagrindžia:
     - c-001
 
@@ -68,7 +62,6 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
 - t-002
   global_id: t-181561
   teiginys: 'Karaliaus sprendimu Abraomas Kulvietis turėjo stoti prieš dvasinį teismą, prisipažinti nusikaltęs ir paklusti kanoninei bausmei.'
-  sudarymo_pagrindimas: 'Citata pagrindžia sprendimą dėl Kulviečio, bet pradinis teiginys nutrūkęs.'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Albrechtas.md#claim-t-18766|Albrechtas]]: Kunigaikštis Albrechtas Prūsijoje priglobė 1542 m. iš Vilniaus emigravusį A. Kulvietį.
@@ -118,7 +111,6 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
     nąjį atkakliai reikalaudamas, kad šis karališkuoju autorite­
     tu paremtų gynybai besirengiančią dvasininkiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -147,7 +139,6 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
     tvirtina Ossolinskis vertingame vei­
     kale Wiadomości Hist.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

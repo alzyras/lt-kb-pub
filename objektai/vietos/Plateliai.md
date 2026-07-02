@@ -24,16 +24,6 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 296727-297042; hash=e29b25ca869451aac0ad337cdcb97dd114c9124f4a0de9742cec33868811e7db; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuva: 0.61
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Plateliai: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata mini Platelius kaip vietą Lietuvoje, nors kalba apie daugiau nei vienus Platelius.
 - susijęs iš [[objektai/asmenys/Bonaventūras Milevskis.md#claim-t-187905|Bonaventūras Milevskis]]: Jučo aprašyme Bonaventūras Milevskis 1836 m. gegužę ardamas žemę Burokų dvare iškasė figūrą.
 - susijęs iš [[objektai/asmenys/Bonaventūras Milevskis.md#claim-t-187906|Bonaventūras Milevskis]]: Jučo aprašyme Bonaventūras Milevskis vadinamas pusberniu.
 - susijęs iš [[objektai/asmenys/Bonaventūras Milevskis.md#claim-t-188519|Bonaventūras Milevskis]]: Bonaventūras Milevskis, ardamas žemę Burokų dvare netoli Kražių, 1836 m. gegužę iškasė figūrą.
@@ -53,10 +43,8 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
     vieni Plateliai, gaila, kad Lasickis, kurio aprašymai visuomet
     pernelyg trumpi, nieko daugiau nepapasakojo apie tą pilį.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -21,16 +21,6 @@ Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymu
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 141496-142072; hash=70cb8d94c65e91b3295b9b24124573a10677a99b253208fea0d6f7cfe57bf0e2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Indai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kinai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Indai: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kinai" parinktas kaip owner_note_path. Targetas "Indai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Indai.md#claim-t-189410|Indai]]: Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senuosius įstatymus, papročius ir visuomenės gyvenimo smulkmenas.
 - susijęs iš [[objektai/paprociai/Senųjų įstatymų, papročių ir visuomenės gyvenimo smulkmenų saugojimas.md#claim-t-189940|Senųjų įstatymų, papročių ir visuomenės gyvenimo smulkmenų saugojimas]]: Narbutas indus ir kinus laikė tautomis, kurių tautiškumo bruožas buvo senųjų įstatymų, papročių ir visuomenės smulkmenų saugojimas.
 ## Reikšmingi paminėjimai
@@ -50,9 +40,7 @@ Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymu
     dabar tebėra to paties apšvietos, politinių institucijų ir religi­
     jos lygio.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

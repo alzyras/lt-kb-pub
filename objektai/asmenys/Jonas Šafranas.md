@@ -21,20 +21,8 @@ Būdamas pilnas nemalonės naujiems karūnos politikos vai­ rininkams, kancleri
 - t-001
   global_id: t-35160
   teiginys: 'Kancleris Jonas Šafranas buvo vienas iš karūnos politikos vairininkų, dariusių kliūčių Vytauto siekimams.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Livonija; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas Šafranas|Jonas Šafranas]] buvo priešas [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=395cf80444345989c55c73f834b8201d89874357cc38cbf328866a243940d468; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jonas Šafranas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citatoje Jonas Šafranas įvardijamas tarp politikos veikėjų, dariusių kliūčių Vytauto siekimams.
 
 ## Reikšmingi paminėjimai
 
@@ -54,7 +42,6 @@ Būdamas pilnas nemalonės naujiems karūnos politikos vai­ rininkams, kancleri
     tas kryžiuočiams taip seniai trokštamas galimumas susijungti
     su Livonijos Ordinu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

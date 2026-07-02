@@ -36,9 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 752479-753411; hash=2e0abe050f1040a44d561ff31825d58013ae0c7e8dc77d6920e157d0d498c13e; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -62,9 +59,7 @@ Nenurodyta
     tai, jeigu tikėjimo dalykas, -  mediniu kryžiumi; jeigu žmogžu­
     dystė, -  medine strėle arba kirviu).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

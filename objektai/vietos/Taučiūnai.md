@@ -28,8 +28,6 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
 - t-001
   global_id: t-172013
   teiginys: 'Važiuojant pro Taučiūnų kaimą, žvalgus netikėtai pasitiko smarki bolševikų kuopos ugnis.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
 
@@ -37,8 +35,6 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
 - t-002
   global_id: t-172014
   teiginys: 'Iš Taučiūnų dvaro į žvalgus buvo paleista ugnis; per šį susidūrimą žuvo P. Lukšys.'
-  sudarymo_pagrindimas: 'Pašalintas kontekstinis fragmentas ir suformuluotas pilnas sakinys.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Povilas Lukšys.md#claim-t-49483|Povilas Lukšys]]: Povilas Lukšys žuvo nuo ugnies iš Taučiūnų dvaro ir buvo pirmasis Nepriklausomybės kovose žuvęs Lietuvos savanoris.
@@ -59,7 +55,6 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
     žvalgus netikėtai pasitiko smarki bolše-
     vikų kuopos ugnis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -76,7 +71,6 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
     kovose žuvęs Lietuvos savano-
     ris.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

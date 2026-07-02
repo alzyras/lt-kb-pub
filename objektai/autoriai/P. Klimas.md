@@ -44,7 +44,6 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 - t-001
   global_id: t-00063
   teiginys: 'P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/P. Šležas|P. Šležas]]; mentioned_author: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 
@@ -59,8 +58,6 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 - t-003
   global_id: t-00068
   teiginys: 'P. Klimas buvo Lietuvos Tarybos narys.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys, o P. Klimas citatoje įvardytas Lietuvos Tarybos nariu.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/memorialas|memorialas]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-003
 
@@ -68,11 +65,6 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 - t-004
   global_id: t-93049
   teiginys: '1928 m. išėjo septintasis P. Klimo „Lietuvių kalbos sintaksės“ leidimas.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie leidinį ir jo leidimo metus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  temporaliniai_duomenys: 'įvykio data: 1928 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie leidinį ir jo leidimo metus.'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/autoriai/Z. Ivinskis.md#claim-t-00084|Zenonas Ivinskis]]: Z. Ivinskis parašė veikalo dalį apie laikotarpį iki Gediminaičių dinastijos galo.
@@ -91,7 +83,6 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
     kus, o p. P. Klimas — apie nepriklausomosios valstybės atsta-
     tymą ir nepriklausomojo gyvenimo laikotarpį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -112,7 +103,6 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
     P. Klimas) po to išsirūpino leidimą sušaukti platesnei konferen-
     cijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -128,7 +118,6 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
     J. Šaulys, K. Šaulys, J. Šernas (†), J. Vailokaitis, J. Vileišis. Savo
     pirmininku Taryba išsirinko A. Smetoną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -141,7 +130,6 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
     15. P. Klimo, LIETUVIŲ KALBOS SINTAKSĖ. Septintasis leidimas.
     1928 m. Kaina Lt. 1,50.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -156,7 +144,6 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
     Darbas, nr. 1-2, 3-4, 7-8, 1921. — (”) _Mūsų kovos del Vilniaus,_ I, Vil­
     nius 1923.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

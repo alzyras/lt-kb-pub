@@ -41,20 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-87266
   teiginys: 'Dvasiškių ir pasauliečių sienų ginčus turėjo tirti po lygiai paskirti pasauliečių ir dvasiškių komisarai, remdamiesi LDK įstatymais.'
-  sudarymo_pagrindimas: 'Citata remia mišrių komisijų ir LDK teisės taikymo tvarką.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 764042-764961; hash=f17d50fd6c0fea3127a1f442193b2229cd6c0deec752f8d9f1d04384c0f8d301; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Dvasiškių ir pasauliečių sienų ginčų tyrimas mišriomis komisijomis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dvasiškių ir pasauliečių sienų ginčų tyrimas mišriomis komisijomis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -79,7 +67,6 @@ Nenurodyta
     mums patiems, kadangi turime aukščiausią abiejų luomų
     sienų tyrimo valdžią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

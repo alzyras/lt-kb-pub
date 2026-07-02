@@ -29,13 +29,8 @@ periodo_grupes:
 - t-001
   global_id: t-30919
   teiginys: 'P. Šmits 1926 m. Rygoje išleido darbą „Latviešu mitologija“.'
-  temporaliniai_duomenys: 'įvykio data: 1926 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=296b4d82581b4d2b063435b2d07d45a6a4179b5d3beab891d88de01dc13b5fdc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -47,7 +42,6 @@ periodo_grupes:
     *1926. — Šturms, Ed. : _Die Alkstätten in Litauen_ , Contributions of Baltic
     University, nr. 3, Hamburg 1946 (žr. A. Mažiulis, rec.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

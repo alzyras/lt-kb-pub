@@ -28,20 +28,8 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
 - t-001
   global_id: t-41609
   teiginys: 'Mūšio metu Ažagų-Eimuliškio miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.'
-  sudarymo_pagrindimas: 'Citata pagrindžia aiškesnį sakinį apie miško apsuptį.'
-  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Smilgiai'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 909789-910019; hash=8ef7822aa9a32cc2471bd563e944cf92839f02eb1ba348eeb5579ad40bd14b16; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaimas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ažagų-Eimuliškio miškas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ažagų-Eimuliškio miškas" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -57,14 +45,11 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
     miestelio pusės). Mūšis truko iki pavaka-
     rio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Mūšio metu Ažagų-Eimuliškio miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -77,10 +62,8 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
     buvo apsuptas nuo Ažagų kaimo ir Smilgių
     miestelio pusės).
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002

@@ -30,12 +30,6 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
 - t-001
   global_id: t-184465
   teiginys: 'Augustas Liudvigas Šleceris 1776 m. išleido veikalą apie Lietuvą kaip buvusią savarankišką valstybę.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Citata pagrindžia autorių, leidimo metus ir veikalo pobūdį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1776 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, leidimo metus ir veikalo pobūdį.'
   pagrindžia:
     - c-001
 
@@ -54,7 +48,6 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
     tykius Rytų Europoje, naudojosi šia istorija, paremta
     A. Kojelavičiaus žiniomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

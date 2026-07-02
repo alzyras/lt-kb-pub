@@ -47,41 +47,15 @@ Nenurodyta
 - t-001
   global_id: t-31462
   teiginys: '1311 m. Brandenburgo komtūras su kariais nusiaubė Pograudos apylinkes, žudė žmones, ėmė belaisvius ir naikino ugnimi bei plėšimais.'
-  susije_objektai: 'llm_object: Pograuda; mentioned_place: Pograuda; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]'
-  temporaliniai_duomenys: 'įvykio data: 1311 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 611204-611625; hash=28f3c2d9f6a37d126d817fc793e9cae7992ec6c6eadb996fe930a30639113f8d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Pograuda: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Pograuda: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai vadina veiksmą kryžiuočių puolimu prieš Pograudos apylinkes.
 
 <a id="claim-t-31463"></a>
 - t-002
   global_id: t-31463
   teiginys: '1311 m. didysis Ordino komtūras pasiekė Šalčininkus, sunaikino tris pilis ir grįžo su dideliu grobiu bei 700 belaisvių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]'
-  temporaliniai_duomenys: 'įvykio data: 1311 m.; įvykio data: 1314 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3dac1c24a3762205b3571dbb3eba36cfb9e31b10c33b6ce8414026d48daab019; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ordino žygiai į Pograudą ir Šalčininkus (1311 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ordino žygiai į Pograudą ir Šalčininkus (1311 m.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -96,7 +70,6 @@ Nenurodyta
     pasiruošusius kovoti, išžudė visus belaisvius žmones ir visa, kas
     grobyje turėjo gyvybę»^15.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,7 +88,6 @@ Nenurodyta
     skaičius buvo labai didelis »^16. 1314 m. kryžiuočiai du kartu teriojo
     Medininkus, o 1315 — net Naugarduką^17.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

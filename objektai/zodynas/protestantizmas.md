@@ -29,23 +29,15 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
 - t-001
   global_id: t-168684
   teiginys: 'Karalių Vazų laikais paaiškėjo, kad protestantizmas Lietuvoje nyks, ypač išmirus protestantiškajai Radvilų šakai.'
-  sudarymo_pagrindimas: 'Citata remia tikslesnį ir informatyvesnį sakinį.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2258c90b5612c9b41039e052e852f3b27f4fcafb0c3a566908a32f5b512968ea; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 <a id="claim-t-168689"></a>
 - t-002
   global_id: t-168689
   teiginys: 'Lietuvos protestantizmo srovės skyrėsi: tarp didikų labiausiai įsigalėjo kalvinizmas, o miestuose ir kai kur tarp vidutinės bajorijos - liuteranizmas.'
-  sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiau sietųsi su protestantizmu.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 686779-687157; hash=694570918da39c1f8ae66d80a8ca423df4490aee64eb51ceb0e8d2acf45a23ff; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/autoriai/J. Bretkūnas.md#claim-t-05719|J. Bretkūnas]]: J. Bretkūnas buvo tarp lietuvių, rašiusių protestantizmo skleidimo tekstus.
 - susijęs iš Mažoji Lietuva: Žmonių iš Mažosios Lietuvos lietuviškai skelbtas protestantizmas buvo silpnas ir trumpas judėjimas.
 - susijęs iš Šiaurės Europa: XVII–XVIII a. Šiaurės Europa dėl protestantizmo pritapo prie dinamiškosios Vakarų Europos dalies.
@@ -79,7 +71,6 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
     įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo-
     rijos tarpe — liuteranizmas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -97,7 +88,6 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
     tuvoje protestantų išliko tik mažos salelės apie buvusius Rad-
     vilų centrus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

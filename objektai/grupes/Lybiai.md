@@ -27,28 +27,13 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
 - t-001
   global_id: t-96811
   teiginys: 'Vokiečių pirkliai ir misionieriai, pradėję lankytis lybių gyvenamuose kraštuose, pirmiausia susidūrė su lybiais.'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškią nuorodą „šituose kraštuose“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių pirkliai|Vokiečių pirkliai]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latgalija; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Vidžemė'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bfa880f9cb6ce18ea9f62d2b02b74db970c66f9f0b4e058ce3c015851265d5d6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Dauguva: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lybiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad lybiai gyveno Dauguvos žemupio srityje.
 
 <a id="claim-t-96812"></a>
 - t-002
   global_id: t-96812
   teiginys: 'XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas, teiginys suformuluotas kaip sakinys apie lybius.'
-  susije_objektai: 'llm_object: Dauguva; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latvija; llm_object: Kuršas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Latgalija; mentioned_place: Lietuva; mentioned_place: Vidžemė; llm_object: Latvija'
-  semantiniai_rysiai: '[[objektai/grupes/Lybiai|Lybiai]] gyveno Dauguva; [[objektai/grupes/Lybiai|Lybiai]] gyveno Kuršas; [[objektai/grupes/Lybiai|Lybiai]] gyveno Latvija'
   pagrindžia:
     - c-002
 
@@ -56,20 +41,8 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
 - t-003
   global_id: t-96813
   teiginys: 'Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latgalija; mentioned_place: Latvija; mentioned_place: Vidžemė; llm_object: Dauguva; llm_object: Kuršas; llm_object: Latvija'
-  semantiniai_rysiai: '[[objektai/grupes/Lybiai|Lybiai]] gyveno Dauguva; [[objektai/grupes/Lybiai|Lybiai]] gyveno Kuršas; [[objektai/grupes/Lybiai|Lybiai]] gyveno Latvija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=300cd61a963f10561c89949681424e1cd4c7f6748ded154a46c3a133a4ff381b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Dauguva: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lybiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tiesiogiai nurodyta, kad lybiai gyveno abipus Dauguvos žemupio.
 - susijęs iš Padauguvis: Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05162|Daumantas (kunigaikštis, XV a.)]]: Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą.
 - susijęs iš [[objektai/daiktai/Balnas.md#claim-t-08282|Balnas]]: Balnai buvo daromi iš vieno medžio, be šikšnų ir geležies, su medžio kilpomis.
@@ -93,7 +66,6 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
     žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos
     kranto ruožą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -113,7 +85,6 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
     Lietuvių ir Lietuvos vardo kaimynų šaltiniuose ilgai neranda­
     ma.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -131,7 +102,6 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
     tuose kraštuose ėmė lankytis vokiečių pirkliai ir misijonieriai, tai
     pirmiausia jie susidūrė su lybiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

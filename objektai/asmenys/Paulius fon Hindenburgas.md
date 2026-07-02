@@ -29,24 +29,8 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
 - t-001
   global_id: t-78068
   teiginys: 'Oberostui formaliai vadovavo generolai Paulius fon Hindenburgas ir Ėrichas Liudendorfas.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Hindenburgo vaidmenį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ėrichas Liudendorfas|Ėrichas Liudendorfas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Oberostas|Oberostas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija; llm_object: [[objektai/asmenys/Ėrichas Liudendorfas|Ėrichas Liudendorfas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Paulius fon Hindenburgas|Paulius fon Hindenburgas]] buvo sąjungininkas su [[objektai/asmenys/Ėrichas Liudendorfas|Ėrichas Liudendorfas]]'
-  temporaliniai_duomenys: 'įvykio data: 1915 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Hindenburgo vaidmenį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=907a91567aa06294555901eb95758dc858156a308d82edf71b0949d3899ae3c0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Ėrichas Liudendorfas: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Paulius fon Hindenburgas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Ėrichas Liudendorfas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Abu generolai kartu vadovavo Oberostui, todėl tiesiogiai palaikomas bendro veikimo ryšys.
 - susijęs iš [[objektai/asmenys/Ėrichas Liudendorfas.md#claim-t-78076|Ėrichas Liudendorfas]]: Ėrichas Liudendorfas formaliai vadovavo Oberostui kartu su Pauliumi fon Hindenburgu.
 - susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74882|Oberostas]]: Oberostui formaliai vadovavo Paulius fon Hindenburgas ir Ėrichas Liudendorfas.
 - susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74881|Oberostas]]: 1915 m. frontui stabilizavusis, vokiečiai sudarė karinę administraciją ir pavadino ją Oberostu.
@@ -67,7 +51,6 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
     Liudendorfas (Erich Ludendorff) ir naudojo visus krašto išteklius Vokie-
     tijos kariuomenės reikalams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

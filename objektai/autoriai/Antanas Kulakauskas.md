@@ -35,9 +35,6 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
 - t-001
   global_id: t-26605
   teiginys: 'Redaktoriaus žodyje Antanas Kulakauskas pristatomas kaip Vytauto Didžiojo universiteto profesorius, parašęs III skyrių apie lietuvių gyvenimą Rusijos imperijoje 1795-1915 m.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_author: [[objektai/autoriai/Alfonsas Eidintas|Alfonsas Eidintas]]; mentioned_author: [[objektai/autoriai/Alfredas Bumblauskas|Alfredas Bumblauskas]]; mentioned_author: [[objektai/autoriai/Mindaugas Tamošaitis|Mindaugas Tamošaitis]]; mentioned_place: Europa; mentioned_place: Viena; mentioned_place: Vilnius; llm_object: Rusija'
-  temporaliniai_duomenys: 'įvykio data: iki 2004 m.; įvykio data: 1009 m.; įvykio data: 1795-1915; įvykio data: 1915 m.; įvykio data: 1918-1940; įvykio data: po 1940 m.; įvykio data: 1940 m.; įvykio data: 2004 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-002
 
@@ -45,29 +42,13 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
 - t-002
   global_id: t-26709
   teiginys: 'Bibliografijoje Kulakauskas A. kartu su Aleksandravičiumi E. siejamas su veikalu „Carų valdžioje. Lietuva XIX amžiuje“.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=85be16995f461bcb3e7668c5e756a4d60c99c153747d6c475c2c0062c5254e9d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Rusija: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Formuluotė tiesiogiai mini lietuvių gyvenimą Rusijos imperijoje.
 
 <a id="claim-t-169887"></a>
 - t-003
   global_id: t-169887
   teiginys: 'Antanui Kulakauskui priskirtos 2013 m. antrojo leidimo autorių teisės.'
-  sudarymo_pagrindimas: 'Pradinis tekstas buvo OCR ir metaduomenų nuotrupa; citata pagrindžia tik autorių teisių įrašą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Alvydas Jokubaitis|Alvydas Jokubaitis]]; mentioned_author: [[objektai/autoriai/Inga Vinogradnaitė|Inga Vinogradnaitė]]; mentioned_author: [[objektai/autoriai/Raimundas Lopata|Raimundas Lopata]]; mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija|Mindaugo karūnacija]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Vytautas Radžvilas|Vytautas Radžvilas]]; mentioned_place: Europa; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 2013 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis tekstas buvo OCR ir metaduomenų nuotrupa; citata pagrindžia tik autorių teisių įrašą.'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/autoriai/Mindaugas Tamošaitis.md#claim-t-26608|Mindaugas Tamošaitis]]: Mindaugas Tamošaitis apibendrino įvykius nuo 1940 m. okupacijų iki Lietuvos narystės Europos Sąjungoje 2004 m.
@@ -81,7 +62,6 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
     Aleksandravičius E., Kulakauskas A. Carų valdžioje. Lietuva XIX am-
     žiuje. Vilnius, 1996.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -120,7 +100,6 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
     1940 m. okupacijų iki 2004 m. apibendrino Lietuvos edukologijos univer-
     siteto lektorius dr. Mindaugas Tamošaitis (V ir VI skyriai).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -160,7 +139,6 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
     Gediminaičių dinastijos iškilimas 31
     PAGONIŲ VALSTYBĖ.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

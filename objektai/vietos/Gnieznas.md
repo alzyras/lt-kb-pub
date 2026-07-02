@@ -23,46 +23,20 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
 - t-001
   global_id: t-85782
   teiginys: 'Gnieznas, sprendžiant iš imperatoriaus Otono III priėmimo šiame mieste, jau anuomet buvo tankiai gyvenama ir turtinga gyvenvietė.'
-  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išvalytas nuo OCR triukšmo.'
-  susije_objektai: 'mentioned_place: Krušvica; mentioned_place: Lenkija; mentioned_place: Poznanė; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1a05887fba4568448887798da62a1f4f07480283a32d4ed85211aa92cad317c3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Martinas Galias: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gnieznas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Martinas Galias: mention_match, author, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gnieznas" parinktas kaip owner_note_path. Targetas "Martinas Galias" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-85783"></a>
 - t-002
   global_id: t-85783
   teiginys: 'Testamento vykdytoju Karalystėje buvo pasirinktas Gniezno arkivyskupas kartu su Krokuvos ir Kujavų vyskupais.'
-  sudarymo_pagrindimas: 'Pradinis tekstas nutrūkęs; citata palaiko aiškų faktą apie Gniezno arkivyskupą.'
-  susije_objektai: 'mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Liublinas; mentioned_place: Sandomiras'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 37983-38522; hash=657a00e275424a873782aefee684207e4698b6753ccd54d74c07c8a685080fcd; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krušvica: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gnieznas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Krušvica: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gnieznas" parinktas kaip owner_note_path. Targetas "Krušvica" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-85784"></a>
 - t-003
   global_id: t-85784
   teiginys: 'Martinas Galias pasakojo, kad Gnieznas duodavo 1 500 šarvuotųjų ir 5 000 pėstininkų.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Gniezną ir remiasi citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martinas Galias|Martinas Galias]]; mentioned_place: Poznanė'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/autoriai/Martinas Galias.md#claim-t-88032|Martinas Galias]]: Martinas Galias rašė, kad Poznanė duodavo 1 300 šarvuotųjų ir 4 000 skydais ginkluotų karių.
@@ -92,7 +66,6 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
     Krušvica kitados turtais ir kariais
     turtinga], Lib.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -119,7 +92,6 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
     nanės vaivadą, poną Sandomiro vaivadą, poną Liublino
     vaivadą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -138,7 +110,6 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
     jų, 2 000 su skydais, Gdečas - 300
     pirmųjų ir 2 000 antrųjų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

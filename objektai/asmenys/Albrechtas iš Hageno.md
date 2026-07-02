@@ -30,63 +30,22 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
 - t-001
   global_id: t-60004
   teiginys: 'Albrechtas iš Hageno su broliu Konradu ir ginklanešiais gynė Skalvių pilį nuo lietuvių karaliaus karių.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Albrechto vaidmenį, bet pradiniame teiginyje yra neaiškių įvardžių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/ginklanešys|ginklanešys]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Viena; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; llm_object: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; llm_object: [[objektai/grupes/Skalviai|Skalviai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/asmenys/Konradas|Konradas]] buvo sąjungininkas su [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]] gynė [[objektai/grupes/Skalviai|Skalviai]]'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7399529ef4181162f50fa6dad9e68adc614d71696ccd8b918dbcaa0d57d3e6db; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Albrechtas iš Hageno: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Albrechtas gynė pilį nuo lietuvių karaliaus karių, todėl priešprieša su lietuviais pagrįsta.
 
 <a id="claim-t-60005"></a>
 - t-002
   global_id: t-60005
   teiginys: '1317 m. žygyje Albrechtas iš Hageno šuoliais leidosi į jam skirtą vietą, kai vienas ginklanešys nukrito nuo žirgo.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Albrechtą iš Hageno ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešys|ginklanešys]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_place: Viena; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Ragainė'
-  temporaliniai_duomenys: 'įvykio data: 1317 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Albrechtą iš Hageno ir atitinka citatą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=97d165c4f6ca6f0fd1bb18a3c9914d8ab0210b40fa6c0d9b4e9d0052f78e17f0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Sudargas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Albrechtas iš Hageno: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Sudargas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Albrechtas iš Hageno tiesiogiai nurodytas kaip Sudargo kiemo užpuolikas.
 
 <a id="claim-t-60006"></a>
 - t-003
   global_id: t-60006
   teiginys: 'Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą, sudegino jį su aplinkiniais kaimais ir paėmė belaisvių.'
-  sudarymo_pagrindimas: 'Citata pagrindžia konkretų veiksmą, o pradinį tekstą reikia sutrumpinti.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Sudargas|Sudargas]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pilėnai; mentioned_place: Ragainė'
-  semantiniai_rysiai: '[[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]] puolė [[objektai/asmenys/Sudargas|Sudargas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=957de204ee4974bfd32ddc2778aed2e03d1a49dd7618073c5947ad5d0adb86f0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Albrechtas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Albrechtas iš Hageno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Albrechtas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albrechtas iš Hageno" parinktas kaip owner_note_path. Targetas "Albrechtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59955|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Fridrichas iš Libencelės, Ragainės komtūras, su 150 vyrų mėgino slapta paimti Gedimino pilį, tačiau pilėnai ją apgynė.
 - susijęs iš [[objektai/asmenys/Konradas (Skalvių pilies gynėjas).md#claim-t-60478|Konradas (Skalvių pilies gynėjas)]]: Brolis Konradas su Albrechtu iš Hageno ir ginklanešiais apgynė Skalvių pilį nuo lietuvių karaliaus karių.
 - susijęs iš [[objektai/zodynas/ginklanešiai.md#claim-t-175170|ginklanešiai]]: 1293 m. vienas ginklanešys iš Ragainės, gimęs Bartos žemėje, pabėgo ir lietuvių karaliui pasisiūlė perduoti Skalvių pilį.
@@ -120,7 +79,6 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
     nelaisvę, o daugybę vyrų nukovė. Ketvirta kariuomenės dalis žygiavo su brolių vėliava,
     bet taip pat nieko nepešė, nes jos vedliai pasiklydo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -140,7 +98,6 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
     pavedė save dievo bei švenčiausiosios mergelės globai  ir tuo pat keliu, kuriuo buvo
     atvykęs, patraukė  į Ragainę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -159,7 +116,6 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
     užvirė ilgos grumtynės, neteikusios nė vienai šaliai persvaros; vis dėlto galop jiems
     pavyko vargais negalais apginti pilį nuo netikėlių, nors abi šalys patyrė sunkių nuostolių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

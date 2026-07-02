@@ -42,23 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-20430
   teiginys: '1971 m. viename Vilniaus restoranų įvyko nelegalus roko festivalis, vadintas Baltijos šalių ar net 300 SSRS hipių suvažiavimu.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citatos informacija.'
-  susije_objektai: 'mentioned_place: Baltija; mentioned_place: SSRS; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1971 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citatos informacija.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5266e0b6b48ab1a27576d2edc81e68b1f196f274e87a98ade732569ebd42a9cc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nelegalus roko festivalis Vilniuje (1971 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nelegalus roko festivalis Vilniuje (1971 m.)" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -73,7 +58,6 @@ Nenurodyta
     restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar
     net 300 SSRS hipių suvažiavimu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

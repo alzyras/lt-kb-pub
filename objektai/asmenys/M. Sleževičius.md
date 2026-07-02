@@ -30,7 +30,6 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
 - t-001
   global_id: t-79103
   teiginys: 'M. Sleževičius buvo Lietuvių draugijos nukentėjusiems dėl karo šelpti Centro komiteto narys.'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra ilgas sąrašas ir klaidingai pradėtas vardu; perrašyta į faktą apie M. Sleževičių.'
   pagrindžia:
     - c-002
 
@@ -38,11 +37,6 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
 - t-002
   global_id: t-79104
   teiginys: '1919 m. rugpjūčio 30 d. ministras pirmininkas M. Sleževičius pasveikino vyr. kariuomenės vadą gen. S. Žukauską.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie M. Sleževičių ir remiasi cituotu fragmentu.'
-  susije_objektai: 'mentioned_place: Daugpilis; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Zarasai'
-  temporaliniai_duomenys: 'įvykio data: 1919 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie M. Sleževičių ir remiasi cituotu fragmentu.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/L. Želigovskis.md#claim-t-19100|L. Želigovskis]]: L. Želigovskis 1920 m. spalio 9 d. su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
@@ -78,7 +72,6 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
     daliniai, persekiodami priešus, rugpjū-
     čio 29 d. pasiekė Dauguvos krantus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -97,7 +90,6 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
     neaprimus, Komitete kilo ginčų, ir trys paskutinieji (kairiųjų pažiū-
     rų) nariai iš jo išstojo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

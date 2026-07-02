@@ -39,16 +39,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 821988-822597; hash=2aac537940f1015f3e67a9a7cc8e68afa7f0f902315df5906c5990e4e5f11335; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Lietuva: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vladislovas Jogaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Vladislovas Jogaila pasiuntė Jeronimą į Lietuvą.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -69,9 +59,7 @@ Nenurodyta
     kiekvienas savo būsto kampe ant šieno laikęs savo šeimininką
     -žaltį, kurį maitindavęs ir kuriam aukodavęs aukas.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

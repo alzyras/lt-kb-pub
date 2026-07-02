@@ -29,8 +29,6 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
 - t-001
   global_id: t-70098
   teiginys: 'Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją ir sekė Konstancijos susirinkimo eigą.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata apie Vytauto veiklas.'
-  susije_objektai: 'mentioned_place: Konstancija; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -38,8 +36,6 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
 - t-002
   global_id: t-70099
   teiginys: 'Vytautas siekė sudaryti nepriklausomą Lietuvos bažnytinę provinciją.'
-  sudarymo_pagrindimas: 'Teiginys yra taisyklingas ir pagrįstas citatoje nurodytu Vytauto siekiu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -47,8 +43,6 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
 - t-003
   global_id: t-70100
   teiginys: 'Vytautas norėjo iš pirmųjų trijų vyskupijų sudaryti nepriklausomą Lietuvos bažnytinę provinciją.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Vytauto ketinimą ir jo objektą, paremtą citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -56,8 +50,6 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
 - t-004
   global_id: t-70101
   teiginys: 'Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatos informaciją apie Vytauto rūpestį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -65,23 +57,8 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
 - t-005
   global_id: t-182937
   teiginys: 'Užmezgusi oficialius santykius su Vatikanu, Lietuvos vyriausybė siekė sudaryti atskirą Lietuvos bažnytinę provinciją su Vilniaus kraštu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis sakinys prasideda kontekstiniu „Todėl“, o citata leidžia aiškiai įvardyti veikėją ir tikslą.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vatikanas'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1169776-1170217; hash=e2cfe353dd9a36dfa8ce132e9db47d9cac9ded6b11bb628da76c6da226d04d9c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: bažnytinė provincija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "bažnytinė provincija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/posakiai/Gens Lithuanorum.md#claim-t-35971|Gens Lithuanorum]]: Lietuvos bažnytinė provincija buvo įkurta 1926 m. balandžio 4 d. popiežiaus Pijaus XI bule „Gens Lithuanorum“.
 ## Reikšmingi paminėjimai
 
@@ -98,7 +75,6 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     ir kas butų turėjęs didelės reikšmės, valstybei ir tautiniam gy­
     venimui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,7 +91,6 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     sirinkimo eigą ir dažnai susirašinėjo su popiež. Martynu V, rė­
     mė pirklių ir amatininkų reikalus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -136,7 +111,6 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     venimui. Bet kaip Lietuvos valstybei, taip ir jos bažnyčiai jam
     nepavyko iškovoti visiškos laisvės, tikro savarankiškumo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -155,7 +129,6 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     konkordatą su Lenkija, visai neatsižvelgdamas į Lietuvos teises
     nepabaigtame ginče su Lenkija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

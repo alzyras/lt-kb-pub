@@ -29,42 +29,15 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
 - t-001
   global_id: t-61008
   teiginys: 'P. K. Tacito „Rinktinių raštų“ 29 puslapyje minimi germanai lemoviai.'
-  sudarymo_pagrindimas: 'Citata patvirtina konkretų faktą apie Tacito leidinyje minimus lemovius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_place: Lamata; mentioned_place: Lietuva; mentioned_place: Mazovija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 591453-591998; hash=fdcda88f3fd6abe7ef97e6099671ed4367753d11ab69054fa47c8f38c1a7253e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Germanai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tacitas P. K. Rinktiniai raštai: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Germanai: mention_match, group, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tacitas P. K. Rinktiniai raštai" parinktas kaip owner_note_path. Targetas "Germanai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-61009"></a>
 - t-002
   global_id: t-61009
   teiginys: 'P. K. Tacito „Rinktiniai raštai“ išleisti Vilniuje 1972 m.'
-  sudarymo_pagrindimas: 'Citata pateikia bibliografinį leidimo faktą.'
-  susije_objektai: 'mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1972 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį leidimo faktą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 799075-799117; hash=a55f49dfc9d351c548233de8169a58cb34e1a971f1c7c344627a218136523c18; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tacitas P. K. Rinktiniai raštai: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tacitas P. K. Rinktiniai raštai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -82,7 +55,6 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
     Lamata — GAO, p. 81; Топоров B. H., К фракийско-балтийским..., 60—61; Lietuvos
     TSR administracinio-teritorinio suskirstymo žinynas, 2, p. 152).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -94,7 +66,6 @@ Dusburgietis teigia, kad apie penktąją atskalūnybę ir apie bausmę už ją T
   citata_originali: |
     Tacitas P. K. Rinktiniai raštai.—V., 1972.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

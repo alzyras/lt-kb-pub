@@ -21,9 +21,6 @@ Narbutas aiškina, kad tikėjimo ženklu pažymėti atvaizdai ir simboliai susil
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 147573-148083; hash=d108777b1de1a4187f9c9026a6bdbabcf63590c88a64f5920668d432ce809515; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -40,9 +37,7 @@ Narbutas aiškina, kad tikėjimo ženklu pažymėti atvaizdai ir simboliai susil
     žmonių pareigų jo atžvilgiu pažinimui, virto esybėmis, garbi­
     namomis su smilkytuvu rankose“1.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

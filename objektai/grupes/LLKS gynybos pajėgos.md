@@ -26,22 +26,8 @@ amziai:
 - t-001
   global_id: t-40978
   teiginys: '1949 m. minimas LLKS gynybos pajėgų vadas, susijęs su vieningos pasipriešinimo judėjimo vadovybės kūrimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_place: Dainava; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]'
-  semantiniai_rysiai: '[[objektai/grupes/LLKS gynybos pajėgos|LLKS gynybos pajėgos]] priklausė [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]'
-  temporaliniai_duomenys: 'įvykio data: 1949 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d3e2f1afd5d7afc2f3db8512dde62f3a6f1d6cd5b592ff2d050ee37903f1bf22; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuvos laisvės kovos sąjūdis: 0.58
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: LLKS gynybos pajėgos: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuvos laisvės kovos sąjūdis: llm_allowed_candidate, group
-  ryšio_paaiskinimas: LLKS gynybos pajėgos tekste siejamos su Lietuvos laisvės kovos sąjūdžiu, tačiau priklausomybė išvedama iš pavadinimo ir pareigų konteksto.
 
 ## Reikšmingi paminėjimai
 
@@ -57,7 +43,6 @@ amziai:
     pirmininko J. Žemaičio-Vytauto pavaduotoju, kiek
     vėliau ir LLKS gynybos pajėgų vadu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

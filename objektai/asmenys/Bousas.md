@@ -33,9 +33,6 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 672692-673142; hash=1fd5d35af68a64b86a83406c6645be1c936a7f4614098fe5b9ba72cf32bf77ba; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Boguslavas Bousevičius.md#claim-t-190136|Boguslavas Bousevičius]]: Apie 1520 m. Boguslavas Bousevičius, Rodūnios vėliavininkas, buvo Bousevičių giminei priklausiusios žemės tėvonis.
 - susijęs iš Bouso kapinės: Pasak Narbuto, Bouslaviškių kaimiečiai kvadratinį kapą lietuviškai vadino vado Bouso kapinėmis (Kapinies Wade Boussa).
 ## Reikšmingi paminėjimai
@@ -52,10 +49,8 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
     sė Bousevičių giminei; tuo laiku Boguslavas Bousevičius, Ro­
     dūnios vėliavininkas, buvo tos žemės tėvonis.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

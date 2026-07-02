@@ -27,128 +27,43 @@ Olbrachtas pasitraukė nuo Sučiavos miesto. Sučiava čia lieka nepaimta po nes
 - t-001
   global_id: t-187339
   teiginys: 'Karalius Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato miesto nepaimsiąs ir nuo jo pasitraukė.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys aiškiai apibendrina Olbrachto veiksmus prie Sučiavos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4b6a2e2cea0b30ab3195ea930d709dae2a2742aebe8cf5a691161a66a6a8e4a1; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Moldavija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sučiava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Moldavija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sučiava" parinktas kaip owner_note_path. Targetas "Moldavija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-187340"></a>
 - t-002
   global_id: t-187340
   teiginys: '1485 m. rugsėjo 19–20 d. Ali-pašos vadovaujama Turkijos kariuomenė puolė Moldavijos sostinę Sučiavą.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Citata palaiko tikslesnį sakinį su kariuomenės vadu ir vietos statusu.'
-  susije_objektai: 'llm_object: Sučiava; mentioned_group: [[objektai/grupes/Turkijos kariuomenė|Turkijos kariuomenė]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Moldavija; mentioned_place: Turkija'
-  semantiniai_rysiai: '[[objektai/grupes/Turkijos kariuomenė|Turkijos kariuomenė]] puolė Sučiava'
-  temporaliniai_duomenys: 'įvykio data: 1485 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį sakinį su kariuomenės vadu ir vietos statusu.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4b6a2e2cea0b30ab3195ea930d709dae2a2742aebe8cf5a691161a66a6a8e4a1; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Moldavija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sučiava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Moldavija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sučiava" parinktas kaip owner_note_path. Targetas "Moldavija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-187341"></a>
 - t-003
   global_id: t-187341
   teiginys: 'Moldavijos vaivada Steponas sustiprino savo sostinę Sučiavos pilį ir kitus miestus, palikdamas juose įgulas.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Citata leidžia aiškiau nurodyti veikėją, objektą ir rezultatą.'
-  susije_objektai: 'llm_object: Moldavija; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija; mentioned_place: Trakai'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=01c98413802b1cc0aed2aa46aadcd5aac8de3d6cb2311dae77d706fb485a0a19; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: buvo_valdovas -> Moldavija: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Steponas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Moldavija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Steponas tiesiogiai įvardytas Moldavijos vaivada.
 
 <a id="claim-t-187342"></a>
 - t-004
   global_id: t-187342
   teiginys: 'Sučiavos pilis šiame pasakojime įvardijama kaip Moldavijos vaivados Stepono sostinė.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Kadangi kalbama apie šaltinio įvardijimą, reikia atribucijos formos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija; mentioned_place: Trakai'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=01c98413802b1cc0aed2aa46aadcd5aac8de3d6cb2311dae77d706fb485a0a19; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Moldavija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sučiava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Moldavija: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sučiava" parinktas kaip owner_note_path. Targetas "Moldavija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187343"></a>
 - t-005
   global_id: t-187343
   teiginys: '1485 m. rugsėjo 19–20 d. puolimo pastaboje Sučiava įvardijama kaip Moldavijos sostinė.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginį reikia susieti su konkrečiu citatos kontekstu.'
-  susije_objektai: 'mentioned_place: Moldavija; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Turkija'
-  temporaliniai_duomenys: 'įvykio data: 1485 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginį reikia susieti su konkrečiu citatos kontekstu.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c6e2bcfce6e6f8f7fd9c18f7c196e933fc7fc63f9eaf2b10603a4f9acec73439; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: susije_su -> Moldavija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sučiava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Moldavija: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sučiava" parinktas kaip owner_note_path. Targetas "Moldavija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187344"></a>
 - t-006
   global_id: t-187344
   teiginys: 'Olbrachtas pasitraukė nuo Sučiavos miesto.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie veiksmą prie Sučiavos. Jis sąmoningai neperima citatoje esančio motyvo apie troškimą kautis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c6e2bcfce6e6f8f7fd9c18f7c196e933fc7fc63f9eaf2b10603a4f9acec73439; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: puole -> Sučiava: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Turkijos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Sučiava: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Turkijos kariuomenės puolimą prieš Sučiavą.
 - susijęs iš [[objektai/ivykiai/Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas.md#claim-t-186767|Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas]]: Redakcinė pastaba nurodo, kad 1485 m. rugsėjo 19–20 d. buvo puolama Moldavijos sostinė Sučiava.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186652|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Olbrachtas pasitraukė nuo Sučiavos ir žygiavo gilyn į Moldaviją.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186654|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato, kad miesto nepaims.
@@ -178,7 +93,6 @@ Olbrachtas pasitraukė nuo Sučiavos miesto. Sučiava čia lieka nepaimta po nes
     į siaurus ir nepereinamus tarpeklius, kur buvo jo mėgs-
     /52
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -198,7 +112,6 @@ Olbrachtas pasitraukė nuo Sučiavos miesto. Sučiava čia lieka nepaimta po nes
     1485 m. rugsėjo 1 9 -2 0  d. puolė pačių Moldavijos sostine — Su-
     čiavų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -225,7 +138,6 @@ Olbrachtas pasitraukė nuo Sučiavos miesto. Sučiava čia lieka nepaimta po nes
     tėvui, karaliui Kazimierui, ir surašė raštus, prisiekė
     griežtai to prisilaikysiąs3 2 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

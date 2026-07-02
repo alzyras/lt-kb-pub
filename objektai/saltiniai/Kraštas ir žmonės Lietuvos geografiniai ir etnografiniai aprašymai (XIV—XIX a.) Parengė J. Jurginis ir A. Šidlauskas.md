@@ -30,23 +30,8 @@ Dusburgietis teigia, kad kraštas ir žmonės: Lietuvos geografiniai ir etnograf
 - t-001
   global_id: t-61106
   teiginys: 'Leidinį „Kraštas ir žmonės“ parengė J. Jurginis ir A. Šidlauskas, jis išleistas Vilniuje 1983 m.'
-  sudarymo_pagrindimas: 'Citata pateikia leidinio rengėjus ir leidimo duomenis.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_place: Vilnius; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1983 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pateikia leidinio rengėjus ir leidimo duomenis.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 779822-779952; hash=ea976a8cead1c96feb84bd488fe98574213b36bad6b78fd82d1f5774da428329; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Juozas Jurginis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kraštas ir žmonės Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) Parengė J. Jurginis ir A. Šidlauskas: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Juozas Jurginis: mention_match, author, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kraštas ir žmonės Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) Parengė J. Jurginis ir A. Šidlauskas" parinktas kaip owner_note_path. Targetas "Juozas Jurginis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -57,7 +42,6 @@ Dusburgietis teigia, kad kraštas ir žmonės: Lietuvos geografiniai ir etnograf
     Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.) /
     Parengė J. Jurginis ir A. Šidlauskas.—V., 1983.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

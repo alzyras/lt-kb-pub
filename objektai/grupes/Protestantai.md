@@ -22,26 +22,15 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 - t-001
   global_id: t-01459
   teiginys: 'Protestantų mokyklos katalikams buvo laikomos pavojingiausiomis.'
-  sudarymo_pagrindimas: 'Perrašyta glaustesniu enciklopediniu sakiniu apie protestantus.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b8a7978759ebed469b1260e947d22c7ccacd31a2ebad5996fdab0fed6fbc6ab4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 <a id="claim-t-182919"></a>
 - t-002
   global_id: t-182919
   teiginys: 'Protestantų mokyklas steigė protestantų didikai, o kai kur ir miestiečiai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas vertinamasis kontekstas apie katalikus ir paliktas aiškus faktas apie protestantus.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 695213-695421; hash=6a52b7d41b5d6ae6b47894e70088a0663c1b82aa81248ee88b3b812f16c3d62b; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114004|Valerijonas Protasevičius (vyskupas)]]: Vilniaus vyskupas Valerijonas Protasevičius siekė sutrukdyti protestantų ketinimui įkurti kolegiją.
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114010|Valerijonas Protasevičius (vyskupas)]]: Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui Vilniuje įkurti kolegiją.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116730|Katalikų Bažnyčia]]: Lietuvos katalikai ir Vilniaus vyskupas Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui įkurti kolegiją.
@@ -94,7 +83,6 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
     ir miestiečių. Bet jau XVII amžiuje jos ėmė nykti, didesnio
     vaidmens nesuvaidinusios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -112,7 +100,6 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
     mokyklos. Jos buvo steigiamos protestantų didikų, o kai kur
     ir miestiečių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

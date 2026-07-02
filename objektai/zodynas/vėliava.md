@@ -27,7 +27,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 - t-001
   global_id: t-78912
   teiginys: 'Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trauktis arba kautis prie kitos vėliavos.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]'
   pagrindžia:
     - c-004
 
@@ -35,7 +34,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 - t-002
   global_id: t-78913
   teiginys: 'Viduramžių kariuomenėje 25-80 lancų sudarydavo būrį, vadinamą vėliava.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas, teiginys sutrumpintas iki citatos remiamo apibrėžimo.'
   pagrindžia:
     - c-001
 
@@ -43,41 +41,22 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 - t-003
   global_id: t-78914
   teiginys: 'Dragūnų vėliavą sudarė 100-150 žmonių.'
-  sudarymo_pagrindimas: 'Sakinys gramatiškas ir pateikia konkretų dragūnų vėliavos dydį.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 211970-212241; hash=096425ea8237e17b9ec1b4cb886afae84dd4e7972c09de446d00085410c705f2; match=ocr_normalized
-  sprendimo_priezastis: auto
 
 <a id="claim-t-78915"></a>
 - t-004
   global_id: t-78915
   teiginys: 'Vėliavai vadovaudavo kapitonas.'
-  sudarymo_pagrindimas: 'Sakinys pilnas, turi aiškų subjektą ir predikatą apie vėliavos vadovavimą.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=806b662bb1b21e4447eace06184e67db5dc83d5d3eb650f0b086cc3f4b738ef4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vėliavos: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: vėliava: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vėliavos: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "vėliava" parinktas kaip owner_note_path. Targetas "Vėliavos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-78916"></a>
 - t-005
   global_id: t-78916
   teiginys: 'Kiekvienas riteris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie vėliavą ir paremtas citata.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 213230-213553; hash=704e3f71fd88939319cba108986611b3e9354629242848f31b3f42cc4fe3731e; match=ocr_normalized
-  sprendimo_priezastis: auto
 
 <a id="claim-t-78917"></a>
 - t-006
@@ -90,12 +69,8 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 - t-007
   global_id: t-78918
   teiginys: 'Riteris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir citata jį pagrindžia.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=04d63df55bcf6506fbaa23d47a7a0e74ef82ff32ed6c8fea97b1f96b2068632d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190009|Henenbergeris]]: Narbutas pažymi, kad Henenbergerio veikale buvo užrašas senovės lietuvių kalba, siejamas su kunigaikščio Utenio vėliava.
 - susijęs iš [[objektai/asmenys/T. Dambrava.md#claim-t-40452|T. Dambrava]]: T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102851|Dusburgas]]: Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį.
@@ -181,7 +156,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
     liavoje būdavo apie 300-400 raitųjų. Tie būriai savo ženklu,
     apie kurį spiesdavosi, turėjo vėliavą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -200,7 +174,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
     Dabar pažiūrėkime, kaip atrodo abiejų pusių kariuomenės,
     besiruošiančios į Žalgirio mūšį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -216,7 +189,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
     Prie svetimšalių autoramento priskirtini ir raitarai, LDK kariuo-
     menėje buvę dar xvi a.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -233,7 +205,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
     būdavo pasielgti savo nuožiūra — ar trauktis, ar kautis prisi­
     dėjus prie kitos vėliavos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

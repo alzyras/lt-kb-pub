@@ -20,87 +20,29 @@ Liubartas sėdo valdyti Karačevą. Karačevas šiame gabale siejamas su atskiru
 - t-001
   global_id: t-187230
   teiginys: 'Lietuvos metraštis pasakoja, kad po Skirmanto mirties Liubartas sėdo valdyti Karačevą ir ėmė tituluotis Karačevo kunigaikščiu.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Išskleistas kontekstas po Skirmanto mirties ir palikta atribucija dėl valdovo titulo vartojimo. Nepridėta jokių datų ar paveldėjimo aplinkybių, kurių citata nepateikia.'
-  susije_objektai: 'llm_object: Karačevas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Liubartas|Liubartas]] valdė miestą Karačevas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a9ff60aad04631a645d91059da50a8a2ebc31faa3cee314d229206d899debbdc; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: valde_miesta -> Karačevas: 0.97
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Liubartas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Karačevas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Liubartas sėdo valdyti Karačevą.
 
 <a id="claim-t-187231"></a>
 - t-002
   global_id: t-187231
   teiginys: 'Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Kronikos karinis pasakojimas suformuluotas su atribucija, nes perteikia pergalės naratyvą. Sąmoningai nevardyti visi kiti miestai, kad teiginys liktų apie Karačevą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Liubartas|Liubartas]]; llm_object: [[objektai/asmenys/Pisimantas|Pisimantas]]; llm_object: Karačevas; llm_object: Mozyrius; llm_object: Starodubas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Kaidanovas; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Starodubas; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirmantas|Skirmantas]] užėmė Karačevas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a9ff60aad04631a645d91059da50a8a2ebc31faa3cee314d229206d899debbdc; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: valde_miesta -> Karačevas: 0.97
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Liubartas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Karačevas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sieja Liubartą su Karačevo valdymu.
 
 <a id="claim-t-187232"></a>
 - t-003
   global_id: t-187232
   teiginys: 'Lietuvos metraštis Liubartą sieja su Karačevo valdymu ir Karačevo kunigaikščio titulu.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Titulinė formuluotė reikalauja šaltinio atribucijos.'
-  susije_objektai: 'llm_object: Karačevas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Liubartas|Liubartas]] valdė miestą Karačevas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b8f6406daa213cbdd02a9baa61bdb21a8a64cccb041a628f3840f3f4b3d994aa; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: buvo_sunus -> Liubartas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skirmantas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Liubartas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Liubartas buvo vienas iš Skirmanto sūnų.
 
 <a id="claim-t-187580"></a>
 - t-004
   global_id: t-187580
   teiginys: 'Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą įvykių seką.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Liubartas|Liubartas]]; llm_object: [[objektai/asmenys/Pisimantas|Pisimantas]]; llm_object: Karačevas; llm_object: Mozyrius; llm_object: Starodubas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Kaidanovas; mentioned_place: Mozyrius; mentioned_place: Starodubas; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirmantas|Skirmantas]] užėmė Karačevas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b8f6406daa213cbdd02a9baa61bdb21a8a64cccb041a628f3840f3f4b3d994aa; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Liubartas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skirmantas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Liubartas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Liubartas buvo vienas iš Skirmanto sūnų.
 - susijęs iš Turovas: Po Skirmanto mirties Pisimantas sėdo valdyti Turovą.
 - susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186016|Skirmantas]]: Skirmantas iš priešo rankų atėmė Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę.
 - susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad po Skirmanto mirties Treniota sėdo valdyti Naugarduką ir valdė šį miestą daugelį metų.
@@ -135,7 +77,6 @@ Liubartas sėdo valdyti Karačevą. Karačevas šiame gabale siejamas su atskiru
     Turėjo didysis kunigaikštis Skirmantas tris sūnus:
     vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -151,7 +92,6 @@ Liubartas sėdo valdyti Karačevą. Karačevas šiame gabale siejamas su atskiru
     rovą l9 , o Treniota — Naugarduką, ir valdė tuos mies­
     tus daugelį metų !0 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

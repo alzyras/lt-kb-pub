@@ -54,8 +54,6 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 - t-001
   global_id: t-10801
   teiginys: 'Per misiją į aisčių kraštą Brunonas žuvo jotvingų krašte.'
-  sudarymo_pagrindimas: 'Perrašyta aiškiau susiejant teiginį su įvykio objektu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]'
   pagrindžia:
     - c-001
 
@@ -63,21 +61,8 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 - t-002
   global_id: t-71739
   teiginys: '1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Rusija; llm_object: Lietuva; llm_object: Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1009 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2480253360a37b494d9798de90f5923254bcd7d5415693d4c10755ee8a7969c3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Lietuva: 0.66
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Brunonas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje nurodoma Brunono nužudymo vieta prie Lietuvos ir Rusijos sienos; kaip vietos objektas parenkama Lietuva.
 
 ## Reikšmingi paminėjimai
 
@@ -90,7 +75,6 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
     to paties Boleslovo. Ir Bonifacas buvo paskelbtas šventuoju
     kankiniu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -108,7 +92,6 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
     jog jau XI amž. pradžioje ir Vakaruose buvo žinoma, kur prasi­
     deda Lietuvos ribos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -38,7 +38,6 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
   citata_originali: |
     Atėjus trečiajai ar ketvirtajai dienai, kartais ir šeštajai dienai, sutemus naktį ėmė vėdliai marčią martuoti, beje, į kelią rėdyti; taip pradeda tuo kartu jaunąją vadinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -49,7 +48,6 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
   citata_originali: |
     Visi tie jaunojo svečiai vadinos vėdliais nuo to, jog keliavo parvėdlauti savo jaunajam žmoną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -49,16 +49,6 @@ Knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažny
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 19775-20234; hash=bb4e1f15b61e8c0b957d965ab3d148da7a6bc898380c836e7f6d6be176416bf5; match=exact
-  sprendimo_priezastis: gap::events
-  ryšio_patikimumas: priklause -> Šaurų dvaras: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Narbutai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Šaurų dvaras: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claimas nurodo Narbutų šeimos turtą po Šaurų dvaro sekvestravimo; ryšys su dvaru remiamas kontekstu, bet pats priklausymas pasakytas netiesiogiai.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -74,13 +64,10 @@ Knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažny
     ma, už rublio mokestį sargas leisdavo ten saugomą biblioteką
     ir rankraščius išgabenti.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-
 ## Data ir vieta
 
 Laikotarpis siejamas su 1863 m. sukilimo slopinimu ir 1864 m. lapkričio 26 d. T. Narbuto mirtimi.

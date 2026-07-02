@@ -31,8 +31,6 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
 - t-001
   global_id: t-182731
   teiginys: 'Vytautas pretendavo į visą Žemaitiją iki Nemuno, Klaipėdą ir Užnemunę.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, glaustas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Nemunas; mentioned_place: Žemaitija'
   pagrindžia:
     - c-004
 
@@ -40,8 +38,6 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
 - t-002
   global_id: t-182735
   teiginys: 'Lietuvos Užnemunėje caro valdžia nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie mokyklų kūrimą Užnemunėje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„lenkų suartinimo su rusais“|„lenkų suartinimo su rusais“]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-003
 
@@ -49,11 +45,6 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
 - t-003
   global_id: t-182736
   teiginys: 'Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija.'
-  sudarymo_pagrindimas: 'Teiginys perrašytas sklandžiau ir be netinkamo brūkšnio.'
-  susije_objektai: 'llm_object: Suvalkų gubernija; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Suvalkai; mentioned_place: Suvalkų gubernija; mentioned_place: Lietuva; mentioned_place: Lietuvos Užnemunė'
-  temporaliniai_duomenys: 'priklausymo laikotarpis: po 1867 m.; priklausymo laikotarpis: 1867 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Užnemunė priklausė Suvalkų gubernija“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys perrašytas sklandžiau ir be netinkamo brūkšnio.'
   pagrindžia:
     - c-005
 
@@ -61,11 +52,6 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
 - t-004
   global_id: t-183097
   teiginys: 'Užnemunė Prūsų valdžioje ir Lenkų karalystėje Užnemunė Prūsų karalystėje.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Prūsų žemė; mentioned_place: Balstogė; mentioned_place: Plockas; mentioned_place: Prūsija; llm_object: Prūsija'
-  semantiniai_rysiai: 'Užnemunė priklausė Prūsija'
   pagrindžia:
     - c-002
 
@@ -73,26 +59,8 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
 - t-005
   global_id: t-183098
   teiginys: '1807 m. Užnemunė buvo priskirta Varšuvos kunigaikštystei.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra antraštinis fragmentas, o citata leidžia suformuluoti konkretų faktą.'
-  susije_objektai: 'mentioned_place: Varšuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Prūsija'
-  temporaliniai_duomenys: 'įvykio data: 1807 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra antraštinis fragmentas, o citata leidžia suformuluoti konkretų faktą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 904786-905066; hash=b8cdfca602c516a2f71c685261fdeada066b7bfa90441073f9df70eda5ae9ab1; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Prūsija: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Užnemunė: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Antraštė tiesiogiai apibūdina Užnemunę kaip esančią Prūsų valdžioje.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.).md#claim-t-66999|Vytauto žygis į Ordino žemes (1377 m.)]]: Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro.
 - susijęs iš [[objektai/asmenys/Napoleonas Bonapartas.md#claim-t-19169|Napoleonas Bonapartas]]: Napoleonas Bonapartas įkūrė Varšuvos kunigaikštystę, kuriai 1807–1814 m. priklausė Užnemunė.
 - susijęs iš [[objektai/ivykiai/Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas.md#claim-t-183279|Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas]]: Po 1795 m. spalio 24 d. konvencijos etninės lietuvių žemės atiteko Rusijai, Prūsija prisijungė Užnemunę, o pietvakarinis LDK kampas – Austrijai.
@@ -179,7 +147,6 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     poleono kodeksas, kuriuo valstiečiai buvo atleisti nuo baudžia-
     vos, tik be žemės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -196,7 +163,6 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     Jos visos buvo padalintos į Plocko ir Balstogės departamentus.
     Lietuviškoji Užnemunė priklausė Balstogės departamentui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -215,7 +181,6 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     versitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams,
     turintiems atestate lietuvių kalbos pažymį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -232,7 +197,6 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     Taigi, net po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu
     priežastis – Žemaitija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -250,7 +214,6 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     klausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. Su-
     valkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos teritorijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

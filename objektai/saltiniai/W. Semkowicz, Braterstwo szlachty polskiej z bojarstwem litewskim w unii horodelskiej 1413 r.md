@@ -31,9 +31,6 @@ Semkowicz, W.
   teiginys: 'W. Semkowicziaus darbas „Braterstwo szlachty polskiej z bojarstwem litewskim w unii horodelskiej 1413 r.“ buvo įtrauktas į rinkinį „PiL“.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=25a16e6b1872dce8d28ea4661f4f80a4ac6955261224d54287c1cf9ee4b42fbe; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -45,7 +42,6 @@ Semkowicz, W.
     bojarskich zbratanych z szlachtą polską w Horodle_ , Miesięcznik Heral­
     dyczny, 1914 ; tęsinys : Rocznik Towarz. heraldycznego, VII, 1924-1925.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

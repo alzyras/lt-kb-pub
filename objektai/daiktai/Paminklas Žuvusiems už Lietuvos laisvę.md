@@ -47,24 +47,8 @@ Nenurodyta
 - t-001
   global_id: t-19579
   teiginys: '1934 m. lapkričio 23 d. Kaune, Karo muziejaus sodelyje, šalia paminklo Žuvusiems už Lietuvos laisvę palaidotas Nežinomas kareivis.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Kaunas; llm_object: Kaunas'
-  semantiniai_rysiai: '[[objektai/daiktai/Paminklas Žuvusiems už Lietuvos laisvę|Paminklas Žuvusiems už Lietuvos laisvę]] priklausė Kaunas'
-  temporaliniai_duomenys: 'mirties data: 1934 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e993ce331278d1831564d4865fc0072471cb73a5ecd16459cb449c09e145780a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Kaunas: 0.66
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Paminklas Žuvusiems už Lietuvos laisvę: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata lokalizuoja paminklą Kaune, todėl daiktas siejamas su Kaunu priklausymo ar buvimo ryšiu.
 
 ## Reikšmingi paminėjimai
 
@@ -82,7 +66,6 @@ Nenurodyta
     karių kapų tvarkymu, intensyviai kuriamas žuvusių karių kultas, kasmet iš-
     kilmingai paminima kariuomenės įkūrimo diena – lapkričio 23-ioji.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

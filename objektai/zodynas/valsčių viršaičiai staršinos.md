@@ -27,32 +27,15 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
 - t-001
   global_id: t-03210
   teiginys: '1861 m. įkurtų valsčių viršaičiai ir raštininkai buvo atstatyti po Muravjovo pertvarkymo.'
-  sudarymo_pagrindimas: 'Perrašyta taip, kad teiginys būtų apie viršaičius ir remtųsi citata.'
-  temporaliniai_duomenys: 'įvykio data: 1861 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Perrašyta taip, kad teiginys būtų apie viršaičius ir remtųsi citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 963309-963619; hash=21261998df4fc5c96cd9162b8e8f151096dbcb92795935ef74df314855600c53; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-182987"></a>
 - t-002
   global_id: t-182987
   teiginys: '1861 m. įkurtų valsčių viršaičiai buvo vadinami staršinomis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pirminis teiginys daugiau kalba apie savivaldybes, o citata leidžia suformuluoti faktą apie viršaičius.'
-  temporaliniai_duomenys: 'įvykio data: 1861 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pirminis teiginys daugiau kalba apie savivaldybes, o citata leidžia suformuluoti faktą apie viršaičius.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 963309-963619; hash=21261998df4fc5c96cd9162b8e8f151096dbcb92795935ef74df314855600c53; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -68,11 +51,9 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
     šinos) ir raštininkai, kurių daugumas buvo dvarininkų pastatyti,
     buvo atstatyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
     - t-002

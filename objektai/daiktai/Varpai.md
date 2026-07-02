@@ -53,69 +53,27 @@ Nenurodyta
 - t-001
   global_id: t-12333
   teiginys: 'Vytauto laikams baigiantis daugelyje Lietuvos vietų jau skambėjo bažnyčių varpai.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fd2dd7fb2e267a01a1b9109f37c7e9075f08f017b2d3789f293e1712369a3d4a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Varpai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varpai" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-89438"></a>
 - t-002
   global_id: t-89438
   teiginys: 'Pilyje paliktas iškaršęs ir aklas Ordino brolis kas valandą kaip paprastai skambino varpu.'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra negramatiškas, bet citata palaiko aiškų faktą apie varpo skambinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_place: Elbingas; mentioned_place: Viena'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d2f21565dae319cd5a477a9a7631c949303d57420fe56c790f1e726de0092029; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Varpai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varpai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-89439"></a>
 - t-003
   global_id: t-89439
   teiginys: '1958 m. pasibaigus „atšilimui“, sovietų valdžia draudė skambinti bažnyčių varpais.'
-  sudarymo_pagrindimas: 'Pradinė formuluotė nutrūkusi ir perkrauta pašalinėmis detalėmis.'
-  susije_objektai: 'mentioned_place: Kalvarija; mentioned_place: Šiluva'
-  temporaliniai_duomenys: 'įvykio data: 1958 m.; įvykio data: 1962 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė nutrūkusi ir perkrauta pašalinėmis detalėmis.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cf7ca26d4fdf64641b781d3e510290afeca9895f3f2d6870a00bebc217c75d24; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalvarija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Varpai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kalvarija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varpai" parinktas kaip owner_note_path. Targetas "Kalvarija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-89440"></a>
 - t-004
   global_id: t-89440
   teiginys: 'Nuo Vytauto laikų Lietuvoje buvo liejami varpai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Sūduva'
-  temporaliniai_duomenys: 'įvykio data: 1422 m.; įvykio data: 1435 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -123,23 +81,8 @@ Nenurodyta
 - t-005
   global_id: t-89442
   teiginys: 'Po 1958 m. sovietų valdžia Lietuvoje draudė bažnyčiose skambinti varpais.'
-  sudarymo_pagrindimas: 'Citata nepagrindžia teiginio apie sausio 13-osios aukas, bet pagrindžia faktą apie varpų skambinimo draudimą.'
-  susije_objektai: 'mentioned_place: Kalvarija; mentioned_place: Lietuva; mentioned_place: Šiluva'
-  temporaliniai_duomenys: 'įvykio data: po 1958 m.; įvykio data: 1958 m.; įvykio data: 1962 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata nepagrindžia teiginio apie sausio 13-osios aukas, bet pagrindžia faktą apie varpų skambinimo draudimą.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cf7ca26d4fdf64641b781d3e510290afeca9895f3f2d6870a00bebc217c75d24; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalvarija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Varpai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kalvarija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varpai" parinktas kaip owner_note_path. Targetas "Kalvarija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Teokritas Scholastas.md#claim-t-190215|Teokritas Scholastas]]: Narbutas remiasi Teokritu Scholastu teigdamas, kad varpai priklausė slaptoms Kabirų garbinimo apeigoms.
 - susijęs iš [[objektai/autoriai/Teokritas Scholastas.md#claim-t-190458|Teokritas Scholastas]]: Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbinimo paslaptingoms apeigoms.
 - susijęs iš [[objektai/daiktai/Lietuvių pilių varpai žadintojai ir gumbai.md#claim-t-189658|Lietuvių pilių varpai žadintojai ir gumbai]]: Narbutas rašo, kad padavimai lietuvių pilyse mini varpus kariams prikelti, sargybiniams perspėti ir pavojui paskelbti.
@@ -178,7 +121,6 @@ Nenurodyta
     mo centras buvo jau ne senojo lietuvių tikėjimo garbinama gam­
     ta, bet pats jos Kūrėjas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -199,7 +141,6 @@ Nenurodyta
     (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
     netos, liejami pabūklai, varpai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -217,7 +158,6 @@ Nenurodyta
 
     Vis dėlto ir šis brolis, palikęs pilyje, kiekvieną valandą kaip paprastai skambino varpu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -239,7 +179,6 @@ Nenurodyta
     pajuokiami, įžeidinėjami, uždrausta statyti kryžius, šiurkščiais metodais
     sustabdyta naujos bažnyčios statyba Klaipėdoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -20,9 +20,9 @@ aliases:
   - 'objektai/asmenys/Algirdas (Lietuvos valdovas, 1345 m.)'
 variantai:
   - 'Algirdas (Lietuvos valdovas, 1345 m.)'
-description: 'Algirdas – Lietuvos valdovas, su Kęstučiu perėmęs Vilnių, plėtęs valdžią Rusios žemėse ir 1362 m. laimėjęs prie Mėlynųjų Vandenų.'
-socialDescription: 'Algirdas siejamas su Vilniaus kunigaikštyste, Lietuvos galybės augimu rytuose, Mėlynųjų Vandenų pergale ir politinėmis derybomis dėl baltų žemių.'
-seo_atnaujinta: '2026-07-02T19:20:23.271330+03:00'
+description: 'Algirdas – LDK valdovas, siejamas su Vilniaus kunigaikštyste, plėtra Rusioje, pergale prie Mėlynųjų Vandenų ir 1358 m. derybomis.'
+socialDescription: 'Algirdas pristatomas kaip galingas LDK valdovas, stiprinęs valstybę su Kęstučiu ir plėtęs Lietuvos įtaką Rusios žemėse.'
+seo_atnaujinta: '2026-07-02T20:14:54.758439+03:00'
 seo_policy_version: 'seo_summary_v1'
 seo_nepakanka_duomenu: 'false'
 sukurta: ''
@@ -39,7 +39,7 @@ tags:
 
 ## Santrauka
 
-Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus kunigaikštystę ir grąžinęs valstybei vienybę bei galią. Jo valdžia siejama su Lietuvos plėtra Rusios žemėse, pergale prie Mėlynųjų Vandenų, Kijevo paėmimu ir sūnaus Vladimiro įtvirtinimu ten. Šaltinyje pabrėžiamos ir 1358 m. derybos su Karoliu IV, kuriose Algirdas reikalavo kryžiuočius nukreipti į rytų stepes ir grąžinti baltų žemes.
+Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kunigaikštystę ir valstybei grąžinęs vienybę bei galią. Jo valdžia siejama su Lietuvos plėtra Rusios žemėse, totorių sutriuškinimu prie Mėlynųjų Vandenų, Kijevo paėmimu ir Vladimiro įtvirtinimu. Šaltiniai taip pat pabrėžia 1358 m. derybas su Karoliu IV, kuriose Algirdas reikalavo grąžinti baltų žemes ir nukreipti kryžiuočius į rytų stepes.
 
 ## Vaidmenys
 
@@ -50,9 +50,6 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
 - t-001
   global_id: t-05157
   teiginys: 'Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaidotas pagoniškais papročiais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
-  temporaliniai_duomenys: 'mirties data: iki 1385 m.; mirties data: 1259 m.; mirties data: 1377 m.; mirties data: 1382 m.; mirties data: 1385 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip mirties data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-022
 
@@ -60,8 +57,6 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
 - t-002
   global_id: t-05158
   teiginys: 'Lietuvai įsiviešpataujant rytų erdvėje iki Okos aukštupių, Maskva Algirdui dar nepajėgė aktyviai atsispirti.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir citata jį tiesiogiai pagrindžia.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-002
 
@@ -69,9 +64,6 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
 - t-003
   global_id: t-05159
   teiginys: 'Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus.'
-  sudarymo_pagrindimas: 'Citata palaiko tikslesnį sakinį su aiškesniu veiksmu ir rezultatu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kijevo Rusia; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; llm_object: Kijevo Rusia'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] valdė teritoriją Kijevo Rusia'
   pagrindžia:
     - c-010
     - c-027
@@ -80,10 +72,6 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
 - t-004
   global_id: t-10070
   teiginys: 'Algirdas vedė gerai organizuotą Lietuvos kariuomenę, kuri prie Mėlynųjų Vandenų sutriuškino su lietuviais konkuravusius mongolus.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Maskva; mentioned_place: Tverė'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] kariavo prieš [[objektai/grupes/Mongolai|Mongolai]]'
-  temporaliniai_duomenys: 'įvykio data: 1328 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-011
 
@@ -91,11 +79,6 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
 - t-005
   global_id: t-10071
   teiginys: '1358 m. derybose su Šv. Romos imperatoriumi Karoliu IV Algirdas reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais.'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys apie Algirdo reikalavimą derybose.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Karolis IV|Karolis IV]]; mentioned_place: Lietuva; mentioned_place: Prieglius'
-  temporaliniai_duomenys: 'įvykio data: 1358 m.; įvykio data: 1360 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus faktinis sakinys apie Algirdo reikalavimą derybose.'
   pagrindžia:
     - c-005
     - c-035
@@ -104,9 +87,6 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
 - t-006
   global_id: t-10072
   teiginys: 'Tose pačiose derybose Algirdas reikalavo sugrąžinti Lietuvai baltų žemes vakaruose iki Alnos, Priegliaus ir Dauguvos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Prieglius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_person: [[objektai/asmenys/Karolis IV|Karolis IV]]'
-  temporaliniai_duomenys: 'įvykio data: 1358 m.; įvykio data: 1360 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-005
     - c-036
@@ -115,9 +95,6 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
 - t-007
   global_id: t-10666
   teiginys: 'Algirdas valdė Krėvą ir Vitebską.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Krėva; llm_object: Vitebskas; mentioned_place: Krėva; mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Kernavė; mentioned_place: Naugardukas; mentioned_place: Turovas'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] valdė Krėva; [[objektai/asmenys/Algirdas|Algirdas]] valdė Vitebskas'
   pagrindžia:
     - c-013
 
@@ -125,125 +102,48 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
 - t-008
   global_id: t-10667
   teiginys: 'Kęstučiui užėmus Vilnių, Algirdas gavo valdyti Vilniaus kunigaikštystę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9701ca7ef555dd55923219ddece989424f4b0d76f4be6dbb86a568cc896554f4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-10670"></a>
 - t-009
   global_id: t-10670
   teiginys: '1362 m. Algirdas sumušė totorius ties Mėlynaisiais Vandenimis, paėmė Kijevą ir pasodino ten savo sūnų Vladimirą.'
-  susije_objektai: 'llm_object: Kijevas; llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kijevas; mentioned_place: Vladimiras; mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; llm_object: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] užėmė Kijevas; [[objektai/asmenys/Algirdas|Algirdas]] kariavo prieš [[objektai/grupes/Totoriai|Totoriai]]; [[objektai/asmenys/Algirdas|Algirdas]] surengė žygį į [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]'
-  temporaliniai_duomenys: 'įvykio data: 1362 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-008
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 107170-107404; hash=5120a9562296597a33bd310d6661db164a778f27191d55cb1fbcb1784df82147; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-10671"></a>
 - t-010
   global_id: t-10671
   teiginys: 'Algirdas vedė Julijoną, siekdamas sąjungininko prieš Maskvą.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Tverė'
   pagrindžia:
     - c-036
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6d7c4bbfb269d081e5c1e1580204990c3fb8cc514159292af96acf81d49c64b8; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_teritorija -> Kijevo Rusia: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kijevo Rusia: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai sako, kad Algirdas įsigijo plačias teritorijas iš senosios Kijevo Rusios.
 
 <a id="claim-t-10672"></a>
 - t-011
   global_id: t-10672
   teiginys: 'Algirdas buvo pagonis ir 1377 m. buvo sudegintas Vilniuje pagal pagonių papročius.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]'
-  temporaliniai_duomenys: 'įvykio data: 1377 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-029
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ec955255e72fda6e118b2220b280c0f32e63c9155f5bb621cf3522d4a05c04a2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Mongolai: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Mongolai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Kariuomenė, vedama Algirdo, sutriuškino mongolus, todėl tiesiogiai pagrįstas karinis santykis prieš mongolus.
 
 <a id="claim-t-176274"></a>
 - t-012
   global_id: t-176274
   teiginys: 'Algirdas buvo Gedimino sūnus ir Jogailos tėvas.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Algirdo ryšį su Gediminu ir Jogaila.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai|Įsivaizduojami Lietuvos valdovų portretai]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] buvo sūnus [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-035
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 54224-54600; hash=e8904c7f495f2675579f4f1c0f80a4356f06f5e824968dd8569a1c7db21fa630; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mongolai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Mongolai: mention_match, group, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Mongolai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176275"></a>
 - t-013
   global_id: t-176275
   teiginys: '1440 m. privilegijoje Vilniaus miestiečių laisva prekyba be muito vadinta Algirdo ir jo įpėdinių suteiktos laisvės atnaujinimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1440 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-012
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 54224-54600; hash=e8904c7f495f2675579f4f1c0f80a4356f06f5e824968dd8569a1c7db21fa630; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176276"></a>
 - t-014
   global_id: t-176276
   teiginys: 'Algirdas, laimėjęs sostą ir įsitraukęs į karus su Rusia, netrukus išvyko iš Vilniaus.'
-  sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie Algirdo veiksmus, o pradinis teiginys yra nutrūkęs.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Antoni Melissanius de Macro|Antoni Melissanius de Macro]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Podolė; mentioned_place: Vitebskas'
   pagrindžia:
     - c-026
 
@@ -251,90 +151,34 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
 - t-015
   global_id: t-176277
   teiginys: 'Algirdas buvo vyriausias iš brolių.'
-  sudarymo_pagrindimas: 'Teiginys yra trumpas, gramatiškas ir paremtas citatos informacija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-037
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=df76b5e9b39c46c1c12027ac90e28e3cb97fd9a2c4bfd0d2a5889785e6909f0e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_teritorija -> Kijevo Rusia: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kijevo Rusia: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys nurodo Algirdo teritorijų įsigijimą iš Kijevo Rusios.
 
 <a id="claim-t-176279"></a>
 - t-016
   global_id: t-176279
   teiginys: 'Lietuvos metraščiuose užrašyti Ldk Algirdo žygiai į Maskvą laikomi epinius pasakojimus atitinkančiu siužetu.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir apima kelis siužetus.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]; mentioned_place: Maskva; llm_object: Maskva; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Birutės kalnas; mentioned_place: Lietuva; mentioned_place: Palanga; mentioned_place: Vilnius; llm_object: [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] surengė žygį į Maskva; [[objektai/asmenys/Algirdas|Algirdas]] surengė žygį į [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]'
   pagrindžia:
     - c-018
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4c8929e0a2aa255ef6aad211ee98cb53b793c40c1a582644275982f6fd3907a8; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176281"></a>
 - t-017
   global_id: t-176281
   teiginys: '1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Kijevas; llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Patrikas|Patrikas]]; mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Vladimiras; llm_object: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] užėmė Kijevas; [[objektai/asmenys/Algirdas|Algirdas]] kariavo prieš [[objektai/grupes/Totoriai|Totoriai]]; [[objektai/asmenys/Algirdas|Algirdas]] surengė žygį į [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]'
-  temporaliniai_duomenys: 'įvykio data: 1362 m.; įvykio data: 1365 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, konkretus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-032
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=991a611250d1ccad8824460131210184a9f49dbaaa1c93639a24684add9dd675; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Formuluotė tiesiogiai nurodo Algirdo žygių kryptį į Maskvą.
 
 <a id="claim-t-176282"></a>
 - t-018
   global_id: t-176282
   teiginys: 'Algirdas buvo Seversko kunigaikščio Dmitrijaus Kaributo tėvas.'
-  sudarymo_pagrindimas: 'Citata pagrindžia giminystės faktą, o pradinis teiginys nukrypsta į kitų asmenų įvykius.'
-  susije_objektai: 'mentioned_place: Severskas; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Naugardas; mentioned_place: Podolė; mentioned_place: Riazanė; mentioned_place: Vilnius'
   pagrindžia:
     - c-020
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5baf6897baeb28138cc4889cd926c7df71afdb4f64a5f8878fc038e58fb2008d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karūna: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176283"></a>
 - t-019
   global_id: t-176283
   teiginys: 'Algirdas iš senosios Kijevo Rusios įsigijo plačias teritorijas.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; llm_object: Kijevo Rusia'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] valdė teritoriją Kijevo Rusia'
   pagrindžia:
     - c-009
 
@@ -342,69 +186,27 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
 - t-020
   global_id: t-176284
   teiginys: '1440 m. privilegijoje Vilniui atnaujintos senos laisvės, suteiktos Algirdo ir jo įpėdinių.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Algirdo suteiktų laisvių atnaujinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1440 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Algirdo suteiktų laisvių atnaujinimą.'
   pagrindžia:
     - c-012
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5fdca1f487e60992229206a6c02ebbbf998b7c9ff11e67b5f3b5cf015314c33c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Lietuva: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad 1345–1377 m. Lietuva buvo Algirdo valdymo laikotarpiu.
 
 <a id="claim-t-176287"></a>
 - t-021
   global_id: t-176287
   teiginys: 'Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats miestas perėjo į Algirdo rankas.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] valdė miestą Vilnius'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f65960433b20d2c2b2be96f1baba7b5f1b3ff0cf1d65ed9382463d66d5c10d8b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Kijevas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Algirdas prijungė Kijevą.
 
 <a id="claim-t-176288"></a>
 - t-022
   global_id: t-176288
   teiginys: 'Algirdo ir Kęstučio palaikų deginimo aprašymai išliko istoriniuose šaltiniuose.'
-  sudarymo_pagrindimas: 'Perrašyta į aiškesnį sakinį apie Algirdą, pašalinant neenciklopedinę pradžią.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-031
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 62635-63324; hash=398ede3c5ffc499c5dfe1e4c33a5a21408cb53e931df792512f131d88af1335a; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas aiškiai nurodo, kad Algirdas surengė žygį į Maskvą.
 
 <a id="claim-t-176289"></a>
 - t-023
   global_id: t-176289
   teiginys: 'Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats Vilnius perėjo į Algirdo rankas.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia teiginį, bet jį reikia sutrumpinti ir sutvarkyti.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] valdė miestą Vilnius'
   pagrindžia:
     - c-034
 
@@ -412,8 +214,6 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
 - t-024
   global_id: t-176290
   teiginys: 'Nuo Algirdo laikų įsigalėjusios tradicijos padėjo Vytautui prijungti rusų žemes.'
-  sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir fragmentiškas; citata leidžia glaustai nusakyti priežastį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-038
 
@@ -421,55 +221,20 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
 - t-025
   global_id: t-176291
   teiginys: 'Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus.'
-  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas, sakinys suformuluotas taisyklingai.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Tverė'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] kariavo prieš [[objektai/grupes/Mongolai|Mongolai]]'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1328 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas, sakinys suformuluotas taisyklingai.'
   pagrindžia:
     - c-011
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ec955255e72fda6e118b2220b280c0f32e63c9155f5bb621cf3522d4a05c04a2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Mongolai: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Mongolai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Kariuomenė, vedama Algirdo, sutriuškino mongolus, todėl santykis su mongolais yra karinis.
 
 <a id="claim-t-176292"></a>
 - t-026
   global_id: t-176292
   teiginys: 'Valdant Ldk Algirdui 1345–1377 m. Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_event: [[objektai/ivykiai/Kryžiaus karai|Kryžiaus karai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; llm_object: Kijevo Rusia'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] valdė Lietuva; [[objektai/asmenys/Algirdas|Algirdas]] valdė teritoriją Kijevo Rusia'
-  temporaliniai_duomenys: 'įvykio data: 1345-1377; įvykio data: 1377 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
   pagrindžia:
     - c-028
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 54224-54600; hash=e8904c7f495f2675579f4f1c0f80a4356f06f5e824968dd8569a1c7db21fa630; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=117
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176293"></a>
 - t-027
   global_id: t-176293
   teiginys: 'Algirdas valdė Vitebską ir Krėvą, o dar Gediminui gyvam esant išgarsėjo mūšiuose su Mazovija, Rusia ir Prūsijos ordinu.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys yra nutrūkęs ir su OCR klaidomis.'
-  susije_objektai: 'llm_object: Vitebskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vitebskas; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] valdė miestą Vitebskas'
   pagrindžia:
     - c-016
 
@@ -477,66 +242,27 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
 - t-028
   global_id: t-176294
   teiginys: '1377 m. birželio pabaigoje Algirdas su žmona ir vaikais buvo Vilniuje, kai priešai sustojo prie miesto.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Trakai'
-  temporaliniai_duomenys: 'įvykio data: 1377 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-024
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 26171-26385; hash=3b82d3806702d2900c6b221290a8ff8af3cfa3c51ff9169a0fd3cba0b8dbf5b7; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176298"></a>
 - t-029
   global_id: t-176298
   teiginys: 'Algirdas, nelaukdamas pripažinimo ir karūnos iš svetur, vadinosi karaliumi.'
-  sudarymo_pagrindimas: 'Reikia pašalinti platesnį interpretacinį kontekstą ir palikti faktą apie Algirdą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-030
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 250487-250917; hash=ad45c11ba30b4b8b68d80d9f087eaef9ab93b9ccea83ca8a3ccee8c623d6b7e9; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Stačiatikiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Stačiatikiai: mention_match, group, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Stačiatikiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176299"></a>
 - t-030
   global_id: t-176299
   teiginys: 'Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine.'
-  sudarymo_pagrindimas: 'Teiginys yra trumpas, gramatiškas ir pagrįstas citatos formuluote.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Kernavė; mentioned_place: Krėva; mentioned_place: Naugardukas; mentioned_place: Turovas; mentioned_place: Vilnius'
   pagrindžia:
     - c-021
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c9cd7f63d46ae26b5226c11d20d2de7edb11bef21a10260afb451a1b4d4adffd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dobrogostas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Dobrogostas: mention_match, person, gap=93
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Dobrogostas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176300"></a>
 - t-031
   global_id: t-176300
   teiginys: 'Algirdas viešpatavo Vitebske ir Krėvoje ir dar Gediminui gyvam esant išgarsėjo mūšiais su Mazovija, Rusia ir Prūsijos ordinu.'
-  susije_objektai: 'llm_object: Krėva; llm_object: Vitebskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Krėva; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vitebskas; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] valdė miestą Vitebskas; [[objektai/asmenys/Algirdas|Algirdas]] valdė miestą Krėva'
   pagrindžia:
     - c-016
 
@@ -544,106 +270,41 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
 - t-032
   global_id: t-176301
   teiginys: 'Algirdas 1358 m. derybose su Karoliu IV reikalavo iškelti kryžiuočius į rytų stepes ir sugrąžinti Lietuvai vakarines baltų žemes.'
-  sudarymo_pagrindimas: 'Teiginys glaustai ir aiškiai perteikia citatoje nurodytą Algirdo reikalavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/asmenys/Karolis IV|Karolis IV]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_place: Prieglius'
-  temporaliniai_duomenys: 'įvykio data: 1358 m.; įvykio data: 1360 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys glaustai ir aiškiai perteikia citatoje nurodytą Algirdo reikalavimą.'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=64d97eeb665d8bb9b8826ecee1505ac2b565266447c06a785d09c3a071e70f00; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176302"></a>
 - t-033
   global_id: t-176302
   teiginys: 'Algirdo valdymo ir rūpesčio dėka Lietuvoje plitusi prekyba palaikė Vilniaus gyvybingumą.'
-  sudarymo_pagrindimas: 'Citata palaiko glaustesnį ir taisyklingą teiginį apie Algirdo poveikį prekybai.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Maskva; mentioned_place: Ryga; llm_object: Maskva; llm_object: Ryga'
   pagrindžia:
     - c-017
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e73dbc36096cb8d23c2fe1cb7cb0caf527b2ba798d354bd9bdb5a6b5a9616942; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176303"></a>
 - t-034
   global_id: t-176303
   teiginys: 'Algirdas valdė Lietuvą Vilniuje, o Kęstutis tuo pat metu valdė Trakuose.'
-  sudarymo_pagrindimas: 'Citata pagrindžia faktą, bet teiginį reikia pataisyti į glaustą enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/diarchija|diarchija]]'
   pagrindžia:
     - c-014
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=35aac0b2e243ed113b087e17955e4e1b9d48f686f538ca379e80aa68f2c0f1ea; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176304"></a>
 - t-035
   global_id: t-176304
   teiginys: 'Algirdas kartais gyvendavo Paneriuose, kurie Balińskio laikais priklausė Vilniaus kapitulai.'
-  sudarymo_pagrindimas: 'Reikia pašalinti neaiškų „šiandien“ ir tiksliai perteikti šaltinio laiko perspektyvą.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cabdd3d92093f7860ed1b57b60853c84db01e8833614ecaf66d22640d8ea748f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_miesta -> Krėva: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Krėva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys ir citata tiesiogiai nurodo, kad Algirdas viešpatavo Krėvoje.
 
 <a id="claim-t-176305"></a>
 - t-036
   global_id: t-176305
   teiginys: 'Algirdas leido Romos vienuoliams Vilniuje skelbti evangeliją, o graikų apeigų dvasininkams atlikti savo tikėjimo apeigas.'
-  sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir citata jį tiesiogiai pagrindžia.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Tverė'
   pagrindžia:
     - c-025
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9ec5895379eb345cb11786cb63434ba1ee3ecc1b2b4f12526facfb90fc4123c2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_miesta -> Vilnius: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: „Pats miestas“ šiame kontekste yra Vilnius, kurio valdymas perėjo Algirdui.
 
 <a id="claim-t-176307"></a>
 - t-037
   global_id: t-176307
   teiginys: 'Algirdo ir Kęstučio laikais Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Čekija; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-015
 
@@ -651,8 +312,6 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
 - t-038
   global_id: t-176308
   teiginys: 'Poznanės vyskupas Dobrogostas buvo tarpininkavęs tarp popiežiaus Inocento VI ir didžiojo Lietuvos kunigaikščio Algirdo.'
-  sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Algirdą, bet pradinis sakinys yra kontekstinis ir triukšmingas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_place: Lietuva; mentioned_place: Perudžija; mentioned_place: Poznanė; mentioned_place: Viena'
   pagrindžia:
     - c-033
 
@@ -660,210 +319,69 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
 - t-039
   global_id: t-176309
   teiginys: 'Abi Algirdo žmonos ir pirmosios žmonos vaikai buvo stačiatikių tikėjimo.'
-  sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiesiogiai atitinka citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c26b70d3a36f0babaca6b465ef3970727968bfb174b8e0c4fe8b82eb2f61ad31; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176310"></a>
 - t-040
   global_id: t-176310
   teiginys: 'Labiau linkstama manyti, kad Algirdas prijungė Kijevą po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia šaltinyje nurodytą istoriografinę nuomonę.'
-  susije_objektai: 'llm_object: Kijevas; mentioned_place: Kijevas; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Baltarusija; mentioned_place: Baltoji Rusia; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Rusia; mentioned_place: Vitebskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] užėmė Kijevas'
-  temporaliniai_duomenys: 'įvykio data: 1307 m.; įvykio data: 1320 m.; įvykio data: 1322 m.; įvykio data: 1340 m.; įvykio data: 1362 m.; įvykio data: 1363 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia šaltinyje nurodytą istoriografinę nuomonę.'
   pagrindžia:
     - c-023
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: prekiavo_su -> Maskva: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai mini prekių mainus Vilniuje tarp Maskvos ir kitų miestų pirklių.
 
 <a id="claim-t-176311"></a>
 - t-041
   global_id: t-176311
   teiginys: 'Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.'
-  sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'llm_object: Maskva; mentioned_place: Kremlius; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Konstantinopolis; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusia; mentioned_place: Tverė; mentioned_place: Vilnius; llm_object: Kremlius'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] surengė žygį į Maskva; [[objektai/asmenys/Algirdas|Algirdas]] apgulė Kremlius'
-  temporaliniai_duomenys: 'įvykio data: 1371 m.; įvykio data: 1372 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-019
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f70de15a17ca95839d5c0862b4acf64cf1df5e9b8035c9cd03fcd4c49e64637d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176312"></a>
 - t-042
   global_id: t-176312
   teiginys: 'Algirdas ir Kęstutis pasidalijo Lietuvos vadovavimo darbą pusiau.'
-  sudarymo_pagrindimas: 'Pašalinta archajiška dalelytė ir suformuluotas glaustesnis enciklopedinis sakinys.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 56292-56869; hash=bd0785575c76dd5caf453f673e25ab83fbf0e301dbf6911212dbceb2075b1bed; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Gediminas: 0.97
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Algirdas buvo Gedimino sūnus.
 
 <a id="claim-t-183838"></a>
 - t-044
   global_id: t-183838
   teiginys: 'Algirdas nubaudė pranciškonų žudynių vadus ir paskelbė vienuoliams laisvę gyventi bei išpažinti tikėjimą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikia pašalinti OCR triukšmą ir patikslinti sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Europa; mentioned_place: Vilnius; llm_object: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] rėmė [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]'
   pagrindžia:
     - c-040
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cabdd3d92093f7860ed1b57b60853c84db01e8833614ecaf66d22640d8ea748f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_miesta -> Vitebskas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vitebskas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sieja Algirdą su viešpatavimu Vitebske.
 
 <a id="claim-t-184663"></a>
 - t-046
   global_id: t-184663
   teiginys: 'Kęstutis užleido valdžią Algirdui, nors pats buvo pašalinęs Jaunutį ir, pasak Kojelavičiaus, turėjo daugiau teisių į valdžią.'
-  teiginio_tipas: 'saltinio_teiginys'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys negramatiškas ir painus; citata palaiko aiškesnį sakinį apie Algirdo valdžios gavimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Krėva; mentioned_place: Lietuva; llm_object: [[objektai/asmenys/Algirdas|Algirdas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] rėmė [[objektai/asmenys/Algirdas|Algirdas]]'
   pagrindžia:
     - c-042
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cfbcb000c17f50534e7c8e72048de355478dfaf27d673d32a77ce73ad5b2cce7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=33
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184664"></a>
 - t-047
   global_id: t-184664
   teiginys: 'Kęstutis ir Algirdas sutarė, kad Algirdas gaus didžiojo kunigaikščio titulą, o kitą valdžią jie dalysis lygiomis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata tiesiogiai palaiko išgrynintą faktą; pašalintas perteklinis šaltinio boilerplate.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Zaslavlis; llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] buvo sąjungininkas su [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-043
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 82700-83750; hash=6cc6fc61e72c7458a5503689b6af96b09369b5ea88f4362bba511b5747c9310c; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184665"></a>
 - t-048
   global_id: t-184665
   teiginys: 'Algirdas įsakė kariuomenei sustoti ir pasirengti kautynėms, kai priešo kunigaikščiai rengėsi stoti į mūšį.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis sakinys fragmentiškas; citata leidžia aiškiai nurodyti aplinkybę ir veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Chadžibėjus Girėjus|Chadžibėjus Girėjus]]; mentioned_person: [[objektai/asmenys/Kutlubugas|Kutlubugas]]'
   pagrindžia:
     - c-044
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f70de15a17ca95839d5c0862b4acf64cf1df5e9b8035c9cd03fcd4c49e64637d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184666"></a>
 - t-049
   global_id: t-184666
   teiginys: 'Algirdas, žmonos Julijonos prašymu sutikęs priimti krikščionybę, Vitebsko rusams pastatė porą šventovių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vitebskas; llm_object: Vitebskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] pastatė Vitebskas'
   pagrindžia:
     - c-045
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 306820-307652; hash=7db3582b2e72bab88f6ba644baf32b037a6de41cc89caaf970adb7efc842e818; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Severskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Severskas: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Severskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184667"></a>
 - t-050
   global_id: t-184667
   teiginys: 'Algirdas išvarė Teodorą Karijotaitį iš valdų, užėmė Podolės pilis ir paskyrė Goštautą Podolės seniūnu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis tekstas sugadintas OCR; citata palaiko aiškų faktinį sakinį apie Algirdo veiksmus.'
-  susije_objektai: 'llm_object: Podolė; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_place: Lietuva; mentioned_place: Vengrija'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] užėmė Podolė'
   pagrindžia:
     - c-046
 
@@ -871,69 +389,22 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
 - t-051
   global_id: t-184668
   teiginys: 'Algirdas ir Aleksandras Karijotaitis nuniokojo daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė 800 belaisvių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis sakinys nutrūkęs; citata palaiko pilną enciklopedinį teiginį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Karijotaitis|Aleksandras Karijotaitis]]; mentioned_place: Prūsija; mentioned_place: Ragainė; mentioned_place: Tilžė; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Ariogala; mentioned_place: Lietuva; mentioned_place: Semba; llm_object: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] puolė Prūsija'
   pagrindžia:
     - c-047
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 476007-476509; hash=19f55a1819e20d1708467f0ae21de0eddac7ef9f670344692e2e2e7b25c7f8ea; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Brasta: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Brasta: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184669"></a>
 - t-052
   global_id: t-184669
   teiginys: 'Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko glaustesnį faktą; pašalintas nutrūkęs sąrašas ir boilerplate.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_place: Kijevas; mentioned_place: Volynė; mentioned_place: Kamenecas; mentioned_place: Lietuva; mentioned_place: Podolė; llm_object: Kijevas; llm_object: Volynė'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] užkariavo Kijevas; [[objektai/asmenys/Algirdas|Algirdas]] užkariavo Volynė'
   pagrindžia:
     - c-048
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 169561-169787; hash=1ff498c3d3fe3536c71c761053a2d9025a1aa338d3e3959df821192f52e30143; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=73
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184670"></a>
 - t-053
   global_id: t-184670
   teiginys: 'Simonas Olelkaitis citatoje pristatomas kaip Slucko kunigaikštis ir Algirdo proanūkis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata apie Algirdą pateikia tik genealoginę nuorodą, todėl tinka siauras, atribucinis teiginys.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Simonas Olelkaitis|Simonas Olelkaitis]]; mentioned_place: Lietuva; mentioned_place: Sluckas'
   pagrindžia:
     - c-049
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d19cc76365cb2af23738c6eee8e465128d0816416e1151d0dada37fd8a3743c7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Kijevas: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kijevas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Algirdas paėmė Kijevą į savo valdžią.
 
 <a id="claim-t-188511"></a>
 - t-054
@@ -943,16 +414,6 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     - c-050
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 364111-364502; hash=2ff09660dd30d343df32beed1842c4a081d8ba75ec8e653ec5a5f748bbd1685a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Smolenskas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=15
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-188512"></a>
 - t-055
   global_id: t-188512
@@ -961,16 +422,6 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     - c-051
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 476007-476509; hash=19f55a1819e20d1708467f0ae21de0eddac7ef9f670344692e2e2e7b25c7f8ea; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Krėva: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Krėva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys aiškiai sako, kad Algirdas valdė Krėvą.
 - susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40370|Narimantas Gediminaitis]]: Rusų metraščiai mini, kad vokiečiai mūšyje nukovė kunigaikštį Narimantą Gediminaitį, Algirdo ir Kęstučio brolį.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54944|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona.
 - susijęs iš [[objektai/asmenys/Marija (Algirdo žmona).md#claim-t-87545|Marija (Algirdo žmona)]]: Marija buvo Tverės kunigaikštytė ir Algirdo žmona.
@@ -1594,13 +1045,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     dą ir užleido jam valdyti visą Vilniaus kunigaikštystę. Jaunu-
     čiui buvo duota Zaslaulio kunigaikštystė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-- c-002
+    - t-008- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Atskirą didelę epochą sudarė Lietuvos istorijoje, kai lietuviai
@@ -1608,13 +1057,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     ro). Lietuva tada buvo ofenzyvoje. Tad rivalizuojanti Maskva
     Algirdui dar nepajėgė aktyviai atsispirti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-- c-003
+    - t-002- c-003
   santrauka: 'Algirdas ir Kęstutis pasidalijo Lietuvos vadovavimo darbą pusiau.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1623,13 +1070,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     gavo valdyti Zaslaulį. Algirdas gi su Kęstučiu pasidalino
     sunkų krašto vadovavimo darbą pusiau.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-042
-- c-004
+    - t-042- c-004
   santrauka: 'Abi Algirdo žmonos ir pirmosios žmonos vaikai buvo stačiatikių tikėjimo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1641,13 +1086,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     prie Rytų Bažnyčios praeitis, tradicijos, tautybė ir net tai, kad
     iš jos giminės buvo stačiatikių Bažnyčios šventųjų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-039
-- c-005
+    - t-039- c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos galybės maksimumas
@@ -1659,15 +1102,13 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     Kryžiuočiai į tai atsakė 1360 m. prasidėjusiomis intensyviomis
     puolamosiomis operacijomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
     - t-005
-    - t-006
-- c-006
+    - t-006- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tie politiniai pokyčiai Vilniu­
@@ -1680,13 +1121,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     16
     Jaunutis, pasak Rusios metraštinin- miennik Sofijski.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-- c-007
+    - t-013- c-007
   santrauka: 'Algirdas kartais gyvendavo Paneriuose, kurie Balińskio laikais priklausė Vilniaus kapitulai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1700,13 +1139,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     vokiečių raštininko, šiandien negalima suprasti, kokia tai
     buvo vieta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-035
-- c-008
+    - t-035- c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kijevas priklausė
@@ -1716,13 +1153,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     Senasis kunigaikštis buvo pašalintas, o į jo vietą pasodintas
     Algirdo sūnus Vladimiras.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-- c-009
+    - t-009- c-009
   santrauka: 'Algirdas iš senosios Kijevo Rusios įsigijo plačias teritorijas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1733,13 +1168,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     Kijevo Rusios įsigijo plačias teritorijas. Jiedu užvaldė jas ne tik
     ginklu, bet ir taikiu būdu, net giminystėmis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019
-- c-010
+    - t-019- c-010
   santrauka: 'Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1750,13 +1183,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     lingas dalis. Vytauto senelis ir vėliau jo dėdė Algirdas iš senosios
     Kijevo Rusios įsigijo plačias teritorijas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-- c-011
+    - t-003- c-011
   santrauka: 'Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1772,14 +1203,12 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     gavo mongolų leidimą rinkti duoklę Aukso ordai iš kitų seno-
     sios Rusios kunigaikštijų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
-    - t-004
-- c-012
+    - t-004- c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Betgi yra ir
@@ -1816,13 +1245,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     ypač užtarė Marija, Algirdo žmona, pasinešusi lietuviams pa­
     gonims skiepyti krikščionišką graikų apeigų tikėjimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020
-- c-013
+    - t-020- c-013
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mirdamas jis paliko 7 sūnus.
@@ -1832,13 +1259,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     das — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų
     pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-- c-014
+    - t-007- c-014
   santrauka: 'Algirdas valdė Lietuvą Vilniuje, o Kęstutis tuo pat metu valdė Trakuose.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1851,13 +1276,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas
     (1377).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034
-- c-015
+    - t-034- c-015
   santrauka: 'Algirdo ir Kęstučio laikais Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1869,13 +1292,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     (rublis —^1 / 2 svaro gryno sidabro). Vytauto laikais čekų gra­
     šiai buvo kalami ir Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-037
-- c-016
+    - t-037- c-016
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tik neilgai Lietuvos
@@ -1890,14 +1311,12 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     ko apsilpo krašto galia, kuo mokėjo pasinaudoti Ordino
     riteriai, gviešęsi grobio ir valdžios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
-    - t-027
-- c-017
+    - t-027- c-017
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
@@ -1910,13 +1329,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     jo lankytis tolimose provincijose, kur artimiau susipažino su
     krikščioniškąja kultūra26.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018
-- c-018
+    - t-018- c-018
   santrauka: 'Lietuvos metraščiuose užrašyti Ldk Algirdo žygiai į Maskvą laikomi epinius pasakojimus atitinkančiu siužetu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1931,13 +1348,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     pasakojimai užrašyti XV–XVI a., tačiau jie turėjo istorinį pagrindą – tai
     patvirtina vienalaikiai rašytiniai šaltiniai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-- c-019
+    - t-016- c-019
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rem-
@@ -1952,13 +1367,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     Lietuvos valdovai puikiai orientavosi ne tik Vakarų, bet ir Rytų Europos
     politinėje sistemoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-041
-- c-020
+    - t-041- c-020
   santrauka: 'Algirdas buvo Seversko kunigaikščio Dmitrijaus Kaributo tėvas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1982,13 +1395,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     paleistas ir iš Seversko valstybės, jau prijungtos prie Lie­
     tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018
-- c-021
+    - t-018- c-021
   santrauka: 'Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2005,13 +1416,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     Grzybowski knygoje Skarb
     nieoszacowany O O. Franciszkanów.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-030
-- c-022
+    - t-030- c-022
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     « Lietuvos diecezijai » buvo lemta greitai žlugti,
@@ -2024,13 +1433,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     1382 m.), ir savo valdomą lietuvių tautą patys tebelaikė dar pago­
     niška.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-- c-023
+    - t-001- c-023
   santrauka: 'Labiau linkstama manyti, kad Algirdas prijungė Kijevą po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2044,13 +1451,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     Algirdui išsiplėtė ne tik valstybės teritorija – Lietuva pasidarė reikšminga
     Vidurio ir Rytų Europos jėga.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-040
-- c-024
+    - t-040- c-024
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     12 000 žmonių vedini, pakeliui sudeginę Trakų mies­
@@ -2062,13 +1467,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     dovas, bet miestas, priešo padegtas, prarado du trečdalius
     namų, kitą trečdalį miestiečiai vos pajėgė išgelbėti24.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017
-- c-025
+    - t-017- c-025
   santrauka: 'Algirdas leido Romos vienuoliams Vilniuje skelbti evangeliją, o graikų apeigų dvasininkams atlikti savo tikėjimo apeigas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2085,13 +1488,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
     gas. Jau Algirdo viešpatavimo pradžioje Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-036
-- c-026
+    - t-036- c-026
   santrauka: 'Algirdas, laimėjęs sostą ir įsitraukęs į karus su Rusia, netrukus išvyko iš Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2123,14 +1524,12 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     vada, iš Rusios ir Podolės atkvietęs
     į Vilnių keturiolika Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
-    - t-015
-- c-027
+    - t-015- c-027
   santrauka: 'Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2145,13 +1544,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     _(po staremu)_ palikdamas iš anksčiau susidėsčiusią tvarką, Algirdas
     savo valdžią labiausiai išplėtė į rytus ir į pietus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-- c-028
+    - t-003- c-028
   santrauka: 'Valdant Ldk Algirdui 1345–1377 m. Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2163,13 +1560,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     pasidarė dvilypė – apėmė etnines pagoniškas lietuvių žemes ir platesnes
     teritoriškai, gausesnes gyventojų stačiatikiškas senrusių žemes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026
-- c-029
+    - t-026- c-029
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visi jo vaikai, gimę Vitebske, buvo krikštyti rytų Bažny-
@@ -2177,13 +1572,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     sai Algirdas buvo pagonis. 1377 m. miręs, jis buvo sudegintas ant
     laužo Vilniuje ir palaidotas pagonių papročiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-- c-030
+    - t-011- c-030
   santrauka: 'Algirdas, nelaukdamas pripažinimo ir karūnos iš svetur, vadinosi karaliumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2195,13 +1588,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
     mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029
-- c-031
+    - t-029- c-031
   santrauka: 'Algirdo ir Kęstučio palaikų deginimo aprašymai išliko istoriniuose šaltiniuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2211,13 +1602,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     Daugelis tautų sukūrė epą, t. y. pasakojimus apie dievus, pusdievius
     ir didvyrius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022
-- c-032
+    - t-022- c-032
   santrauka: '1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -2228,13 +1617,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     paaukoti dievams (diis sacrificare voluerunt) pilies komtūrą, bet Kęstutis nepritaręs
     (SRP, 2, 596).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017
-- c-033
+    - t-017- c-033
   santrauka: 'Poznanės vyskupas Dobrogostas buvo tarpininkavęs tarp popiežiaus Inocento VI ir didžiojo Lietuvos kunigaikščio Algirdo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2249,13 +1636,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     (Š. Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę
     (1388.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-038
-- c-034
+    - t-038- c-034
   santrauka: 'Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats Vilnius perėjo į Algirdo rankas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2270,13 +1655,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     Lietuvos valstybei grąžinęs vienybę ir galią, tapo anuomet
     galingiausiu valdovu Šiaurės Europoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023
-- c-035
+    - t-023- c-035
   santrauka: 'Algirdas buvo Gedimino sūnus ir Jogailos tėvas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2293,13 +1676,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     įtakos viršūnę. Jos atstovai vienu metu sėdėjo Lietuvos, Lenkijos, Čekijos
     (1471–1526) ir Vengrijos (1490–1506) sostuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012
-- c-036
+    - t-012- c-036
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Rinkdamas į savo valdžią
@@ -2309,13 +1690,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     metu Tverė varžėsi su Maskva dėl įtakos, tai Algirdui teko net
     kelis kartus padėti savo svainiui prieš Maskvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-- c-037
+    - t-010- c-037
   santrauka: 'Algirdas buvo vyriausias iš brolių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2325,13 +1704,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     ieškoti pagalbos į Maskvą, bet vėliau su broliais susitarė ir
     gavo valdyti Zaslaulį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-- c-038
+    - t-015- c-038
   santrauka: 'Nuo Algirdo laikų įsigalėjusios tradicijos padėjo Vytautui prijungti rusų žemes.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2345,13 +1722,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     kėlė konfliktą su lenkais dėl Lietuvos valstybės teisinių
     santykių su Lenkija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024
-- c-039
+    - t-024- c-039
   santrauka: 'Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -2368,13 +1743,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
 
     1328 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-043
-- c-040
+    - t-043- c-040
   santrauka: 'Algirdas nubaudė pranciškonų žudynių vadus ir paskelbė vienuoliams laisvę gyventi bei išpažinti tikėjimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2392,14 +1765,12 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     savo tikėjimą. Šis netikėtas ir liūdnas įvykis nė kiek neatšal­
     dė Goštauto uolumo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-044
-    - t-016
-- c-041
+    - t-016- c-041
   santrauka: 'Algirdo valdymo ir rūpesčio dėka Lietuvoje plitusi prekyba palaikė Vilniaus gyvybingumą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2411,13 +1782,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp
     Naugardo, Pskovo, Rygos ir Maskvos pirklių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-045
-- c-042
+    - t-045- c-042
   santrauka: 'Kęstutis užleido valdžią Algirdui, nors pats buvo pašalinęs Jaunutį ir, pasak Kojelavičiaus, turėjo daugiau teisių į valdžią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2435,13 +1804,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     priskiriami ir slapti sandėriai su kryžiuočiais, morališ­
     kai nepateisinami.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-046
-- c-043
+    - t-046- c-043
   santrauka: 'Kęstutis ir Algirdas sutarė, kad Algirdas gaus didžiojo kunigaikščio titulą, o kitą valdžią jie dalysis lygiomis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2455,13 +1822,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     nutis neturėjo sūnaus, kaip motinos paveldima žemė
     atiteko Glebavičiams.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-047
-- c-044
+    - t-047- c-044
   santrauka: 'Algirdas įsakė kariuomenei sustoti ir pasirengti kautynėms, kai priešo kunigaikščiai rengėsi stoti į mūšį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2472,13 +1837,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     Algirdas įsakė kariuomenei sustoti ir pasirengti kau­
     tynėms.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-048
-- c-045
+    - t-048- c-045
   santrauka: 'Algirdas, žmonos Julijonos prašymu sutikęs priimti krikščionybę, Vitebsko rusams pastatė porą šventovių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2492,13 +1855,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     žiauriai tuo metu atkeršydamas už krikščionių šventi­
     kų nužudymą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-049
-- c-046
+    - t-049- c-046
   santrauka: 'Algirdas išvarė Teodorą Karijotaitį iš valdų, užėmė Podolės pilis ir paskyrė Goštautą Podolės seniūnu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2536,13 +1897,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     gynėjus, ir, visą Podolę paskelbęs savo valda, paskyrė
     jos seniūnu Goštautą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-050
-- c-047
+    - t-050- c-047
   santrauka: 'Algirdas ir Aleksandras Karijotaitis nuniokojo daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė 800 belaisvių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2557,13 +1916,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     tus. Šitaip praėjo ir kiti metai, pakaitomis vieniems
     kitus puldinėjant.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-051
-- c-048
+    - t-051- c-048
   santrauka: 'Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2580,13 +1937,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     čiui, pastarasis jį sumušęs, o Podolę pavertęs savo val­
     da, paskirdamas vietininku Goštautą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-052
-- c-049
+    - t-052- c-049
   santrauka: 'Simonas Olelkaitis citatoje pristatomas kaip Slucko kunigaikštis ir Algirdo proanūkis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2609,13 +1964,11 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     sakymu jų  erzin ti, ir slėp ė šird ies g ilum o je savo tik ru s
     sumanymus, g an a tolim us jų reikalavimams.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-053
-- c-050
+    - t-053- c-050
   santrauka: 'Narbutas Algirdą vadina Smolensko kunigaikštytės Olgos sūnumi, gimusiu 1296 m., ir jo vardą aiškina kaip „Olgos meilę“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -2627,13 +1980,10 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
     stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-054
-- c-051
+    - t-054- c-051
   santrauka: 'Narbutas rašo, kad apie 1331 m. Algirdo žmona Julijona įsakė panaikinti Ragučio maldyklą ir jos vietoje įkūrė cerkvę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -2647,10 +1997,8 @@ Algirdas pristatomas kaip Lietuvos valdovas, su Kęstučiu perėmęs Vilniaus ku
     tos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­
     dyklos vietoje įkūrė cerkvę su šventiku.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-055
 

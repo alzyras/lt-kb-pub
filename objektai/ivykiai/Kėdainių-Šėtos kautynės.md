@@ -45,101 +45,36 @@ Nenurodyta
 - t-001
   global_id: t-41295
   teiginys: 'Po Kėdainių-Šėtos kautynių Naujosiose Kėdainių kapinėse buvo palaidota 40 žuvusių lietuvių karių.'
-  sudarymo_pagrindimas: 'Pridėta aiški sąsaja su note objektu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kėdainiai'
-  temporaliniai_duomenys: 'mirties data: 1919 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pridėta aiški sąsaja su note objektu.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 700718-701539; hash=509a81b268cbcd4e869f0d6940c2bc5856bb73118ca9b34b235d892d96644c45; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Kėdainiai: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: J. Mikoliūnas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kėdainiai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: J. Mikoliūnas minimas kaip karininkas Kėdainių gynyboje.
 
 <a id="claim-t-41296"></a>
 - t-002
   global_id: t-41296
   teiginys: 'Kėdainių gynyba buvo pirmasis Kėdainių įgulos savanorių kovos krikštas.'
-  susije_objektai: 'mentioned_place: Kėdainiai; mentioned_event: [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Kaimas; mentioned_place: Šilginėliai'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ae683c3687a87ff67e62f8b21902d866eb13db198ea0b34a19fbe1be4e3eb496; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kėdainiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kėdainių-Šėtos kautynės: owner_note_path, event
-  ryšio_targeto_parinkimas: Kėdainiai: mention_match, place, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kėdainių-Šėtos kautynės" parinktas kaip owner_note_path. Targetas "Kėdainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-41297"></a>
 - t-003
   global_id: t-41297
   teiginys: 'Kėdainių gynyboje J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių išskleidė abipus vieškelio Kėdainiai-Šėta ir sustabdė bolševikų puolimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/J. Mikoliūnas|J. Mikoliūnas]]; mentioned_person: [[objektai/asmenys/K. Dragunevičius|K. Dragunevičius]]; mentioned_place: Kėdainiai; mentioned_event: [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Lietuva; llm_object: Kėdainiai'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 704615-705089; hash=eb7734e822bb33a1021556381877cc61e713a4f5e681bef5318516fe05146e53; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kėdainiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kėdainių-Šėtos kautynės: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kėdainiai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kėdainių-Šėtos kautynės" parinktas kaip owner_note_path. Targetas "Kėdainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-41298"></a>
 - t-004
   global_id: t-41298
   teiginys: 'Kėdainių-Šėtos kautynėse prie Taučiūnų kaimo Lukšio padrąsinti lietuviai išsiskleidė į grandį ir atidengė atsakomąją ugnį.'
-  sudarymo_pagrindimas: 'Teiginys susietas su note objektu ir sutvarkytas kaip pilnas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaimas; mentioned_place: Taučiūnai; llm_object: [[objektai/ivykiai/Kėdainių-Šėtos kautynės|Kėdainių-Šėtos kautynės]]'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Kėdainių-Šėtos kautynės|Kėdainių-Šėtos kautynės]]'
-  temporaliniai_duomenys: 'įvykio data: 1919 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys susietas su note objektu ir sutvarkytas kaip pilnas faktas.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 705090-705456; hash=56f874602c6b68b63031a6d25eeb4288c2cffea494b80bedb99624697295c605; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Kėdainių-Šėtos kautynės: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kėdainių-Šėtos kautynės: llm_allowed_candidate, event
-  ryšio_paaiskinimas: Teiginys tiesiogiai sieja lietuvius su veiksmais Kėdainių-Šėtos kautynėse.
 
 <a id="claim-t-41299"></a>
 - t-005
   global_id: t-41299
   teiginys: 'Prieš Kėdainių-Šėtos kautynes Kėdainių gynėjų vadovybė naktį iš vasario 7 į 8 d. sužinojo, kad bolševikų pajėgos traukiasi Šėtos link.'
-  sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiau sietų faktą su kautynėmis ir pašalintų perteklinę formuluotę.'
-  susije_objektai: 'mentioned_place: Kėdainiai; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3705ed1397e8c3ad584789a12bdca293c40cb20fb8e5937df1a9dc0003c3a16e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kėdainiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kėdainių-Šėtos kautynės: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kėdainiai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kėdainių-Šėtos kautynės" parinktas kaip owner_note_path. Targetas "Kėdainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 ## Reikšmingi paminėjimai
 
@@ -165,7 +100,6 @@ Nenurodyta
     tačiau savanoriams vis pavykdavo taiklia
     šautuvų ugnimi juos sulaikyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -188,7 +122,6 @@ Nenurodyta
     judėjo bolševikų atsitraukimo kryptimi —
     Šėtos link.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -212,7 +145,6 @@ Nenurodyta
     sinti lietuviai išsiskleidė į grandį ir sugulę
     atidengė atsakomąją ugnį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -231,7 +163,6 @@ Nenurodyta
 
     1919 m. vasario 7-10 d. KEDAINIU-SETOS KAUTYNES
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -256,7 +187,6 @@ Nenurodyta
     kaime buvusios lietuvių
     sargybos įvyko smarkus
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

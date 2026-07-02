@@ -50,50 +50,24 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 - t-001
   global_id: t-05602
   teiginys: 'Stryjkovskis rašė pirmais poliublininiais dešimtmečiais.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Avižonis|K. Avižonis]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: Liublinas'
-  temporaliniai_duomenys: 'įvykio data: 1932 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
     - c-002
     - c-004
     - c-005
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=31bb7e7ddd95cd3b0b4c585a7e8002c4c87131e3e2fc1c8b5951bd79cf32411b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: poliublininis laikotarpis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "poliublininis laikotarpis" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-05603"></a>
 - t-002
   global_id: t-05603
   teiginys: 'Poliublininiame laikotarpyje iki T. Narbuto laikų atskiros Lietuvos istorijos tradicija nebebuvo tęsiama.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a1318954c96a067b56aa1e82a99603a79aa7aa9b21751753055723d771d33d05; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: poliublininis laikotarpis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=59
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "poliublininis laikotarpis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-05606"></a>
 - t-003
   global_id: t-05606
   teiginys: 'Pirmieji poliublininiai dešimtmečiai siejami su laikotarpiu po Liublino įvykių.'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti ribotą teiginį apie termino taikymą laikotarpiui po Liublino.'
-  susije_objektai: 'mentioned_place: Liublinas; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -101,8 +75,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 - t-004
   global_id: t-97286
   teiginys: 'Pirmaisiais poliublininiais dešimtmečiais rašęs Stryjkovskis perėmė Lietuvos didikų valstybingumo sąmonę.'
-  sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -110,20 +82,8 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 - t-005
   global_id: t-97287
   teiginys: 'Kojalavičius įtvirtino tradiciją poliublininiu laikotarpiu nebetęsti atskiros Lietuvos istorijos.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys apie laikotarpį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1a061b806916f6b342a9a3e26fe47da3362e771c3db452a13b5f2335e7c8f3eb; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Liublinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: poliublininis laikotarpis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Liublinas: mention_match, place, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "poliublininis laikotarpis" parinktas kaip owner_note_path. Targetas "Liublinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -141,7 +101,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     niame Lietuvos gyvenime Vazų laikais » (1940)^87 ir keletą kritiškų
     studijų istorijos žurnaluose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -161,7 +120,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     binę sąmonę, žinoma, apjungiančią ir lietuviškai nekalbančiuosius
     Didžiosios Lietuvos Kunigaikštystės gyventojus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -180,7 +138,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     (1572), iki pat T. Narbuto laikų Kojalavičius paliko tradiciją po­
     liublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -197,7 +154,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     jimų iš lietuvių ir čekų santykių XIII-XV arnž. (atspaudai iš
     Praeities t. 1-3).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -213,7 +169,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     rūpėjo « surasti lietuvius Lietuvos istorijoje »^86. Ypač jų reikėjo
     ieškoti bendroje respublikoje poliublininiais amžiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -232,7 +187,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     poliublininius laikus ir juose «ieškodamas lietuvių », jis davė eilę
     straipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

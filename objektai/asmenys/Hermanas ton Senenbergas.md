@@ -18,24 +18,8 @@ Magistro pasiųstas Hermanas ton Senenbergas su menka kariauna sulaikė užpuoli
 - t-001
   global_id: t-186210
   teiginys: 'Magistro pasiųstas Hermanas ton Senenbergas su menka kariauna sulaikė užpuolikus ir vėliau sumušė priešą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Hermaną ton Senenbergą ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kulmas; llm_object: Kulmas'
-  semantiniai_rysiai: '[[objektai/asmenys/Hermanas ton Senenbergas|Hermanas ton Senenbergas]] gynė Kulmas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 211207-211841; hash=dca0b75d44d9f0c20a53921e130793c936bd244fcd0738c6b9a6048ac6810f9e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Kulmas: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Hermanas ton Senenbergas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Hermanas buvo pasiųstas atremti užpuolikų po Kulmo krašto užpuolimo.
 
 ## Reikšmingi paminėjimai
 
@@ -57,11 +41,9 @@ Magistro pasiųstas Hermanas ton Senenbergas su menka kariauna sulaikė užpuoli
     ir smarkiau kariauti pasiprašę pagalbos iš lietuvių ir
     žemaičių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
 

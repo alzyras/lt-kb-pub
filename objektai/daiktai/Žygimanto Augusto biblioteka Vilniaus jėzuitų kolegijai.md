@@ -40,21 +40,8 @@ Nenurodyta
 - t-001
   global_id: t-87130
   teiginys: 'Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai.'
-  sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir tiksliai atitinka citatos informaciją.'
-  susije_objektai: 'llm_object: Knišinas; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Knišinas; llm_object: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]'
-  semantiniai_rysiai: '[[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai|Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]] priklausė [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 574916-575265; hash=8b853598aabc0f7e8cc0ff2a57a463cbdb324c116193c029858eddf098d54fd7; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Knišinas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Knišinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Žygimanto Augusto mirties vietą Knišine.
 
 ## Reikšmingi paminėjimai
 
@@ -70,7 +57,6 @@ Nenurodyta
     turtingą savo biblioteką, tėvo pradėtą, jo paties irgi kauptą,
     atidavė Vilniaus jėzuitų kolegijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

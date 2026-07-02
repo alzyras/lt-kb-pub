@@ -37,21 +37,8 @@ Nenurodyta
 - t-001
   global_id: t-62349
   teiginys: 'Per javapjūtę prūsai prie Fogelzango užpuolė Kulmenzės miestiečius, išžudė vyrus, o moteris ir vaikus išsivarė į nelaisvę.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas; citata palaiko aiškų įvykio apibendrinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Kulmenzė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 451854-452415; hash=cefad3f458c3b59c31e24e0eb0fe1e6aef2a970311c2fd8e06af0145357099fb; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmenzė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kulmenzės javapjūtės žudynės: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kulmenzė: mention_match, place, gap=41
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmenzės javapjūtės žudynės" parinktas kaip owner_note_path. Targetas "Kulmenzė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -68,7 +55,6 @@ Nenurodyta
     manydami, kad svetima kariuomenė bus pasitraukusi. Šitai pastebėję, prūsai smarkiai
     ir baisiai juos užpuolė, išžudė vyrus, o moteris bei vaikus išsivarė į amžiną nelaisvę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

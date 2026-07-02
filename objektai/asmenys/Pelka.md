@@ -27,24 +27,8 @@ periodo_grupes: []
 - t-001
   global_id: t-87821
   teiginys: 'Gniezno arkivyskupas Pelka 1253 m. įšventino Petrą ir pirmąjį Lietuvos vyskupą Vitą vyskupais.'
-  sudarymo_pagrindimas: 'Citata aiškiai nurodo Pelkos atliktą įšventinimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vitas|Vitas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Gniezno; mentioned_place: Poznanė; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Vitas|Vitas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Pelka|Pelka]] paskyrė [[objektai/asmenys/Vitas|Vitas]]'
-  temporaliniai_duomenys: 'įvykio data: 1253 m.; įvykio data: 1822 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata aiškiai nurodo Pelkos atliktą įšventinimą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b165420dd50e9f13fc9e983aa17d496bb9e8c6fe6b65b4a55a2f178d6a42d0cf; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: paskyre -> Vitas: 0.82
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pelka: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vitas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Pelka tiesiogiai įšventino Vitą vyskupu; artimiausias leistinas santykis yra paskyrimas.
 - susijęs iš [[objektai/asmenys/Petras (Poznanės vyskupas).md#claim-t-87823|Petras (Poznanės vyskupas)]]: 1253 m. Petras, išrinktas Poznanės vyskupu, Gniezno arkivyskupo Pelkos buvo įšventintas vyskupu.
 - susijęs iš [[objektai/asmenys/Vitas.md#claim-t-87602|Vitas]]: 1253 m. dominikonas Vitas Gniezno arkivyskupo Pelkos buvo įšventintas pirmuoju Lietuvos vyskupu.
 - susijęs iš [[objektai/autoriai/Godzislavas Baško.md#claim-t-88090|Godzislavas Baško]]: Godzislavo Baško parašyta „Kronika Lechitów i Polaków“ mini, kad Vitas buvo pirmasis Lietuvos vyskupas.
@@ -73,7 +57,6 @@ periodo_grupes: []
     tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­
     kupais. (Žr. 1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

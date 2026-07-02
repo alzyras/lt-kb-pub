@@ -27,27 +27,8 @@ Magistras paskyrė Prūsijos maršalą Zigfridą fon Dahenfeldą kariuomenės va
 - t-001
   global_id: t-186269
   teiginys: 'Magistras paskyrė Prūsijos maršalą Zigfridą fon Dahenfeldą kariuomenės vadu ir įsakė žygiuoti į Lietuvą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija; mentioned_place: Viena; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Zigfridas fon Dahenfeldas|Zigfridas fon Dahenfeldas]] surengė žygį į Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1356 m.; įvykio data: 1360 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 420058-421029; hash=ba66981703cd9983472791b5d86326d41a501e7652c7d2008118c305e20adf9e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Zigfridas fon Dahenfeldas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Zigfridas buvo paskirtas kariuomenės vadu, o žygio kryptis tiesiogiai nurodyta į Lietuvą.
 
 ## Reikšmingi paminėjimai
 
@@ -93,7 +74,6 @@ Magistras paskyrė Prūsijos maršalą Zigfridą fon Dahenfeldą kariuomenės va
     vo priversti daugybės įvairiausių tautų įniršį išlieti,
     niokodami kaimus, kiemus ir žudydami žemdirbius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

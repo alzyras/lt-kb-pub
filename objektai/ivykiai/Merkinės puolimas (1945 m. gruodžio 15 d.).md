@@ -45,8 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-66775
   teiginys: 'Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė telkti partizanus Merkinės puolimui.'
-  sudarymo_pagrindimas: 'Sakinys sukonkretintas ir sutrumpintas pagal citatą.'
-  susije_objektai: 'mentioned_place: Merkinė; mentioned_person: [[objektai/asmenys/Adolfas Ramanauskas-Vanagas|Adolfas Ramanauskas-Vanagas]]; mentioned_place: Dainava; mentioned_place: Dzūkija'
   pagrindžia:
     - c-002
 
@@ -54,8 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-66776
   teiginys: 'Per Merkinės puolimą partizanai užėmė NKVD būstinę, paštą, valsčiaus ir milicijos įstaigas.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie puolimo rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Merkinė; mentioned_place: Alytus; mentioned_place: Druskininkai; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
 
@@ -63,8 +59,6 @@ Nenurodyta
 - t-003
   global_id: t-66777
   teiginys: 'Druskininkų bataliono grupei nenutraukus ryšio linijų tarp Merkinės ir Druskininkų, sovietai susisiekė su Alytumi ir išsikvietė pagalbą.'
-  sudarymo_pagrindimas: 'Pašalintas silpnas įvadas „Paaiškėjo“ ir sakinys padarytas enciklopedinis.'
-  susije_objektai: 'mentioned_place: Alytus; mentioned_place: Merkinė; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Druskininkai; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
 
@@ -72,11 +66,6 @@ Nenurodyta
 - t-004
   global_id: t-66779
   teiginys: '1945 m. gruodžio 15 d. 11 val. A. Ramanauskas-Vanagas iššovė baltą raketą ir paskelbė atakos pradžią.'
-  sudarymo_pagrindimas: 'Teiginys turi aiškų veikėją, veiksmą ir datą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Alytus; mentioned_place: Merkinė'
-  temporaliniai_duomenys: 'įvykio data: 1945 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys turi aiškų veikėją, veiksmą ir datą.'
   pagrindžia:
     - c-004
 
@@ -84,68 +73,22 @@ Nenurodyta
 - t-005
   global_id: t-66780
   teiginys: 'Prieš Merkinės puolimą 1945 m. gruodžio 5 d. prie Mardasavo NKVD dalinio užklupti žuvo keturi Marcinkonių bataliono partizanai.'
-  sudarymo_pagrindimas: 'Reikia glaudesnio sakinio, pašalinant perteklinį vardų sąrašą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Mardasavas; mentioned_place: Merkinė; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
-  temporaliniai_duomenys: 'įvykio data: 1945 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia glaudesnio sakinio, pašalinant perteklinį vardų sąrašą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=339940a0d01912a6c7353ac9ecfbad244d493f44303a62e61ac0fe7c14b2c2f0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mardasavas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Merkinės puolimas (1945 m. gruodžio 15 d.): owner_note_path, event
-  ryšio_targeto_parinkimas: Mardasavas: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkinės puolimas (1945 m. gruodžio 15 d.)" parinktas kaip owner_note_path. Targetas "Mardasavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-66781"></a>
 - t-006
   global_id: t-66781
   teiginys: '1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas Lionginas Švalkus-Šernas ir trys jo kovos draugai.'
-  susije_objektai: 'mentioned_place: Mardasavas; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
-  temporaliniai_duomenys: 'įvykio data: 1945 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 942629-943129; hash=3e0ce1ac25281cb924e63f8a844e6f78e85d1c22af0da78b5419f0bb81b94beb; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Merkinė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Merkinės puolimas (1945 m. gruodžio 15 d.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Merkinė: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkinės puolimas (1945 m. gruodžio 15 d.)" parinktas kaip owner_note_path. Targetas "Merkinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183675"></a>
 - t-007
   global_id: t-183675
   teiginys: '1945 m. gruodžio 15 d. 11 val. Adolfas Ramanauskas-Vanagas balta raketa paskelbė Merkinės puolimo pradžią.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis tekstas buvo tik datos fragmentas, o citata leidžia suformuoti faktinį sakinį.'
-  susije_objektai: 'mentioned_place: Merkinė; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_person: [[objektai/asmenys/Adolfas Ramanauskas-Vanagas|Adolfas Ramanauskas-Vanagas]]; mentioned_place: Alytus'
-  temporaliniai_duomenys: 'įvykio data: 1945 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis tekstas buvo tik datos fragmentas, o citata leidžia suformuoti faktinį sakinį.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 947008-947341; hash=a77ce66a8314347c5cb3aaac1d11c9471839eda5f99ef9db9236980500f011dd; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Alytus: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Merkinės puolimas (1945 m. gruodžio 15 d.): owner_note_path, event
-  ryšio_targeto_parinkimas: Alytus: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkinės puolimas (1945 m. gruodžio 15 d.)" parinktas kaip owner_note_path. Targetas "Alytus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
 - susijęs iš Merkinė: Po 1945 m. gruodžio 15 d. Merkinės puolimo jame dalyvavę partizanų būriai pamažu atsitraukė iš Merkinės.
 - susijęs iš Merkinė: 1945 m. Merkinės puolimas buvo pasiūlytas kaip keršto priešui veiksmas.
@@ -172,7 +115,6 @@ Nenurodyta
     rinktinės vadui Adolfui Ramanauskui-
     Vanagui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -203,7 +145,6 @@ Nenurodyta
     Būsimasis Dzūkijos partizanų vadas gimė mažažemių
     dzūkų ūkininkų šeimoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -229,7 +170,6 @@ Nenurodyta
     todėl sovietai per Druskininkus susi-
     siekė su Alytumi ir išsikvietė pagalbą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -255,7 +195,6 @@ Nenurodyta
     taip pat vietinis Alytaus NKVD garnizo-
     nas, atvykęs į pagalbą užpultiesiems.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

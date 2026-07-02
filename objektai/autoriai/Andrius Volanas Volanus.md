@@ -31,42 +31,15 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 - t-001
   global_id: t-88051
   teiginys: '1576 m. Vilniuje Mikalojaus Radvilos spaustuvėje išspausdinta Andriaus Volano knyga „Contra Skargae missam“.'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra OCR fragmentas; citata leidžia suformuluoti pilną faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1576 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra OCR fragmentas; citata leidžia suformuluoti pilną faktinį sakinį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 570399-570862; hash=0235099353232e61e6b8df1753e3b1a1cb53f36c381d931da3266300ecb01121; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Andrius Volanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andrius Volanas Volanus: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Andrius Volanas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Volanas Volanus" parinktas kaip owner_note_path. Targetas "Andrius Volanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-88052"></a>
 - t-002
   global_id: t-88052
   teiginys: 'Andrius Volanas Vilniuje buvo reformatų idėjų skleidėjas ir garsėjo mokslu bei rašytojo talentu.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir pagrįstas citatoje pateiktu Volano apibūdinimu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Andrius Volanas|Andrius Volanas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 592947-593212; hash=807e6459d22c261c55764fbea7d5045dd1c23c132da8ff4338f9c3a38d6f1409; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Radvilos: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andrius Volanas Volanus: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Radvilos: mention_match, group, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Volanas Volanus" parinktas kaip owner_note_path. Targetas "Radvilos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -79,7 +52,6 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
     pai nenumeruoti. Atrodo, tai pirmoji Anton. Possevinum, p. 144. Volanus
     knyga, atspausdinta šioje spaustu- contra Skargae missam. Lib. Il, pag. 96.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -99,7 +71,6 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
     gos; mat jis, vengdamas painiotis į šiuos ginčus, į juos žvel­
     gė beveik abejingai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

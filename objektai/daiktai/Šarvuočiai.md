@@ -47,23 +47,8 @@ Nenurodyta
 - t-001
   global_id: t-26415
   teiginys: '1926 m. gruodžio 17 d. perversmo metu šarvuočiai buvo prie Vyriausiojo štabo.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie šarvuočių buvimo vietą perversmo metu.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas|1926 m. gruodžio 17 d. perversmas]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_place: Estija; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1924 m.; įvykio data: 1926 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie šarvuočių buvimo vietą perversmo metu.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=27a8aca5dc9f968845247c94dcb651fc36c8089be7559dee063f67259be3d61d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> 1926 m. gruodžio 17 d. perversmas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šarvuočiai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: 1926 m. gruodžio 17 d. perversmas: mention_match, event, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šarvuočiai" parinktas kaip owner_note_path. Targetas "1926 m. gruodžio 17 d. perversmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/Sovietų tankai ir šarvuočiai.md#claim-t-13461|Sovietų tankai ir šarvuočiai]]: Naktį iš 1991 m. sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šarvuočiai.
 - susijęs iš [[objektai/daiktai/Sovietų tankai ir šarvuočiai.md#claim-t-13462|Sovietų tankai ir šarvuočiai]]: Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą.
 - susijęs iš [[objektai/daiktai/Sovietų tankai ir šarvuočiai.md#claim-t-13463|Sovietų tankai ir šarvuočiai]]: Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą ir Lietuvos radijo bei televizijos komiteto pastatą.
@@ -117,7 +102,6 @@ Nenurodyta
     laikus“, prilygintus netvarkai ir
     anarchijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

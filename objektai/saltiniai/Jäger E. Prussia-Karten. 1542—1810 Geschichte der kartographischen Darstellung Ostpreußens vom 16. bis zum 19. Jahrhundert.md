@@ -29,15 +29,8 @@ Dusburgietis teigia, kad jäger E.
 - t-001
   global_id: t-61090
   teiginys: 'E. Jägerio „Prussia-Karten. 1542—1810“ 1982 m. išleido A. H. Konrad Verlag.'
-  sudarymo_pagrindimas: 'Citata pagrindžia autoriaus, pavadinimo, leidyklos ir metų faktą.'
-  temporaliniai_duomenys: 'įvykio data: 1982 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autoriaus, pavadinimo, leidyklos ir metų faktą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 775943-776094; hash=5a4581fbecf200ce861893a10d8eea2d6f5e5f64f7c3b271f01198f1c828ba4b; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -48,7 +41,6 @@ Dusburgietis teigia, kad jäger E.
     Jäger E. Prussia-Karten. 1542—1810: Geschichte der kartographischen Darstellung
     Ostpreußens vom 16. bis zum 19. Jahrhundert —A. H. Konrad Verlag, 1982.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

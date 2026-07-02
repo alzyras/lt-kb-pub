@@ -18,15 +18,8 @@ Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą nete
 - t-001
   global_id: t-186079
   teiginys: 'Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą neteršti dvylika metų gintos pilies šlovės.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pagrindžia faktą, bet pradinį sakinį reikėjo sutrumpinti ir sutvarkyti.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1111371-1111863; hash=9b4fa83a5d5e27c3b40f18971a8be853e770806ded6208bce378422add21bf8a; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/grupes/Maskvėnai.md#claim-t-184570|Maskvėnai]]: Maskvėnai ryžtingai puolė Smolenską ir, sudaužę sienas, galėjo be vargo įeiti į miestą.
 - susijęs iš [[objektai/ivykiai/Pirmoji Smolensko apgultis ir maskvėnų atsitraukimas.md#claim-t-185638|Pirmoji Smolensko apgultis ir maskvėnų atsitraukimas]]: Maskvėnai ryžtingai puolė Smolenską ir, sudaužę sienas, galėjo įeiti į miestą, bet pilies neužėmė.
 - susijęs iš [[objektai/ivykiai/Trečioji Smolensko apgultis ir nesėkmingas Dimitrijaus bandymas.md#claim-t-185651|Trečioji Smolensko apgultis ir nesėkmingas Dimitrijaus bandymas]]: Po trečio nesėkmingo bandymo užimti Smolenską Dimitrijus nuniokojo miesto apylinkės kaimus.
@@ -47,7 +40,6 @@ Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą nete
     galbą atskubėsiąs karalius, kuris šiuo metu jau prie
     Minsko: šitai ne gandai, bet tikros žinios.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

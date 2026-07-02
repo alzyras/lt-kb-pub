@@ -33,96 +33,36 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
 - t-001
   global_id: t-87976
   teiginys: 'Lindenblattas išsaugojo smulkias Vilniaus apgulties aplinkybes, nežinomas lietuvių metraštininkams.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie Lindenblatto išsaugotas detales.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Lindenblattas|Lindenblattas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 58044-58350; hash=cde015bd7f2074d310c343864dd171deb63b0bb8884b897a093f4608f631818a; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lindenblattas Johannes Lindenblatt: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lindenblattas Johannes Lindenblatt" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87977"></a>
 - t-002
   global_id: t-87977
   teiginys: 'Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas, teiginys suformuluotas kaip aiškus faktas apie autorių.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Lindenblattas|Lindenblattas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 278321-278498; hash=366044612d4fd50ea94f5e91e0f4b745fa7224a0b232c2b3b1723c689edff036; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lindenblattas Johannes Lindenblatt: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Augustinas: mention_match, person, gap=59
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lindenblattas Johannes Lindenblatt" parinktas kaip owner_note_path. Targetas "Augustinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87978"></a>
 - t-003
   global_id: t-87978
   teiginys: 'Lindenblatto kronikos leidėjai Visevaldės pilį vadino Vižemais, tačiau toks tapatinimas kėlė abejonių.'
-  sudarymo_pagrindimas: 'Reikia pašalinti puslapio numerio triukšmą ir įtraukti citatoje esančią abejonę.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Lindenblattas|Lindenblattas]]'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a169140e290a87867ec198d9ff103bf793218b93ca548b0e786f713756fcca02; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lindenblattas Johannes Lindenblatt: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=103
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lindenblattas Johannes Lindenblatt" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87979"></a>
 - t-004
   global_id: t-87979
   teiginys: 'Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno.'
-  sudarymo_pagrindimas: 'Citata leidžia teigti, kaip kronikoje aiškinamas vietovardis.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Lindenblattas|Lindenblattas]]; mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kaimas; mentioned_place: Trakai'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 292447-292571; hash=e7c783b5d856c7b80b32351a0dd40199eb2411d949092c483a6ffa77bcbe8f9b; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lindenblattas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lindenblattas Johannes Lindenblatt: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lindenblattas: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lindenblattas Johannes Lindenblatt" parinktas kaip owner_note_path. Targetas "Lindenblattas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87980"></a>
 - t-005
   global_id: t-87980
   teiginys: 'Vygandas ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria.'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį; citata leidžia aiškiai įvardyti Viliją.'
-  susije_objektai: 'mentioned_place: Vilija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d1f52fd685c3d1510ab5b1d895779a95f9697613e3fa46de6fa559fd7f645487; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lindenblattas Johannes Lindenblatt: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lindenblattas Johannes Lindenblatt" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -137,7 +77,6 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
     yra, rugpjūčio 28-ą, o priartėta prie
     Vilniaus buvo rugsėjo 4-ą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -172,7 +111,6 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
     no) p. 82, dėl to pavadinimo galima
     būtų nedvejoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -192,7 +130,6 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
     krikščionių tikėjimo Vilniuje priėmi­
     mo, Vilija taip buvo vadinama.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -208,7 +145,6 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
     id. ibid., p. 82 ir 76, tačiau tai kelia
     abejonių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -231,7 +167,6 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
     Visos tos smulkios aplinkybės mū- p. 98-99, lietuvių istorijai nusipel-
     sų metraštininkams nėra žinomos; niusio autoriaus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

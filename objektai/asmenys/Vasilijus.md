@@ -18,12 +18,6 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
 - t-001
   global_id: t-185977
   teiginys: 'Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę prie Smolensko ir pabėgo į Maskvą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos įvykį.'
-  susije_objektai: 'llm_object: Maskva; mentioned_place: Maskva; mentioned_place: Smolenskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vasilijus|Vasilijus]] keliavo į Maskva'
   pagrindžia:
     - c-001
 
@@ -31,46 +25,15 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
 - t-002
   global_id: t-185978
   teiginys: 'Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Vasilijaus reikalavimą derybose.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_place: Lietuva; mentioned_place: Trakai; llm_object: Maskva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vasilijus|Vasilijus]] siuntė į Maskva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1124983-1125445; hash=da98b5fe7895e9e276a9509b2d58aea6a182330d93df53d3c94ea295447df06a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Maskva: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vasilijus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Vasilijus pabėgo į Maskvą.
 
 <a id="claim-t-185979"></a>
 - t-003
   global_id: t-185979
   teiginys: 'Šešerių metų paliaubomis Vasilijus pasiliko Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie paliaubų sąlygas.'
-  susije_objektai: 'mentioned_place: Smolenskas; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_place: Maskva'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1153862-1154349; hash=af68fb120b22c76d5010abc1f6c7cff9f7af969780cfca77e81087f28b489c7e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Maskva: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vasilijus: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Vasilijus reikalavo, kad karaliaus pasiuntiniai būtų nukreipti į Maskvą.
 - susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186047|Jonas Gornostajus]]: Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.
 - susijęs iš [[objektai/asmenys/Ovčina.md#claim-t-186154|Ovčina]]: Pasak Kojelavičiaus, Ovčina ėjo tokias pat pareigas kaip Glinskis ir gyveno su Vasilijaus našle.
 - susijęs iš [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis).md#claim-t-185992|Vasilijus (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai Marienburge surengtos palydėtuvės.
@@ -117,7 +80,6 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
     pergalės be vargo buvo galima atsiimti ir tai, ką prie­
     šas užgrobė neseniai per išdavystę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -142,7 +104,6 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
     kai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos pa-
     iždininkiui, ir Jonui Gornostajui, raštininkui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -170,7 +131,6 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
     kirsiančios nepaprastus tei­
     sėjus, kurie ir teis kaimynystėje gyvenančius žmones.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

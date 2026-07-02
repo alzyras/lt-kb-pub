@@ -31,9 +31,6 @@ amziai:
 - t-001
   global_id: t-182878
   teiginys: 'Vytautas į Čekiją su 5000-7000 vyrų nusiuntė Zigmantą Kaributaitį, ten vadintą Kaributu.'
-  sudarymo_pagrindimas: 'Sakinys pataisytas pašalinant įvardį ir OCR jungimo klaidą.'
-  susije_objektai: 'llm_object: Čekija; mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] siuntė į Čekija'
   pagrindžia:
     - c-001
 
@@ -41,12 +38,6 @@ amziai:
 - t-002
   global_id: t-184326
   teiginys: 'Vytautas Didysis į Čekiją su kariuomene nusiuntė Zigmantą Kaributą padėti husitams kovoti su imperatoriumi Zigmantu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pagrindžia faktą, o teiginys sutvarkytas ir išvalytas nuo OCR triukšmo.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Husitai|Husitai]]; llm_object: Čekija; mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Breslavas'
-  semantiniai_rysiai: '[[objektai/asmenys/Kaributas|Kaributas]] keliavo į Čekija'
   pagrindžia:
     - c-002
 
@@ -54,14 +45,6 @@ amziai:
 - t-003
   global_id: t-184408
   teiginys: 'Vytautas galėjo įsikišti į husitų reikalus Čekijoje, kurią Zigmantas siekė paveldėti po Vaclovo mirties 1419 m.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pataisytas, paliekant tik citatos remiamus faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1419 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir pataisytas, paliekant tik citatos remiamus faktus.'
   pagrindžia:
     - c-003
 
@@ -69,10 +52,6 @@ amziai:
 - t-004
   global_id: t-185214
   teiginys: 'Mirus bevaikiam Čekijos karaliui Vladislovui, Kazimieras manė galėsiąs giminystės teisėmis paimti Čekiją sau arba sūnui.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Iš citatos pašalintas OCR triukšmas ir aiškiai įvardyti asmenys bei objektas.'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.).md#claim-t-35843|Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]: Lietuvių santykiai su husitais baigėsi, kai Kaributas po derybų su popiežiumi buvo išvytas iš Čekijos.
@@ -285,7 +264,6 @@ amziai:
     _«_ Kaributu ». Šis veikė vardu « kviestojo Čekijos karaliaus Vytau­
     to » (« postulati regis Bohemiae Vitoldi »)^17.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -305,7 +283,6 @@ amziai:
     rėmė agresingus jo žygius prieš Vytautą; pats gi kovojo su če­
     kais, kaip kandidatas į Čekijos sostą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -323,7 +300,6 @@ amziai:
     Jogailai atsisakius priimti jam husitų siūlomą Čekijos karūną,
     veiklusis pusbrolis čekams parodė žymiai daugiau palankumo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -341,7 +317,6 @@ amziai:
     m anė, jog g im in y stės teisėmis galėsiąs tą karalystę pa­
     imti sau arb a k u riam  savo sūnui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

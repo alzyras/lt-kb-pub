@@ -29,16 +29,6 @@ Jonas Lenartaitis Kęsgaila savo antspaudą prispaudė prie 1490 m. sutarties, k
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 726347-726737; hash=a664cc626b795da085b5d0767685085ea4c7800ac6c7c8180f7c9e11825b0d15; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Jonas Lenartaitis Kęsgaila: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Antspaudas: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Jonas Lenartaitis Kęsgaila: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Antspaudo prispaudimas prie sutarties rodo jo priklausymą Jonui Lenartaičiui Kęsgailai.
 - susijęs iš Trakų pavietas arba vaivadija: Jonas Lenartaitis Kęsgaila prispaudė antspaudą prie 1490 m. sutarties, kurią sudarė Trakų pavieto, arba vaivadijos, bajorai.
 ## Reikšmingi paminėjimai
 - c-001
@@ -53,10 +43,8 @@ Jonas Lenartaitis Kęsgaila savo antspaudą prispaudė prie 1490 m. sutarties, k
     Trakų pavieto, arba vaivadijos, bajorai. Gal tai fetišas Regie-
     ziowan, kurį Lasickis priskiria Kęsgailų giminei.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

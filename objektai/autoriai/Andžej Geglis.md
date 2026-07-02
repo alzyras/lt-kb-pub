@@ -36,7 +36,6 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
 - t-002
   global_id: t-71496
   teiginys: 'Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Kalašnikovo sistemos automatiniai šautuvai“ bendraautoris.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_object: [[objektai/zodynas/Lietuvos atsikūrimas|Lietuvos atsikūrimas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 
@@ -46,16 +45,6 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   teiginys: 'Andžej Geglis buvo teksto „Pakeitimai karyboje XIX a. viduryje“ autorius.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4008d1ee828e880df1564bbc1122ed9625814f556cfe339b67a133d7809a8aa8; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Karolis Zikaras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andžej Geglis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Karolis Zikaras: mention_match, author, gap=23
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andžej Geglis" parinktas kaip owner_note_path. Targetas "Karolis Zikaras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-71498"></a>
 - t-004
@@ -63,20 +52,13 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   teiginys: 'Andžej Geglis buvo teksto „Šautuvų raida XX a. pradžioje“ autorius.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1137939-1138011; hash=d262cac2cb367cd0bd209c07a6084968553c8836ba855ad691a19b4aedb4737a; match=word_normalized
-  sprendimo_priezastis: auto
 
 <a id="claim-t-71499"></a>
 - t-005
   global_id: t-71499
   teiginys: 'Andžej Geglis buvo teksto „XX a. pradžios pėstininkų taktika“ autorius ir dailininkas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Nepriklausomybės kovos|Nepriklausomybės kovos]]'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8bb32a457c9e6556a5cb83de071e80963be7924da54c1abd6aa2f0b5cdf9e0fb; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 <a id="claim-t-71501"></a>
 - t-006
@@ -84,16 +66,6 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   teiginys: 'Andžej Geglis buvo teksto „XVIII a. linijinė taktika“ autorius ir dailininkas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1138429-1138532; hash=3df86d8cc19b73ab1c9188d0d8f581f5383f8342da47e65eb51fe071cf002fa0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nepriklausomybės kovos: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Andžej Geglis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Nepriklausomybės kovos: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andžej Geglis" parinktas kaip owner_note_path. Targetas "Nepriklausomybės kovos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-71502"></a>
 - t-007
@@ -101,9 +73,6 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   teiginys: 'Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Pusiau automatiniai šautuvai“ bendraautoris.'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1140248-1140303; hash=efa6b178dda5f2dfe540625aaa9dd080c8b41830345d0ccffdc254ee9679b301; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš HUSARŲ TAKTIKA: „Husarų taktika“ iliustracijos autoriumi nurodytas dailininkas Andžej Geglis.
 - susijęs iš ISPANIŠKOS TERCIJOS IR ŠVEDŲ TAKTIKA: „Ispaniškos tercijos ir švedų taktika“ iliustracijos autoriumi nurodytas dailininkas Andžej Geglis.
 - susijęs iš LIETUVOS KARIUOMENĖ XVI A: Informacinį bloką „Lietuvos kariuomenė XVI a.“ parengė Lina Vidauskytė, Andžej Geglis ir Karolis Zikaras.
@@ -124,7 +93,6 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   citata_originali: |
     p- 139, „XVIII A. LINIJINĖ TAKTIKA“, Andžej Geglis, dail. Andžej Geglis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -136,7 +104,6 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     P. 157, „PAKEITIMAI KARYBOJE XIX A. PRADŽIOJE“, Andžej Geglis, dail. Andžej Geglis.
     p. 163, „PAKEITIMAI KARYBOJE XIX A. VIDURYJE“, Andžej Geglis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -149,7 +116,6 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
     P. 172, „XX A. PRADŽIOS PĖSTININKŲ TAKTIKA“, Andžej Geglis,
     dail. Andžej Geglis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -160,7 +126,6 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   citata_originali: |
     P. 179, „ŠAUTUVŲ RAIDA XX A. PRADŽIOJE“, Andžej Gėglis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -174,7 +139,6 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
 
     p. 232, „KULKOSVAIDŽIAI“, Andžej Geglis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -191,7 +155,6 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
 
     P. 259, „MEDŽIOKLINIAI AT GYNĖJŲ ŠAUTUVAI“, Karolis Zikaras.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

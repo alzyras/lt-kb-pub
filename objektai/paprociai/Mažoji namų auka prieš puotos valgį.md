@@ -36,9 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 542613-542918; hash=72378ef1767ce017927b74b6b8378c96831501a2b6a9e4cf9d0a312d8cc1e279; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -52,9 +49,7 @@ Nenurodyta
     kus prie stalo, aukos atnašautojas atsistodavo pirmojoje vie­
     toje, tai yra per stalo vidurį, priešais lauko durų slenkstį.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

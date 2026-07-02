@@ -43,24 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-62300
   teiginys: '1315 m. spalio 12 d. Karolis su 6000 vyrų naktį puolė Junigedos papilį, paėmė 78 žmones į nelaisvę ir sudegino papilį iki pamatų.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys aiškiai įvardija veikėją, veiksmą, datą ir rezultatą.'
-  susije_objektai: 'llm_object: Junigeda; mentioned_place: Junigeda; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Kristmemelis'
-  temporaliniai_duomenys: 'įvykio data: 1315 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai įvardija veikėją, veiksmą, datą ir rezultatą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=920db58fb0831e33d3bcb86a87c835b627b52981a1d1958d0ab0d6003c1595b0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Junigeda: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Karolis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Junigeda: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Karolis tiesiogiai įvardytas kaip nuplaukęs prie Junigedos ir įsiveržęs į jos papilį.
 
 ## Reikšmingi paminėjimai
 
@@ -77,7 +61,6 @@ Nenurodyta
     papilį, nukovė daug žmonių, 78 paėmė  į nelaisvę, o jį sudegino ligi pamatų. Po to jie
     nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

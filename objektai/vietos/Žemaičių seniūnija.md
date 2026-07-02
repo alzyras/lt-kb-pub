@@ -29,21 +29,8 @@ Nuo XIII amž. pabaigos ordino kronikininkai jau laikė Nevėžį Žemaičių ir
 - t-001
   global_id: t-32741
   teiginys: 'Nevėžis ilgą laiką buvo administracinė riba tarp Trakų vaivadijos ir Žemaičių seniūnijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Nevėžis; mentioned_place: Trakai; llm_object: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1420 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9f5666883326b2bb22e34aa4471c9b6f1f4f8fefca7467d357aacd5c1c179db7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuva: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad aptariami Žemaičiai buvo Lietuvos dalis.
 
 ## Reikšmingi paminėjimai
 
@@ -61,7 +48,6 @@ Nuo XIII amž. pabaigos ordino kronikininkai jau laikė Nevėžį Žemaičių ir
     dėties — jau Mindaugo laikais politiškai rodė savarankiškumo,
     tačiau ir XIII amž. buvo Lietuvos dalis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

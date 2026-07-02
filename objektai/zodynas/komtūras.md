@@ -33,8 +33,6 @@ amziai:
 - t-001
   global_id: t-182848
   teiginys: 'Vytauto krikštatėvis buvo Ragainės komtūras, turėjęs tokį pat Vigando vardą.'
-  sudarymo_pagrindimas: 'Pradinis sakinys buvo fragmentiškas, citata leidžia aiškiai įvardyti komtūrą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Ragainė; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 
@@ -42,14 +40,6 @@ amziai:
 - t-002
   global_id: t-183715
   teiginys: '1348 m. didysis komtūras Vinrichas iš Kniprodės dalyvavo Strėvos mūšyje ir narsiai kovėsi.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie komtūrą ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zygfridas iš Da[he]nfeldo|Zygfridas iš Da[he]nfeldo]]; mentioned_place: Strėva; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]'
-  temporaliniai_duomenys: 'įvykio data: 1348 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie komtūrą ir paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -57,11 +47,6 @@ amziai:
 - t-003
   global_id: t-183834
   teiginys: 'Ordino maršalas Gotfridas Lindenas su komtūrais sudegino Semeliškes Trakų paviete ir veržėsi iki Vilniaus tvirtovių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą žygį.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gotfridas Lindenas|Gotfridas Lindenas]]; mentioned_place: Baiga; mentioned_place: Prancūzija; mentioned_place: Prūsija; llm_object: Vilnius'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Ditrichas iš Altenburgo.md#claim-t-59949|Ditrichas iš Altenburgo]]: Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje.
@@ -295,7 +280,6 @@ amziai:
     buvo duotas Vigando vardas. Tuo pat vardu buvo ir jo krikš­
     tatėvis, Ragainės komtūras.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -309,7 +293,6 @@ amziai:
     „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
     Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -330,7 +313,6 @@ amziai:
     plėšti aplinkinių žemių23. Vis dėlto Algirdo valdymo pa­
     baigoje Vilnius neišvengė seniai jam grėsusio pavojaus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

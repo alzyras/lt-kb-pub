@@ -44,9 +44,6 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1d20cabef89448d495412bc01378938ebc924add788d5befaa5af2115ea2036b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 <a id="claim-t-67172"></a>
 - t-002
   global_id: t-67172
@@ -55,9 +52,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=52cce45281a4dcd1e72c79e715d852d1c89f949892b9fe8b1ce33b0f8cf6469b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -70,13 +64,10 @@ Nenurodyta
     buvo mokoma gamtos mokslų, matematikos ir medicinos. Tuo būdu
     V. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-002
+    - t-002- c-002
   santrauka: 'Vyriausiojoje Lietuvos Mokykloje dauguma dalykų tebebuvo dėstoma lotyniškai, o kai kurie dalykai - lenkiškai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -87,9 +78,7 @@ Nenurodyta
     kai — lenkiškai (galutinai lenkų kalba čia buvo įvesta tik 1816 m.,
     t. y. jau universiteto laikais).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

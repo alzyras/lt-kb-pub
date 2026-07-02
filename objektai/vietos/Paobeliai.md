@@ -21,20 +21,8 @@ tags:
 - t-001
   global_id: t-42015
   teiginys: 'J. Šarauskas į Paobelių kaimą pasiuntė V. Vainauską, P. Lukšį ir 8 kareivius apeiti bolševikų iš užnugario.'
-  susije_objektai: 'llm_object: Paobeliai; mentioned_place: Kaimas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/J. Šarauskas|J. Šarauskas]]; mentioned_place: Eiguliai; mentioned_place: Kėdainiai'
-  semantiniai_rysiai: '[[objektai/asmenys/J. Šarauskas|J. Šarauskas]] siuntė į Paobeliai'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=877946707bf3bf5c77c6c6c863f4674ee156b6b04e18c7425854b3511fa3bf79; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Paobeliai: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: J. Šarauskas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Paobeliai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad J. Šarauskas pasiuntė karius į Paobelių kaimą.
 - susijęs iš [[objektai/asmenys/J. Šarauskas.md#claim-t-40172|J. Šarauskas]]: J. Šarauskas į Paobelių kaimą pasiuntė V. Vainauską, P. Lukšį ir 8 kareivius prieš bolševikų apėjimą.
 - susijęs iš Eiguliai: Lietuvių kariai granatomis ir šūviais privertė bolševikus iš Eigulių kaimo skubiai trauktis į Juodikio mišką.
 - susijęs iš [[objektai/asmenys/Povilas Lukšys.md#claim-t-49485|Povilas Lukšys]]: Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių kaimo.
@@ -66,7 +54,6 @@ tags:
     būdu buvo sužlugdytas pavojingas priešo
     sumanymas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

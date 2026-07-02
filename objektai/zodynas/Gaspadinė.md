@@ -27,7 +27,6 @@ Vartojamos formos: `gaspadinę`, `viešne`, `viešnė`.
 - t-001
   global_id: t-70005
   teiginys: '`Gaspadinė` šiame tekste reiškia vestuvių šeimininkę ar vaišių tvarkytoją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/Vąšas.md#claim-t-08353|Vąšas]]: Prie vąšo rišdavo druskos gabalą, kurį gaspadinė galėdavo įleisti į katilą.
@@ -38,7 +37,6 @@ Vartojamos formos: `gaspadinę`, `viešne`, `viešnė`.
   citata_originali: |
     Ryto metą vakarop, atkeliavus jaunajam su vėdliais į jaunosios tėvo namus, linksminos ir gėrė dieną ir naktį, maž temiegodami per tris ar keturias naktis, trečiąją ar ketvirtąją dieną vėdlių gaspadinė, tai yra viešnė, turėjo pasielgti, beje, pasirodyti, ar turtinga yra, nesgi nuo jos turtų apie visą jaunojo kiltį jaunosios gentys sprendė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

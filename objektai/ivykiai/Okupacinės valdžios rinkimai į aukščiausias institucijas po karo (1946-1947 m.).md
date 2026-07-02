@@ -47,45 +47,15 @@ Nenurodyta
 - t-001
   global_id: t-66803
   teiginys: '1946 ir 1947 m. Lietuvoje pirmą kartą po karo vyko nedemokratiniai rinkimai į aukščiausias okupacinės valdžios institucijas.'
-  sudarymo_pagrindimas: 'Perrašyta, kad būtų išlaikyta citatoje nurodyta aplinkybė apie pirmuosius pokario rinkimus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/J. Stalinas|J. Stalinas]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: SSRS'
-  temporaliniai_duomenys: 'įvykio data: iki 1945 m.; įvykio data: 1945 m.; įvykio data: 1946 m.; įvykio data: 1947 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Perrašyta, kad būtų išlaikyta citatoje nurodyta aplinkybė apie pirmuosius pokario rinkimus.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=425b1ad62d022f87404de4b36823c7349251c70d99eb2c550e4160586a58a68b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-66804"></a>
 - t-002
   global_id: t-66804
   teiginys: 'Pokario okupacinės valdžios rinkimuose kandidatus galėjo siūlyti tik komunistų partija, o rezultatai buvo klastojami skelbiant per 90 proc. dalyvavimą.'
-  sudarymo_pagrindimas: 'Reikia aiškiau susieti teiginį su pokario okupacinės valdžios rinkimais ir užbaigti mintį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/J. Stalinas|J. Stalinas]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: SSRS'
-  temporaliniai_duomenys: 'įvykio data: 1946 m.; įvykio data: 1947 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia aiškiau susieti teiginį su pokario okupacinės valdžios rinkimais ir užbaigti mintį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=08527ecb5038fdb07bf4ba43a64464976636258ec5b4553802b8df216ff28932; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -106,7 +76,6 @@ Nenurodyta
     tus. LSSR institucijos neturėjo jokios realios valdžios – net LKP (bolševikų)
     centro komitetas turėjo tik eilinės Rusijos srities partijos komiteto teises.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -129,7 +98,6 @@ Nenurodyta
     (pirmą kartą po karo į šias institucijas rinkimai vyko 1946 m. ir 1947 m.), į
     vietines tarybas – juk formaliai SSRS buvo tarybų, arba sovietų, valdžia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

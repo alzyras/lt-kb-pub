@@ -25,9 +25,6 @@ Tautų Sąjunga paskelbė paskutinį Hymanso projektą galutine rekomendacija ko
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=75408b54c6735ef90be0db58ac688094c705544d96cb8b82c1d554e9d35460c4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -47,9 +44,7 @@ Tautų Sąjunga paskelbė paskutinį Hymanso projektą galutine rekomendacija ko
     mendaciją ir jos suteiktų teisių ribose toliau ieškoti būdų jai
     pagerinti ar pataisyti.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

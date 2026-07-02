@@ -35,7 +35,6 @@ Nenurodyta
 - t-001
   global_id: t-06867
   teiginys: 'Aisčiai namuose laikė šventuosius žalčius kaip namų globėjus, o juos įvesdavo į paskirtą guolį su apeigomis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]'
   pagrindžia:
     - c-001
 
@@ -51,7 +50,6 @@ Nenurodyta
     būdavo įvedami su tam tikromis apeigomis ir ten buvo laikomi,
     kaip namų globėjai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

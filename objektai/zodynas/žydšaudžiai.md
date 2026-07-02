@@ -26,23 +26,8 @@ amziai:
 - t-001
   global_id: t-22356
   teiginys: 'Žydų naikinimas kėlė didelį visuomenės pasipiktinimą, nacių kolaborantai visuomenėje neteko gero vardo, pasmerkimai ir priekaištai jiems buvo sakomi bažnyčiose, liaudyje jie paniekinamai vadinti „žydšaudžiais“.'
-  sudarymo_pagrindimas: 'Teiginys yra išbaigtas ir citata tiesiogiai remia žodžio vartojimo kontekstą.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/„žydšaudžiais“|„žydšaudžiais“]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
-  temporaliniai_duomenys: 'įvykio data: 1941 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra išbaigtas ir citata tiesiogiai remia žodžio vartojimo kontekstą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5c413976a66d6251e473b44a9a1efa52e694edc94aab807467673020a1909882; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> „žydšaudžiais“: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: žydšaudžiai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: „žydšaudžiais“: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "žydšaudžiai" parinktas kaip owner_note_path. Targetas "„žydšaudžiais“" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -61,7 +46,6 @@ amziai:
     ko gero vardo, pasmerkimai ir priekaištai jiems buvo sakomi bažnyčio-
     se, liaudyje jie paniekinamai vadinti „žydšaudžiais“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

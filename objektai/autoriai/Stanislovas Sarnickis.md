@@ -30,16 +30,6 @@ Pastaboje nurodomas Stanislovo Sarnickio 1587 m. Krokuvoje išleistas veikalas �
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 872253-872446; hash=0e585061abb2b2b9ae547827ad3a72e6162b4e6273745e72ec54fc87dc555732; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krokuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stanislovas Sarnickis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stanislovas Sarnickis" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -51,9 +41,7 @@ Pastaboje nurodomas Stanislovo Sarnickio 1587 m. Krokuvoje išleistas veikalas �
     ne et rebus gestis Polonorum et Lituanorum. -  Libri
     octo. -  Cracovia, 1587).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

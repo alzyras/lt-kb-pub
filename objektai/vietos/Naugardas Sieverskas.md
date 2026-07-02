@@ -29,8 +29,6 @@ amziai:
 - t-001
   global_id: t-182020
   teiginys: 'Sieversko Naugardo kunigaikštis Dimitras Kaributas pirmasis pakėlė ginklą prieš Vytautą.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Sieversko Naugardą ir Dimitrą Kaributą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dimitras Kaributas|Dimitras Kaributas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Naugardas; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: Lietuva'
   pagrindžia:
     - c-002
 
@@ -38,8 +36,6 @@ amziai:
 - t-002
   global_id: t-182022
   teiginys: 'Numalšinęs Volynijos kunigaikštį Feodorą, Vytautas pavedė jam valdyti Sieversko Naugardą.'
-  sudarymo_pagrindimas: 'Citata pagrindžia faktą, bet pradiniame teiginyje buvo neaiškūs įvardžiai.'
-  susije_objektai: 'mentioned_place: Naugardas; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
   pagrindžia:
     - c-001
 
@@ -47,24 +43,8 @@ amziai:
 - t-003
   global_id: t-183056
   teiginys: 'Po sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Naugardo Sieversko bei kelias kitas sritis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs ir per ilgas; citata palaiko aiškų sakinį apie Naugardą Sieverską.'
-  susije_objektai: 'llm_object: Naugardas Sieverskas; llm_object: Polockas; mentioned_place: Naugardas; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Minskas; mentioned_place: Polockas; mentioned_place: Černigovas; llm_object: Kijevas; llm_object: Černigovas'
-  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] valdė teritoriją Naugardas Sieverskas'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 355274-355724; hash=8d2de7b13a685d91bebfc70d90c78b48493f281fd2c95c565c9f2df164f9da4b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Polockas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Švitrigaila: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Švitrigailos pasitraukimą į Polocką.
 - susijęs iš Divilino paliaubų sutartis (1618 m.): Divilino paliaubų sutartimi Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sritis, o Lenkijai priskirti Černigovas ir Naugardas Sieverskas.
 ## Reikšmingi paminėjimai
 
@@ -78,7 +58,6 @@ amziai:
     neilgai pabuvęs irgi pabėgo į Vengriją, iš kur abu su Švitrigaila
     susižinodavo su Ordinu, ruošdami Vytautui pinkles.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -95,7 +74,6 @@ amziai:
     Vytauto tėvą Kęstutį ir atsisakęs mokėti jam duoklę. Jis įsi­
     veržė Lietuvos gilumon ir buvo besirengiąs eiti į Vilnių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -114,7 +92,6 @@ amziai:
     vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
     Zigmanto ryšiai su Lenkija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

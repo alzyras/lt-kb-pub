@@ -23,7 +23,6 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 - t-001
   global_id: t-63618
   teiginys: 'Henrikas (Mozūrų kunigaikštis) savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti Lietuvą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-002
 
@@ -31,21 +30,8 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 - t-002
   global_id: t-63619
   teiginys: 'Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.'
-  sudarymo_pagrindimas: 'Reikia išskleisti kontekstinį „pavojaus metu“ ir aiškiau suformuluoti sakinį.'
-  susije_objektai: 'llm_object: Prūsų žemė; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Prūsų žemė; mentioned_place: Rittersverderis; mentioned_person: [[objektai/asmenys/Mozūrų kunigaikštis Henrikas|Mozūrų kunigaikštis Henrikas]]; mentioned_place: Lenkija; llm_object: Rittersverderis'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)|Henrikas (Mozūrų kunigaikštis)]] keliavo į Prūsų žemė; [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)|Henrikas (Mozūrų kunigaikštis)]] keliavo į Rittersverderis'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c666ae47326f4afb86f81f289469362f8494b3cf1922da97b01ce4d79c2ebf67; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsų žemė: 0.89
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: deterministic_validation_passed; llm_structured_decision; prusai_place_context
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas (Mozūrų kunigaikštis): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Henriko išvykimą į Prūsus.
 
 ## Reikšmingi paminėjimai
 
@@ -59,7 +45,6 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
     kas. Vytautą rado jis Rittersverdery, berengiantį planus toli­
     mesniems žygiams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -76,7 +61,6 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 
     (^1) ) Tuo klausimu žiur.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

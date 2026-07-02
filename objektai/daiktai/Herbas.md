@@ -43,20 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-34572
   teiginys: 'Horodlės unijos 18 paragrafu 47 lietuvių bajorams buvo suteikti 47 lenkų bajorų herbai.'
-  sudarymo_pagrindimas: 'Pašalintas vertinimas ir išnašos triukšmas.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Herbai|Herbai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Horodlė; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 465839-466211; hash=b65bcc691d8dbffda915c94a9eacccf20de04657636e50f4a9ddae839cbcea51; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lenkai: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Herbai: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Herbai apibūdinami kaip lenkų bajorų herbai.
 - susijęs iš [[objektai/asmenys/Alcis.md#claim-t-190049|Alcis]]: Narbutas su Alciu lygina Vilniaus herbui priskiriamą šarvuotą riterį, kuris remiasi į nulaužtą medžio kamieną ir laiko pasagą primenantį daiktą.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188533|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas, remdamasis Strijkovskiu, mini, kad 1302 m. Gediminas suteikė herbą Krunevičiui.
 - susijęs iš [[objektai/asmenys/Julijonas Dausprungas.md#claim-t-186050|Julijonas Dausprungas]]: Kojelavičiaus perpasakotoje tradicijoje Julijonas Dausprungas įvardijamas kaip vienas iš kilmingųjų italų vadų, kurio giminės herbas buvo Kentauras.
@@ -167,7 +155,6 @@ Nenurodyta
     bajoras, kuris turėjo herbą, su to pačio herbo bajoru skaitėsi gi­
     minėmis; buvo suteikta teisė ir abipusėms vedyboms.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -43,21 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87088
   teiginys: 'Pilaitėje nuo neatmenamų laikų stovėjusi kunigaikščių pilis vėliau priklausė Viršiloms, Glebavičiams, jėzuitams ir Vilniaus universitetui.'
-  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia pašalinti OCR triukšmą ir suformuluoti sklandų sakinį.'
-  susije_objektai: 'mentioned_place: Pilaitė; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilija; llm_object: Pilaitė; llm_object: Vilnius'
-  semantiniai_rysiai: '[[objektai/daiktai/Pilaitės kunigaikščių pilis|Pilaitės kunigaikščių pilis]] priklausė Pilaitė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 135534-136200; hash=e3f946930062c8428641162dd0f40d11a4614d1502fcd5d81733ab1aec888904; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Pilaitė: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pilaitės kunigaikščių pilis: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Pilaitė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Pilis tiesiogiai lokalizuojama Pilaitėje; daikto priklausymo vietai ryšys yra tinkamiausias iš leistinų.
 - susijęs iš [[objektai/grupes/Glebavičių giminė.md#claim-t-86793|Glebavičių giminė]]: Pilaitės kunigaikščių pilis po Viršilų giminės perėjo Glebavičių paveldui.
 ## Reikšmingi paminėjimai
 
@@ -82,7 +69,6 @@ Nenurodyta
     po jų tapo jėzuitų nuosavybe, pagaliau atiteko Vilniaus uni­
     versitetui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

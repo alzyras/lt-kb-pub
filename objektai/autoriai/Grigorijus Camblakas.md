@@ -31,11 +31,6 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
 - t-001
   global_id: t-45608
   teiginys: 'Grigorijaus Camblako vadovaujama LDK stačiatikių delegacija Konstance iškėlė visuotinės bažnyčių unijos idėją.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Florencija; mentioned_place: Naugardukas; mentioned_place: Viena; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1415 m.; įvykio data: 1439 m.; įvykio data: 1841 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
 
@@ -43,11 +38,6 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
 - t-002
   global_id: t-45609
   teiginys: 'Vytautas paskyrė Grigorijų Camblaką į 1415 m. įkurtą LDK stačiatikių metropoliją.'
-  sudarymo_pagrindimas: 'Teiginys patikslintas data ir metropolijos įkūrimo aplinkybe iš citatos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Florencija; mentioned_place: Naugardukas; mentioned_place: Viena; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1415 m.; įvykio data: 1439 m.; įvykio data: 1841 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys patikslintas data ir metropolijos įkūrimo aplinkybe iš citatos.'
   pagrindžia:
     - c-001
 
@@ -55,11 +45,6 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
 - t-003
   global_id: t-45610
   teiginys: '1415 m. Vytautas įkūrė LDK stačiatikių metropoliją ir paskyrė Grigorijų Camblaką jos metropolitu.'
-  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti Camblako paskirtą pareigą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Florencija; mentioned_place: Naugardukas; mentioned_place: Viena; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įkūrimo data: 1415 m.; įkūrimo data: 1439 m.; įkūrimo data: 1841 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti Camblako paskirtą pareigą.'
   pagrindžia:
     - c-001
 
@@ -67,9 +52,6 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
 - t-005
   global_id: t-45612
   teiginys: 'Grigorijus Camblakas buvo vienas žymiausių to meto stačiatikybės teologų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Viena; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Florencija; mentioned_place: Naugardukas; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1415 m.; įvykio data: 1439 m.; įvykio data: 1841 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176748|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką.
@@ -103,7 +85,6 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
     bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
     idėją (ji įgyvendinta vėliau – 1439 m. Florencijoje).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

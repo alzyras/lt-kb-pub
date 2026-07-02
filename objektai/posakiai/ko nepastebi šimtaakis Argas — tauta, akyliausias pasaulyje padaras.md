@@ -18,15 +18,8 @@ Kojelavičius tautą vadino šimtaakiu Argu ir akyliausiu pasaulyje padaru, past
 - t-001
   global_id: t-185471
   teiginys: 'Kojelavičius tautą vadino šimtaakiu Argu ir akyliausiu pasaulyje padaru, pastebinčiu slėptą nepalankumą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko autoriaus metaforą, bet pradinis teiginys remiasi neaiškiu įvardžiu.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 713980-714313; hash=3ade36b24477a05cde54fda8c1fdf314f046a795c7ad129be306253dc6146466; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -42,10 +35,8 @@ Kojelavičius tautą vadino šimtaakiu Argu ir akyliausiu pasaulyje padaru, past
     ko, ilgainiui parodė visokiausi dalykai, paaiškinantys
     tuometinį jo susigraužimą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

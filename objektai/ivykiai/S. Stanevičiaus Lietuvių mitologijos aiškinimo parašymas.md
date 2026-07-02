@@ -46,9 +46,6 @@ Tekstas liko nespausdintas ir, pagal įvadinį tekstą, negalėjo paveikti vieš
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 70333-71142; hash=d38933b47239269c8340d434231af4fadd17feab4c7ade525597d255bdbe5726; match=exact
-  sprendimo_priezastis: gap::events
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -70,13 +67,10 @@ Tekstas liko nespausdintas ir, pagal įvadinį tekstą, negalėjo paveikti vieš
     nimi lietuvių dievų vardai yra patikimi, iš liaudies užrašyti ir
     kurie pramanyti arba iškraipyti.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
 ## Data ir vieta
 
 Datavimas pateiktas kaip J. Lebedžio nuomonė: ne anksčiau kaip 1838 m.

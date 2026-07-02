@@ -30,7 +30,6 @@ amziai:
 - t-001
   global_id: t-68823
   teiginys: 'Prie Niešavos jie iš Konrado gavo žemių su pilaite ir pasistatė Fogelzango pilį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Rusija'
   pagrindžia:
     - c-002
 
@@ -38,23 +37,8 @@ amziai:
 - t-002
   global_id: t-68824
   teiginys: '1424 m. Niešavos miestelyje sudaryta prekybos sutartis dėl laisvo tranzito.'
-  sudarymo_pagrindimas: 'Perrašyta gramatiškai, pašalinus žodžių lūžius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Rusija; llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
-  temporaliniai_duomenys: 'sutarties data: 1424 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Perrašyta gramatiškai, pašalinus žodžių lūžius.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=32d2be60da3987f4f5538cc135ebe436caea8fe13bf5709d48d2f25d692911ab; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: prekiavo_su -> Vokiečiai: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Rusija: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Vokiečiai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai mini Rusijos pirklių teisę prekiauti vokiečių Ordino žemėse.
 - susijęs iš [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.).md#claim-t-66698|Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]: Melno taika sutarta siena išsilaikė penkis šimtmečius, Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkijai Niešavos kraštas.
 - susijęs iš [[objektai/ivykiai/Niešavo prekybos sutartis („über transitus“) (1424 m.).md#claim-t-35870|Niešavo prekybos sutartis („über transitus“) (1424 m.)]]: 1424 m. Niešavoje sudaryta prekybos sutartis „über transitus“ nustatė laisvą tranzitinę prekybą tarp kelių kraštų pirklių.
 - susijęs iš [[objektai/ivykiai/Niešavo prekybos sutartis („über transitus“) (1424 m.).md#claim-t-35871|Niešavo prekybos sutartis („über transitus“) (1424 m.)]]: Niešavos prekybos sutartis užbaigė lietuvių prekybą ilgai trikdžiusius neramumus.
@@ -83,7 +67,6 @@ amziai:
     čių ir Livonijos Ordinų žemėse, o šių pastarųjų pirkliai — aukš­
     čiau išvardintuose kraštuose^4 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,7 +85,6 @@ amziai:
     nuolatinį karą su aisčių
     kiltimis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

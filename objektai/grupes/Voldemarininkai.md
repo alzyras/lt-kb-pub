@@ -51,7 +51,6 @@ Politinė grupuotė.
 - t-001
   global_id: t-45269
   teiginys: 'Po Lenkijos ultimatumo ultraradikalieji voldemarininkai dėjosi prie krikščionių demokratų ir valstiečių liaudininkų opozicinių pasitarimų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -59,8 +58,6 @@ Politinė grupuotė.
 - t-002
   global_id: t-45270
   teiginys: 'Priėmus Lenkijos ultimatumą ultraradikalieji voldemarininkai prisidėjo prie A. Smetonos valdymui opozicinių jėgų telkimosi.'
-  sudarymo_pagrindimas: 'Reikia sklandesnio sakinio ir aiškesnio veiksmo apibūdinimo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -68,10 +65,6 @@ Politinė grupuotė.
 - t-003
   global_id: t-45271
   teiginys: 'Voldemarininkai kartu su Šaulių sąjunga ir jaunaisiais tautininkais kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Šaulių sąjunga|Šaulių sąjunga]]; llm_object: [[objektai/grupes/Jaunieji tautininkai|Jaunieji tautininkai]]; mentioned_group: [[objektai/grupes/Jaunieji tautininkai|Jaunieji tautininkai]]; mentioned_group: [[objektai/grupes/Šaulių sąjunga|Šaulių sąjunga]]; mentioned_place: Vilnius; mentioned_place: Estija; mentioned_place: Kaunas; mentioned_place: Latvija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vokietija'
-  semantiniai_rysiai: '[[objektai/grupes/Voldemarininkai|Voldemarininkai]] buvo sąjungininkas su [[objektai/grupes/Šaulių sąjunga|Šaulių sąjunga]]; [[objektai/grupes/Voldemarininkai|Voldemarininkai]] buvo sąjungininkas su [[objektai/grupes/Jaunieji tautininkai|Jaunieji tautininkai]]'
-  temporaliniai_duomenys: 'įvykio data: 1939 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -79,9 +72,6 @@ Politinė grupuotė.
 - t-004
   global_id: t-45272
   teiginys: 'Vokietijos ir Lenkijos karo metu voldemarininkai ragino Lietuvos vyriausybę jėga atsiimti Vilnių.'
-  sudarymo_pagrindimas: 'Sakinys aiškus, faktinis ir pagrįstas citata.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Jaunieji tautininkai|Jaunieji tautininkai]]; llm_object: [[objektai/grupes/Šaulių sąjunga|Šaulių sąjunga]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Jaunieji tautininkai|Jaunieji tautininkai]]; mentioned_group: [[objektai/grupes/Šaulių sąjunga|Šaulių sąjunga]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Lenkija; mentioned_place: Vokietija'
-  semantiniai_rysiai: '[[objektai/grupes/Voldemarininkai|Voldemarininkai]] buvo sąjungininkas su [[objektai/grupes/Šaulių sąjunga|Šaulių sąjunga]]; [[objektai/grupes/Voldemarininkai|Voldemarininkai]] buvo sąjungininkas su [[objektai/grupes/Jaunieji tautininkai|Jaunieji tautininkai]]'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78003|A. Voldemaras]]: Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti A. Voldemarą į valdžią.
@@ -119,7 +109,6 @@ Politinė grupuotė.
     lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir
     ultraradikalieji voldemarininkai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -138,7 +127,6 @@ Politinė grupuotė.
     kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
     riausybę jėga atsiimti Vilnių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -154,7 +142,6 @@ Politinė grupuotė.
     riausybę jėga atsiimti Vilnių. Užpuolusi Lenkiją Vokietija spaudė Lietuvą
     žygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

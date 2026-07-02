@@ -49,7 +49,6 @@ Nenurodyta
 - t-001
   global_id: t-41429
   teiginys: 'Kunigas A. Mackevičius laimino sukilėlius ir šventino jų vėliavas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Rusija'
   pagrindžia:
     - c-003
 
@@ -57,8 +56,6 @@ Nenurodyta
 - t-002
   global_id: t-41430
   teiginys: 'Kunigas Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
-  sudarymo_pagrindimas: 'Perrašyta be inicialo ir paliktas aiškus sakinys apie apeigas stovykloje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
 
@@ -78,7 +75,6 @@ Nenurodyta
     stovykloje laikė mišias, atlikinėjo naujokų
     įšventinimo apeigas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -96,7 +92,6 @@ Nenurodyta
     lauko ligoninė, mokymai vyko lietuviškai,
     komandos buvo duodamos lietuvių kalba.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -117,7 +112,6 @@ Nenurodyta
 
     bent įgyti autonominę nepriklausomybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

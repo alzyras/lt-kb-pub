@@ -29,27 +29,13 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 - t-001
   global_id: t-91761
   teiginys: '1263 metais Vizenburgo pilį paliko maisto pristigę broliai su ginklanešiais, pasitraukę Mazovijos kunigaikštystės link.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą 1263 m. pilies palikimą dėl maisto stokos.'
-  susije_objektai: 'mentioned_place: Mazovija; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 270742-271464; hash=205f3d5347afa04cbf084ca421535fde44b4e31b54b6728b5d74b3462b0ce3fd; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rezlis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vizenburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rezlis: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vizenburgas" parinktas kaip owner_note_path. Targetas "Rezlis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-91762"></a>
 - t-002
   global_id: t-91762
   teiginys: 'Vizenburgo pilis beveik trejus metus buvo prūsų apsupta ir kasdien puolama trimis apgulos mašinomis.'
-  sudarymo_pagrindimas: 'Neužbaigtas fragmentas perrašytas į pilną enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_place: Prūsų žemė; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_place: Mazovija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -57,20 +43,8 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 - t-003
   global_id: t-91764
   teiginys: 'Broliai Bartos žemėje pastatė tris pilis: Bartenšteino, Vizenburgo ir Rezlio.'
-  sudarymo_pagrindimas: 'Pašalintas perteklinis kontekstas ir paliktas aiškus faktas apie Vizenburgą.'
-  susije_objektai: 'mentioned_place: Rezlis; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Barta; mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Kroicburgas; mentioned_place: Notanga; mentioned_place: Varmė'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 407095-407892; hash=c4a5dddac8c5ea22f8d00a94302cfa13056a65dff5620e8e7456e2fd36b85b46; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mazovija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vizenburgas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Mazovija: mention_match, place, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vizenburgas" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178959|Kryžiuočių ordinas]]: Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178959|Kryžiuočių ordinas]]: Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.
 - susijęs iš [[objektai/ivykiai/Varmių, notangų ir bartų pasidavimas ir kelių pilių pastatymas (1241 m.).md#claim-t-66944|Varmių, notangų ir bartų pasidavimas ir kelių pilių pastatymas (1241 m.)]]: 1241 m. Varmės, Notangos ir Bartos prūsai pasidavė tikėjimui ir Ordino broliams, o broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.
@@ -103,7 +77,6 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
     bado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame
     susidūrime tris nukovė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -125,7 +98,6 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
     ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta
     daug brolių ir ginklanešių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

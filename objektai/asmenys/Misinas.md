@@ -21,40 +21,15 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 - t-001
   global_id: t-60175
   teiginys: 'Misinas su Sklunijos valsčiaus vyrais pagrobė Karaliaučiaus brolių arklius.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą veiksmą.'
-  susije_objektai: 'mentioned_place: Sklunija; mentioned_place: Bartenšteinas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bba2ce3ddb101ba79ac192b0bf4fd6d487369f8e7d5a8cecab97e25af55ed4af; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Bartenšteinas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Misinas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Bartenšteinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Misinas įvardytas kaip vienas žygio prieš Bartenšteino pilį vadovų.
 
 <a id="claim-t-60176"></a>
 - t-002
   global_id: t-60176
   teiginys: 'Misinas kartu su Govina, Stanta, Trinta ir kitais vadovavo notangų žygiui prieš Bartenšteino pilį.'
-  sudarymo_pagrindimas: 'Citata palaiko Misino dalyvavimą ir vadovavimą žygyje.'
-  susije_objektai: 'llm_object: Bartenšteinas; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_place: Bartenšteinas; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Misinas|Misinas]] surengė žygį į Bartenšteinas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7c85f14220df91d5b60fed21939bbf495e999d8f1c3722dd38e4548a79eac405; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sklunija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Misinas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Sklunija: mention_match, place, gap=11
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Misinas" parinktas kaip owner_note_path. Targetas "Sklunija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Govina.md#claim-t-60295|Govina]]: Govina kartu su Stanta, Trinta, Misinu ir kitais rengė notangų žygį bei jam vadovavo.
 - susijęs iš [[objektai/asmenys/Trinta.md#claim-t-60448|Trinta]]: Trinta kartu su Govina, Stanta ir Misinu rengė notangų žygį, per kurį Stanta įsibrovė į Bartenšteino pilį.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59956|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Brolis Fridrichas iš Libencelės buvo paimtas į nelaisvę, kai Stanta su bendrais klastingai įsibrovė į Bartenšteino pilį.
@@ -78,7 +53,6 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
     jų moteris bei vaikus ėmė į nelaisvę, bet didelę pagarbą rodė bažnyčioms, bažnytiniams
     sakramentams ir bažnyčių tarnams.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -101,7 +75,6 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
     Bartenšteino pilį ir paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru, ir brolį Fridrichą iš
     Libencelės su visa jų šeimyna.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

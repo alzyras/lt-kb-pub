@@ -30,11 +30,6 @@ Nenurodyta
 - t-001
   global_id: t-185621
   teiginys: 'Stanislovas Lesniovolskis su tūkstančiu rinktinių lenkų raitelių, dviem šimtinėmis lietuvių ir Davainos būriu susidūrė su 45 tūkstančiais priešų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko kariuomenės sudėtį ir susidūrimą; pašalinti puslapio antraščių intarpai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Davaina|Davaina]]; mentioned_person: [[objektai/asmenys/Stanislovas Lesniovolskis|Stanislovas Lesniovolskis]]; mentioned_place: Polockas'
   pagrindžia:
     - c-001
 
@@ -62,10 +57,8 @@ Nenurodyta
     k etu riasd ešim t p en k iais tū k stan čiais
     priešų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

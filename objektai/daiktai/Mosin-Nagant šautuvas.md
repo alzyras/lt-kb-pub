@@ -53,48 +53,15 @@ Nenurodyta
 - t-001
   global_id: t-39209
   teiginys: 'Po 1877-1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė nurodė sukurti naujo tipo ginklą, kuriuo tapo Mosin-Nagant šautuvas.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir remiasi tvarkinga citatos dalimi.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_group: [[objektai/grupes/2-asis pėstininkų pulkas|2-asis pėstininkų pulkas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Alytus; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1877-1878; įvykio data: 1878 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir remiasi tvarkinga citatos dalimi.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 693672-694634; hash=c9679c3e738413b4204e9bace4f4ceb255644de060d05a066b54459bc9d4a15b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Šautuvai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mosin-Nagant šautuvas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Šautuvai: mention_match, thing, gap=13
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mosin-Nagant šautuvas" parinktas kaip owner_note_path. Targetas "Šautuvai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183687"></a>
 - t-002
   global_id: t-183687
   teiginys: 'Mosin-Nagant šautuvas buvo naudotas įvairių pajėgų kovose buvusioje Rusijos imperijos teritorijoje.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pagrindžia kitą glaustą faktą apie šautuvo naudojimą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1877-1878; įvykio data: 1878 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia kitą glaustą faktą apie šautuvo naudojimą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 693595-693920; hash=69558091eefd0476c1daed38623d51dfa40739ce4f42d9869e54bbf2312af202; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mosin-Nagant šautuvas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=68
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mosin-Nagant šautuvas" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -114,14 +81,11 @@ Nenurodyta
     sarų eskadronas (13 karininkų, 163 kareiviai, nesisekė, Lietuvoje veikusioje gana plačiai iš-
     žirgų visiems raiteliams neužteko, 1 artile- | Raudonojoje armijoje tebuvo apie sklaidę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Mosin-Nagant šautuvas buvo naudotas įvairių pajėgų kovose buvusioje Rusijos imperijos teritorijoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -131,10 +95,8 @@ Nenurodyta
     Po 1877 -1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė suvokė, kad vienu šoviniu užtaisomi šautuvai yra pasenę (Turkijos kariuo-
     menė jau naudojo daugiašūvius šautuvus) ir nurodė sukurti naujo tipo ginklą, kuriuo tapo Mosin-Nagant šautuvas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002

@@ -43,20 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87260
   teiginys: 'Aukštutinės pilies gynėjai patrankų pramuštas mūro vietas užtaisydavo žeme, mėšlu, galvijų oda ir vilnų prikimštais maišais.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Vilnius; llm_object: Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 282519-283810; hash=7f6ea4930a8d2656ea743fd27fcc917dedacd102e5d804e4b77dd031c6fd30d2; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Vilnius: 0.54
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata sako, kad lenkai gynė Aukštutinę pilį; leidžiamas artimiausias vietos kandidatas yra Vilnius.
 
 ## Reikšmingi paminėjimai
 
@@ -103,7 +91,6 @@ Nenurodyta
     36
     Długosz Histor.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

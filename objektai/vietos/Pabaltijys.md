@@ -31,8 +31,6 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
 - t-001
   global_id: t-182874
   teiginys: 'Rytų Pabaltijo žemėje išlikę senosios kultūros paminklai leidžia giliau pažinti lietuvių protėvių ir artimų baltų giminių praeitį.'
-  sudarymo_pagrindimas: 'Pradinis sakinys buvo gremėzdiškas ir su OCR triukšmu; citata remia aiškesnę enciklopedinę formuluotę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsų žemė'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/zodynas/kryžiaus karas.md#claim-t-05441|kryžiaus karas]]: Kryžiaus karo žygio vadovavimas šiame šaltinyje siejamas su Prūsų riterių magistru.
@@ -52,7 +50,6 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
     pirmųjų žmogaus pėdsakų epochai pažinti reikia dar griebtis geolo­
     gijos, paleontologijos ir antropologijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

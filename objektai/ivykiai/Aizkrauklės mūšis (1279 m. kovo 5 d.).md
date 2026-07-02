@@ -42,9 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-66445
   teiginys: '1279 m. kovo 5 d. Padauguvyje prie Aizkrauklės įvyko mūšis, kuriame abi pusės patyrė nuostolių.'
-  susije_objektai: 'mentioned_place: Aizkrauklė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Padauguvis'
-  temporaliniai_duomenys: 'mūšio data: 1279 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -52,9 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-66446
   teiginys: 'Aizkrauklės pergalė pagal Ordino nuostolius XIII a. buvo antroji po Durbės kautynių.'
-  susije_objektai: 'mentioned_place: Aizkrauklė; mentioned_place: Durbė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  temporaliniai_duomenys: 'įvykio data: 1279 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
@@ -69,7 +63,6 @@ Nenurodyta
     pralaužė eiles <...>, juos blaškė, bet ka-
     riuomenė lietuvių <...> sustiprėjo“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -84,7 +77,6 @@ Nenurodyta
     Ordino patirtų nuostolių mastą XIII a. yra
     2-oji po Durbės kautynių. Taigi 1279 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

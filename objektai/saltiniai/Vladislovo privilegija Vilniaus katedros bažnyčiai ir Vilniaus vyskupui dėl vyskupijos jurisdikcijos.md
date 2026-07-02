@@ -23,8 +23,6 @@ O kaltina­ masis norėjo to teismo išvengti, taip pat tvirtino esąs Vil­ nia
 - t-001
   global_id: t-88352
   teiginys: 'Auksakalys Steponas Genseris buvo paskelbtas laisvu nuo Vilniaus miesto pasaulietinės jurisdikcijos ir cechų valdžios.'
-  sudarymo_pagrindimas: 'Pradinis tekstas nutrūksta, bet citata palaiko sprendimo rezultatą dėl Stepono Genserio jurisdikcijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miesto cechai|Vilniaus miesto cechai]]; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Steponas Genseris|Steponas Genseris]]; mentioned_place: Bełskas'
   pagrindžia:
     - c-001
 
@@ -50,7 +48,6 @@ O kaltina­ masis norėjo to teismo išvengti, taip pat tvirtino esąs Vil­ nia
     sų dekretą amžiniems laikams. Šio dalyko patvirtinimui mū­
     sų antspaudas rašto apačioje yra įspaustas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

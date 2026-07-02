@@ -31,8 +31,6 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
 - t-001
   global_id: t-70045
   teiginys: 'Rėda citatoje siejama su tautos tvarka, kuri, pasak Daukanto, kilo nuo kunigų kaip Dievo ir pasaulio tarpininkų.'
-  sudarymo_pagrindimas: 'Citata aiškina rėdą kaip tautos tvarką ir nurodo jos kilmę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
     - c-002
@@ -41,8 +39,6 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
 - t-002
   global_id: t-70048
   teiginys: 'Senovės lietuvių ūkės rėdą, pasak Daukanto, sunku aiškiai aprašyti dėl karų, priešų ir žmonių skaugės padaryto naikinimo.'
-  sudarymo_pagrindimas: 'Citata kalba apie senovės lietuvių ūkės rėdą ir jos pažinimo sunkumą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 
@@ -54,7 +50,6 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
     Sunku šiandien yra aiškiai ką apie senovės lietuvių ūkės rėdą parašyti, nesgi kruvinos karės,
         smarkūs neprieteliai, dar užvis bjauresnė žmonių skaugė^956 visa paspėjo išnaikinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -67,7 +62,6 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
   citata_originali: |
     Žinoma yra, jog rėda kožnos tautos visados kėlės nuo kunigų, kaipo dievo ir svieto tarpininkų, nesgi išminčiai svieto, regėdami, jog žmogus nuo pirmosios dienos lig savo paskuojės karšaties turi visados draugėj gyventi, kaipogi be draugės niekšai negalėtų ant svieto patekti, o ir gimęs be jos ilgainiui pragaištų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -28,7 +28,6 @@ tags:
 - t-001
   global_id: t-09671
   teiginys: '„Nepuolam, bet nesitraukiam“ buvo gynybinė nesmurtinio pasipriešinimo nuostata, pasiekusi kulminaciją sovietų puolimo akivaizdoje.'
-  sudarymo_pagrindimas: 'Reikia įvardyti posakį ir aiškiau perteikti citatos faktą.'
   pagrindžia:
     - c-002
 
@@ -36,8 +35,6 @@ tags:
 - t-002
   global_id: t-09672
   teiginys: 'Lietuvos principas buvo nepulti, bet nesitraukti, pasirinkus nesmurtinio politinio ir moralinio išsivadavimo kelią.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai atitinka citatos mintį.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -51,7 +48,6 @@ tags:
     smurto, tai buvo kiti. Lietuvos principas buvo nepulti, bet nesi-
     traukti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -67,7 +63,6 @@ tags:
     „Nepuolam, bet nesitraukiam“ gynybinė nuostata pasiekė savo
     kulminaciją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

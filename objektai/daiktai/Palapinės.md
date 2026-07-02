@@ -53,7 +53,6 @@ Nenurodyta
     ir sustota, kaip tų laikų karo papročiai reikalavo, trims dienoms
     pasilsėti ir susitvarkyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

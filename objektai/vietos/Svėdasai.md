@@ -20,21 +20,8 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
 - t-001
   global_id: t-42174
   teiginys: 'Zigmantas Sierakauskas su pagrindiniais sukilėlių daliniais išskubėjo Svėdasų kryptimi.'
-  sudarymo_pagrindimas: 'Reikia išplėsti inicialą ir pašalinti OCR triukšmą.'
-  susije_objektai: 'llm_object: Svėdasai; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]]; mentioned_place: Rusija'
-  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]] keliavo į Svėdasai'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=42ecce83ecea30d983f9d10913d9e9fd98fa6a32302b1b4e87e5d15d42cefa5d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Svėdasai: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Zigmantas Sierakauskas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Svėdasai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Sierakauskas tiesiogiai nurodytas išskubėjęs Svėdasų kryptimi.
 - susijęs iš Antalieptė: P. Genys po Svėdasų ir Užpalių užėmimo ėmė Antalieptę birželio 5 d.
 - susijęs iš Užpaliai: Po Svėdasų užėmimo P. Genys užėmė Užpalius, o 1919 m. birželio 5 d. - Antalieptę.
 - susijęs iš [[objektai/ivykiai/Šimonių girios apgultis.md#claim-t-39119|Šimonių girios apgultis]]: 1949 m. lapkričio 1–2 d. MGB vidaus kariuomenė vykdė karines-čekistines operacijas Šimonių girioje, Svėdasų valsčiuje.
@@ -70,7 +57,6 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
 
     suteikdama jam pulkininko laipsnį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

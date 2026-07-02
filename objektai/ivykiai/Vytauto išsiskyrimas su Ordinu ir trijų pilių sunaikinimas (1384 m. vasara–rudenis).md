@@ -44,20 +44,8 @@ Nenurodyta
 - t-001
   global_id: t-95965
   teiginys: 'Praėjus trims savaitėms po paskutinio susitarimo su Ordinu, Vytautas pradėjo vykdyti atsiskyrimo nuo kryžiuočių planą.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatinis ir tiesiogiai atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Sudimantas|Sudimantas]]; mentioned_place: Jurbarkas; mentioned_place: Marienverderis; llm_object: Jurbarkas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 96018-96941; hash=882d418ff39cabb808cd58a80d2cf51ada67ded2f70784787e11e3077a8e781f; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Jurbarkas: 0.57
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jurbarkas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Toliau citatoje nurodoma pilies gynėjų paėmimas ir pilies sudeginimas, bet objektas yra tik Jurbarkas kaip vieta.
 
 ## Reikšmingi paminėjimai
 
@@ -81,7 +69,6 @@ Nenurodyta
     tinkamo laiko, jis su savo ištikimu vyru Sudimantu paėmė ne­
     laisvėn pilies gynėjus, o pačią pilį pavertė į pelenus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

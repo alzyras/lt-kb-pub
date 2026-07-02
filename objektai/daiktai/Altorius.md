@@ -42,20 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-59677
   teiginys: 'Markburge priimami riteriai prieš įvilktuves kniūpsti puolė prieš altorių.'
-  sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie altorių, o pradinis sakinys nutrūkęs.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_place: Markburgas; mentioned_place: Šventoji'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d5fb0dbca3e76659f02f06642b3821a0342933f35fb2fa705e1321c9cf7d459f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Markburgas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Altorius: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Markburgas: mention_match, place, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Altorius" parinktas kaip owner_note_path. Targetas "Markburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Bona.md#claim-t-87469|Bona]]: Karalienė Bona Vytauto atminimą pagerbė marmuriniu antkapiniu paminklu didžiojo altoriaus dešinėje pusėje.
 - susijęs iš [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius.md#claim-t-11542|Pirmosios katedros didysis altoriaus kryžius]]: Iš pirmosios katedros išlikęs didžiojo altoriaus kryžius.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-188203|Jėzuitų ordinas]]: Narbutas rašo, kad jėzuitai minėtose vietovėse išdraskė šešis altorius ir iškirto aukojimams skirtus ąžuolus bei liepas.
@@ -108,7 +96,6 @@ Nenurodyta
     ėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas
     buvo susitepęs paleistuvystės nuodėme.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

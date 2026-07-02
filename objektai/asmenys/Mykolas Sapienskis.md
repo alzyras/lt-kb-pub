@@ -31,22 +31,8 @@ periodo_grupes:
 - t-001
   global_id: t-35256
   teiginys: 'Vytauto sekretorius Mykolas Sapienskis vadovavo žemaičių delegacijai, kuri 1415 m. gale atvyko į Konstanciją.'
-  susije_objektai: 'mentioned_place: Konstancija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jurgis Geldgaudas|Jurgis Geldgaudas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; llm_object: Konstancija'
-  semantiniai_rysiai: '[[objektai/asmenys/Mykolas Sapienskis|Mykolas Sapienskis]] keliavo į Konstancija'
-  temporaliniai_duomenys: 'kelionės data: 1415 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mykolas Sapienskis keliavo į Konstancija“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4200835d0a4bef210f9424aedc21fad8899a2b4ea1fd72bc3c2e766e446699a6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Konstancija: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mykolas Sapienskis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Konstancija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Sapienskis vadovavo delegacijai, kuri atvyko į Konstanciją.
 
 ## Reikšmingi paminėjimai
 
@@ -65,7 +51,6 @@ periodo_grupes:
     bę, bet tam trukdė Ordinas, troškęs tik jų žemių ir laisvės, o
     krikštyti nekrikštijęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -43,24 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-62465
   teiginys: '1280 m. Santyro pilis buvo perkelta į naują vietą ir pavadinta Marienburgu, tai yra Šventos Marijos pilimi.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Santyro perkėlimą ir pervadinimą.'
-  susije_objektai: 'mentioned_place: Marienburgas; mentioned_place: Santyras'
-  temporaliniai_duomenys: 'įvykio data: 1280 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą Santyro perkėlimą ir pervadinimą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=57834e1c8d7048d0818b3b5d9c9fab9e80ced97f987181e7119f10b42c891d56; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Marienburgas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Santyro perkėlimas ir Marienburgo įkūrimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Marienburgas: mention_match, place, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Santyro perkėlimas ir Marienburgo įkūrimas" parinktas kaip owner_note_path. Targetas "Marienburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -79,7 +63,6 @@ Nenurodyta
 
         209 (204).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -47,11 +47,6 @@ Nenurodyta
 - t-001
   global_id: t-92939
   teiginys: '1404 m. Racionžo taika atgaivino prekybą su Ordinu, kuri buvo suirusi po 1401 m. Žemaičių sukilimo prieš Ordiną.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradiniame teiginyje yra OCR triukšmo ir perteklinio konteksto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Racionžas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  temporaliniai_duomenys: 'įvykio data: po 1401 m.; įvykio data: 1401 m.; įvykio data: 1404 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradiniame teiginyje yra OCR triukšmo ir perteklinio konteksto.'
   pagrindžia:
     - c-001
 
@@ -59,12 +54,8 @@ Nenurodyta
 - t-002
   global_id: t-92940
   teiginys: '1404 m. Racionžo taika vėl atidavė Žemaičius Ordinui, bet leido Vytautui pasiimti iš Žemaičių 250 gyventojų.'
-  sudarymo_pagrindimas: 'Šaltinis aiškiai palaiko sutarties vietą, datą ir nuostatą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 257720-258069; hash=5d14ba22179c6e112341deeb14891a9326a0a3bbcc41948fed5b00a9f31a0a99; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -85,7 +76,6 @@ Nenurodyta
     Žemaičių kraštu ir įvežti druskos, javų, geležies, kad Žemaičiai
     vėl nesukiltų prieš Ordiną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,7 +92,6 @@ Nenurodyta
     tui labai naudingas nuostatas, — kad jis galėsiąs pasiimti iš Že-
     maičių 250 gyventojų. Tatai jam vėliau labai pravertė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -37,14 +37,6 @@ Nenurodyta
 - t-001
   global_id: t-185771
   teiginys: 'Kazimieras, sužinojęs apie skitų įsiveržimą į Lenkiją, pradėjo ryžtingiau rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas nutrūkimas ir įvardytas sakinio subjektas pagal citatos kontekstą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Krokuva'
-  temporaliniai_duomenys: 'įvykio data: 1489 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas nutrūkimas ir įvardytas sakinio subjektas pagal citatos kontekstą.'
   pagrindžia:
     - c-001
 
@@ -79,10 +71,8 @@ Nenurodyta
     vyrais, prie Savranės upės at­
     virame lauke susikovė su priešu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

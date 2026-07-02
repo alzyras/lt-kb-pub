@@ -23,8 +23,6 @@ Apšvietos žingsniais Lietuvos ūkyje reikia laikyti valstiečių paleidimo iš
 - t-001
   global_id: t-26532
   teiginys: 'Posakis apie tris respublikas rodė ypatingą visuomenės reikšmę Paulavai.'
-  sudarymo_pagrindimas: 'Pradinis teiginys neatitiko citatos svarbiausio pagrindžiamo fakto.'
-  susije_objektai: 'mentioned_place: Paulava; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -39,7 +37,6 @@ Apšvietos žingsniais Lietuvos ūkyje reikia laikyti valstiečių paleidimo iš
     viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos
     ir Lietuvos Valstybėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -28,23 +28,8 @@ Dusburgietis teigia, kad matusevičiūtė I.
 - t-001
   global_id: t-60750
   teiginys: 'I. Matusevičiūtė 1939 m. paskelbė straipsnį „Kiek naujos medžiagos prūsų vardynui“.'
-  sudarymo_pagrindimas: 'Bibliografinė citata pagrindžia autorę, straipsnio pavadinimą ir metus.'
-  susije_objektai: 'mentioned_place: Prūsų žemė'
-  temporaliniai_duomenys: 'įvykio data: 1939 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Bibliografinė citata pagrindžia autorę, straipsnio pavadinimą ir metus.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 785053-785158; hash=dd52bf43c9657c89863ace6905f5bdce5bd1da274096a16e8693855762678339; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsų žemė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Matusevičiūtė I: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=67
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Matusevičiūtė I" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -55,7 +40,6 @@ Dusburgietis teigia, kad matusevičiūtė I.
     Matusevičiūtė I. Kiek naujos medžiagos prūsų vardynui.— Archivum philologicum. K.,
     1939, kn. 8, p. 10—18.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -40,28 +40,13 @@ Nenurodyta
 - t-001
   global_id: t-08337
   teiginys: 'Trimitų balsas buvo lyginamas su variniais karo trūbais, o patys instrumentai dar minimi 1180 gudų raštuose.'
-  teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 142023-142311; hash=0f2b1daca538120d50f519cb8b89979ed3039d412f40a626b9e97c5e8e0ca145; match=exact
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Trimitai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Trimitai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-186852"></a>
 - t-002
   global_id: t-186852
   teiginys: 'Lietuvos metraščio pasakojime kariuomenė, sutrimitavusi trimitais ir užgrojusi birbynėmis, žengė per upę.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys perrašytas kaip vientisa šaltiniui priskirta kronikos scena.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/grupes/Radvilos.md#claim-t-188322|Radvilos]]: Šalia aprašyto antspaudo buvo kitas antspaudas su skyde pavaizduotu Vyčiu po karūna ir apačioje esančiu Radvilų Trimitų herbu.
@@ -77,7 +62,6 @@ Nenurodyta
   citata_originali: |
     Tų trimitų balsas yra graudžiai malonus, daugiau rūstas, nekaip linksmas, keliąs klausantiems aitrą ir gailesį, kursai savo gausmu, graudingumu lyginos su šios dienos variniais karės trūbais. Tokie Lietuvos trimitai yra jau minavojami 1180 gudų raštuose, kaipo įvairiu ir neregėtu daiktu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -94,7 +78,6 @@ Nenurodyta
     Ir, sutrimitavę trimitais ir užgroję birbynėmis žen­
     gė per upę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

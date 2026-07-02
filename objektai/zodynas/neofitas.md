@@ -28,11 +28,6 @@ amziai:
 - t-001
   global_id: t-179583
   teiginys: '1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII draudė Vokiečių ordinui pulti lietuvius kaip neofitus.'
-  sudarymo_pagrindimas: 'Pradinis tekstas yra fragmentas be aiškaus veiksnio.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Vakarų Bažnyčios schizma|Vakarų Bažnyčios schizma]]; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]; mentioned_person: [[objektai/asmenys/Inocentas VII|Inocentas VII]]; mentioned_place: Malburgas'
-  temporaliniai_duomenys: 'įvykio data: 1388-1404; įvykio data: 1404 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra fragmentas be aiškaus veiksnio.'
   pagrindžia:
     - c-002
 
@@ -40,8 +35,6 @@ amziai:
 - t-002
   global_id: t-179584
   teiginys: 'Lietuvos katalikai buvo laikomi neofitais, nes į tikėjimą žiūrėjo šalčiau ir labiau iš reikalo negu iš įsitikinimo.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas aiškus sakinys apie neofitus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/neofitai|neofitai]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -49,8 +42,6 @@ amziai:
 - t-003
   global_id: t-179585
   teiginys: 'Popiežius Bonifacas IX rėmė neofitą Vytautą kaip kovotoją su katalikų priešais.'
-  sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir aiškiai įvardytas Bažnyčios ganytojas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/posakiai/„krikščionys turi raudoti dėl jo mirties“.md#claim-t-186393|„krikščionys turi raudoti dėl jo mirties“]]: Eiliuotinės kronikos autorius apie neofitą Suksę rašė, kad „krikščionys turi raudoti dėl jo mirties“.
@@ -69,7 +60,6 @@ amziai:
     dina taip jų, kaip vakariečių — jie žiūri šalčiau, ypač kad jie
     neofitai daugiau iš reikalo, negu iš įsitikinimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -86,7 +76,6 @@ amziai:
     popiežiai, turėdami savo rūpesčių, negalėjo Ordino gerai pa­
     spausti, todėl jis popiežių ir neklausė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -103,7 +92,6 @@ amziai:
     Bažnyčios ganytojas gerbė ir rėmė, kaip kovotoją su katalikų
     priešais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

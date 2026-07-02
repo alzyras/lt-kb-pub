@@ -39,9 +39,6 @@ amziai:
 - t-001
   global_id: t-55201
   teiginys: 'Balińskio pateiktame 1420 m. Vytauto laiško kontekste Žemaitijos ir Lietuvos tapatumas grindžiamas viena kalba ir tais pačiais žmonėmis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Žemaičių žemė'
-  temporaliniai_duomenys: 'įvykio data: 1420 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -49,38 +46,15 @@ amziai:
 - t-002
   global_id: t-55202
   teiginys: 'Balińskio vertime formulė perteikiama žodžiais „viskas yra viena - ir žemė, ir žmonės“.'
-  susije_objektai: 'mentioned_place: Viena; mentioned_place: Žemaičių žemė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=820967c332147c26788b7983acbaf33d800d0abe2bb46fb74f5fe35065cce94c; match=not_found; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuviai: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Claim tiesiogiai įvardija žemaičius kaip lietuvių tautos dalį.
 
 <a id="claim-t-71821"></a>
 - t-003
   global_id: t-71821
   teiginys: 'Vytautas laiške teigė, kad žemaičiai yra ta pati lietuvių tautos dalis: „viskas yra viena, viena žemė ir tie patys žmonės“.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia Vytauto laiške išdėstytą poziciją.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vroclavas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=820967c332147c26788b7983acbaf33d800d0abe2bb46fb74f5fe35065cce94c; match=not_found; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuviai: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Claim tiesiogiai įvardija žemaičius kaip lietuvių tautos dalį.
 - susijęs iš Vroclavas: Jogaila ir Vytautas pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis.
 ## Reikšmingi paminėjimai
 
@@ -104,7 +78,6 @@ amziai:
     Žemaitijos vardo, nes viskas yra vie­
     na - ir žemė, ir žmonės/'
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -122,7 +95,6 @@ amziai:
     žmonės »^14. Jis pabrėžė, jog Žemaičiai nuo senovės didžiųjų kuni­
     gaikščių esą valdomi paveldėjimo teise.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

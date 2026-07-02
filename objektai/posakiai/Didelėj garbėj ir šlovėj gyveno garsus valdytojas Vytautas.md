@@ -27,7 +27,6 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
 - t-001
   global_id: t-67266
   teiginys: 'Mechovita Vytautą vadina kunigaikščiu kilnios širdies ir garsios garbės.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 
@@ -35,7 +34,6 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
 - t-002
   global_id: t-67267
   teiginys: 'Vienas kronikininkas Vytautą ir jo tėvynę apibūdina didele garbe ir šlove.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 
@@ -43,7 +41,6 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
 - t-003
   global_id: t-67268
   teiginys: 'Herberšteinas Vytautą įvardija vyru, už kurį didesnio Lietuva neturėjo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 
@@ -63,7 +60,6 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
     kitas kronikininkas Mechovita; „vyras, už kurį didesnio Lie­
     tuva neturėjo“ — išsireiškia šimtą metų vėliau Herberšteinas^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

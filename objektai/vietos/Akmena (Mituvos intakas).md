@@ -20,8 +20,6 @@ Dusburgietis teigia, kad akmena (Mituvos intakas), u.
 - t-001
   global_id: t-90278
   teiginys: 'Ašeradė) Akmena (Jūros intakas), u.'
-  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_place: Akonas'
   pagrindžia:
     - c-001
 
@@ -37,7 +35,6 @@ Dusburgietis teigia, kad akmena (Mituvos intakas), u.
       Akonas (Akra)
       Alanga, u.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

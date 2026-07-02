@@ -23,11 +23,6 @@ Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų k
 - t-001
   global_id: t-183510
   teiginys: 'Lietuvos valstybė pirmiausia atsirado kaip apsigynimo priemonė, nes tauta galėjo apsisaugoti tik sukūrusi valstybę.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas pateikta citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; llm_object: Lietuva'
   pagrindžia:
     - c-001
 
@@ -45,10 +40,8 @@ Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų k
     mis. Iš šių dienų perspektyvos galima sakyti – tauta galėjo apsisaugoti tik
     sukūrusi valstybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

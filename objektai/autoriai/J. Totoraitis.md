@@ -29,11 +29,6 @@ Totoraitis, Die Litauer unter d. K. Totoraitis, Lietuvos atgijimas;.
 - t-001
   global_id: t-64650
   teiginys: 'J. Totoraitis parašė „Sūduvos-Suvalkijos istorijos“ pirmą tomą, išleistą Kaune 1938 m.'
-  sudarymo_pagrindimas: 'Bibliografinė santrumpa palaiko autorystę ir leidimo duomenis.'
-  susije_objektai: 'mentioned_place: Kaunas'
-  temporaliniai_duomenys: 'įvykio data: 1938 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Bibliografinė santrumpa palaiko autorystę ir leidimo duomenis.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/M. Priselkov.md#claim-t-30846|M. Priselkov]]: M. D. Priselkovas rekonstravo Troickajos metraštį, 1950 m. išleistą Maskvoje.
@@ -49,7 +44,6 @@ Totoraitis, Die Litauer unter d. K. Totoraitis, Lietuvos atgijimas;.
     ToS = J. Totoraitis : Sūduvos-Suvalkijos istorija, t. 1, Kaunas
     1938.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -30,11 +30,6 @@ Tai Rygiškiu Jono redaguotas mokyklinis rašto darbu rinkinėlis įvairiomis te
 - t-001
   global_id: t-96044
   teiginys: 'Rygiškių Jonas redagavo „Pasakėčias“, skirtas kalbos ir literatūros mokslui.'
-  sudarymo_pagrindimas: 'Pataisytos kabutės ir sakinys papildytas faktiniu predikatu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
-  temporaliniai_duomenys: 'įvykio data: 1927 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pataisytos kabutės ir sakinys papildytas faktiniu predikatu.'
   pagrindžia:
     - c-001
 
@@ -48,7 +43,6 @@ Tai Rygiškiu Jono redaguotas mokyklinis rašto darbu rinkinėlis įvairiomis te
     ros mokslui. Trečias papildytas dvigubai padidintas ir pataisytas leidi­
     mas, 1927 m. 64 psl. Kaina Lt. 1,20.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

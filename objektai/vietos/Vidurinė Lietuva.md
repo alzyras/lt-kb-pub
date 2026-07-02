@@ -49,11 +49,6 @@ Nenurodyta
 - t-001
   global_id: t-102086
   teiginys: '1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota Vidurinė Lietuva.'
-  sudarymo_pagrindimas: 'Citata leidžia pridėti tikslią datą ir padaryti teiginį enciklopediškesnį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1920 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia pridėti tikslią datą ir padaryti teiginį enciklopediškesnį.'
   pagrindžia:
     - c-003
 
@@ -61,11 +56,6 @@ Nenurodyta
 - t-002
   global_id: t-102087
   teiginys: '1920 m. spalio 9 d. L. Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Vidurinės Lietuvos paskelbimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/L. Želigovskis|L. Želigovskis]]; mentioned_person: [[objektai/asmenys/M. Sleževičius|M. Sleževičius]]; mentioned_place: Lenkija; mentioned_place: Suvalkai; mentioned_place: Vilnius; llm_object: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: po 1920 m.; įvykio data: 1920 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Vidurinės Lietuvos paskelbimą.'
   pagrindžia:
     - c-002
 
@@ -73,11 +63,6 @@ Nenurodyta
 - t-003
   global_id: t-102088
   teiginys: '1920 m. spalio 9 d., dar prieš įsigalint Suvalkų susitarimui, L. Želigovskis įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/L. Želigovskis|L. Želigovskis]]; mentioned_person: [[objektai/asmenys/M. Sleževičius|M. Sleževičius]]; mentioned_place: Lenkija; mentioned_place: Suvalkai; mentioned_place: Vilnius; llm_object: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: po 1920 m.; įvykio data: 1920 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -85,11 +70,6 @@ Nenurodyta
 - t-004
   global_id: t-102090
   teiginys: '1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota „Vidurinė Lietuva“.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatinis faktinis sakinys apie Vidurinės Lietuvos suformavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1920 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatinis faktinis sakinys apie Vidurinės Lietuvos suformavimą.'
   pagrindžia:
     - c-005
 
@@ -97,12 +77,6 @@ Nenurodyta
 - t-005
   global_id: t-102091
   teiginys: '1922 m. sausį lenkai surengė rinkimus Vilniaus krašte, o Vidurinė Lietuva formaliai prisijungė prie Lenkijos.'
-  sudarymo_pagrindimas: 'Citata tikslina, kad rinkimai vyko Vilniaus krašte, vadintame Vidurine Lietuva.'
-  susije_objektai: 'llm_object: Lenkija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/posakiai/„nei karo, nei taikos“|„nei karo, nei taikos“]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: 'Vidurinė Lietuva priklausė Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1922 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata tikslina, kad rinkimai vyko Vilniaus krašte, vadintame Vidurine Lietuva.'
   pagrindžia:
     - c-004
 
@@ -110,10 +84,6 @@ Nenurodyta
 - t-006
   global_id: t-102092
   teiginys: '1922 m. sausį Vidurinėje Lietuvoje surengti rinkimai, po kurių ji formaliai prisijungė prie Lenkijos.'
-  susije_objektai: 'llm_object: Lenkija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_object: [[objektai/posakiai/„nei karo, nei taikos“|„nei karo, nei taikos“]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: 'Vidurinė Lietuva priklausė Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1922 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-004
 
@@ -121,10 +91,6 @@ Nenurodyta
 - t-007
   global_id: t-102093
   teiginys: 'Lenkijos valia surengtuose rinkimuose Želigovskio užimtoje Vidurinėje Lietuvoje balsuota, kad ji taptų Lenkijos dalimi.'
-  susije_objektai: 'llm_object: Lenkija; mentioned_place: Lietuva; mentioned_place: Lenkija'
-  semantiniai_rysiai: 'Vidurinė Lietuva priklausė Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1922 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -132,11 +98,6 @@ Nenurodyta
 - t-009
   global_id: t-102095
   teiginys: 'Vidurinės Lietuvos samprata rėmėsi požiūriu, kad nutautėję Lietuvos bajorai Lietuvą laikė Lenkijos dalimi.'
-  sudarymo_pagrindimas: 'Pradinis teiginys neįvardijo objekto ir buvo foninis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1920 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys neįvardijo objekto ir buvo foninis.'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/L. Želigovskis.md#claim-t-183558|L. Želigovskis]]: 1920 m. spalio 9 d. L. Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
@@ -167,7 +128,6 @@ Nenurodyta
     Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-
     durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -189,7 +149,6 @@ Nenurodyta
     ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
     (Litwa środkowa) sudarymą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -207,7 +166,6 @@ Nenurodyta
     Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
     suformuota „Vidurinė Lietuva“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -226,7 +184,6 @@ Nenurodyta
     nėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei
     karo, nei taikos“ situacijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -243,7 +200,6 @@ Nenurodyta
     prata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių
     tarmė – lietuvių kalba.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

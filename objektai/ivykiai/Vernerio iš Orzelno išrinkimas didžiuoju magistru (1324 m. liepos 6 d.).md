@@ -47,12 +47,6 @@ Nenurodyta
 - t-001
   global_id: t-62948
   teiginys: 'Verneris nuo 1313 m. buvo Ragainės komtūras, o nuo 1324 m. tapo didžiuoju magistru, kuriam Dusburgietis įteikė savo veikalą.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra kontekstinis fragmentas, bet citata pagrindžia Vernerio pareigas ir ryšį su veikalu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Ragainė'
-  temporaliniai_duomenys: 'įvykio data: 1237 m.; įvykio data: 1282 m.; įvykio data: po 1313 m.; įvykio data: 1313 m.; įvykio data: po 1324 m.; įvykio data: 1324 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra kontekstinis fragmentas, bet citata pagrindžia Vernerio pareigas ir ryšį su veikalu.'
   pagrindžia:
     - c-001
 
@@ -67,7 +61,6 @@ Nenurodyta
     1282 m.). Trečiajai — Ragainės komtūras nuo 1313 m., o nuo 1324 m. didysis magistras
     Verneris, kuriam kronikininkas įteikė savo veikalą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -83,7 +76,6 @@ Nenurodyta
     (III, 354). Tiksliai nurodoma ir visų vėlesnių magistrų mirties bei valdymo pradžios,
     elekcijos datos120.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified

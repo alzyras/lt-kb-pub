@@ -22,9 +22,6 @@ Apie 400 „raudonraiščių“, vadovaujamų „Nacionalinio gelbėjimo komitet
   teiginys: 'Mykolas Burokevičius buvo vienas iš komunistų vadovauto „Nacionalinio gelbėjimo komiteto“ lyderių.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=45cf2f4140c0e0c5ff9adcc62fc22a2287998e264dad43a3d09aee782ecc469b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -40,7 +37,6 @@ Apie 400 „raudonraiščių“, vadovaujamų „Nacionalinio gelbėjimo komitet
     naktį kariniuose veiksmuose iš viso daly-
     vavo apie 900 sovietinių kareivių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

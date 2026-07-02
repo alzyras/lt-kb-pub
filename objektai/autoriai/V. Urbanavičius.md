@@ -30,58 +30,22 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
 - t-001
   global_id: t-31050
   teiginys: 'V. Urbanavičius tyrinėjo degintinius kapus ir XIV a. laidoseną Lietuvoje.'
-  sudarymo_pagrindimas: 'Teiginys pataisytas į gramatišką sakinį apie autoriaus tyrimų sritį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/R. Kulikauskienė|R. Kulikauskienė]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cc28b172e04ab8359d5720ad7e0739a2a6f7bfe4f1bf771cc198cb5b337b1741; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: V. Urbanavičius: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "V. Urbanavičius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-31051"></a>
 - t-002
   global_id: t-31051
   teiginys: 'V. Urbanavičius parašė darbą „Rumšiškėnai XIV-XVI amžiais“, išleistą Vilniuje 1970 m.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Livonija'
-  temporaliniai_duomenys: 'įvykio data: 1970 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1f3e0a6a694e07d33153862e8e9d4abcc5354f97be19260a4151fc4768e20e25; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: V. Urbanavičius: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=46
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "V. Urbanavičius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-31052"></a>
 - t-003
   global_id: t-31052
   teiginys: 'V. Urbanavičius tyrė XIV a. degintinius kapus Lietuvoje, senųjų tikėjimų reliktus ir XIV-XVII a. laidoseną.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2e0801fd66d15f7a574a5cdb4b9cccd6d01b2c09fc84500193a14b93f6cf6066; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: V. Urbanavičius: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "V. Urbanavičius" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/R. Jablonskytė-Rimantienė.md#claim-t-30938|R. Jablonskytė-Rimantienė]]: R. Jablonskytė-Rimantienė pateikė duomenų apie seniausias akmens amžiaus stovyklas Lietuvoje.
 - susijęs iš Kairėnai: Sadauskaitė rašė apie Kairėnu, Sei- (^95) Pvz.
 ## Reikšmingi paminėjimai
@@ -97,7 +61,6 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
     V. Urbanavičius domėjosi degintiniais kapais ir laidosena
     Lietuvoje XIV a.^100.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -116,7 +79,6 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
     sil,’evskij, V. : _Obraščenie Gediminą v katoličestvo,_ ŽMNPr, t. 177, 1872,
     65-196 p. (liet. vert. Švietimo Darbe 1922).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -134,7 +96,6 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
     amžiais,_ AkMD, t. 22, 1966, 105-119 p.—Useser, H.: _Götternamen,_
     (cap.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

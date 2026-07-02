@@ -45,11 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-49163
   teiginys: 'Po Kuoknesės mūšio Livonijoje prie Lietuvos kariuomenės prisijungė ir Lenkijos pajėgos, o vadovavimą perėmė Janas Zamoiskis.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Kuoknesė; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Estija'
-  temporaliniai_duomenys: 'įvykio data: 1601 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
 
@@ -57,11 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-49164
   teiginys: '1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, tačiau lietuvių įgula nepasidavė.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos faktą.'
-  susije_objektai: 'llm_object: Kuoknesė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Kuoknesė; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]]; mentioned_place: Švedija'
-  temporaliniai_duomenys: 'įvykio data: 1601 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-003
 
@@ -69,12 +59,6 @@ Nenurodyta
 - t-003
   global_id: t-49165
   teiginys: '1601 m. birželio 23 d. prie Kuoknesės pagrindinė Lietuvos kariuomenė stojo prieš švedų pajėgas.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako mūšio datą, vietą ir dalyvius.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Švedai|Švedai]]; llm_object: [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)|Kuoknesės mūšis (1601 m. birželio 23 d.)]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Kuoknesė; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila Perkūnas|Kristupas Radvila Perkūnas]]'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] dalyvavo mūšyje [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)|Kuoknesės mūšis (1601 m. birželio 23 d.)]]; [[objektai/grupes/Švedai|Švedai]] dalyvavo mūšyje [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)|Kuoknesės mūšis (1601 m. birželio 23 d.)]]'
-  temporaliniai_duomenys: 'įvykio data: 1601 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako mūšio datą, vietą ir dalyvius.'
   pagrindžia:
     - c-001
 
@@ -82,42 +66,15 @@ Nenurodyta
 - t-004
   global_id: t-49166
   teiginys: 'Prieš Kuoknesės mūšį Kristupas Radvila Perkūnas birželio 2-3 d. pasiuntė Joną Sicinskį smogti K. Carlsono Gyllenhielmo kariams.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir susietas su mūšio priešistore.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila Perkūnas|Kristupas Radvila Perkūnas]]; mentioned_place: Kuoknesė; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Švedai|Švedai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 393929-394261; hash=533c49e7029787d8c9d7071aad8547eeae09fce57dd08a197bd550196f1c738a; match=exact
-  sprendimo_priezastis: final::darbas/prompts/05_quality_control/01_normalize_tags.md
-  ryšio_patikimumas: uzeme -> Kuoknesė: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Švedijos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kuoknesė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad Švedijos kariuomenė užėmė Kuoknesės miestą.
 
 <a id="claim-t-49167"></a>
 - t-005
   global_id: t-49167
   teiginys: '1601 m. balandžio 1 d. švedai užėmė Kuoknesės miestą ir pradėjo pilies apgultį.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'llm_object: Kuoknesė; mentioned_place: Kuoknesė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Švedija'
-  temporaliniai_duomenys: 'įvykio data: 1601 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f5ea273379b5a54d362c884fea84fb9757ad8943d4393ac4c2ace5518cc3f89c; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/05_quality_control/01_normalize_tags.md
-  ryšio_patikimumas: kariavo_pries -> Švedai: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Formuluotė tiesiogiai nurodo Lietuvos kariuomenės karinę priešpriešą švedams.
 - susijęs iš Kuoknesė: Prieš Kuoknesės mūšį Lietuvos kariuomenė sumušė švedų dalinį ir paėmė beveik visus Dauguva plukdytus laivus.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 ## Reikšmingi paminėjimai
@@ -134,7 +91,6 @@ Nenurodyta
     23 d. prie Kuoknesės pagrindinė Lietuvos
     kariuomenė stojo prieš švedų pajėgas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -155,7 +111,6 @@ Nenurodyta
     pilių, tarp jų - Valmierą, Rakverę, Paidę,
     buvo įsiveržta net į Šiaurės Estiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -175,7 +130,6 @@ Nenurodyta
     tyti apsiautusiai švedų kariuomenei maistą
     ir šaudmenis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

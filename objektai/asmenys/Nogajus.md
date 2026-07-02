@@ -31,23 +31,8 @@ periodo_grupes:
 - t-001
   global_id: t-87807
   teiginys: 'Nogajaus mongolai 1272 m. kartu su Haličo kunigaikščiais puolė Lietuvą.'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą be antraščių ir OCR triukšmo.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_place: Haličas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsija'
-  temporaliniai_duomenys: 'įvykio data: 1272 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti aiškų faktą be antraščių ir OCR triukšmo.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6ec90489b60b703075cca6071634ffee123ec9643c96fd7c7f3863750a91b5b6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Lietuva: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mongolai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claimas tiesiogiai teigia, kad Nogajaus mongolai puolė Lietuvą.
 - susijęs iš [[objektai/asmenys/Mamšėjus.md#claim-t-40326|Mamšėjus]]: 1279 m. pradžioje Mamšėjus vadovavo Nogajaus pasiųstai kariuomenei prieš Traidenio Lietuvą.
 - susijęs iš [[objektai/asmenys/Nogajus (Aukso ordos valdytojas).md#claim-t-40377|Nogajus (Aukso ordos valdytojas)]]: Aukso ordos valdytojas Nogajus pasiuntė Mamšėjaus vadovaujamą kariuomenę prieš Traidenio Lietuvą.
 ## Reikšmingi paminėjimai
@@ -69,7 +54,6 @@ periodo_grupes:
     tas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs
     savo tvirtovėmis ir prekyba.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

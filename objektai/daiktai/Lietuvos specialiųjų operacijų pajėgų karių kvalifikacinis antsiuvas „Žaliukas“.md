@@ -43,8 +43,6 @@ Nenurodyta
 - t-001
   global_id: t-10061
   teiginys: '„Žaliukas“ siejamas su kovinga tautos dalies būsena pavojuje, nepakantumu okupacijai ir žaliukų telkimusi ginti šalį.'
-  sudarymo_pagrindimas: 'Pašalinta boilerplate nuoroda į šaltinį.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -52,8 +50,6 @@ Nenurodyta
 - t-002
   global_id: t-10062
   teiginys: '„Žaliukas“ yra Lietuvos specialiųjų operacijų pajėgų karių kvalifikacinis antsiuvas.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -73,7 +69,6 @@ Nenurodyta
     struktūros formuojamos ne nurodymu iš
     aukščiau, bet iniciatyva iš apačios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

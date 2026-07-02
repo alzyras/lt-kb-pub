@@ -57,7 +57,6 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
 - t-001
   global_id: t-20821
   teiginys: 'Privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios ir susidarė naujas verslininkų sluoksnis.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie privatizacijos padarinius.'
   pagrindžia:
     - c-001
 
@@ -65,7 +64,6 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
 - t-002
   global_id: t-20822
   teiginys: 'Privatizuojant valstybės turtą investiciniais čekiais, daugelis gyventojų čekius pardavė ir neprivatizavo savo būsto.'
-  sudarymo_pagrindimas: 'Teiginys susietas su note objektu ir tiksliai remiasi citata.'
   pagrindžia:
     - c-002
 
@@ -83,7 +81,6 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
     tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų
     pasaulio ekonomikos standartus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,7 +97,6 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
     gyventojų čekius pardavė ir net nesugebėjo privatizuoti savo gyvenamojo
     būsto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

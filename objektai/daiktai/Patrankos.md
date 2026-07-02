@@ -52,8 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-176197
   teiginys: 'Žalgirio mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų sumišimo nesukėlė.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-006
 
@@ -61,7 +59,6 @@ Nenurodyta
 - t-002
   global_id: t-176198
   teiginys: 'Žalgirio mūšyje patrankos buvo vartotos tik pradžioje.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-007
 
@@ -69,8 +66,6 @@ Nenurodyta
 - t-003
   global_id: t-176199
   teiginys: 'XV a. patrankos buvo griozdiškos, didelės, sunkiai pervežamos ir labiau tiko tvirtovėms griauti.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, enciklopedinis ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]'
   pagrindžia:
     - c-001
 
@@ -78,7 +73,6 @@ Nenurodyta
 - t-004
   global_id: t-176200
   teiginys: 'Prie Drevencos kryžiuočiai sustiprino upės krantus ir apstatė juos patrankomis.'
-  susije_objektai: 'llm_object: Drevenca; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Drevenca'
   pagrindžia:
     - c-002
 
@@ -86,8 +80,6 @@ Nenurodyta
 - t-005
   global_id: t-176201
   teiginys: 'Skirgaila Trakų piliai ginti iš Ordino maršalkos dovanų gavo keletą didelių patrankų.'
-  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia aiškiai susieti armotas su patrankomis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Ragainė; mentioned_place: Trakai'
   pagrindžia:
     - c-003
 
@@ -95,7 +87,6 @@ Nenurodyta
 - t-006
   global_id: t-176203
   teiginys: 'Patrankos keldavo daug triukšmo, bet duodavo mažai naudos.'
-  sudarymo_pagrindimas: 'Reikia pašalinti OCR triukšmą ir suformuluoti sklandžiau.'
   pagrindžia:
     - c-004
 
@@ -103,7 +94,6 @@ Nenurodyta
 - t-007
   global_id: t-176204
   teiginys: 'Žalgirio mūšyje patrankos buvo naudotos mažai ir tik mūšio pradžioje.'
-  sudarymo_pagrindimas: 'Reikia pašalinti pažodinį, sunkesnį citatos fragmentą ir suformuluoti sklandų sakinį.'
   pagrindžia:
     - c-004
 
@@ -111,8 +101,6 @@ Nenurodyta
 - t-008
   global_id: t-176205
   teiginys: 'Mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų kariuomenėje sumišimo nesukėlė.'
-  sudarymo_pagrindimas: 'Reikia sklandesnės formuluotės ir aiškesnės sakinio sandaros.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]'
   pagrindžia:
     - c-005
 
@@ -122,16 +110,6 @@ Nenurodyta
     - c-008
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 8959-9257; hash=4f4606e91b28225941635d413fc785483a7d98061f1d5adbe78f26fc86c13588; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Artilerija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Patrankos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Artilerija: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Patrankos" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/V. Grigas.md#claim-t-80744|V. Grigas]]: Grigo vadovaujama lengvosios artilerijos 1-oji baterija (4 patrankos).
 - susijęs iš [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka.md#claim-t-183681|1916 m. modelio 77 mm vokiška patranka]]: Lietuvos kariuomenės artileristai buvo prie 1916 m. modelio 77 mm vokiškos patrankos.
 - susijęs iš [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka.md#claim-t-39233|1916 m. modelio 77 mm vokiška patranka]]: Lietuvos kariuomenės artileristai buvo užfiksuoti prie 1916 m. modelio 77 mm vokiškos patrankos.
@@ -167,13 +145,11 @@ Nenurodyta
     švino. Patrankos padarydavo daug triukšmo, bet maža nau­
     dos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-- c-002
+    - t-003- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
@@ -181,13 +157,11 @@ Nenurodyta
     buvo saugojamas. Jie čia jau buvo atvykę iš Sviečės, sustipri­
     nę upės krantus ir apstatę juos patrankomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-- c-003
+    - t-004- c-003
   santrauka: 'Skirgaila Trakų piliai ginti iš Ordino maršalkos dovanų gavo keletą didelių patrankų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -204,13 +178,11 @@ Nenurodyta
     gaila, Trakų piliai ginti gavo iš maršalkos dovanų keletą dide­
     lių armotų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-- c-004
+    - t-005- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Patrankos padarydavo daug triukšmo, bet maža nau­
@@ -219,14 +191,12 @@ Nenurodyta
     Kautynėms kariuomenė rikiuodavosi įvairiai — eilėmis,
     trikampiais, keturkampiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-    - t-006
-- c-005
+    - t-006- c-005
   santrauka: 'Mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų kariuomenėje sumišimo nesukėlė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -238,13 +208,11 @@ Nenurodyta
     už keletos mylių, tarsi buvo mušama didžiausiais kūjais į šimtą
     priekalų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-- c-006
+    - t-008- c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Iš priešin­
@@ -254,13 +222,11 @@ Nenurodyta
     žiuočiai iššovė porą kartų iš patrankų, bet jos sumišimo sąjun­
     gininkų kariuomenėj nesukėlė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-- c-007
+    - t-001- c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šoviniai patrankoms buvo daromi iš akmens arba
@@ -268,13 +234,11 @@ Nenurodyta
     dos. Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik
     pradžioje tevartojo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-- c-008
+    - t-002- c-008
   santrauka: 'Apie Teodorą Narbutą buvo pasklidę gandai, kad jis padėjo 1830-1831 m. sukilėliams lieti patrankas, bet caro valdžia to neįrodė.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -284,9 +248,7 @@ Nenurodyta
     tardė. Buvo pasklidę gandai, esą jis padėjęs sukilėliams lieti
     patrankas, tačiau caro valdžia negalėjo to įrodyti.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-010

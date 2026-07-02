@@ -48,42 +48,15 @@ Nenurodyta
 - t-001
   global_id: t-186657
   teiginys: 'Lietuvos metraštis pasakoja, kad per Bukovinos įvykius Moldavijos vaivada Steponas paėmė į nelaisvę Lenkijos Karalystės didįjį maršalą Točinskį.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Kronikos pasakojimas ir titulai šiame profilyje turi būti atribuuoti.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Bukovina; mentioned_place: Lenkija; mentioned_place: Moldavija; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ee8775d55db2b8bfc525d89a804008e58c11693b52530e18991cbc73e91bbaac; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: puole -> Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.): 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Steponas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Citata tiesiogiai aprašo Stepono puolimą Bukovinos įvykiuose.
 
 <a id="claim-t-186658"></a>
 - t-002
   global_id: t-186658
   teiginys: 'Lietuvos metraštis pasakoja, kad karaliui Olbrachtui perėjus miškus ir Bukoviną, Moldavijos vaivada Steponas su savo žmonėmis pasuko atgal.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Kronikos pasakojimas ir titulų vartosena palikti atribuuoti.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: [[objektai/ivykiai/Bukovinos mūšis traukiantis Olbrachtui|Bukovinos mūšis traukiantis Olbrachtui]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Steponas|Steponas]] puolė [[objektai/ivykiai/Bukovinos mūšis traukiantis Olbrachtui|Bukovinos mūšis traukiantis Olbrachtui]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ee8775d55db2b8bfc525d89a804008e58c11693b52530e18991cbc73e91bbaac; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Bukovina: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Bukovina: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.)" parinktas kaip owner_note_path. Targetas "Bukovina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -109,7 +82,6 @@ Nenurodyta
     Moldavijos vaivada paėmė nelaisvėn Lenkijos karalys­
     tės didįjį maršalą poną Točinskį 3 S .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

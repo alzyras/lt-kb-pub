@@ -27,44 +27,15 @@ amziai:
 - t-001
   global_id: t-23482
   teiginys: '1831 m. birželį į Lietuvą buvo pasiųsta apie 12,6 tūkst. karių turėjusi reguliarioji Lenkijos karalystės kariuomenė.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Lenkijos karalystės kariuomenė|Lenkijos karalystės kariuomenė]] siuntė į Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1831 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=651b4c24adc9cf5f22e426e8c08b325aeb741bf40f33cfdea3756bcba869432a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Lietuva: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenkijos karalystės kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claimas tiesiogiai sako, kad Lenkijos karalystės kariuomenė buvo pasiųsta į Lietuvą.
 
 <a id="claim-t-23483"></a>
 - t-002
   global_id: t-23483
   teiginys: 'Kai kurie Lenkijos karalystės kariuomenės daliniai prasiveržė atgal į Karalystės teritoriją, o kitų likučiai perėjo sieną su Prūsija.'
-  sudarymo_pagrindimas: 'Citata pagrindžia atsitraukimą, ne pralaimėjimą Vilniaus prieigose.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Vilnius; llm_object: Prūsija; llm_object: Vilnius; llm_object: Lenkija'
-  semantiniai_rysiai: '[[objektai/grupes/Lenkijos karalystės kariuomenė|Lenkijos karalystės kariuomenė]] keliavo į Prūsija; [[objektai/grupes/Lenkijos karalystės kariuomenė|Lenkijos karalystės kariuomenė]] puolė Vilnius; [[objektai/grupes/Lenkijos karalystės kariuomenė|Lenkijos karalystės kariuomenė]] keliavo į Lenkija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=35c07e7d8213041365264c34d5341a71a2b1a806d97cb6a4d4604c5ba91debcd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsija: 0.83
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenkijos karalystės kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo dalinių likučių pasitraukimą per sieną su Prūsija.
 - susijęs iš [[objektai/grupes/Laikinoji Lenkijos vyriausybė Lietuvoje.md#claim-t-23481|Laikinoji Lenkijos vyriausybė Lietuvoje]]: 1831 m. birželį Antano Gelgaudo vadovaujama Lenkijos karalystės kariuomenė Lietuvoje kūrė Laikinąją Lenkijos vyriausybę.
 - susijęs iš Kaunas: 1831 m. birželį Antano Gelgaudo vadovaujama Lenkijos karalystės kariuomenė lengvai užėmė Kauną.
 ## Reikšmingi paminėjimai
@@ -78,7 +49,6 @@ amziai:
     ko prasiveržti atgal į Karalystės teritoriją, kitų dalinių likučiai perėjo sieną
     su Prūsija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -94,7 +64,6 @@ amziai:
     vadovavo generolas Antanas Gelgaudas. Ji lengvai užėmė Kauną, bet Vil-
     niaus pulti neskubėjo, nes kūrė Laikinąją Lenkijos vyriausybę Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

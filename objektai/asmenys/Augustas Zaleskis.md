@@ -28,24 +28,8 @@ Po susitikimo Paryžiuje su Lenkijos užsienio reikalų ministru Augustu Zaleski
 - t-001
   global_id: t-18838
   teiginys: 'Augustas Zaleskis buvo Lenkijos užsienio reikalų ministras, su kuriuo Paryžiuje susitiko Augustinas Voldemaras.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia aiškų faktą apie asmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_person: [[objektai/asmenys/Augustinas Voldemaras|Augustinas Voldemaras]]; mentioned_place: Lenkija; mentioned_place: Paryžius; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Paryžius'
-  semantiniai_rysiai: '[[objektai/asmenys/Augustas Zaleskis|Augustas Zaleskis]] keliavo į Paryžius'
-  temporaliniai_duomenys: 'įvykio data: 1927 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia aiškų faktą apie asmenį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a48392c0f1d3b6410772d015496da94ce355e46ceed12a0bffa2dbe1772e3750; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Paryžius: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Augustas Zaleskis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Paryžius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Zaleskis dalyvavo susitikime Paryžiuje, todėl vietos ryšys pagrįstas.
 
 ## Reikšmingi paminėjimai
 
@@ -63,7 +47,6 @@ Po susitikimo Paryžiuje su Lenkijos užsienio reikalų ministru Augustu Zaleski
     suprasti, kad tokiomis sąlygomis derybos su lenkais sulauks kietos opo-
     zicijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

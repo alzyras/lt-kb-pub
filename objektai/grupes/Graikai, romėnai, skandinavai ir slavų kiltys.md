@@ -21,16 +21,6 @@ Narbutas mirusiųjų kūnų deginimą Lietuvoje siejo su graikų, romėnų, skan
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 643314-643764; hash=39070ff1da9d8bf91e8107d6b2c55e8039d30eeaa7c07d7db75b3c4566dc4792; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Skandinavai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Graikai, romėnai, skandinavai ir slavų kiltys: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Skandinavai: mention_match, group, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Graikai, romėnai, skandinavai ir slavų kiltys" parinktas kaip owner_note_path. Targetas "Skandinavai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -50,9 +40,7 @@ Narbutas mirusiųjų kūnų deginimą Lietuvoje siejo su graikų, romėnų, skan
     tas tiek, kad paskutiniais stabmeldystės amžiais taikytas tik
     žymesniems žmonėms laidoti.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

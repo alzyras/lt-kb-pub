@@ -20,21 +20,8 @@ Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio (Antanas Ka
 - t-001
   global_id: t-18813
   teiginys: 'Antanas Kazimeras Žemaitis sukūrė gitarą „Zemaitis“, kuria grojo Jimi Hendrixas, Ericas Claptonas, Bobas Dylanas ir kiti muzikantai.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata palaiko aiškų faktą apie asmenį.'
-  susije_objektai: 'llm_object: Londonas; mentioned_person: [[objektai/asmenys/Eric Clapton|Eric Clapton]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/David Gilmour|David Gilmour]]; mentioned_person: [[objektai/asmenys/George Harrison|George Harrison]]; mentioned_person: [[objektai/asmenys/Keith Richards|Keith Richards]]; mentioned_person: [[objektai/asmenys/Nadine Gordimer|Nadine Gordimer]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Londonas'
-  semantiniai_rysiai: '[[objektai/asmenys/Antanas Kazimeras Žemaitis|Antanas Kazimeras Žemaitis]] gimė Londonas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3203449c340cee00010cedacd446662ee791bbb59966a029ed7a697aa47f1471; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gime -> Londonas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Antanas Kazimeras Žemaitis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Londonas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje tiesiogiai nurodyta, kad Antanas Kazimeras Žemaitis gimė Londone.
 
 ## Reikšmingi paminėjimai
 
@@ -50,7 +37,6 @@ Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio (Antanas Ka
     Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
     ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -21,9 +21,6 @@ Pirmuoju akademijos rektorium buvo paskirtas mozūras, ir tada jau žinomas, o v
 - t-001
   global_id: t-184468
   teiginys: 'Petras Skarga buvo pirmasis Akademijos rektorius, žymus pamokslininkas ir publicistas.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Citata pagrindžia aiškų faktą apie Skargą; pradinė formuluotė klaidingai remiasi Kojelavičiumi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-185871|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime lietuviai pagonys, ištikimi protėvių religijai ir papročiams, sukūrė Lietuvos valstybę.
@@ -45,7 +42,6 @@ Pirmuoju akademijos rektorium buvo paskirtas mozūras, ir tada jau žinomas, o v
     smerkiamas didikų ir bajorų nepaklusnumas, nepaisy­
     mas krikščioniškosios moralės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

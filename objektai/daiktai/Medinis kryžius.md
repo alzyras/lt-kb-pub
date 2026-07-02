@@ -43,21 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-59693
   teiginys: 'Po krikšto susirgęs sūduvis Ruseinis buvo liepęs padirbdinti medinį kryžių, stovėjusį jo kojūgalyje.'
-  sudarymo_pagrindimas: 'Pradinis teiginys prasideda nereikalinga atribucija; citata leidžia aiškiai įvardyti Ruseinį ir kryžių.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Ruseinis|Ruseinis]]; mentioned_place: Baiga; mentioned_place: Viena; llm_object: [[objektai/daiktai/Medinis kryžius|Medinis kryžius]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Ruseinis|Ruseinis]] pastatė [[objektai/daiktai/Medinis kryžius|Medinis kryžius]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 521810-522408; hash=82421477b647d126b96d006cd834a6c20a024c69bb30cca752bd52277d5a8205; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Medinis kryžius: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ruseinis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Medinis kryžius: llm_allowed_candidate, thing
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Ruseinis pasirūpino medinio kryžiaus padirbdinimu.
 
 ## Reikšmingi paminėjimai
 
@@ -75,7 +62,6 @@ Nenurodyta
     ko prašomas, ir apsidairęs išvydo kojūgalyje medinį kryžių, kurį šis sūduvis buvo liepęs
     padirbdinti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

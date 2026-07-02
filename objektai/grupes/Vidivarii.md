@@ -23,22 +23,8 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 - t-001
   global_id: t-31369
   teiginys: 'Vidivarii gyveno prie Vyslos, o Jordanes Aesti lokalizavo į rytus nuo jų.'
-  susije_objektai: 'llm_object: Vysla; mentioned_place: Vysla; mentioned_author: [[objektai/autoriai/Kassiodoras|Kassiodoras]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]'
-  semantiniai_rysiai: '[[objektai/grupes/Vidivarii|Vidivarii]] gyveno Vysla'
-  temporaliniai_duomenys: 'gyvenimo laikotarpis: 375 m'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d8811967fb925a1dd9418da9d240f2618cb79fa608204c27200d3cb9e77156d0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Vysla: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vidivarii: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Vysla: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad Vidivarii gyveno prie Vyslos.
 - susijęs iš De origine actibusque Getharum: Jordanes 551 m. veikale „De origine actibusque Getharum“ aisčius apibūdino kaip visiškai taikingą tautą prie ilgo pajūrio kranto į rytus nuo Vidivarii.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176683|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos tapatumą.
 - susijęs iš [[objektai/asmenys/Zigmantas (Romos imperatorius).md#claim-t-87383|Zigmantas (Romos imperatorius)]]: 1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos santykį.
@@ -62,7 +48,6 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
     nes mini, kad gotų karalius Herrnanarikas (Herrnanaricus, miręs
     375 m.) buvęs savo valstybei pajungęs ir aisčius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

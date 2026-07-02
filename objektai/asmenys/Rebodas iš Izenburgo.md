@@ -29,24 +29,8 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 - t-001
   global_id: t-60423
   teiginys: 'Brolis Rebodas iš Izenburgo žuvo 1314 m. kovoje prie Sizditės pilies Medininkų valsčiuje.'
-  sudarymo_pagrindimas: 'Pirminis teiginys nemini objekto aiškiai; citata palaiko faktą apie Rebodo žūtį.'
-  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Sizditė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Pilėnai; llm_object: Sizditė'
-  semantiniai_rysiai: '[[objektai/asmenys/Rebodas iš Izenburgo|Rebodas iš Izenburgo]] mirė Sizditė'
-  temporaliniai_duomenys: 'įvykio data: 1314 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pirminis teiginys nemini objekto aiškiai; citata palaiko faktą apie Rebodo žūtį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f067a1e9f1731730a6143e52fab599037b7f3658b4ab5aa3f5b367001a31fcc2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Sizditė: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Rebodas iš Izenburgo: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Sizditė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Rebodas žuvo kovoje prie Sizditės pilies.
 
 ## Reikšmingi paminėjimai
 
@@ -65,7 +49,6 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
     ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
     jas nusiaubė, degindami ir piešdami.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

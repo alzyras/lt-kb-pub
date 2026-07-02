@@ -21,16 +21,6 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 160901-161304; hash=ffa7395c64d0e108e06fbf2b2feb19a1ebe0befcd81ee59187a3c4e24928f4fc; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Romovė: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Romovės šventykla: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Romovė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Šventyklos pavadinimas ir vietos nusakymas rodo jos priklausymą Romovei.
 <a id="claim-t-188905"></a>
 - t-002
   global_id: t-188905
@@ -39,16 +29,6 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 438591-438799; hash=ef2b8c97eef904dea963681009df7b4660c70abf06ef71aa0fcdd8ccb78e441f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Romovė: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Romovės šventykla: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Romovė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Formuluotė tiesiogiai nurodo Romovės šventyklą kaip su Romove susietą vietą.
 <a id="claim-t-188906"></a>
 - t-003
   global_id: t-188906
@@ -57,16 +37,6 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
     - c-003
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 460010-460435; hash=a209e6eedce98126ace530b84ba78c8baf5d57b92f973856e30c16e7951ba009; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsa: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Romovės šventykla: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Prūsa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romovės šventykla" parinktas kaip owner_note_path. Targetas "Prūsa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 <a id="claim-t-188908"></a>
 - t-004
   global_id: t-188908
@@ -75,16 +45,6 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
     - c-004
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 462784-463064; hash=583ca38b5fbaf6f870536e3c0e2a77f819dc2137d4fe3a66b0003e75b516954a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Romovė: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Romovės šventykla: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Romovė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Objektas įvardytas kaip Romovės šventykla, todėl ryšys su Romove yra tiesioginis.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -101,13 +61,10 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
     mąjį ir nekilnojamąjį turtą bei namų gyvulius, -  taip mano Strij­
     kovskis.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas rašo, kad Atrimpo stabas Romovės šventykloje stovėjo Perkūno dešinėje ir buvo medinis, su varpų vainiku.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -116,13 +73,10 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
     loje, į dešinę nuo Perkūno; buvo iš medžio, galva vainikuota
     varpomis papuoštu vainiku.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
+    - t-002- c-003
   santrauka: 'Narbutas pažymi, kad slavai šventyklas vadino gontinomis arba kontinomis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -136,13 +90,10 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
     Žinoma, kad slavai šventyklas vadino gontinomis (Gontyny) ar­
     ba kontinomis (Kontyny).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
+    - t-003- c-004
   santrauka: 'Narbutas rašo, kad Romovės šventyklą supo apeigų aikštė, kurioje buvo sukrautos malkų stirtos šventajai ugniai palaikyti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -153,10 +104,8 @@ Narbutas rašo, kad Viršaičio stabas buvo senojoje Romovės šventykloje ir bu
     buvo Adytum. Aikštėje buvo sukrautos stirtos malkų šventajai
     ugniai palaikyti.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
 

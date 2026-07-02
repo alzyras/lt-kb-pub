@@ -33,7 +33,6 @@ periodo_grupes:
 - t-001
   global_id: t-79202
   teiginys: 'Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi pasibaigė Kalitos dinastija.'
-  sudarymo_pagrindimas: 'Pradiniame teiginyje neaiškus įvardis ir yra perteklinis vertinamasis apibūdinimas.'
   pagrindžia:
     - c-002
 
@@ -41,12 +40,6 @@ periodo_grupes:
 - t-002
   global_id: t-79203
   teiginys: '1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Teodoras|Teodoras]] buvo brolis [[objektai/asmenys/Gediminas|Gediminas]]'
-  temporaliniai_duomenys: 'įvykio data: 1330-1331; įvykio data: 1331 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Nestanas.md#claim-t-186242|Nestanas]]: Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių.
@@ -73,7 +66,6 @@ periodo_grupes:
     aiškiai mini „Gedimino brolį“ Teodorą,
     Lietuvos valdovo vietininką Kijeve.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -89,7 +81,6 @@ periodo_grupes:
     pasibaigė Kalitos dinastija. Maskvoje tuomet prasidėjo per-
     versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

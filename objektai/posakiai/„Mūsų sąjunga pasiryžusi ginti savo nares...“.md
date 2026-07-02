@@ -31,14 +31,6 @@ Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento D
 - t-001
   global_id: t-183499
   teiginys: '2002 m. lapkričio 23 d. Vilniuje George''as Bushas pasakė, kad NATO pasiryžusi ginti savo nares ir kad Lietuvos priešai taptų JAV priešais.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sutvarkytos kabutės ir perrašyta į užbaigtą enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Vašingtonas; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 2002 m.; įvykio data: 2003 m.; įvykio data: 2004 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sutvarkytos kabutės ir perrašyta į užbaigtą enciklopedinį sakinį.'
   pagrindžia:
     - c-001
 
@@ -58,10 +50,8 @@ Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento D
     protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį,
     2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

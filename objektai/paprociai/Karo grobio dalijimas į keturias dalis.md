@@ -34,8 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-07781
   teiginys: 'Karo grobis buvo dalijamas į keturias dalis: dievams, kunigaikščiui su tarnais ar kunigais, kareiviams ir žuvusiųjų giminėms.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, o perrašymas glaustai įvardija visas keturias grobio dalis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Liuosybė|Liuosybė]]'
   pagrindžia:
     - c-001
 
@@ -49,7 +47,6 @@ Nenurodyta
         kareiviai, kurie buvo neprietelius pergalėję. Ketvirtoji būk tekusi gentims tų, kurie karėj buvo kritę ir
         per kurių narsybę ir kantrybę neprieteliai buvo pergalėti ir liuosybė nuo vergybos paglemžta^1349.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -22,31 +22,15 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
 - t-001
   global_id: t-87577
   teiginys: 'Sofijai Šimonovai suteiktos privilegijos buvo atšauktos ir paskelbtos negaliojančiomis visiems laikams.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo privilegijų atšaukimą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 495947-497071; hash=4e540f9134f3771e86530b11cb1a6d4e34fc658465bc5676f74b81474a843edd; match=whitespace_regex
-  sprendimo_priezastis: auto
 
 <a id="claim-t-87578"></a>
 - t-002
   global_id: t-87578
   teiginys: 'Bajorė Sofija Šimonova iš Alberto Tžasibrodos žemės turėjo mokėti kviečių dešimtinę nuo visų laukų.'
-  sudarymo_pagrindimas: 'Reikia sutvarkyti OCR paveiktą formuluotę ir suderinti vardą su objekto pavadinimu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ona Tarnavska|Ona Tarnavska]]; mentioned_place: Gelvonai'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 500784-501172; hash=6d08b2d0d1d83f92e368fe5d3da7fdc529ed430996ae731604b1ab49a4857be5; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gelvonai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sofija Šimonova: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gelvonai: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sofija Šimonova" parinktas kaip owner_note_path. Targetas "Gelvonai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -63,7 +47,6 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
     Gelvonų sritim bei tie, kurie anksčiau nuo seno dešimtinę
     duodavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -94,7 +77,6 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
     kio pasėlio ar daržovių, išskyrus avižas, ir [dešimtinę] nuo
     visų naminių gyvulių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

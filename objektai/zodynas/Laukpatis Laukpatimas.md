@@ -21,9 +21,6 @@ Narbutas Laukpatį (Laukpatimą) apibūdino kaip žemdirbių dievaitį, kuriam m
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 276188-276380; hash=b5bab303ed216f865df2d05ac9259bf556888335fd2226b371bf080a01bdd217; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -36,9 +33,7 @@ Narbutas Laukpatį (Laukpatimą) apibūdino kaip žemdirbių dievaitį, kuriam m
     Šis vardas lietuviškai reiškė laukų viešpatį, todėl jo buvo
     globojamos ariamos žemės.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

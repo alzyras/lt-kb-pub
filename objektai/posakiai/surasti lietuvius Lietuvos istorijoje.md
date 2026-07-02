@@ -30,40 +30,15 @@ Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių 
 - t-001
   global_id: t-97295
   teiginys: 'Šapoka poliublininių laikų tyrimuose „ieškojo lietuvių“ ir rašė apie Lietuvos ir Lenkijos santykius.'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną sakinį apie posakio vartoseną Šapokos tyrimuose.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4d8e8ce9935b0f0aab67221fd10f34cec880dbae788ce49f7aea723b2bf40cee; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: surasti lietuvius Lietuvos istorijoje: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "surasti lietuvius Lietuvos istorijoje" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-97296"></a>
 - t-002
   global_id: t-97296
   teiginys: '„Ieškodamas lietuvių“ poliublininiuose laikuose, tyrėjas skelbė straipsnius periodikoje nuo 1931 ir 1933 m.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Lenkija; mentioned_place: Liublinas'
-  temporaliniai_duomenys: 'įvykio data: 1933 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4d8e8ce9935b0f0aab67221fd10f34cec880dbae788ce49f7aea723b2bf40cee; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: surasti lietuvius Lietuvos istorijoje: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "surasti lietuvius Lietuvos istorijoje" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/zodynas/poliublininiai laikai.md#claim-t-32803|poliublininiai laikai]]: Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje.
 - susijęs iš [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai.md#claim-t-103840|poliublininis laikotarpis poliublininiai laikai]]: Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje.
 ## Reikšmingi paminėjimai
@@ -80,7 +55,6 @@ Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių 
     niu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenkija
     po 1569 metų Liublino unijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

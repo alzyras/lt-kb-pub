@@ -8,6 +8,11 @@ datos:
   - '1268 m.'
 date_start: '1226'
 date_end: '1268'
+description: 'Fridrichas II siejamas su Ordino teisėmis, Hermano veikla Prūsijoje ir vėlesniais Manfredo bei Konradino likimais.'
+socialDescription: 'Imperatorius Fridrichas II minimas dėl 1226 m. aukso bulės, paramos magistrui Hermanui ir ryšių su Prūsijos Ordino istorija.'
+seo_atnaujinta: '2026-07-02T20:14:54.897084+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,7 +29,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojęs ir imperatoriaus Fridricho II 1226 m. aukso bulę, o Konrado ir Ordino sutartis nušvietęs pagal Ordino 1230 m. Dusburgietis teigia, kad kai venedai buvo smarkiai sutramdyti po maišto, sukelto prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo ruožtu į Prūsijos kraštą, į. Dusburgietis teigia, kad kartą, kai popiežius Honorijus III ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė, tvirtindamas, kad jam nieku būdu nedera.
+Fridrichas II šioje žinių bazėje iškyla kaip imperatorius, susijęs su Ordino teisėmis ir magistro Hermano veikla. Dusburgiečio pasakojime jis patarė Hermanui priimti Lenkijos kunigaikščio kvietimą ir perdavė jam iš venedų gautą šventojo kryžiaus dalį, vėliau pasiųstą į Elbingo pilį. Šaltiniai taip pat mini 1226 m. aukso bulę bei Fridricho II giminės likimus: Manfredo žūtį 1265 m. ir Konradino nugalabijimą 1268 m.
 
 ## Teiginiai
 
@@ -32,140 +37,50 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 - t-001
   global_id: t-59857
   teiginys: 'Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį perleido magistrui Hermanui, kuris ją pasiuntė į Elbingo pilį.'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų sakinį apie Fridricho II veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Elbingas; mentioned_place: Prūsija; llm_object: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; llm_object: Elbingas'
-  semantiniai_rysiai: '[[objektai/daiktai/Kryžius|Kryžius]] priklausė [[objektai/asmenys/Fridrichas II|Fridrichas II]]; [[objektai/grupes/Venedai|Venedai]] rėmė [[objektai/asmenys/Fridrichas II|Fridrichas II]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=77bed12c699ef1536c414e428880a45e6af2cc5e4e63c17a8023886fa655a0cc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fridrichas II: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas II" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-59858"></a>
 - t-002
   global_id: t-59858
   teiginys: 'M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia M. Perlbacho poziciją apie Fridricho II bulę.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Perlbachas|M. Perlbachas]]; mentioned_author: [[objektai/autoriai/M. Poliakuvna|M. Poliakuvna]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kristburgas; mentioned_place: Prūsija'
-  temporaliniai_duomenys: 'įvykio data: 1226 m.; įvykio data: 1230 m.; įvykio data: 1232 m.; įvykio data: 1243 m.; įvykio data: 1245 m.; įvykio data: 1248 m.; įvykio data: 1323 m.; įvykio data: 1330 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia M. Perlbacho poziciją apie Fridricho II bulę.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=83729a22f9312f507e9ea06f8bd59dc84efaca40e9a5d965f6fb5b894fa706ce; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Fridrichas II: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžius: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Fridrichas II: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata rodo, kad kryžiaus dalis buvo perduota Fridrichui II.
 
 <a id="claim-t-59859"></a>
 - t-003
   global_id: t-59859
   teiginys: '1268 m. Sicilijos karalius Karolis paėmė į nelaisvę ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata apie Fridricho II anūką.'
-  susije_objektai: 'mentioned_place: Vokietija'
-  temporaliniai_duomenys: 'įvykio data: 1268 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata apie Fridricho II anūką.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=00fed1344ff969626b927038fb787dd5290ae79cdb9d2357f416f35df0954d23; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fridrichas II: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas II" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-59860"></a>
 - t-004
   global_id: t-59860
   teiginys: 'Popiežius Honorijus III ir imperatorius Fridrichas II slaptų nesutarimų sprendimą patikėjo broliui Hermanui.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir nutrūksta, bet citata remia glaustą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus III|Popiežius Honorijus III]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7a1ef63c9c656869c7a2e0aa1303b803dbb094dfbc97c9356fd0cd0cfff18457; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fridrichas II: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas II" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59861"></a>
 - t-005
   global_id: t-59861
   teiginys: 'Fridricho II sūnus Konradas 1251 m. užpuolė Apulijos karalystę ir Neapolį, sugriovė Neapolio sienas ir kitais metais mirė nunuodytas.'
-  sudarymo_pagrindimas: 'Perrašyta, kad būtų įtrauktas citatoje minimas Neapolio sienų sugriovimas.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; llm_object: Apulija; llm_object: Neapolis; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Apulija; mentioned_place: Neapolis; mentioned_place: Jeruzalė'
-  semantiniai_rysiai: '[[objektai/asmenys/Konradas|Konradas]] buvo sūnus [[objektai/asmenys/Fridrichas II|Fridrichas II]]'
-  temporaliniai_duomenys: 'įvykio data: 1251 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Perrašyta, kad būtų įtrauktas citatoje minimas Neapolio sienų sugriovimas.'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9e64f3417a6058ab4efab3a71b9ddd06f078ad9ac6bbf0d4d0923cd09a75af0d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Fridrichas II: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Fridrichas II: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Konradas buvo Fridricho II sūnus.
 
 <a id="claim-t-59862"></a>
 - t-006
   global_id: t-59862
   teiginys: 'Imperatorius Fridrichas II patarė magistrui Hermanui priimti Lenkijos kunigaikščio kvietimą dėl keblaus reikalo.'
-  sudarymo_pagrindimas: 'Citata Fridrichą II nurodo kaip vieną iš patarėjų, paveikusių magistro sprendimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lenkija; mentioned_place: Kulmas; mentioned_place: Viena; mentioned_place: Vokietija'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 711593-712006; hash=a87c13840b57a3e835301d114add34f641253c2d565ad75e1a13bed84450d952; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-59863"></a>
 - t-007
   global_id: t-59863
   teiginys: 'Fridrichas II turėjo nesantuokinį sūnų Manfredą, iš kurio 1265 m. Sicilijos karalius Karolis atėmė sostą ir gyvybę.'
-  sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiau sietųsi su Fridrichu II.'
-  temporaliniai_duomenys: 'įvykio data: 1265 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Perrašyta, kad teiginys aiškiau sietųsi su Fridrichu II.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=03c00a88ea7e66a5e3cb6fc58def52f6c9d6f84c532f26d487770b7963feb649; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vokietija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Fridrichas II: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Vokietija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas II" parinktas kaip owner_note_path. Targetas "Vokietija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89831|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Hermanas iš Zalcos atsisakė spręsti popiežiaus Honorijaus III ir imperatoriaus Fridricho II slaptų nesutarimų bylą.
 - susijęs iš [[objektai/asmenys/Popiežius Honorijus III.md#claim-t-60416|Popiežius Honorijus III]]: Popiežius Honorijus III ir imperatorius Fridrichas II patikėjo broliui Hermanui spręsti jų slaptų nesutarimų bylą.
 - susijęs iš [[objektai/autoriai/Potkowski E.md#claim-t-60770|Potkowski E]]: E. Potkowski cituojamas aiškinant Fridricho II ir popiežiaus ginčą dėl dvasinės bei pasaulietinės valdžios ribų.
@@ -199,7 +114,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl
     dažnų stebuklų, kuriuos viešpats padaro per tą kryžių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -222,7 +136,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     1323 m., Gedimino krikštą paremti dokumentais kaip ir duomenys apie Ordino magistro
     Vernerio nužudymą 1330 m. (Papildymas, 20).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -240,7 +153,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     nesantuokinio imperatoriaus Fridricho II sūnaus, ir gyvybę, ir sostą (Mart. p. 408; Ptol.
     22, 30).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -256,7 +168,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką, su daugybe Vokietijos
     kilmingųjų (Mart. p. 409; Ptol. 22, 34—38).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -279,7 +190,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo
     Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -301,7 +211,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     tvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats
     esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -318,7 +227,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     karaliaus dukters, užpuolė Apulijos karalystę ir Neapolį. Sienas sugriovė ligi pamatų, bet
     kitais metais pasimirė nunuodytas (Mart. p. 404).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

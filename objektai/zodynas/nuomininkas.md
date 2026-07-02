@@ -22,53 +22,22 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
 - t-001
   global_id: t-36818
   teiginys: 'Vytauto vietininkai plėtė dvarų ūkį neapgyventose žemėse, įkurdindami jose dvaro žmones arba nuomininkus.'
-  sudarymo_pagrindimas: 'Perrašyta tiksliau pagal citatą ir pašalintas neaiškus junginys apie dvarų žemes.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vergai|vergai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 598083-598457; hash=93f3e9d672d85591367777ce7bd5f34ffc9e9c96545d9009d451996d732cb10a; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> vergai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: nuomininkas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: vergai: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "nuomininkas" parinktas kaip owner_note_path. Targetas "vergai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-36819"></a>
 - t-002
   global_id: t-36819
   teiginys: 'Vytautas įkurdindavo darbininkus savo neužimtose žemėse, atleisdavo juos nuo lažo ir padarydavo laisvus nuomininkus.'
-  sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir paremtas citatoje aprašyta Vytauto praktika.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Žemaitija'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=039b0b67b5cb167ce2c5c6f75a1a9143b4da84fe2a9063792a77939b9f07c03b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: nuomininkas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=104
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "nuomininkas" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184246"></a>
 - t-003
   global_id: t-184246
   teiginys: 'Vytauto vietininkai plėtė dvarus neapgyventose žemėse, įkurdindami dvaro žmones arba nuomininkus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pataisytas OCR triukšmas ir išplėstas įvardis į aiškų subjektą.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 597940-598310; hash=9c295abf852f64d279265552eefec25be617a6a818a30741a10fc59c8418b04d; match=ocr_normalized
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -84,14 +53,11 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
     ventojai, kurie nėjo karo tarnybon ir gyveno artimose apylin­
     kėse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -106,14 +72,11 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
     prievolės atlikimo. Taip buvo kolonizuojama ir Žemaitija ir ki­
     ti kraštai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: 'Vytauto vietininkai plėtė dvarus neapgyventose žemėse, įkurdindami dvaro žmones arba nuomininkus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -126,10 +89,8 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
     duktingumą, išplėsti jį naujose, neapgyventose žemėse, įkur­
     dinant juose dvaro žmones, arba nuomininkus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003

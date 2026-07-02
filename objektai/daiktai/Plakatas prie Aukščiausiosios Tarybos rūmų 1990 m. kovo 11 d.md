@@ -48,45 +48,15 @@ Nenurodyta
 - t-001
   global_id: t-45535
   teiginys: '1990 m. kovo 11 d. prie Aukščiausiosios Tarybos rūmų Vilniuje mergaitė plakatu reikalavo ne LSSR, o Lietuvos Respublikos.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai apibūdina plakato turinį, vietą ir datą pagal citatą.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: SSRS; llm_object: Aukščiausiosios Tarybos rūmai'
-  semantiniai_rysiai: '[[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d]] priklausė Aukščiausiosios Tarybos rūmai'
-  temporaliniai_duomenys: 'įvykio data: 1990 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai apibūdina plakato turinį, vietą ir datą pagal citatą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3082f2637937d9a25f26275053f534e79892847ee3db6aaa9c01bebf44a999e6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Vilnius: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Aukščiausiosios Tarybos rūmai (institucija): llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Aukščiausiosios Tarybos rūmai yra Vilniuje.
 
 <a id="claim-t-45536"></a>
 - t-002
   global_id: t-45536
   teiginys: '1990 m. kovo 11 d. prie Aukščiausiosios Tarybos rūmų Vilniuje mergaitė laikė plakatą, reikalaujantį ne LSSR, o LR – Lietuvos Respublikos.'
-  susije_objektai: 'llm_object: Vilnius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: Aukščiausiosios Tarybos rūmai'
-  semantiniai_rysiai: '[[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d]] priklausė Aukščiausiosios Tarybos rūmai'
-  temporaliniai_duomenys: 'įvykio data: 1990 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3082f2637937d9a25f26275053f534e79892847ee3db6aaa9c01bebf44a999e6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Vilnius: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Aukščiausiosios Tarybos rūmai (institucija): llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Aukščiausiosios Tarybos rūmai yra Vilniuje.
 
 ## Reikšmingi paminėjimai
 
@@ -99,7 +69,6 @@ Nenurodyta
     Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d.
     Mergaitė su plakatu reikalauja ne LSSR, o LR – Lietuvos Respublikos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -120,7 +89,6 @@ Nenurodyta
     241
     nesilaikys SSRS konstitucijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

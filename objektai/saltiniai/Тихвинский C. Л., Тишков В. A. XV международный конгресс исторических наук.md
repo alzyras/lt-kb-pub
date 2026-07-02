@@ -26,15 +26,8 @@ Dusburgietis teigia, kad тихвинский C.
 - t-001
   global_id: t-61477
   teiginys: 'C. L. Тихвинский ir V. A. Тишков straipsnis „XV международный конгресс исторических наук“ paskelbtas 1980 m. leidinio „ВИ“ 12 numeryje, p. 3–23.'
-  sudarymo_pagrindimas: 'Citata palaiko pilną bibliografinį sakinį; pradinis teiginys palieka nutrūkusią inicialų formą.'
-  temporaliniai_duomenys: 'įvykio data: 1980 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko pilną bibliografinį sakinį; pradinis teiginys palieka nutrūkusią inicialų formą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 815534-815636; hash=204df0a1cd35cfe94e64de59531ccfe1c7d8a6ab784f54ef6968a42ce4e9ec10; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -45,7 +38,6 @@ Dusburgietis teigia, kad тихвинский C.
     Тихвинский C. Л., Тишков В. A. XV международный конгресс исторических наук.
     — ВИ, 1980, № 12, с. 3—23.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

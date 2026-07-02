@@ -42,9 +42,6 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
 - t-001
   global_id: t-45859
   teiginys: 'Rytiniuose ir pietrytiniuose lietuviško ploto pakraščiuose dalis gyventojų save laikė čiabuviais, arba tuteišiais.'
-  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Palanga; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1819 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -52,8 +49,6 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
 - t-002
   global_id: t-45860
   teiginys: 'Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės.'
-  sudarymo_pagrindimas: 'Pašalintas kontekstinis jungtukas ir sakinys suformuluotas kaip aiškus teiginys apie tuteišius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-003
 
@@ -72,14 +67,11 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
     tiniu požiūriu buvo patogesnė, nes leido suprasti ir lenkiškai kalbančius
     ponus bei kunigus, ir rusų valdžios atstovus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
-
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -93,14 +85,11 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
     procesų, prarandant lietuvio, bet neįgyjant baltarusio etninės savimonės,
     laikant save tiesiog čiabuviais (tuteišiais).
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-003
   santrauka: 'Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -114,10 +103,8 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
     įgis XIX a. antrojoje pusėje, jį sustabdys atsiradę autoritetingi etninių lie-
     tuvių tautinio sąjūdžio veikėjai, daugiausia kunigai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002

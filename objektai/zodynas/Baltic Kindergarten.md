@@ -23,20 +23,8 @@ Pakviesti į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo
 - t-001
   global_id: t-21977
   teiginys: 'Atkurtos Lietuvos URM jauni diplomatai dėl ambicijų, energijos ir netradicinių žingsnių gavo epitetą „Baltic Kindergarten“.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata aiškiai pagrindžia epiteto atsiradimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Lenino paminklas Vilniuje|Lenino paminklas Vilniuje]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6d5b64b9538405cbe3ff180507bcb3523a637234bc67557fd3b833103cf46a0f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Baltic Kindergarten: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltic Kindergarten" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -53,7 +41,6 @@ Pakviesti į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo
     Vakarų diplomatų epitetą „Baltic Kindergarten“…
     Vilniuje pašalinamas Lenino paminklas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

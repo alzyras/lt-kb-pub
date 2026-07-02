@@ -13,6 +13,11 @@ datos:
   - '1292 m.'
 date_start: '1269'
 date_end: '1292'
+description: 'Traidenis – XIII a. Lietuvos valdovas, baltų žemių jungėjas, siejamas su Drohičino užėmimu ir dinastiniais ryšiais su Mozūrija.'
+socialDescription: 'Traidenis: XIII a. Lietuvos valdovas po Mindaugo, baltų žemių jungėjas, siejamas su Drohičinu, Liudmila ir Gaudimante.'
+seo_atnaujinta: '2026-07-02T20:14:54.815689+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvos valdovų, stiprinęs valdžią artimose rusų žemėse ir jungęs baltų žemes. Jis siejamas su Liudmilos vedybomis, dukters Gaudimantės santuoka su Boleslovu II ir išskiriamas kaip pirmasis XIII a. Lietuvos valdovas, miręs savo mirtimi.
+Traidenis buvo XIII a. Lietuvos valdovas, šaltiniuose išskiriamas kaip vienas žymiausių po Mindaugo ir baltų žemių jungėjas. Jo valdymas siejamas su Lietuvos valdžios stiprinimu artimose rusų žemėse, žiemgalių rėmimu kovose Prūsijoje ir 1272 m. Drohičino užėmimu. Šaltiniai mini ir dinastinius ryšius: vedybas su Liudmila bei dukters Gaudimantės santuoką su Płocko Boleslovu II.
 
 ## Teiginiai
 
@@ -34,8 +39,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 - t-001
   global_id: t-05200
   teiginys: 'Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu baltų žemių jungėju.'
-  sudarymo_pagrindimas: 'Pašalintas boilerplate ir išlaikytas citatos remiamas vertinimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 
@@ -43,8 +46,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 - t-002
   global_id: t-05201
   teiginys: 'Traidenis buvo vedęs Mozurijos ir Kujavijos kunigaikščio Konrado I dukterį Liudmilą.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Kujavija; mentioned_place: Liublinas'
   pagrindžia:
     - c-002
 
@@ -52,11 +53,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 - t-003
   global_id: t-05202
   teiginys: '1279 m. Traidenio dukra Gaudimantė ištekėjo už Płocko Boleslovo II ir per krikštą gavo Sofijos vardą.'
-  sudarymo_pagrindimas: 'Teiginys perrašytas, kad aiškiau sietų faktą su Traideniu.'
-  susije_objektai: 'mentioned_place: Płockas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kujavija'
-  temporaliniai_duomenys: 'įvykio data: 1279 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys perrašytas, kad aiškiau sietų faktą su Traideniu.'
   pagrindžia:
     - c-003
 
@@ -64,7 +60,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 - t-004
   global_id: t-05203
   teiginys: 'Traidenis buvo pirmasis XIII a. Lietuvos valdovas, miręs savo mirtimi.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Europa'
   pagrindžia:
     - c-004
 
@@ -72,85 +67,34 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 - t-005
   global_id: t-90044
   teiginys: 'Viename dokumente pasakojama, kad kunigaikštis Traidenis įsiveržė į Dobrynės žemę.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie Traidenio įsiveržimą, bet pradinė formuluotė turi kontekstinį fragmentą.'
-  susije_objektai: 'mentioned_place: Dobrynė'
   pagrindžia:
     - c-009
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=aec34dffd98eb2d985eb8d2232a75826d7061ee54785abc3f38780b4046d991a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=77
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Traidenis (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-90046"></a>
 - t-006
   global_id: t-90046
   teiginys: 'Traidenis 1269-1282 m., remdamas žiemgalius, telkė jėgas kovai Prūsijoje.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1269-1282; įvykio data: 1282 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, faktinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ca207d7757338e13aec886b4f8c90e6e06c0abfb18788b5d15286df9ca373ad9; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kujavija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kujavija: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Traidenis (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Kujavija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-90047"></a>
 - t-007
   global_id: t-90047
   teiginys: 'Kunigaikštis Traidenis buvo kunigaikščio Dovydo Dovydavičiaus sūnus.'
-  sudarymo_pagrindimas: 'Teiginys pilnas, gramatinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5c6a1125412ff9bdc73fb2d97ed57c17c0ab2a17627f3fd49f4ed3bc794b77f6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Płockas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Płockas: mention_match, place, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Traidenis (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Płockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-90048"></a>
 - t-008
   global_id: t-90048
   teiginys: 'Pirmasis iškilo Kernavės kunigaikštis Traidenis.'
-  susije_objektai: 'mentioned_place: Dobrynė; mentioned_place: Kernavė'
   pagrindžia:
     - c-008
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f0eac27dfa4827ba1c1d723c3de33cb308664677aa1f897648d19e77ad7d9f1e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Traidenis (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-90050"></a>
 - t-009
   global_id: t-90050
   teiginys: 'Kunigaikščiai Ziemovitas ir Traidenis įsiveržė į Dobrynės žemę.'
-  sudarymo_pagrindimas: 'Pašalinta perteklinė nuoroda į dokumentą ir suformuluotas tiesioginis faktas.'
-  susije_objektai: 'mentioned_place: Dobrynė; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Ziemovitas|Ziemovitas]]'
   pagrindžia:
     - c-009
 
@@ -158,11 +102,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 - t-010
   global_id: t-90052
   teiginys: '1272 m. Traidenis pasiuntė gardiniečius prie Vakarų Bugo ir užėmė Drohičiną dabartinėje Rytų Lenkijoje.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, konkretus ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Drohičinas; mentioned_place: Lenkija; mentioned_place: Padauguvis; mentioned_place: Rusia'
-  temporaliniai_duomenys: 'įvykio data: 1272 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, konkretus ir paremtas citata.'
   pagrindžia:
     - c-005
 
@@ -170,11 +109,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 - t-011
   global_id: t-90055
   teiginys: '1281 m. Traidenis pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę niokoti Ordino užnugario, siekdamas sulaikyti kryžiuočius nuo Sūduvos.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas; palikta su Traideniu tiesiogiai susijusi ir citata paremta dalis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Nameisis|Nameisis]]; mentioned_place: Lietuva; mentioned_place: Sūduva; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_place: Kristburgas; mentioned_place: Prūsų žemė; mentioned_place: Semba'
-  temporaliniai_duomenys: 'įvykio data: 1277 m.; įvykio data: 1280 m.; įvykio data: 1281 m.; įvykio data: 1282 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas; palikta su Traideniu tiesiogiai susijusi ir citata paremta dalis.'
   pagrindžia:
     - c-010
 
@@ -182,9 +116,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 - t-012
   global_id: t-90056
   teiginys: '1272 m. Traidenis, pasiuntęs gardiniečius, užėmė prie Vakarų Bugo buvusį Drohičiną.'
-  susije_objektai: 'mentioned_place: Drohičinas; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1272 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -192,29 +123,13 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 - t-013
   global_id: t-90058
   teiginys: 'Žymus Lietuvos valdovas ir karo vadas Traidenis atkakliai gynė Lietuvą bei kitus baltus plačiuose frontuose.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Kujavija; mentioned_place: Lietuva; mentioned_place: Liublinas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=aec34dffd98eb2d985eb8d2232a75826d7061ee54785abc3f38780b4046d991a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Drohičinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Traidenis (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Drohičinas: mention_match, place, gap=65
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Traidenis (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Drohičinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184844"></a>
 - t-015
   global_id: t-184844
   teiginys: 'Kojelavičiaus pasakojime Traidenis dar Romuntui gyvam esant vadovavo kariuomenei kaip vyriausiasis vadas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys susijęs su autoriaus pasakojimo vertinimu, todėl tinka šaltinio atribucija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Romuntas|Romuntas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]'
   pagrindžia:
     - c-011
 
@@ -222,11 +137,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 - t-016
   global_id: t-184845
   teiginys: 'Traidenis, Giliginui dar esant gyvam, su trisdešimties tūkstančių kariuomene iš Lietuvos ir Prūsijos nusiaubė Mazoviją ir Kulmo žemę.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citatą galima tiksliau perteikti paminint kariuomenės kilmę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]'
   pagrindžia:
     - c-012
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176817|Vytenis (valdovas, XIII–XIV a.)]]: Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas.
@@ -283,7 +193,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     Lietuvos valdžią artimose rusų žemėse, bet buvo stiprus baltų žemių
     jungėjas.
   citata_rodoma: ''
-  teiginio_tipas: vertinimas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -298,7 +207,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     denis buvo vedęs Mozurijos ir Kujavijos kunigaikščio Konrado I
     dukterį Liudmilą^230.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -316,7 +224,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     nuo lietuvių puolimų, 1279 m. vedė Traidenio dukrą Gaudimantę
     (Gaudemundą), kuri per krikštą gavo Sofijos vardą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -334,7 +241,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     mirtimi, neberandama pėdsakų apie sukrėtimus, ar maištus, kurie
     buvo lydėję Mindaugo nužudymą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -352,7 +258,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     jotvingių žemės gynybai. Traidenis kreipė
     didelį dėmesį ir į Padauguvį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -366,7 +271,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     Dovydo Dovydavičiaus sūnus. IV. Kunigaikštis Vytenis,
     kunigaikščio Traidenio Dovydavičiausb sūnus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -381,7 +285,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     vadovaujanti jėga kovoje prieš Ordiną. Traidenis (1269—1282 m.), remdamas žiemgalius,
     telkė jėgas ir kovai Prūsijoje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -395,7 +298,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     dinastija turėjo iškilti iš savų kunigaikščių tarpo. Pirmasis iškilo
     Kernavės kunigaikštis Traidenis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -418,7 +320,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     in prenominata Plocendioc totam mise­
     rabiliter devastavit.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -438,7 +339,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį
     po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -462,7 +362,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     džiais jaunikaičiais, bet ir vyrais, galinčiais valstybę
     valdyti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -485,7 +384,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
     Birgelavą, išžudė kryžiuočių įgulą ir iš pamatų sugrio­
     vė pilį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

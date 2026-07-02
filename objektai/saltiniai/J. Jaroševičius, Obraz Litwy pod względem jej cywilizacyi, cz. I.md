@@ -27,16 +27,6 @@ Narbutas cituoja Jaroševičiaus veikalą „Obraz Litwy pod względem jej cywil
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 67580-67789; hash=05bc05807281bd021534057105f7e055b1f403c795100051125f52d7b52f28dc; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: J. Jaroševičius, Obraz Litwy pod względem jej cywilizacyi, cz. I: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=93
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Jaroševičius, Obraz Litwy pod względem jej cywilizacyi, cz. I" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -50,9 +40,7 @@ Narbutas cituoja Jaroševičiaus veikalą „Obraz Litwy pod względem jej cywil
     czasow najdawniejszych do koncawieku XVIII.-Wilno, 1844. -  Cz. I:
     Litwa poganska. -  S. 177-199.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

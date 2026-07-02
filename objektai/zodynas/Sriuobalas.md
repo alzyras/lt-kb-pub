@@ -27,7 +27,6 @@ Vartojamos formos: `sriuobalą`, `sriuobalu`.
 - t-001
   global_id: t-70049
   teiginys: '`Sriuobalas` šiame tekste reiškia skystą valgomą putrą ar sriubą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]'
   pagrindžia:
     - c-001
 
@@ -44,7 +43,6 @@ Vartojamos formos: `sriuobalą`, `sriuobalu`.
         stigavoja: „Duok, dievali,– sako, – pievoj karklyną, putroj kankolą^349 “; lygia dalia į skystą putrą
         sakoma tebėra: „Et, – sako, – pliurškalas, kruopas kruopą gaudo“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

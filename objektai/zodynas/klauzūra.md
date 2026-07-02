@@ -21,20 +21,8 @@ Dusburgietis teigia, kad be to, jie sudegino du šimtus penkiasdešimt parapini�
 - t-001
   global_id: t-58853
   teiginys: 'Nusiaubus žemę buvo sudeginta 250 parapinių bažnyčių, taip pat vienuolynų, koplyčių ir griežtos klauzūros moterų vienuolynų.'
-  sudarymo_pagrindimas: 'Pašalintas neaiškus įvadas ir paliktas citata paremtas faktas apie klauzūrą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Plockas; mentioned_place: Viena; mentioned_place: Vysla'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b5bb5990c7a1ba6f369ad94adb3d39bcf41937bb9f43388fc168d4db3696d7a0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kūnas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: klauzūra: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kūnas: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "klauzūra" parinktas kaip owner_note_path. Targetas "Kūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -52,7 +40,6 @@ Dusburgietis teigia, kad be to, jie sudegino du šimtus penkiasdešimt parapini�
     bei kraują, o pačius sakramentus, niekindami dievą, nepagarbiai mėtė žemėn ir trypė
     kojomis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -31,23 +31,8 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
 - t-001
   global_id: t-40106
   teiginys: 'Mirus Ivano IV palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusių Riurikaičių dinastija.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Fiodoro mirties pasekmę dinastijai.'
-  susije_objektai: 'llm_object: Rusija; mentioned_group: [[objektai/grupes/Riurikaičių dinastija|Riurikaičių dinastija]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Smolenskas'
-  temporaliniai_duomenys: 'įvykio data: 1610 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Fiodoro mirties pasekmę dinastijai.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0003f1b05213ad7df9258a6fefb12d479d874d09dd73f987aaf4d7023e8addd5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Rusija: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Riurikaičių dinastija: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Rusija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai apibūdina Riurikaičių dinastiją kaip valdžiusią Rusiją.
 - susijęs iš [[objektai/asmenys/Ivanas IV Rūstusis.md#claim-t-40147|Ivanas IV Rūstusis]]: Mirus Ivano IV Rūsčiojo palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusi Riurikaičių dinastija.
 - susijęs iš [[objektai/ivykiai/Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.).md#claim-t-185501|Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.)]]: Fiodoras vengė atviros kovos su Šamotulskiu, o Šamotulskis žygiuodamas pirmyn be vargo atsiėmė kelias pilis ir priartėjo prie Braclavo.
 - susijęs iš [[objektai/asmenys/Dmitrijus.md#claim-t-40086|Dmitrijus]]: Mažamečio Dmitrijaus mirtis prisidėjo prie Riurikaičių dinastijos nutrūkimo ir gilios Rusijos krizės XVII a. pradžioje.
@@ -71,7 +56,6 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
     rusų bojarinų giminių atstovai. Lenkų ka-
     riuomenė šios sumaišties metu 1610 m. su-
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

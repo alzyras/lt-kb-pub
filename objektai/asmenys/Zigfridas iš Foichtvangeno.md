@@ -30,43 +30,15 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 - t-001
   global_id: t-90250
   teiginys: 'Po Gotfrido atsistatydinimo Zigfridas iš Foichtvangeno buvo išrinktas didžiuoju magistru ir iškeliavo į Ordino būstinę Venecijoje.'
-  sudarymo_pagrindimas: 'Teiginys yra išsamus ir tiksliai paremtas pateikta citata.'
-  susije_objektai: 'llm_object: Venecija; mentioned_place: Venecija; mentioned_place: Elbingas; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Zigfridas iš Foichtvangeno|Zigfridas iš Foichtvangeno]] keliavo į Venecija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 610160-610804; hash=2f784e84aa1ebade4391331fe098ab931a3f4b53575f4cd3b86ff3ab27ec31b0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Venecija: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Zigfridas iš Foichtvangeno: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Venecija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Zigfridas iškeliavo į Veneciją.
 
 <a id="claim-t-90251"></a>
 - t-002
   global_id: t-90251
   teiginys: '1303 m. Elbingo kapituloje Zigfridas iš Foichtvangeno buvo išrinktas didžiuoju magistru.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, vietą ir pareigas, kurias patvirtina citata.'
-  susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Prūsija'
-  temporaliniai_duomenys: 'įvykio data: 1303 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, vietą ir pareigas, kurias patvirtina citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 610160-610804; hash=2f784e84aa1ebade4391331fe098ab931a3f4b53575f4cd3b86ff3ab27ec31b0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elbingas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Zigfridas iš Foichtvangeno: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigfridas iš Foichtvangeno" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Gotfrido Hohenlohės žygis į Livoniją, atsistatydinimas ir Zigfrido iš Foichtvangeno išrinkimas (1302–1303 m.).md#claim-t-62793|Gotfrido Hohenlohės žygis į Livoniją, atsistatydinimas ir Zigfrido iš Foichtvangeno išrinkimas (1302–1303 m.)]]: Gotfridui Hohenlohei atsisakius didžiojo magistro pareigų, Elbinge buvo išrinktas Zigfridas iš Foichtvangeno.
 - susijęs iš Elbingas: 1303 m. Gotfridas Elbingo kapituloje atsisakė didžiojo magistro pareigų, o ten pat buvo išrinktas Zigfridas iš Foichtvangeno.
 - susijęs iš Venecija: Venecija minima kaip vyriausioji Ordino būstinė, į kurią iškeliavo didysis magistras Zigfridas iš Foichtvangeno.
@@ -93,7 +65,6 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 
     284 (277).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

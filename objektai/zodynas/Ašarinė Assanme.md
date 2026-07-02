@@ -27,9 +27,6 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 650710-651096; hash=483624f108b97fde04e404fc085b69ab1a389cb70b3d667c2f8c32c5f28fff23; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-189114"></a>
 - t-002
   global_id: t-189114
@@ -38,9 +35,6 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 665432-666073; hash=1a71ab7ac187f6eb72dec1ce518d8352a4cce7377e2649132e4df6e17b4f1c19; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -56,13 +50,10 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
     indelių; šiuos indus, arba ašarines, pastatydavo kape prie mi­
     rusiojo kojų. Apie tai bus straipsnyje „Kapai“.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas rašė pastebėjęs sudaužytų ašarinių liekanų, kurių kai kurių šukių vidus buvo dengtas tamsiai ruda glazūra.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -78,9 +69,7 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
     puodeliai, galėję turėti vos pusantro colio skersmenį ir gal iki
     dviejų colių gylio, su šiek tiek siaurėjančiu kakleliu.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

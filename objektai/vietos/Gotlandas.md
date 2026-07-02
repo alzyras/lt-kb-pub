@@ -31,41 +31,15 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
 - t-001
   global_id: t-173439
   teiginys: 'Gotlando salai buvo adresuotas vienas iš trijų 1323 m. gegužės 26 d. laiškų Hanzos miestams.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Romai|Romai]]; mentioned_place: Vokietija'
-  temporaliniai_duomenys: 'įvykio data: 1323 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 303199-303484; hash=d7077c0a5802364935c62cea0a66a07b8386d7cbf3763c19d4f26ec9ed027821; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Švedai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gotlandas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Švedai: mention_match, group, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gotlandas" parinktas kaip owner_note_path. Targetas "Švedai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-173440"></a>
 - t-002
   global_id: t-173440
   teiginys: 'Apie 650 m. iš Gotlando ir vidurio Švedijos prasidėjo didelė švedų ekspansija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Švedija; mentioned_place: Durbė'
-  temporaliniai_duomenys: 'įvykio data: 650 m; įvykio data: apie 650 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ca5f9c968b5230a3d48e7ecc7f6ab30e7dc89fe0523494bcd874356b9610cc33; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Hanza: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gotlandas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Hanza: mention_match, group, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gotlandas" parinktas kaip owner_note_path. Targetas "Hanza" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112517|Domininkonų ordinas]]: Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande skelbė kryžiaus karą ir telkė naujus piligrimų būrius.
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112519|Domininkonų ordinas]]: Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande skelbė kryžiaus karą ir telkė piligrimus.
 - susijęs iš Gedimino laiškas Hanzos miestams ir Gotlando pirkliams (1323 m.): Gedimino laiške Hanzos miestams ir Gotlando pirkliams teigiama, kad valdovas pasiuntė popiežiui laišką dėl susivienijimo su Bažnyčia.
@@ -107,7 +81,6 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
     Apuolės pilį (prie Skuodo). VIII amž. pusėje jie randami Sauslauke
     (prie Durbės).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -124,7 +97,6 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
     Greifswaldni, Stettinui ir Gotlando salai). Du, o gal ir trys laiškai
     buvo parašyti popiežiui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

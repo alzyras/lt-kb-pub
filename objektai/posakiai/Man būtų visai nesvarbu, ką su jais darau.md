@@ -20,20 +20,8 @@ Dusburgietis teigia, kad klausiamas, dėl ko esąs ant jų taip įtūžęs, atsa
 - t-001
   global_id: t-59126
   teiginys: 'Brolis Ulrichas aiškino savo įtūžį prieš sūduvius noru būti jų sužeistam penkiomis žaizdomis kaip Kristus.'
-  sudarymo_pagrindimas: 'Citata remia geresnį sakinį su aiškiu veikėju ir kontekstu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 521114-521783; hash=fda2fc7dba88c4aae9f6bc1114078b5844158b2babd8d61291bf1b13a5b26ab7; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sūduviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Man būtų visai nesvarbu, ką su jais darau: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Sūduviai: mention_match, group, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Man būtų visai nesvarbu, ką su jais darau" parinktas kaip owner_note_path. Targetas "Sūduviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -52,7 +40,6 @@ Dusburgietis teigia, kad klausiamas, dėl ko esąs ant jų taip įtūžęs, atsa
     mane buvo sužeistas Kristus“. Šitaip ir įvyko, nes ilgainiui sūduviai, sužeidę penkiomis
     žaizdomis, jį nukovė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

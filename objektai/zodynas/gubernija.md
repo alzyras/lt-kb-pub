@@ -26,42 +26,15 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
 - t-001
   global_id: t-22158
   teiginys: 'Aneksuotoje teritorijoje iš pradžių kurtos dvi gubernijos po metų buvo sujungtos į vieną Lietuvos guberniją.'
-  sudarymo_pagrindimas: 'Sakinys padarytas glaustesnis ir aiškesnis.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Gardinas; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1801 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys padarytas glaustesnis ir aiškesnis.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9128b1cff60069c5d795f29a872737b627ad90f3ffe713d93435dfb9a49ffd47; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: gubernija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Rusija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "gubernija" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-22159"></a>
 - t-002
   global_id: t-22159
   teiginys: 'Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas iš centro arba kitų gubernijų.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai apibrėžia guberniją ir gubernatoriaus statusą pagal citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kultūrinė autonomija|kultūrinė autonomija]]; mentioned_place: Rusija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=89c49bd00e9ff5b6fda6c439fc159d31df6eb10a3623d08abdeeeb3f9813b7c3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: gubernija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "gubernija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Augustavo gubernija: Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo gubernija, o nuo 1867 m. – Suvalkų gubernija.
 - susijęs iš Gardino gubernija: Gardino gubernijos šiaurinis pakraštys istoriniu etnografiniu požiūriu buvo laikomas lietuvišku.
 - susijęs iš Gardino gubernija: 1801 m. buvo sudaryta Lietuvos Gardino gubernija, pavaldi Vilniuje veikusiai generalgubernatoriaus institucijai.
@@ -110,7 +83,6 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
     iš centro arba kitų gubernijų. Gubernijos skirstytos į apskritis (ujezd) su
     gubernatoriaus skiriamu apskrities viršininku priešakyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -127,7 +99,6 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
     Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-
     dėjusiai veikti generalgubernatoriaus institucijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

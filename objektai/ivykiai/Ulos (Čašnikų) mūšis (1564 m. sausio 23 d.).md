@@ -39,12 +39,6 @@ Nenurodyta
 - t-001
   global_id: t-09884
   teiginys: 'Per Ulos (Čašnikų) mūšį žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
-  sudarymo_pagrindimas: 'Sakinys pagrįstas citatomis, tik aiškiau susietas su note objektu.'
-  susije_objektai: 'llm_object: [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Vilnius; mentioned_place: Ivanskas; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Maskvėnai|Maskvėnai]] dalyvavo mūšyje [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]'
-  temporaliniai_duomenys: 'mirties data: 1573 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys pagrįstas citatomis, tik aiškiau susietas su note objektu.'
   pagrindžia:
     - c-004
     - c-005
@@ -53,9 +47,6 @@ Nenurodyta
 - t-002
   global_id: t-09885
   teiginys: 'Per Ulos (Čašnikų) mūšį Lietuvos didysis etmonas sutelkė smūgį prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų kilo sumaištis.'
-  sudarymo_pagrindimas: 'Patikslintas mūšio pavadinimas ir pašalintas perteklinis formulavimas.'
-  susije_objektai: 'llm_object: [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Maskvėnai|Maskvėnai]]'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]'
   pagrindžia:
     - c-002
 
@@ -63,8 +54,6 @@ Nenurodyta
 - t-003
   global_id: t-09886
   teiginys: 'Mūšio pabaigoje maskvėnai buvo triuškinami, dalis jų skendo bandydami perplaukti Ulos upę.'
-  susije_objektai: 'llm_object: [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
-  semantiniai_rysiai: '[[objektai/grupes/Maskvėnai|Maskvėnai]] dalyvavo mūšyje [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]'
   pagrindžia:
     - c-003
 
@@ -72,9 +61,6 @@ Nenurodyta
 - t-004
   global_id: t-09887
   teiginys: 'Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų.'
-  sudarymo_pagrindimas: 'Teiginys turi aiškų veikėją, veiksmą ir vietą, o faktą patvirtina citata.'
-  susije_objektai: 'llm_object: [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]; mentioned_place: Čašnikai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Petras Šuiskis|Petras Šuiskis]]; mentioned_place: Viena; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Petras Šuiskis|Petras Šuiskis]] dalyvavo mūšyje [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio.md#claim-t-41259|B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis, XVI a.)]]: Po Ulos sutriuškinimo maskvėnai prarado iniciatyvą kare, o naujo didelio jų puolimo grėsmė išnyko.
@@ -107,7 +93,6 @@ Nenurodyta
     apie 25 km atstumą. P. Šuiskis išrikiavo
     savo kariuomenę ir laukė lietuvių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -133,7 +118,6 @@ Nenurodyta
     juos išmušti iš pozicijų, priešininkų ka-
     riuomenéje kilo sumaištis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -148,7 +132,6 @@ Nenurodyta
     skerdynės. Daug bėgančių rusų pa-
     skendo, bandydami perplaukti Ulos upę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -173,7 +156,6 @@ Nenurodyta
     Taip pat nemaža kilmingųjų buvo paimta
     į nelaisvę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -190,7 +172,6 @@ Nenurodyta
     daug Maskvos kariuomenės ginklų, šarvų,
     drabužių ir atsargų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -26,40 +26,15 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
 - t-001
   global_id: t-38838
   teiginys: 'Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie 11 brigados veikimą ir paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/grupes/11 brigada|11 brigada]]; mentioned_group: [[objektai/grupes/I brigada|I brigada]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Zarasai; mentioned_group: [[objektai/grupes/Marijampolės batalionas|Marijampolės batalionas]]; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]; mentioned_place: Marijampolė'
-  semantiniai_rysiai: '[[objektai/grupes/Marijampolės batalionas|Marijampolės batalionas]] priklausė [[objektai/grupes/11 brigada|11 brigada]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 762207-762601; hash=42dfef300e193c98396060266428a6f1f1a0a553430f00137bdbaa78396e2cc5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> 11 brigada: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Marijampolės batalionas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: 11 brigada: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Marijampolės batalionas veikė 11 brigadoje.
 
 <a id="claim-t-38839"></a>
 - t-002
   global_id: t-38839
   teiginys: 'Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Lietuva; mentioned_place: Daugpilis; llm_object: Lietuva; llm_object: Daugpilis'
-  semantiniai_rysiai: '[[objektai/grupes/11 brigada|11 brigada]] valdė teritoriją Lietuva; [[objektai/grupes/11 brigada|11 brigada]] surengė žygį į Daugpilis'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 768351-768562; hash=70925cc55258a877279c0f6e29860e9e29024c0d6ed7422d64d43bc487d05739; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde_teritorija -> Lietuva: 0.56
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: 11 brigada: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Brigados dalys veikė Lietuvos teritorijos dalyje; tai atsargus teritorinio veikimo ryšys.
 
 ## Reikšmingi paminėjimai
 
@@ -75,7 +50,6 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
 
     „Po kaštanais mes persiskyrėme į dvi grupes po šešiolika vyrų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -94,7 +68,6 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
 
     niją ir veržtis toliau Daugpilio kryptimi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -113,7 +86,6 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
     onas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją
     vykdžiusi I brigada.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

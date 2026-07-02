@@ -30,24 +30,8 @@ Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė švedų įgul
 - t-001
   global_id: t-38596
   teiginys: 'Iki 1657 m. V. Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė Biržų pilyje buvusi švedų įgula.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Biržų pilį ir švedų įgulą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Bajorų konfederacija|Bajorų konfederacija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Švedija; llm_object: [[objektai/grupes/Švedai|Švedai]]'
-  semantiniai_rysiai: 'Biržų pilis priklausė [[objektai/grupes/Švedai|Švedai]]'
-  temporaliniai_duomenys: 'įvykio data: iki 1657 m.; įvykio data: 1656 m.; įvykio data: 1657 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Biržų pilį ir švedų įgulą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 519589-520402; hash=4d133f359a1bb0e658984afa2e6547a810f7c64aa75488c83d8e0e69e08ddfca; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Švedai: 0.62
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Biržų pilis (pilis): llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Švedų įgula buvo Biržų pilyje ir pasidavė Lietuvos kariuomenei, todėl tekstas remia švedų karinę kontrolę pilyje iki pasidavimo.
 
 ## Reikšmingi paminėjimai
 
@@ -68,7 +52,6 @@ Gonsievskio vadovaujamai Lietuvos kariuomenei pasidavė paskutinė švedų įgul
     tensyvėjo ir galiausiai V. Gonsievskio vadovaujamai Lietuvos ka-
     riuomenei pasidavė paskutinė švedų įgula, buvusi Biržų pilyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

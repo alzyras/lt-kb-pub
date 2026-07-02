@@ -45,8 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-08282
   teiginys: 'Balnai buvo daromi iš vieno medžio, be šikšnų ir geležies, su medžio kilpomis.'
-  teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lybiai|Lybiai]]'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/daiktai/Aukso balnai.md#claim-t-186845|Aukso balnai]]: Vytautas savo žentui Vasilijui Dimitrijevičiui dovanojo žirgų su aukso balnais tarp kitų brangių dovanų.
@@ -71,18 +69,16 @@ Nenurodyta
     priėmė anksti rytą prie Gardino, sėsdamas į balną, ir jiems nedrau­
     giškai prikišo husitų nenorą taikytis su Roma^21.
   citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-002
+
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Jojo ir grūmės su neprieteliais, ant arklių apžarga sėdėdami, ilgainiui, jei dėvėjo balnus, tad būtinai iš
         vieno medžio dirbtus, be šikšnų, be geležies, medžio kilpomis, ant virbgalių pasietomis, kokius balnus
         gal regėti šiandien dar krievių ir lybiešių žemėj.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

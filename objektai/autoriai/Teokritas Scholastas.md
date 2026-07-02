@@ -21,16 +21,6 @@ Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbin
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 280169-280586; hash=de9e08609e573e27fcc9d066a5944bffb68e491fe33650b36bc4d7d5eb1f71c8; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Romėnai: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Varpai: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Romėnai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai teigia, kad romėnai turėjo varpų, todėl varpai priskiriami romėnams.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -46,9 +36,7 @@ Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbin
     mas padeda žmonėms apsivalyti ir pasišvęsti, taip pat nuveja
     piktąsias dvasias.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

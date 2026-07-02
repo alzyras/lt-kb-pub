@@ -20,21 +20,8 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
 - t-001
   global_id: t-87796
   teiginys: 'Motiejus Kaviečnijskis birželio 1 d. į Varšuvą atsiuntė talerių, už kuriuos Lietuvoje mokėjo po 25 lietuviškus grašius.'
-  sudarymo_pagrindimas: 'Pradinis tekstas yra OCR ir konteksto fragmentų sankaupa, bet citata palaiko aiškų faktą.'
-  susije_objektai: 'llm_object: Varšuva; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Lenkija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Motiejus Kaviečnijskis|Motiejus Kaviečnijskis]] siuntė į Varšuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 825064-825495; hash=4050c798f5201fd63a29ab8052b34e5ff0876d68a9f72de2385110b05e9bdaa1; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Varšuva: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Motiejus Kaviečnijskis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Varšuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginyje tiesiogiai pasakyta, kad Motiejus Kaviečnijskis atsiuntė talerių į Varšuvą.
 - susijęs iš Dogelio rankraščiai Vilniaus universiteto bibliotekoje: Dogelio rankraščiuose buvo 1570 m. nuostolių, patirtų Lietuvos monetas keičiant į lenkiškus pinigus, sąrašas.
 - susijęs iš Sąrašas visų nuostolių Lietuvos monetas keičiant į lenkiškus pinigus (1570 m.): 1570 m. nuostolių sąraše nurodyta, kad už talerius, Lenkijoje vertintus po 30 grašių, Lietuvoje mokėta po 25 lietuviškus grašius.
 - susijęs iš Lenkija: 1570 m. sąraše nurodyta, kad už talerį Lenkijoje mokėta po 30 grašių, o Lietuvoje - po 25 lietuviškus grašius.
@@ -59,7 +46,6 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
     pats] pasiuntė 36 dukatus po 55 lenkiškus grašius. Jiems
     išleista 1 florinas 6 grašiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

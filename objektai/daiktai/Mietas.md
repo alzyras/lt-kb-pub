@@ -43,20 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-80693
   teiginys: 'Totoriai nukirto žuvusio raštininko Kopčiaus galvą, pamovė ją ant mieto ir tyčiojosi iš likusių gyvųjų.'
-  sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie mietą; pradinė formuluotė sumaišyta su nesusijusiu ginklo aprašymu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_person: [[objektai/asmenys/Kopčius|Kopčius]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 317141-317915; hash=8c0856dcdbed1e6b688c7b025a2b2ed3f22f78dd574a6e9b67d20016cc51e483; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kopčius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mietas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kopčius: mention_match, person, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mietas" parinktas kaip owner_note_path. Targetas "Kopčius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Kopčius.md#claim-t-80736|Kopčius]]: Totoriai nukirto žuvusio raštininko Kopčiaus galvą, pamovė ją ant mieto ir tyčiojosi iš likusių gyvųjų.
 - susijęs iš [[objektai/daiktai/Kablinis šautuvas.md#claim-t-183685|Kablinis šautuvas]]: Kablinio šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.
 - susijęs iš [[objektai/daiktai/Vąšas.md#claim-t-08352|Vąšas]]: Virš ugnavietės kabėjęs ąžuolo ramentas buvo vadinamas vąšu.
@@ -79,7 +67,6 @@ Nenurodyta
     movė ant mieto ir ėmė įžūliai tyčiotis iš li-
     kusių gyvųjų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -27,7 +27,6 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
 - t-001
   global_id: t-07649
   teiginys: 'Viežlybumą moterys turėjo saugoti namuose kartu su ugnimi.'
-  sudarymo_pagrindimas: 'Citatos palaiko namų saugojimo motyvą, bet reikia įvardyti objektą.'
   pagrindžia:
     - c-001
     - c-002
@@ -36,7 +35,6 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
 - t-002
   global_id: t-07650
   teiginys: 'Viežlybumas siejamas su namuose saugota dora, švara ir tvarkingu gyvenimu.'
-  sudarymo_pagrindimas: 'Pašalintas boilerplate ir sakinys glaudžiau susietas su citata.'
   pagrindžia:
     - c-001
 
@@ -47,7 +45,6 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
   citata_originali: |
     motriškosios varė plikį^377 laukan iš kiemo, o viežlybumą^378 namuose saugojo. Nesgi turėjo viežlybai^379 elgtis ir gyventi, jei iki šiai dienai tebėra jų kalboje, drabužį gerbiant, minavojami žodžiai: žluginti, skalbti, velėti, trinkti, prausti, plauti, mazgoti, balinti, skalurti, plūdurti, šviesti, baltinti ir anuoti^380.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -59,7 +56,6 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
   citata_originali: |
     didžiausias pasiėmimas kiekvienos žmonos yra saugoti namuose ugnį ir viežlybumą užlaikyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

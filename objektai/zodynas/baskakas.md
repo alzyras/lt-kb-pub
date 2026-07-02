@@ -45,8 +45,6 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 - t-001
   global_id: t-78877
   teiginys: 'Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
-  sudarymo_pagrindimas: 'Teiginys yra rišlus ir tiesiogiai pagrįstas citatos informacija apie baskakus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/tėvonys|tėvonys]]; mentioned_object: [[objektai/posakiai/„Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“|„Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“]]; mentioned_place: Podolė; mentioned_place: Tverė'
   pagrindžia:
     - c-003
 
@@ -54,9 +52,6 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 - t-002
   global_id: t-78878
   teiginys: '1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Kukovaitis|Kukovaitis]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]'
-  temporaliniai_duomenys: 'įvykio data: 1331 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -64,65 +59,23 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 - t-003
   global_id: t-78879
   teiginys: '1331 m. šalia Kijevo kunigaikščio, Lietuvos vietininko, minimas ir totorių baskakas.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai sieja totorių baskaką su 1331 m. Kijevo kontekstu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Kukovaitis|Kukovaitis]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1331 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja totorių baskaką su 1331 m. Kijevo kontekstu.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 85652-86298; hash=f1d8c9064322c9783cac9d142293468e64469774ab005af515e6c9eba3cfad2a; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
-  ryšio_patikimumas: susije_su -> Kijevas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: baskakas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "baskakas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-78880"></a>
 - t-004
   global_id: t-78880
   teiginys: 'Podolėje atamanai duoklę atiduodavo atvykstantiems Ordos baskakams.'
-  sudarymo_pagrindimas: 'Citata pagrindžia konkretų baskakų vaidmenį priimant duoklę Podolėje.'
-  susije_objektai: 'llm_object: Podolė; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_place: Kamenecas; mentioned_place: Podolė; llm_object: Kamenecas'
   pagrindžia:
     - c-001
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=da4a250c8cb7dbd53e39c6d0ccbf1a19b2c9ee6637ad5b30f6989783c319a86a; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
-  ryšio_patikimumas: gyne -> Podolė: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Karijotaičiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Podolė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje tiesiogiai pasakyta, kad Karijotaičiai ėmė ginti Podolės žemę.
 
 <a id="claim-t-187518"></a>
 - t-005
   global_id: t-187518
   teiginys: 'Lietuvos metraštis Užvolgio valdovą Balaklajų vadina chanu ir nurodo, kad jis reikalavo iš Skirmanto duoklės bei baskakų laikymo miestuose.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Valdovo titulas ir kronikos pasakojimas turi būti priskirti šaltiniui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kukovaitis|Kukovaitis]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 85652-86298; hash=f1d8c9064322c9783cac9d142293468e64469774ab005af515e6c9eba3cfad2a; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: baskakas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=61
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "baskakas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187444|Aukso orda]]: Nuo 1328 m. atsinaujinus Lietuvos puolimams, Lietuva, tikėtina, užmezgė kompromisinius santykius su Aukso orda.
 ## Reikšmingi paminėjimai
 
@@ -140,7 +93,6 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     Podolėje pastatė Smotričo,
     Bakotos, Kameneco pilis, už-
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -162,7 +114,6 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     ordos valdžios buvo reikšmingas Lietuvai,
     jos tarptautinei situacijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -184,7 +135,6 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     Algirdas „Mėlynuosius Vandenis ir Baltąją
     pakrantę nukariavo“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -209,7 +159,6 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
     noro nusileisti ir tiems jo pasiuntiniams liepė nupjaus­
     tyti nosis, lūpas, ausis ir paleisti pas chaną atgalios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

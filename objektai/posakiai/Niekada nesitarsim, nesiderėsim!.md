@@ -24,8 +24,6 @@ tags:
 - t-001
   global_id: t-09673
   teiginys: '„Niekada nesitarsim, nesiderėsim!“ buvo SSRS valdovų atsakymas į Lietuvos siūlymą tartis.'
-  sudarymo_pagrindimas: 'Perrašyta be rodomojo įvardžio, išlaikant citatos palaikomą faktą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
 
@@ -40,7 +38,6 @@ tags:
     - Niekada nesitarsim, nesiderésim! - toks buvo ssrs valdovų
     atsakymas. - Atšaukit savo paskelbtą Nepriklausomybės aktą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -36,16 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 311755-312416; hash=93866afc2a9048fc389d672790a3dfb754679b49e27fadfc25958976f7d73f36; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Koboliai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kobolių skiedrų krūva ir sugadintas pienas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Koboliai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kobolių skiedrų krūva ir sugadintas pienas" parinktas kaip owner_note_path. Targetas "Koboliai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -64,9 +54,7 @@ Nenurodyta
     jeigu pirkią iššluodavo, skiedras išmėtydavo ir pieną išpilda­
     vo, jie ramiai išeidavo ieškoti kito būsto.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

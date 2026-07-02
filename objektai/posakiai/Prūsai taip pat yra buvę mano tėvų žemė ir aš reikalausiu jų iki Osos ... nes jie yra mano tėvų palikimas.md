@@ -28,23 +28,8 @@ Dusburgietis teigia, kad 1413 m., Salyno derybų metu, Vytautas griežtai parei�
 - t-001
   global_id: t-59157
   teiginys: '1413 m. Salyno derybose Vytautas pareiškė, kad Prūsai buvę jo tėvų žemė ir kad jis reikalausiąs jų iki Osos.'
-  sudarymo_pagrindimas: 'Teiginys yra tikslus, pilnas ir paremtas citata apie Vytauto pareiškimą.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_place: Prūsų žemė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Karaliaučius; mentioned_place: Lietuva; mentioned_place: Ragainė; mentioned_place: Salynas; mentioned_place: Vysla'
-  temporaliniai_duomenys: 'įvykio data: 1412 m.; įvykio data: 1413 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, pilnas ir paremtas citata apie Vytauto pareiškimą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 25641-26080; hash=f64480cadd33d359a2ed84e15d9b9c436312b8ae076f119948505eb85369da6b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuva: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Karaliaučius: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata aiškiai sako, kad Karaliaučius kitados priklausė Lietuvai.
 
 ## Reikšmingi paminėjimai
 
@@ -58,7 +43,6 @@ Dusburgietis teigia, kad 1413 m., Salyno derybų metu, Vytautas griežtai parei�
     „...Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos (t. y. visų
     prūsų žemių iki Vyslos su Pamede imtinai — R. B.), nes jie yra mano tėvų palikimas“41.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

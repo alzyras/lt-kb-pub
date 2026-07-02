@@ -21,9 +21,6 @@ Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir iš
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 235563-235931; hash=37f04bb5a3f405b541fa1089b7991de51e42ba953b26de9202b330dddba13368; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -42,9 +39,7 @@ Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir iš
     reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
     kovskis, o deivei.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

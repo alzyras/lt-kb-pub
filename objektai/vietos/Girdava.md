@@ -39,23 +39,8 @@ amziai:
 - t-001
   global_id: t-02455
   teiginys: 'Girdavos pilis buvo įkurta 1325 m.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys, o citata nurodo Girdavos pilies įkūrimo datą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Alenšteinas; mentioned_place: Angerburgas; mentioned_place: Johanisburgas; mentioned_place: Klaipėda; mentioned_place: Lietuva; mentioned_place: Lotzenburgas; mentioned_place: Ortelsburgas; mentioned_place: Ragainė; mentioned_place: Rastenburgas; mentioned_place: Röselis; mentioned_place: Tilžė; mentioned_place: Vėluva; mentioned_place: Įsrutis'
-  temporaliniai_duomenys: 'įvykio data: 1252 m.; įvykio data: 1289 m.; įvykio data: 1293 m.; įvykio data: 1325 m.; įvykio data: 1335 m.; įvykio data: 1337 m.; įvykio data: 1340 m.; įvykio data: apie 1340 m.; įvykio data: 1345 m.; įvykio data: 1353 m.; įvykio data: 1395 m.; įvykio data: 1398 m.; įvykio data: 1435 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys, o citata nurodo Girdavos pilies įkūrimo datą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bf0d0827aa768fce70a57a293f28d7be1975c858872c4aea7d9935cb104aa734; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pilys: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Girdava: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Pilys: mention_match, thing, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Girdava" parinktas kaip owner_note_path. Targetas "Pilys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Angerburgas: Angerburgo pilis minima tarp Lietuvai artimesnių pilių, įkurtų 1335 metais.
 - susijęs iš Johanisburgas: Johanisburgas buvo viena Lietuvai artimesniųjų pilių, įkurta 1345 m.
 - susijęs iš Lotzenburgas: Lotzenburgas buvo viena iš Lietuvai artimesnių pilių, įkurta apie 1340 m.
@@ -77,7 +62,6 @@ amziai:
     - Kaip matome, Į pietus nuo Ragainės, be vėlyvos Lykos pilaitės, nebuvo
         jokios ordino pilies.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

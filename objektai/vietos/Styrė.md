@@ -18,24 +18,8 @@ Lenkams prie Lucko reikėjo persikelti per Styrės upę, tekančią dumbluota va
 - t-001
   global_id: t-185308
   teiginys: 'Lenkams prie Lucko reikėjo persikelti per Styrės upę, tekančią dumbluota vaga per pelkes tarp aukštų krantų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys gramatiškai apibūdina Styrės upę ir lenkų veiksmą pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Luckas; llm_object: Styrė'
-  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] keliavo į Styrė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 760657-761124; hash=8f5903f74cde8877f03873c83ff5a28195318922f984ce304be538fd00e92531; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Styrė: 0.66
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Styrė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo lenkų judėjimą per Styrės upę prie Lucko, nors santykis „keliavo_i“ tik apytikriai perteikia persikėlimą.
 - susijęs iš Luckas: Karo veiksmai artėjo prie Lucko, nes niekas nedrįso ginklu ginti Boleslovo.
 ## Reikšmingi paminėjimai
 
@@ -53,7 +37,6 @@ Lenkams prie Lucko reikėjo persikelti per Styrės upę, tekančią dumbluota va
     mą plaustams ir tiltams, lenkai nežinojo, kaip galės stoti
     į kovą ir kaip nusigaus į kitą krantą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

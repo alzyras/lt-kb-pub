@@ -31,8 +31,6 @@ amziai:
 - t-001
   global_id: t-05378
   teiginys: 'Imperatorius Zigmantas teisinosi, kad sprendimą priėmė žiūrėdamas ne bičiulystės, o teisybės.'
-  sudarymo_pagrindimas: 'Reikia patikslinti, kuris Zigmantas minimas citatoje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/imperatorius Zigmantas|imperatorius Zigmantas]]'
   pagrindžia:
     - c-001
 
@@ -50,7 +48,6 @@ amziai:
     diną nugalėję ir priešo žemėje su ginklu stovėdami », patys sutiko
     jam pripažinti Žemaičius^16.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

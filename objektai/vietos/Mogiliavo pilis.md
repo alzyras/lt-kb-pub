@@ -21,21 +21,8 @@ tags:
 - t-001
   global_id: t-86089
   teiginys: 'Prie Mogiliavo pilies buvusios dvaro žemės buvo skirtos karalienei Elenai valdyti iki gyvos galvos.'
-  sudarymo_pagrindimas: 'Teiginys išlaiko citatos faktą apie žemes prie Mogiliavo pilies.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Mogiliavas; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; llm_object: Mogiliavo pilis'
-  semantiniai_rysiai: '[[objektai/asmenys/Elena|Elena]] valdė Mogiliavo pilis'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 707596-708210; hash=71b4326c6616a58fd3aec107e118c46a883b9a4eb4680bd813ba95d085c82a91; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Mogiliavo pilis: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Mogiliavo pilis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad prie Mogiliavo pilies esančios žemės skirtos Elenai valdyti iki gyvos galvos.
 
 ## Reikšmingi paminėjimai
 
@@ -60,7 +47,6 @@ tags:
     galvos. To viso aiškiam paliudijimui mūsų antspaudas prie
     šio rašto yra prikabintas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

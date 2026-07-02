@@ -42,7 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-66606
   teiginys: 'Karusės mūšyje žuvo Livonijos magistras Ottonas Luterbergas ir 52 Ordino broliai.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Luterbergas|Luterbergas]]; mentioned_person: [[objektai/asmenys/Ottonas Luterbergas|Ottonas Luterbergas]]; mentioned_place: Livonija; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Talinas'
   pagrindžia:
     - c-003
 
@@ -57,12 +56,6 @@ Nenurodyta
 - t-003
   global_id: t-66608
   teiginys: 'Karusės mūšyje lietuviai ir vyskupų pajėgos 1270 m. vasario 16 d. ties Karuse susitiko ant užšalusios jūros ledo.'
-  sudarymo_pagrindimas: 'Pradiniame teiginyje neaišku, kurios kariuomenės minimos.'
-  susije_objektai: 'llm_object: [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)|Karusės mūšis (1270 m. vasario 16 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Saremos'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)|Karusės mūšis (1270 m. vasario 16 d.)]]'
-  temporaliniai_duomenys: 'įvykio data: 1270 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje neaišku, kurios kariuomenės minimos.'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
@@ -76,7 +69,6 @@ Nenurodyta
     | prie Karuzo šv. Mergelės Julijonos dieną ant
     | ledo sumušė lietuviai.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -91,7 +83,6 @@ Nenurodyta
     ties Karuse (Virtsu) 1270 m. vasario 16 d.
     susitiko ant užšalusios jūros ledo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -109,7 +100,6 @@ Nenurodyta
     bėjo Tartu, Lealio vyskupai ir riteriai iš
     Talino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

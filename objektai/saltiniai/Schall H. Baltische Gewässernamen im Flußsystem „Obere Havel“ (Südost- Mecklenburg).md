@@ -26,15 +26,8 @@ Dusburgietis teigia, kad schall H.
 - t-001
   global_id: t-61284
   teiginys: 'H. Schallo straipsnis apie baltiškus vandenvardžius Obere Havel upių sistemoje paskelbtas „Baltistica“ 1966 m. numeryje 2(1).'
-  sudarymo_pagrindimas: 'Citata pagrindžia autorių, temą, leidinį, metus ir numerį.'
-  temporaliniai_duomenys: 'įvykio data: 1966 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, temą, leidinį, metus ir numerį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 796366-796491; hash=33fa806459d21ee61bef57203971f55df5c727ada2785c2800828ed135eef80e; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -45,7 +38,6 @@ Dusburgietis teigia, kad schall H.
     Schall  H.  Baltische  Gewässernamen  im  Flußsystem  „Obere  Havel“  (Südost-
     Mecklenburg).—Baltistica, 1966, 2(1), p. 7—42.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

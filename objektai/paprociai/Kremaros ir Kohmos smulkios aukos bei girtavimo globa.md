@@ -36,9 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 290672-290992; hash=e9fbe94d858d8ff0dbb048c930fe22658d932ea2af75814890afc5b7360a059c; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -56,9 +53,7 @@ Nenurodyta
     sau ir aukai. Kalbėdamas apie jį, Lasickis nieko daugiau ne­
     nurodo, tik tai, kad jam aukodavo pildami alaus į ugnį.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

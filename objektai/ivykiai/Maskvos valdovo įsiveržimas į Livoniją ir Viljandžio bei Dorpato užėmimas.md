@@ -30,45 +30,15 @@ Nenurodyta
 - t-001
   global_id: t-185750
   teiginys: 'Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią buvo sakęsis telkiąs karui prieš skitus ir švedus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Livonija; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Palenkė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1246565-1247289; hash=c713d8b8c2b022e231530fcf2c8b80d8f27b61b0dd6f6d2d56f717a27aaa5917; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Livonija: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ivanas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Ivano įsiveržimą į Livoniją.
 
 <a id="claim-t-185751"></a>
 - t-002
   global_id: t-185751
   teiginys: 'Maskvėnai su 120 tūkstančių vyrų kariuomene netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys faktinis, bet formuluotė su „žygiu“ negramatiška.'
-  susije_objektai: 'llm_object: Dorpatas; llm_object: Viljandis; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Viljandis; mentioned_object: [[objektai/zodynas/magistras|magistras]]; llm_object: Livonija'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1247390-1247761; hash=b69fb1503738c0654262bac87d7ba30f36aba107fcedad505bfd1b27910dc862; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Dorpatas: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Maskvėnai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Dorpatas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Dorpatą tarp maskvėnų užimtų vietų.
 
 ## Reikšmingi paminėjimai
 
@@ -95,14 +65,11 @@ Nenurodyta
     karui prieš skitus ir švedus, baimindamasis, matyt, kad
     Augustas pirmas neužimtų šio krašto.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Maskvėnai su 120 tūkstančių vyrų kariuomene netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -116,10 +83,8 @@ Nenurodyta
     apygardos valdytoją Dorpato vyskupą ir visą dvasinin­
     kų kolegiją.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002

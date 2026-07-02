@@ -41,9 +41,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1071721-1072083; hash=68e4db683af76c47c648297bd9403195d14f1b98dfffc19c7a545d0080d3257f; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-66679"></a>
 - t-002
   global_id: t-66679
@@ -52,9 +49,6 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=73426ab509e6753966cb92bd6a29a620a7f5816240e7cb5a2daba2dc5bd813ef; match=normalized; occurrences=1
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -68,13 +62,10 @@ Nenurodyta
     maža. Todėl buvo pradėta rūpintis juos suburti į atskiras dalis,
     apginkluoti ir, atsidarius frontui, grąžinti į Lietuvą.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Lietuvių karininkams pavyko suorganizuoti kelis lietuviškus batalionus Vitebske, Smolenske, Rovnoje, Sibire ir kitur.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -88,9 +79,7 @@ Nenurodyta
     daugumas lietuvių karių grįžo atskirai, kartu su karo pabėgė-
     liais.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

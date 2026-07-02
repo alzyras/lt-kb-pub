@@ -46,11 +46,6 @@ Nenurodyta
 - t-001
   global_id: t-86908
   teiginys: '1533 m. spalio 23 d. Vilniuje surašytas raštas įpareigojo apžiūrėti Onos Hlebavičienės skundžiamus nuostolius.'
-  sudarymo_pagrindimas: 'Reikia pašalinti OCR triukšmą ir datos formulę paversti faktiniu sakiniu apie įvykį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Pinskas; mentioned_place: Viena; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1533 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia pašalinti OCR triukšmą ir datos formulę paversti faktiniu sakiniu apie įvykį.'
   pagrindžia:
     - c-001
 
@@ -85,7 +80,6 @@ Nenurodyta
     Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
     aniae, Russiae, totiusq.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

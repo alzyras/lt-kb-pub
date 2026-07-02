@@ -18,23 +18,8 @@ Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė
 - t-001
   global_id: t-186341
   teiginys: 'Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Reikia aiškiau įvardyti laiško turinį ir pašalinti neapibrėžtą formuluotę.'
-  susije_objektai: 'llm_object: Livonija; mentioned_group: [[objektai/grupes/Valavičiai|Valavičiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Eustachijus Valavičius|Eustachijus Valavičius]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos luomai|Lietuvos luomai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Lietuva; mentioned_place: Livonija; llm_object: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1255312-1255957; hash=5ff1173f6fda949b9e344175a3f5b2a9c503a2f425bf87dc3ce152028503834e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Livonija: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Žygimantas Augustas ketino ginti Livoniją.
 
 ## Reikšmingi paminėjimai
 
@@ -59,10 +44,8 @@ Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė
     v o n i ja
     23.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

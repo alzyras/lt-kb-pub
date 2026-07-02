@@ -29,24 +29,8 @@ Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingi
 - t-001
   global_id: t-19193
   teiginys: 'Petras Kubiliūnas 1934 m. vadovavo dalinių išvedimui į Kauno gatves, laikytam pavojingiausiu voldemarininkų pučo bandymu.'
-  sudarymo_pagrindimas: 'Pradinis sakinys taisytinas, kad tiesiogiai įvardytų asmens veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_place: Kaunas; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Europa; mentioned_place: Italija; mentioned_place: Latvija; mentioned_place: Lietuva; llm_object: Kaunas'
-  semantiniai_rysiai: '[[objektai/asmenys/Petras Kubiliūnas|Petras Kubiliūnas]] siuntė į Kaunas'
-  temporaliniai_duomenys: 'įvykio data: 1934 m.; įvykio data: 1941-1942; įvykio data: 1942 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis sakinys taisytinas, kad tiesiogiai įvardytų asmens veiksmą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d4982107987c0c87cae567612382176372dc70106668ec8d3738e8f01eae91ee; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Kaunas: 0.78
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Petras Kubiliūnas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kubiliūnas vadovavo dalinių išvedimui į Kauno gatves.
 - susijęs iš [[objektai/zodynas/vadybos.md#claim-t-26341|vadybos]]: Nacių okupacijos metais vokiečių valdžia Lietuvos ministerijas pervadino vadybomis.
 - susijęs iš [[objektai/zodynas/vadybos.md#claim-t-26341|vadybos]]: Nacių okupacijos metais vokiečių valdžia Lietuvos ministerijas pervadino vadybomis.
 ## Reikšmingi paminėjimai
@@ -66,7 +50,6 @@ Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingi
     Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pa-
     vojingiausias.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

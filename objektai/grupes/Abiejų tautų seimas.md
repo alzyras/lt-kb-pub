@@ -32,16 +32,6 @@ Narbutas abiejų tautų seimą tapatino su Liublino unija ir siejo jį su tų me
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 899242-899711; hash=19398bb25df97ff3717afd19131150ef6b149c69874902a996f66b5821b9568b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Liublinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Abiejų tautų seimas: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Liublinas: mention_match, place, gap=31
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Abiejų tautų seimas" parinktas kaip owner_note_path. Targetas "Liublinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -59,9 +49,7 @@ Narbutas abiejų tautų seimą tapatino su Liublino unija ir siejo jį su tų me
     kį gavau išvertęs iš lotynų kalbos, norėdamas juo
     paremti teiginius, išdėstytus anksčiau šiame tome.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

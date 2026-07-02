@@ -40,7 +40,6 @@ Nenurodyta
 - t-001
   global_id: t-09545
   teiginys: 'Po totorių plėšimų buvo paskelbta bajorų mobilizacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]'
   pagrindžia:
     - c-001
 
@@ -48,8 +47,6 @@ Nenurodyta
 - t-002
   global_id: t-09547
   teiginys: 'Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, kad jos jau nebereikėdavo.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171410|Totoriai]]: Po apiplėšimų totoriai stengdavosi greitai pasitraukti, todėl bajorų pašauktinės kariuomenės mobilizacija dažnai vėluodavo.
@@ -68,7 +65,6 @@ Nenurodyta
     būrį, kuriam pavyko užklupti nedi-
     delį totorių padalinį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -86,7 +82,6 @@ Nenurodyta
     nizacinės Lietuvos karinės organizacijos
     silpnosios vietos leido totoriams dažnai
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

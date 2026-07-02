@@ -49,16 +49,6 @@ Tekste jos siejamos su viešu išplakimu.
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 19289-19589; hash=5c275f45edc93edaeb7b340b3403a2c22d914a2c9b74cc85914ba4ae4292383a; match=exact
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: keliavo_i -> Kaukazas: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Liudvikas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kaukazas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Liudvikas buvo išsiųstas į Kaukazą.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -71,13 +61,10 @@ Tekste jos siejamos su viešu išplakimu.
     tą rykštėmis, sūnų išsiunčia eiliniu kareiviu į Kaukaze veikian­
     čią rusų armiją. Tai buvo didelis smūgis tėvui.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
 ## Šaltiniai ir įrodymai
 
 Nenurodyta

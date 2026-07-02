@@ -39,26 +39,8 @@ Nenurodyta
 - t-001
   global_id: t-185930
   teiginys: 'Apie Kauno pilies įgulos žūtį degančios pilies liepsnose paprasti žmonės giedojo gedulo raudas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys suprantamas, bet perteklinis ir su nereikalinga autorine formule.'
-  susije_objektai: 'llm_object: Kaunas; mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  temporaliniai_duomenys: 'įvykio data: 1362 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys suprantamas, bet perteklinis ir su nereikalinga autorine formule.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 427592-428447; hash=d4a001c76641eef579dd56c011a46613ee700e8061632e0b53eba29d378edfd9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kaunas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citatoje kryžiuočiai apibūdinami kaip užgriuvę Kauną, todėl palaikomas puolimo ryšys.
 
 ## Reikšmingi paminėjimai
 
@@ -92,10 +74,8 @@ Nenurodyta
     das. Tik trisdešimt šeši bajorai kartu su Vaidotu, Kęs­
     tučio sūnumi, gyvi pakliuvo į nelaisvę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

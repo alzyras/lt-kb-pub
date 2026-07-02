@@ -36,7 +36,6 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 - t-001
   global_id: t-00043
   teiginys: 'Būga kartu su Jauniumi vadino aisčių gimines aisčiais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_place: Baltija; mentioned_place: Prūsų žemė'
   pagrindžia:
     - c-001
 
@@ -44,7 +43,6 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 - t-002
   global_id: t-64668
   teiginys: 'K. Būga manė, kad dauguma gotiškos kilmės žodžių į baltų kalbas pateko per slavus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Baltija; mentioned_place: Prūsų žemė'
   pagrindžia:
     - c-003
 
@@ -52,33 +50,13 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 - t-003
   global_id: t-64669
   teiginys: 'K. Būga yra „Rinktinių Raštų“, sudarytų V. Zinkevičiaus ir išleistų Vilniuje 1958-1961 m., autorius.'
-  sudarymo_pagrindimas: 'Pradinė formuluotė silpna, bet bibliografinė nuoroda palaiko aiškesnį teiginį.'
-  susije_objektai: 'mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1958-1961; įvykio data: 1961 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė silpna, bet bibliografinė nuoroda palaiko aiškesnį teiginį.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b0817c4f1b0eabfc6317d4b5e06ec0a03706034f2c1d67991e6ff330c7d7e534; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilnius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: K. Būga: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=68
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Būga" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-64672"></a>
 - t-004
   global_id: t-64672
   teiginys: 'K. Būga 1924 m. paskelbė darbą „Die Vorgeschichte der aistischen (baltischen) Stämme im Lichte der Ortsnamenforschung“.'
-  sudarymo_pagrindimas: 'Bibliografinė citata palaiko aiškesnį sakinį su publikavimo metais ir pataisytu OCR triukšmu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas'
-  temporaliniai_duomenys: 'įvykio data: 1924 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Bibliografinė citata palaiko aiškesnį sakinį su publikavimo metais ir pataisytu OCR triukšmu.'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/asmenys/Gebhardas.md#claim-t-60283|Gebhardas]]: Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir vienam jų kalaviju nukirto galvą.
@@ -144,7 +122,6 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     taip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,
     yra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -159,7 +136,6 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     BūRR = Būga, K. : Rinktiniai Raštai, sudarė V. Zinkevičius, 1-3,
     Vilnius 1958-61.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -175,7 +151,6 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     ba, stiklas, šalmas, lūkas, piela, muitas, tuinas) K. Būgos nuomone
     esą patekę į baltų kalbas ne tiesioginiu keliu, bet per slavus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -193,7 +168,6 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     manais_ , Kalba ir Senovė, I, Kaunas 1922, 60-75 p. — Endzelin, J. :
     _Slavjano-baltijskie etjudy_ , Charkov 1911.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

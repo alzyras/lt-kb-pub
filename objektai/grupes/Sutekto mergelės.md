@@ -21,9 +21,6 @@ Narbutas Sutekto mergeles aprašė kaip Žemės motinos patarnautojas, per nakt�
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 257983-258383; hash=8a2fadc08e050e23e3136bf2fbeb0bc16021d697ab48d5d4cf0d1ea5bad77657; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -39,9 +36,7 @@ Narbutas Sutekto mergeles aprašė kaip Žemės motinos patarnautojas, per nakt�
     dirbti įvairius nebaigtus darbus, kad po nakties žmonės rastų
     viską gatava.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

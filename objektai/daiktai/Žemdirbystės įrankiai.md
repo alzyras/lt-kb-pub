@@ -67,7 +67,6 @@ Nenurodyta
     geležinius darbo įrankius (piautuvus, dalges, plačiaašmenius kirvius),
     buvo imta sėkmingiau ūkininkauti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

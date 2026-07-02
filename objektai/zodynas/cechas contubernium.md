@@ -23,31 +23,15 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
 - t-001
   global_id: t-86461
   teiginys: 'Auksakalys kaltintas savavališkai plėtojęs amatą atskirai nuo cecho narių ir pardavinėjęs dirbinius nepaisydamas cecho privilegijų.'
-  sudarymo_pagrindimas: 'Pradinė frazė turi OCR ir puslapio triukšmo; citata pagrindžia aiškų faktą apie cechą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 818002-819025; hash=601ecc7cd9b69e434675cd806bc1d8e1111cdd70508c455ac9fd15e5de36ac3e; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Steponas Genseris: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: cechas contubernium: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Steponas Genseris: mention_match, person, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "cechas contubernium" parinktas kaip owner_note_path. Targetas "Steponas Genseris" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-86462"></a>
 - t-002
   global_id: t-86462
   teiginys: 'Vilniaus auksakalių cecho reikalavimu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo cecho privilegijai.'
-  sudarymo_pagrindimas: 'Pradinis sakinys nutrūkęs; citata remia aiškų teiginį apie cecho veikimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Genseris|Steponas Genseris]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a9236669bea6f0797b3835b43ce6dea7dcf809b267bfec5ce25c37f31ebb37c1; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -87,7 +71,6 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
     negerbdamas privilegijų, leistų minėtam cechui, kaip visa
     tai mūsų šaukime į teismą aiškiau yra aprašyta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -118,7 +101,6 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
     Senjoras gali reikšti kunigaikštį
     (vert.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

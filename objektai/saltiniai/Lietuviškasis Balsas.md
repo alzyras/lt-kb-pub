@@ -23,9 +23,6 @@ tags:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=dd7969dd0aed0a40aaae3a30c2e156bbfddb317e063685ea2780169746c1f93f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 <a id="claim-t-67435"></a>
 - t-002
   global_id: t-67435
@@ -34,9 +31,6 @@ tags:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9d66131779be7284f67f35b9ed24a01354bf3320273b31f4b81e8a69d19c4f99; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 <a id="claim-t-67436"></a>
 - t-003
   global_id: t-67436
@@ -45,9 +39,6 @@ tags:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9d66131779be7284f67f35b9ed24a01354bf3320273b31f4b81e8a69d19c4f99; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -62,13 +53,10 @@ tags:
     nemažėjo; jį dar labiau paskatino tautiškasis Amerikos lietu-
     vių judėjimas, ypač pagyvėjęs su 1883 m. atsiradusia „Aušra".
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: '1885 m. pradėtas leisti laikraštis „Lietuviškasis Balsas“, kurį leidėjui teko beveik vienam rašyti, spausdinti ir platinti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -81,10 +69,8 @@ tags:
     susipratimą, ragino pačius lietuvius tvarkyti savo gyvenimą, o
     nesiglausti prie lenkų.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
     - t-003

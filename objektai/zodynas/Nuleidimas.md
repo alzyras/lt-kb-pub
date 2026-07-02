@@ -21,16 +21,6 @@ Narbutas, remdamasis Lasickiu, nuleidimu vadina pirmos alaus statinės pradėjim
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 610879-611309; hash=ea692814da11b936f530472cae2686d062ff7147bb5ff454ec65e29e4f101ecc; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lasickis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Nuleidimas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lasickis: mention_match, author, gap=10
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nuleidimas" parinktas kaip owner_note_path. Targetas "Lasickis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -49,9 +39,7 @@ Narbutas, remdamasis Lasickiu, nuleidimu vadina pirmos alaus statinės pradėjim
     mos statinės, atlikdavo apeigas, vadintas nuleidimu (Nutajdi-
     mas), deivės Ragutienės garbei.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

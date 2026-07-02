@@ -31,9 +31,6 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
 - t-001
   global_id: t-69563
   teiginys: 'XII-XIII a. sąvartoje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami Latgaliją ir rytinę Vidžemės dalį.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie rytinę Vidžemę.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latgalija; mentioned_place: Latvija; llm_object: Dauguva; llm_object: Latgalija; llm_object: Vidžemė'
-  semantiniai_rysiai: '[[objektai/grupes/Latviai|Latviai]] gyveno Vidžemė'
   pagrindžia:
     - c-001
 
@@ -41,19 +38,8 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
 - t-002
   global_id: t-69564
   teiginys: 'Vidžemėje, Lietuvos pasienyje, jis turėjo savo kariuomenę.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latgalija; mentioned_place: Latvija'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=8e57347f367b7ee0f46d4ffc600e7754aa73f5d500d799f77a005d431fbdccd0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Dauguva: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Latviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Dauguva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Įsikūrimas Dauguvos krante tiesiogiai rodo gyvenamąją vietą.
 - susijęs iš Burtnieko ežeras: XII–XIII a. sandūroje latvių gyvenama rytinė Vidžemės dalis siekė Burtnieko ežerą.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169591|Latviai]]: XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169591|Latviai]]: XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.
@@ -85,7 +71,6 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
     žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos
     kranto ruožą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -103,7 +88,6 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
     suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-
     džios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

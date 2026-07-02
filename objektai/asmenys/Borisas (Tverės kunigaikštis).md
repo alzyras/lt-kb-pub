@@ -32,44 +32,15 @@ periodo_grupes:
 - t-001
   global_id: t-87596
   teiginys: 'Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas.'
-  sudarymo_pagrindimas: 'Citata palaiko tik giminystės faktą apie Borisą; papildomas kontekstas apie Sofiją jam šalutinis.'
-  susije_objektai: 'llm_object: Tverė; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Eugenijus IV|Eugenijus IV]]; mentioned_place: Florencija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Tverė'
-  semantiniai_rysiai: '[[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]] valdė Tverė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 353800-354387; hash=80241a6f40b222991985bb644f0e450da93ac650aa50d0b0aee2903d8303f944; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Tverė: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Borisas (Tverės kunigaikštis): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Tverė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Titulas tiesiogiai sieja Borisą su Tverės valdymu.
 
 <a id="claim-t-87597"></a>
 - t-002
   global_id: t-87597
   teiginys: '1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie Boriso dalyvavimą, bet pradinis tekstas yra fragmentiškas ir triukšmingas.'
-  susije_objektai: 'llm_object: Tverė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vokietija'
-  semantiniai_rysiai: '[[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]] valdė Tverė'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1430 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Borisas (Tverės kunigaikštis) buvo valdovas Tverė“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Boriso dalyvavimą, bet pradinis tekstas yra fragmentiškas ir triukšmingas.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7237c0ed25b833bef2ce5c57e839f92fb56c54ecd1a42614a7a9cc9b9b1325c7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Tverė: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Borisas (Tverės kunigaikštis): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Tverė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Formuluotė aiškiai vadina Borisą Tverės kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Sofija (Švitrigailos žmona).md#claim-t-87855|Sofija (Švitrigailos žmona)]]: Sofija, Tverės kunigaikščio Boriso duktė ir Švitrigailos žmona, vėliau pateko į Žygimanto Kęstutaičio galią.
 - susijęs iš [[objektai/asmenys/Borisas Karijotaitis.md#claim-t-184371|Borisas Karijotaitis]]: Podolėje įsikūrę Borisas ir Konstantinas Karijotaičiai turėjo įtakos Lietuvos ir Lenkijos suartėjimui.
 - susijęs iš [[objektai/asmenys/Karijotas.md#claim-t-179639|Karijotas]]: Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie Lietuvos ir Lenkijos suartėjimo.
@@ -114,7 +85,6 @@ periodo_grupes:
     kusi tokios didžios galybės, alinama jo įpėdinių niekšybių
     ir barbariškumo, nuo to laiko pradėjo smukti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -141,7 +111,6 @@ periodo_grupes:
     apdovanojęs ir atsisveikinęs, Didži­
     ąją Kunigaikštystę valdęs 37 metus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -23,41 +23,15 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 - t-001
   global_id: t-60224
   teiginys: 'Popiežius Celestinas III Jeruzalėje įkūrė Šv. Marijos Teutonų ordino ligoninę ir paskyrė septynis kraštų valdytojus.'
-  sudarymo_pagrindimas: 'Citata palaiko veiksmą, o pradinis teiginys fragmentiškas ir perkrautas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Jeruzalė; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Popiežius Celestinas III|Popiežius Celestinas III]]; mentioned_place: Austrija; mentioned_place: Prūsija; llm_object: Jeruzalė'
-  semantiniai_rysiai: '[[objektai/asmenys/Celestinas III|Celestinas III]] pastatė Jeruzalė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e89ca5c0d803544e3cca59a576fee7330eee3b5a20ce209c3919c935841cd262; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Jeruzalė: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Celestinas III: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jeruzalė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata teigia, kad Celestinas III Jeruzalėje įkūrė ligoninę; konkrečios ligoninės objekto nėra, todėl fiksuojama vieta.
 
 <a id="claim-t-60225"></a>
 - t-002
   global_id: t-60225
   teiginys: 'Celestinas III Jeruzalėje įkūrė ir pašventino Šv. Marijos Teutonų ordino vienuolių ligoninę.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai pagrįstas citatos teiginiu apie ligoninės įkūrimą ir pašventinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Popiežius Celestinas III|Popiežius Celestinas III]]; mentioned_place: Jeruzalė; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Romanija; llm_object: Jeruzalė'
-  semantiniai_rysiai: '[[objektai/asmenys/Celestinas III|Celestinas III]] pastatė Jeruzalė'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 108711-109300; hash=86106ea03a5ed1aa0c7d12f7c82ca468b866b2a9e097a5b762409f618cb56d2f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Jeruzalė: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Celestinas III: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jeruzalė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai sieja Celestiną III su namų arba ligoninės įkūrimu Jeruzalėje.
 - susijęs iš [[objektai/asmenys/Popiežius Celestinas III.md#claim-t-60480|Popiežius Celestinas III]]: Dusburgietis rašo, kad popiežius Celestinas III Jeruzalėje įkūrė Švč. Marijos Teutonų ordino ligoninę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178851|Kryžiuočių ordinas]]: Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-183885|Kryžiuočių ordinas]]: Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.
@@ -86,7 +60,6 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
     Vokietijai, Austrijai ir kt. Šių namų pagrindą sudaręs didysis magistras ir kapitula, jų
     niekas negalėsiąs sugriauti, nes jie pastatyti „ant tvirtos uolos, o toji uola — Kristus“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -105,7 +78,6 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
     pamatai — didysis magistras bei kapitula; krašto komtūrai, arba kraštų valdytojai,— jo
     šulai, o kiti broliai—sienos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

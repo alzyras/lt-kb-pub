@@ -21,16 +21,6 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 651751-652125; hash=4f8a27244f34c3458938b400322c86e0e972f7cad6d7b0304c964c270ef0eabe; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Slavai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šiaurės slavai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Slavai: mention_match, group, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šiaurės slavai" parinktas kaip owner_note_path. Targetas "Slavai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-189485"></a>
 - t-002
   global_id: t-189485
@@ -39,16 +29,6 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 785664-786115; hash=366bc353e33e3404047caa92e7a80982e8a976be0f1e1ece2a42dd23c0b71d23; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Slavai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Šiaurės slavai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Slavai: mention_match, group, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šiaurės slavai" parinktas kaip owner_note_path. Targetas "Slavai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Slavai.md#claim-t-188349|Slavai]]: Narbutas rašė, kad šiaurės slavai nimfas vadino rusalkomis dėl rusvų arba šviesiai pilkų plaukų.
 ## Reikšmingi paminėjimai
 - c-001
@@ -63,13 +43,10 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
     lėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai
     kuriose vietose žmonos apverkdavo vyrus prie pačių kapų.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas biarmius, arba permius, laikė atskira didelės šiaurės slavų šeimos šaka pagal kalbos, papročių ir fizionomijos skirtumus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -83,9 +60,7 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
     ties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­
     kios varginančios ir ilgos žiemos.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

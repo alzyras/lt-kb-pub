@@ -27,24 +27,8 @@ Nepašykštėjo čia ir Žygimantas Augustas, dalydamas gausius savo prieraišum
 - t-001
   global_id: t-86193
   teiginys: '1547 m. rugsėjį Žygimantas Augustas ir Barbora Radvilaitė slapta susituokė Karalių koplyčioje Vilniuje.'
-  sudarymo_pagrindimas: 'Pirminiame teiginyje yra puslapio išnašos ir konteksto šiukšlių; citata remia aiškų faktą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; llm_object: Vilnius; llm_object: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]'
-  semantiniai_rysiai: 'Karalių koplyčia Vilniuje priklausė Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1547 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pirminiame teiginyje yra puslapio išnašos ir konteksto šiukšlių; citata remia aiškų faktą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 548317-548794; hash=9e2c23543be3761e6201b242691a1bcd92028d737fa70a62dd2d2331a2916d35; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: vede -> Barbora Radvilaitė: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Barbora Radvilaitė: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Žygimanto Augusto ir Barboros Radvilaitės santuoką.
 
 ## Reikšmingi paminėjimai
 
@@ -64,7 +48,6 @@ Nepašykštėjo čia ir Žygimantas Augustas, dalydamas gausius savo prieraišum
     ba pakvitavimą, rašytą karalienės
     Barboros slaviškai, su antspaudu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

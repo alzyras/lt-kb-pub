@@ -31,23 +31,8 @@ Janulaitis, nors dar labiau daugiadarbis. Surinkdamas daug archyvinės medžiago
 - t-001
   global_id: t-30563
   teiginys: 'Aug. Janulaitis, surinkęs daug archyvinės medžiagos, parašė veikalą „Lietuvos bajorai ir jų seimeliai 1795-1863“.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai įvardija veiksmą, veikalą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]'
-  temporaliniai_duomenys: 'įvykio data: 1940 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai įvardija veiksmą, veikalą ir yra paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 170278-170729; hash=e1d6f8ef8742663f900bf38ddabe595dbb486239027818867c9d1f9326d0845b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aug. Janulaitis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aug. Janulaitis" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -63,7 +48,6 @@ Janulaitis, nors dar labiau daugiadarbis. Surinkdamas daug archyvinės medžiago
     tuvos Karininkų Ramovės iniciatyva Janulaitis parašė plačią mo­
     nografiją apie Kęstutį, kurią išspausdinti sutrukdė 1940 m. įvykiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

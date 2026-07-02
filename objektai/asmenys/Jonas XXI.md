@@ -23,12 +23,8 @@ Dusburgietis teigia, kad apie Joną XXI, popiežių, ir karalių Rudolfą, Romos
 - t-001
   global_id: t-60350
   teiginys: 'Popiežius Jonas XXI, ispanų tautybės, sudarė didelę fizikos mokslo knygą „Summa, vel thesaurus pauperum“.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir atitinka citatą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 716332-716564; hash=b22bb06ecf04c20405c83970bcb32e4a01647f8ca2937374aa882e62198b38c2; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -41,7 +37,6 @@ Dusburgietis teigia, kad apie Joną XXI, popiežių, ir karalių Rudolfą, Romos
        Tais pačiais metais popiežius Jonas XXI, ispanų tautybės, sudėjo didelę knygą apie
     fizikos mokslą, vardu „Summa, vel thesaurus pauperum...“ (Ptol. 23, 21; Mart. p. 418).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -47,84 +47,29 @@ Nenurodyta
 - t-001
   global_id: t-66519
   teiginys: 'Prūsai prie Pagansčių kaimo netikėtai užpuolė krikščionis iš dviejų pusių, nukovė dvylika brolių ir penkis šimtus vyrų.'
-  sudarymo_pagrindimas: 'Fragmentas perrašytas į savarankišką faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Kaimas; mentioned_place: Pagansčiai; mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Zirgūna; llm_object: [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]'
-  semantiniai_rysiai: '[[objektai/grupes/Krikščionys|Krikščionys]] dalyvavo mūšyje [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 436799-438839; hash=92096c7ee2e845b5e76446e061e948c17ba8e166ce75785a7ac6ac21806444e9; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=59
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-66520"></a>
 - t-002
   global_id: t-66520
   teiginys: 'Divano ir Linko puolimas Kulmo žemėje datuojamas 1271 m.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, paremtas citatos paaiškinimu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Aliamas; mentioned_place: Kristburgas; mentioned_place: Marienburgas; mentioned_place: Marienverderis; mentioned_place: Nogatas; mentioned_place: Pamedė; mentioned_place: Pilaitė; llm_object: Kulmas'
-  temporaliniai_duomenys: 'įvykio data: 1250 m.; įvykio data: 1265 m.; įvykio data: 1271 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys, paremtas citatos paaiškinimu.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 436799-438839; hash=92096c7ee2e845b5e76446e061e948c17ba8e166ce75785a7ac6ac21806444e9; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kulmas: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Divanas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija Divano puolimą Kulmo žemėje.
 
 <a id="claim-t-66521"></a>
 - t-003
   global_id: t-66521
   teiginys: 'Per Divano ir Linko puolimą Kristburgo pilyje buvo likę trys broliai, trys jų tarnai ir grandinėmis surakintas pamedėnas Sirenas.'
-  sudarymo_pagrindimas: 'Pašalinta nereikalinga šaltinio formulė ir aiškiai įvardytas įvykio kontekstas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Kristburgas; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Viena'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 439276-440118; hash=a7fceb861f19c27ac10d013855a2fde98d8239a7dd3920df8f412293ce563e0b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Krikščionys: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas: llm_allowed_candidate, event
-  ryšio_paaiskinimas: Krikščionys tiesiogiai minimi kaip užpultoji pusė mūšyje.
 
 <a id="claim-t-66522"></a>
 - t-004
   global_id: t-66522
   teiginys: 'Divanas Klokinis ir Linkas su didele kariuomene įsibrovė į Kulmo žemę, o jų pajėgos patraukė prie Traupeino pilies.'
-  sudarymo_pagrindimas: 'Pašalintas šaltinio boilerplate ir OCR triukšmas, paliktas citata paremtas faktas.'
-  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Traupeinas; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Aliamas; mentioned_place: Kristburgas; mentioned_place: Marienburgas; mentioned_place: Marienverderis; mentioned_place: Nogatas; mentioned_place: Pamedė; mentioned_place: Pilaitė'
-  temporaliniai_duomenys: 'įvykio data: 1250 m.; įvykio data: 1265 m.; įvykio data: 1271 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas šaltinio boilerplate ir OCR triukšmas, paliktas citata paremtas faktas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 439866-440634; hash=67bc6014db6fea3165e425fcd9d7fe1633ee0b7fa0ece119922bbeb5bcd827d3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Divanas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Divanas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas" parinktas kaip owner_note_path. Targetas "Divanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -162,7 +107,6 @@ Nenurodyta
     stovi Marienburgo pilis, ir ligi Marienverderio salos, žudydami žmones, imdami juos  į
     nelaisvę ir degindami visa, kas pasitaikė kelyje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -184,7 +128,6 @@ Nenurodyta
     visiškai sugriovė pamedėnų gyvenvietę bei  pilį424  ir brolių  papilį, vienus paimdami
     į nelaisvę, kitus išžudydami, išskyrus tuos, kurie suskubo pasprukti  į brolių pilį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -204,7 +147,6 @@ Nenurodyta
     vieną prūsą, kuriam buvo pavesta saugoti 40 paimtų  į nelaisvę ir surištų krikščionių
     vaikų, šie vaikai subėgo į pilį ir išvengė amžinos vergovės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

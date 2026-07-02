@@ -43,7 +43,6 @@ Nenurodyta
 - t-001
   global_id: t-54379
   teiginys: 'Lenkijos sukilėlių vadovybė, bijodama Lietuvos „raudonųjų“ radikalumo, sukilimo Lietuvoje vadovavimą pavedė „baltiesiems“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -59,7 +58,6 @@ Nenurodyta
     lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė
     „baltiesiems“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

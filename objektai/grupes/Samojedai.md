@@ -21,16 +21,6 @@ Narbutas samojedus laikė paskutiniais Šiaurės Europos stabmeldžiais ir raš�
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 316098-316846; hash=4a699d9e8ad35af6d594939b4b0d8c2a7d004fec216a6828c5c3475cafc28777; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Europa: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Samojedai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Europa: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Samojedai apibūdinami kaip Šiaurės Europos stabmeldžiai, todėl tiesiogiai siejami su Europa.
 - susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojalavičius.md#claim-t-188397|Albertas Vijūkas-Kojalavičius]]: Narbutas rašė, kad per 400 metų krašto praeitimi pasirūpino tik Kojalavičius, Mykolas Lietuvis ir Teodoras Narbutas.
 - susijęs iš [[objektai/autoriai/Mykolas Lietuvis.md#claim-t-188457|Mykolas Lietuvis]]: Narbutas Mykolą Lietuvį įvardija tarp nedaugelio lietuvių, kurie per 400 metų rūpinosi krašto praeitimi.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179300|Lietuviai]]: 1316 m. Medininkų valsčiuje Ragainės broliai, persekiojami 200 lietuvių, sudegino du kaimus ir paėmė į nelaisvę moteris bei vaikus.
@@ -54,10 +44,8 @@ Narbutas samojedus laikė paskutiniais Šiaurės Europos stabmeldžiais ir raš�
     yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
     lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

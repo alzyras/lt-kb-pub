@@ -31,27 +31,13 @@ periodo_grupes:
 - t-001
   global_id: t-88036
   teiginys: 'Mykolas Lietuvis rašė, kad Kafos miestas prie Juodosios jūros buvo svarbiausias Lietuvos prekybinis uostas ryšiams su Rytais.'
-  sudarymo_pagrindimas: 'Citata palaiko šį teiginį kaip nuorodą į Mykolo Lietuvio kūrinį.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_author: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Dniestras; mentioned_place: Kijevas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 316271-316916; hash=fb37fe17936fd7d01e40f4271397ff659b9dd12d17fffaabf7dea6c4ed700fda; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Mykolas Lietuvis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mykolas Lietuvis Michalonis Lit: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Mykolas Lietuvis: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas Lietuvis Michalonis Lit" parinktas kaip owner_note_path. Targetas "Mykolas Lietuvis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-88037"></a>
 - t-002
   global_id: t-88037
   teiginys: 'Mykolas Lietuvis liudijo, kad totoriai seniau garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie Mykolo Lietuvio liudijimą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
   pagrindžia:
     - c-001
 
@@ -59,19 +45,8 @@ periodo_grupes:
 - t-003
   global_id: t-88038
   teiginys: 'Apie tai yra rašęs Mykolas L i e t u v i s, p. 28.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d9d184fb30a04c3ff849c4ead1fe9f678814136e34d9960f08b3425159839804; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Totoriai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mykolas Lietuvis Michalonis Lit: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Totoriai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas Lietuvis Michalonis Lit" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -98,7 +73,6 @@ periodo_grupes:
     MDCXV - nurodo jis savo kūrinėlio
     gale: Epithomefragminis secundi, p. 14.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -127,7 +101,6 @@ periodo_grupes:
     Tauryka, p. 84.*
     Dab.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -149,7 +122,6 @@ periodo_grupes:
     ties Totorių kaimas. Apie tai yra rašęs
     Mykolas L i e t u v i s, p. 28.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -47,11 +47,6 @@ Nenurodyta
 - t-001
   global_id: t-45361
   teiginys: '1928 m. sausio 29 d. Berlyne Lietuva ir Vokietija nustatė sienos liniją, palikusią Klaipėdos teritoriją Lietuvos pusėje.'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti turiningesnį faktą apie sutarties rezultatą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vokietija; mentioned_place: Berlynas'
-  temporaliniai_duomenys: 'įvykio data: 1928 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti turiningesnį faktą apie sutarties rezultatą.'
   pagrindžia:
     - c-002
 
@@ -59,11 +54,6 @@ Nenurodyta
 - t-002
   global_id: t-45363
   teiginys: '1928 m. sausio 29 d. po ilgų ir sunkių derybų buvo pasirašyta Lietuvos ir Vokietijos sienos sutartis.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo sutarties pasirašymo datą ir aplinkybes.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vokietija'
-  temporaliniai_duomenys: 'sutarties data: 1928 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo sutarties pasirašymo datą ir aplinkybes.'
   pagrindžia:
     - c-001
 
@@ -80,7 +70,6 @@ Nenurodyta
     svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų
     ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -99,7 +88,6 @@ Nenurodyta
     lys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos
     pusėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

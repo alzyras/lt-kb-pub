@@ -18,24 +18,8 @@ Mantvila Gimbutaitis ir Zivinbudas susitarė pulti nuo smūgio neatsigavusį pri
 - t-001
   global_id: t-186236
   teiginys: 'Mantvila Gimbutaitis ir Zivinbudas susitarė pulti nuo smūgio neatsigavusį priešą ir sutelkė abiejų genčių jėgas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra užbaigtas ir tiesiogiai atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; llm_object: [[objektai/grupes/Rusai|Rusai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Mantvila Gimbutaitis|Mantvila Gimbutaitis]] puolė [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 113595-114014; hash=c8e4c39a897ed7b2ec580bc91005a3ba3ff932d13d2bc77a0a19f768d76f6b7e; match=ocr_normalized
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Rusai: 0.58
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mantvila Gimbutaitis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Rusai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Kontekste priešas yra rusai, o Mantvila su Zivinbudu susitarė jį pulti.
 
 ## Reikšmingi paminėjimai
 
@@ -56,11 +40,9 @@ Mantvila Gimbutaitis ir Zivinbudas susitarė pulti nuo smūgio neatsigavusį pri
     duko, Lucko, Vladimiro kunigaikštystes nusiaubė ugni­
     mi ir kalaviju.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
 

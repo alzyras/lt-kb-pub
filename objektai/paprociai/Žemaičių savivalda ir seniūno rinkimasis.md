@@ -42,8 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-05373
   teiginys: 'Didieji Lietuvos kunigaikščiai Žemaičių krašto vidaus reikaluose turėjo nedaug įtakos, bet pavojaus metu teikė pagalbą.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Žemaičių savivaldos padėtį ir yra pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -51,20 +49,8 @@ Nenurodyta
 - t-002
   global_id: t-67250
   teiginys: 'Po Zigmanto mirties kilusių konkurentų kovų metu žemaičiai iš Kazimiero gavo privilegiją, apdraudusią jų teises ir savitą vidaus tvarkymąsi.'
-  sudarymo_pagrindimas: 'Perrašyta glaustesniu, aiškiu sakiniu be perteklinės kontekstinės pradžios.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ead179bc8c3cc58b8c5fa97b9ea106d83978ea6c5a3883db99278e18b7c60c9f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Žemaičiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žemaičių savivalda ir seniūno rinkimasis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Žemaičiai: mention_match, group, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių savivalda ir seniūno rinkimasis" parinktas kaip owner_note_path. Targetas "Žemaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -80,7 +66,6 @@ Nenurodyta
     sios Lietuvos kunigaikštijos sudedamąja dalimi, pavojaus metu
     teikė pagalbą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -96,7 +81,6 @@ Nenurodyta
     iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems
     laikams laidavo jiems savotišką vidaus tvarkymąsi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

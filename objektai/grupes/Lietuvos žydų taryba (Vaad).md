@@ -26,11 +26,6 @@ amziai:
 - t-001
   global_id: t-74811
   teiginys: '1920 m. sudaryta Lietuvos žydų taryba (Vaad) turėjo spręsti socialinius ir kultūrinius Lietuvos žydų reikalus.'
-  sudarymo_pagrindimas: 'Pridėta citatoje nurodyta sudarymo data, kad sakinys būtų enciklopediškesnis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Paryžius'
-  temporaliniai_duomenys: 'įvykio data: 1920 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pridėta citatoje nurodyta sudarymo data, kad sakinys būtų enciklopediškesnis.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Lietuvos žydų tarybos (Vaad) sudarymas (1920 m.).md#claim-t-20390|Lietuvos žydų tarybos (Vaad) sudarymas (1920 m.)]]: 1920 m. sudaryta 34 narių Lietuvos žydų taryba turėjo spręsti socialinius ir kultūrinius žydų reikalus.
@@ -52,7 +47,6 @@ amziai:
     ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo
     spręsti visus socialinius ir kultūrinius žydų reikalus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

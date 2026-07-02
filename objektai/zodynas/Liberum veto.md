@@ -52,7 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-168674
   teiginys: 'Liberum veto reiškė laisvojo pasipriešinimo teisę, dėl kurios daug seimų išsiskirstydavo nieko nenuveikę.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia pilną enciklopedinį sakinį.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-21976|Bajorų respublika liberum veto]]: Liberum veto teisė reikalavo Seimo sprendimus priimti vienu balsu ir trukdė stiprinti bei centralizuoti valstybę.
@@ -81,7 +80,6 @@ Nenurodyta
 
     nieko nenuveikę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

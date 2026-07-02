@@ -41,11 +41,6 @@ Nenurodyta
 - t-001
   global_id: t-09880
   teiginys: '1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė rusų pajėgas kapituliuoti prie Smolensko.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako veikėją, veiksmą, datą ir rezultatą.'
-  susije_objektai: 'llm_object: Rusija; mentioned_place: Smolenskas; llm_object: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Krymo totoriai|Krymo totoriai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_person: [[objektai/asmenys/Vladislovas Vaza|Vladislovas Vaza]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1633 m.; įvykio data: 1634 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako veikėją, veiksmą, datą ir rezultatą.'
   pagrindžia:
     - c-003
 
@@ -53,7 +48,6 @@ Nenurodyta
 - t-002
   global_id: t-09881
   teiginys: 'Smolenską gynė apie 2 tūkst. Lietuvos karių, miestas buvo smarkiai apšaudytas ir šturmuojamas, bet nesėkmingai.'
-  susije_objektai: 'llm_object: Smolenskas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras Gonsevskis|Aleksandras Gonsevskis]]'
   pagrindžia:
     - c-002
 
@@ -61,11 +55,6 @@ Nenurodyta
 - t-003
   global_id: t-09882
   teiginys: 'Po nesėkmingo Rusijos mėginimo užimti Smolenską prie Polianovkos upės buvo sudaryta „amžinosios taikos“ sutartis.'
-  sudarymo_pagrindimas: 'Teiginys susietas su Smolensko apgulties padariniais.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_place: Smolenskas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'sutarties data: iki 1654 m.; sutarties data: 1654 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip sutarties data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys susietas su Smolensko apgulties padariniais.'
   pagrindžia:
     - c-004
 
@@ -73,12 +62,6 @@ Nenurodyta
 - t-004
   global_id: t-09883
   teiginys: '1632 m. maskvėnai įsiveržė į Lietuvos teritoriją siekdami atgauti Smolenską, o Michailo Šejino vadovaujama rusų kariuomenė lapkričio 14 d. apgulė miestą.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Lietuva; llm_object: [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)|Smolensko apgultis (1632–1634 m.)]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Rusai|Rusai]] apgulė [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)|Smolensko apgultis (1632–1634 m.)]]'
-  temporaliniai_duomenys: 'įvykio data: 1632 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
@@ -101,7 +84,6 @@ Nenurodyta
     jama Michailo Šejino, lapkričio 14 d. ap-
     gulė šį miestą. Rusų kariuomenėje buvo
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -120,7 +102,6 @@ Nenurodyta
     Aleksandras Gonsevskis su 6 tūkst. apy-
     linkėse veikusių karių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -153,7 +134,6 @@ Nenurodyta
     apsupo sumenkusias priešo pajėgas ir
     1634 m. sausio 24 d. privertė kapituliuoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -171,7 +151,6 @@ Nenurodyta
     1654 m., kai sulaužę ją rusai vėl įsiveržė į
     Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

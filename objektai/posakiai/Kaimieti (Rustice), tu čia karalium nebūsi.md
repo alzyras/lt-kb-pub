@@ -24,8 +24,6 @@ tags:
 - t-001
   global_id: t-09663
   teiginys: 'Karalius ištarė „Kaimieti (Rustice), tu čia karalium nebūsi“ ir liepė pilies kieme nukirsti pašnekovui galvą.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir remiasi citatos veiksmais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
 
@@ -39,7 +37,6 @@ tags:
 
     nebūsi“ ir liepė pilies kieme nukirsti jam galvą.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

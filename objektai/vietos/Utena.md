@@ -33,11 +33,6 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 - t-001
   global_id: t-172016
   teiginys: '1919 m. gegužės 24 d. gen. S. Žukauskas įsakė K. Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės–Daugpilio plentu ir užimti Uteną.'
-  sudarymo_pagrindimas: 'Perrašyta, kad būtų įtrauktas citatoje nurodytas žygio kelias ir aiškus tikslas.'
-  susije_objektai: 'mentioned_place: Daugpilis; mentioned_place: Lietuva; mentioned_place: Ukmergė'
-  temporaliniai_duomenys: 'įvykio data: 1919 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Perrašyta, kad būtų įtrauktas citatoje nurodytas žygio kelias ir aiškus tikslas.'
   pagrindžia:
     - c-001
 
@@ -45,11 +40,6 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 - t-002
   global_id: t-172018
   teiginys: 'Generaliniame Lietuvos teritorijos vadavimo nuo bolševikų plane Ukmergės rinktinė turėjo veržtis Ukmergės–Utenos–Zarasų kryptimi.'
-  sudarymo_pagrindimas: 'Citata leidžia patikslinti planą ir išlaikyti aiškią sąsają su Utena.'
-  susije_objektai: 'mentioned_place: Zarasai; mentioned_group: [[objektai/grupes/Panevėžio rinktinė|Panevėžio rinktinė]]; mentioned_group: [[objektai/grupes/Ukmergės rinktinė|Ukmergės rinktinė]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Ukmergė'
-  temporaliniai_duomenys: 'įvykio data: 1881 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia patikslinti planą ir išlaikyti aiškią sąsają su Utena.'
   pagrindžia:
     - c-002
 
@@ -57,12 +47,6 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 - t-003
   global_id: t-185169
   teiginys: 'Kojelavičiaus pasakojime Narimantas apgulė Uteną, nes ten buvo pasislėpęs svetimų žmonų viliotoju vadintas žmogus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Reikia atribucijos, nes citata pateikia pasakojamąjį ir vertinamąjį apibūdinimą.'
-  susije_objektai: 'llm_object: Utena; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]] apgulė Utena'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Bernard Lown.md#claim-t-18851|Bernard Lown]]: Utenoje gimęs kardiologas Bernard Lown 1985 m. tapo Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo.
@@ -130,7 +114,6 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
     rinktinei žygiuoti Ukmergės- Daugpilio
     plentu ir užimti Uteną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -154,7 +137,6 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 
     | 1881 m. jstojo į Rusijos kariuomenę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -181,7 +163,6 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
     mės atvirame kovos lauke, nes labiau buvo linkęs prie
     piktadarybių nei prie karo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

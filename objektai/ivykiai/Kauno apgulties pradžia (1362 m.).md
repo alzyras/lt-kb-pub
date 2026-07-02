@@ -36,27 +36,8 @@ Nenurodyta
 - t-001
   global_id: t-185804
   teiginys: '1362 m. pavasario pradžioje kryžiuočių magistras išvedė nuolatinę ir pagalbinę kariuomenę į Lietuvą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Įvardytas veikiantysis ir pašalinta neaiški įvardžio formuluotė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lietuva; mentioned_place: Vokietija; llm_object: [[objektai/ivykiai/Kauno apgulties pradžia (1362 m.)|Kauno apgulties pradžia (1362 m.)]]'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] apgulė [[objektai/ivykiai/Kauno apgulties pradžia (1362 m.)|Kauno apgulties pradžia (1362 m.)]]'
-  temporaliniai_duomenys: 'įvykio data: 1362 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Įvardytas veikiantysis ir pašalinta neaiški įvardžio formuluotė.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 427228-427832; hash=fe6267312f778c4f6a2bb137819101c18e22b9e486a82d1d1c5e08263f746b8f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: apgule -> Kauno apgulties pradžia (1362 m.): 0.75
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kauno apgulties pradžia (1362 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Citata aprašo kryžiuočių žygį, kuris virsta Kauno apgulties pradžia.
 
 ## Reikšmingi paminėjimai
 
@@ -83,7 +64,6 @@ Nenurodyta
     vykęs su kariuomene pralaužti apsupimo žiedo, nieko
     nelaimėjo ir buvo atstumtas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

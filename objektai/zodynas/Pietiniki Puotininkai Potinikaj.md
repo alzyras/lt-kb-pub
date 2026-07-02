@@ -27,16 +27,6 @@ Narbutas pietiniki, kitaip Puotininkais (Potinikaj), vadino Ragučio šventikus,
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 476158-476824; hash=c38372e09593a2a64d8377bfe51896d668720f427ac6d0d6ad326e8e6f425043; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Petionka: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pietiniki Puotininkai Potinikaj: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Petionka: mention_match, thing, gap=87
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pietiniki Puotininkai Potinikaj" parinktas kaip owner_note_path. Targetas "Petionka" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -55,9 +45,7 @@ Narbutas pietiniki, kitaip Puotininkais (Potinikaj), vadino Ragučio šventikus,
     šlovės paminklas ir pirmoji amžinojo Dievo mūrinė bažnyčia,
     pastatyta Lietuvos sostinėje ir žemėje.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

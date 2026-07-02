@@ -34,7 +34,6 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
 - t-001
   global_id: t-171528
   teiginys: 'Dzūkų grupės įsakyme nurodyta, kad atskiri žaliukų daliniai vadinti jų vadų slapyvardžių būriais, pavyzdžiui, Perkūno ar Šarūno būriu.'
-  sudarymo_pagrindimas: 'Pradinis teiginys pažodinis ir fragmentiškas; citata leidžia jį perrašyti enciklopediškai.'
   pagrindžia:
     - c-002
 
@@ -42,10 +41,6 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
 - t-002
   global_id: t-171529
   teiginys: '1945 m. gegužės 7 d. Dzūkų grupės įsakymas Nr. 1 buvo skirtas tik žaliukų dalinių vadams vykdyti ir žinoti.'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti sklandesnį sakinį su data ir aiškiu adresatu.'
-  temporaliniai_duomenys: 'įvykio data: 1945 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti sklandesnį sakinį su data ir aiškiu adresatu.'
   pagrindžia:
     - c-001
 
@@ -60,7 +55,6 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
     „Vykdyti ir žinoti tik žaliukų dalinių va-
     dams [...]
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -75,7 +69,6 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
     pyvardžio būriais, pav., Perkūno būrys,
     Šarūno būrys ir pan. [...]
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

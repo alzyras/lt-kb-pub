@@ -34,8 +34,6 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
 - t-001
   global_id: t-182871
   teiginys: 'Vokiečių ordino valstybės valdos tęsėsi nuo Neumarko iki Narvos, išskyrus Žemaičių kylį.'
-  sudarymo_pagrindimas: 'Sutrumpinta ir išvalyta formuluotė, paliekant citata paremtą faktą apie Narvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Neumarkas; mentioned_place: Veliuona'
   pagrindžia:
     - c-002
 
@@ -43,11 +41,6 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
 - t-002
   global_id: t-183055
   teiginys: 'Ties Narva Estijoje buvo visiškai sunaikinta caro kariuomenė.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pirminiame teiginyje yra neaiškus įvardis, o citata leidžia pateikti faktą apie Narvą.'
-  susije_objektai: 'mentioned_place: Estija; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -55,15 +48,6 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
 - t-003
   global_id: t-183794
   teiginys: '1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos su Narvos ir Tartu miestais.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra taisyklingas faktinis sakinys apie Narvą ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Narva; llm_object: Tartu; mentioned_place: Tartu; mentioned_group: [[objektai/grupes/Maskvos kariuomenė|Maskvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Saremos; mentioned_place: Suomija; llm_object: Livonija'
-  semantiniai_rysiai: '[[objektai/grupes/Maskvos kariuomenė|Maskvos kariuomenė]] užėmė Narva'
-  temporaliniai_duomenys: 'įvykio data: 1558 m.; įvykio data: 1560 m.; įvykio data: 1561 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra taisyklingas faktinis sakinys apie Narvą ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 - susijęs iš Tartu: 1558 m. Maskvos kariuomenė užėmė Tartu ir Narvos miestus Livonijos konfederacijos teritorijoje.
@@ -104,7 +88,6 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
 
     1561 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -124,7 +107,6 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
     čio mirties (1316-1382), skaitomas didžiausios ordino stiprybės ir
     geriausio jo žydėjimo metais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -140,7 +122,6 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
     sunaikino caro kariuomenę. Po to jis atsigręžė į Augusto ka-
     riuomenę, apgulusią Rygą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

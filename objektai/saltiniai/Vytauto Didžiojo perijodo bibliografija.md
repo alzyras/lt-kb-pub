@@ -26,20 +26,8 @@ amziai:
 - t-001
   global_id: t-100223
   teiginys: 'Vytauto Didžiojo perijodo bibliografijoje nurodytas Z. Ivinskio straipsnis „Kovos bruožai dėl Žemaičių ir jų sienų“.'
-  sudarymo_pagrindimas: 'Citata pagrindžia bibliografijos įrašą, o pradinė formuluotė yra OCR fragmentas.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=12ce06b0e4c7f0c05790ab007cf73aa05f4e9d24050f0f8bf9080098bf542e84; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Zenonas Ivinskis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vytauto Didžiojo perijodo bibliografija: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Zenonas Ivinskis: mention_match, author, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto Didžiojo perijodo bibliografija" parinktas kaip owner_note_path. Targetas "Zenonas Ivinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -55,7 +43,6 @@ amziai:
     (^37) **DlugO, XIII, 119 p.**
     (^38) **DlugO, XIII, 29, 119 p.**
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

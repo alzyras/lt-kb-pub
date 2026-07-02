@@ -46,21 +46,8 @@ Nenurodyta
 - t-001
   global_id: t-41271
   teiginys: 'Prie Giedraičių lietuvių nuostoliai siekė 15 žuvusių karių ir kelis karininkus, apie 60 sužeistųjų ir apie 70 dingusių be žinios.'
-  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet pataisytina sakinio sandara ir aiškumas.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Giedraičių kautynės (1920 m.)|Giedraičių kautynės (1920 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Giedraičiai; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Labanoras; mentioned_place: Ukmergė; llm_object: [[objektai/ivykiai/Giedraičių kautynės|Giedraičių kautynės]]'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Giedraičių kautynės|Giedraičių kautynės]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 868528-868967; hash=57de510eb5e146d2cafe86d9debb2d20f4e87b4d41ef2ab67819adc1bdff7630; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Giedraičių kautynės: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Giedraičių kautynės: llm_allowed_candidate, event
-  ryšio_paaiskinimas: Nuostolių nurodymas prie Giedraičių tiesiogiai rodo lietuvių dalyvavimą kautynėse.
 - susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
 - susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
 ## Reikšmingi paminėjimai
@@ -87,7 +74,6 @@ Nenurodyta
     kai, apie 60 buvo sužeista,
     apie 70 dingo be žinios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -31,22 +31,8 @@ Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus 
 - t-001
   global_id: t-30310
   teiginys: '1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius.'
-  susije_objektai: 'llm_object: Čekija; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Guillaume de Machaut|Guillaume de Machaut]]; mentioned_place: Aukaimis; mentioned_place: Gardinas; mentioned_place: Karšuva; mentioned_place: Prūsų žemė; mentioned_place: Putvė; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas Liuksemburgietis|Jonas Liuksemburgietis]] buvo valdovas Čekija'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1329 m.; valdymo laikotarpis: 1357 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas Liuksemburgietis buvo valdovas Čekija“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=97c91c5f76ff502e31f4a15d8e986d9f2a0063ba7e9ce96b5ff209eb4d7d38cc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Čekija: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jonas Liuksemburgietis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Čekija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Jonas Liuksemburgietis tiesiogiai įvardytas Čekijos karaliumi.
 - susijęs iš [[objektai/daiktai/Ietis.md#claim-t-186836|Ietis]]: 1329 m. Jonas Liuksemburgietis ir lietuvių didikas Margalis raiti susirėmė ietimis, o jas sulaužę ėmė kautis kalavijais.
 ## Reikšmingi paminėjimai
 
@@ -63,7 +49,6 @@ Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus 
     žygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m.
     rašytame veikale « Confort d’Ami » (« Draugo parama »).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

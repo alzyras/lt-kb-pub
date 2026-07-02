@@ -42,58 +42,22 @@ Nenurodyta
 - t-001
   global_id: t-89443
   teiginys: 'Baigos ir kitų minėtų pilių broliai gyveno skaisčiai, laikėsi dorovingo santūrumo ir griežtų vienuoliškų regulų.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citatos turiniu.'
-  susije_objektai: 'mentioned_place: Baiga; mentioned_place: Engelsbergas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 265252-265851; hash=a1094858eff08bda6347f5465f6e3860564b3e1da207f1f20b0d9b797e9e56fc; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89444"></a>
 - t-002
   global_id: t-89444
   teiginys: 'Engelsbergo pilį aplankę vienuoliai jos gyventojų gyvenimą prilygino angelų gyvenimui.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai nusako citatoje pateiktą vienuolių vertinimą.'
-  susije_objektai: 'mentioned_place: Engelsbergas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 265523-266003; hash=4d5fffdb4a43f0ee72ade939d4877b06259e0042cd892a31fecbdce0757d06b7; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Engelsbergas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika: owner_note_path, thing
-  ryšio_targeto_parinkimas: Engelsbergas: mention_match, place, gap=1
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika" parinktas kaip owner_note_path. Targetas "Engelsbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89445"></a>
 - t-003
   global_id: t-89445
   teiginys: 'Baigos ir kitose minėtose pilyse broliai po vakarinių ar rytmetinių pamaldų plakdavo savo kūną rykštėmis.'
-  sudarymo_pagrindimas: 'Pašalintas neapibrėžtas kontekstas ir suformuluotas aiškus faktinis sakinys.'
-  susije_objektai: 'mentioned_place: Baiga; mentioned_place: Engelsbergas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 265523-266003; hash=4d5fffdb4a43f0ee72ade939d4877b06259e0042cd892a31fecbdce0757d06b7; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baiga: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -110,15 +74,12 @@ Nenurodyta
     atėję į Engelsbergo pilį248 ir ten pamatę, kuo broliai gyvena ir kaip jie gyvena, paklausė,
     kuo vardu jų pilis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
     - t-004
-
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -129,11 +90,9 @@ Nenurodyta
     kuo vardu jų pilis. Kai jiems atsakė, jog Engelsbergas, tai yra Angelų kalnas, šie atrėžė:
     „Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
     - t-002

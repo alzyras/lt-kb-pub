@@ -29,16 +29,6 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 719008-719421; hash=f49a92789db632083f604817d4deb73ae21fc773b8e83425bb07d6722b0fd02d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> Prūsai: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Utenis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Utenis padėjo prūsams.
 - susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190009|Henenbergeris]]: Narbutas pažymi, kad Henenbergerio veikale buvo užrašas senovės lietuvių kalba, siejamas su kunigaikščio Utenio vėliava.
 ## Reikšmingi paminėjimai
 - c-001
@@ -54,10 +44,8 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
     vėliava. Čia gi pateikėme iliustraciją, padarytą pagal piešinį, gautą
     iš Zaluskių bibliotekos.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

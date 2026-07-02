@@ -29,11 +29,6 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
 - t-001
   global_id: t-70357
   teiginys: '1928 m. Konstitucija numatė, kad prezidentą septyneriems metams renka ypatingi tautos atstovai.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos faktą apie ypatingus tautos atstovus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]'
-  temporaliniai_duomenys: 'įvykio data: 1928 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatos faktą apie ypatingus tautos atstovus.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.).md#claim-t-20156|A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)]]: Antanas Smetona sudarė sau sąlygas būti perrenkamam, o ypatingieji tautos atstovai 1931 m. gruodžio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu.
@@ -58,7 +53,6 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
     cija iš esmės užrašė esamą situaciją, įteisindama autoritarinį A. Smetonos
     valdymą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -24,8 +24,6 @@ tags:
 - t-001
   global_id: t-06877
   teiginys: 'Gediminas teigė, kad Lietuva nekariauja su krikščionybe, o tik gina savo laisvę.'
-  sudarymo_pagrindimas: 'Boilerplate pakeistas aiškiu sakiniu apie Gedimino teiginį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]'
   pagrindžia:
     - c-001
 
@@ -39,7 +37,6 @@ tags:
     nėjąs į Lietuvą vykstančius kunigus. Lietuva, sako Gediminas,
     nekariaujanti su krikščionybe: ji teginanti savo laisvę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

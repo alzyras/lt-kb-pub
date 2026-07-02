@@ -43,20 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-87293
   teiginys: 'Bylose dėl žydo pinigų, turto ar kriminalinio kaltinimo krikščionis prieš žydą galėjo liudyti tik kartu su krikščioniu ir žydu.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir neaiškus, bet citata pagrindžia liudijimo tvarką mišriose bylose.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 410092-411043; hash=86597777f0a2efa66f98470815bf44657da1413117536d667ddadd3848c1ab52; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Drabužiai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žydų ir krikščionių bylų liudijimo bei priesaikos tvarka: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Drabužiai: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydų ir krikščionių bylų liudijimo bei priesaikos tvarka" parinktas kaip owner_note_path. Targetas "Drabužiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -81,7 +69,6 @@ Nenurodyta
     mindamas, išskyrus kruvinas skaras, šlapius drabužius ir baž­
     nytinius rykus, kurių niekada jokiu būdu imti negali.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

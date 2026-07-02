@@ -47,9 +47,6 @@ Sudegė abiejų pilių papiliai.
 - t-001
   global_id: t-70938
   teiginys: '1293 m. liepos 25 d. Meinhardas su gausia raitija puolė Junigedą ir Pieštvę.'
-  susije_objektai: 'mentioned_place: Pieštvė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Junigeda'
-  temporaliniai_duomenys: 'įvykio data: 1293 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -57,8 +54,6 @@ Sudegė abiejų pilių papiliai.
 - t-002
   global_id: t-70941
   teiginys: 'Magistras Meinhardas liepos 25 d. užpuolė Junigėdą ir Pieštvę, o nepajėgęs daugiau padaryti sudegino abiejų pilių papilius.'
-  sudarymo_pagrindimas: 'Pašalintas neaiškus kontekstas ir paliktas citatos paremtas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Junigeda'
   pagrindžia:
     - c-001
 
@@ -73,7 +68,6 @@ Sudegė abiejų pilių papiliai.
     Junigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki
     pamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -92,11 +86,10 @@ Sudegė abiejų pilių papiliai.
     apgulta, tuo pat metu Žemaičių pietvakariuose nuteriojant « Po­
     graudą»^26.
   citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-003
+
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1293 pats ordino magistras dviem atvejais puolė Junigėdą, sude­
@@ -109,7 +102,11 @@ Sudegė abiejų pilių papiliai.
     nusiaubdama Gaižuvos (« Gesovie ») ir prie Vilkijos Pačtuvos (« Pa­
     stovie ») sritis^27.
   citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
+
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai## Ryšiai
+
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/magistras]]

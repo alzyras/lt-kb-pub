@@ -52,7 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-54178
   teiginys: 'Po Oršos mūšio propagandos kampanija padėjo Žygimantui spręsti tarptautinius klausimus, o žymesni belaisviai buvo siunčiami į Europos valdovų dvarus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Europa; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -60,9 +59,6 @@ Nenurodyta
 - t-002
   global_id: t-54179
   teiginys: 'Po Oršos mūšio Vilniuje buvo surengtos triumfo iškilmės, vedami belaisviai ir pakabintos trofėjinės vėliavos.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Vilnius; mentioned_place: Maskva'
-  temporaliniai_duomenys: 'įvykio data: 1530 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -70,7 +66,6 @@ Nenurodyta
 - t-003
   global_id: t-54180
   teiginys: 'Po Oršos mūšio Vasilijus III pasitraukė iš Smolensko, o Lietuvai vėl atiteko Mstislavlio, Dubrovnos ir Kryčevo pilys.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Vasilijus III|Vasilijus III]]; mentioned_place: Dubrovna; mentioned_place: Lietuva; llm_object: Dubrovna'
   pagrindžia:
     - c-002
 
@@ -78,9 +73,6 @@ Nenurodyta
 - t-004
   global_id: t-54181
   teiginys: 'Po Oršos mūšio kilmingi žuvusieji buvo palaidoti Vilniuje, o per triumfo iškilmes eisenoje vesti belaisviai Maskvos karvedžiai ir kariai.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1530 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
@@ -100,7 +92,6 @@ Nenurodyta
     jos su kitomis čia saugotomis sudegė per
     1530 m. gaisrą).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -117,7 +108,6 @@ Nenurodyta
     vėl atiteko Mstislavlis, Dubrovnos,
     Kryčevo pilys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -135,7 +125,6 @@ Nenurodyta
     buvo vaizduojamos kaip Europos forpostas
     prieš „schizmatikus“ maskvėnus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

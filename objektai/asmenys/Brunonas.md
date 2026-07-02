@@ -5,6 +5,11 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+description: 'Brunonas minimas kaip misijonierius Bonifacas, Kristaus karių ordino vyras ir magistras prie Treiderės upės.'
+socialDescription: 'Brunono vardas šaltiniuose siejamas su aisčių krikšto misija, Kristaus karių ordinu ir kovomis prie Treiderės upės.'
+seo_atnaujinta: '2026-07-02T21:03:54.613704+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -16,7 +21,7 @@ tags:
 
 ## Santrauka
 
-Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais vasario 14 d. buvo suimtas ir su visais palydovais nužudytas. Brunonas: pagaliau 1008 m. gale jis iš- vyko iš Lenkijos aisčių krikštyti net su 18 palydovų. Brunonas: ir Bonifacas buvo paskelbtas šventuoju kankiniu.
+Brunonas šaltiniuose minimas keliais skirtingais kontekstais: kaip vokiečių vienuolis Bonifacas, vykęs iš Lenkijos krikštyti aisčių, ir kaip Kristaus karių ordinui priskirtas žymus vyras. Misijonierius Brunonas 1008 m. gale išvyko su 18 palydovų, o 1009 m. vasario 14 d. buvo suimtas ir nužudytas. Kituose pasakojimuose magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus netoli Livonijos įlankos.
 
 ## Teiginiai
 
@@ -24,8 +29,6 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
 - t-001
   global_id: t-89681
   teiginys: 'Prūsijos vyskupas Kristijonas Kristaus karių ordinui priskyrė žymų vyrą Brunoną ir dar keturiolika vyrų.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Brunono priskyrimą ordinui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Livonija; mentioned_place: Palenkė; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -33,7 +36,6 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
 - t-002
   global_id: t-89682
   teiginys: 'Brunonas 1008 m. pabaigoje išvyko iš Lenkijos krikštyti aisčių su 18 palydovų.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir įvardis pakeistas aiškiu asmens vardu.'
   pagrindžia:
     - c-003
 
@@ -41,7 +43,6 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
 - t-003
   global_id: t-89683
   teiginys: '1009 m. vasario 14 d. Brunonas aisčių krašte buvo suimtas ir nužudytas su visais palydovais.'
-  sudarymo_pagrindimas: 'Pradinis tekstas turi fragmento požymių ir turi būti paverstas pilnu faktiniu sakiniu.'
   pagrindžia:
     - c-002
 
@@ -49,23 +50,8 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
 - t-004
   global_id: t-184682
   teiginys: 'Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus netoli Livonijos įlankos.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys pilnas, turi aiškų veikėją ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 136232-137023; hash=7e53b2c5d36181173b86e2a69e9b59dcc19ff7b73fd1c5c80611494b0815a4cd; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kalavijas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Brunonas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brunonas" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Brunonas iš Kverfurto.md#claim-t-60256|Brunonas iš Kverfurto]]: Brunonas iš Kverfurto mirė 1009 m. ir buvo vienas pirmųjų misionierių, veikusių prūsų žemėse.
 - susijęs iš [[objektai/asmenys/Burchardas iš Magdeburgo.md#claim-t-60096|Burchardas iš Magdeburgo]]: Burchardas iš Magdeburgo buvo Magdeburgo burggrafas ir kilo iš tos pačios giminės kaip Brunonas iš Kverfurto.
 - susijęs iš [[objektai/ivykiai/Brunono misija į aisčių kraštą ir žūtis (1009 m.).md#claim-t-10801|Brunono misija į aisčių kraštą ir žūtis (1009 m.)]]: Per misiją į aisčių kraštą Brunonas žuvo jotvingų krašte.
@@ -97,7 +83,6 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
       165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
     įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -116,7 +101,6 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
     nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais
     vasario 14 d. buvo suimtas ir su visais palydovais nužudytas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -143,7 +127,6 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
     aisčių krikštyti net
     su 18 palydovų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -163,7 +146,6 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
     šitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­
     džiusi po kaimus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

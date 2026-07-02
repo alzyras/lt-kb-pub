@@ -27,11 +27,6 @@ AT-AS Aukščiausioji Taryba-Atkuriamasis Seimas. 1990 III 11 Lietuvos Respublik
 - t-001
   global_id: t-65067
   teiginys: '1990 m. kovo 11 d. Lietuvos Respublikos Aukščiausioji Taryba paskelbė Lietuvos nepriklausomybės atkūrimą.'
-  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet data perrašyta į taisyklingą lietuvišką formą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1990 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys pagrįstas, bet data perrašyta į taisyklingą lietuvišką formą.'
   pagrindžia:
     - c-001
 
@@ -48,7 +43,6 @@ AT-AS Aukščiausioji Taryba-Atkuriamasis Seimas. 1990 III 11 Lietuvos Respublik
     Lietuvos Respublikos Aukščiausioji Taryba paskelbia Lietuvos nepri-
     klausomybės atkūrimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

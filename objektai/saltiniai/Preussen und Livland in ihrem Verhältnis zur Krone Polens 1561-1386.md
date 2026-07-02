@@ -29,23 +29,8 @@ Stammler : Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386 
 - t-001
   global_id: t-31894
   teiginys: 'K. D. Stammlerio „Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386“ pasirodė 1953 m.'
-  sudarymo_pagrindimas: 'Citata palaiko trumpą bibliografinį teiginį, o pradinę formuluotę verta sugramatinti.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/E. Wermke|E. Wermke]]'
-  temporaliniai_duomenys: 'įvykio data: 1953 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko trumpą bibliografinį teiginį, o pradinę formuluotę verta sugramatinti.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a0e7466599de1b53279780ebc8464fac83a6d7f43ff15b313b60285bdf937122; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> E. Wermke: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: E. Wermke: mention_match, author
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386" parinktas kaip owner_note_path. Targetas "E. Wermke" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -61,7 +46,6 @@ Stammler : Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386 
     kalas : J. Jacoby :** **_Boguslaus Radziwiłł, der Statthalter des Grossen Kurfür­
     sten in Ostpreussen_** **(1959).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

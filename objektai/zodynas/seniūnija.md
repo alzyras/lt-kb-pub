@@ -21,26 +21,15 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
 - t-001
   global_id: t-03169
   teiginys: 'Seniūnijos buvo valstybės dvarai, kuriuos suteikdavo kartu su aukštomis valstybinėmis pareigomis.'
-  sudarymo_pagrindimas: 'Supaprastinta paini sakinio sandara ir paliktas citatos remiamas faktas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 541249-541680; hash=a564a9f3ea55eb9770122f4af1d9135f9d549c9109b47e6163b7bdaab2138e86; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-182976"></a>
 - t-002
   global_id: t-182976
   teiginys: 'Aukštosios valstybinės pareigos iki XVIII a. nebuvo atlyginamos, bet teikė įtakos valstybėje ir seniūnijomis vadintų valstybės dvarų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis sakinys buvo per ilgas ir turėjo neaiškią įvardžio nuorodą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 541249-541680; hash=a564a9f3ea55eb9770122f4af1d9135f9d549c9109b47e6163b7bdaab2138e86; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -59,11 +48,9 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
     dengdavo valstybės pareigas einant padarytas išlaidas, bet ir
     nemažus turtus susikraudavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
     - t-002

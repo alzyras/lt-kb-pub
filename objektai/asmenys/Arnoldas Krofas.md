@@ -21,21 +21,8 @@ Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas
 - t-001
   global_id: t-60240
   teiginys: 'Brolis Arnoldas Krofas arbaleto strėle peršovė Divanui kaklą, po to puolėjai pasitraukė nebaigę puolimo.'
-  sudarymo_pagrindimas: 'Citata palaiko konkretų Arnoldo Krofo veiksmą ir jo rezultatą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Divanas|Divanas]]; mentioned_object: [[objektai/daiktai/Arbaletas|Arbaletas]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Arnoldas Krofas|Arnoldas Krofas]] puolė [[objektai/asmenys/Divanas|Divanas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b9a956f468f5689586b0779c79eadd17b4f7347032f6de8c9753cee940688624; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Divanas: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Arnoldas Krofas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Divanas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai aprašo Arnoldo Krofo puolimą prieš Divaną.
 - susijęs iš [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis.md#claim-t-66894|Senenzės pilies apgula ir Divano žūtis]]: Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį, bet brolis Arnoldas Krofas jį mirtinai peršovė arbaletu.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88530|Bartai]]: Per pilies puolimą brolis Arnoldas Krofas arbaleto strėle peršovė bartų vadui Divanui kaklą, o po Divano žūties kiti pasitraukė.
 ## Reikšmingi paminėjimai
@@ -52,7 +39,6 @@ Dusburgietis teigia, kad kai šitai padarė, kai viena šalis parengė visa, kas
     Krofas, leisdamas strėles iš arbaleto, peršovė minėtajam Divanui kaklą. Šiam žuvus,
     kiti pasitraukė nebaigę reikalo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

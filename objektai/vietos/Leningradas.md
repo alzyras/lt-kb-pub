@@ -29,48 +29,15 @@ GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
 - t-001
   global_id: t-99931
   teiginys: '1949 m. leidinys „Gramoty Velikogo Novgoroda i Pskova“ buvo išleistas Maskvoje ir Leningrade.'
-  sudarymo_pagrindimas: 'Pradinė formuluotė yra bibliografinė santrumpa, o citata leidžia suformuluoti sakinį apie Leningradą kaip leidimo vietą.'
-  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Maskva'
-  temporaliniai_duomenys: 'įvykio data: 1949 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė yra bibliografinė santrumpa, o citata leidžia suformuluoti sakinį apie Leningradą kaip leidimo vietą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c8e0cbef9e83bc8ba84015b6c0578700e20c78b34583cbb031ba117bb66b13dd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kijevas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Leningradas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kijevas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leningradas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184391"></a>
 - t-002
   global_id: t-184391
   teiginys: '1950 m. leidinys „Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych knjazej XIV-XVI vv.“ buvo išleistas Maskvoje ir Leningrade.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pagrindžia aiškesnį faktinį sakinį apie Leningradą kaip leidimo vietą.'
-  susije_objektai: 'mentioned_place: Maskva'
-  temporaliniai_duomenys: 'įvykio data: 1950 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia aiškesnį faktinį sakinį apie Leningradą kaip leidimo vietą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 30080-30257; hash=ec2d4134468cf2aba774b42d198120913a81869f093c42edc100cd75c5285a97; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Maskva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Leningradas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=12
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leningradas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/A. Nasonov.md#claim-t-30525|A. Nasonov]]: A. Nasonovas yra 1950 m. Maskvoje ir Leningrade išleistos „Novgorodskoji pervaja letopis“ leidinio autorius.
 - susijęs iš [[objektai/autoriai/Jakubovskij, A. J.md#claim-t-54122|Jakubovskij, A. J]]: A. J. Jakubovskij su B. D. Grekovu parašė veikalą „Zolotaja Orda i ee padenije“, išleistą Maskvoje ir Leningrade 1950 m.
 - susijęs iš Povest vremennych let: „Povest’ vremennych let, cast’ pervaja“ teksto ir vertimo leidimas išleistas Leningrade 1951 m.
@@ -100,7 +67,6 @@ GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
     GrVUk = Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych
     knjazej XIV-XVI vv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,7 +81,6 @@ GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
     GrVUk = Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych
     knjazej XIV-XVI vv. Maskva-Leningradas 1950.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

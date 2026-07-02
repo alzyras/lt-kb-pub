@@ -34,8 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-07769
   teiginys: 'Pavasarį jaunuomenė grodavo iš karklo ar blindės padirbtais vamzdžiais, o piemenėliai, ganydami ožaičius ir ėraičius, naudodavo molio pypynes.'
-  sudarymo_pagrindimas: 'Teiginys paremtas citata, bet jį verta suformuluoti aiškesne bendrine lietuvių kalba.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]'
   pagrindžia:
     - c-001
 
@@ -47,7 +45,6 @@ Nenurodyta
     Taip pat vamzdžiais vamzdijo jaunuomenė, iš mauknos^559 karklų ar blendies padirbę pavasariais, lig žievei neprikepus;
         be tų vamzdžių turėjo piemenėliai molio pypynes, su kuriomis pavasarį ožaičius ir ėraičius po laukus ganydami tancino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

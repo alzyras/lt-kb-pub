@@ -20,12 +20,8 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
 - t-001
   global_id: t-80708
   teiginys: 'Leitenanto Barkausko vadovaujama pirmoji grupė turėjo pulti bolševikų štabą.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi pasakojimo laiko formą; citata leidžia suformuluoti glaustą faktą apie Barkauską.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 762539-762773; hash=d6af51f4edca420bf2071546020c8805ef3be59d80292c813652e541c3fe2bee; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Lukoševičius.md#claim-t-80739|Lukoševičius]]: Skyrininkas Lukoševičius nudūrė leitenantą Barkauską už gerklės griebusį komisarą.
 - susijęs iš [[objektai/grupes/Kosto Barkausko būrys.md#claim-t-40925|Kosto Barkausko būrys]]: Kosto Barkausko būrys veikė Žuvinto paliose ir Buktos (Žaliosios) miške kartu su kitais partizanų būriais.
 - susijęs iš Buktos (Žaliosios) miškas: Buktos (Žaliosios) miške veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko partizanų būriai.
@@ -48,7 +44,6 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
     jama leitenanto Barkausko, puls štabą, o antroji, vadovaujama karininko Sangino, puls
     dvaro klojimą, kuriame [miegojo] dvi bolševikų kuopos. [...].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

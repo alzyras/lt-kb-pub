@@ -26,23 +26,8 @@ amziai:
 - t-001
   global_id: t-21829
   teiginys: 'Taškento konferencijų dalyviai sutarė stiprinti rusų kalbos mokymą SSRS mokymo įstaigose ir kelti rusų kalbos mokytojų kvalifikaciją.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir per ilgas, citata pagrindžia glaustesnę formą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: SSRS; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1979 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir per ilgas, citata pagrindžia glaustesnę formą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f437fcdc8cca52712c9d6d6c13d3a2d701561010361ffa485c17c27de2b25ac0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rusai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Taškentas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Taškentas" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Taškento konferencijos dėl rusų kalbos stiprinimo SSRS (1975 ir 1979 m.).md#claim-t-20518|Taškento konferencijos dėl rusų kalbos stiprinimo SSRS (1975 ir 1979 m.)]]: Taškento konferencijų dalyviai sutarė stiprinti rusų kalbą SSRS mokymo įstaigose ir gerinti rusų kalbos mokytojų kvalifikaciją.
 ## Reikšmingi paminėjimai
 
@@ -63,7 +48,6 @@ amziai:
     komunikaciją tarp šalies gyventojų, bet ir turėjo slaptą kultūrinės ekspansi-
     jos aspektą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

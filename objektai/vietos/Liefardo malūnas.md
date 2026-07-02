@@ -22,21 +22,8 @@ Dusburgietis teigia, kad persekiojami miestiečiai, nestengdami priešintis toki
 - t-001
   global_id: t-58586
   teiginys: 'Persekiojami miestiečiai pasitraukė į Liefardo malūną, kuris buvo įtvirtintas kaip pilis.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako įvykį ir Liefardo malūno įtvirtinimą.'
-  susije_objektai: 'llm_object: Liefardo malūnas; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] puolė Liefardo malūnas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 468409-468747; hash=20cb9ef262b623a937d9f91feee3566671f31e342aa76bb68f67091e6c560016; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Liefardo malūnas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Liefardo malūnas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad pagudėnai užpuolė Liefardo malūną.
 
 ## Reikšmingi paminėjimai
 
@@ -50,7 +37,6 @@ Dusburgietis teigia, kad persekiojami miestiečiai, nestengdami priešintis toki
     naršiai gynėsi, kadangi vienoje ir kitoje pusėje krito daug vyrų, jie liovėsi kovoję ir kurį
     laiką nieko nedarė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

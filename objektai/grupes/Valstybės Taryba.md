@@ -30,11 +30,6 @@ Klaipėdos krašto lietuvių atstovai paskelbė norą prisijungti prie Didžiosi
 - t-001
   global_id: t-75012
   teiginys: '1928 m. Konstitucijoje įsteigta Valstybės Taryba turėjo teisę tik ruošti ir svarstyti įstatymus.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Valstybės Tarybos kompetenciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]'
-  temporaliniai_duomenys: 'įvykio data: 1928 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Valstybės Tarybos kompetenciją.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75761|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1918 m. lapkričio 2 d. Antanas Smetona buvo Tarybos prezidiumo pirmininkas, o prezidiumas su ministrų kabinetu sudarė vykdomąją valdžią.
@@ -87,7 +82,6 @@ Klaipėdos krašto lietuvių atstovai paskelbė norą prisijungti prie Didžiosi
     cija iš esmės užrašė esamą situaciją, įteisindama autoritarinį A. Smetonos
     valdymą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

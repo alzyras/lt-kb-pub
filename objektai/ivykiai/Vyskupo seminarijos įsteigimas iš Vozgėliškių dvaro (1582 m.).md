@@ -45,8 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-86965
   teiginys: 'Jurgis Radvila Vilniaus klierikų kolegijai funduoti ir aprūpinti pridėjo savo patrimonialinį Vozgėliškių dvarelį Vilniaus paviete.'
-  sudarymo_pagrindimas: 'Pradinis tekstas nutrūkęs; citata aiškiai remia faktą apie Vozgėliškių dvaro skyrimą fundacijai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila]]; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -81,7 +79,6 @@ Nenurodyta
     davimui bei jos aprūpinimui jai pridedame mūsų patrimo-
     nialinį dvarelį Vilniaus paviete, vadinamą Vozgėliškėmis*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

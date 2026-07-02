@@ -27,49 +27,20 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 - t-001
   global_id: t-78905
   teiginys: 'Pašauktinės kariuomenės trūkumus bandyta kompensuoti samdiniais, kurie buvo profesionalūs kariai.'
-  sudarymo_pagrindimas: 'Pradinė tezė nėra apie pašauktinę kariuomenę, o citata leidžia suformuluoti tiesiogiai susijusį faktą.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1506 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinė tezė nėra apie pašauktinę kariuomenę, o citata leidžia suformuluoti tiesiogiai susijusį faktą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4ea88c61369216da8fe16643c06bd4f41ecc0cb19b514c5a17a4a37ae31ec3be; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Lietuva: 0.80
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Totoriai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad totoriai plėšė LDK žemes, todėl palaiko puolimo ryšį su Lietuva.
 
 <a id="claim-t-78906"></a>
 - t-002
   global_id: t-78906
   teiginys: 'Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, kad po apiplėšimo totoriai spėdavo pasitraukti.'
-  sudarymo_pagrindimas: 'Šaltinio mintis palaiko aiškesnį ir glaustesnį enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/paprociai/Bajorų pašauktinės kariuomenės mobilizacija|Bajorų pašauktinės kariuomenės mobilizacija]]; mentioned_place: Lietuva; llm_object: Lietuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=24776668c32e92bd3f7bddbc9f628f539a9078cbe60332ff4127aa2ece27e6f1; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuva: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Pavadinimas ir citatos kontekstas tiesiogiai sieja kariuomenę su Lietuva.
 
 <a id="claim-t-78907"></a>
 - t-003
   global_id: t-78907
   teiginys: 'XV a. pabaigoje ir XVI a. pradžioje Lietuvos karinės organizacijos pagrindą vis dar sudarė kilmingųjų pašauktinė raitelių kariuomenė.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai pagrįstas citata.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -94,7 +65,6 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
     1506 m. vasarą totoriai įsiveržė į LDK valdas
     gerai nusiteikę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -116,7 +86,6 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
     nebaudžiamiems plėšti LDK žemes xv a.
     pabaigoje - xvi a. pradžioje. Tiesa, dar
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -139,7 +108,6 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
     džiojo kunigaikščio dvaro vėliava bei di-
     dikų privatūs daliniai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

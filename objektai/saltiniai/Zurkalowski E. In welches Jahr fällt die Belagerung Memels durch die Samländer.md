@@ -29,15 +29,8 @@ Dusburgietis teigia, kad zurkalowski E.
 - t-001
   global_id: t-61388
   teiginys: 'E. Zurkalowskio straipsnis „In welches Jahr fällt die Belagerung Memels durch die Samländer?“ publikuotas 1907 m. Karaliaučiuje leistame AM 44 tome.'
-  sudarymo_pagrindimas: 'Citata nurodo straipsnio publikavimo metus ir leidinį.'
-  temporaliniai_duomenys: 'įvykio data: 1907 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata nurodo straipsnio publikavimo metus ir leidinį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 806069-806194; hash=a256b91910b0b5b50f478686e4e02f919681e85e44574be99c9a9e446a4f8dd9; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -48,7 +41,6 @@ Dusburgietis teigia, kad zurkalowski E.
     Zurkalowski E. In welches Jahr fällt die Belagerung Memels durch die Samländer? —
     AM, Königsberg i Pr 1907 Bd 44, S. 479—486.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

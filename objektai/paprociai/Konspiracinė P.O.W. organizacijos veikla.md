@@ -45,9 +45,6 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0f5e553e6185e53e075d9590d8470a07e2f16fd5bab1742f5537dfdc1d0ed087; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 <a id="claim-t-67126"></a>
 - t-002
   global_id: t-67126
@@ -56,9 +53,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=92722be1179cc839594f90bc38e37bbc7bc3d712c7130eb343514ca28e2af165; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -79,13 +73,10 @@ Nenurodyta
     daroma slaptai: kiekvienas narys turėjo slapyvardį, o visi svar-
     besnieji raštai buvo rašomi šifruoti (slapta, sutartine abėcėle).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-002
+    - t-002- c-002
   santrauka: 'P.O.W. organizacija slapta rengė sukilimą ir stengėsi į savo pusę patraukti Lietuvos karininkus bei kareivius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -98,9 +89,7 @@ Nenurodyta
     pasisekę patraukti; kiti sąmokslininkai tyčia stojo į kariuomenę
     karininkais ir rūpinosi gauti atsakingas vietas.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

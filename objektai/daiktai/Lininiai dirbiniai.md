@@ -36,16 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 241495-241888; hash=5d47d0dec8ff617b8ade09219c4c55b87577a7c1fc7954a539462915b8918f5d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Antikos žmonės: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lininiai dirbiniai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Antikos žmonės: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lininiai dirbiniai" parinktas kaip owner_note_path. Targetas "Antikos žmonės" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/zodynas/Alabatis.md#claim-t-189272|Alabatis]]: Narbutas, remdamasis Lasickiu, Alabatį apibūdina kaip deivę, kurios šauktasi dirbant linininkystės darbus.
 ## Reikšmingi paminėjimai
 - c-001
@@ -62,9 +52,7 @@ Nenurodyta
     Aušra (Aussra)
     Ryto deivė.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

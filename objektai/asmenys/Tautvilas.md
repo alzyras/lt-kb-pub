@@ -10,6 +10,11 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
+description: 'Tautvilas – vardas, siejamas su Mindaugo sūnėnu Polocke ir Kęstučio sūnumi, Vytauto broliu, žuvusiu prie Vilniaus.'
+socialDescription: 'Tautvilo vardas šaltiniuose siejamas su Mindaugo giminės kovomis, Polocku, Naugarduku ir Kęstučio sūnaus žūtimi prie Vilniaus.'
+seo_atnaujinta: '2026-07-02T21:03:54.570724+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'true'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,7 +28,7 @@ periodo_grupes: []
 
 ## Santrauka
 
-Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaugo buvo išsiųsti į rusų sritis. Tautvilas buvo nužudytas, ir valdžią paėmė Treniota.
+Įraše Tautvilo vardu siejami keli Lietuvos istorijos epizodai, todėl asmens tapatybė nėra vienareikšmė. Mindaugo sūnėnas Tautvilas minimas Polocke ir 1249 m. kare prieš Mindaugą, kai iš jo buvo atimtos valdos. Kitas Tautvilas, Kęstučio sūnus ir Vytauto brolis, siejamas su Naugarduku ir žūtimi prie Vilniaus.
 
 ## Teiginiai
 
@@ -31,30 +36,13 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 - t-001
   global_id: t-121171
   teiginys: 'Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir pagrįstas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tautvila|Tautvila]]; mentioned_place: Alšėnai'
-  temporaliniai_duomenys: 'įvykio data: po 1382 m.; įvykio data: 1382 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir pagrįstas citata.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 21110-21527; hash=ae5d6c2bad7b570e39443af87aebdaf15eac63e97c248c5219d878510ce97b0c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Polockas: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Tautvilas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Tautvilas įsigyveno Polocke.
 
 <a id="claim-t-121172"></a>
 - t-002
   global_id: t-121172
   teiginys: 'Mindaugo sūnėnas Tautvilas įsitvirtino Polocke, kai Lietuvos valdžia plito Baltojoje Rusijoje.'
-  susije_objektai: 'llm_object: Polockas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Rusija; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Vitebskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Tautvilas|Tautvilas]] gyveno Polockas'
   pagrindžia:
     - c-001
 
@@ -62,9 +50,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 - t-003
   global_id: t-121173
   teiginys: 'Mindaugo sūnėnas Tautvilas įsigyveno Polocke, kai Lietuvos valdžia plito Baltojoje Rusioje.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys sutelktas į Tautvilą.'
-  susije_objektai: 'llm_object: Polockas; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Vikintas|Vikintas]]; mentioned_place: Vitebskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Tautvilas|Tautvilas]] gyveno Polockas'
   pagrindžia:
     - c-005
 
@@ -72,85 +57,29 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 - t-004
   global_id: t-121174
   teiginys: 'Prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: Vilnius; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vilnius; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Tautvilas|Tautvilas]] buvo sūnus [[objektai/asmenys/Kęstutis|Kęstutis]]; [[objektai/asmenys/Tautvilas|Tautvilas]] mirė Vilnius; [[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Lietuva'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f0758cf72689abc4d1afd8576d38adb53a90c6cc3501facfba9e957c4ef353c2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Tautvilas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Tautvilo tėvą Kęstutį.
 
 <a id="claim-t-121175"></a>
 - t-005
   global_id: t-121175
   teiginys: 'Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.'
-  sudarymo_pagrindimas: 'Teiginys aiškus, pilnas ir tiesiogiai atitinka citatos informaciją.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: Vilnius; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia; llm_object: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Tautvilas|Tautvilas]] buvo sūnus [[objektai/asmenys/Kęstutis|Kęstutis]]; [[objektai/asmenys/Tautvilas|Tautvilas]] mirė Vilnius; [[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Lietuva'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f0758cf72689abc4d1afd8576d38adb53a90c6cc3501facfba9e957c4ef353c2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.99
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Tautvilas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Tautvilas buvo Kęstučio sūnus.
 
 <a id="claim-t-121176"></a>
 - t-006
   global_id: t-121176
   teiginys: '1249 m. Mindaugas iš savo sūnėno Tautvilo atėmė valdas, o Tautvilas, remiamas Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai siejamas su Tautvilu ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_place: Voluinė; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Gedvydas|Gedvydas]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1249 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai siejamas su Tautvilu ir atitinka citatos informaciją.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ea0c4aa6d19a1830169fe8af11ce04f94de93df10207c832bf1cdae90894b590; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Polockas: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Tautvilas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Polockas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekste tiesiogiai pasakyta, kad Tautvilas įsigyveno Polocke.
 
 <a id="claim-t-184840"></a>
 - t-007
   global_id: t-184840
   teiginys: 'Tautvilas Treniotos kvietimu atvyko iš Polocko ir slapta su savaisiais rengė naują sąmokslą prieš Treniotą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata remia aiškius Tautvilo veiksmus, o ne tik jo paminėjimą.'
-  susije_objektai: 'mentioned_place: Polockas'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4954bf12b2317b799d60ebf06a882a46bb9abca41c45748a29b90d2628a4d3b0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Voluinė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Tautvilas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Voluinė: mention_match, place, gap=52
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautvilas" parinktas kaip owner_note_path. Targetas "Voluinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Rygos vokiečiai.md#claim-t-31351|Rygos vokiečiai]]: Danieliaus ir Tautvilo sąjunga su Rygos vokiečiais nebuvo palanki Livonijos ordino magistrui Andriui von Stirlandui.
 - susijęs iš [[objektai/asmenys/Gedvydas.md#claim-t-40121|Gedvydas]]: 1249 m. Gedvydas neteko valdų, kai Mindaugas, stiprindamas centrinę valdžią, jas atėmė iš Vykinto, Tautvilo ir Gedvydo.
 - susijęs iš [[objektai/asmenys/Tautvila.md#claim-t-87601|Tautvila]]: Lietuvos kunigaikštis Tautvila, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.
@@ -186,7 +115,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     Vitebskas Gedimino laikais, kai po vietinio kunigaikščio mir­
     ties kunigaikštiją paveldėjo jo žentas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -201,7 +129,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas. Šie,
     remiami Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -249,7 +176,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     dermes/7  Knyga XIII, p. 455, Varš.
     leid.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -265,7 +191,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     Šis nuo 1382 m. rodė ištikimybę savo švogeriui Vytautui (juodu
     buvo vedę kunigaikštytes seseris Sudimantaites).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -281,7 +206,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi­
     das, o Vitebske jų dėdė, motinos brolis, Vikintas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -306,7 +230,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     slapta su savaisiais regzti
     prieš jį naują sąmokslą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

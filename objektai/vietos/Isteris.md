@@ -41,7 +41,6 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - t-001
   global_id: t-67995
   teiginys: 'Isteris, arba Dunojus, yra viena iš didžiųjų pietinės įšleities upių.'
-  susije_objektai: 'mentioned_place: Viena; mentioned_place: Žalioji giria'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Belizarijus.md#claim-t-186183|Belizarijus]]: Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero vadovaujamų herulų pagalba.
@@ -68,7 +67,6 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
         teka nuo tos kalvos į Uksinę, arba Juodąją, marę, tarp kurių didžiosios yra: Niperis, Tyrulė ir
         Isteris, arba Dunojus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

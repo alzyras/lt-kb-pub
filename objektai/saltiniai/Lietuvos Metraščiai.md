@@ -24,8 +24,6 @@ amziai:
 - t-001
   global_id: t-75478
   teiginys: 'Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija.'
-  sudarymo_pagrindimas: 'Citata leidžia tiksliau įvardyti lietuvių ir rusėnų bajoriją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -33,39 +31,15 @@ amziai:
 - t-002
   global_id: t-75480
   teiginys: 'Lietuvos metraščiuose užrašyti Gedimino sapno, Algirdo žygių į Maskvą ir Birutės bei Kęstučio meilės istorijos siužetai laikomi epiniais pasakojimais.'
-  sudarymo_pagrindimas: 'Citata palaiko konkretesnį ir aiškesnį teiginį su išvardytais siužetais.'
-  susije_objektai: 'llm_object: Maskva; mentioned_event: [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Birutės kalnas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_object: [[objektai/zodynas/epas|epas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Palanga; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 37652-38578; hash=8b6bff3cc1df8f1316af435b7fdfa8329efe61b02b4f6ee015c330048784cc9a; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/01_extract_sources_notes.md
-  ryšio_patikimumas: surenge_zygi_i -> Maskva: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekste tiesiogiai minimi Algirdo žygiai į Maskvą.
 
 <a id="claim-t-75481"></a>
 - t-003
   global_id: t-75481
   teiginys: 'Rusėnų kalba buvo surašyti Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir citata jį tiesiogiai pagrindžia.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Luckas; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 66760-67570; hash=043cb602dc50f6587090fa93a5d431d441ad895900ee2bde8b08d0c8d86f5155; match=whitespace_regex
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/01_extract_sources_notes.md
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos Metraščiai: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Metraščiai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -87,7 +61,6 @@ amziai:
     patvirtina vienalaikiai rašytiniai šaltiniai. Besiformuojančio lietuvių epo
     dalimi reikėtų laikyti ir Šventaragio legendą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -105,7 +78,6 @@ amziai:
     dinastija. Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių
     nacijos“ ponų sluoksnį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -130,7 +102,6 @@ amziai:
     40
     grūdais pagrindinį Europos duonos uostą  – Gdanską.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

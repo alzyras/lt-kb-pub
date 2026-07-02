@@ -31,8 +31,6 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
 - t-001
   global_id: t-07967
   teiginys: 'Anapus Daugavos iki Gaujos gyvenusius lietuvius vadino latviais, o jų kraštą – Latvija.'
-  sudarymo_pagrindimas: 'Citata leidžia tiksliau nurodyti ribą iki Gaujos ir pašalinti nepagrįstą „vėliau“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Latvija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -46,7 +44,6 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
         Lietuvos galas, kame Lietuvos tauta bengės, o krievių^107 prasidėjo; juo į pietus padaugaviais
         lužėnais, arba baltaisiais gudais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

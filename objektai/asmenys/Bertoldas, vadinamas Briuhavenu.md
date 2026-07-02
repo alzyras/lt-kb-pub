@@ -8,6 +8,11 @@ datos:
   - '1298 m.'
 date_start: '1289'
 date_end: '1298'
+description: 'Bertoldas Briuhavenas, Ragainės ir Karaliaučiaus komtūras, minimas 1289, 1291 ir 1298 m. Ordino žygiuose prieš lietuvius.'
+socialDescription: 'Teutonų ordino komtūras Bertoldas Briuhavenas minimas Ragainės gynyboje, Kolainių pilies sudeginime ir 1298 m. pagalboje Livonijos broliams.'
+seo_atnaujinta: '2026-07-02T21:03:54.571528+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,7 +29,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šalimais tekančio upelio Ragaine, palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą, su 40 brolių ir šimtu rinktinių ginklanešių. Dusburgietis teigia, kad apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie jo gyvenimą Šis brolis Bertoldas neilgai vadovavo Ragainės piliai, mat netrukus buvo paskirtas Karaliaučiaus brolių komtūru. Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą 1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas, Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami pro Kolainių pilį.
+Bertoldas, vadinamas Briuhavenu, buvo iš Austrijos kilęs Teutonų ordino brolis, 1289 m. paliktas ginti Ragainės pilies su 40 brolių ir 100 ginklanešių. Netrukus jis tapo Karaliaučiaus komtūru ir 1291 m. su broliais bei 1500 vyrų sudegino tuščią Kolainių pilį, po to nusiaubė Junigedos valsčių. 1298 m. didysis magistras Gotfridas Hohenlohė pasiuntė Bertoldą į pagalbą Livonijos broliams.
 
 ## Teiginiai
 
@@ -32,130 +37,43 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - t-001
   global_id: t-59876
   teiginys: 'Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti statybai, o vėliau sudegino Medrabos pilį.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Bertoldo bandymą ir vėlesnį pilies sudeginimą.'
-  susije_objektai: 'llm_object: Medraba; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_place: Medraba; mentioned_place: Semba; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Bertoldas, vadinamas Briuhavenu|Bertoldas, vadinamas Briuhavenu]] puolė Medraba; [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu|Bertoldas, vadinamas Briuhavenu]] užėmė Medraba'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5ce5f7e10378c2bb68d85852f7fff96c9616d79f69740c6cca01cd70de3684ee; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gime -> Austrija: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Austrija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Bertoldo kilmę iš Austrijos.
 
 <a id="claim-t-59877"></a>
 - t-002
   global_id: t-59877
   teiginys: '1291 m. Karaliaučiaus komtūras Bertoldas Bruhavenas su broliais ir 1500 vyrų sudegino tuščią Kolainių pilį.'
-  sudarymo_pagrindimas: 'Citata pagrindžia datą, pareigas, pajėgas ir veiksmą.'
-  susije_objektai: 'mentioned_place: Kolainiai; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Junigeda; llm_object: Junigeda; llm_object: Kolainiai'
-  semantiniai_rysiai: '[[objektai/asmenys/Bertoldas, vadinamas Briuhavenu|Bertoldas, vadinamas Briuhavenu]] puolė Junigeda; [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu|Bertoldas, vadinamas Briuhavenu]] puolė Kolainiai'
-  temporaliniai_duomenys: 'įvykio data: 1291 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia datą, pareigas, pajėgas ir veiksmą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 557028-557803; hash=ecb37398754b38c4d861223f7779891ee5fb3a0393cfc76d20b6d46efbd754dc; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Ragainė: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad Bertoldas vadovavo Ragainės piliai.
 
 <a id="claim-t-59878"></a>
 - t-003
   global_id: t-59878
   teiginys: 'Bertoldas Briuhavenas neilgai vadovavo Ragainės piliai, nes netrukus buvo paskirtas Karaliaučiaus brolių komtūru.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia pareigų pasikeitimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bertoldas Briuhavenas|Bertoldas Briuhavenas]]; mentioned_place: Ragainė; llm_object: Ragainė'
-  semantiniai_rysiai: '[[objektai/asmenys/Bertoldas, vadinamas Briuhavenu|Bertoldas, vadinamas Briuhavenu]] valdė Ragainė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9efce24a191c07ae2821254d9f6a2a987c4632d006b0faae14dcde42937209c5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Junigeda: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Junigeda: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad po Kolainių sudeginimo jo pajėgos patraukė į Junigedą ir ją nusiaubė.
 
 <a id="claim-t-59879"></a>
 - t-004
   global_id: t-59879
   teiginys: '1298 m. didysis magistras Gotfridas Hohenlohė pasiuntė Karaliaučiaus komtūrą Bertoldą Briuhaveną į pagalbą Livonijos broliams.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Bertoldo pasiuntimą į Livoniją.'
-  susije_objektai: 'llm_object: Livonija; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Gotfridas Hohenlohė|Gotfridas Hohenlohė]]; mentioned_place: Goliubo pilis; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Torunė; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Bertoldas, vadinamas Briuhavenu|Bertoldas, vadinamas Briuhavenu]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu|Bertoldas, vadinamas Briuhavenu]] keliavo į Livonija'
-  temporaliniai_duomenys: 'įvykio data: 1298 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia Bertoldo pasiuntimą į Livoniją.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1e73b288d5b486196e4bc7811ab51d3676f71ea428de0e9282976dfeeb3e95a5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Medraba: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Medraba: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas nurodo, kad Bertoldas po nesėkmingo statybos trukdymo puolė Medrabos pilį.
 
 <a id="claim-t-59880"></a>
 - t-005
   global_id: t-59880
   teiginys: '1289 m. Meinhardas Ragainės piliai ginti paliko iš Austrijos kilusį komtūrą Bertoldą Briuhaveną su 40 brolių ir 100 ginklanešių.'
-  sudarymo_pagrindimas: 'Citata aiškiai pagrindžia Bertoldo paskyrimą ginti Ragainę.'
-  susije_objektai: 'llm_object: Austrija; llm_object: Ragainė; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Austrija; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Ragainė; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Bertoldas, vadinamas Briuhavenu|Bertoldas, vadinamas Briuhavenu]] gimė Austrija; [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu|Bertoldas, vadinamas Briuhavenu]] gynė Ragainė'
-  temporaliniai_duomenys: 'įvykio data: 1289 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata aiškiai pagrindžia Bertoldo paskyrimą ginti Ragainę.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d83dd3c83b6acdbc3d54397275ee883c84598d773e2a2fdf40e34a1ab9c38e82; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Lietuva: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Bertoldas įsakė kariuomenei traukti link Lietuvos.
 
 <a id="claim-t-59881"></a>
 - t-006
   global_id: t-59881
   teiginys: 'Karaliaučiaus komtūras Bertoldas pavedė Henrikui Cutsvertui su kariuomene traukti link Lietuvos ir siaubti Vytenio žemes.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Bertoldo įsakymą ir žygio tikslą.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Baiga; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Pilėnai'
-  semantiniai_rysiai: '[[objektai/asmenys/Bertoldas, vadinamas Briuhavenu|Bertoldas, vadinamas Briuhavenu]] siuntė į Lietuva'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0c3741e5684273f7bee483abc063ebfe388e475ddb26c7408f59202a40b6c4d6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Livonija: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gotfridas Hohenlohė: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Gotfridas Hohenlohė tiesiogiai pasiuntė Bertoldą į pagalbą Livonijos broliams.
 
 ## Reikšmingi paminėjimai
 
@@ -175,7 +93,6 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
     negali būti skaistus, jeigu dievas neduoda tos malonės, ir nutarė imtis štai šio nepaprasto
     ir kupino pavojų išbandymo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -193,7 +110,6 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
     Junigedos valsčių532, kurį nusiaubė, grobdami bei degindami; neskaitant kitų padarytų
     nuostolių, paėmė į nelaisvę ir nužudė septynis šimtus netikėlių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -218,7 +134,6 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 
       549 Goliubo pilis prie Drevantos,  į šiaurės rytus nuo Torunės (SZCh, p. 36), dab.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -239,7 +154,6 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
     su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
     pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -259,7 +173,6 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
     pilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,
     kai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -275,7 +188,6 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
     Medrabos pilies534, per kurią krikščionys patyrė daug bėdų, ir ją po stipraus antpuolio iki
     pamatų sudegino, o visus žmones išžudė ar paėmė į nelaisvę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

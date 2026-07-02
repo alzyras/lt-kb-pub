@@ -37,47 +37,20 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
 - t-001
   global_id: t-68858
   teiginys: 'Broliai su kariuomene patraukė prieš Pabečių valsčių, nusiaubė Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi nutrūkusią pabaigą.'
-  susije_objektai: 'mentioned_place: Dramenava; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Kvedenava; mentioned_place: Viena; llm_object: Dramenava'
-  semantiniai_rysiai: 'Pabečiai priklausė Dramenava'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6a41dd4a3f10e5aee4d66660c1aa187cb6985e3ccb8324f74cf9ffef5bb668e1; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Semba: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pabečiai: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Pabečiai tiesiogiai apibūdinti kaip gyvenvietė šiaurės Semboje.
 
 <a id="claim-t-68860"></a>
 - t-002
   global_id: t-68860
   teiginys: 'Pabečiai buvo gyvenvietė šiaurės Semboje, į pietryčius nuo buvusių Naujųjų Kuršių.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Pabečių kaip gyvenvietės vietą ir yra paremtas citata.'
-  susije_objektai: 'llm_object: Semba; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Semba'
-  semantiniai_rysiai: 'Pabečiai priklausė Semba'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6d68037e7ef13f1cceb03896f1134f777fd5e94dbde82f5c4fe2cec3dfb47b6c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kvedenava: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pabečiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Kvedenava: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pabečiai" parinktas kaip owner_note_path. Targetas "Kvedenava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-68861"></a>
 - t-003
   global_id: t-68861
   teiginys: 'Po žygių prieš kaimyninius valsčius broliai patraukė su kariuomene prieš Pabečių valsčių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Kvedenava; mentioned_place: Viena'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179301|Lietuviai]]: 1283 m. žiemą 800 raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.
@@ -108,7 +81,6 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
     ir taip narsiai pradėjo gintis, kad ir kiti, atgavę jėgas bei drąsą, sugrįžo į mūšio lauką ir
     nukovė daugybę sembų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -123,7 +95,6 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
     gyvenvietė šiaurės Semboje  į pietryčius nuo buv. Naujųjų Kuršių, Neu-Kuhren (dab.
     Pionierskas).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

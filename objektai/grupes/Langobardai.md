@@ -24,53 +24,15 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
 - t-001
   global_id: t-185424
   teiginys: 'Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele kariuomene įsiveržė į Italiją.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys apie langobardų žygį.'
-  susije_objektai: 'mentioned_place: Italija; mentioned_group: [[objektai/grupes/Gepidai|Gepidai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; llm_object: Italija'
-  semantiniai_rysiai: '[[objektai/grupes/Langobardai|Langobardai]] keliavo į Italija'
-  temporaliniai_duomenys: 'įvykio data: 559 m; įvykio data: apie 559 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus faktinis sakinys apie langobardų žygį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 88370-89045; hash=70396e8e5157800185d346bb219847fbee6ce93ba3fc884452e148522ae60622; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Italija: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Langobardai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Italija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys aprašo langobardų judėjimą, kuris baigiasi įsiveržimu į Italiją.
 
 <a id="claim-t-185425"></a>
 - t-002
   global_id: t-185425
   teiginys: '703 m. galų nugalėti langobardai sudarė su romėnais palankią taiką.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškus, trumpas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]'
-  semantiniai_rysiai: '[[objektai/grupes/Langobardai|Langobardai]] sudarė sutartį su [[objektai/grupes/Romėnai|Romėnai]]'
-  temporaliniai_duomenys: 'įvykio data: 703 m'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškus, trumpas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 89308-89628; hash=60b7eeb663d739248562ccac2091b96469b87cf913ed83f726967c45476014af; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: sudare_sutarti_su -> Romėnai: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Langobardai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Romėnai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Taikos sudarymas su romėnais yra tiesioginis sutarties santykis.
 - susijęs iš [[objektai/grupes/Gepidai.md#claim-t-185459|Gepidai]]: Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti langobardų į žygį į Italiją.
 - susijęs iš Prokopijaus veikalas: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją.
 - susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-186153|Odoakras]]: Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš svetimšalių viešpatavo Romoje.
@@ -111,7 +73,6 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
     beveik ištisus du šimtmečius be pertraukos viešpatavo
     langobardai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -136,7 +97,6 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
     taiką. Vis dėlto po popiežiaus Stepono mirties lango­
     bardai, nebijodami galų, sugrįžo prie senųjų polinkių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

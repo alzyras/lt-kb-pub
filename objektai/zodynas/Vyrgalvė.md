@@ -29,7 +29,6 @@ Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
 - t-001
   global_id: t-07711
   teiginys: 'Vyrgalvė buvo mokesnis už vyrišką galvą, nes senovėje vyro galva laikyta vertesne už moters.'
-  sudarymo_pagrindimas: 'Teiginys sustiprintas aiškiu citatos paremtu predikatu.'
   pagrindžia:
     - c-001
 
@@ -47,7 +46,6 @@ Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
   citata_originali: |
     Jei viens antrą užmušė, tad užmuštojo gentims valna buvo senovėj užmušti patį užmušėją ar jo visų artimąjį gentį, kaip viršiau minavojau; jei užmušėjas juos numaldė, tad jis užmuštojo gentims turėjo atguldyti^1122 pinigais už užmuštojo galvą, kurie pinigai, arba mokesnis, vadinos vyrgalve, arba vyrgulda, kursai žodis paeina nuo vyro ir galvos arba nuo vyro ir žodžio guldyti, arba nuo žodžio vokiško geld – pinigai, beje, mokesnis už vyrišką galvą, nesgi senovėj vyriška galva daug didžiau buvo branginama, nekaip motriškos, kaipo patarlė, viršiau minavota, šiandien dar tą rodo: „Ožka, – sako, – ne gyvulys, merga ne šeimyna.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

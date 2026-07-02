@@ -28,12 +28,8 @@ Dusburgietis teigia, kad apie Bonifaco, popiežiaus, suėmimą ir turtų iššva
 - t-001
   global_id: t-58679
   teiginys: 'Rugsėjo pradžioje Ananyje, popiežiaus Bonifaco gimtinėje, popiežius buvo įkalintas, o bažnyčios turtas išnešiotas.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f5c43af674243791c29f4d26421af1e08974d17b750771a6e03a077bd7280b3a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -48,7 +44,6 @@ Dusburgietis teigia, kad apie Bonifaco, popiežiaus, suėmimą ir turtų iššva
     gyventojai jį išvadavo, palydėjo į Romą ir sugrąžino į švento Petro sostą, o neilgai trukus
     jis ir numirė (Mart. p. 438; Ptol. p. 1223).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

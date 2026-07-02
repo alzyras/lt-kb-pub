@@ -22,9 +22,6 @@ J. Jac. Grasserum savo kūrinėlio gale: Epithomefragminis secundi, p. 14.
   teiginys: 'J. Jac. Grasserum savo kūrinėlio gale: Epithomefragminis secundi, p. 14.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 316574-316916; hash=08ba2279e2cc050b46f0d314ccabb2c2ae510104ba5676a1133e33eca9788cde; match=whitespace_regex
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -41,7 +38,6 @@ J. Jac. Grasserum savo kūrinėlio gale: Epithomefragminis secundi, p. 14.
     MDCXV - nurodo jis savo kūrinėlio
     gale: Epithomefragminis secundi, p. 14.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

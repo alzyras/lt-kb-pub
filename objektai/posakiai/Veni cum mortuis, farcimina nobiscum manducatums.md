@@ -21,9 +21,6 @@ Narbutas maldą „Veni cum mortuis, farcimina nobiscum manducatums“ siejo su 
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 684674-685397; hash=4bfce17e85ca9d5615ca8c431cdb71d9b87600d810cb62b0c0f1b4ed8acc37ac; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš J. Lasickio veikalas apie žemaičių dievus: Narbutas rašo, kad Lasickis, aptardamas Ežiagulį, aprašė žemaičių gedulingą šventę skerstuves.
 - susijęs iš [[objektai/zodynas/Ežiagulis Eiagulis.md#claim-t-189357|Ežiagulis Eiagulis]]: Narbutas Ežiagulį aiškina kaip dievą, kurio šauktasi per šventę, ir spėja, kad vardas galėjo reikšti kape gulintį asmenį.
 - susijęs iš [[objektai/zodynas/Ežiagulis Ežagtdis.md#claim-t-189292|Ežiagulis Ežagtdis]]: Narbutas Ežiagulį aiškina kaip dievą, kurio šauktasi per šventę, ir spėja, kad vardas galėjo reikšti kape gulintį asmenį.
@@ -49,9 +46,7 @@ Narbutas maldą „Veni cum mortuis, farcimina nobiscum manducatums“ siejo su 
     su mirusiaisiais valgyti dešros.) Tai visiškai sutampa su aprašy­
     tomis apeigomis.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

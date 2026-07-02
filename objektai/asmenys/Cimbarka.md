@@ -18,24 +18,8 @@ Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau t
 - t-001
   global_id: t-186192
   teiginys: 'Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau tapusi Austrijos erchercogo Ernesto žmona.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko genealoginį faktą apie Cimbarką, bet pradinis sakinys per ilgas ir netiesioginis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)|Ernestas (Livonijos žemės magistras)]]; mentioned_place: Austrija; mentioned_place: Mazovija; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Vitebskas; llm_object: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)|Ernestas (Livonijos žemės magistras)]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Cimbarka|Cimbarka]] buvo žmona [[objektai/asmenys/Ernestas (Livonijos žemės magistras)|Ernestas (Livonijos žemės magistras)]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 504012-505075; hash=61358b7805ef198c9aeec53ce1799e80b571beecf04bf525be061267fa27211f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_zmona -> Ernestas (Livonijos žemės magistras): 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Cimbarka: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Ernestas (Livonijos žemės magistras): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai vadina Cimbarką Ernesto žmona, nors kandidato Ernesto aprašas gali neatitikti Austrijos erchercogo.
 
 ## Reikšmingi paminėjimai
 
@@ -71,11 +55,9 @@ Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau t
     sąlygos, kad aukščiausioji galia Lietuvoje pasiliekanti
     karaliui Jogailai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
 

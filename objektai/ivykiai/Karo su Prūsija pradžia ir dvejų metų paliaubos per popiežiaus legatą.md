@@ -30,23 +30,8 @@ Nenurodyta
 - t-001
   global_id: t-185711
   teiginys: 'Karo su Prūsija pradžioje lenkų ir lietuvių kariuomenės peržengė sienas ir įsiveržė į Prūsiją.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Ilgas ir su triukšmu pateiktas fragmentas sutrumpintas iki citatos palaikomo enciklopedinio fakto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; llm_object: Prūsija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 692370-692895; hash=a6ffdb6e379e3c96659cdf4e5a3a6a6d60e0138266821da3e1591e78569ccc72; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Prūsija: 0.83
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Lietuvių kariuomenės kartu su lenkais tiesiogiai įsiveržė į Prūsiją.
 
 ## Reikšmingi paminėjimai
 
@@ -71,10 +56,8 @@ Nenurodyta
     trokšdami, kad kryžiuočiai, nusilenkę jėgai, amžiams
     liktų arba ramūs bei klusnūs, arba draugiški.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

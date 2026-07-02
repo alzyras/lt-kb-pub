@@ -20,20 +20,8 @@ Stepono bažnyčios ir Poguliankos rajonų.
 - t-001
   global_id: t-38529
   teiginys: 'Leontijus Bennigsenas su kavalerijos ir kazokų pajėgomis puolė lietuvių įtvirtinimus ties Pogulianka.'
-  sudarymo_pagrindimas: 'Pradinis tekstas yra fragmentas, citata leidžia suformuluoti faktą.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Leontijus Bennigsenas|Leontijus Bennigsenas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 624633-624847; hash=6b7135b6e451387a540f1ca5c20e8bc6b619035390df23dd694153efde5a8c70; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Lietuviai: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Leontijus Bennigsenas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Leontijus Bennigsenas puolė lietuvių įtvirtinimus.
 - susijęs iš [[objektai/asmenys/A. Tučkovas.md#claim-t-39984|A. Tučkovas]]: Kapitonas A. Tučkovas, vadovavęs rusų artilerijos parkui Poguliankoje, atsitraukė su įgulos likučiais.
 - susijęs iš [[objektai/asmenys/M. Frankovskis.md#claim-t-39778|M. Frankovskis]]: Gen. mjr. M. Frankovskis vadovavo lietuvių įtvirtinimams tarp Naujininkų, Šv. Stepono bažnyčios ir Poguliankos.
 - susijęs iš Naujininkai: Leontijaus Bennigseno kavalerija atakavo lietuvių įtvirtinimus tarp Naujininkų, Šv. Stepono bažnyčios ir Poguliankos rajonų.
@@ -50,7 +38,6 @@ Stepono bažnyčios ir Poguliankos rajonų.
     Naujininkų, šv. Stepono bažnyčios ir
     Poguliankos rajonų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

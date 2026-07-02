@@ -18,24 +18,8 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis.
 - t-001
   global_id: t-186160
   teiginys: 'Romuntas buvo Giliginio sūnus ir sosto įpėdinis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata patvirtina glaustą faktą apie Romunto statusą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Romuntas|Romuntas]] buvo sūnus [[objektai/asmenys/Giliginas|Giliginas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 223656-223991; hash=a267a3569b6e8c9cd25e09f284dda9581f3b4eb685360f0de57b86886918849a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Giliginas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Romuntas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Giliginas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Romuntas buvo Giliginio sūnus.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-184844|Traidenis (valdovas, XIII a.)]]: Kojelavičiaus pasakojime Traidenis dar Romuntui gyvam esant vadovavo kariuomenei kaip vyriausiasis vadas.
 ## Reikšmingi paminėjimai
 
@@ -55,7 +39,6 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis.
     lių šaltinių minimas pasakojimas, jog jis mirė bevai­
     kis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

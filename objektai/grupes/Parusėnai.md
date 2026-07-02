@@ -26,8 +26,6 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
 - t-001
   global_id: t-07846
   teiginys: 'Parusėnai buvo lenkų puolami, atsakydami teriojo jų kraštą, o po to prieš juos buvo pasitelkti kryžiuočiai.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Parusėnai|Parusėnai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Liepoja; mentioned_place: Medininkai; mentioned_place: Nemunas; mentioned_place: Rusnė; mentioned_place: Viena; llm_object: [[objektai/grupes/Lenkai|Lenkai]]; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] puolė [[objektai/grupes/Parusėnai|Parusėnai]]; [[objektai/grupes/Parusėnai|Parusėnai]] puolė [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
     - c-002
@@ -36,12 +34,6 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
 - t-002
   global_id: t-07847
   teiginys: '1250 m. kariaudami su vokiečių meldžionimis, parusėnai galėjo į kovą pastatyti 4000 raitelių ir 40000 pėsčiųjų.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje pateiktus skaičius ir aplinkybes.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
-  semantiniai_rysiai: '[[objektai/grupes/Parusėnai|Parusėnai]] kariavo prieš [[objektai/grupes/Vokiečiai|Vokiečiai]]'
-  temporaliniai_duomenys: 'pastatymo data: 1250 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje pateiktus skaičius ir aplinkybes.'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/grupes/Žuvėdai.md#claim-t-66404|Žuvėdai]]: Žuvėdai 1700 m. išvertė Gintės žinyčią, ieškodami joje paslėptų lobių.
@@ -59,7 +51,6 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
         vos vienas jūros pašalys tarp Liepojos ir Klaipėdos, giriomis užaugęs, medininkams žemaičiams
         beužliko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -73,7 +64,6 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
         prakaitą dieną naktį braukdami; todėl tankiai, krikščionų kunigą sugavę, perskėlė aukštai dvišakį
         medį augantį ir tenai kunigo kaklą įdėjo į spraskilą^1347 , kursai svimburdamas^1348 tenai nusigalavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -89,7 +79,6 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
         dešimtį kartų daugiau pėsčiųjų. Visų nešeimingoji^1319 apygarda galėjo 2000 joties reikiant statyti
         karėn.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

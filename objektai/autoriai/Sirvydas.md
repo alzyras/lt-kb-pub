@@ -21,16 +21,6 @@ Narbutas išnašoje nurodo Sirvydo žodyno 119 puslapį aptardamas lietuvišką 
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 509939-510352; hash=fec97c69d39c93c70e738590345f290586645736cf01dba14e81829dbfd53491; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Slavai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sirvydas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Slavai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sirvydas" parinktas kaip owner_note_path. Targetas "Slavai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Konstantinas Sirvydas.md#claim-t-188566|Konstantinas Sirvydas (kunigas, XVII a.)]]: Konstantinas Sirvydas savo žodyne Vilijos upę lotyniškai vadino Vilia, o lietuviškai Nerimi.
 - susijęs iš [[objektai/asmenys/Konstantinas Sirvydas.md#claim-t-188567|Konstantinas Sirvydas (kunigas, XVII a.)]]: Konstantinas Sirvydas savo žodyne Aitvarą vadino Ajtwaros, lotyniškai Incubus, lenkiškai Latawiec.
 - susijęs iš [[objektai/autoriai/Konstantinas Sirvydas.md#claim-t-190291|Konstantinas Sirvydas (kunigas)]]: Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie lietuvių tautos ir kalbos kilmę.
@@ -68,9 +58,7 @@ Narbutas išnašoje nurodo Sirvydo žodyno 119 puslapį aptardamas lietuvišką 
     provincijoje.
     21 Sirvydo žodynas. -  P. 119.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

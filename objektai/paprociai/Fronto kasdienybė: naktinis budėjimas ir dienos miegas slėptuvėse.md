@@ -40,8 +40,6 @@ Nenurodyta
 - t-001
   global_id: t-09588
   teiginys: 'Pirmose fronto linijose kariai naktį budėdavo, o dieną miegodavo slėptuvėse.'
-  sudarymo_pagrindimas: 'Sakinys patikslintas pagal citatoje minimą nakties budėjimą ir dienos miegą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_place: Ukmergė'
   pagrindžia:
     - c-001
 
@@ -49,8 +47,6 @@ Nenurodyta
 - t-002
   global_id: t-09589
   teiginys: 'Po želigovskininkų puolimo pirmose linijose kariai naktį budėdavo, o dieną miegodavo slėptuvėse.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per siauras; citata pagrindžia visą naktinio budėjimo ir dienos miego praktiką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Želigovskininkai|Želigovskininkai]]; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_place: Ukmergė'
   pagrindžia:
     - c-001
 
@@ -67,7 +63,6 @@ Nenurodyta
     „Pirmose linijose vėl prasidėjo normalus gyvenimas: naktį budė-
     jome, o dieną slėptuvėse miegojome.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

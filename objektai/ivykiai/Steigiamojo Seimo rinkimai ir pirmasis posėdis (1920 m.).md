@@ -45,89 +45,29 @@ Nenurodyta
 - t-001
   global_id: t-75287
   teiginys: '1920 m. balandžio 14–15 d. Steigiamojo Seimo rinkimus laimėjo krikščionių demokratų blokas, gavęs 59 vietas.'
-  sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir nutrūkusi sakinio pabaiga.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionių demokratų blokas|Krikščionių demokratų blokas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos socialdemokratų partija|Lietuvos socialdemokratų partija]]; mentioned_group: [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga|Lietuvos valstiečių liaudininkų sąjunga]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1920 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir nutrūkusi sakinio pabaiga.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=ead2845a6ec0b4def21002f4cd6d30f392a98c727c9c611388e1fdeff278f98d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-75288"></a>
 - t-002
   global_id: t-75288
   teiginys: '1920 m. balandžio 14–15 d. rinkimus į Steigiamąjį Seimą laimėjo krikščionių demokratų blokas, gavęs 59 vietas.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta, citata leidžia suformuluoti pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionių demokratų blokas|Krikščionių demokratų blokas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos socialdemokratų partija|Lietuvos socialdemokratų partija]]; mentioned_group: [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga|Lietuvos valstiečių liaudininkų sąjunga]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1920 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta, citata leidžia suformuluoti pilną sakinį.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a66d7219ead652b31c9a77b7b4627f7565cd402a8231290c2046d9d551c357a2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krikščionių demokratų blokas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Krikščionių demokratų blokas: mention_match, group, gap=37
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)" parinktas kaip owner_note_path. Targetas "Krikščionių demokratų blokas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-75289"></a>
 - t-003
   global_id: t-75289
   teiginys: 'Dėl nepriklausomybės kovų rinkimai į Steigiamąjį Seimą surengti tik 1920 m. balandžio viduryje.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie rinkimus ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1920 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie rinkimus ir paremtas citata.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 295599-295952; hash=5630ac5421451f295358116cfc384f560a913e1870280bfecd99bed8dd74b7b4; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=16
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-75290"></a>
 - t-004
   global_id: t-75290
   teiginys: '1920 m. gegužės 15 d. Kaune į pirmąjį Steigiamojo Seimo posėdį susirinko 112 išrinktų atstovų.'
-  sudarymo_pagrindimas: 'Pašalintas kontekstinis pradžios žodis ir patikslinta data.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1920 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas kontekstinis pradžios žodis ir patikslinta data.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a66d7219ead652b31c9a77b7b4627f7565cd402a8231290c2046d9d551c357a2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krikščionių demokratų blokas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Krikščionių demokratų blokas: mention_match, group, gap=35
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)" parinktas kaip owner_note_path. Targetas "Krikščionių demokratų blokas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -142,7 +82,6 @@ Nenurodyta
     kimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo. Tai rodo, kad
     turimos teritorijos Lietuva dar nelaikė galutine.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -165,7 +104,6 @@ Nenurodyta
     kų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo
     29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -183,7 +121,6 @@ Nenurodyta
     teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą,
     tautybę ar lytį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

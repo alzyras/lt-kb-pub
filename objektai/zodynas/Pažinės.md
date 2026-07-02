@@ -27,7 +27,6 @@ Vartojamos formos: `pažines`.
 - t-001
   global_id: t-70033
   teiginys: '`Pažinės` šiame tekste reiškia ryšius ar kontaktus su kitomis tautomis ir kraštais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]'
   pagrindžia:
     - c-001
 
@@ -38,7 +37,6 @@ Vartojamos formos: `pažines`.
   citata_originali: |
     pati tauta plačiai gyvenusi ir didžias pažines^54 yra turėjusi su tolimais kraštais, kurių pirmieji vardai, nuo lietuvių, kalnėnų ir žemaičių, pramanyti^55 , lig šiai dienai užsiturėjo^56.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

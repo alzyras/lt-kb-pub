@@ -21,16 +21,6 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 785664-786115; hash=366bc353e33e3404047caa92e7a80982e8a976be0f1e1ece2a42dd23c0b71d23; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Slavai: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Biarmiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Slavai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Biarmiai apibūdinti kaip atskira šiaurės slavų šeimos šaka.
 <a id="claim-t-189431"></a>
 - t-002
   global_id: t-189431
@@ -39,16 +29,6 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 786116-786880; hash=ba93f61924720b13684ea8d6f36f796f7a51fbf95f3d648f3eb558075159f17a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Naugardas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vikingai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Naugardas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Formuluotė tiesiogiai nurodo vikingų atsikraustymą į Naugardą.
 <a id="claim-t-189432"></a>
 - t-003
   global_id: t-189432
@@ -57,16 +37,6 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     - c-003
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 786497-787349; hash=47ca9b0e7536a91d464cb892c2b6ff0224a919e216ddd5a8f931a69a11d5d92b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Biarmija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Biarmiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Biarmija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Biarmiai" parinktas kaip owner_note_path. Targetas "Biarmija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-189433"></a>
 - t-004
   global_id: t-189433
@@ -75,16 +45,6 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     - c-004
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 786881-787507; hash=e740e9c18f326249e2d03b22125156292f6883944012c39823cb9dd483864504; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Biarmija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Biarmiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Biarmija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Biarmiai" parinktas kaip owner_note_path. Targetas "Biarmija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-189434"></a>
 - t-005
   global_id: t-189434
@@ -93,16 +53,6 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     - c-005
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 787350-787938; hash=238a83e99cb117049724fe7c34c2c2f69ac9df5137fa28f4e48ed9eee65ad78f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Biarmija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Biarmiai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Biarmija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Biarmiai" parinktas kaip owner_note_path. Targetas "Biarmija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-189435"></a>
 - t-006
   global_id: t-189435
@@ -111,9 +61,6 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     - c-006
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 788206-788547; hash=96bcaa516afe7dbd65372e148e253e7d27ff06f45ad53ea81bef3fd327170c30; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -130,13 +77,10 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     ties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­
     kios varginančios ir ilgos žiemos.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas rašė, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija, palaikydama ryšius su Naugardo slavais, sudarė atskirą valstybę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -155,13 +99,10 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     dėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai
     mokėjo gana neblogai gintis.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
+    - t-002- c-003
   santrauka: 'Narbutas iš skandinavų legendų ir fragmentiškų paminėjimų sprendė, kad Biarmija buvo turtinga ir turėjo daug brangiųjų metalų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -185,13 +126,10 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     vienam vyskupui, apsakančiam šventąją evangeliją, jie gyvam
     nulupo odą.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
+    - t-003- c-004
   santrauka: 'Narbutas teigė, kad stiprėjant rusų valstybei Biarmija turėjo tapti jos provincija, nors biarmiai atkakliai laikėsi senosios stabmeldystės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -210,13 +148,10 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     šventasis Steponas, Permės vyskupas, išmintingas, pamaldus,
     kupinas žmoniškumo ir žmogaus širdies supratimo.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-005
+    - t-004- c-005
   santrauka: 'Narbutas šventąjį Steponą, Permės vyskupą, vadino tikruoju Biarmijos apaštalu ir siejo su Biarmijos krikščionėjimu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -231,13 +166,10 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     biarmiškomis raidėmis; tai buvo vienas veiksmingiausių būdų
     sušvelninti rūsčią tautą, aistringai mylinčią savo tėvynę.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-- c-006
+    - t-005- c-006
   santrauka: 'Narbutas teigė, kad biarmiai nuo senų laikų turėjo savo raidyną, gerokai ankstesnį už XI amžių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -248,10 +180,8 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
     raidyną nuo senų laikų, gerokai ankstesnių už XI amžių. Pati
     to raidyno sudėtis įrodo jį esant labai seną.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
 

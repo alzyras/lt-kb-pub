@@ -33,8 +33,6 @@ amziai:
 - t-001
   global_id: t-182798
   teiginys: 'Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūpino gausių išrašų apie Vilnių.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai nurodo Pranciškaus Malevskio veiksmą ir jo ryšį su Lietuvos Metrika.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Pranciškus Malevskis|Pranciškus Malevskis]]'
   pagrindžia:
     - c-003
 
@@ -42,11 +40,6 @@ amziai:
 - t-002
   global_id: t-182800
   teiginys: '1524 m. Lietuvos Metrika patvirtina karaliaus priekaištus Vilniaus magistratui dėl nesutarimų su bendruomene.'
-  sudarymo_pagrindimas: 'Citata pagrindžia konkretų, pilną teiginį apie Metrikos liudijamą faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai|Vilniaus gaisro gesinimo įrankiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1524 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia konkretų, pilną teiginį apie Metrikos liudijamą faktą.'
   pagrindžia:
     - c-001
 
@@ -54,8 +47,6 @@ amziai:
 - t-003
   global_id: t-182801
   teiginys: 'Vilniaus monetų kalykla, prižiūrima Ulriko Hozijaus, teikė nemaža pajamų karaliaus iždui.'
-  sudarymo_pagrindimas: 'Perrašyta į glaustesnį faktinį sakinį, pašalinant perteklinę nuorodą į ataskaitą.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -63,14 +54,6 @@ amziai:
 - t-004
   global_id: t-183373
   teiginys: 'Lietuvos Metrika buvo Lietuvos didžiojo kunigaikščio raštinėje nuo XIV a. pabaigos iki 1794 m. susidaręs archyvas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas apibrėžiamasis sakinys ir tiksliai atitinka citatą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Maskva'
-  temporaliniai_duomenys: 'įvykio data: iki 1794 m.; įvykio data: 1794 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas apibrėžiamasis sakinys ir tiksliai atitinka citatą.'
   pagrindžia:
     - c-004
 
@@ -90,14 +73,11 @@ amziai:
     Kad trukdo skųstis karaliui.
     Už visa tai karalius baudžia šimto kapų grašių bauda.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
-
 - c-002
   santrauka: 'Vilniaus monetų kalykla, prižiūrima Ulriko Hozijaus, teikė nemaža pajamų karaliaus iždui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -113,14 +93,11 @@ amziai:
     50
     Iki šiol Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
-
 - c-003
   santrauka: 'Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūpino gausių išrašų apie Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -140,14 +117,11 @@ amziai:
     mokslo imasi, iš savo turtingos bibliotekos Ščiorsuose man nešė
     viską, ko tik reikėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-004
   santrauka: 'Lietuvos Metrika buvo Lietuvos didžiojo kunigaikščio raštinėje nuo XIV a. pabaigos iki 1794 m. susidaręs archyvas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -165,10 +139,8 @@ amziai:
     iki šiol ten saugoma, ji tapo Lietuvos paveldo išbarstymo ar išgrobstymo
     simboliu, senosios Lietuvos valstybės likimo ženklu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-004

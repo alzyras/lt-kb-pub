@@ -35,7 +35,6 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
 - t-001
   global_id: t-97219
   teiginys: 'Sužiedėlis, S.: Apuolė , EnL, I, 112-113 p. 5.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -43,7 +42,6 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
 - t-002
   global_id: t-97222
   teiginys: '34, 1970, 57-74 p. — Sužiedėlis, S.: Apuolė , EnL, I, 112-113 p.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -51,11 +49,6 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
 - t-003
   global_id: t-97223
   teiginys: 'S. Sužiedėlis 1930 m. paskelbė darbą „Vytautas Didysis ir Lietuvos christianizacija“.'
-  sudarymo_pagrindimas: 'Citata pateikia autoriaus ir darbo bibliografinę nuorodą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1930 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pateikia autoriaus ir darbo bibliografinę nuorodą.'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/autoriai/Dieckmann Ch.md#claim-t-26471|Dieckmann Ch]]: Ch. Dieckmannas ir S. Sužiedėlis parašė veikalą apie Lietuvos žydų persekiojimą ir masines žudynes 1941 m. vasarą ir rudenį.
@@ -79,7 +72,6 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
 
     **5.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -96,7 +88,6 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
     — Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p. — Völ­
     ker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

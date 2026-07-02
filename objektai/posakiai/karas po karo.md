@@ -34,11 +34,6 @@ amziai:
 - t-001
   global_id: t-09685
   teiginys: 'Pavadinimas „karas po karo“ citatoje gretinamas su Lietuvos–SSRS karo (1945–1953) pavadinimu.'
-  sudarymo_pagrindimas: 'Pirminis teiginys turi OCR klaidą ir nepatogią nuorodą „ši formuluotė“.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/„karas po karo“|„karas po karo“]]; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1863 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pirminis teiginys turi OCR klaidą ir nepatogią nuorodą „ši formuluotė“.'
   pagrindžia:
     - c-001
 
@@ -46,11 +41,6 @@ amziai:
 - t-002
   global_id: t-09686
   teiginys: 'Ginkluota rezistencija šiandien vadinama „karu po karo“ arba Lietuvos–SSRS karu (1945–1953).'
-  sudarymo_pagrindimas: 'Teiginys yra enciklopedinis, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1863 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra enciklopedinis, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/J. Juška.md#claim-t-40156|J. Juška]]: J. Juška prisiminė, kad tą dieną žuvo daug savųjų ir gal ne mažiau okupantų karių.
@@ -86,7 +76,6 @@ amziai:
     roizmu. Tiesa, kartais mūsų priešai jį bando vadinti „pilietiniu
     karu“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

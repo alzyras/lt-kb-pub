@@ -36,51 +36,15 @@ Nenurodyta
 - t-001
   global_id: t-185649
   teiginys: 'Treniota, paėmęs valdžią, pradėjo niokoti Mazoviją ir sudegino kaimus ligi pat Červinsko.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys gramatiškas, faktinis ir paremtas citatoje pateikta informacija.'
-  susije_objektai: 'llm_object: Mazovija; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Mazovija; mentioned_place: Červinskas; mentioned_place: Livonija; mentioned_place: Pernu; llm_object: Červinskas; llm_object: Livonija'
-  temporaliniai_duomenys: 'įvykio data: 1264 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, faktinis ir paremtas citatoje pateikta informacija.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 182638-183421; hash=e4f137ce70d40c30b884915d05457ca6c987314998961b677fa9dbe8fcf0d13c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Mazovija: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Treniota: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Mazovijos niokojimas tiesiogiai pagrindžia Treniotos puolimą.
 
 <a id="claim-t-185650"></a>
 - t-002
   global_id: t-185650
   teiginys: 'Treniotos žygio į Mazoviją metu buvo sugriauta Oršimovo pilis, o kaimai ligi Červinsko sudeginti.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko konkretesnį enciklopedinį sakinį be vertinamosios įžangos.'
-  susije_objektai: 'llm_object: Mazovija; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Mazovija; mentioned_place: Červinskas; mentioned_place: Livonija; llm_object: Červinskas; llm_object: Livonija'
-  temporaliniai_duomenys: 'įvykio data: 1264 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko konkretesnį enciklopedinį sakinį be vertinamosios įžangos.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 182934-183561; hash=007e43557d9a7a05a6de085dbfeaa3df14830a52acbd2ad855c038abd7912276; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Mazovija: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Treniota: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Mazovija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas aiškiai nusako Treniotos Mazovijos niokojimą.
 
 ## Reikšmingi paminėjimai
 
@@ -113,14 +77,11 @@ Nenurodyta
     nijos metraštininkai pasakoja, esą jis nuniokojęs ir
     Livoniją apie Pernu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Treniotos žygio į Mazoviją metu buvo sugriauta Oršimovo pilis, o kaimai ligi Červinsko sudeginti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -140,10 +101,8 @@ Nenurodyta
     rodėsi įtartina: jis ne be pamato būgštavo, kad prieš
     jį patį neatsigręžtų nusikaltimai, jo padaryti kitiems.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002

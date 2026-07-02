@@ -26,15 +26,8 @@ Dusburgietis teigia, kad [Ruigys] Ruhig P.
 - t-001
   global_id: t-61275
   teiginys: 'P. Ruhigo „Littauisch-deutsches und deutsch-littauisches Lexicon“ išleistas Karaliaučiuje 1747 m.'
-  sudarymo_pagrindimas: 'Citata pagrindžia autoriaus, pavadinimo, vietos ir metų duomenis.'
-  temporaliniai_duomenys: 'įvykio data: 1747 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia autoriaus, pavadinimo, vietos ir metų duomenis.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 795768-795859; hash=f5ea495b911d5c280b1600095ccef67ff1f21661a11cb8bd27ebae50bdb29ded; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -45,7 +38,6 @@ Dusburgietis teigia, kad [Ruigys] Ruhig P.
     [Ruigys] Ruhig P. Littauisch-deutsches und deutsch-littauisches Lexicon.— Königsberg,
     1747.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

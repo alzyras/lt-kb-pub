@@ -31,42 +31,22 @@ amziai:
 - t-001
   global_id: t-50178
   teiginys: 'Gruodžio 16 d. Marcinkonių bataliono vyrai puolė Perlojos stribų įgulą ir ją sunaikino.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Perlojos stribų įgulą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c92f33acc1c603c3876be45056eb66b3a767e343a9865914a5fb27a3af7889b7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 <a id="claim-t-50180"></a>
 - t-003
   global_id: t-50180
   teiginys: 'Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė 5 stribus, o partizanai nuostolių nepatyrė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c92f33acc1c603c3876be45056eb66b3a767e343a9865914a5fb27a3af7889b7; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 <a id="claim-t-50181"></a>
 - t-004
   global_id: t-50181
   teiginys: 'Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus ir patys nuostolių nepatyrė.'
-  sudarymo_pagrindimas: 'Teiginys perrašytas į sklandų pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=891a38e6868ab843c808845360ecc0e3ed45c497aa7d1a8ad30b44f8f55ab121; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> NKVD: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Perloja: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: NKVD: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Perloja" parinktas kaip owner_note_path. Targetas "NKVD" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Marcinkonių batalionas.md#claim-t-41087|Marcinkonių batalionas]]: Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, todėl jie kitą, gruodžio 16 d. puolė Perlojos stribų įgulą ir ją sunaikino.
 - susijęs iš [[objektai/grupes/Marcinkonių batalionas.md#claim-t-41087|Marcinkonių batalionas]]: Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, todėl jie kitą, gruodžio 16 d. puolė Perlojos stribų įgulą ir ją sunaikino.
 - susijęs iš [[objektai/asmenys/Adolfas Ramanauskas-Vanagas.md#claim-t-63405|Adolfas Ramanauskas-Vanagas]]: Adolfas Ramanauskas-Vanagas vėliau įtarė, kad informacija apie rengiamą partizanų puolimą galėjo pasiekti priešą.
@@ -95,7 +75,6 @@ amziai:
     Operacijos metu žuvo 4 partizanai ir 2 buvo
     sužeisti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -114,7 +93,6 @@ amziai:
     ir nemažas kiekis šaudmenų, sunaikin-
     tas valsčius, dalinai milicija ir paštas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

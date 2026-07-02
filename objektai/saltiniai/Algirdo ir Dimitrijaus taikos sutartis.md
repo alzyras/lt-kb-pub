@@ -18,23 +18,8 @@ Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Liet
 - t-001
   global_id: t-186308
   teiginys: 'Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis tekstas sugadintas OCR ir turi antraštės triukšmo; citata palaiko konkrečią sutarties sąlygą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Dimitrijus|Dimitrijus]]; llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dimitrijus|Dimitrijus]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Možaiskas; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 390019-390626; hash=6c5f02606fc2ec6658f5767cce146ad3d56445b09f5cc80d56afff97d39ac64a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: sudare_sutarti_su -> Dimitrijus: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Dimitrijus: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Algirdas ir Dimitrijus susitarė dėl taikos.
 
 ## Reikšmingi paminėjimai
 
@@ -57,10 +42,8 @@ Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Liet
     reiviams algą, o vadui — karo išlaidas. Abiejų tautų
     priesaika turinti sustiprinti amžinąją taiką.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

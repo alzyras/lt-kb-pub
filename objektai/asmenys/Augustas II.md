@@ -10,6 +10,11 @@ datos:
   - '1706 m.'
 date_start: '1697'
 date_end: '1706'
+description: 'Augusto II valdymo siekiai ATR, sąjunga su Petru I prieš Švediją, planai Livonijoje ir 1706 m. sosto atsisakymas.'
+socialDescription: 'Augustas II siekė sustiprinti valdžią ATR, įsitraukė į kovą dėl Baltijos pajūrio ir Livonijos, bet 1706 m. atsisakė Respublikos sosto.'
+seo_atnaujinta: '2026-07-02T20:14:54.895583+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -26,7 +31,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto II valdymo pabaiga.
+Augustas II, 1697 m. išrinktas ATR valdovu, siekė stiprinti valdžią ir paversti Respubliką absoliutine monarchija. Jo planai apėmė Livonijos užvaldymą, sąjungą su Petru I, Danija ir Brandenburgu prieš Švediją, tačiau Seimas bei bajorijos stovyklos jo politikai priešinosi. 1706 m. Altrandštate Augustas II sudarė taiką su Karoliu XII, atsisakė Respublikos sosto ir pripažino karaliumi Leščinskį.
 
 ## Teiginiai
 
@@ -34,9 +39,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - t-001
   global_id: t-78943
   teiginys: 'Augustas II su Petru I susitarė atimti iš švedų Baltijos pajūrį ir į sąjungą įtraukė Daniją bei Brandenburgo kunigaikštį.'
-  sudarymo_pagrindimas: 'Reikia sklandesnės formuluotės ir aiškesnio veiksmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Baltija; llm_object: [[objektai/grupes/Švedai|Švedai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Augustas II|Augustas II]] kariavo prieš [[objektai/grupes/Švedai|Švedai]]'
   pagrindžia:
     - c-006
 
@@ -44,9 +46,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - t-002
   global_id: t-78945
   teiginys: 'Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.'
-  sudarymo_pagrindimas: 'Teiginys yra glaustas faktinis sakinys apie Augusto II sprendimą.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Rusija'
-  semantiniai_rysiai: '[[objektai/asmenys/Augustas II|Augustas II]] kariavo prieš [[objektai/grupes/Švedai|Švedai]]'
   pagrindžia:
     - c-005
 
@@ -54,8 +53,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - t-003
   global_id: t-78946
   teiginys: 'Žymesnieji bajorijos vadai Augusto II reikalautu raštu paskelbė jį paveldimai ir absoliučiai valdančiu Lietuvos didžiuoju kunigaikščiu.'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs; citata leidžia suformuluoti užbaigtą faktą.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -63,8 +60,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - t-004
   global_id: t-78947
   teiginys: 'Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos.'
-  sudarymo_pagrindimas: 'Teiginys pilnas, aiškus ir patvirtintas citatoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Livonija; mentioned_place: Švedija; mentioned_group: [[objektai/grupes/Sapiegų giminė|Sapiegų giminė]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Lietuva; mentioned_place: Saksonija'
   pagrindžia:
     - c-002
 
@@ -72,7 +67,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - t-005
   global_id: t-78949
   teiginys: 'Petro Didžiojo epocha, sutapusi su saksų laikų pradžia, atvėrė naują laikotarpį ir Augusto II valdymo kontekste.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/posakiai/saksų laikų|saksų laikų]]; mentioned_place: Baltija'
   pagrindžia:
     - c-001
 
@@ -80,12 +74,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - t-006
   global_id: t-78950
   teiginys: '1706 m. Augustas II Altrandštate sudarė taiką su Karoliu XII, atsisakė Respublikos sosto ir pripažino karaliumi Leščinskį.'
-  sudarymo_pagrindimas: 'Reikia išplėsti dalinius vardus ir suformuluoti sakinį aiškiau.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Karolis XII|Karolis XII]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Karolis XII|Karolis XII]]; mentioned_place: Altrandštatas; mentioned_place: Brasta; llm_object: Altrandštatas'
-  semantiniai_rysiai: '[[objektai/asmenys/Augustas II|Augustas II]] sudarė sutartį su [[objektai/asmenys/Karolis XII|Karolis XII]]; [[objektai/asmenys/Augustas II|Augustas II]] keliavo į Altrandštatas'
-  temporaliniai_duomenys: 'įvykio data: 1706 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia išplėsti dalinius vardus ir suformuluoti sakinį aiškiau.'
   pagrindžia:
     - c-003
 
@@ -93,12 +81,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - t-007
   global_id: t-78953
   teiginys: '1697 m. ATR valdovu išrinktas Saksonijos kurfiurstas Augustas II siekė ATR paversti absoliutine monarchija.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Augusto II išrinkimą ir politinį siekį.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Karolis XII|Karolis XII]]; llm_object: Saksonija; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Karolis XII|Karolis XII]]; mentioned_place: Altrandštatas; mentioned_place: Brasta; mentioned_place: Saksonija; llm_object: [[objektai/asmenys/Augustas II|Augustas II]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Augustas II|Augustas II]] sudarė sutartį su [[objektai/asmenys/Karolis XII|Karolis XII]]; [[objektai/asmenys/Karolis XII|Karolis XII]] puolė [[objektai/asmenys/Augustas II|Augustas II]]'
-  temporaliniai_duomenys: 'įvykio data: 1697 m.; įvykio data: 1706 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Augusto II išrinkimą ir politinį siekį.'
   pagrindžia:
     - c-007
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184422|Petras I Didysis]]: Augustas II ir Petras I sudarė sutartį atimti iš Švedijos Baltijos pajūrį.
@@ -121,7 +103,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     kuri sutapo su pradžia «saksų laikų» (Augustas II), atvėrė
     naują laikotarpį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -144,7 +125,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     gas, ir paramos nesulaukusi Sapiegų
     giminė linko ieškoti globos pas švedus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -162,7 +142,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
     (1706 m.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -184,7 +163,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     dančiu didžiuoju Lietuvos kunigaikščiu su
     paveldėjamąja teise.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -204,7 +182,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     „ Brandenburgo įsipareigojimą per savo te-
     ritoriją nepraleisti švedų kariuomenės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -220,7 +197,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     tas II su Petru I, be to, įtraukė į sąjungą Daniją ir Brandenbur-
     go kunigaikštį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -237,7 +213,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     bicingas Saksonijos kiurfiurstas Augustas 11 (Stiprusis). Jis
     siekė ATR paversti absoliutine monarchija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -33,27 +33,13 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
 - t-001
   global_id: t-60905
   teiginys: 'Łowmiańskio veikalas nurodomas tarp šaltinių, kuriais remiamasi manant, kad Glotava buvo pietrytinis Pagudės valsčius.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citatos bibliografine nuoroda.'
-  susije_objektai: 'llm_object: Pagudė; mentioned_place: Glotava; mentioned_place: Pagudė; mentioned_place: Drevanta; mentioned_place: Kulmas'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 520308-520514; hash=0848ce4efd439325f31fcc4862031efa44bffd528cc8aec3fdb6aae975d453be; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Augustavas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Łowmiański H., Studja: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Augustavas: mention_match, place, gap=100
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Łowmiański H., Studja" parinktas kaip owner_note_path. Targetas "Augustavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60909"></a>
 - t-002
   global_id: t-60909
   teiginys: 'Łowmiańskio veikalas nurodomas prie nuomonės, kad Medininkų žemė susiformavo XIV a. sujungus centrinius Žemaitijos valsčius.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatoje išdėstytą aiškinimą su Łowmiańskio nuoroda.'
-  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Medininkų žemė; mentioned_group: [[objektai/grupes/Krivičiai|Krivičiai]]; mentioned_place: Medvėgalis; mentioned_place: Naugardukas'
   pagrindžia:
     - c-002
 
@@ -61,10 +47,6 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
 - t-003
   global_id: t-60911
   teiginys: 'Łowmiańskio veikalas nurodomas tarp šaltinių, siejančių Rasytės pilies statybą su XIV a. viduriu ir jos minėjimą nuo 1372 m.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai apibūdina, kuriai nuomonei citatoje priskirta Łowmiańskio nuoroda.'
-  temporaliniai_duomenys: 'įvykio data: po 1372 m.; įvykio data: 1372 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai apibūdina, kuriai nuomonei citatoje priskirta Łowmiańskio nuoroda.'
   pagrindžia:
     - c-001
 
@@ -72,16 +54,8 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
 - t-004
   global_id: t-60912
   teiginys: 'Łowmiańskio veikalas nurodomas prie nuomonės, kad Dusburgiečio minėto ežero ieškota ir į šiaurę nuo Augustavo.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citatoje pateikta nuoroda.'
-  susije_objektai: 'mentioned_place: Augustavas'
-  temporaliniai_duomenys: 'įvykio data: 1280 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citatoje pateikta nuoroda.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 538123-538412; hash=df5bc67278d76de2ed5df7224198695b4460f53161b6c8fa126c1546a5518c73; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -94,7 +68,6 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
     665, 667, 674; Łowmiański H., Studja..., 2, p. 32; plg. Boetticher A., Die Bau..., 1, p.
     116—117; GAO, p. 144), vėliau — Rossitten, dab. Rybačis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,7 +88,6 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
     Žemaitijos centriniai valsčiai ir sudaryta vieninga gynybos prieš Ordino agresiją sistema,
     kurios centras, matyt, buvęs Medvėgalyje (Łowmiański H., Studja..., 2, p. 81—82).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -130,7 +102,6 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
     žiemos puolimas (Ewald A. L., Die Eroberung..., 4, p. 247; Regesta Lithuaniae..., p.
     117).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -147,7 +118,6 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
     Manoma, kad Glotava — pietrytinis Pagudės valsčius (GAO, p. 43; Łowmiański H.,
     Studia..., 2, p. 16, 25; MGP, p. 54).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -44,9 +44,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b5e13e99261da695b7db148f3364271d07b3e5ea19685553061681759aab8c46; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 <a id="claim-t-67124"></a>
 - t-002
   global_id: t-67124
@@ -55,9 +52,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b5e13e99261da695b7db148f3364271d07b3e5ea19685553061681759aab8c46; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -72,10 +66,8 @@ Nenurodyta
     aktą, kad numatomus klausimus spręsią balsų dauguma. Tuo
     būdu šitokiam seime _veto_ teisė jau nebeveikė.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
     - t-002

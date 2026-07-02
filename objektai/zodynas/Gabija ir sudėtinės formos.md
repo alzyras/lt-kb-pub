@@ -21,16 +21,6 @@ Anot Lasickio, Pelenų Gabija (Polengabia) buvo deivė, globojusi besikūrenant�
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 216084-216496; hash=4d2c0d46bfeb22d08a2ae07a949649cd8580f4c97df0936c1393595e605d925d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> gabija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gabija ir sudėtinės formos: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: gabija: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gabija ir sudėtinės formos" parinktas kaip owner_note_path. Targetas "gabija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-189149"></a>
 - t-002
   global_id: t-189149
@@ -39,9 +29,6 @@ Anot Lasickio, Pelenų Gabija (Polengabia) buvo deivė, globojusi besikūrenant�
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 217208-217769; hash=0a88c71d9c0d7edc72899cb1a6716bc79c9be8af95d97fa9e1d50172843d5adb; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -59,13 +46,10 @@ Anot Lasickio, Pelenų Gabija (Polengabia) buvo deivė, globojusi besikūrenant�
     Moterų Gabija (Matergabia)
     Keptos duonos ir kepėjų deivė.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas Gabiją sieja su ugnies elementą valdančiu Santvaru ir spėja, kad sudėtinės Gabijos formos buvo giminingos lietuvių Apolonui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -83,9 +67,7 @@ Anot Lasickio, Pelenų Gabija (Polengabia) buvo deivė, globojusi besikūrenant�
     nį krosnyse namuose. Šauktis Moterų Gabijos -  tai paprotys
     kepėjų, norinčių, kad gerai nusisektų duona*.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

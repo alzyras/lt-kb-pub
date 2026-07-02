@@ -21,8 +21,6 @@ Slopinant ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą
 - t-001
   global_id: t-101575
   teiginys: 'Iki Atgimimo sovietmečiu drausta viešai kalbėti apie pokario masines gyventojų deportacijas ir partizanų kovas.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas su deportacijomis susijęs citatos faktas.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -46,7 +44,6 @@ Slopinant ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą
     savo rateliuose, diskutuota apie svarbiausius dalykus. Kultūrininkai pa-
     laipsniui tapo savo tautos sąžinės balsu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -43,39 +43,15 @@ Nenurodyta
 - t-001
   global_id: t-87003
   teiginys: 'Prie Rūdninkų, Mendzižečės link, buvo aptvertas žvėrynas, kuriame veisėsi daug briedžių ir stirnų.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie žvėryną, o pradinė formuluotė nutrūkusi ir užteršta pastabos fragmentais.'
-  susije_objektai: 'mentioned_place: Rūdninkai; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Žgvižda'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 512466-513458; hash=6f857ac6e7645b7d7439283a53fa36192d17687f54961c765f35dfe334850fe9; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rūdninkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rūdninkų karališkieji medžioklės rūmai ir dvaro pastatai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Rūdninkai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdninkų karališkieji medžioklės rūmai ir dvaro pastatai" parinktas kaip owner_note_path. Targetas "Rūdninkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87004"></a>
 - t-002
   global_id: t-87004
   teiginys: 'Rūdninkų karališkųjų medžioklės rūmų vietoje buvo išlikę plytų ir akmens pamatų griuvėsiai.'
-  sudarymo_pagrindimas: 'Pirminis teiginys buvo per daug priklausomas nuo citatos konteksto.'
-  susije_objektai: 'mentioned_place: Rūdninkai'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 514139-514494; hash=c95865d0ee85bb6636096eb432d79e4e10a00495831c6526392bff30de0c10a9; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Rūdninkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rūdninkų karališkieji medžioklės rūmai ir dvaro pastatai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Rūdninkai: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdninkų karališkieji medžioklės rūmai ir dvaro pastatai" parinktas kaip owner_note_path. Targetas "Rūdninkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -96,7 +72,6 @@ Nenurodyta
     tvora aptvertas, vadinamas žvėrynu. Jame veisėsi daug
     briedžių ir stirnų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -125,7 +100,6 @@ Nenurodyta
     išariamų Zigmanto III epochos sidabrinių ir varinių pini­
     gėlių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

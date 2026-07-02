@@ -52,7 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-176229
   teiginys: 'Iš Krokuvos išvykdami Skirgaila ir Vytautas turėjo duoti priesaika patvirtintus raštus dėl ištikimybės Jogailai ir Jadvygai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Polockas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
@@ -60,8 +59,6 @@ Nenurodyta
 - t-002
   global_id: t-176231
   teiginys: 'Tuo metu Jogailai ir Karūnai buvo duotos trys ištikimybės priesaikos.'
-  sudarymo_pagrindimas: 'Šaltinis palaiko faktą, bet pirminis tekstas turi OCR triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Polockas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-002
 
@@ -79,7 +76,6 @@ Nenurodyta
     ištikimi Lenkų karaliui Jogailai su karaliene Jadvyga ir kad pa-
     šaukti tuojau atvyksią į Lenkiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -95,7 +91,6 @@ Nenurodyta
     kos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­
     stojo savo galios^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

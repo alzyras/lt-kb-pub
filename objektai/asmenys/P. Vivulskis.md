@@ -20,38 +20,15 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
 - t-001
   global_id: t-40384
   teiginys: 'Sužeidus Z. Sierakauską ir mjr. P. Vivulskį, sukilėlių veiksmai pakriko po dviejų valandų atkaklaus pasipriešinimo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; llm_object: [[objektai/asmenys/P. Vivulskis|P. Vivulskis]]'
-  semantiniai_rysiai: '[[objektai/grupes/Rusai|Rusai]] puolė [[objektai/asmenys/P. Vivulskis|P. Vivulskis]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=375f72543ab259ebe2aff0e53862605e517d52bda3ef95ea73a1a1a17f1509ca; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Antonievičius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: P. Vivulskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Antonievičius: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "P. Vivulskis" parinktas kaip owner_note_path. Targetas "Antonievičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-40385"></a>
 - t-002
   global_id: t-40385
   teiginys: 'P. Vivulskio dalgininkai stovėjo dešiniajame sparne kartu su dviem rezervinėmis 4-ojo bataliono kuopomis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antonievičius|Antonievičius]]; mentioned_person: [[objektai/asmenys/Merlinas|Merlinas]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=40d2a3625740960cf8f4573ef7e51130a1b18cfedef5bf787122a0f10b74ad22; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> P. Vivulskis: 0.63
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Rusai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: P. Vivulskis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citatoje rusai spaudė sukilėlius, o po to minimas P. Vivulskio sužeidimas tame pačiame kovos epizode.
 
 ## Reikšmingi paminėjimai
 
@@ -70,7 +47,6 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
     talionų vadams majorams
     Antonievičiui, B. Žarskiui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -91,7 +67,6 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
     kai ir dvi rezervinės 4-tojo ba-
     taliono kuopos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

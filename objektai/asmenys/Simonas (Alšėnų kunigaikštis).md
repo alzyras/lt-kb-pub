@@ -31,44 +31,15 @@ periodo_grupes:
 - t-001
   global_id: t-87573
   teiginys: 'Alšėnų kunigaikštis Simonas prisidėjo prie Žygimanto žygio į Švitrigailos dvarą Ašmenoje.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Simono dalyvavimą Žygimanto veiksme prieš Švitrigailą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ašmena; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Alšėnai; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; llm_object: Ašmena'
-  semantiniai_rysiai: '[[objektai/asmenys/Simonas (Alšėnų kunigaikštis)|Simonas (Alšėnų kunigaikštis)]] puolė [[objektai/asmenys/Švitrigaila|Švitrigaila]]; [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)|Simonas (Alšėnų kunigaikštis)]] surengė žygį į Ašmena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 436404-437940; hash=3aa0ec0c924649780a0a8a2fc26c76528679c9a750698704c0c43deee41afb17; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Švitrigaila: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Simonas (Alšėnų kunigaikštis): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Simonas minimas kaip Žygimanto sąjungininkas žygyje, kurio metu įsiveržta į Švitrigailos dvarą.
 
 <a id="claim-t-87574"></a>
 - t-002
   global_id: t-87574
   teiginys: '1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.'
-  sudarymo_pagrindimas: 'Citata aiškiai nurodo datuotą pranešimą apie Simono dalyvavimą užpuolime.'
-  susije_objektai: 'mentioned_place: Ašmena; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Alšėnai; mentioned_place: Polockas; llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; llm_object: Ašmena'
-  semantiniai_rysiai: '[[objektai/asmenys/Simonas (Alšėnų kunigaikštis)|Simonas (Alšėnų kunigaikštis)]] puolė [[objektai/asmenys/Švitrigaila|Švitrigaila]]; [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)|Simonas (Alšėnų kunigaikštis)]] puolė Ašmena'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1432 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Simonas (Alšėnų kunigaikštis) buvo valdovas Alšėnai“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata aiškiai nurodo datuotą pranešimą apie Simono dalyvavimą užpuolime.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=96bde58f160f6a3d89e8dd2eccd55be7bde1997ed3bcb7f5d234af5e3cb62a79; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Švitrigaila: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Simonas (Alšėnų kunigaikštis): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citatoje Simonas kartu su Žygimantu įvardytas kaip Švitrigailos dvaro užpuolikas.
 
 ## Reikšmingi paminėjimai
 
@@ -121,7 +92,6 @@ periodo_grupes:
     jo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvy-
     do, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -148,7 +118,6 @@ periodo_grupes:
     la pabėgęs į Smolenską, bet ne į Po­
     locką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

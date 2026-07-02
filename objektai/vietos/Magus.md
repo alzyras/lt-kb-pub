@@ -28,24 +28,8 @@ Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­ lapyje 
 - t-001
   global_id: t-32331
   teiginys: 'Al-Idrisi tekste ir žemėlapyje minima žemė „Magus“ laikoma lietuvių ir latvių plotais.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiksliai perteikia citatos informaciją apie Magus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_place: Ispanija; llm_object: [[objektai/grupes/Latviai|Latviai]]; llm_object: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  semantiniai_rysiai: 'Magus priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; Magus priklausė [[objektai/grupes/Latviai|Latviai]]'
-  temporaliniai_duomenys: 'įvykio data: 1100-1166'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiksliai perteikia citatos informaciją apie Magus.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1462dcc067325a647d0c45bc5c7028a5ea5b1556bc11a65d74762b5e64387646; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Latviai: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Magus: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Latviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Žemė „Magus“ apibūdinta kaip latvių plotų dalis.
 
 ## Reikšmingi paminėjimai
 
@@ -63,7 +47,6 @@ Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­ lapyje 
     lapyje minima žemė « Magus », t. y. ugnies garbintojų, yra laikoma
     lietuvių-latvių plotais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -45,45 +45,15 @@ Nenurodyta
 - t-001
   global_id: t-95956
   teiginys: '1398 m. Gardine Vytautas sudarė preliminarinę sutartį su Ordinu, siekdamas laisvų rankų Rytuose ir santykiuose su lenkais.'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi sąrašo fragmentą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Gardinas; mentioned_place: Naugardas; mentioned_place: Nevėžis'
-  temporaliniai_duomenys: 'įvykio data: 1398 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi sąrašo fragmentą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 167745-168416; hash=48187ffb12ef779f06aba43e1d9408f2f1b5da3e7b8fb9fc13adb1e50c62a906; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.)" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-95957"></a>
 - t-002
   global_id: t-95957
   teiginys: '1398 m. spalio 12 d. Gardino sutartis buvo iškilmingai ratifikuota Salyno saloje Nemune.'
-  sudarymo_pagrindimas: 'Citata pagrindžia faktą, bet reikia sutvarkyti OCR ir pakeisti neaiškų įvardį.'
-  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Nemunas; mentioned_place: Salynas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Prūsų žemė'
-  temporaliniai_duomenys: 'sutarties data: 1398 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą, bet reikia sutvarkyti OCR ir pakeisti neaiškų įvardį.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 168417-168796; hash=542b43dde58452abbe63961edadf92354cd873c96f7d189ad00335b3c3bb29aa; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gardinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.)" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -105,7 +75,6 @@ Nenurodyta
     jei tokia jo būtų valia, pasistengti, kad ta sutartis būtų patvir­
     tinta Jogailos^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -123,7 +92,6 @@ Nenurodyta
     rų ir palydovų. Sutartį ratifikavus, Ordinas pakvietė Vytautą
     ir jo visus didikus į puotą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

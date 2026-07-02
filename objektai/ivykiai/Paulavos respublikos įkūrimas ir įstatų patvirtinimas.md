@@ -48,45 +48,15 @@ Nenurodyta
 - t-001
   global_id: t-77885
   teiginys: 'Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika minima tarp įvykių, kartais laikomų Apšvietos epochos pradžia.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per platus, todėl paliktas tik su Paulavos respublika susijęs faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Baroko epocha|Baroko epocha]]; mentioned_place: Paulava; mentioned_event: [[objektai/ivykiai/Antano Tyzenhauzo reformos|Antano Tyzenhauzo reformos]]; mentioned_event: [[objektai/ivykiai/Jėzuitų ordino panaikinimas|Jėzuitų ordino panaikinimas]]; mentioned_person: [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas]]; mentioned_person: [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)|Bžostovskis (Vilniaus vyskupas)]]; mentioned_person: [[objektai/asmenys/Povilas Ksaveras Bžostovskis|Povilas Ksaveras Bžostovskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas'
-  temporaliniai_duomenys: 'įvykio data: 1767 m.; įvykio data: 1769 m.; įvykio data: 1773 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per platus, todėl paliktas tik su Paulavos respublika susijęs faktas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9d371acffe7001c355ae7a56b123c1c1c4f9d60d8ec5433f2bc0e6aabb0307bd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paulavos respublikos įkūrimas ir įstatų patvirtinimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paulavos respublikos įkūrimas ir įstatų patvirtinimas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-77886"></a>
 - t-002
   global_id: t-77886
   teiginys: 'Povilas Ksaveras Bžostovskis įkūrė Paulavos respubliką, kurios įstatus 1791 m. patvirtino Ketverių metų seimas.'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentas; citata leidžia suformuluoti pilną faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Ketverių metų seimas|Ketverių metų seimas]]; mentioned_place: Paulava; mentioned_person: [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)|Bžostovskis (Vilniaus vyskupas)]]; mentioned_person: [[objektai/asmenys/Povilas Ksaveras Bžostovskis|Povilas Ksaveras Bžostovskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įkūrimo data: 1791 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo fragmentas; citata leidžia suformuluoti pilną faktinį sakinį.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 162808-163495; hash=81477a7e461e19b3a400205b4135b6c1eb380b16b6176e5ce9c2a1611e9e7c2e; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ketverių metų seimas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Paulavos respublikos įkūrimas ir įstatų patvirtinimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Ketverių metų seimas: mention_match, group, gap=55
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paulavos respublikos įkūrimas ir įstatų patvirtinimas" parinktas kaip owner_note_path. Targetas "Ketverių metų seimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -104,7 +74,6 @@ Nenurodyta
     Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
     sąjunga, sukurta Liublino unijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -125,7 +94,6 @@ Nenurodyta
     viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos
     ir Lietuvos Valstybėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -42,8 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-87139
   teiginys: 'Vilniaus gyventojams buvo leista turguje pirkti mėsą vyskupo įrengtose mėsinėse, nepaisant miesto pareigūnų draudimų.'
-  sudarymo_pagrindimas: 'Pirminis teiginys yra OCR pažeista privilegijos formuluotė, bet citata aiškiai remia glaustą faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -74,7 +72,6 @@ Nenurodyta
     imunitetą tai įrašome ir inkorporuojame šiuo raštu, prie
     kurio patikimumui patvirtinti pakabinamas antspaudas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

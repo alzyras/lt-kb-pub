@@ -20,21 +20,8 @@ Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolensko vietininkai Boreika
 - t-001
   global_id: t-30384
   teiginys: 'Spytekas iš Melsztyno, Krokuvos vaivada ir Podolės valdytojas, žuvo prie Vorsklos.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Spytko pareigas ir žūtį, kaip paremta citata.'
-  susije_objektai: 'llm_object: Vorskla; llm_object: Podolė; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Krokuva; mentioned_place: Podolė; mentioned_place: Vorskla; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Brianskas; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Smolenskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Spytkas iš Melsztyno|Spytkas iš Melsztyno]] mirė Vorskla; [[objektai/asmenys/Spytkas iš Melsztyno|Spytkas iš Melsztyno]] valdė teritoriją Podolė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9f2feded0d372b9acd5e36e4873e760b01794d37169af4e2db59ce331f814d60; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Vorskla: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Spytkas iš Melsztyno: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vorskla: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Frazė tiesiogiai nurodo Spytko žūtį prie Vorsklos.
 
 ## Reikšmingi paminėjimai
 
@@ -50,7 +37,6 @@ Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolensko vietininkai Boreika
     Jo didelį narsumą iškeldamas, Dlugošas pastebi, jog jis esą įtiki­
     nėjęs Vytautą nepradėti kautynių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

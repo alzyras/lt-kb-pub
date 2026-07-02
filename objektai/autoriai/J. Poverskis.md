@@ -42,41 +42,20 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
 - t-001
   global_id: t-64631
   teiginys: 'J. Poverskis parašė darbą „Przekaz“.'
-  sudarymo_pagrindimas: 'Bibliografinė nuoroda leidžia pagrįsti trumpą faktą apie autoriaus darbą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 57110-57577; hash=4636d5d1029e394f33a02093d1134254e4a00c7d23a1a4ebd490b35c968320a2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pamaris: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: J. Poverskis: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Pamaris: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Poverskis" parinktas kaip owner_note_path. Targetas "Pamaris" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-64633"></a>
 - t-002
   global_id: t-64633
   teiginys: 'J. Poverskis manė, kad prūsų sukilimas galėjo prasidėti 1243 m. paskutiniame ketvirtyje.'
-  sudarymo_pagrindimas: 'Citata aiškiai priskiria šią datavimo nuomonę J. Poverskiui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  temporaliniai_duomenys: 'įvykio data: 1242 m.; įvykio data: 1243 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata aiškiai priskiria šią datavimo nuomonę J. Poverskiui.'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 59390-59429; hash=2a9aa6a63cbac185e8cdfaeeeeb3d729ed563d800b57ee70f5d6b3ecb4894926; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-64634"></a>
 - t-003
   global_id: t-64634
   teiginys: 'J. Poverskis atskleidė Dusburgiečio panaudotą XIII a. vidurio šaltinį, kuris yra neišlikęs.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata apie J. Poverskį.'
-  susije_objektai: 'mentioned_place: Pamaris'
   pagrindžia:
     - c-001
 
@@ -84,8 +63,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
 - t-004
   global_id: t-64635
   teiginys: 'J. Poverskis manė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai sieja šią nuomonę su J. Poverskio darbu.'
-  susije_objektai: 'mentioned_place: Galinda; mentioned_object: [[objektai/zodynas/dykra|dykra]]'
   pagrindžia:
     - c-004
 
@@ -93,10 +70,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
 - t-005
   global_id: t-64639
   teiginys: 'J. Poverskis siūlė vėlesnes pilies statybos, konvento perkėlimo ir miesto lokacinės privilegijos datas.'
-  sudarymo_pagrindimas: 'Citata sieja vėlesnių datų siūlymą su J. Poverskio darbu.'
-  temporaliniai_duomenys: 'įvykio data: 1279 m.; įvykio data: 1281 m.; įvykio data: 1286 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata sieja vėlesnių datų siūlymą su J. Poverskio darbu.'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/autoriai/J. Venta.md#claim-t-62620|J. Venta]]: J. Venta iškėlė mintį, kad išlikusi Dusburgiečio kronika yra 1326 m. redakcija arba jos cenzūruotas antrininkas.
@@ -114,7 +87,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
     valdytojų raportus ir kt.92 J. Poverskis atskleidė Dusburgiečio panaudotą XIII a. vidurio
     šaltinį, kuris yra žuvęs93.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -126,7 +98,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   citata_originali: |
     93 Powierski J. Przekaz..., s. 422—425.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -140,7 +111,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
     m.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m.
     (Powierski J., Chronologia..., p. 5—31).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -154,7 +124,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
     dykra (Kamiński A., Jaćwież, p. 58; Jasas R., Didysis..., p. 12). Dalis gyventojų galėjo
     išlikti iki XIII a. (Powierski J. Krytyka koncepcji..., p. 303).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -170,7 +139,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
     galėjęs prasidėti 1243 m. paskutiniame ketvirtyje (Powierski J., Przyczyny.., p. 204,
     211).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -46,9 +46,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 926181-926454; hash=05fda4f17318743edaec857fd2d24c3761f16fd926ca49bc404f8e86355111f0; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -61,9 +58,7 @@ Nenurodyta
     jos seimelį ukmergiškiai aiškiai reikalavo atleisti valstiečius nuo
     baudžiavos, tik be žemės.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

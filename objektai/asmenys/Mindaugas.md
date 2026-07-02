@@ -14,9 +14,9 @@ datos:
   - '1265 m.'
 date_start: '1219'
 date_end: '1265'
-description: 'Mindaugas – pirmasis Lietuvos valdovas, 1253 m. karūnuotas karaliumi, sukūręs ankstyvąją valstybę ir žuvęs 1263 m.'
-socialDescription: 'Mindaugas – pirmasis Lietuvos karalius, siejamas su valstybės sukūrimu, krikštu, karūnacija ir XIII a. politinėmis kovomis.'
-seo_atnaujinta: '2026-07-02T19:20:23.311725+03:00'
+description: 'Mindaugas – XIII a. Lietuvos valdovas, 1251 m. priėmęs krikštą, 1253 m. karūnuotas karaliumi ir kūręs ankstyvą valstybę.'
+socialDescription: 'Mindaugas sukūrė ankstyvą Lietuvos valstybę, 1251 m. priėmė krikštą, 1253 m. tapo karaliumi, o 1263 m. žuvo per giminės nesantaiką.'
+seo_atnaujinta: '2026-07-02T20:14:54.770427+03:00'
 seo_policy_version: 'seo_summary_v1'
 seo_nepakanka_duomenu: 'false'
 sukurta: ''
@@ -35,19 +35,13 @@ tags:
 
 ## Santrauka
 
-Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m. karūnuotas karaliumi. Jis sukūrė ankstyvąją Lietuvos valstybę ir laikinai įtraukė ją į Europos šalių sistemą. 1263 m. Mindaugas žuvo dėl giminės nesantaikos, kilusios nepasitenkinus jo politika vokiečių atžvilgiu.
+Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219 m. 1251 m. jis priėmė krikštą, o 1253 m. buvo karūnuotas karaliumi, taip laikinai įtraukdamas Lietuvą į Europos šalių sistemą. Jo valdžia siejama su ankstyvosios Lietuvos valstybės kūrimu, bet 1263 m. Mindaugas žuvo dėl giminės nesantaikos ir nepasitenkinimo politika vokiečių atžvilgiu.
 
 ## Teiginiai
 <a id="claim-t-113898"></a>
 - t-001
   global_id: t-113898
   teiginys: '1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusiaubė Ordino užnugarį Pavyslyje.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; llm_object: Vėluva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Dauguva; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Prieglius; mentioned_place: Semba; mentioned_place: Vysla; mentioned_place: Vėluva'
-  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] puolė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  temporaliniai_duomenys: 'įvykio data: 1262 m.; įvykio data: 1263 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-017
 
@@ -55,11 +49,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-002
   global_id: t-113899
   teiginys: 'Mindaugas žuvo 1263 m. dėl giminės nesantaikos, kilusios nepasitenkinus jo politika vokiečių atžvilgiu.'
-  sudarymo_pagrindimas: 'Fragmentas perrašytas į pilną faktinį sakinį apie Mindaugą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  temporaliniai_duomenys: 'įvykio data: 1263 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Fragmentas perrašytas į pilną faktinį sakinį apie Mindaugą.'
   pagrindžia:
     - c-003
 
@@ -67,11 +56,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-003
   global_id: t-113900
   teiginys: 'Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Europa; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1260 m.; įvykio data: 1274 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-004
 
@@ -79,8 +63,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-004
   global_id: t-113901
   teiginys: 'Mindaugas, gelbėdamasis nuo Livonijos Ordino, buvo priverstas taikytis ir priimti katalikų tikėjimą.'
-  sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis ir glaustai perteikta citatos esmė.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -88,11 +70,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-005
   global_id: t-113902
   teiginys: 'Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas, pasikrikštijęs ir 1253 m. karūnuotas karaliumi.'
-  sudarymo_pagrindimas: 'Pradiniame teiginyje yra puslapio ir antraštės triukšmo, citata palaiko aiškų sakinį apie Mindaugą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1253 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje yra puslapio ir antraštės triukšmo, citata palaiko aiškų sakinį apie Mindaugą.'
   pagrindžia:
     - c-012
 
@@ -100,8 +77,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-006
   global_id: t-113903
   teiginys: 'Mindaugo krikštas ir karalystė nepanaikino pagoniškų dievų vaidmens Lietuvoje.'
-  sudarymo_pagrindimas: 'Pradinis tekstas yra nutrūkęs ir triukšmingas, o citata palaiko glaustą faktą apie Mindaugo laikų pagonybę.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„ir mes turime vieną Dievą…“|„ir mes turime vieną Dievą…“]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-023
 
@@ -109,8 +84,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-007
   global_id: t-113904
   teiginys: 'Gediminas laiške popiežiui ir kardinolams rašė, kad karalius Mindaugas su visa tauta buvo priėmęs krikščioniškąjį tikėjimą.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Gedimino laiške pateiktą Mindaugo krikšto vertinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Ryga'
   pagrindžia:
     - c-011
 
@@ -118,11 +91,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-008
   global_id: t-113906
   teiginys: 'Mindaugas sukūrė valstybę ir, nors laikinai, įtraukė ją į Europos šalių sistemą.'
-  sudarymo_pagrindimas: 'Pradinis teiginys apima platesnį kontekstą; perrašyta aiškiai apie Mindaugą ir jo veiksmą.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Nalšia'
-  temporaliniai_duomenys: 'įvykio data: 1263 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys apima platesnį kontekstą; perrašyta aiškiai apie Mindaugą ir jo veiksmą.'
   pagrindžia:
     - c-014
 
@@ -130,7 +98,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-009
   global_id: t-113907
   teiginys: 'Mindaugas sukūrė ankstyvosios Lietuvos valstybę, kuri suteikė galimybę išlikti lietuvių tautai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-006
 
@@ -138,11 +105,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-010
   global_id: t-113908
   teiginys: '1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.'
-  sudarymo_pagrindimas: 'Sakinys yra aiškus, gramatinis ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija|Mindaugo karūnacija]]; mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)|Mindaugo karūnacija (1253 m.)]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1251 m.; įvykio data: 1253 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus, gramatinis ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-022
 
@@ -150,12 +112,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-011
   global_id: t-113909
   teiginys: '1248 m. Mindaugui kilo grėsminga opozicija, sudaryta iš jo brolvaikių, Livonijos ordino ir Voluinės.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per bendras; citata leidžia suformuluoti konkretesnį faktą.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Morta|Morta]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_place: Voluinė; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Morta|Morta]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] buvo vyras [[objektai/asmenys/Morta|Morta]]'
-  temporaliniai_duomenys: 'įvykio data: 1248 m.; įvykio data: 1251 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per bendras; citata leidžia suformuluoti konkretesnį faktą.'
   pagrindžia:
     - c-009
 
@@ -163,11 +119,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-012
   global_id: t-113910
   teiginys: 'Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas, krikštijęsis ir 1253 m. karūnuotas karaliumi.'
-  sudarymo_pagrindimas: 'Citata pagrindžia tikslesnį sakinį su krikštu ir 1253 m. karūnacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1253 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia tikslesnį sakinį su krikštu ir 1253 m. karūnacija.'
   pagrindžia:
     - c-012
 
@@ -175,12 +126,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-013
   global_id: t-113911
   teiginys: 'Pasak eiliuotosios Livonijos kronikos, 1244 m. Mindaugas su 30 000 lietuvių nuniokojo Livonijos Ordino žemes.'
-  sudarymo_pagrindimas: 'Teiginys tinkamai priskiria informaciją Livonijos kronikai ir atitinka citatą.'
-  susije_objektai: 'llm_object: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Livonija'
-  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] puolė Livonija'
-  temporaliniai_duomenys: 'įvykio data: 1244 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tinkamai priskiria informaciją Livonijos kronikai ir atitinka citatą.'
   pagrindžia:
     - c-001
 
@@ -188,11 +133,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-014
   global_id: t-113913
   teiginys: 'Mindaugas 1219 m. kartu su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Mindaugo veiksmą, paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Voluinė; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Gedvydas|Gedvydas]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Kijevas; mentioned_place: Liublinas'
-  temporaliniai_duomenys: 'įvykio data: iki 1263 m.; įvykio data: 1219 m.; įvykio data: 1236 m.; įvykio data: 1249 m.; įvykio data: 1254 m.; įvykio data: 1263 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Mindaugo veiksmą, paremtas citata.'
   pagrindžia:
     - c-005
 
@@ -200,9 +140,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-015
   global_id: t-113914
   teiginys: 'Maukoldas buvo Mindaugo, dar vadinamo Mendogu, tėvas.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citatos tiesiogiai pagrįstas giminystės faktas.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Maukoldas|Maukoldas]]; mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_person: [[objektai/asmenys/Maukoldas|Maukoldas]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] buvo sūnus [[objektai/asmenys/Maukoldas|Maukoldas]]'
   pagrindžia:
     - c-024
 
@@ -210,9 +147,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-016
   global_id: t-113915
   teiginys: 'Mindaugas sukūrė valstybę ir, nors laikinai, įvedė ją į Europos šalių sistemą.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Nalšia'
-  temporaliniai_duomenys: 'įvykio data: 1263 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-014
 
@@ -220,8 +154,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-017
   global_id: t-113916
   teiginys: 'Mindaugas, karūnavęsis per Livonijos ordiną, tapo popiežiaus vasalu ir gavo teisę į tiesiai popiežiui pavaldžią vyskupiją.'
-  sudarymo_pagrindimas: 'Sakinys perrašytas su aiškesniu subjektu sakinio pradžioje.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-020
 
@@ -229,7 +161,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-018
   global_id: t-113917
   teiginys: 'Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet vėliau nuo jo atkrito.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_place: Ryga'
   pagrindžia:
     - c-010
 
@@ -237,9 +168,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-019
   global_id: t-113919
   teiginys: 'Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas ir XIII a. viduryje krikštijosi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1253 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-012
 
@@ -247,8 +175,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-020
   global_id: t-113921
   teiginys: 'Mindaugas tapo popiežiaus, o ne imperatoriaus vasalu ir gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją.'
-  sudarymo_pagrindimas: 'Sakinys turi aiškų subjektą, predikatą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vokietija'
   pagrindžia:
     - c-020
 
@@ -256,11 +182,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-021
   global_id: t-113922
   teiginys: 'Genealoginėje ištraukoje Mindaugas nurodomas kaip Lietuvos kunigaikštis 1240 m., Erdeno nužudytas 1263 m. arba 1265 m.'
-  sudarymo_pagrindimas: 'Pirminis teiginys buvo OCR ir lentelės fragmentas; citata leidžia suformuoti pilną sakinį.'
-  susije_objektai: 'mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1240 m.; valdymo laikotarpis: 1263 m.; valdymo laikotarpis: 1265 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pirminis teiginys buvo OCR ir lentelės fragmentas; citata leidžia suformuoti pilną sakinį.'
   pagrindžia:
     - c-015
 
@@ -268,11 +189,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-022
   global_id: t-113923
   teiginys: 'Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams, o Vakarų Europos parama Ordinui sustiprėjo.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai perteikia citatos faktus.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Europa; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1260 m.; įvykio data: 1274 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai perteikia citatos faktus.'
   pagrindžia:
     - c-004
 
@@ -280,105 +196,41 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-023
   global_id: t-113924
   teiginys: 'Balińskis Gedimino laiškuose išskyrė užuominą apie karaliaus Mindaugo grįžimą prie pagonybės dėl Kryžiuočių ordino kaltės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-021
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fde006f6ec75c59cff61c6ce2a352719847283509ffa6c16fbd8c95f7bce21cf; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-113925"></a>
 - t-024
   global_id: t-113925
   teiginys: 'Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet dėl teutonų išdavysčių nuo jo atkrito.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia laiško turinį ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_place: Ryga'
   pagrindžia:
     - c-010
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 44136-44673; hash=e62aeab466d68562150cdc59c8f37b94819b615c0ea7ead2f721aea5c7f4ce20; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-113926"></a>
 - t-025
   global_id: t-113926
   teiginys: '1245–1246 m. vokiečių kronikininkas Mindaugą pavadino „aukščiausiuoju karaliumi“.'
-  sudarymo_pagrindimas: 'Sakinys yra aiškus faktinis teiginys apie Mindaugą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1219 m.; įvykio data: 1235 m.; įvykio data: 1240 m.; įvykio data: apie 1240 m.; įvykio data: 1245-1246; įvykio data: 1246 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus faktinis teiginys apie Mindaugą.'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=01e5ae4276854d2133ba562e38a66023fb68c7bb35c5507c95d9296cfd02c2e3; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-113927"></a>
 - t-026
   global_id: t-113927
   teiginys: 'Mindaugas sukūrė Lietuvos valstybę, kuri suteikė lietuvių tautai galimybę išlikti ir vėliau perimti Vakarų civilizaciją.'
-  sudarymo_pagrindimas: 'Sakinys yra pilnas faktinis teiginys apie Mindaugo vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3e72dd4851344761e54b61ce1040732f6f70b6bc59c2ad8ff0648088539eaa46; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-113928"></a>
 - t-027
   global_id: t-113928
   teiginys: 'Teiginys apie žynių luomo nebuvimą buvo grindžiamas duomenimis apie Mindaugo ir Kęstučio dalyvavimą aukojimo apeigose.'
-  sudarymo_pagrindimas: 'Citata kalba apie tvirtinimą ir jo argumentą, todėl būtina atribucinio pobūdžio formuluotė.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-016
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=cfac840dcf4203c46bb7224310c6dc5f1c259290d3486e58227b724c10e8191b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Europa: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-113929"></a>
 - t-028
   global_id: t-113929
   teiginys: 'Gedimino laiške teigta, kad karalius Mindaugas su tauta priėmė krikščionybę, bet dėl kryžiuočių smurto nuo jos atsimetė.'
-  sudarymo_pagrindimas: 'Claimas buvo nutrūkęs; citata palaiko užbaigtą sakinį apie Mindaugo krikštą ir atsimetimo priežastį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Ryga'
   pagrindžia:
     - c-011
 
@@ -386,65 +238,27 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-029
   global_id: t-113930
   teiginys: 'Dalis jotvingių žemių įėjo į Mindaugo valstybės sudėtį.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai patvirtina faktą apie Mindaugo valstybę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_place: Viena'
   pagrindžia:
     - c-013
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=97dd5d43c903167272a43921a85518b51b2ebee245a96ea73bd495c2791e1a70; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Livonija: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Nuniokojimas Livonijos Ordino žemių tiesiogiai rodo Mindaugo puolimą Livonijoje.
 
 <a id="claim-t-113931"></a>
 - t-030
   global_id: t-113931
   teiginys: 'Mindaugas žuvo 1263 m. dėl giminės nesantaikos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
-  temporaliniai_duomenys: 'įvykio data: 1263 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 19604-19822; hash=00d0481d3a3df2bd7e4c724595947568916928a2e9ae14d2222f26fbd41d84c0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=28
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-113933"></a>
 - t-031
   global_id: t-113933
   teiginys: 'Gedimino laikais įsitvirtinus leniniam valdymui, buvo įgyvendintos Mindaugo politinės pastangos.'
-  sudarymo_pagrindimas: 'Claimas buvo per ilgas ir su Vilniui skirtu kontekstu; citata palaiko trumpą teiginį apie Mindaugo pastangas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0eac35fccea9cb26e8feed921062f5f4ba87f4a6b44cb9d9bf3c6075e953cdf5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-113934"></a>
 - t-032
   global_id: t-113934
   teiginys: 'Balińskis teigė, kad Gedimino veiklumo dėka buvo įgyvendintos Mindaugo pastangos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
 
@@ -452,110 +266,36 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
 - t-033
   global_id: t-113935
   teiginys: '1259 m. Mindaugo dokumente išvardytos Dainavos, arba Jotvingijos, terrulae.'
-  sudarymo_pagrindimas: 'Citata palaiko dokumento turinį, bet ne platesnes spėjamas išvadas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  temporaliniai_duomenys: 'įvykio data: 1259 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko dokumento turinį, bet ne platesnes spėjamas išvadas.'
   pagrindžia:
     - c-018
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c30b67bb4d4a9d2f3e58bb6d8fe84fea258da9a9984e3856016a84a3424ed739; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzkariavo -> Prūsai: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: deterministic_validation_passed; llm_structured_decision; prusai_group_context
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Prūsai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad kryžiuočiai nukariavo prūsų gentis.
 
 <a id="claim-t-113936"></a>
 - t-034
   global_id: t-113936
   teiginys: 'Maukoldas citatoje nurodomas kaip Mindaugo, dar vadinto Mendogu, tėvas.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Maukoldas|Maukoldas]]; mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_person: [[objektai/asmenys/Maukoldas|Maukoldas]]; mentioned_person: [[objektai/asmenys/Riurikas|Riurikas]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] buvo sūnus [[objektai/asmenys/Maukoldas|Maukoldas]]'
   pagrindžia:
     - c-019
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fde006f6ec75c59cff61c6ce2a352719847283509ffa6c16fbd8c95f7bce21cf; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184787"></a>
 - t-037
   global_id: t-184787
   teiginys: 'Mindaugas, atgavęs Žemaitiją ir Kuršą bei nusiaubęs Sembą, sukurstė Prūsijos žmones atsimesti nuo kryžiuočių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir pakankamai tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'llm_object: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] puolė Prūsija'
   pagrindžia:
     - c-026
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 44136-44673; hash=e62aeab466d68562150cdc59c8f37b94819b615c0ea7ead2f721aea5c7f4ce20; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184788"></a>
 - t-038
   global_id: t-184788
   teiginys: 'Mindaugas, susilaukęs rusų paramos, slaptai ir netikėtai įsibrovė į Mazoviją.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas pateikta citata.'
-  susije_objektai: 'llm_object: Mazovija; llm_object: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Mazovija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Zemovitas|Zemovitas]]; mentioned_place: Dauguva; llm_object: [[objektai/grupes/Rusai|Rusai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] puolė Mazovija; [[objektai/grupes/Rusai|Rusai]] rėmė [[objektai/asmenys/Mindaugas|Mindaugas]]; [[objektai/asmenys/Mindaugas|Mindaugas]] buvo sąjungininkas su [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-027
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 45920-46457; hash=f2beac14e7312de3e5d4bbc57834df5ad30d20bf16c994c32a8ed2809f7cf65e; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_vyras -> Morta: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Morta: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Morta tiesiogiai įvardyta Mindaugo žmona.
 
 <a id="claim-t-184789"></a>
 - t-039
   global_id: t-184789
   teiginys: 'Mirus Mindaugo žmonai, Daumanto žmona atvyko į Mindaugo rūmus tvarkyti šeimynos moterų ir surengti šermenų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Reikia aiškiau susieti faktą su Mindaugu ir pašalinti negrabų junginį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Nalšia'
   pagrindžia:
     - c-028
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 46459-46846; hash=c9d49fd0d35407eb207b400e271ddf8020055f3e220ed70fffaf75d7ed928433; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=74
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-188583"></a>
 - t-040
@@ -565,16 +305,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     - c-029
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 361902-362470; hash=42814831abeba1cdd1af9a2410c1c598820bce383d98c364e08c4dde2d159726; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=17
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas (valdovas, XIII a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-188584"></a>
 - t-041
   global_id: t-188584
@@ -583,16 +313,6 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     - c-030
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 830364-830581; hash=7cc14822ce682d3315a56ed0ddd315232cdceb2dec4b6f670787bd0dfc8c62f2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: valde -> Lietuva: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Mindaugo valdymas tekste naudojamas Lietuvos istorijos periodui apibrėžti.
 - susijęs iš Naugardukas: Naugarduke tėvo įkurdintas Vaišelga siejamas su lietuvių kunigaikščių kūrimusi Rusios žemėse.
 - susijęs iš Naugardukas: Mindaugo sūnus Vaišelga buvo įkurdintas Naugarduke, o ši žemė jungta prie Lietuvos valstybės.
 - susijęs iš [[objektai/ivykiai/Mindaugo karūnacija (1253 m.).md#claim-t-13489|Mindaugo karūnacija (1253 m.)]]: 1251 m. pavasarį arba vasaros pradžioje Mindaugas per Andrių Štirlandą išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.
@@ -1010,13 +730,11 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     1244 met., pasak eiliuotosios Livonijos kronikos, Mindaugas su
     30.000 lietuvių nuteriojęs Livonijos Ordino žemes^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-- c-002
+    - t-013- c-002
   santrauka: 'Mindaugas, gelbėdamasis nuo Livonijos Ordino, buvo priverstas taikytis ir priimti katalikų tikėjimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1025,13 +743,11 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     sąlygą — priimti katalikų tikėjimą. Ir 1250 met. Mindaugas
     apsikrikštijo; apkrikštijo ir daug savo didikų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-- c-003
+    - t-004- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Mindaugo broliavimosi su
@@ -1040,14 +756,12 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     padėjo galvą Mindaugas. Mindaugas žuvo, bet jo darbas
     nežuvo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
-    - t-002
-- c-004
+    - t-002- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Per beveik tris dešimtmečius kryžiuočiai nukariavo visas
@@ -1057,14 +771,12 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     Ordinui labai sustiprėjo. 1274 m. sukilimas buvo visiškai už-
     gniaužtas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
-    - t-003
-- c-005
+    - t-003- c-005
   santrauka: 'Mindaugas 1219 m. kartu su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1084,13 +796,11 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     remiami Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą. Daugelis lietuvių, žemaičių, nalšėnų, jotvingių
     liko ištikimi Mindaugui ir jam pavyko 1254 m. galutinai nugalėti savo oponentus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014
-- c-006
+    - t-014- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -1101,14 +811,12 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     sios Lietuvos istorijos kūrinį – valstybę, suteikusią galimybę išlikti lietuvių
     tautai ir vėliau perimti Vakarų civilizaciją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
-    - t-026
-- c-007
+    - t-026- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -1121,14 +829,12 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     gal būta ir, tarkim, „Živinbudo“ ar „Dausprungo“ Lietuvos? Todėl linksta-
     ma prie apytikrės datos – Lietuvos valstybė susikūrė apie 1240 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-035
-    - t-025
-- c-008
+    - t-025- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gediminas, supamas tokių įvairių kaimyninio val­
@@ -1145,14 +851,12 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     Vilnius savo kilimo pradžioje turėjo laikytis tokios pačios
     tvarkos, kokia buvo ir kitur.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
-    - t-031
-- c-009
+    - t-031- c-009
   santrauka: '1248 m. Mindaugui kilo grėsminga opozicija, sudaryta iš jo brolvaikių, Livonijos ordino ir Voluinės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1165,13 +869,11 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o
     sau – karaliaus karūną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-- c-010
+    - t-011- c-010
   santrauka: 'Karalius Mindaugas su visa savo karalyste buvo atsivertęs į Kristaus tikėjimą, bet dėl teutonų išdavysčių nuo jo atkrito.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1196,14 +898,12 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     no Isamo namo, pakeliui vienus jie užmušė, kitus pakorė
     arba privertė, kad jie patys pasiskandintų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
-    - t-018
-- c-011
+    - t-018- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I  KNYGA
@@ -1222,14 +922,12 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     arkivyskupus, kad tartųsi dėl santaikos, bet anie buvo žiau­
     riai nužudyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-    - t-028
-- c-012
+    - t-028- c-012
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo I a. po
@@ -1245,15 +943,13 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     suspėjo krikštytis, o 1253 m. – karūnuotis
     karaliumi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
     - t-012
-    - t-005
-- c-013
+    - t-005- c-013
   santrauka: 'Dalis jotvingių žemių įėjo į Mindaugo valstybės sudėtį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -1264,13 +960,11 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     norėjo padaryti Lietuvą bendrąja baltų valstybe,  į kurią įeitų šiaurinės ir pietvakarinės
     baltų žemės (Livonija  ir Prūsija).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029
-- c-014
+    - t-029- c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl suomiai, estai ir latviai buvo nukariauti, prūsai – išnaikinti, o Min-
@@ -1281,14 +975,12 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė
     Mindaugą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-    - t-016
-- c-015
+    - t-016- c-015
   santrauka: 'Genealoginėje ištraukoje Mindaugas nurodomas kaip Lietuvos kunigaikštis 1240 m., Erdeno nužudytas 1263 m. arba 1265 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1302,13 +994,11 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     nužudytas 1263 m. ar
     1265 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021
-- c-016
+    - t-021- c-016
   santrauka: 'Teiginys apie žynių luomo nebuvimą buvo grindžiamas duomenimis apie Mindaugo ir Kęstučio dalyvavimą aukojimo apeigose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -1316,13 +1006,11 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     neigia faktai apie vyriausiuosius aukotojus—valdovus (remiamasi duomenimis apie
     Mindaugo, Kęstučio ir kt. dalyvavimą aukojimo apeigose).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027
-- c-017
+    - t-027- c-017
   santrauka: '1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusiaubė Ordino užnugarį Pavyslyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -1335,13 +1023,11 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     1263 m.) plačiu frontu nuo Dauguvos iki Vyslos sėkmingai kovojo prieš Ordino agresiją,
     aktyviai rėmė, kiek leido sąlygos, prūsų  ir jotvingių—sūduvių kovą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-- c-018
+    - t-001- c-018
   santrauka: '1259 m. Mindaugo dokumente išvardytos Dainavos, arba Jotvingijos, terrulae.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -1353,13 +1039,11 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     išvardijama Dainavos, arba Jotvingijos, terrulae, tarp jų Cresmen (PUB, 1, 1, Nr. 79,
     p. 70), atitinkančią D. territorium [...] Crasimam (D. III, 209).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-033
-- c-019
+    - t-033- c-019
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tasai Dovilas ar Dovydas turėjo būti pir­
@@ -1369,13 +1053,11 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     a
     PyccKaH AeToriHCb cb BocKpe- Tepöyprb 1793.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034
-- c-020
+    - t-034- c-020
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O Mindaugas, karūnavęsis per Vokietijos vasalą –
@@ -1395,14 +1077,12 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     kreipti įvykius sau naudinga linkme. Net savo priešų Mindaugas buvo
     vadinamas išmintinguoju.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
-    - t-017
-- c-021
+    - t-017- c-021
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmiausia, joms priklauso užuomina apie kara­
@@ -1412,13 +1092,11 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     metimo priežasčių? O žinodamas ar nebūtų verčiau jų nu­
     tylėjęs?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023
-- c-022
+    - t-023- c-022
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
@@ -1428,13 +1106,11 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     mas ir vienintelis vainikuotas Lietuvos karalius. Mindaugo vainikavimas
     Mindaugo karūnacija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-- c-023
+    - t-010- c-023
   santrauka: 'Mindaugo krikštas ir karalystė nepanaikino pagoniškų dievų vaidmens Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1449,13 +1125,11 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     Gedimino sapną apie staugiantį geležinį vilką pagonių žynys Lizdeika ir
     išpranašaus Vilniaus įkūrimą ir šlovę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-- c-024
+    - t-006- c-024
   santrauka: 'Maukoldas buvo Mindaugo, dar vadinamo Mendogu, tėvas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1470,13 +1144,11 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     deno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­
     vas3.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015
-- c-025
+    - t-015- c-025
   santrauka: 'Mindaugas sukūrė valstybę ir, nors laikinai, įtraukė ją į Europos šalių sistemą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1487,13 +1159,11 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     šalių sistemą. Jis buvo vienintelis naujausiosios Viduramžių Europos valdo-
     vas, sugebėjęs paversti savo tautą ir valstybę istoriniu subjektu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-036
-- c-026
+    - t-036- c-026
   santrauka: 'Mindaugas, atgavęs Žemaitiją ir Kuršą bei nusiaubęs Sembą, sukurstė Prūsijos žmones atsimesti nuo kryžiuočių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1511,13 +1181,11 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
     kerštą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-037
-- c-027
+    - t-037- c-027
   santrauka: 'Mindaugas, susilaukęs rusų paramos, slaptai ir netikėtai įsibrovė į Mazoviją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1539,13 +1207,11 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     žintas į tėvo valdas, vargšas Zemovitas tuo tarpu žu­
     vo ruso netrukus žiauriai nukankintas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-038
-- c-028
+    - t-038- c-028
   santrauka: 'Mirus Mindaugo žmonai, Daumanto žmona atvyko į Mindaugo rūmus tvarkyti šeimynos moterų ir surengti šermenų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1564,13 +1230,11 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     dorą, jis pasilaikė ją už
     žmoną.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-039
-- c-029
+    - t-039- c-029
   santrauka: 'Narbutas Mindaugą vadina Lietuvos ir Rusios kunigaikščiu ir jo žudikais įvardija Daumantą, Treniotą bei Tautvilą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1585,13 +1249,10 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
     kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-040
-- c-030
+    - t-040- c-030
   santrauka: 'Narbutas Mindaugo valdymo pradžią sieja su 1240 metais ir nuo jos skiria aiškesnės Lietuvos istorijos laikotarpį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1601,10 +1262,8 @@ Mindaugas buvo pirmasis Lietuvos valdovas, 1251 m. priėmęs krikštą, o 1253 m
     III. Aiškesnė istorija -  nuo Mindaugo (1240 metų) iki 1386
     metų.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-041
 

@@ -29,16 +29,6 @@ Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mir
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 776071-776533; hash=33b9fe528581ef03bcdf73981819a8ae43973d70149f589ac89179d384c53686; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: mire -> Aukaimis: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gintautas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Aukaimis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys sieja Gintautą, jo buvimo vietą Aukaimyje ir mirtį.
 - susijęs iš [[objektai/grupes/Kriviai ir Krivių Krivaičiai.md#claim-t-189439|Kriviai ir Krivių Krivaičiai]]: Narbutas mano, kad paskutinis Krivių Krivaitis Gintautas buvo 74-asis vyriausiųjų žynių eilėje.
 - susijęs iš [[objektai/asmenys/Alepas.md#claim-t-190647|Alepas]]: Narbutas, remdamasis Prūsijos kronikomis, nurodo, kad iki vyriausiojo žynio Alepo buvo 481 žynys, o 1265–1414 m. jų dar buvo 23.
 ## Reikšmingi paminėjimai
@@ -56,10 +46,8 @@ Narbutas rašo, kad Aukaimio kaime slapstęsis vyriausiasis žynys Gintautas mir
     žynių lazdų aprašymas, tuo labiau dar su tokiu tiksliu piešiniu
     ir aprašymais.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

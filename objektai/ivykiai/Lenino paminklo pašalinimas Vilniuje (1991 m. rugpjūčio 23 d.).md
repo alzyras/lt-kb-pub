@@ -44,20 +44,8 @@ Nenurodyta
 - t-001
   global_id: t-24531
   teiginys: 'Vilniuje buvo pašalintas Lenino paminklas.'
-  sudarymo_pagrindimas: 'Teiginys yra trumpas, bet pilnas faktinis sakinys apie įvykį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lenino paminklas Vilniuje|Lenino paminklas Vilniuje]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva; llm_object: Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6d5b64b9538405cbe3ff180507bcb3523a637234bc67557fd3b833103cf46a0f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Vilnius: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenino paminklas Vilniuje: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Paminklo buvimo ir pašalinimo vieta tiesiogiai nurodyta Vilniuje.
 
 ## Reikšmingi paminėjimai
 
@@ -74,7 +62,6 @@ Nenurodyta
     Vakarų diplomatų epitetą „Baltic Kindergarten“…
     Vilniuje pašalinamas Lenino paminklas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -22,19 +22,8 @@ Pasiunčia ir Vytautui perspėjantį laišką, kad jis nenutrauktų unijos ir ni
 - t-001
   global_id: t-36100
   teiginys: 'Vytautas perspėtas nenutraukti unijos ir nieko nedaryti nepasitarus su popiežiumi.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Kulmija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e2b3016d59b96ead826754b9ad9cdf2d8bd7a33a1a94a267222d54c5a718d5b0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Popiežiaus laiškai dėl Vytauto karūnacijos: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Popiežiaus laiškai dėl Vytauto karūnacijos" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -53,7 +42,6 @@ Pasiunčia ir Vytautui perspėjantį laišką, kad jis nenutrauktų unijos ir ni
     žium, „kad paskui mes nepareikalautume ištirt reikalą ir atšaukt
     neteisėtai įvykusią karūnaciją“^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

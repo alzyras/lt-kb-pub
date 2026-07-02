@@ -34,7 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-07826
   teiginys: 'Žiemos laiku gyventojai važinėdavo upeliais, šunis užkinkę.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]'
   pagrindžia:
     - c-001
 
@@ -49,7 +48,6 @@ Nenurodyta
          upeliais, nuo ko tuo senu įpratimu šiandien dar ankštą kelelį per girią šunkeliu vadina: kaipogi jų
          šunys it kumeliai dar kudloti ir kelią namo sekė, ir nuo žvėrių patį keliaujantį gyniojo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

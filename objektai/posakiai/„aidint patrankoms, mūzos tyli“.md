@@ -23,8 +23,6 @@ Sakoma: aidint patrankoms, mūzos tyli.
 - t-001
   global_id: t-26528
   teiginys: 'Livonijos karo metu Steponas Batoras rūpinosi Vilniaus universiteto, vadinamo mūzų prieglobsčiu, kūrimu.'
-  sudarymo_pagrindimas: 'Citata nepagrindžia pradinės frazės, bet leidžia suformuluoti konkretų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -41,7 +39,6 @@ Sakoma: aidint patrankoms, mūzos tyli.
     Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-
     mui įkurti kolegiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -31,9 +31,6 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
 - t-001
   global_id: t-60084
   teiginys: 'Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Brunsbergas; mentioned_place: Brunsbergas; mentioned_place: Upės (Oppen) kaimas; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Varmė'
-  semantiniai_rysiai: '[[objektai/asmenys/Anzelmas|Anzelmas]] pastatė Brunsbergas'
   pagrindžia:
     - c-001
 
@@ -45,16 +42,6 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 406496-407131; hash=4dac4b5a48bb8b88b9f32d0c823dbdf2bc81cf7c7186e50988fcaae228085d71; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Brunsbergas: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Anzelmas (vyskupas, XIII a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Brunsbergas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Claim tiesiogiai teigia, kad Anzelmas pastatė Brunsbergo pilį ir miestą.
 - susijęs iš [[objektai/daiktai/Heiligenbeilio kirvis.md#claim-t-189721|Heiligenbeilio kirvis]]: Narbutas pasakojo, kad Heiligenbeilio kirvis atšoko nuo švento ąžuolo kamieno ir mirtinai sužeidė žmogų, kai vyskupas Anzelmas liepė ąžuolą nukirsti.
 - susijęs iš [[objektai/ivykiai/Jeronimo Prahiškio šventojo miško kirtimas.md#claim-t-189627|Jeronimo Prahiškio šventojo miško kirtimas]]: Narbutas pasakoja, kad šventojo miško viduryje žmonės kurį laiką nedrįso paliesti seniausio medžio, laikyto dievų buveine.
 ## Reikšmingi paminėjimai
@@ -72,13 +59,11 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
     ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami
     tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Pasak Narbuto cituojamo Treterio, Varmijos vyskupas Anzelmas įsakė nukirsti ąžuolą, prie kurio žmonės garbino dievus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -95,10 +80,8 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
     pradėjo vadovauti kirtimui, tačiau ir šiaip be ugnies nepajėgta
     susidoroti su ąžuolu.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

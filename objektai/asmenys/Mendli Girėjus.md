@@ -23,8 +23,6 @@ tags:
 - t-001
   global_id: t-87443
   teiginys: 'Aleksandras siekė suimti ir įbauginti Mendli Girėjų, todėl Šach Achmedas buvo iki gyvos galvos įkalintas Kaune.'
-  sudarymo_pagrindimas: 'Citata palaiko politinį tikslą Mendli Girėjaus atžvilgiu ir Šach Achmedo įkalinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_person: [[objektai/asmenys/Šach Achmedas|Šach Achmedas]]; mentioned_place: Kaunas; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -32,20 +30,8 @@ tags:
 - t-002
   global_id: t-87445
   teiginys: 'Mendli Girėjus sumušė sąjungininko apleistą Šach Achmedą.'
-  sudarymo_pagrindimas: 'Citata palaiko trumpą faktą apie Mendli Girėjaus veiksmą, o likusi įvestis yra nesusijęs puslapio triukšmas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 469432-470549; hash=3c08cf5d2878642b7984b2e7a4f45f8b10647713b165fb21af330ca6bc97423d; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Elena (vyskupas, XV–XVI a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Mendli Girėjus: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Elena (vyskupas, XV–XVI a.): mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mendli Girėjus" parinktas kaip owner_note_path. Targetas "Elena (vyskupas, XV–XVI a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Taurija: Taurijos chanas Mendli Girėjus veikė prieš Aleksandrą ir nukreipė jo dėmesį į save.
 ## Reikšmingi paminėjimai
 
@@ -64,7 +50,6 @@ tags:
     da gali būti išlaisvintas ir kenkti jiems, netrukus su didžiu­
     lėmis pajėgomis įsiveržė į Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -110,7 +95,6 @@ tags:
     norėjo išduoti Lietuvą, bet ir tai jam nepavyko, jis baigė sa­
     vo dienas kalėjime toje pačioje Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

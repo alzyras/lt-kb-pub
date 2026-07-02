@@ -29,8 +29,6 @@ Dusburgietis teigia, kad nuo jo įsikūnijimo 1190 metais, tuo laiku, kai krikš
 - t-001
   global_id: t-58534
   teiginys: 'Bremeno ir Liubeko miestiečiai, laikomi pirmaisiais ordino steigėjais, padovanojo Henrikui Valpotui ligoninę Akone.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir nutrūkęs; citata remia glaustą faktą apie miestiečių veiksmą.'
-  susije_objektai: 'mentioned_place: Akonas; mentioned_place: Liubekas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]; mentioned_place: Jeruzalė; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis).md#claim-t-60015|Fridrichas (Švabijos kunigaikštis)]]: Fridrichas, Švabijos kunigaikštis, patarė Bremeno ir Liubeko miestiečiams padovanoti ligoninę Henrikui Valpotui.
@@ -91,7 +89,6 @@ Dusburgietis teigia, kad nuo jo įsikūnijimo 1190 metais, tuo laiku, kai krikš
     Henrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus,
     kur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

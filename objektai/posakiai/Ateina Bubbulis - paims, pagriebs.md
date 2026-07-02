@@ -29,16 +29,6 @@ Vaikų gąsdinimo formulė, kurioje Bubbulis pristatomas kaip ateinanti ir pagri
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 174680-175030; hash=721e80f2be34e91a0eb0f2cd1f9d83b672550435742b5e52cd6a39f54795f7f3; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Latviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ateina Bubbulis - paims, pagriebs: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Latviai: mention_match, group, gap=48
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ateina Bubbulis - paims, pagriebs" parinktas kaip owner_note_path. Targetas "Latviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -52,9 +42,7 @@ Vaikų gąsdinimo formulė, kurioje Bubbulis pristatomas kaip ateinanti ir pagri
     lik jis visai nesusijęs su Atrimpos, kaip norėtų Stenderis, tai
     buvo paprastas girtuoklių globėjo epitetas.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

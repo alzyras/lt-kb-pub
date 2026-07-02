@@ -46,11 +46,6 @@ Nenurodyta
 - t-001
   global_id: t-66848
   teiginys: '1919 m. lapkričio 20 d. fronto vadas pulkininkas leitenantas Kazys Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi.'
-  sudarymo_pagrindimas: 'Perrašyta išplečiant inicialą ir patikslinant pareigas pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; mentioned_person: [[objektai/asmenys/Kazys Ladyga|Kazys Ladyga]]; llm_object: [[objektai/grupes/Bermontininkai|Bermontininkai]]'
-  temporaliniai_duomenys: 'įvykio data: 1919 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Perrašyta išplečiant inicialą ir patikslinant pareigas pagal citatą.'
   pagrindžia:
     - c-001
 
@@ -58,11 +53,6 @@ Nenurodyta
 - t-002
   global_id: t-66849
   teiginys: '1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai atitinka citatos faktą.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Panevėžio batalionas|Panevėžio batalionas]]; mentioned_place: Pašiaušė; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  temporaliniai_duomenys: 'įvykio data: 1919 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai atitinka citatos faktą.'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
@@ -91,7 +81,6 @@ Nenurodyta
     priversti greitai palikti pozicijas ir trauktis.
     Tačiau šis puolimas nepavyko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -112,7 +101,6 @@ Nenurodyta
     lietuviai atsiėmė Joniškį. Plk. Bermontas
     buvo priverstas kapituliuoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

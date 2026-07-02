@@ -29,15 +29,8 @@ amziai:
 - t-001
   global_id: t-35006
   teiginys: 'Codex epistolaris Vitoldi Magni Ducis Lithvan apima 1376-1430 m. medžiagą ir buvo parengtas A. Prochaskos.'
-  sudarymo_pagrindimas: 'Citata palaiko chronologinę aprėptį ir rengėją.'
-  temporaliniai_duomenys: 'įvykio data: 1376-1430; įvykio data: 1430 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko chronologinę aprėptį ir rengėją.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 4849-5041; hash=04ef04bc44f84675e4029695a9a8a8738e49831cbf5aee5dfb1358188097fb90; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -49,7 +42,6 @@ amziai:
     1882 (VI tom. iš „Monumentą medii aevi historica res
     gestas Poloniae illustrantia“).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

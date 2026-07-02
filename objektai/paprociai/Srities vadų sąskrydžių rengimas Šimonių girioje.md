@@ -42,10 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-09606
   teiginys: 'Šimonių girioje būdavo rengiami srities vadų sąskrydžiai.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  temporaliniai_duomenys: 'įvykio data: 1947 m.; įvykio data: 1948 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -53,10 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-09607
   teiginys: 'Šimonių girioje bazavosi srities vadovybė ir būdavo rengiami srities vadų sąskrydžiai.'
-  sudarymo_pagrindimas: 'Citata palaiko tikslesnį teiginį apie sąskrydžių rengimą.'
-  temporaliniai_duomenys: 'įvykio data: 1947 m.; įvykio data: 1948 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį teiginį apie sąskrydžių rengimą.'
   pagrindžia:
     - c-001
 
@@ -72,7 +64,6 @@ Nenurodyta
     apygardai vadovavo Antanas Slučka-Ša-
     rūnas (1947 m. gegužė - 1948 m. spalis) ir
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

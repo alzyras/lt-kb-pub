@@ -22,8 +22,6 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 - t-001
   global_id: t-58452
   teiginys: 'Magistras su kariuomene įsibrovė į Kimenavos valsčių ir privertė Kimenavos pilėnus atiduoti to paties vardo pilį.'
-  sudarymo_pagrindimas: 'Citata patvirtina įsiveržimą į Kimenavą ir pilies atidavimą.'
-  susije_objektai: 'mentioned_place: Pilėnai; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175119|Sūduviai-jotvingiai]]: Konradas iš Tirbergo su daug brolių ir 1500 raitelių įsiveržė į Sūduvos Kimenavos valsčių, jį nusiaubė ir išsivarė 1000 belaisvių.
@@ -73,7 +71,6 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
     dieną, nusiaubę Kimenavos valsčių, broliai su savo kariuomene patraukė atgal,  jie
     sužinojo, kad minėtieji Kimenavos pilėnai, nužudę vedlį, visai kitu keliu pasuko į Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

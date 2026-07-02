@@ -34,8 +34,6 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
 - t-001
   global_id: t-182855
   teiginys: 'Jogailaičių epocha truko beveik du amžius, nuo 1386 iki 1572 metų.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys sutrumpintas iki enciklopedinio fakto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -43,8 +41,6 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
 - t-002
   global_id: t-182856
   teiginys: 'Jogailaičių epocha Lenkijos istorijoje laikoma šviesiausiąja.'
-  sudarymo_pagrindimas: 'Pašalinti netvarkingi ženklai ir OCR triukšmas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -52,15 +48,6 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
 - t-003
   global_id: t-183137
   teiginys: 'Jogailai tapus Lenkijos karaliumi 1386 m., atsirado Gediminaičių šakos Jogailaičių dinastija.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie dinastijos atsiradimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Vengrija; mentioned_place: Čekija; llm_object: Lenkija; llm_object: Vengrija; llm_object: Čekija'
-  semantiniai_rysiai: '[[objektai/grupes/Jogailaičių dinastija|Jogailaičių dinastija]] valdė Lenkija; [[objektai/grupes/Jogailaičių dinastija|Jogailaičių dinastija]] valdė Čekija; [[objektai/grupes/Jogailaičių dinastija|Jogailaičių dinastija]] valdė Vengrija'
-  temporaliniai_duomenys: 'įvykio data: 1386 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie dinastijos atsiradimą.'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-101620|„jogailaičių Europa“ „krikščionybės forpostas“]]: XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija valdė Lenkiją, Lietuvą, Čekiją ir Vengriją, todėl rytinė Vidurio Europa vadinta „jogailaičių Europa“.
@@ -84,7 +71,6 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
     sios Jogailaičių epochos, sekusios keliolika metų po paskutiniojo
     Piasto Kazimiero Didžiojo mirties (1370).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -101,7 +87,6 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
     sioji. Kilmė tos rytų Europos istorijoje reikšmingos dinastijos
     pradingsta tamsoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -117,7 +102,6 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
     įtakos viršūnę. Jos atstovai vienu metu sėdėjo Lietuvos, Lenkijos, Čekijos
     (1471–1526) ir Vengrijos (1490–1506) sostuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

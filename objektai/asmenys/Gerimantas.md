@@ -51,32 +51,12 @@ Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniau
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 471541-472185; hash=48f20ed28e893834b601bdca6bf1029a6cc82e2d2d7be95ffe53ffd2521de351; match=exact
-  sprendimo_priezastis: gap::people
-  ryšio_patikimumas: buvo_sunus -> Šventaragis: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gerimantas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Šventaragis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Šventaragis buvo Gerimanto tėvas.
 - t-003
   teiginys: 'Narbutas perteikia Mitrofano Pinskiečio metraščio žinią, kad Gerimantui sumanius statyti šventyklą Šventaragis siuntė pasiuntinius pas Nemuno orakulą.'
   pagrindžia:
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 471608-472495; hash=87a7bfb625151387150d675f28a0606fdc296cb8f40e2aa7e5f44df2116cc9b0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Šventaragis: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gerimantas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Šventaragis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Šventaragis buvo Gerimanto tėvas.
 - susijęs iš Mitrofano Pinskiečio rusiškas metraštis: Narbutas Mitrofano Pinskiečio rusiškam metraščiui priskiria pasakojimą, kad Šventaragis 1263 m. siuntė pasiuntinius pas Nemuno orakulą dėl Gerimanto statomos šventyklos ateities.
 - susijęs iš [[objektai/asmenys/Šventaragis.md#claim-t-188653|Šventaragis]]: Narbutas, remdamasis senu pasakojimu, rašo, kad Šventaragis 1263 m. siuntė pasiuntinius pas Nemuno upės orakulą klausti apie šventyklos ateitį.
 - susijęs iš [[objektai/autoriai/Mitrofanas Pinskietis.md#claim-t-190442|Mitrofanas Pinskietis]]: Narbutas Mitrofano Pinskiečio metraščiui priskiria pasakojimą, kad 1263 m. Šventaragis siuntė pasiuntinius pas Nemuno orakulą.
@@ -100,13 +80,10 @@ Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniau
     kulą Žemaitijoje, klausdamas, kokia būsianti šventyklos at­
     eitis.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-002
+    - t-002- c-002
   santrauka: 'Narbutas perteikia Mitrofano Pinskiečio metraščio žinią, kad Gerimantui sumanius statyti šventyklą Šventaragis siuntė pasiuntinius pas Nemuno orakulą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -127,10 +104,8 @@ Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniau
     dvigubo kryžiaus ženklu: tai ji buvo orakulo dovana kuni­
     gaikščiui.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 

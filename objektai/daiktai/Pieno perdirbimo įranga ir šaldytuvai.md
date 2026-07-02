@@ -44,8 +44,6 @@ Nenurodyta
 - t-001
   global_id: t-45532
   teiginys: 'Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir pašalina citatoje esantį nereikalingą kontekstą.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -62,7 +60,6 @@ Nenurodyta
     dirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir
     mėsos produktų eksportas į užsienį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -81,7 +78,6 @@ Nenurodyta
     Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
     nais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

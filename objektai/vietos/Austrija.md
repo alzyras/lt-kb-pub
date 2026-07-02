@@ -32,8 +32,6 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 - t-001
   global_id: t-182067
   teiginys: 'Per Abiejų Tautų Respublikos padalijimus Kotryna II trečdalį padalytos valstybės turėjo užleisti Prūsijai ir Austrijai.'
-  sudarymo_pagrindimas: 'Pašalintas perteklinis kontekstas ir suformuluotas aiškus faktinis sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Kotryna II|Kotryna II]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -41,15 +39,8 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 - t-002
   global_id: t-182996
   teiginys: 'Austrijos Juozapas II vykdė reformas, kuriomis net Bažnyčią pajungė valstybės valdžiai.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra kontekstinis fragmentas; citata leidžia suformuluoti savarankišką faktą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 809142-809395; hash=4a1a50d2f6af4bbed316e01c6533046c69e8f581658c25428910d4c25b5d7813; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59880|Bertoldas, vadinamas Briuhavenu]]: 1289 m. Meinhardas Ragainės piliai ginti paliko iš Austrijos kilusį komtūrą Bertoldą Briuhaveną su 40 brolių ir 100 ginklanešių.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63421|Albrechtas (Romos karalius)]]: 1308 m. gegužės 1 d. Romos karalių Albrechtą nužudė kunigaikštis Jonas Anlantas, iš kurio buvo atimta Austrijos kunigaikštystė.
 - susijęs iš [[objektai/asmenys/Augustas III.md#claim-t-82227|Augustas III]]: Po Augusto II mirties Rusija, Austrija ir Prūsija priešinosi tiek Fridriko Augusto, tiek Leščinskio išrinkimui į sostą.
@@ -224,7 +215,6 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
     mas valstybės valdžiai (jozefinizmas). Dėl šitų reiškinių visas perio-
     das vadinamas šviesiojo absoliutizmo laikotarpiu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -241,7 +231,6 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
     kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai. Tai sudarė
     visai naują epochą Lietuvos istorijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -14,9 +14,9 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-description: 'Kęstutis – Trakų ir vakarų pasienio valdovas, kovojęs su kryžiuočiais, 1381 m. perėmęs Vilnių ir 1382 m. žuvęs Krėvoje.'
-socialDescription: 'Kęstutis: Trakų valdovas, kryžiuočių spaudimo atrama ir vidaus kovų auka, 1382 m. gyvenimą baigusi Krėvos kalėjime.'
-seo_atnaujinta: '2026-07-02T19:20:23.291297+03:00'
+description: 'Kęstutis – Trakų ir vakarų Lietuvos pasienio valdovas, siejamas su kovomis prieš kryžiuočius, 1381 m. valdžia Vilniuje ir Krėvos drama.'
+socialDescription: 'Kęstutis – Trakų valdovas ir vakarų pasienio gynėjas, kurio istorija jungia kovas su kryžiuočiais, valdžios kovą Vilniuje ir tragišką žūtį Krėvoje.'
+seo_atnaujinta: '2026-07-02T20:14:54.764524+03:00'
 seo_policy_version: 'seo_summary_v1'
 seo_nepakanka_duomenu: 'false'
 sukurta: ''
@@ -32,7 +32,7 @@ tags:
 
 ## Santrauka
 
-Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio svarbiausias uždavinys buvo atlaikyti kryžiuočių puolimus. Šaltiniai jį sieja su Trakų pilimis, derybomis dėl krikšto ir 1381 m. valdžios perėmimu Vilniuje. Jo gyvenimo pabaiga aprašoma kaip vidaus kovų drama: po konflikto su Jogaila Kęstutis buvo įkalintas Krėvoje ir 1382 m. nužudytas.
+Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio pagrindinė misija buvo ginti pavojingiausią sritį nuo kryžiuočių puolimų. Šaltiniai jį sieja su Trakų pilimis, krikšto derybomis, 1381 m. valdžios perėmimu Vilniuje ir dramatiška konflikto su Jogaila baigtimi. Po kalinimo Krėvoje Kęstutis buvo nužudytas, o jo gyvenimo pabaiga pabrėžiama kaip vidaus kovų tragedija.
 
 ## Vaidmenys
 
@@ -44,9 +44,6 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
 - t-001
   global_id: t-05188
   teiginys: 'Kęstutis buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1382 m. palaidotas pagoniškais papročiais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]'
-  temporaliniai_duomenys: 'mirties data: iki 1385 m.; mirties data: 1259 m.; mirties data: 1377 m.; mirties data: 1382 m.; mirties data: 1385 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip mirties data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-015
 
@@ -54,11 +51,6 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
 - t-002
   global_id: t-05189
   teiginys: '1381 m. Kęstutis, išvaręs Jogailą, tapo vyriausiuoju Lietuvos valdovu ir atsisėdo Vilniaus pilyje.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Kęstučio veiksmą ir statusą, remiamą citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
-  temporaliniai_duomenys: 'įvykio data: 1381 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Kęstučio veiksmą ir statusą, remiamą citata.'
   pagrindžia:
     - c-013
 
@@ -66,8 +58,6 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
 - t-003
   global_id: t-05191
   teiginys: 'Kęstutis gyvenimą baigė kalėjime, o ne kautynių lauke.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Kęstučio gyvenimo pabaigą ir atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija'
   pagrindžia:
     - c-002
     - c-003
@@ -76,11 +66,6 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
 - t-004
   global_id: t-10092
   teiginys: 'Manoma, kad Kęstutis Trakų pusiasalio pilį pastatė iki 1377 m.'
-  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti Kęstutį kaip veikėją.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'pastatymo data: iki 1377 m.; pastatymo data: 1377 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip pastatymo data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti Kęstutį kaip veikėją.'
   pagrindžia:
     - c-031
     - c-006
@@ -89,7 +74,6 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
 - t-005
   global_id: t-10688
   teiginys: 'Kęstutis buvo pagrindinis Lietuvos vakarų pasienio gynėjas nuo kryžiuočių puolimų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Jonas Hanulaitis|Jonas Hanulaitis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -97,7 +81,6 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
 - t-006
   global_id: t-10689
   teiginys: 'Kęstutis pastatė mūro pilį Trakų ežero saloje.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; llm_object: Trakai'
   pagrindžia:
     - c-007
 
@@ -105,9 +88,6 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
 - t-007
   global_id: t-10692
   teiginys: 'Kęstutis kartu su sūnumi Vytautu pradėjo partizanišką karą prieš kryžiuočius.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1835 m.; įvykio data: 1870 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-012
 
@@ -115,45 +95,20 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
 - t-008
   global_id: t-10693
   teiginys: 'Po penkių dienų kalinimo Krėvoje Kęstutis buvo nužudytas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Krėva'
   pagrindžia:
     - c-008
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9701ca7ef555dd55923219ddece989424f4b0d76f4be6dbb86a568cc896554f4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176515"></a>
 - t-009
   global_id: t-176515
   teiginys: 'Kęstučio laikų vidaus kivirčų metu Vilniaus gyventojai išlaikė ištikimybę ir prieraišumą valdovui.'
-  sudarymo_pagrindimas: 'Citata pagrindžia faktą apie Vilniaus gyventojų laikyseną kivirčų su Kęstučiu metu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-022
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e7d405b0c97f58a4b0b66031da136005960db67238886c6c2bf25b6413a1c1c2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=45
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176516"></a>
 - t-010
   global_id: t-176516
   teiginys: 'Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei kunigaikščių buveinei.'
-  sudarymo_pagrindimas: 'Teiginys gramatiškas ir pagrįstas citata apie Trakų pilies pritaikymą buveinei.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-020
 
@@ -161,30 +116,13 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
 - t-011
   global_id: t-176517
   teiginys: 'Kęstutis su Vytautu atvyko į priešo stovyklą tartis, bet buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir pasmaugtas.'
-  sudarymo_pagrindimas: 'Citata pagrindžia įvykių seką, o pradinis tekstas buvo sumaišytas su išnašų triukšmu.'
-  susije_objektai: 'mentioned_place: Krėva; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Jonas Hanulaitis|Jonas Hanulaitis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Trakai'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 717270-717613; hash=2e62410b95cc6bbe2859226a2b925e2b4298c992776fab8140590cb0b6d2e95c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176518"></a>
 - t-012
   global_id: t-176518
   teiginys: '1365 m. Kęstutis su Algirdu, Patriku ir Aleksandru įsiveržė į Ordino valdas ir po žygio dievams ugnyje paaukojo vokietį belaisvį.'
-  sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir atitinka citatoje pateiktą informaciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Patrikas|Patrikas]]; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1365 m.; įvykio data: 1378 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus, gramatiškas ir atitinka citatoje pateiktą informaciją.'
   pagrindžia:
     - c-014
 
@@ -192,12 +130,6 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
 - t-013
   global_id: t-176519
   teiginys: '1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Kęstučio veiksmą ir datą.'
-  susije_objektai: 'llm_object: Vilniaus pilis; mentioned_place: Vilniaus pilis; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] puolė Vilniaus pilis'
-  temporaliniai_duomenys: 'įvykio data: 1345 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą Kęstučio veiksmą ir datą.'
   pagrindžia:
     - c-010
 
@@ -205,104 +137,41 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
 - t-014
   global_id: t-176520
   teiginys: 'Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei buveinei.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatos informaciją apie Trakų pilį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-019
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 95185-95999; hash=ac3bc5e29fedb4ab3d15a5be53189fc4cf9fdb7947df1625160f9900ccc1819b; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=9
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176523"></a>
 - t-015
   global_id: t-176523
   teiginys: 'Kęstučio palaikai Skirgailos rūpesčiu buvo nuvežti į Vilnių ir turėjo būti sudeginti pagal pagonių paprotį.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Kęstučio palaikų nuvežimą ir numatytą sudeginimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Europa; mentioned_place: Krėva'
   pagrindžia:
     - c-011
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d58e2e66fa6bf7146b7582573af7997f1c62b0385361fc88723eb874b96b35ef; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176524"></a>
 - t-016
   global_id: t-176524
   teiginys: 'Balińskis Kęstutį laiko pagrindine kliūtimi Jogailos siekiui sustiprinti vienvaldystę dėl jo autoriteto, karo šlovės ir nepalenkiamo būdo.'
-  sudarymo_pagrindimas: 'Citata perteikia autoriaus interpretaciją, todėl reikia aiškios atribucijos.'
-  susije_objektai: 'mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fa09d1164858c6f1bc0d5ec6bff3ba831250955f8f3871511d0f237dba98a000; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=66
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176525"></a>
 - t-017
   global_id: t-176525
   teiginys: 'Kęstutis krikštu kaip priemone gintis nuo Vokiečių ordino karų daug nepasitikėjo.'
-  sudarymo_pagrindimas: 'Citata palaiko Kęstučio nepasitikėjimą krikštu kaip politine priemone.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-021
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d58e2e66fa6bf7146b7582573af7997f1c62b0385361fc88723eb874b96b35ef; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176528"></a>
 - t-018
   global_id: t-176528
   teiginys: 'Kęstutis buvo Gedimino sūnus ir vienas iš Lietuvos kunigaikščių.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai|Įsivaizduojami Lietuvos valdovų portretai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1838 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-009
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a45faa8db2f0c324d1d62a6e7e02d32149cbbec02867f9e129995a64fdcab175; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176529"></a>
 - t-019
   global_id: t-176529
   teiginys: 'Jogaila pažadėjo Žemaičius kryžiuočiams, kai jų remiamas nugalėjo Kęstutį.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatos teiginiu apie Jogailos pažadą po Kęstučio nugalėjimo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-016
 
@@ -310,11 +179,6 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
 - t-020
   global_id: t-176530
   teiginys: 'Manoma, kad Kęstutis iki 1377 m. pastatė pilį, kuri 1414–1430 m. buvo perstatyta ir baigta Vytauto valdymo metu.'
-  sudarymo_pagrindimas: 'Pradinis tekstas sujungia kelis sakinius ir turi būti sutrauktas į vieną aiškų teiginį.'
-  susije_objektai: 'mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'pastatymo data: iki 1377 m.; pastatymo data: 1377 m.; pastatymo data: 1414-1430; pastatymo data: 1430 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip pastatymo data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis tekstas sujungia kelis sakinius ir turi būti sutrauktas į vieną aiškų teiginį.'
   pagrindžia:
     - c-017
 
@@ -322,8 +186,6 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
 - t-021
   global_id: t-176531
   teiginys: 'Kęstutis valdė Žemaitijoje ir dar Gediminui gyvam esant buvo išgarsėjęs mūšiais su Mazovija, Rusia ir Prūsijos ordinu.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Kęstučio valdą ir karinę reputaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Vitebskas'
   pagrindžia:
     - c-018
 
@@ -331,11 +193,6 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
 - t-022
   global_id: t-176532
   teiginys: 'Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas.'
-  sudarymo_pagrindimas: 'Pradiniame teiginyje yra puslapio ir antraštės triukšmo, citata palaiko glaustą genealoginį faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai|Įsivaizduojami Lietuvos valdovų portretai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1838 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje yra puslapio ir antraštės triukšmo, citata palaiko glaustą genealoginį faktą.'
   pagrindžia:
     - c-009
 
@@ -343,11 +200,6 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
 - t-024
   global_id: t-184761
   teiginys: 'Kojelavičius Kęstutį laikė didžiausios autoriaus pagarbos nusipelniusiu Lietuvos istorijos veikėju.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra apie autoriaus vertinimą, todėl reikia aiškios atribucijos ir tvarkingos formuluotės.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-023
 
@@ -355,11 +207,6 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
 - t-025
   global_id: t-184762
   teiginys: 'Kęstutis lapkričio 22 dieną slapta įvedė kariuomenę į Vilnių ir paryčiu užėmė abi pilis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Trakai; mentioned_place: Vitebskas'
   pagrindžia:
     - c-024
 
@@ -367,187 +214,62 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
 - t-026
   global_id: t-184763
   teiginys: 'Algirdas su broliu Kęstučiu skubiai aptarė žygūno atneštą reikalą ir slapta pasirengė karui.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pirminis teiginys klaidingai priskiria veiksmą Kęstučiui; citata rodo Algirdo veiksmą su Kęstučiu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva'
   pagrindžia:
     - c-025
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=6e30559324d0e7b0d9b7f3dd546fba3a64a1ca5d4b8ef2bde0ab0bd6582938ed; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Skirgaila: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person
-  ryšio_targeto_parinkimas: Skirgaila: mention_match, person, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Skirgaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184764"></a>
 - t-027
   global_id: t-184764
   teiginys: 'Kęstutis valdė dideles žemes Rusioje, kai kitas Algirdo brolis Liubartas valdė Lvovą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pagrindžia glaustą faktą apie Kęstučio valdas Rusioje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lvovas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-026
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1e9aeb0972b828f1a107bc45003b31b90b1bd827578e819e38b8f3246c9a43fa; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184765"></a>
 - t-028
   global_id: t-184765
   teiginys: 'Kazimiero žygio metu lietuvių pulkas buvo išsklaidytas, o Kęstutis gyvas pateko į priešų rankas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintas puslapio antraštės triukšmas; faktas aiškiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]'
   pagrindžia:
     - c-027
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d58e2e66fa6bf7146b7582573af7997f1c62b0385361fc88723eb874b96b35ef; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184766"></a>
 - t-029
   global_id: t-184766
   teiginys: 'Kęstutis paspruko iš kalėjimo ir su broliu Liubartu įvedė kariuomenę į karaliaus užimtas Rusios žemes.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Kęstučio veiksmus ir remiasi citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]'
   pagrindžia:
     - c-028
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 78735-79335; hash=cabdd3d92093f7860ed1b57b60853c84db01e8833614ecaf66d22640d8ea748f; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Gediminas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184767"></a>
 - t-030
   global_id: t-184767
   teiginys: 'Henrikas Ekersbergas ietimi smogė Kęstučio arkliui iš šono, nubloškė Kęstutį nuo žirgo, ir Kęstutis pateko į priešų rankas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Kęstučio patekimą į nelaisvę ir yra pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Patrikas|Patrikas]]; mentioned_place: Viena'
   pagrindžia:
     - c-029
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 95185-95999; hash=ac3bc5e29fedb4ab3d15a5be53189fc4cf9fdb7947df1625160f9900ccc1819b; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=63
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184768"></a>
 - t-031
   global_id: t-184768
   teiginys: 'Kęstutis rengė didesnį žygį prieš Prūsiją ir telkė Lietuvos, Žemaitijos, Rusios bei totorių pajėgas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie Kęstučio pasirengimą žygiui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
   pagrindžia:
     - c-030
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 134698-135152; hash=cb90c8fea7f96f2cc359bfd959ae4cfecb3f849ff3265c55fabd6314a7c41d2a; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=38
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184769"></a>
 - t-032
   global_id: t-184769
   teiginys: 'Sugrįžęs į Lietuvą, Kęstutis vedė vaidilutę Birutę, bet netrukus kryžiuočiai užpuolė Žemaitiją.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia faktą; pašalintas perteklinis literatūrinis kontekstas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Leopoldas|Leopoldas]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-031
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 248181-248822; hash=11966fb8a51028e6aa41ebd9a2b4125d40c01e68760b69c3fba3d09c26db6ae6; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vilniaus gyventojai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person
-  ryšio_targeto_parinkimas: Vilniaus gyventojai: mention_match, group, gap=36
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Vilniaus gyventojai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184770"></a>
 - t-033
   global_id: t-184770
   teiginys: 'Kęstutis Žemaitijoje surinko kariuomenę, persikėlė per Nerį, susijungė su Vytautu ir pradėjo pulti Trakus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalinta perteklinė skubos detalė, paliktas aiškus faktų sakinys.'
-  susije_objektai: 'mentioned_place: Neris; mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Mazovija; mentioned_place: Severskas'
   pagrindžia:
     - c-032
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9f783b8ce729549ddc87d0300af99225e5e267c7d2c4120f9353d87747e5e37d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184771"></a>
 - t-034
   global_id: t-184771
   teiginys: 'Kęstutis žinojo, kad Jogailos kariuomenė pranoksta jo pajėgas ginkluote ir karių skaičiumi.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pagrindžia faktą, o Jogaila aiškiai įvardijamas tolesniame kontekste.'
-  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-033
 
@@ -555,11 +277,6 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
 - t-035
   global_id: t-184772
   teiginys: 'Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir citata tiesiogiai palaiko Kęstučio suėmimą.'
-  susije_objektai: 'mentioned_place: Krėva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/budeliai|budeliai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-034
 
@@ -571,16 +288,6 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     - c-035
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 268056-268683; hash=2ee54b6249e8ba1cc3f3bb073dec550430d67f1ce8491ae7f2c4ba329589b6ff; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Vilniaus pilis: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vilniaus pilis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Frazė tiesiogiai sako, kad Kęstutis užpuolė Vilniaus pilis.
 <a id="claim-t-188575"></a>
 - t-037
   global_id: t-188575
@@ -589,16 +296,6 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     - c-036
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 364111-364502; hash=2ff09660dd30d343df32beed1842c4a081d8ba75ec8e653ec5a5f748bbd1685a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Gediminas: 0.87
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Gediminas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginyje Kęstutis aiškiai apibūdintas kaip Gedimino sūnus.
 <a id="claim-t-188576"></a>
 - t-038
   global_id: t-188576
@@ -607,16 +304,6 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     - c-037
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 481788-482270; hash=74ee13c20154978dda100ec808658064fc0fd3f4be61bb03fd3b86874e7fff4e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Trakai: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gediminas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai priskiria Naujųjų Trakų įkūrimą Gediminui; artimiausia leistina semantika yra pastatymas.
 - susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40370|Narimantas Gediminaitis]]: Rusų metraščiai mini, kad vokiečiai mūšyje nukovė kunigaikštį Narimantą Gediminaitį, Algirdo ir Kęstučio brolį.
 - susijęs iš [[objektai/asmenys/Patirgas.md#claim-t-96040|Patirgas]]: Patirgas buvo vyriausias Kęstučio sūnus ir 1348-1365 m. laikotarpiu lydėjo Algirdo bei Kęstučio žygius.
 - susijęs iš [[objektai/asmenys/Tautvila.md#claim-t-87601|Tautvila]]: Lietuvos kunigaikštis Tautvila, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.
@@ -1227,13 +914,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     viso gyvenimo tikslas buvo atlaikyti kryžiuočių puolimus. Al-
     girdas čia jam visada padėdavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-- c-002
+    - t-005- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Darydamas taiką su Vengrijos karaliumi Liudviku Anjou,
@@ -1243,13 +928,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     priversti ordiną grąžinti Lietuvai atimtas jos žemes ir ją ginti nuo
     kryžiuočių ir totorių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-- c-003
+    - t-003- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Didysis kovotojas savo gyvenimą baigė ne kautynių lauke, o
@@ -1258,13 +941,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     bę paties didžiojo ordino spaudimo metu. Bet Kęstučiui, ypač į
     gyvenimo galą, reikėjo pakelti ir eilę asmeniškų smūgių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-- c-004
+    - t-003- c-004
   santrauka: 'Jogailai siekiant didelės valdžios, Kęstutis jam trukdė dėdės autoritetu, mūšių šlove ir nepalenkiamu būdu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1286,14 +967,12 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     tovia [Jogaila, arba Jagėla, Dievo ma­
     lone lietuvių karalius].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
-    - t-014
-- c-005
+    - t-014- c-005
   santrauka: 'Kęstutis su Vytautu atvyko į priešo stovyklą tartis, bet buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir pasmaugtas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1349,26 +1028,22 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     tas į Krėvą, uždarytas tos pilies bokšte ir penktą naktį kelių
     budelių pasmaugtas36.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
-- c-006
+    - t-011- c-006
   santrauka: 'Manoma, kad Kęstutis Trakų pusiasalio pilį pastatė iki 1377 m.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Trakų pusiasalio pilis, XIV a. pab. XV a. pr.
     Manoma, kad pilį pastatė LDK Kęstutis iki 1377 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-- c-007
+    - t-004- c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, jis buvo pačiam valstybės branduolio cen-
@@ -1377,13 +1052,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą
     laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-- c-008
+    - t-006- c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tas pakvietė juos į Vilnių, kur abudu
@@ -1393,13 +1066,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     išvežė į Krėvos pilį, o Vytautą paliko Vilniuje. Krėvoje iška-
     lėjęs 5 dienas, Kęstutis buvo nužudytas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008
-- c-009
+    - t-008- c-009
   santrauka: 'Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1415,15 +1086,13 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
     čių dinastija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
     - t-018
-    - t-023
-- c-010
+    - t-023- c-010
   santrauka: '1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1438,13 +1107,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
     nigaikščio buveinę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
-- c-011
+    - t-013- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau, apsuptas išdavikų,
@@ -1459,13 +1126,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
     neišvengiamos pražūties.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016
-- c-012
+    - t-016- c-012
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Žuvusiam maršalkai Schindekopui pamin-
@@ -1479,13 +1144,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     pajėgdami paimti pilių, jie naikino miestus ir apylinkes. Tada
     Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-- c-013
+    - t-007- c-013
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Prie Gedimino
@@ -1495,13 +1158,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     riausiuoju Lietuvos valdovu tetapo 1381, kai pats, išvaręs Jogailą,
     atsisėdo Vilniaus pilyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-- c-014
+    - t-002- c-014
   santrauka: '1365 m. Kęstutis su Algirdu, Patriku ir Aleksandru įsiveržė į Ordino valdas ir po žygio dievams ugnyje paaukojo vokietį belaisvį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -1512,13 +1173,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     paaukoti dievams (diis sacrificare voluerunt) pilies komtūrą, bet Kęstutis nepritaręs
     (SRP, 2, 596).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012
-- c-015
+    - t-012- c-015
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     « Lietuvos diecezijai » buvo lemta greitai žlugti,
@@ -1531,13 +1190,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     1382 m.), ir savo valdomą lietuvių tautą patys tebelaikė dar pago­
     niška.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-- c-016
+    - t-001- c-016
   santrauka: 'Jogaila pažadėjo Žemaičius kryžiuočiams, kai jų remiamas nugalėjo Kęstutį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1548,13 +1205,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     abiem atvejais už Žemaičių užrašymą naudojosi ordino pagalba
     (1382-1384, 1390-1392).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019
-- c-017
+    - t-019- c-017
   santrauka: 'Manoma, kad Kęstutis iki 1377 m. pastatė pilį, kuri 1414–1430 m. buvo perstatyta ir baigta Vytauto valdymo metu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1563,13 +1218,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     Pilis perstatyta ir baigta statyti valdant Lietuvos
     didžiajam kunigaikščiui Vytautui 1414-1430 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020
-- c-018
+    - t-020- c-018
   santrauka: 'Kęstutis valdė Žemaitijoje ir dar Gediminui gyvam esant buvo išgarsėjęs mūšiais su Mazovija, Rusia ir Prūsijos ordinu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1585,13 +1238,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     ko apsilpo krašto galia, kuo mokėjo pasinaudoti Ordino
     riteriai, gviešęsi grobio ir valdžios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021
-- c-019
+    - t-021- c-019
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trakų pilis, reikia many­
@@ -1615,13 +1266,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     mo Galve, buvęs kunigaikščio žvė­
     rynas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017
-- c-020
+    - t-017- c-020
   santrauka: 'Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei kunigaikščių buveinei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1639,13 +1288,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     latinei buveinei, paversdami galingų
     kunigaikščių garbei derančia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
-- c-021
+    - t-010- c-021
   santrauka: 'Kęstutis krikštu kaip priemone gintis nuo Vokiečių ordino karų daug nepasitikėjo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1657,13 +1304,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     kratyti Kęstučiu ir Vytautu, nukreipė akis į šią priemonę. Ji­
     sai susidėjo su Vok.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017
-- c-022
+    - t-017- c-022
   santrauka: 'Kęstučio laikų vidaus kivirčų metu Vilniaus gyventojai išlaikė ištikimybę ir prieraišumą valdovui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1685,13 +1330,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     rašytu Merkinėje, kitą dieną po Šv. Benedikto, abato, šven­
     tės, valdovas Vilniui suteikė Magdeburgo teises15.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009
-- c-023
+    - t-009- c-023
   santrauka: 'Kojelavičius Kęstutį laikė didžiausios autoriaus pagarbos nusipelniusiu Lietuvos istorijos veikėju.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1703,13 +1346,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     likimo smūgį", surasdavo „išeitį iš bemaž beviltiškos
     padėties".
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024
-- c-024
+    - t-024- c-024
   santrauka: 'Kęstutis lapkričio 22 dieną slapta įvedė kariuomenę į Vilnių ir paryčiu užėmė abi pilis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1734,13 +1375,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     kalus, lapkričio 22 dieną slapta į Vilnių įvedė kariuo­
     menę ir paryčiu užėmė abi pilis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025
-- c-025
+    - t-025- c-025
   santrauka: 'Algirdas su broliu Kęstučiu skubiai aptarė žygūno atneštą reikalą ir slapta pasirengė karui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1755,13 +1394,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     vėnios vidurį sutartą dieną jie pasirodė prie Vitebsko,
     kariuomenė ir patraukė į Maskvą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026
-- c-026
+    - t-026- c-026
   santrauka: 'Kęstutis valdė dideles žemes Rusioje, kai kitas Algirdo brolis Liubartas valdė Lvovą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1774,13 +1411,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     iš karto susidūrę su daugybe kliūčių ir karo sunkeny­
     bių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027
-- c-027
+    - t-027- c-027
   santrauka: 'Kazimiero žygio metu lietuvių pulkas buvo išsklaidytas, o Kęstutis gyvas pateko į priešų rankas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1801,13 +1436,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     metu Vladimire apsuptas Liubartas išvengė lenkų ne­
     laisvės dėl vieno kario ypatingo drąsumo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-028
-- c-028
+    - t-028- c-028
   santrauka: 'Kęstutis paspruko iš kalėjimo ir su broliu Liubartu įvedė kariuomenę į karaliaus užimtas Rusios žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1824,13 +1457,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     liu Liubartu įvedė į karaliaus užimtas Rusios žemes
     kariuomenę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029
-- c-029
+    - t-029- c-029
   santrauka: 'Henrikas Ekersbergas ietimi smogė Kęstučio arkliui iš šono, nubloškė Kęstutį nuo žirgo, ir Kęstutis pateko į priešų rankas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1858,13 +1489,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     susilaukė bemaž tokio pat likimo: kryžiuotis Henri­
     kas Hochbergas ietimi nutrenkė jį nuo žirgo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-030
-- c-030
+    - t-030- c-030
   santrauka: 'Kęstutis rengė didesnį žygį prieš Prūsiją ir telkė Lietuvos, Žemaitijos, Rusios bei totorių pajėgas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1883,13 +1512,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     maitijos ir Rusios", bet ir su pakviestais į pagalbinin­
     kus totoriais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-031
-- c-031
+    - t-031- c-031
   santrauka: 'Sugrįžęs į Lietuvą, Kęstutis vedė vaidilutę Birutę, bet netrukus kryžiuočiai užpuolė Žemaitiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1905,13 +1532,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     pulkus keturiomis žygio vo­
     romis, nusiaubė visą kraštą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-032
-- c-032
+    - t-032- c-032
   santrauka: 'Kęstutis Žemaitijoje surinko kariuomenę, persikėlė per Nerį, susijungė su Vytautu ir pradėjo pulti Trakus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1934,13 +1559,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     ėmimą ir kad neleistų tuščiai laiko, jis pradėjo pulti
     Trakus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-033
-- c-033
+    - t-033- c-033
   santrauka: 'Kęstutis žinojo, kad Jogailos kariuomenė pranoksta jo pajėgas ginkluote ir karių skaičiumi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1960,13 +1583,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     dis klastingais žodžiais nei pulti kovų užgrūdintus vy-
     monėmis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034
-- c-034
+    - t-034- c-034
   santrauka: 'Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1991,13 +1612,11 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     kša, Bilgenis, Lisica ir kiti)
     Krėvos kalėjime jį pasmaugė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-035
-- c-035
+    - t-035- c-035
   santrauka: 'Narbutas rašė, kad Kęstutis su Birute turėjo sūnus Patriką, Vytautą, Tautvilą, Sigailą arba Žygimantą ir dukterį Danutę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -2013,13 +1632,10 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
     Sigailą, arba Žygimantą, bei dukterį Danutę.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-036
-- c-036
+    - t-036- c-036
   santrauka: 'Narbutas rašė, kad Kęstutis, Gedimino ir Smolensko kunigaikštytės Olgos sūnus, gimė 1297 metais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -2031,13 +1647,10 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
     stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-037
-- c-037
+    - t-037- c-037
   santrauka: 'Narbutas taisė Okolskį ir Strijkovskį, teigdamas, kad Naujuosius Trakus įkūrė Gediminas, o ne Kęstutis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -2050,10 +1663,8 @@ Kęstutis vaizduojamas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio 
     Risietis, taigi jiems nebuvo reikalo skolintis iš svetimos kalbos
     daikto pavadinimo, nes jį turėjo savo pačių kalboje.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-038
 

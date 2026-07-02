@@ -48,20 +48,8 @@ Nenurodyta
 - t-001
   global_id: t-59700
   teiginys: 'Aukaimio pilėnas Draika slapta atidarė pilies vartus brolių kariuomenei, kuri įsiveržė į pilį.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas pasakojimu apie vartų atidarymą.'
-  susije_objektai: 'llm_object: Aukaimis; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/pilėnas|pilėnas]]; mentioned_person: [[objektai/asmenys/Pinas|Pinas]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]; mentioned_place: Aukaimis; mentioned_place: Ragainė; llm_object: Ragainė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 607344-608593; hash=2c2ff5cb2853132f5d452627e4675adb8eaa007e26e0b24812af8e053e78ce1a; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Aukaimis: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Aukaimis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad brolių kariuomenė patraukė prieš Aukaimio pilį.
 - susijęs iš [[objektai/asmenys/Sirenas.md#claim-t-184125|Sirenas]]: Sirenas nutraukė grandines ir gynė Kristburgo pilies tiltą, kol buvo uždaryti pilies vartai.
 - susijęs iš [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas.md#claim-t-89395|Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]: Rinavos sembai mėgino pulti Fišhauzeno pilį, bet pasitraukė nepasiekę tikslo.
 - susijęs iš [[objektai/zodynas/šikšnogalis diržas.md#claim-t-58932|šikšnogalis diržas]]: Fišhauzeno pilies vartus buvo galima atverti patraukus prie jų kabantį šikšnogalį, arba diržą.
@@ -90,7 +78,6 @@ Nenurodyta
     sužeistas. Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį
     Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

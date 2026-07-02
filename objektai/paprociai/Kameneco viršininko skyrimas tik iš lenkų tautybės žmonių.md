@@ -39,26 +39,8 @@ Nenurodyta
 - t-001
   global_id: t-185917
   teiginys: 'Lenkai paskelbė nutarimą, kad ateityje Kameneco viršininku turi būti skiriamas tik lenkų tautybės žmogus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR intarpų; citata palaiko konkretų nutarimą.'
-  susije_objektai: 'mentioned_place: Kamenecas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Podolė'
-  temporaliniai_duomenys: 'įvykio data: 1405 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR intarpų; citata palaiko konkretų nutarimą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 634915-635565; hash=38ce4cb73988edee6d3813f04c128ea8f59b43065b94eb679ec905e8f47cdd67; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kamenecas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kameneco viršininko skyrimas tik iš lenkų tautybės žmonių: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Kamenecas: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kameneco viršininko skyrimas tik iš lenkų tautybės žmonių" parinktas kaip owner_note_path. Targetas "Kamenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -98,10 +80,8 @@ Nenurodyta
     gailos suktybių, nutarė kuo greičiausiai paremti darbais
     pasirašytą taikos sutartį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

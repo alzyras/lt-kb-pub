@@ -44,7 +44,6 @@ Nenurodyta
 - t-001
   global_id: t-67168
   teiginys: 'Motriškosios ilgai dėvėjo senovinius nuometus ir nenorėjo jų mesti nuo galvos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Nuometai|Nuometai]]'
   pagrindžia:
     - c-002
 
@@ -52,7 +51,6 @@ Nenurodyta
 - t-002
   global_id: t-67170
   teiginys: 'Išeigai moterys dėvėjo kitokį drabužį, o nuotakos vestuvių metu segėjo rūtų vainikus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]'
   pagrindžia:
     - c-001
 
@@ -73,7 +71,6 @@ Nenurodyta
         klastės marškonomis sagėmis, kurias galėjo kaip tinkamos nuo vieno peties ar nuo abiedviejų
         numesti, kursai apdaras didžiai jas gašijo^344 : dirvose, pievose trūsėdamos it gulbės svyravo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -86,7 +83,6 @@ Nenurodyta
         nes kad nukris nuometai nuo mūsų galvų, tad jūs nebatginsit jų su savo skaleliais nuo savo pūrų ir
         sėsit juos ne sau, bet varnams.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

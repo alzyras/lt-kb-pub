@@ -35,20 +35,8 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
 - t-001
   global_id: t-23432
   teiginys: 'Amfiktionija buvo senovės graikų polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti.'
-  sudarymo_pagrindimas: 'Pradinė formuluotė per ilga ir labiau aiškina Romuvos analogiją.'
-  susije_objektai: 'mentioned_place: Nadruva; mentioned_place: Romuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=03be5a901c1a1b588edb6b6de918bcfa724786c303b1ace5536ee3f308f34303; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nadruva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: amfiktionija: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Nadruva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "amfiktionija" parinktas kaip owner_note_path. Targetas "Nadruva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -63,14 +51,11 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
     (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
     sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Amfiktionija buvo senovės graikų polių sąjunga, sudaryta tarpgentinėje teritorijoje esančiai šventovei ginti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -81,10 +66,8 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
     sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti. Ro-
     muvoje pagrindinis kulto objektas buvo ugnis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002

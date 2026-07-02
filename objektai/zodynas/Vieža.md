@@ -27,7 +27,6 @@ Vartojamos formos: `viežą`, `viežos`.
 - t-001
   global_id: t-07713
   teiginys: 'Vieža buvo bausmės duobė, iš kurios vėlesniais laikais buvo galima išsipirkti pinigais.'
-  sudarymo_pagrindimas: 'Įvardytas objektas ir suformuluotas aiškus faktinis sakinys.'
   pagrindžia:
     - c-001
 
@@ -35,8 +34,6 @@ Vartojamos formos: `viežą`, `viežos`.
 - t-002
   global_id: t-07714
   teiginys: 'Vieža Daukanto tekste buvo žemėje iškasta, kartais išmūryta duobė kaltininkams nustatytą laiką kalinti.'
-  sudarymo_pagrindimas: 'Citata remia aiškesnę ir konkretesnę termino reikšmę.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/Dybas.md#claim-t-08289|Dybas]]: Kaltininkus pririšdavo prie dybo ir plakdavo.
@@ -53,7 +50,6 @@ Vartojamos formos: `viežą`, `viežos`.
         vėžys pakerėj turėjo lindoti. Tuos, kurie svetimas bites kieme ar girioj bartis^1130 išlaužė, prikalus
         bambą prie aulio ar drevės, varė apsukui pliekdami, lig žarnos neišėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

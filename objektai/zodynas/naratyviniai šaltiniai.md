@@ -30,8 +30,6 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
 - t-001
   global_id: t-56938
   teiginys: 'Viduramžių rašytiniai istoriniai šaltiniai skirstomi į dokumentus, juridinius ir pasakojamuosius, arba naratyvinius, šaltinius.'
-  sudarymo_pagrindimas: 'Teiginys apibrėžia naratyvinius šaltinius ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 
@@ -60,7 +58,6 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
     nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
     Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

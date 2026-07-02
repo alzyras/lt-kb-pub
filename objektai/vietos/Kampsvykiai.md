@@ -32,62 +32,22 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 - t-001
   global_id: t-58445
   teiginys: 'Kampsvykių pilis taip pat tapatinama su Kamantų piliakalniu kairiajame Vangrapės krante, į šiaurę nuo Darkiemio.'
-  sudarymo_pagrindimas: 'Citata remia alternatyvią lokalizaciją, todėl teiginys perrašytas glaustai.'
-  susije_objektai: 'mentioned_place: Vangrapė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b75bf393521205baa358c09ca064f6e5470274c5d996775f45d846e95c1c3517; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Nadruva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kampsvykiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Nadruva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kampsvykiai" parinktas kaip owner_note_path. Targetas "Nadruva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58446"></a>
 - t-002
   global_id: t-58446
   teiginys: '1275 m. sunaikinta nadruvių Kampsvykių pilis lokalizuojama Kampsvykalnyje, dešiniajame Vangrapės krante.'
-  sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiau sietųsi su Kampsvykiais, o ne vien su Kampsvykalniu.'
-  susije_objektai: 'mentioned_place: Vangrapė; llm_object: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Lietuva; mentioned_place: Nadruva'
-  semantiniai_rysiai: 'Kampsvykiai priklausė [[objektai/grupes/Nadruviai|Nadruviai]]'
-  temporaliniai_duomenys: 'įvykio data: 400 m; įvykio data: 1275 m.; įvykio data: 1366 m.; įvykio data: 1371 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Perrašyta, kad teiginys aiškiau sietųsi su Kampsvykiais, o ne vien su Kampsvykalniu.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 480731-481436; hash=60e66dba7ad46f1c01d4c460a3846aa54c5d259085e90f140088e865541ae6f0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Nadruviai: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kampsvykiai: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Nadruviai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citata tiesiogiai vadina pilį nadruvių pilimi.
 
 <a id="claim-t-58447"></a>
 - t-003
   global_id: t-58447
   teiginys: 'Magistras su didele kariuomene užpuolė prie Arsos upės stovėjusią Kampsvykių pilį ir ją sudegino iki pamatų.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Kampsvykių pilį ir remiasi citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Nadruva'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 482154-482921; hash=4f64f159e365b31c02b323cf45d45bcf29bf74a6c996d50a9e5aa38fc5b484f9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vangrapė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kampsvykiai: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Vangrapė: mention_match, place, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kampsvykiai" parinktas kaip owner_note_path. Targetas "Vangrapė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Kampsvykių pilies užkariavimas.md#claim-t-62307|Kampsvykių pilies užkariavimas (pilis)]]: Magistras su didele kariuomene užpuolė prie Arsos upės stovėjusią Kampsvykių pilį, išžudė jos karius ir sudegino pilį iki pamatų.
 - susijęs iš Arsa: Kampsvykių pilis stovėjo prie Arsos upės, o Ordino broliai po puolimo ją sudegino iki pamatų.
 - susijęs iš Arsa: Arsa resp. Arsė tapatinta ir su Vangrape (Tepenas M.).
@@ -107,7 +67,6 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
     leistų, mūsų nuomone, Dusburgiečio aprašytos pilies vietą sieti su vėlesne kryžiuočių
     Tamoviškių pilimi į rytus nuo Įsruties. Problemą patikslintų archeologiniai tyrimai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -128,7 +87,6 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
     nadruvių pilis (HE, p. 161; CV, t. 34, p. 129) bei vėlesnė Ordino Tamoviškių pilis (1366
     m.— Cammow, 1371 m. ir vėliau — Tammow — SRP, 2, p. 557, 570, 578, 581).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -152,7 +110,6 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 
                  179 (174).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

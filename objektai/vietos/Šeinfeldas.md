@@ -29,24 +29,8 @@ Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drab
 - t-001
   global_id: t-26300
   teiginys: '1948 m. Šeinfeldo stovykloje Vokietijoje Lietuvos pabėgėliai rinkosi dalijamus drabužius.'
-  sudarymo_pagrindimas: 'Iš antraštės pašalintas OCR triukšmas ir suformuluotas pilnas sakinys.'
-  susije_objektai: 'llm_object: Vokietija; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_place: Lietuva; mentioned_place: Vokietija; mentioned_place: Baltija'
-  semantiniai_rysiai: 'Šeinfeldas priklausė Vokietija'
-  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1948 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Iš antraštės pašalintas OCR triukšmas ir suformuluotas pilnas sakinys.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=859ce10ea2348f4263446a441d230323dce9ddb6ec72c067ac1e643ebe5a3de5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Vokietija: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Šeinfeldas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Vokietija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai lokalizuoja Šeinfeldą Vokietijoje.
 
 ## Reikšmingi paminėjimai
 
@@ -64,7 +48,6 @@ Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drab
     tos JAV bankuose laikytos Baltijos valstybių
     lėšos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

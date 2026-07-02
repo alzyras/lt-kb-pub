@@ -27,11 +27,6 @@ Su ja Maskvos kunigaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva ti
 - t-001
   global_id: t-92088
   teiginys: '1427 m. pabaigoje Vytauto palaikomas Machmetas galutinai įsigalėjo tarp Pavolgio, Juodmarių pakraščio ir Krymo totorių.'
-  sudarymo_pagrindimas: 'Sakinys pataisytas į sklandžią formą ir pašalinta pažodinė fragmento konstrukcija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Machmetas|Machmetas]]; mentioned_place: Krymas'
-  temporaliniai_duomenys: 'įvykio data: 1427 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys pataisytas į sklandžią formą ir pašalinta pažodinė fragmento konstrukcija.'
   pagrindžia:
     - c-001
 
@@ -47,7 +42,6 @@ Su ja Maskvos kunigaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva ti
     lėjo galutinai. Jis suima savo valdžion visus Pavolgio, Juod­
     marių pakraščio ir Krymo totorius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -29,53 +29,22 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
 - t-001
   global_id: t-60950
   teiginys: 'Didžiųjų magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lietuvius Prerochą ir Corantą.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie šaltinį ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Mazovija; mentioned_place: Prūsų žemė'
-  temporaliniai_duomenys: 'įvykio data: 1217 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie šaltinį ir atitinka citatos turinį.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 137123-137432; hash=7b72bb64de52eba638a33e57d0e48f0089ee22231987b1c2d7ba50739b87f640; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžiųjų magistrų jaunesnioji kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=71
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiųjų magistrų jaunesnioji kronika" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60951"></a>
 - t-002
   global_id: t-60951
   teiginys: 'Vėlesnėje didžiojo magistro kronikoje Skomantas vadinamas lietuvių vadu.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Gardinas; mentioned_place: Naugardukas'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 429495-429700; hash=56f34ac08f4d68fb1fffda5e47f27f495908039c5b42859bd985b9bfd6fa20fc; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-60952"></a>
 - t-003
   global_id: t-60952
   teiginys: 'Naujojoje didžiojo magistro kronikoje minima pilis patikslinama kaip Cenauwe.'
-  sudarymo_pagrindimas: 'Pašalintas puslapio numeris ir glaudžiau suformuluota citatos paremta mintis.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 464283-464611; hash=508764f401f51f0f4bbd1cd628ced251744528942e79e7c84abe18a64db2d913; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Didžiųjų magistrų jaunesnioji kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiųjų magistrų jaunesnioji kronika" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -87,7 +56,6 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
     kitur — Connuvedit (GAO, p. 70; Hennenberger C., Erclerung.., p. 43; VBK; Ewald A. L.,
     Die Eroberung.., 4, 109; Sch-K).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -104,7 +72,6 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
       Mazovijos kunigaikštis Konradas galėjęs bandyti atsipirkti nuo prūsų antpuolių po
     1216—1217 m.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -119,7 +86,6 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
     (Paszkiewicz H., Jagiellonowie.., p. 130—131). Vėlesnėje didžiojo magistro kronikoje
     Skomantas vadinamas lietuvių vadu (der Letouwen hoiftman — SRP, 5, p. 110).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

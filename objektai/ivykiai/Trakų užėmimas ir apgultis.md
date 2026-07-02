@@ -42,23 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-100045
   teiginys: '1383 m. Vytautas, Žemaičiuose surinkęs gausų kovotojų būrį, su magistru Zollneriu žygiavo prie Skirgailos valdomų Trakų.'
-  sudarymo_pagrindimas: 'Vietoj dalinio įvardijimo „Kęstutaitis“ aiškiai įvardytas Vytautas ir pašalintas perteklinis skaičiaus fragmentas.'
-  susije_objektai: 'mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Lietuva; llm_object: Trakai'
-  temporaliniai_duomenys: 'įvykio data: 1383 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Vietoj dalinio įvardijimo „Kęstutaitis“ aiškiai įvardytas Vytautas ir pašalintas perteklinis skaičiaus fragmentas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 764524-765113; hash=7b4107611d4632a6404cbcb938433925cf9273d7afc07297f30e03088fa8ba5c; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: apgule -> Trakai: 0.75
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata sieja kryžiuočių įgulą Trakuose su vėlesne Trakų apgultimi.
 
 ## Reikšmingi paminėjimai
 
@@ -76,7 +61,6 @@ Nenurodyta
     globotinis, nežiūrint kad gerai buvo pasiruošę, nuo sostinės turėjo
     su nesėkme grįžti ir taip 1383 metus baigė be jokių laimėjimų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

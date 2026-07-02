@@ -34,301 +34,111 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
 - t-001
   global_id: t-90011
   teiginys: 'Sventopelkas pastatė Santyro pilį Vyslos ir Nogato santakoje ir joje įkurdino brolių valdinius puldinėjusius vyrus.'
-  sudarymo_pagrindimas: 'Pirminio teiginio apie sutarties sulaužymą citata nepagrindžia, bet remia Santyro pilies faktą.'
-  susije_objektai: 'llm_object: Santyras; mentioned_place: Nogatas; mentioned_place: Santyras; mentioned_place: Vysla'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] pastatė Santyras'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 61938-62291; hash=130478f45c1d94dae8cacae149cb1a8af72a62758f8a26c64f1d816bf8e496e9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsų žemė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sventopelkas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=30
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sventopelkas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-90012"></a>
 - t-002
   global_id: t-90012
   teiginys: 'Prūsai išsirinko Sventopelką savo vyresniuoju ir vadu prieš antpuolį į Prūsijos žemutines apygardas.'
-  sudarymo_pagrindimas: 'Pašalintas fragmentiškumas ir paliktas citatos paremtas faktas apie Sventopelko vaidmenį.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_place: Elbingas; mentioned_place: Prūsų žemė; mentioned_place: Vokietija'
   pagrindžia:
     - c-021
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 277979-279071; hash=9de8348cc441ee5f33ca7dec5b59344c5c71978e13ddae59eef15cb8440a6191; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Teutonai: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Sąjungos tikslas buvo jėga išvaryti Teutonų ordino brolius iš Prūsijos.
 
 <a id="claim-t-90013"></a>
 - t-003
   global_id: t-90013
   teiginys: 'Dusburgietis pasakoja, kad Sventopelkas su dviem tūkstančiais karių įsiveržė į Kulmo žemę ir po nesėkmės traukėsi prie laivų.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Kulmas; mentioned_place: Elbingas; mentioned_place: Pomeranija; llm_object: Elbingas'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] puolė Elbingas'
   pagrindžia:
     - c-010
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 293212-294137; hash=fcd85c41c1a2adca22506c4a67dd74e04c52a1ef92c32869b45c656eaaa5121b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kulmas: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata rodo Sventopelko kariuomenės judėjimą prie Kulmo miesto ir pilies karo veiksmų kontekste.
 
 <a id="claim-t-90014"></a>
 - t-004
   global_id: t-90014
   teiginys: 'Dusburgietis Sventopelką vaizduoja kaip su prūsais bendradarbiavusį „išdaviką“.'
-  susije_objektai: 'mentioned_place: Prūsų žemė; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dobrynė; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 299379-300017; hash=fd60b2c0a040809de9fdf75541f21a7be6d7aabca77f7479e262211bab48e1e5; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sventopelkas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sventopelkas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-90015"></a>
 - t-005
   global_id: t-90015
   teiginys: '1253 m. Sventopelko karas baigėsi, o Pomeranijos kunigaikštis iki gyvenimo pabaigos laikėsi sutarties su broliais.'
-  sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir paremtas citatos pabaigos informacija.'
-  susije_objektai: 'llm_object: Pomeranija; mentioned_place: Pomeranija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_person: [[objektai/asmenys/Henrikas Botelis|Henrikas Botelis]]; mentioned_place: Barta; mentioned_place: Durbė; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_place: Torunė; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo valdovas Pomeranija; [[objektai/asmenys/Sventopelkas|Sventopelkas]] sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  temporaliniai_duomenys: 'valdymo laikotarpis: po 1246 m.; valdymo laikotarpis: 1246 m.; valdymo laikotarpis: 1253 m.; valdymo laikotarpis: 1254 m.; valdymo laikotarpis: 1260 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip valdymo laikotarpis su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, gramatiškas ir paremtas citatos pabaigos informacija.'
   pagrindžia:
     - c-011
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 300136-301050; hash=c36d753a822f1a1beac843300a86a3dd41474133895b411aa12baf0882987953; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kulmas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Sventopelko įsiveržimą į Kulmo žemę.
 
 <a id="claim-t-90016"></a>
 - t-006
   global_id: t-90016
   teiginys: 'Sventopelkas subūrė du tūkstančius karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, glaustas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Kulmas; mentioned_place: Kulmas; mentioned_place: Vysla; mentioned_place: Pomeranija; llm_object: Vysla'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] puolė Kulmas; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Vysla'
   pagrindžia:
     - c-019
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 301675-302455; hash=a995092d03a514c5ef524b114b4f1f4e6c229c338e4b75d920d5ca348875c6f2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Laivai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sventopelkas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Laivai: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sventopelkas" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-90017"></a>
 - t-007
   global_id: t-90017
   teiginys: 'Dusburgietis pasakoja, kad prūsai išsirinko Sventopelką savo vyresniuoju bei vadu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Vysla'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 303673-304359; hash=2c16fa3036af72cbe8e624047b34e8087e22229cf88c0c12ab4dccbfc934fdeb; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-90018"></a>
 - t-008
   global_id: t-90018
   teiginys: 'Sventopelkas sutelkė savo kariuomenę ir Prūsijos naujakrikščius keršyti broliams dėl jų užimtos pamedėnų pilies.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Sventopelko motyvą ir veiksmą, paremtą citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_place: Prūsija; mentioned_place: Kristburgas; mentioned_place: Viena'
   pagrindžia:
     - c-022
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 304360-304728; hash=77db0bb07c12274c5cbd5ffb51d96cb15893fc051d3b56d4d1884a4559dc934f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Santyras: 0.98
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Santyras: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Sventopelkas pastatė Santyro pilį.
 
 <a id="claim-t-90019"></a>
 - t-009
   global_id: t-90019
   teiginys: 'Petras Dusburgietis Pamario kunigaikštį Sventopelką vadina išdaviku dėl bendradarbiavimo su prūsais prieš Ordiną.'
-  sudarymo_pagrindimas: 'Citata kalba apie autoriaus vertinimą, todėl reikia šaltinio atribucijos.'
-  susije_objektai: 'llm_object: Pamaris; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Pamaris; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo valdovas Pamaris; [[objektai/asmenys/Sventopelkas|Sventopelkas]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-025
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 305101-305819; hash=289efe1a235d54ff8fd09d4f62a68e7dadef005628ac892290044abbc28b0b58; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Santyras: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Santyras: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata Sventopelko veiksmų kontekste mini Santyro pilį kaip pastatytą kenkti tikėjimui.
 
 <a id="claim-t-90020"></a>
 - t-010
   global_id: t-90020
   teiginys: '1245 m. Sventopelkas pradėjo statyti Sveče pavadintą pilį, turėjusią trukdyti broliams plaukioti Vysla.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_place: Vysla; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Kulmas; mentioned_place: Santyras; mentioned_place: Torunė; llm_object: Santyras'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] pastatė Santyras'
-  temporaliniai_duomenys: 'įvykio data: 1245 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai atitinka citatos informaciją.'
   pagrindžia:
     - c-014
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 308300-308881; hash=7bd409f599b078a9665c4abc27a27f02d79ff809ccb0605b1f411768a15400d4; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Elbingas: 0.76
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata kalba apie Elbingo pilies ir miesto puolimą ir ketinimą juos užimti.
 
 <a id="claim-t-90021"></a>
 - t-011
   global_id: t-90021
   teiginys: 'Sventopelkas sutelkė didelę kariuomenę ir patraukė prie Elbingo pilies bei miesto, ketindamas juos užimti.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Sventopelko veiksmą ir ketinimą, remiamą citata.'
-  susije_objektai: 'llm_object: Elbingas; mentioned_place: Elbingas; mentioned_place: Pomeranija'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] puolė Elbingas'
   pagrindžia:
     - c-010
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 316766-317932; hash=2bce3d0bddd6ef434a1acf9816184061d434a726371fe061b0311785d8777a11; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Teutonai: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Sventopelkas ragino saviškius nusikratyti teutonų jungo, todėl priešiškumas teutonams tiesiogiai išreikštas.
 
 <a id="claim-t-90022"></a>
 - t-012
   global_id: t-90022
   teiginys: '1246 m. karo pasakojime Dusburgietis Sventopelkui priskiria kovinę kalbą ir didelius nuostolius.'
-  susije_objektai: 'llm_object: Pomeranija; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Pomeranija; mentioned_place: Vysla'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo valdovas Pomeranija'
-  temporaliniai_duomenys: 'įvykio data: 1246 m.; įvykio data: 1299 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-018
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 328594-329107; hash=003e74a72bdb1176bcf65a07a9ac84b07b5d444e62c3ce91804a61fba525bbe9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kristburgas: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kristburgas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Skyriaus antraštė ir tekstas rodo Sventopelko kariuomenės veiksmą prieš pilį Kristburgo paėmimo epizode.
 
 <a id="claim-t-90023"></a>
 - t-013
   global_id: t-90023
   teiginys: 'Sventopelkas pareiškė nesiliausiąs persekioti savo priešų, jeigu broliai negrąžins jam sūnaus.'
-  sudarymo_pagrindimas: 'Pirminio teiginio apie taiką citata nepagrindžia, bet ji remia šį konkretų Sventopelko pareiškimą.'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 418751-419937; hash=24a4f1e1fb418104c6358b98281447b6ec1046feaf0565915f24c8c94331d976; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Pomeranija: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Pomeranija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai vadina Sventopelką Pomeranijos kunigaikščiu.
 
 <a id="claim-t-90024"></a>
 - t-014
   global_id: t-90024
   teiginys: '1244 m. atvykus Ordino pastiprinimui, Sventopelkas pabandė susitaikyti su broliais, ir senoji taika buvo atnaujinta.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą 1244 m. įvykį.'
-  susije_objektai: 'mentioned_place: Austrija; mentioned_place: Kulmas'
-  temporaliniai_duomenys: 'įvykio data: 1244 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje nurodytą 1244 m. įvykį.'
   pagrindžia:
     - c-020
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f18a12177cf382a7cd5d255132f906aa2b0fd8856c3790f8351a4350d40cfca5; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Pamaris: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Pamaris: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Sventopelkas tiesiogiai įvardytas Pamario kunigaikščiu.
 
 <a id="claim-t-90025"></a>
 - t-015
   global_id: t-90025
   teiginys: 'Sventopelkas po metų sulaužė taikos sutartį ir su naujakrikščiais atkritėliais bei sūduviais nusiaubė Kulmo žemę.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia sutarties sulaužymą ir Kulmo žemės nuniokojimą.'
-  susije_objektai: 'llm_object: Kulmas; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_place: Pomeranija; mentioned_place: Prūsija; llm_object: [[objektai/grupes/Sūduviai|Sūduviai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] puolė Kulmas; [[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo sąjungininkas su [[objektai/grupes/Sūduviai|Sūduviai]]'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 244197-246508; hash=b4c854d76a2174c3fd3ef91f95b03823a719fcc03c617810a1b07b27909d7ecd; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Pomeranija: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Pomeranija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai vadina Sventopelką Pomeranijos kunigaikščiu.
 
 <a id="claim-t-90026"></a>
 - t-016
   global_id: t-90026
   teiginys: 'Šiame gabale Sventopelkas siejamas su taikos atnaujinimu, nauju jos sulaužymu ir Santyro pilies pastatymu.'
-  susije_objektai: 'mentioned_place: Santyras; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Druzigeris|Druzigeris]]; mentioned_place: Austrija; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_place: Vokietija; llm_object: [[objektai/grupes/Teutonai|Teutonai]]; llm_object: [[objektai/grupes/Pomeranai|Pomeranai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] kariavo prieš [[objektai/grupes/Teutonai|Teutonai]]; [[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo sąjungininkas su [[objektai/grupes/Pomeranai|Pomeranai]]'
   pagrindžia:
     - c-009
 
@@ -336,271 +146,100 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
 - t-017
   global_id: t-90027
   teiginys: 'Dusburgietis vaizduoja Sventopelką kaip po mūšio brolių valdinius viliojusį valdovą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Kulmas; mentioned_place: Prūsija; mentioned_place: Santyras; mentioned_place: Vysla; llm_object: Santyras'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] pastatė Santyras'
   pagrindžia:
     - c-008
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=32caf85931470305ba711dfd41c75095aa62ec31f4a86d12c4a8d183b7b8f37e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Teutonai: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Tekste aiškiai nurodytas Sventopelko sąjungos tikslas prieš Teutonų ordino brolius.
 
 <a id="claim-t-90028"></a>
 - t-018
   global_id: t-90028
   teiginys: 'Sventopelkas pastatė Svečės pilį ir kelis kartus kariavo prieš brolius bei Kazimierą.'
-  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_place: Svečė; mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_place: Kristburgas; mentioned_place: Prūsija; mentioned_place: Viena; llm_object: Kristburgas'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] puolė Kristburgas'
   pagrindžia:
     - c-022
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 281668-282212; hash=1e5b9acd53e5e66d529953b2ee46259cfb0a21c2850ec9fdf8cf79e9560d52b9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sventopelkas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sventopelkas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-90029"></a>
 - t-019
   global_id: t-90029
   teiginys: 'Dusburgietis Sventopelką vaizduoja kaip Prūsijos tikėjimo ir tikinčiųjų persekiotoją.'
-  susije_objektai: 'llm_object: Kulmas; mentioned_place: Prūsija; mentioned_place: Kulmas; mentioned_place: Pomeranija'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] puolė Kulmas'
   pagrindžia:
     - c-019
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=072834ecc0710947b45bfc2393eb5155e765af4b3d116c355e0ad23eaf0dc10a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Antspaudas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sventopelkas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Antspaudas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sventopelkas" parinktas kaip owner_note_path. Targetas "Antspaudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-90030"></a>
 - t-020
   global_id: t-90030
   teiginys: 'Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą.'
-  sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiesiogiai pagrįstas citata apie Marienverderio statybą.'
-  susije_objektai: 'llm_object: Pomeranija; llm_object: Marienverderis; mentioned_place: Marienverderis; mentioned_place: Pomeranija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_person: [[objektai/asmenys/Odoničius|Odoničius]]; mentioned_place: Bebras; mentioned_place: Kaimas; mentioned_place: Krokuva; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Nogatas; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_place: Rizenburgas; mentioned_place: Vroclavas; mentioned_place: Vysla'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo valdovas Pomeranija; [[objektai/asmenys/Sventopelkas|Sventopelkas]] pastatė Marienverderis'
-  temporaliniai_duomenys: 'kelionės data: 1217 m.; kelionės data: 1232 m.; kelionės data: 1234 m.; kelionės data: apie 1234 m.; kelionės data: 1347 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Sventopelkas keliavo į Marienverderis“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas ir tiesiogiai pagrįstas citata apie Marienverderio statybą.'
   pagrindžia:
     - c-023
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 293212-294137; hash=fcd85c41c1a2adca22506c4a67dd74e04c52a1ef92c32869b45c656eaaa5121b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kulmas: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Sventopelko kariuomenė nusiaubė Kulmo žemę.
 
 <a id="claim-t-90031"></a>
 - t-021
   global_id: t-90031
   teiginys: 'Dusburgietis pasakoja, kad kitame epizode Sventopelkas su Samboru užstojo prūsams kelius ir prisidėjo prie jų triuškinimo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]'
   pagrindžia:
     - c-012
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 299379-300017; hash=fd60b2c0a040809de9fdf75541f21a7be6d7aabca77f7479e262211bab48e1e5; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-90033"></a>
 - t-023
   global_id: t-90033
   teiginys: 'Sventopelkas ragino neseniai Kristaus tikėjimą priėmusius prūsus jėga išvaryti Teutonų ordino brolius iš Prūsijos.'
-  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas; citata palaiko aiškų Sventopelko veiksmą.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_place: Pomeranija; mentioned_place: Vysla; llm_object: Pomeranija'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] kariavo prieš [[objektai/grupes/Teutonai|Teutonai]]; [[objektai/asmenys/Sventopelkas|Sventopelkas]] valdė Pomeranija'
   pagrindžia:
     - c-017
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 303045-303672; hash=3c36192cb76746da91a755d4fe5c230dc7a1e236f8b42ff34f47e9151be5bfbe; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Austrija: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sventopelkas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Austrija: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sventopelkas" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-90034"></a>
 - t-024
   global_id: t-90034
   teiginys: 'Sventopelkas per Henriką iš Lichtenšteino skundėsi broliais ir reikalavo grąžinti sūnų, duotą jiems kaip įkaitą.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Sventopelko derybinį kreipimąsi ir reikalavimą grąžinti įkaitą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]'
   pagrindžia:
     - c-016
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5e77ec7a5e00d94f59057cc2b1f77a2a02a7a7ae817fbe0bcc670858472b7863; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Santyras: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Santyras: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata Sventopelko kontekste mini Santyro pilį kaip pastatytą kenkti tikėjimui.
 
 <a id="claim-t-90035"></a>
 - t-025
   global_id: t-90035
   teiginys: 'Sventopelkas taikos sąlygomis turėjo atiduoti broliams Sartovicų pilį ir įkaitais atsiųsti sūnų Mstivojų, Vimarą ir Vojaką.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo taikos sąlygas ir yra paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]'
   pagrindžia:
     - c-013
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 308300-308881; hash=7bd409f599b078a9665c4abc27a27f02d79ff809ccb0605b1f411768a15400d4; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Elbingas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Elbingas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai aprašo Sventopelko žygį prie Elbingo pilies ir miesto ketinant juos užimti.
 
 <a id="claim-t-90036"></a>
 - t-026
   global_id: t-90036
   teiginys: 'Prieš mirtį Sventopelkas sušaukė savo sūnus ir patarė jiems niekada nesipriešinti Ordino broliams.'
-  sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas; citata palaiko paskutinės valios turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Pomeranija; mentioned_place: Vysla'
-  temporaliniai_duomenys: 'įvykio data: 1299 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys fragmentiškas; citata palaiko paskutinės valios turinį.'
   pagrindžia:
     - c-018
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f4a0698f55b3c280280588200e18746f72c92e58f6ae0ab64d410183359e5502; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Teutonai: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Teutonai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Sventopelkas ragino saviškius nusikratyti teutonų jungo, todėl priešiškumas teutonams tiesiogiai išreikštas.
 
 <a id="claim-t-90037"></a>
 - t-027
   global_id: t-90037
   teiginys: 'Sventopelkas su kariuomene atvyko stiprinti Marienverderio miesto ir pilies.'
-  susije_objektai: 'mentioned_place: Marienverderis; mentioned_place: Kulmas; mentioned_place: Pomeranija; mentioned_place: Prūsija; llm_object: Kulmas'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] puolė Kulmas'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=95400a7b048cfdfdf98661d16b396f39f9e8dfbb0de3dab3970721a73432fe4f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Krikščionys: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sventopelkas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Krikščionys: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sventopelkas" parinktas kaip owner_note_path. Targetas "Krikščionys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-90038"></a>
 - t-028
   global_id: t-90038
   teiginys: 'Po brolių pralaimėjimo mūšyje Sventopelkas mėgino įkalbinėjimais ir dovanomis palenkti jų valdinius į savo pusę.'
-  sudarymo_pagrindimas: 'Pašalintas vertinamasis perteklius ir antraštės triukšmas.'
   pagrindžia:
     - c-012
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 328594-329107; hash=003e74a72bdb1176bcf65a07a9ac84b07b5d444e62c3ce91804a61fba525bbe9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pamedėnai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sventopelkas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Pamedėnai: mention_match, group, gap=96
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sventopelkas" parinktas kaip owner_note_path. Targetas "Pamedėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-90039"></a>
 - t-029
   global_id: t-90039
   teiginys: 'Sventopelkas, buvęs Pomeranijos kunigaikštis, turėjo keturis sūnus: Mstivojų, Samborą, Vartislavą ir dar vieną sūnų.'
-  sudarymo_pagrindimas: 'Citata palaiko šeimos faktą, o pradinį sakinį reikia nuvalyti nuo antraštės.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Vartislavas (Sventopelko sūnus)|Vartislavas (Sventopelko sūnus)]]; llm_object: Pomeranija; mentioned_person: [[objektai/asmenys/Vartislavas (Sventopelko sūnus)|Vartislavas (Sventopelko sūnus)]]; mentioned_place: Pomeranija; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Poterbergas; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo sūnus [[objektai/asmenys/Vartislavas (Sventopelko sūnus)|Vartislavas (Sventopelko sūnus)]]; [[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo valdovas Pomeranija'
   pagrindžia:
     - c-015
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 337622-338805; hash=bf6bc69aa2974ca7a344d6950a9ec74bb6510edf0696ba201f12c1be7e0b3a02; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_valdovas -> Pomeranija: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Pomeranija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai vadina Sventopelką Pomeranijos kunigaikščiu.
 
 <a id="claim-t-90040"></a>
 - t-030
   global_id: t-90040
   teiginys: 'Sventopelkas sudarė sąjungą su prūsais, kad jie išvarytų Teutonų ordino brolius ir kitus krikščionis iš Prūsijos.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Sventopelko veiksmą, paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_place: Baiga; mentioned_place: Pomeranija; mentioned_place: Vysla; llm_object: Pomeranija'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] kariavo prieš [[objektai/grupes/Teutonai|Teutonai]]; [[objektai/asmenys/Sventopelkas|Sventopelkas]] valdė Pomeranija'
   pagrindžia:
     - c-002
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 418751-419937; hash=24a4f1e1fb418104c6358b98281447b6ec1046feaf0565915f24c8c94331d976; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kulmas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Sventopelkas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Kulmas: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sventopelkas" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-90042"></a>
 - t-031
   global_id: t-90042
   teiginys: 'Sventopelkas sutelkė kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos faktą.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Pomeranija; llm_object: [[objektai/grupes/Teutonai|Teutonai]]; llm_object: [[objektai/grupes/Pomeranai|Pomeranai]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] kariavo prieš [[objektai/grupes/Teutonai|Teutonai]]; [[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo sąjungininkas su [[objektai/grupes/Pomeranai|Pomeranai]]'
   pagrindžia:
     - c-024
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=575d8949c15eea80389dc7b2d5b9ed19f478f87750d79a0eeca784d1776a120a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Vartislavas (Sventopelko sūnus): 0.98
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Sventopelkas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vartislavas (Sventopelko sūnus): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Vartislavas buvo vienas iš Sventopelko sūnų.
 - susijęs iš [[objektai/asmenys/Samboras (Sventopelko sūnus).md#claim-t-60062|Samboras (Sventopelko sūnus)]]: Broliai Sartovicų pilį su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui.
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59896|Mstivojus]]: Sventopelkas turėjo atsiųsti savo pirmagimį sūnų Mstivojų broliams kaip taikos sutarties įkaitą.
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59898|Mstivojus]]: Sventopelko pirmagimis sūnus Mstivojus anksčiau buvo atiduotas kaip įkaitas.
@@ -748,7 +387,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     apie Sventopelko, Lietuvos  ir prūsų bendrą kovą. Karui prieš Sventopelką čia skirta
     didžioji teksto dalis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_vaizdinys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -772,7 +410,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     broliams patarnauti ir pristatyti Elbingo, Baigos bei kitų vietų broliams maisto, kurio
     jiems labai reikėjo.
   citata_rodoma: ''
-  teiginio_tipas: terminas_ar_titulas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -792,7 +429,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     buvo atvykę iš Vokietijos talkinti Prūsijos žemei, o moteris bei kūdikius išsivarė į amžiną
     vergovę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -813,7 +449,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     miesto bei pilies ir čia — išdidūs ir pasipūtę — apsistojo iki vakaro. Po to patraukė iki
     pelkės, vardu Renzenas279, kur naktį ilsėjosi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -833,7 +468,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     ir visi paskendo, išskyrus Sventopelką ir kelis kitus, su juo čia atbėgusius, kai išvengė
     kalavijo282. Šitaip viešpats paguodė savo tautą, patekusią į didžiausią vargą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -853,7 +487,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     nesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su
     manimi gyventi taikiai“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -869,7 +502,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     brolių valdiniams ramiai  plaukioti  nei aukštyn,  nei žemyn, atimdavo  jų  daiktus,
     išsivarydavo juos į nelaisvę ar nugalabydavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -888,7 +520,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
     plaukioti Vysla aukštyn ir žemyn.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -913,7 +544,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     šiais žodžiais: „Rytoj padarysime taip, kad pomeranai ir prūsai amžiams bus nusikratę
     teutonų jungo“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -932,7 +562,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     Todėl kunigaikštis, pamanęs, jog bus sugrįžusi atgal brolių ir miestiečių kariuomenė,
     pasitraukė sugėdintas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -963,7 +592,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     nuo tos dienos, kada prasidėjo Sventopelko karas, kova pasibaigė 1253 ir Prūsijos žemė
     sulaukė taikos312.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -982,7 +610,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     dėl dievo apvaizdos ir brolių apdairumo nė vienas jų nedrįso viešai to rodyti. Šitaip jo
     klastingi užmojai nuėjo niekais, nes jis nieko nepešė su savo piktais sumanymais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1008,7 +635,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     šios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai
     palaikyti, bet nė karto nestojo į kovą su netikėliais nepasitarę su šiuo kunigaikščiu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1028,7 +654,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
     traukti su kariuomene į šią vietą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1046,7 +671,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų
     ordino broliams Prūsijoje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1070,7 +694,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     vienus krikščionis negailestingai išžudydamas, kitus išsivarydamas  į amžiną vergovę,
     todėl ne teisingumo ieškoki, bet pasigailėjimo“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1091,7 +714,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     pakrantėse  ir jose įkurdino nuodėmingus žmones, nedoringus vyrus  ir nusikaltėlius,
     kurie tapo broliams nelyginant kilpa po kaklu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1116,7 +738,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     penkiolika brolių laivų, prikrautų visokiausių reikmenų tikėjimui bei tikintiesiems ginti;
     galop laivininkai turėjo visą krovinį iš laivų išmesti į upę, nes kitaip patys nebūtų pabėgę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1141,7 +762,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     meldė dievą, sakydami: „Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo
     tėvonijos paniekinti“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1164,7 +784,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
 
     atsakyta, ir senoji taika buvo atnaujinta.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1182,7 +801,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     reikalus išmanantį vyrą, užkariavo visas pilis, išskyrus Elbingą ir Baigą, jas ligi pamatų
     išgriovė ir išžudė brolius bei krikščionis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1200,7 +818,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     ir anksčiau, nes buvo be galo suktas; Padalijo kariuomenę į dvi dalis, viena turėjo pulti
     pilį iš priekio, kita — iš kitos pusės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1246,7 +863,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     niekad nebuvo matęs, ir, pastatydami Marienverderio miestą, sustiprino anksčiau įkurtą
     pilį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1270,7 +886,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30
     vyrų, skirtų grobiui saugoti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1288,7 +903,6 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs  į ginkluotą kovą
     prieš Ordiną.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

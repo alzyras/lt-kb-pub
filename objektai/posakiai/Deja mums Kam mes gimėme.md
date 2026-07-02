@@ -22,12 +22,8 @@ Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą 
 - t-001
   global_id: t-59088
   teiginys: 'Broliai posakiu „Deja mums? Kam mes gimėme?“ apgailestavo dėl tautos ir žemės sunaikinimo bei atidavimo nedraugams.'
-  sudarymo_pagrindimas: 'Citata palaiko posakio vartojimą gedulo ir sunaikinimo kontekste.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 295873-296208; hash=5db2649f40f6e8f0c617f0d615ba11bc9057496c7e2f0bb8c08f415254d5ff3b; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -41,7 +37,6 @@ Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą 
     ji atiduodama  į nedraugų rankas?“ „...jos seneliai užmušti, jos jaunikaičiai žuvo nuo
     nedraugų kalavijo“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -52,108 +52,36 @@ Nenurodyta
 - t-001
   global_id: t-186807
   teiginys: 'Bychovco kronikos rankraštį prieš 1830 m. Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje aptiko Ipolitas Klimaševskis.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Bychovco kronikos rankraštį. Jame tiksliai išskleisti citatoje nurodyti radėjas, laikas ir vieta.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ipolitas Klimaševskis|Ipolitas Klimaševskis]]; mentioned_place: Mogiliovcai'
-  temporaliniai_duomenys: 'įvykio data: 1440 m.; įvykio data: 1830 m.; įvykio data: 1831 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Bychovco kronikos rankraštį. Jame tiksliai išskleisti citatoje nurodyti radėjas, laikas ir vieta.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2d84837042918cf177d8005dd6a4a56fc2a62881d78e6c82e91b1fc77385eaa6; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.): 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bychovco kronikos rankraštis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.): mention_match, person, gap=99
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bychovco kronikos rankraštis" parinktas kaip owner_note_path. Targetas "Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186808"></a>
 - t-002
   global_id: t-186808
   teiginys: 'Kita Bychovco kronikos rankraščio spraga vertime buvo užpildyta tekstu iš Lietuvos metraščių PS Račinskio nuorašo.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pašalintas perteklinis priskyrimas ir sukonkretintas teiginio objektas.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=b269c29ae6d853aef106c3c39079050125ebdf7156602487fae9d5b8bac6db02; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: priklause -> Aleksandras Bychovcas (volkovysko apskrities teisėjas): 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bychovco kronikos rankraštis: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Aleksandras Bychovcas (volkovysko apskrities teisėjas): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citatoje Aleksandras Bychovcas tiesiogiai vadinamas rankraščio savininku.
 
 <a id="claim-t-186809"></a>
 - t-003
   global_id: t-186809
   teiginys: 'Bychovco kronikos rankraščio spraga leidime buvo užpildyta tekstu iš Lietuvos metraščių PS antrosios redakcijos Račinskių nuorašo.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pašalinti pasikartojantys komentaro minėjimai ir paliktas aiškus faktas.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kentauras|Kentauras]]; mentioned_person: [[objektai/asmenys/Pajauta|Pajauta]]'
-  temporaliniai_duomenys: 'įvykio data: 1766 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalinti pasikartojantys komentaro minėjimai ir paliktas aiškus faktas.'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=48ddaaac26396af9f10f8774b1f8a37ee8fb51cba5cd5a4b09b7b31da9bf214e; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bychovco kronikos rankraštis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=94
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bychovco kronikos rankraštis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186810"></a>
 - t-004
   global_id: t-186810
   teiginys: 'Bychovco kronikos rankraštis buvo pirmykščio kirilica rašyto teksto transkripcija lotyniškais lenkiškais rašmenimis.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, tikslus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/transkripcija|transkripcija]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d9e90aa63817cb396a7564eb1b4d85804b782c2633187741421dfe7f88d15a31; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bychovco kronikos rankraštis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bychovco kronikos rankraštis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186811"></a>
 - t-005
   global_id: t-186811
   teiginys: 'Aleksandras Bychovcas perdavė Bychovco kronikos rankraštį Vincentui Janovskiui, kuris 1834.II.4 persiuntė jį Teodorui Narbutui į Saurus.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pašalintas boilerplate priskyrimas ir sutvarkyta asmenvardžių bei objekto nuoroda.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Aleksandras Bychovcas|Aleksandras Bychovcas]]; mentioned_person: [[objektai/asmenys/Aleksandras Bychovcas|Aleksandras Bychovcas]]'
-  semantiniai_rysiai: '[[objektai/daiktai/Bychovco kronikos rankraštis|Bychovco kronikos rankraštis]] priklausė [[objektai/asmenys/Aleksandras Bychovcas|Aleksandras Bychovcas]]'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9633203f1782a721d83268a5543889a018f92a2fef0aab4613e35f4d2680c1fc; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
-  ryšio_patikimumas: susije_su -> Lietuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Bychovco kronikos rankraštis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=69
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bychovco kronikos rankraštis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Aleksandras Bychovcas.md#claim-t-186502|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]: Aleksandrui Bychovcui priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas Bychovco kronikos rankraštis.
 - susijęs iš [[objektai/zodynas/nuorašas.md#claim-t-186920|nuorašas]]: Rastasis Bychovco kronikos rankraštis apibūdinamas kaip vėlesnis nuorašas iš blogai išlikusios kopijos.
 - susijęs iš [[objektai/zodynas/transkripcija.md#claim-t-186924|transkripcija]]: Bychovco kronikos rankraštis buvo ne vertimas, o kirilica rašyto teksto transkripcija lotyniškai lenkiškais rašmenimis.
@@ -175,7 +103,6 @@ Nenurodyta
     ką įvertino,4  *
     *  O  šmierci x Zygm unta Kiejsiutowlcza.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -190,7 +117,6 @@ Nenurodyta
     iš Lietuvos metraščių PS Račinskio nuorašo. (PSRL. t. XVII,
     p. 3 0 4 - 305).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -206,7 +132,6 @@ Nenurodyta
     siuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos
     paviete, Nočios parapijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -228,7 +153,6 @@ Nenurodyta
     joje, iš kurios transkribuotas rastasis lankraštis, ar jos
     paties transkribuotojo prirašytos — neišaiškinta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -250,7 +174,6 @@ Nenurodyta
     spragos BK tekstas beveik pažodžiui sutampa su PS antrosios re­
     dakcijos nuorašų tekstais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -22,19 +22,8 @@ LTSR Mokslų Akademijos Istorijos Institutas leidžia kas antri metai knygas : A
 - t-001
   global_id: t-31618
   teiginys: '„Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“ buvo kas dvejus metus leidžiamas LTSR MA Istorijos instituto leidinys.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Tautavičius|A. Tautavičius]]; mentioned_author: [[objektai/autoriai/E. Danilaitė|E. Danilaitė]]; mentioned_author: [[objektai/autoriai/E. Radzvilovaitė|E. Radzvilovaitė]]; mentioned_group: [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas|LTSR Mokslų Akademijos Istorijos Institutas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/J. Stankus|J. Stankus]]; mentioned_object: [[objektai/daiktai/Brūkšniuotoji keramika|Brūkšniuotoji keramika]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1eab7eb9cece5360003c4461a629499797a2469b42660e6e4a27250b0a29aec4; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> A. Tautavičius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: A. Tautavičius: mention_match, author, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje" parinktas kaip owner_note_path. Targetas "A. Tautavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -51,7 +40,6 @@ LTSR Mokslų Akademijos Istorijos Institutas leidžia kas antri metai knygas : A
     _Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje_ ; archeologijos
     skyrių red. A. Tautavičius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

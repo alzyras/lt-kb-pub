@@ -32,23 +32,8 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
 - t-001
   global_id: t-60710
   teiginys: 'B. Guerquin cituojamas teiginiui, kad Ordino konventas iš Santyro į Marienburgo pilį perkeltas 1280 m.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą ir bibliografinę sąsają, o pradinis sakinys yra taisytinas.'
-  susije_objektai: 'mentioned_place: Aukštutinė pilis; mentioned_place: Marienburgas; mentioned_place: Santyras; mentioned_place: Nogatas'
-  temporaliniai_duomenys: 'įvykio data: iki 1279 m.; įvykio data: 1272 m.; įvykio data: 1274 m.; įvykio data: 1275 m.; įvykio data: 1276 m.; įvykio data: 1279 m.; įvykio data: 1280 m.; įvykio data: 1300 m.; įvykio data: apie 1300 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko faktą ir bibliografinę sąsają, o pradinis sakinys yra taisytinas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 524671-525104; hash=16324cd36a6283c02981017f26ad72374627fc0bf5135926c9d668d09548a1bc; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukštutinė pilis: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Guerquin B: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Aukštutinė pilis: mention_match, place, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Guerquin B" parinktas kaip owner_note_path. Targetas "Aukštutinė pilis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -63,7 +48,6 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
     B., Die Gründung..., p. 199; Guerquin B., Zamek w Malborku, p. 6—7; Górski K., Dzieje
     Malborka, р. 22).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

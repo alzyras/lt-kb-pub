@@ -31,47 +31,15 @@ mirė Jogailaičiams priešiškas (A oN Vengrijos karalius Motiejus Huniadis oo 
 - t-001
   global_id: t-79132
   teiginys: 'Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir apima citatoje nurodytą statusą bei mirties metus.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; llm_object: Vengrija; mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_place: Vengrija; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Azovas; mentioned_place: Kijevas; mentioned_place: Krymas; mentioned_place: Lvovas; mentioned_place: Turkija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Motiejus Huniadis|Motiejus Huniadis]] buvo priešas [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; [[objektai/asmenys/Motiejus Huniadis|Motiejus Huniadis]] buvo valdovas Vengrija'
-  temporaliniai_duomenys: 'įvykio data: 1484 m.; įvykio data: 1490 m.; įvykio data: 1506 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir apima citatoje nurodytą statusą bei mirties metus.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7c9ed9def7262ce087eb5e500c02b5f44915119af048cf0a5be197594ea5d728; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Jogailaičiai: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Motiejus Huniadis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jogailaičiai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginyje Huniadis tiesiogiai apibūdintas kaip priešiškas Jogailaičiams.
 
 <a id="claim-t-79133"></a>
 - t-002
   global_id: t-79133
   teiginys: 'Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Motiejų Huniadį ir paremtas citata.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; llm_object: Vengrija; mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Azovas; mentioned_place: Kijevas; mentioned_place: Krymas; mentioned_place: Lvovas; mentioned_place: Turkija; mentioned_place: Vengrija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Motiejus Huniadis|Motiejus Huniadis]] buvo priešas [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; [[objektai/asmenys/Motiejus Huniadis|Motiejus Huniadis]] buvo valdovas Vengrija'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1484 m.; valdymo laikotarpis: 1490 m.; valdymo laikotarpis: 1506 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Motiejus Huniadis buvo valdovas Vengrija“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Motiejų Huniadį ir paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=7c9ed9def7262ce087eb5e500c02b5f44915119af048cf0a5be197594ea5d728; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Jogailaičiai: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Motiejus Huniadis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Jogailaičiai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Motiejus Huniadis buvo priešiškas Jogailaičiams.
 
 ## Reikšmingi paminėjimai
 
@@ -102,7 +70,6 @@ mirė Jogailaičiams priešiškas (A oN Vengrijos karalius Motiejus Huniadis oo 
     : : =] his 40 1484 m. Turkijos sultonas Bajazidas II užėmė Moldavi-
     Ula O Miestai = y?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

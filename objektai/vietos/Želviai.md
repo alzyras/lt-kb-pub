@@ -20,12 +20,8 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 - t-001
   global_id: t-02937
   teiginys: 'Želviuose buvo įkurta pijarų mokykla.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=182928735167e0c15844642f4db1122934a71f940475c4265611acaa62c3ba8f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/grupes/Pijarų ordinas.md#claim-t-72605|Pijarų ordinas]]: Pijarų ordinas turėjo pilnų kolegijų ir žemesniųjų mokyklų Vilniuje, Panevėžyje, Ukmergėje, Raseiniuose, Vitebske ir kitose vietose.
 - susijęs iš Geranainys: Geranainyse buvo įkurta pijarų mokykla.
 - susijęs iš Geranainys: Geranainyse veikė viena iš pijarų įkurtų mokyklų.
@@ -54,7 +50,6 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va-
     leranavoj, Vitebske, Želviuose ir dar vienur kitur.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

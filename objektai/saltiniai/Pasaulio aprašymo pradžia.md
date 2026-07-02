@@ -27,23 +27,8 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
 - t-001
   global_id: t-61216
   teiginys: 'Dublino kodekse išlikusioje „Pasaulio aprašymo pradžioje“ teigiama, kad į šiaurę nuo Prūsijos tęsiasi Semba.'
-  sudarymo_pagrindimas: 'Citata pagrindžia faktą apie šaltinio geografinį teiginį.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Čekija'
-  temporaliniai_duomenys: 'įvykio data: 1255 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą apie šaltinio geografinį teiginį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 172864-173293; hash=260a76c0cf196eba93dcd227cec047fe0f94932613282c0ded863f5b7d38e5a9; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Pasaulio aprašymo pradžia: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=56
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasaulio aprašymo pradžia" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -58,7 +43,6 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
     aquilonem — Colker M. L. America..., p. 721; Samalavičius S., Abramauskas S. Naujas...,
     p. 63).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

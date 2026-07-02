@@ -46,7 +46,6 @@ Nenurodyta
 - t-001
   global_id: t-67083
   teiginys: 'Husarai buvo bajorai, kuriuos karalius ir etmonai pagerbdavo suteikdami draugo vardą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]'
   pagrindžia:
     - c-001
 
@@ -54,7 +53,6 @@ Nenurodyta
 - t-002
   global_id: t-67084
   teiginys: 'Daugelis husarų gaudavo rentas iš etmonų bei didelių senjorų.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]'
   pagrindžia:
     - c-001
 
@@ -62,8 +60,6 @@ Nenurodyta
 - t-003
   global_id: t-67085
   teiginys: 'Husarai buvo bajorai, o daugelis jų gaudavo rentas iš etmonų ir didikų, kuriuos lydėdavo į seimo rinkimus.'
-  sudarymo_pagrindimas: 'Pradiniame teiginyje yra OCR triukšmo ir nutrūkusių fragmentų.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]'
   pagrindžia:
     - c-001
 
@@ -78,7 +74,6 @@ Nenurodyta
     Fax stalo, savo provincijoje yra labai vertinami ir netgi gerbiami, o dauguma gauna rentas iš
     etmonų bei didelių senjorų, kuriuos pagerbdami lydi į seimo rinkimus.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

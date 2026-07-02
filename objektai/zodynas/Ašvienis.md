@@ -27,7 +27,6 @@ Vartojamos formos: `ašvienio`.
 - t-001
   global_id: t-69978
   teiginys: 'Ašvienio neturintis vargdienis galėjo išnuomoti dirvą ar pievą kitam ir gauti pusę javų ar šieno.'
-  sudarymo_pagrindimas: 'Teiginys perrašytas taip, kad aiškiai minėtų žodyno objektą ir remtųsi citatos ūkinio sandorio aprašymu.'
   pagrindžia:
     - c-001
 
@@ -45,7 +44,6 @@ Vartojamos formos: `ašvienio`.
   citata_originali: |
     Vargdienis, neturėdamas ašvienio arba javų, savo dirvą ar pievą kitam išnuomojo, už ką nuo antro paskui pusę javų ar šieno gavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

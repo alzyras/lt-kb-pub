@@ -31,30 +31,13 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
 - t-001
   global_id: t-58421
   teiginys: 'Vonsdorfas buvo suvokietintas Dusburgiečio minimo Unzatrapio pavadinimas.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai aiškina pavadinimo santykį.'
-  susije_objektai: 'mentioned_place: Oliva; mentioned_place: Vonsdorfas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 353349-355304; hash=434c113d781377eddcb17a4c2f8b810945e31a47b7400b6eb05ddc3a18b04207; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> K. Būga: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Unzatrapio žemė: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: K. Būga: mention_match, author, gap=80
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Unzatrapio žemė" parinktas kaip owner_note_path. Targetas "K. Būga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58422"></a>
 - t-002
   global_id: t-58422
   teiginys: 'Karaliaučiaus komtūras su sembų kariuomene netikėtai įsibrovė į Vonsdorfo, arba Unzatrapio, žemę.'
-  sudarymo_pagrindimas: 'Pašalintas OCR ir pastabų triukšmas, paliktas citatos palaikomas faktas apie žemę.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]; mentioned_place: Kapsteta; mentioned_place: Oliva; mentioned_place: Prieglius; mentioned_place: Prūsų žemė; mentioned_place: Tvankstė (pilis); mentioned_place: Vonsdorfas; mentioned_place: Vėluva'
-  temporaliniai_duomenys: 'įvykio data: 1257 m.; įvykio data: 1258 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas OCR ir pastabų triukšmas, paliktas citatos palaikomas faktas apie žemę.'
   pagrindžia:
     - c-001
 
@@ -93,7 +76,6 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
     pilį333 ir ją pavertė pelenais, pilyje bei jos apygardoje paėmė į nelaisvę daugybę žmonių,
     daugybę nukovę, o visą žemę nusiaubė, grobdami ir degindami.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -113,7 +95,6 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
     602), Wansdorf (ten pat, 1, p. 686). Tai suvokietintas D. III, 75 paragrafe minimo
     Unzatrapio (GAO, p. 190; Instraupio —Lietuvių karas, p. 147) pavadinimas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

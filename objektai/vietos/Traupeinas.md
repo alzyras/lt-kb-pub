@@ -29,31 +29,13 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
 - t-001
   global_id: t-58481
   teiginys: 'Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu.'
-  sudarymo_pagrindimas: 'Citata nurodo Traupeino pilies vietą ir apgulties aplinkybes.'
-  susije_objektai: 'llm_object: Traupeinas; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Kristburgas; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Kulmas; mentioned_place: Pilaitė; llm_object: Kulmas'
-  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] apgulė Traupeinas'
-  temporaliniai_duomenys: 'mūšio data: 1265 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Divanas puolė Pagudėnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Divanas puolė Kristburgas“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata nurodo Traupeino pilies vietą ir apgulties aplinkybes.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 436799-437541; hash=a87e87e28df0b1b42e00b650839f8db7a073e1b4be612c0af8a252bc7867a47d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: apgule -> Traupeinas: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pagudėnai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Traupeinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Pagudėnai aiškiai paliko pėstininkus Traupeino pilies apgulai.
 
 <a id="claim-t-58483"></a>
 - t-002
   global_id: t-58483
   teiginys: 'Traupeinas rodyklėje siejamas su vardais Tranpere, Traupeien, vėlesniu Troopen ir dabartiniais Tropais.'
-  sudarymo_pagrindimas: 'Citata pateikia vietovės vardų variantus ir dabartinį tapatinimą.'
-  susije_objektai: 'mentioned_place: Transilvanija'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Kaltis.md#claim-t-60152|Kaltis]]: Kaltis buvo paskirtas pėstininkų, paliktų Traupeino pilies apgulai, vadu.
@@ -76,7 +58,6 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
     kažkokį  Kaltį, o  raiteliai nužygiavo  ligi valsčiaus, vardu Aliamas421, kuriame dabar
       416  Ditrichas iš Rodės Kristburgo komtūru buvo 1262—1265 m.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -94,7 +75,6 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
       Traupis
       Treiderė (Gauja), u.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

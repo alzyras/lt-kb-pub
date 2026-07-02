@@ -21,9 +21,6 @@ Mat žinoma, kad visos vaidilutės buvo nesenos.
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 524109-524424; hash=69eefc279d00a0c60d50d4b16ddc21c337b3ebea57c0e58814ea981a784a5198; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/paprociai/Žynių ir vaidilučių skaistybės norma bei sudeginimo bausmė.md#claim-t-189969|Žynių ir vaidilučių skaistybės norma bei sudeginimo bausmė]]: Narbutas rašo, kad žyniai ir vaidilutės privalėjo likti viengungiai, laikytis nepriekaištingos skaistybės ir už nusižengimą būdavo sudeginami.
 - susijęs iš Stenderio „Lettische Grammatik“: Narbutas Vaidilutes apibūdino kaip žynes, davusias amžinos skaistybės įžadus ir už jų sulaužymą baustas žiauriausia mirtimi.
 - susijęs iš [[objektai/zodynas/Vaidilutės Wejdalotki.md#claim-t-189340|Vaidilutės Wejdalotki]]: Narbutas darė išvadą, kad vaidilutės buvo jaunos merginos, pareigas ėjusios iki nustatytų metų ir vėliau galėjusios ištekėti.
@@ -42,9 +39,7 @@ Mat žinoma, kad visos vaidilutės buvo nesenos.
     nauti dievams pasibaigus skirtam laikui, pasitraukdavo į nuo­
     šalias vietas, kur tapdavo ypatingomis pranašautojomis34.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

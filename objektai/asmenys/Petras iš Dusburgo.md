@@ -18,23 +18,8 @@ Petras iš Dusburgo veikale tvirtino, kad Palemonas Romanovą paskyrė vyriausia
 - t-001
   global_id: t-186246
   teiginys: 'Petras iš Dusburgo veikale tvirtino, kad Palemonas Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškiai priskiria poziciją Petrui iš Dusburgo ir remiasi citata.'
-  susije_objektai: 'mentioned_place: Romanova; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva; llm_object: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 97515-97990; hash=b2d8a38de9f818d038d4b8bcc60db0ee94d7a1db33c5a1522e1a5596d2d9804b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuva: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Romanova: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Romanova apibūdinama kaip pirmoji Lietuvos sodyba, todėl priklausymo Lietuvai ryšys palaikomas.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64224|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Verneriui iš Orzelno kronikos reikėjo Ordinui keltiems priekaištams atremti ir vidaus reformai įgyvendinti.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64225|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Verneriui iš Orzelno kronikos reikėjo Ordinui keltiems priekaištams atremti ir vidaus reformai įgyvendinti.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181460|Petras Dusburgietis]]: Petras iš Dusburgo nurodo, kad kroniką surašė ir užbaigė 1326 m., kad išsaugotų šventojo žygio atminimą būsimoms kartoms.
@@ -104,7 +89,6 @@ Petras iš Dusburgo veikale tvirtino, kad Palemonas Romanovą paskyrė vyriausia
     laikų nei mūsų. Rodos, Palemono laikais įvyko atmin­
     tinas mūšis, kuriame rusai sumušė jotvingius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -51,7 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-35504
   teiginys: 'Halka buvo didelė patranka, kurią vos patraukdavo 20 porų arklių.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Naugardas; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -59,8 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-35505
   teiginys: 'Halka buvo didelė kanuolė, kurią vos patraukdavo 20 porų arklių.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai apibūdina Halką ir jos sunkumą.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Naugardas; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -76,7 +73,6 @@ Nenurodyta
     kirto ir klojo kelią. Šias gamtos kliūtis Vytautas nugalėjo, bet
     pats Naugardas liko neįveiktas, nors ir buvo apsiaustas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -93,7 +89,6 @@ Nenurodyta
     vasarą trukdė sunkiai perbrendamos pelkės ir miškai, kuriuos
     kirto ir klojo kelią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

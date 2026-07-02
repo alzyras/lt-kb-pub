@@ -49,8 +49,6 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 - t-001
   global_id: t-182720
   teiginys: 'Dancigo laisvojo miesto statusas minimas kaip pavyzdys, į kurį orientavosi dalis prie Lietuvos nenorėjusių jungtis klaipėdiškių lietuvininkų.'
-  sudarymo_pagrindimas: 'Teiginys palaikomas, bet reikia sutvarkyti sakinį ir aiškiai susieti su Dancigu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/lietuvininkai|lietuvininkai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Europa; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -58,12 +56,6 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 - t-002
   global_id: t-183004
   teiginys: 'Vytauto laikais atgijus prekybai Nemunu, Lietuva užmezgė gyvus ryšius su Karaliaučiumi ir Dancigu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Papildytas citatoje esantis laiko kontekstas ir aiškiau įvardytas veikėjas.'
-  susije_objektai: 'llm_object: Dancigas; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: 'Lietuva prekiavo su Dancigas'
   pagrindžia:
     - c-002
 
@@ -71,11 +63,6 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 - t-003
   global_id: t-183006
   teiginys: 'Po Maksimilijono mirties Dancigas vienintelis Lenkijoje nepripažino Batoro ir buvo ginklu priverstas jam nusilenkti.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis sakinys turėjo neaiškių įvardžių ir kontekstinę pradžią.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176162|Žemaičiai]]: Žemaičiai vieną kartą pardavė Dancigui 50 laukinių stumbrų odų.
@@ -143,7 +130,6 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     tarp miškingosios Rytų Europos priešistorinių archeologinių kultūrų
     3–2  tūkstančiai metų prieš Kristų atsirado baltų kultūra.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -160,7 +146,6 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     kyba Nemunu. Užsimezgė gyvi ryšiai su ordino prekybos cent-
     rais—Karaliaučium ir Dancigu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -178,7 +163,6 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     Lietuva iš pradžių visai nepripažino Batoro savo val-
     dovu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

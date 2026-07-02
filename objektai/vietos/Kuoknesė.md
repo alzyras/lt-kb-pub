@@ -35,35 +35,13 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - t-001
   global_id: t-79512
   teiginys: 'Švedijos kariuomenė per trumpą laiką užėmė Kuoknesę, o 1608 m. rudenį Jonas Karolis Chodkevičius ją išvadavo.'
-  sudarymo_pagrindimas: 'Teiginys glaustai ir aiškiai nusako Kuoknesės užėmimą bei išvadavimą.'
-  susije_objektai: 'llm_object: Kuoknesė; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_group: [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Livonija; mentioned_place: Paidė; mentioned_place: Ryga; mentioned_place: Viljandis; mentioned_place: Švedija'
-  semantiniai_rysiai: '[[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]] užėmė Kuoknesė; [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]] užėmė Kuoknesė'
-  temporaliniai_duomenys: 'įvykio data: 1608 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys glaustai ir aiškiai nusako Kuoknesės užėmimą bei išvadavimą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=533c49e7029787d8c9d7071aad8547eeae09fce57dd08a197bd550196f1c738a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Kuoknesė: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Švedijos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kuoknesė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Švedijos kariuomenė tiesiogiai nurodyta kaip užėmusi Kuoknesės miestą.
 
 <a id="claim-t-79513"></a>
 - t-002
   global_id: t-79513
   teiginys: 'Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Kuoknesės miesto užėmimą ir pilies apsuptį.'
-  susije_objektai: 'llm_object: Kuoknesė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]]; mentioned_place: Švedija'
-  semantiniai_rysiai: '[[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]] užėmė Kuoknesė; [[objektai/grupes/Lietuviai|Lietuviai]] gynė Kuoknesė'
-  temporaliniai_duomenys: 'įvykio data: 1601 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Kuoknesės miesto užėmimą ir pilies apsuptį.'
   pagrindžia:
     - c-001
 
@@ -71,94 +49,29 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - t-003
   global_id: t-79515
   teiginys: '1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Chodkevičiaus veiksmą Kuoknesėje.'
-  susije_objektai: 'llm_object: Livonija; mentioned_place: Viljandis; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/rokošas|rokošas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_place: Daugavgryva; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Ryga; llm_object: Kuoknesė; llm_object: Viljandis'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]] užėmė Kuoknesė'
-  temporaliniai_duomenys: 'įvykio data: 1608 m.; įvykio data: 1609 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Chodkevičiaus veiksmą Kuoknesėje.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c2179cc23d4b5634dcc3b71818ecd3c8cfc92f419ac83d7194c1933342555ffc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Kuoknesė: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Švedijos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kuoknesė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Švedijos kariuomenė užėmė Kuoknesę.
 
 <a id="claim-t-79516"></a>
 - t-004
   global_id: t-79516
   teiginys: 'Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Kuoknesės užėmimą kartu su kitomis vietovėmis.'
-  susije_objektai: 'llm_object: Kuoknesė; llm_object: Paidė; llm_object: Viljandis; mentioned_place: Viljandis; mentioned_group: [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Livonija; mentioned_place: Paidė; mentioned_place: Ryga; mentioned_place: Švedija'
-  semantiniai_rysiai: '[[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]] užėmė Kuoknesė'
-  temporaliniai_duomenys: 'įvykio data: 1608 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Kuoknesės užėmimą kartu su kitomis vietovėmis.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=67ad2a792885b3b9c11ab677e208685c0b32763b93d5f968d9975bdcc8c4e871; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Livonija: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jonas Karolis Chodkevičius: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Livonija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Jonas Karolis Chodkevičius tiesiogiai nurodytas kaip grįžęs į Livoniją.
 
 <a id="claim-t-183788"></a>
 - t-006
   global_id: t-183788
   teiginys: 'Prieš Kuoknesės mūšį Lietuvos kariuomenė sumušė švedų dalinį ir paėmė beveik visus Dauguva plukdytus laivus.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pirminiame teiginyje trūko aiškios sąsajos su Kuoknese, todėl faktas sukonkretintas pagal citatą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)|Kuoknesės mūšis (1601 m. birželio 23 d.)]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Dauguva; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Švedai|Švedai]]'
-  temporaliniai_duomenys: 'įvykio data: 1601 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pirminiame teiginyje trūko aiškios sąsajos su Kuoknese, todėl faktas sukonkretintas pagal citatą.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c2179cc23d4b5634dcc3b71818ecd3c8cfc92f419ac83d7194c1933342555ffc; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Kuoknesė: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Švedijos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kuoknesė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kuoknesė pateikta tarp Švedijos kariuomenės užimtų vietų.
 
 <a id="claim-t-184997"></a>
 - t-007
   global_id: t-184997
   teiginys: 'Arkivyskupas, nesitikėdamas pergalės kovos lauke, su rinktinių vyrų kariauna pasitraukė į Kuoknesę.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys aiškiai sieja arkivyskupo pasitraukimą su Kuoknese.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Viena'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 394326-394678; hash=aef0df6c06ff01211356fcd888386ea045e50e09f9827a039a82987158e02614; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Švedai: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Švedai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Lietuvos kariuomenė tiesiogiai nurodyta kaip sumušusi švedų dalinį.
 - susijęs iš [[objektai/grupes/Švedijos kariuomenė.md#claim-t-41213|Švedijos kariuomenė]]: Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49164|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, tačiau lietuvių įgula nepasidavė.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49167|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. balandžio 1 d. švedai užėmė Kuoknesės miestą ir pradėjo pilies apgultį.
@@ -215,7 +128,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     tyti apsiautusiai švedų kariuomenei maistą
     ir šaudmenis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -239,7 +151,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     vičius grįžo į Livoniją ir per trumpą laiką
     išvadavo Kuoknesę ir Viljandį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -262,7 +173,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     Joną Karolį Chodkevičių nutraukti karo komis sugebėjo atsilaikyti prieš netikėtą
     veiksmus Livonijoje ir vykti į Lenkiją padėti lietuvių puolimą. Po nepavykusio puolimo
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -288,7 +198,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 
     maistą ir amuniciją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -312,7 +221,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     vis dėlto galop badas privertė pasiduoti tuos, kurių
     nepalaužė ginklas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

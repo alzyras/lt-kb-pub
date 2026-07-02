@@ -21,16 +21,6 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 232821-233073; hash=13aef65dffee06fee8718c1ffc3c81118a1bfdbf1def4e481947524b9222f168; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Kaunas: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Aleksotas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Kaunas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad Aleksotas yra Kauno miesto priemiestis, tad priklauso Kaunui.
 <a id="claim-t-188922"></a>
 - t-002
   global_id: t-188922
@@ -39,16 +29,6 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 275151-275548; hash=e12054ee7f389ca3030b81acd30b08d45bdaea7bccc243391525063fd808597d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Aleksotas: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Aukuras: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Aleksotas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai lokalizuoja aukurą Aleksoto priemiestyje.
 - susijęs iš [[objektai/daiktai/Aleksoto meilės dievybių šventykla arba aukuras.md#claim-t-189717|Aleksoto meilės dievybių šventykla arba aukuras]]: Narbutas vietos padavimams priskiria pasakojimą, kad Aleksoto priemiestyje ant kalno stovėjo meilės dievybėms skirta šventykla arba aukuras.
 - susijęs iš Kaunas: Narbutas Kauno apylinkėse lokalizavo Mildos kultą ir pažymėjo, kad vienas senojo Kauno priemiestis tebevadinosi Aleksotu.
 - susijęs iš [[objektai/zodynas/Milda Aleksota mildauninkai.md#claim-t-189311|Milda Aleksota mildauninkai]]: Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų deivę, kuriai buvęs skirtas balandžio mėnuo.
@@ -71,13 +51,10 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
     to priemiesčių iki šiol tebesivadina Aleksotu. Antikos laikais
     buvo žinoma stebėtino gražumo nimfa, vadmtaAlexothe'3.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Pasak Narbuto užrašyto pasakojimo, Aleksoto priemiestyje ant kalno stovėjusi šventykla arba aukuras meilės dievybėms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -94,10 +71,8 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
     nuo kunigaikščio Kūno, Palemono sūnaus, kuris buvęs miesto
     įkūrėjas.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

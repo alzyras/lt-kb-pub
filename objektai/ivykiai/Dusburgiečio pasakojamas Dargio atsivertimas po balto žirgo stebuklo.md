@@ -37,21 +37,8 @@ Nenurodyta
 - t-001
   global_id: t-62247
   teiginys: 'Dusburgiečio pasakojime prūsas Dargis po ketvirto balto žirgo bandymo įtikėjo ir tapo uoliu tikėjimo šalininku.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Tai pasakojimas apie stebuklą, todėl palikta šaltinio atribucija ir pašalintas nutrūkęs fragmentas.'
-  susije_objektai: 'llm_object: Semba; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/asmenys/Dargis|Dargis]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Semba; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 236954-237811; hash=bc693f677ae292a6e1748a9d0389f29e6ee2509416eee9dcda1b602e93591be1; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Semba: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Dargis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Dargis gyveno Sembos žemėje.
 
 ## Reikšmingi paminėjimai
 
@@ -72,7 +59,6 @@ Nenurodyta
     tikinčiųjų šalininkas, karštas dievo bei šventųjų gerbėjas, sutvirtinęs tikėjimu daugeliui
     klystančiųjų naujakrikščių širdis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

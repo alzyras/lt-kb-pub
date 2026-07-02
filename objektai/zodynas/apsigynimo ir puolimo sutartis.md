@@ -26,8 +26,6 @@ Kauno taika Vytautui buvo apsigynimo ir puolimo sutartis, nepraradusi vertės ir
 - t-001
   global_id: t-70088
   teiginys: 'Kauno taika Vytautui buvo apsigynimo ir puolimo sutartis, nepraradusi vertės ir naudinga jo rytų politikai.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir perteikia citatos vertinimą apie Kauno taikos reikšmę Vytautui.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Prochaska|Prochaska]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-001
 
@@ -35,8 +33,6 @@ Kauno taika Vytautui buvo apsigynimo ir puolimo sutartis, nepraradusi vertės ir
 - t-002
   global_id: t-70090
   teiginys: 'Kauno taika, kaip apsigynimo ir puolimo sutartis, Vytautui buvo naudinga politikai rytuose.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, glaustas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Prochaska|Prochaska]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-001
 
@@ -53,7 +49,6 @@ Kauno taika Vytautui buvo apsigynimo ir puolimo sutartis, nepraradusi vertės ir
     no taika, būdama apsigynimo ir puolimo sutartis, nenustojo sa­
     vo vertės ir jam buvo labai naudinga politikai rytuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

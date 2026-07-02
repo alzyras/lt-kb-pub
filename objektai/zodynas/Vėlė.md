@@ -27,7 +27,6 @@ Vartojamos formos: `vėlės`.
 - t-001
   global_id: t-70067
   teiginys: 'Vėlėmis Daukanto tekste vadintos mirusiųjų dūšios, kurios galėdavo apsireikšti gyviesiems.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
   pagrindžia:
     - c-001
 
@@ -35,7 +34,6 @@ Vartojamos formos: `vėlės`.
 - t-002
   global_id: t-70068
   teiginys: 'Vėlės siejamos su išganymo prašymu ir naktiniu pasirodymu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/paprociai/Nagų nekarpymas prieš mirtį ir nuokirpų deginimas.md#claim-t-189893|Nagų nekarpymas prieš mirtį ir nuokirpų deginimas]]: Narbutas nagų nekarpymą prieš mirtį ir nuokirpų deginimą aiškino tikėjimu, kad po mirties vėlė turės rasti visus nagus.
@@ -57,7 +55,6 @@ Vartojamos formos: `vėlės`.
   citata_originali: |
     Pagal jų nuomonę dorieji žmonės lig palaidojus stačiai ėję į dangų, bet nedorieji, kurie piktai elgęsi ant svieto, ir nelaikšiai^699 , kurie sau gyvybą nelaiku atėmę, tiems mirus, jų dūšios ėjusios į gyvulių ir kitų gyvių kūnus arba į medžius, ežerus ir upes, kurios tenai kentėjusios neturtą ir badą lig rako, nuo dievo joms paženklinto, kuriam atėjus, galėjusios išeiti iš to kūno ir apsireikšti gentims ar svetimiems, palikdamos kokį noris jiems ženklą, kartais daiktą, su savim palaidotą, kartais įkirsdamos į slenkstį arba į vartus. Tokioj dingsty mokėję žyniai, taip vadinami kunigai, išsijautoti^700 nuo vėlės, ko ji reikalavusi dėl savo išganymo; vadino tokias dūšias vėlėmis nuo to,
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

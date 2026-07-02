@@ -30,11 +30,6 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 - t-001
   global_id: t-182881
   teiginys: '1336 m. nadruvių plote buvo pastatyta didelė keturių bokštų Įsruties pilis.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir perteikta pagrindinė citatos faktinė informacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Bokštai; mentioned_place: Nemunas'
-  temporaliniai_duomenys: 'pastatymo data: 1336 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir perteikta pagrindinė citatos faktinė informacija.'
   pagrindžia:
     - c-001
 
@@ -42,14 +37,6 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 - t-002
   global_id: t-183818
   teiginys: 'Maršalas organizavo žygį iš Įsruties į Kauną ir, anot šaltinyje cituojamos frazės, „atnešė stabmeldžiams visokių nelaimių“.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi OCR triukšmo, bet citata leidžia suformuluoti aiškų sakinį.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Kauno pilis; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Gardinas; mentioned_place: Nemunas'
-  temporaliniai_duomenys: 'įvykio data: 1361 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi OCR triukšmo, bet citata leidžia suformuluoti aiškų sakinį.'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Svirdeika.md#claim-t-80723|Svirdeika]]: Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu.
@@ -80,7 +67,6 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
     plote, iš visų pusių supamame didelių miškų masyve, buvo pasta­
     tyta didelė keturių bokštų pilis Įsrutis (Insterburg).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -100,7 +86,6 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
     Kauno mūrinės pilies statyba. Pirmoji Kauno pilis
     kronikose paminėta 1361 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

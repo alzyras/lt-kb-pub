@@ -26,9 +26,6 @@ Po šūkio „Tegyvuoja gegužės 3 d. konstitucija!“ užrašymo prasidėjo mo
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=56ed0449507b95b1efd995339d9a70a99afb08e1c964220e953f8bcabebd1af0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -41,9 +38,7 @@ Po šūkio „Tegyvuoja gegužės 3 d. konstitucija!“ užrašymo prasidėjo mo
     ma siektinu idealu ir laisvės garantija). Tuojau po to prasi-
     dėjo kratos ir areštai mokinių ir studentų tarpe.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -27,12 +27,6 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
 - t-001
   global_id: t-46505
   teiginys: 'Argentina buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai emigrantai.'
-  sudarymo_pagrindimas: 'Sakinys perrašytas aiškiai susiejant faktą su Argentina.'
-  susije_objektai: 'llm_object: Argentina; llm_object: Venesuela; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena; mentioned_place: Afrika; mentioned_place: Kaunas; mentioned_place: Venesuela'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] keliavo į Argentina'
-  temporaliniai_duomenys: 'įvykio data: 1939 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys perrašytas aiškiai susiejant faktą su Argentina.'
   pagrindžia:
     - c-001
 
@@ -50,7 +44,6 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
     Gen. Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse
     pagamintas lengvasis bombonešis ANBO VIII (1939 m.)
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

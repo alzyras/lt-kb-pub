@@ -42,24 +42,8 @@ Nenurodyta
 - t-001
   global_id: t-62821
   teiginys: '1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiksliai atitinka citatos duomenis.'
-  susije_objektai: 'llm_object: Karšuva; mentioned_place: Karšuva; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]'
-  temporaliniai_duomenys: 'pastatymo data: 1303 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir tiksliai atitinka citatos duomenis.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 614777-615240; hash=60e17d8f594d98e653625f721e8bf8abf6d383f2196fae7013ccc1663babaabe; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Karšuva: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Konradas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Karšuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Konradas su kariuomene tiesiogiai įsiveržė į Karšuvos žemę.
 
 ## Reikšmingi paminėjimai
 
@@ -74,13 +58,10 @@ Nenurodyta
     kalną, tarpais leidosi žemyn nelyginant  į klonį, tačiau, viešpaties globojami, nė vienas
     nenuskendo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
   statusas: verified
 
-- c-002
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Karšuvos žemės nusiaubimą
@@ -91,11 +72,9 @@ Nenurodyta
     sudegino visus pastatus, o patys pernakvojo čia pat pastatytose palapinėse. Kai vėliau
     traukė su kariuomene užšalusiomis Kuršių mariomis556, išvydo nuostabų dalyką.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
     - t-002

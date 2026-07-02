@@ -36,9 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 521164-521433; hash=76969166305142f82f3c2e6db681ab3ae99fbfbf958fdd37116cce57d7479d39; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -51,9 +48,7 @@ Nenurodyta
     Pasak padavimų, kuriais paprasti žmonės tiki iki šiol, pūtikas
     galėjo žodžiais sulaikyti kraują, tekantį iš perkirstos gyslos.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

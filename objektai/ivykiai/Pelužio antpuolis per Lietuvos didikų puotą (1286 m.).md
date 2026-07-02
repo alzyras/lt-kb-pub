@@ -36,24 +36,8 @@ Nenurodyta
 - t-001
   global_id: t-185761
   teiginys: 'Per Pelužio antpuolį žuvo septyniasdešimt kunigaikščių bei didikų, o jaunikis, jaunoji ir tarybos narių šeimos buvo išgabenti į Karaliaučių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Perrašyta į savarankišką sakinį apie note objektą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]; llm_object: [[objektai/ivykiai/Pelužio antpuolis per Lietuvos didikų puotą (1286 m.)|Pelužio antpuolis per Lietuvos didikų puotą (1286 m.)]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Pelužis|Pelužis]] puolė [[objektai/ivykiai/Pelužio antpuolis per Lietuvos didikų puotą (1286 m.)|Pelužio antpuolis per Lietuvos didikų puotą (1286 m.)]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 272140-272708; hash=2ceab6dcabeffbab609f9732b4472c85d2ed715977516a29a31f2a007bd3b62d; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Pelužio antpuolis per Lietuvos didikų puotą (1286 m.): 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pelužis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Pelužio antpuolis per Lietuvos didikų puotą (1286 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Įvykis tiesiogiai įvardytas kaip Pelužio antpuolis.
 
 ## Reikšmingi paminėjimai
 
@@ -77,11 +61,9 @@ Nenurodyta
     visos tarybos narių žmonos bei dukros su didžiuliu
     grobiu buvo išgabentos į Karaliaučių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
 

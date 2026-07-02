@@ -46,9 +46,6 @@ Nenurodyta
 - t-001
   global_id: t-47770
   teiginys: 'Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą, bet jo eiga metraštyje neaprašyta.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_object: [[objektai/posakiai/na Litvu|na Litvu]]; mentioned_place: Gardinas; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1040 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -56,11 +53,6 @@ Nenurodyta
 - t-002
   global_id: t-47771
   teiginys: 'XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'llm_object: Lietuva; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_object: [[objektai/posakiai/na Litvu|na Litvu]]; mentioned_place: Gardinas; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1040 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 
@@ -68,23 +60,8 @@ Nenurodyta
 - t-003
   global_id: t-47772
   teiginys: 'Ivinskio vertinimu, 1040 m. Jaroslavo žygis į Lietuvą rodo, kad lietuviai tuo metu nepripažino Kijevo viršenybės.'
-  sudarymo_pagrindimas: 'Teiginys perteikia autoriaus interpretaciją, todėl reikia aiškios atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Viena'
-  temporaliniai_duomenys: 'mūšio data: 1040 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuviai dalyvavo mūšyje Kijevo Jaroslavo žygis į Lietuvą (1040 m.)“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys perteikia autoriaus interpretaciją, todėl reikia aiškios atribucijos.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e3569f7b3667899be24e9605af3a975268144d93e65ef21b1232c566a51888d8; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: surenge_zygi_i -> Lietuva: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Jaroslavas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Jaroslavo žygį į Lietuvą.
 
 ## Reikšmingi paminėjimai
 
@@ -102,7 +79,6 @@ Nenurodyta
     darė į Lietuvą (« na Litvu ») žygį; tik apie jo eigą nieko nepasa­
     kyta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -120,7 +96,6 @@ Nenurodyta
     kas nebūtų nutylėjęs žygio išdavų, pridėdamas bent vieną žodį
     « nugalėjo » ar « nukariavo ».
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -29,23 +29,8 @@ Dembinskio daliniai, kurie turėjo imituoti puolimą per Neries Žaliąjį tilt�
 - t-001
   global_id: t-40131
   teiginys: 'Panerių mūšyje H. Dembinskio daliniai turėjo imituoti puolimą per Neries Žaliąjį tiltą, tačiau šio plano įgyvendinti nepavyko.'
-  sudarymo_pagrindimas: 'Teiginys gramatiškai nusako H. Dembinskio dalinių vaidmenį ir plano baigtį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Trakų sukilėlių daliniai|Trakų sukilėlių daliniai]]; mentioned_group: [[objektai/grupes/Poznanės raitininkų eskadronai|Poznanės raitininkų eskadronai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Poznanė; mentioned_place: Trakai'
-  temporaliniai_duomenys: 'įvykio data: 1831 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys gramatiškai nusako H. Dembinskio dalinių vaidmenį ir plano baigtį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=30b6efb49341776e1a2d5240b9cf8a88468a1cdcb3cbce4740c419ee41a47f58; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Trakų sukilėlių daliniai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: H. Dembinskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Trakų sukilėlių daliniai: mention_match, group, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "H. Dembinskis" parinktas kaip owner_note_path. Targetas "Trakų sukilėlių daliniai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -74,7 +59,6 @@ Dembinskio daliniai, kurie turėjo imituoti puolimą per Neries Žaliąjį tilt�
 
     154  PANERIŲ MUSIS 1831 m. birželio 19 d.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

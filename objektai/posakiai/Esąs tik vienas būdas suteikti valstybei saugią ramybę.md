@@ -18,45 +18,15 @@ Didikai ir bajorai teigė, kad Lietuvos Didžiajai Kunigaikštystei ramybę sute
 - t-001
   global_id: t-185469
   teiginys: 'Didikai ir bajorai teigė, kad Lietuvos Didžiajai Kunigaikštystei ramybę suteiktų valdovas, asmeniškai saugantis jos vientisumą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pašalintos nutrūkusios frazės ir išlaikyta citatos mintis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Sluckas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 817523-818367; hash=dd8c14ee89b9ea38d026911271c67d5967a4c8ab2639869efdbb9035a2f33fa0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Esąs tik vienas būdas suteikti valstybei saugią ramybę: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Esąs tik vienas būdas suteikti valstybei saugią ramybę" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185470"></a>
 - t-002
   global_id: t-185470
   teiginys: 'Mintis apie savarankišką Lietuvos Didžiosios Kunigaikštystės valdovą sukėlė palankumą Aleksandrui Sluckiečiui arba vienam iš jo sūnų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko konkretų politinės minties poveikį, sakinys sutvarkytas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Sluckas'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 817865-818455; hash=a00d5e4cbf43052a53896dbba5501c2e05932f3d99298327820a846d41936520; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Esąs tik vienas būdas suteikti valstybei saugią ramybę: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Esąs tik vienas būdas suteikti valstybei saugią ramybę" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -84,14 +54,11 @@ Didikai ir bajorai teigė, kad Lietuvos Didžiajai Kunigaikštystei ramybę sute
     jorai, sukėlė didelį nemažo būrio palankumą Aleksan­
     drui, Slucko kunigaikščiui, ar vienam iš jo dviejų sūnų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Mintis apie savarankišką Lietuvos Didžiosios Kunigaikštystės valdovą sukėlė palankumą Aleksandrui Sluckiečiui arba vienam iš jo sūnų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -108,10 +75,8 @@ Didikai ir bajorai teigė, kad Lietuvos Didžiajai Kunigaikštystei ramybę sute
     Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
     gimine ir sąjungą su lenkais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002

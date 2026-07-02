@@ -29,44 +29,15 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
 - t-001
   global_id: t-42024
   teiginys: '1609 m. kovo 14 d. Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė pasiekė Piarnu, bet netikėtas antpuolis nepavyko.'
-  sudarymo_pagrindimas: 'Citata pagrindžia ir Piarnu pasiekimą, ir nepavykusį netikėtą antpuolį.'
-  susije_objektai: 'llm_object: Piarnu; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_place: Salacgryva'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] keliavo į Piarnu; [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]] keliavo į Piarnu'
-  temporaliniai_duomenys: 'įvykio data: 1609 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata pagrindžia ir Piarnu pasiekimą, ir nepavykusį netikėtą antpuolį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 451893-452273; hash=648ec9dc4e8e26ee58b463525e790650e6933163fb351ba004130fcfea587c25; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Piarnu: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuvos kariuomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Piarnu: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginyje tiesiogiai sakoma, kad LDK kariuomenė pasiekė Piarnu.
 
 <a id="claim-t-42025"></a>
 - t-002
   global_id: t-42025
   teiginys: 'Piarnu užėmimas užtikrino lietuviams saugų užnugarį ir leido tęsti veiksmus Rygos miesto blokadai panaikinti.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Piarnu užėmimo reikšmę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_place: Ryga; llm_object: Piarnu'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] užėmė Piarnu; [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]] gynė Piarnu'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fb45e7970a5617232e6dfef1529507b2e3dff7af3ec5b26300e28d6abcba2bee; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Piarnu: 0.80
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Piarnu: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Piarnu užėmimas pateikiamas kaip lietuviams naudingas karinis rezultatas.
 - susijęs iš Talinas: 1609 m. kovo 16 d. Jonas Karolis Chodkevičius sužinojo, kad iš Talino išsiųstas švedų pastiprinimas buvo 50 km nuo Piarnu.
 - susijęs iš Salacgryva: Jonas Karolis Chodkevičius prie Salacgryvos žygiavo tiesiai per miškus, siekdamas užklupti priešą nepasiruošusį.
 - susijęs iš Salacgryva: Jonas Karolis Chodkevičius prie Salacgryvos žygiavo tiesiai per miškus, siekdamas užklupti priešą nepasiruošusį.
@@ -93,7 +64,6 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
     nepaisant įdėtų pastangų, jie buvo pastebėti
     ir netikėtas antpuolis nepavyko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -114,7 +84,6 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
     pulti Daugavgryvą. Žygiuodamas pro
     Salacgryvą, jis netikėtai sužinojo, kad
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -138,7 +107,6 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
     traukė Rygos link ketindamas dar kartą
     pulti Daugavgryvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

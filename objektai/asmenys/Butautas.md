@@ -31,11 +31,6 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
 - t-001
   global_id: t-93195
   teiginys: 'Butautas 1365 m. liepos 25 d. su draugu Survila pabėgo į Karaliaučių ir apsikrikštijo Henriko vardu.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako Butauto veiksmus ir atitinka citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Survila|Survila]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Karolis IV|Karolis IV]]'
-  temporaliniai_duomenys: 'įvykio data: 1365 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Butauto veiksmus ir atitinka citatą.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus.md#claim-t-35892|Vaidoto pabėgimas į Prūsus]]: 1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.
@@ -63,7 +58,6 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
     riaus Karolio IV pakeltas imperijos kunigaikščiu ir gyveno jo dvare (1369
     —81), paprastai vadinamas „lietuvių karaliumi Henriku”.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -46,9 +46,6 @@ Pilis liko nepaimta.
 - t-001
   global_id: t-70947
   teiginys: '1290 m. balandžio 23 d. Meinhardas su 500 raitelių ir 2 tūkst. pėstininkų puolė Kolainių pilį, kurią gynė Surminas su 120 vyrų.'
-  susije_objektai: 'llm_object: Kolainiai; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Kolainiai'
-  temporaliniai_duomenys: 'įvykio data: 1290 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -56,20 +53,8 @@ Pilis liko nepaimta.
 - t-002
   global_id: t-70948
   teiginys: 'Kolainių apgula nutrūko, kai sargybos raitelių triukšmo išgąsdinti paprasti kariai pabėgo prie laivų.'
-  sudarymo_pagrindimas: 'Teiginys sutrumpintas ir aiškiai susietas su Kolainių apgula.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Kolainiai; mentioned_object: [[objektai/posakiai/prisiekęs dievų galybe|prisiekęs dievų galybe]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=a4485cd96ab5d634a2b2e5ddc610959e11d5b1ab1a92118bcbc4e2041e8fc57c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Kolainiai: 0.91
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Surminas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kolainiai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Surminas gynė Kolainių pilį.
 
 ## Reikšmingi paminėjimai
 
@@ -84,11 +69,10 @@ Pilis liko nepaimta.
     kraujas tekėjo, tarsi patvinęs vanduo », ir tik 12 gynėjų likę nesu­
     žeisti. Bet pilis liko nepaimta^3.
   citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-002
+
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas,
@@ -97,7 +81,6 @@ Pilis liko nepaimta.
     priešinosi broliams. Galop visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti, kad
     nuo pilies sienų kraujas tekėjo nelyginant patvinęs liūčių vanduo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -116,7 +99,6 @@ Pilis liko nepaimta.
     apgulą. Neilgai trukus vadas Surminas paliko šią  pilį prisiekęs dievų galybe niekad
     ateityje nelaukti, kol broliai užpulsią kokią pilį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

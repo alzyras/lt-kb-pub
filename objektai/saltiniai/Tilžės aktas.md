@@ -26,8 +26,6 @@ atnaujinta: ''
 - t-001
   global_id: t-08892
   teiginys: 'Tuometinė vokiečių valdžia ignoravo Tarybos nutarimą, vadinamą Tilžės aktu.'
-  sudarymo_pagrindimas: 'Teiginys ištaisytas pašalinant nereikalingą kabutę ir sulaužymus.'
-  susije_objektai: 'mentioned_place: Tilžė; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -45,7 +43,6 @@ atnaujinta: ''
     tarimą, dar vadinamą Tilžės aktu, igno-
     ravo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

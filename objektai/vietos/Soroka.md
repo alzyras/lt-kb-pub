@@ -26,43 +26,15 @@ Slaptame plane Aleksandro žygis turėjo eiti link Sorokos. Soroka šiame gabale
 - t-001
   global_id: t-187336
   teiginys: 'Lietuvos metraštis pasakoja, kad Aleksandras Parčevo seime slapta sutarė žygiuoti į Moldavijos žemę per Braclavą link Sorokos.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Palikta metraščio atribucija, nes citata perteikia slaptą susitarimą ir valdovo veiksmų pasakojimą. Nepridėta teiginių apie vėlesnį žygio įvykdymą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Braclavas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Moldavija; mentioned_place: Parčevas; llm_object: Braclavas; llm_object: Soroka'
-  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] keliavo į Soroka'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=92873a23c7a188396ace65cd413e183030cb49e2ba786cbca57a142b8de17208; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: keliavo_i -> Braclavas: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Braclavas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad Aleksandro planuotas žygis turėjo eiti per Braclavą.
 
 <a id="claim-t-187337"></a>
 - t-002
   global_id: t-187337
   teiginys: 'Soroka minima kaip didžiojo kunigaikščio Aleksandro planuoto žygio į Moldavijos žemę krypties orientyras.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pirminė formuluotė per šnekamoji; citata palaiko enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Moldavija; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lenkija; mentioned_place: Parčevas; llm_object: Soroka'
-  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] keliavo į Soroka'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=92873a23c7a188396ace65cd413e183030cb49e2ba786cbca57a142b8de17208; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
-  ryšio_patikimumas: keliavo_i -> Soroka: 0.70
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Aleksandras Jogailaitis: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Soroka: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Soroka minima kaip žygio krypties orientyras, todėl ryšys yra kryptinis, bet ne galutinės paskirties.
 - susijęs iš [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje.md#claim-t-186651|Aleksandro žygis Braclavo link Moldavijos kampanijoje]]: Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių.
 ## Reikšmingi paminėjimai
 
@@ -89,7 +61,6 @@ Slaptame plane Aleksandro žygis turėjo eiti link Sorokos. Soroka šiame gabale
     vijos žemę per Braclavą. link Sorokos “ , o karalius
     Olbrachtas — iš kito šono.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

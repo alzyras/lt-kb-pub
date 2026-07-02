@@ -27,23 +27,8 @@ Aštuntajame dešimtmetyje kai kurie kunigai ėmė priešintis brutaliai valdži
 - t-001
   global_id: t-21171
   teiginys: 'Pirmasis „Lietuvos katalikų bažnyčios kronikos“ redaktorius buvo Simne dirbęs kunigas Sigitas Tamkevičius.'
-  sudarymo_pagrindimas: 'Pradinis teiginys citata nepagrįstas, bet citata remia faktą apie leidinio redaktorių.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Sigitas Tamkevičius|Sigitas Tamkevičius]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Simnas'
-  temporaliniai_duomenys: 'įvykio data: 1972 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys citata nepagrįstas, bet citata remia faktą apie leidinio redaktorių.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5057942dd86c7263866c402d7fe00263bf15262c4881c87e5d8945589ec96d8e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Sigitas Tamkevičius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Lietuvos katalikų bažnyčios kronika: owner_note_path, source, gap=0
-  ryšio_targeto_parinkimas: Sigitas Tamkevičius: mention_match, author, gap=76
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos katalikų bažnyčios kronika" parinktas kaip owner_note_path. Targetas "Sigitas Tamkevičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -55,7 +40,6 @@ Aštuntajame dešimtmetyje kai kurie kunigai ėmė priešintis brutaliai valdži
     Simne dirbęs kun. Sigitas Tamkevičius. Leidinys aprašė sovietų antireliginę
     veiklą ir propagandą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -43,23 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-20506
   teiginys: 'Prezidentas 1940 m. balandį po ambicijų konflikto atleido populiarų kariuomenės vadą Stasį Raštikį iš pareigų.'
-  sudarymo_pagrindimas: 'Sutrumpinta ir pašalintos šalutinės detalės, paliekant citatos pagrįstą įvykio esmę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Katalikų veikimo centras|Katalikų veikimo centras]]'
-  temporaliniai_duomenys: 'įvykio data: 1940 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sutrumpinta ir pašalintos šalutinės detalės, paliekant citatos pagrįstą įvykio esmę.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2bad3799530a59824465e80155b10a44b27ccef63e8f12887642da1e9cc2e38c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Katalikų veikimo centras: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Stasio Raštikio atleidimas iš pareigų (1940 m. balandis): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Katalikų veikimo centras: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stasio Raštikio atleidimas iš pareigų (1940 m. balandis)" parinktas kaip owner_note_path. Targetas "Katalikų veikimo centras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -76,7 +61,6 @@ Nenurodyta
     įgavo tokį didelį populiarumą, jog prezidentas po ilgoko ambicijų konf-
     likto 1940 m. balandį atleido jį iš pareigų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

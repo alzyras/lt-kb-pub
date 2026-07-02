@@ -31,40 +31,15 @@ periodo_grupes:
 - t-001
   global_id: t-87512
   teiginys: 'Turkijos čiaušas Ibrahimas su dvidešimt dviem tarnais turėjo būti aprūpintas nakvyne Vilniaus mieste.'
-  sudarymo_pagrindimas: 'Citata pagrindžia čiaušo ir jo tarnų apgyvendinimo nurodymą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ibrahimas|Ibrahimas]]; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Gardinas; mentioned_place: Turkija'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 690267-692563; hash=ec6b043dbfafe96dbf2601c04e8dcf708efe8a8877c4bf338023e7b649976b79; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Gardinas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Ibrahimas (Turkijos čiaušas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad Ibrahimas atvyko į Gardiną pas karalių.
 
 <a id="claim-t-87513"></a>
 - t-002
   global_id: t-87513
   teiginys: 'Turkijos imperatoriaus čiaušas Ibrahimas buvo atsiųstas pas karalių ir, atvykęs iš Maskvos, paliko Vilniuje tarnus, žirgus bei daiktus.'
-  sudarymo_pagrindimas: 'Citata pagrindžia Ibrahimo pareigas, siuntimo tikslą ir buvimą Vilniuje.'
-  susije_objektai: 'llm_object: Gardinas; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Alytus; mentioned_place: Baisogala; mentioned_place: Borisovas; mentioned_place: Breslauja; mentioned_place: Dubingiai; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Polockas; mentioned_place: Turkija; mentioned_place: Veliuona'
-  semantiniai_rysiai: '[[objektai/asmenys/Ibrahimas (Turkijos čiaušas)|Ibrahimas (Turkijos čiaušas)]] keliavo į Gardinas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 692564-693185; hash=a6dd44d78e6feb54685a177f846bf49894d09e14a8739c62bffec420f5c82254; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Ibrahimas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ibrahimas (Turkijos čiaušas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Ibrahimas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ibrahimas (Turkijos čiaušas)" parinktas kaip owner_note_path. Targetas "Ibrahimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -125,7 +100,6 @@ periodo_grupes:
     buvo Turkijos imperatoriaus atsiųstas pas jo karališkąją ma­
     lonybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -147,7 +121,6 @@ periodo_grupes:
     šingu atveju dėl to tegu jums bus atmintis mūsų pamokymai.
     Rašytas Gardine.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

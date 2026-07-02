@@ -35,8 +35,6 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
 - t-001
   global_id: t-71204
   teiginys: 'Gardino pilininko Dovydo alodas vadinamas dvaru ir buvo Notangos vyrų sudegintas iki pamatų.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai sieja alodą su dvaru ir nurodo įvykį.'
-  susije_objektai: 'mentioned_place: Notanga; mentioned_place: Gardinas'
   pagrindžia:
     - c-001
 
@@ -44,8 +42,6 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
 - t-002
   global_id: t-71205
   teiginys: 'Gardino pilininko Dovydo alodas, arba dvaras, buvo užpultas ir sudegintas iki pamatų.'
-  sudarymo_pagrindimas: 'Pašalintas šaltinio įvadas ir suformuluotas pilnas faktinis sakinys apie sąvokos vartojimą.'
-  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Notanga'
   pagrindžia:
     - c-001
 
@@ -58,7 +54,6 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
     smarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino;
     nukovę 38 žmones, išsivarė 100 arklių ir daug kitokių gyvulių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -77,11 +72,10 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
     tiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių
     ūkis).
   citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
-- c-003
+
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atėję iš ryškią individualią alodinę nuosavybės struk-
@@ -93,7 +87,6 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
     ūkis). Dėl šio pažangesnio ūkininkavimo ir nuosavybės santykių būdo
     neatsitiktinai į XV–XVI a.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified

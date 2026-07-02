@@ -23,20 +23,8 @@ Be to, kad tiems patiems studentams, anksčiau minėtoje Bursoje tuo metu gyvena
 - t-001
   global_id: t-88485
   teiginys: 'Valerijono Bursos studentams buvo duoti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys yra nutrūkęs ir turi OCR triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Valerijono bursos; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Viena; llm_object: Valerijono bursos'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 786089-787079; hash=f7071eb4761069c09790e40c63f31daff371dd390755a4b3292a78511745837e; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Valerijono bursos: 0.57
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Namas: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Valerijono bursos: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Namai duodami studentams, gyvenantiems Bursoje, todėl ryšys su Bursa tiesiogiai susijęs, bet objektinis priklausymas nėra visiškai aiškiai suformuluotas.
 
 ## Reikšmingi paminėjimai
 
@@ -63,7 +51,6 @@ Be to, kad tiems patiems studentams, anksčiau minėtoje Bursoje tuo metu gyvena
     tuščiame sklype panašiai savo lėšomis pastatėme. Abu
     Vyskupų gatvėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

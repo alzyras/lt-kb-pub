@@ -28,53 +28,22 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
 - t-001
   global_id: t-22044
   teiginys: 'Okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų būrius, sudarytus iš užverbuotų buvusių partizanų ir MGB karininkų.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai apibrėžia agentų smogikų būrių naudojimą ir sudėtį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=061c7806642bbec45b30e0f95a1912ef5e278514bb6eea8cb8f864c0b0a0a179; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 <a id="claim-t-22045"></a>
 - t-002
   global_id: t-22045
   teiginys: 'MGB-KGB agentai smogikai naudojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti bei partizanų ryšininkams ir rėmėjams šaudyti.'
-  sudarymo_pagrindimas: 'Pradinis sakinys per ilgas ir apkrautas, todėl sutrumpintas nekeičiant esmės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/MGB-KGB agentai smogikai|MGB-KGB agentai smogikai]]; mentioned_place: Sibiras'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=246cd6f408b2d12e2cc801e45427e254d8f31f93ec46fd301053d19b65e7852a; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> MGB-KGB agentai smogikai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: agentai smogikai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: MGB-KGB agentai smogikai: mention_match, group, gap=8
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "agentai smogikai" parinktas kaip owner_note_path. Targetas "MGB-KGB agentai smogikai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-22046"></a>
 - t-003
   global_id: t-22046
   teiginys: 'Daug civilių aukų būta vietovėse, kur veikė sovietų smogikai arba partizanų būriai piktnaudžiavo alkoholiu.'
-  sudarymo_pagrindimas: 'Teiginys yra faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
-  temporaliniai_duomenys: 'įvykio data: 1940 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fb452c72bf298bc6dda87beebda928acbb699c10cb3b8edb15bbe6157830cf33; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: agentai smogikai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "agentai smogikai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Agentai-smogikai.md#claim-t-40845|Agentai-smogikai]]: MGB-KGB agentai-smogikai atliko svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
 - susijęs iš [[objektai/grupes/MGB-KGB agentai smogikai.md#claim-t-19936|MGB-KGB agentai smogikai]]: MGB-KGB agentai smogikai terorui ir rezistentų naikinimui naudojo rezistencijos atributiką bei uniformas, kankino pasipriešinimo dalyvius.
 - susijęs iš [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika.md#claim-t-67035|Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]: MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
@@ -95,7 +64,6 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
     vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių par-
     tizanų ir MGB kadrinių karininkų) būrius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -119,7 +87,6 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
     kankindavo ginkluoto pasipriešinimo dalyvius, tarp jų moteris, senelius,
     vaikus, sušaudydavo partizanų ryšininkus, rėmėjus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -141,7 +108,6 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
     apygardų vadai neturėjo galimybių patikrinti savo kovotojų dosjė, be to,
     neigiamą įtaką darė ir ilgas gyvenimas po žeme, bunkeriuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

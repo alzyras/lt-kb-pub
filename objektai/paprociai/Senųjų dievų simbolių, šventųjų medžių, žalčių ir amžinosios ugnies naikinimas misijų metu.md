@@ -42,16 +42,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 652895-653322; hash=39864c90e5162cf7f52456b2411ee5633b1906a159e9f183545ea3a22ff6444b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Livonija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Senųjų dievų simbolių, šventųjų medžių, žalčių ir amžinosios ugnies naikinimas misijų metu: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=3
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Senųjų dievų simbolių, šventųjų medžių, žalčių ir amžinosios ugnies naikinimas misijų metu" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-189895"></a>
 - t-002
   global_id: t-189895
@@ -60,16 +50,6 @@ Nenurodyta
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 654491-654883; hash=c64241fe716b0ca43a0bdf9603d372506fdcb0ea23529ef97327da03718c1a73; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> kunigas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Senųjų dievų simbolių, šventųjų medžių, žalčių ir amžinosios ugnies naikinimas misijų metu: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: kunigas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Senųjų dievų simbolių, šventųjų medžių, žalčių ir amžinosios ugnies naikinimas misijų metu" parinktas kaip owner_note_path. Targetas "kunigas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -84,13 +64,10 @@ Nenurodyta
     durų. Tuos likučius misionieriai trypė kojomis, mėtė į ugnį. Šven­
     tuosius medžius įsakė nukirsdinti, žalčius išžudyti.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas vaizdavo, kad liaudis jėzuitų pamokymus priėmė nuolankiai ir nesipriešino šventųjų ąžuolų bei girių kirtimui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -102,9 +79,7 @@ Nenurodyta
     triukšmu ir bildesiu išskrido (evolavit), nepaprasto dydžio rupū­
     žė.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

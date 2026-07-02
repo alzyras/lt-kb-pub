@@ -36,9 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 599914-601008; hash=768fa15bb0bc01de2b9592a168255c7e0b052582df1cab3d0d0fececc2a163e5; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -68,9 +65,7 @@ Nenurodyta
     ir sviesdavo per galvą. Tai kartodavo tiek kartų, kiek buvo die­
     vų, kuriems reikėjo duoti auką.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

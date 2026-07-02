@@ -52,7 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-92967
   teiginys: 'Seimeliuose plikbajoriai turėjo bajoriškąjį ženklą kardą, kuriuo galėjo paremti savo pono ar užmokėjusio asmens nuomonę.'
-  sudarymo_pagrindimas: 'Pradinis sakinys per ilgas ir fragmentiškas, bet citata palaiko aiškų teiginį apie kardą.'
   pagrindžia:
     - c-003
 
@@ -60,7 +59,6 @@ Nenurodyta
 - t-002
   global_id: t-92968
   teiginys: '1919 m. gegužės viduryje Lietuvos kariuomenė turėjo apie 200 kardų, tai yra raitelių.'
-  sudarymo_pagrindimas: 'Citata paremia konkretų faktą apie kardų skaičių kariuomenėje.'
   pagrindžia:
     - c-007
 
@@ -68,11 +66,6 @@ Nenurodyta
 - t-003
   global_id: t-92969
   teiginys: '1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie kardą ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Valkininkai'
-  temporaliniai_duomenys: 'įvykio data: 1917 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie kardą ir atitinka citatą.'
   pagrindžia:
     - c-005
 
@@ -80,7 +73,6 @@ Nenurodyta
 - t-004
   global_id: t-92970
   teiginys: 'Sibiro batalijone penki karininkai ir trys kareiviai buvo nurengti ir pusplikiai sukapoti kardais.'
-  sudarymo_pagrindimas: 'Citata paremia faktą, bet pradiniame teiginyje yra OCR triukšmo ir bloga pradžia.'
   pagrindžia:
     - c-002
 
@@ -88,8 +80,6 @@ Nenurodyta
 - t-005
   global_id: t-92971
   teiginys: 'Lenkų raitelis žvilgančiu kardu kelis kartus puolė griovyje atsigulusį žvalgą.'
-  sudarymo_pagrindimas: 'Pirminis teiginys per daug fragmentiškas; citata leidžia suformuluoti aiškesnį faktą apie kardo panaudojimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]'
   pagrindžia:
     - c-006
 
@@ -97,8 +87,6 @@ Nenurodyta
 - t-006
   global_id: t-92972
   teiginys: 'Kautynėse po iečių buvo naudojami kirviai, kardai ir kiti ginklai.'
-  sudarymo_pagrindimas: 'Pašalinta perteklinė formuluotė ir išryškintas ryšys su kardu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
   pagrindžia:
     - c-001
 
@@ -106,37 +94,15 @@ Nenurodyta
 - t-007
   global_id: t-92974
   teiginys: 'Valkininkuose bajorų minia kardais sukapojo Mykolą Sapiegą ir dar du belaisvius.'
-  sudarymo_pagrindimas: 'Reikia pašalinti OCR triukšmą ir aiškiai įvardyti įvykį.'
   pagrindžia:
     - c-008
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=de53b032681bbe7532401aa2e5b57b7c8961a3e5a283f9e3524dd69e9b851dc4; match=normalized; occurrences=1
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kardas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kardas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-92975"></a>
 - t-008
   global_id: t-92975
   teiginys: 'Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė į Valkininkus.'
-  sudarymo_pagrindimas: 'Reikia pašalinti OCR triukšmą ir suformuluoti vientisą sakinį.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1e39db8b062f7f703fa3a7f2940579e7f529692703ca85465c8596b9df9d6a8c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Artilerija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kardas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=27
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kardas" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Paulius Vladimiri.md#claim-t-35262|Paulius Vladimiri]]: Paulius Vladimiri rašte išdėstė Lietuvai žalingą Ordino politiką, siekusią lietuvius krikštyti kardu ir ugnimi.
 - susijęs iš [[objektai/asmenys/Teodoras Nemyra.md#claim-t-186259|Teodoras Nemyra]]: Teodoras Nemyra, sužeistas ir beveik išsekęs, su kardu rankoje prasiskynė kelią per ginkluotus būrius ir paspruko iš pavojaus.
 - susijęs iš [[objektai/daiktai/Kryžius ant kardo galo.md#claim-t-71565|Kryžius ant kardo galo]]: Kryžiuočiai savo žygiuose nešė kryžių ant kardo galo.
@@ -203,7 +169,6 @@ Nenurodyta
     žiuočiai iššovė porą kartų iš patrankų, bet jos sumišimo sąjun­
     gininkų kariuomenėj nesukėlė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -222,7 +187,6 @@ Nenurodyta
     džiausiam Sibiro speige buvo nurengti ir pusplikiai kardais su-
     kapoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -240,7 +204,6 @@ Nenurodyta
     šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo
     vartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -256,7 +219,6 @@ Nenurodyta
     Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).
     Čia jis uždarė belaisvį pranciškonų vienuolyno celėje, greta savęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -274,7 +236,6 @@ Nenurodyta
 
     1920 m. lapkričio 17-21 d. GIEDRAIČIŲ KAUTYNĖS 209
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -290,7 +251,6 @@ Nenurodyta
 
     vėl puolė, ir taip kartojo jis kelis kartus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -309,7 +269,6 @@ Nenurodyta
     tada dar nebuvo didesnės, kaip 5—6 tūkstančiai durtuvų, 10
     patrankų ir 200 kardų (raitelių).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -329,7 +288,6 @@ Nenurodyta
     sydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu
     buvo sukapoti dar du belaisviai).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

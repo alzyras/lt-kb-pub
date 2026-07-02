@@ -36,16 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 449534-449734; hash=ea6b90ec7400b322f42c213c9112f2b387a43623f674857ac45992542df89f13; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Deltuva: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Kukovaičio stabas: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Deltuva: mention_match, place, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kukovaičio stabas" parinktas kaip owner_note_path. Targetas "Deltuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/Kukovaičio stabas prie Deltuvos.md#claim-t-189765|Kukovaičio stabas prie Deltuvos]]: Narbutas, remdamasis Strijkovskiu, rašo, kad Kukovaičio stabas prie Deltuvos stovėjo ant kalno, buvo medinis ir milžino išvaizdos.
 - susijęs iš Deltuvos kalnas: Narbutas, remdamasis Strijkovskiu, mini, kad ant kalno prie Deltuvos stovėjo medinis milžino išvaizdos Kukovaičio stabas.
 - susijęs iš Kukovaičio kalnas: Narbutas, remdamasis Strijkovskiu, rašo, kad ant Kukovaičio kalno buvusi dievams skirta giraitė ir Kukovaičio stabas.
@@ -59,10 +49,8 @@ Nenurodyta
     čio stabas stovėjo ant kalno prie Deltuvos. Jis buvo iš medžio,
     milžino išvaizdos.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

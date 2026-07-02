@@ -32,11 +32,6 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
 - t-001
   global_id: t-11262
   teiginys: 'Józef Wolff buvo 1886 m. Krokuvoje išleisto veikalo „Ród Gediminą“ autorius.'
-  sudarymo_pagrindimas: 'Bibliografinė citata remia autorystę, vietą ir metus.'
-  susije_objektai: 'mentioned_place: Krokuva'
-  temporaliniai_duomenys: 'įvykio data: 1886 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Bibliografinė citata remia autorystę, vietą ir metus.'
   pagrindžia:
     - c-001
 
@@ -44,8 +39,6 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
 - t-002
   global_id: t-11263
   teiginys: 'Istorikas Józef Wolff teigė, kad sunku Patirgą ir Ringailę laikyti vienos motinos vaikais.'
-  sudarymo_pagrindimas: 'Pašalintas šaltinio boilerplate, paliktas paremtas teiginys.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Patirgas|Patirgas]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_place: Viena; mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 - susijęs iš Ród Gediminą: Józefo Wolffo veikalas „Ród Gediminą“ buvo išleistas Krokuvoje 1886 m.
@@ -58,7 +51,6 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
     nius, 1848.
     Wolff = Wolff, Józef, Ród Gediminą. Kraków, 1886.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -77,7 +69,6 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
     gailė, ištekėjusi 1392 metais, vadinasi, po 44 metų, — būtų buvę
     gimę iš vienos motinos.
   citata_rodoma: ''
-  teiginio_tipas: interpretacija
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

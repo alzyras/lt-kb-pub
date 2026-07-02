@@ -22,21 +22,8 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 - t-001
   global_id: t-60319
   teiginys: 'Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą su didele kariuomene, degindamas ir grobdamas iki Girmavos kaimo.'
-  sudarymo_pagrindimas: 'Citata palaiko konkretų karo veiksmą ir maršruto ribą.'
-  susije_objektai: 'llm_object: Semba; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Girmava; mentioned_place: Kaimas; mentioned_place: Semba; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Kristburgas; llm_object: [[objektai/grupes/Sembai|Sembai]]; llm_object: Girmava'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Stange|Henrikas Stange]] surengė žygį į Semba; [[objektai/asmenys/Henrikas Stange|Henrikas Stange]] kariavo prieš [[objektai/grupes/Sembai|Sembai]]; [[objektai/asmenys/Henrikas Stange|Henrikas Stange]] keliavo į Girmava'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 338853-339626; hash=e15afefd28e357437c99782336ee83f3e9c2cbf87d58c83298bc84fa10b41623; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Semba: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Henrikas Stange: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Henriko Stangės karo žygį prieš Sembą.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175077|Sembai]]: Prieš sembų gentį buvo kariauta daug karų, o viename žygyje Kristburgo komtūras Henrikas Stange įsiveržė į Sembą.
 - susijęs iš Laukstetų pilis (pilis): Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą ties vieta, kur Dusburgiečio laikais stovėjo Laukstetų pilis.
 ## Reikšmingi paminėjimai
@@ -57,7 +44,6 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     kol jo kariuomenė užims saugesnę vietą, daugybę sužeidė ietimi. Galop prūsai klasta jį
     apsupo ir galybe smūgių nubloškė nuo žirgo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

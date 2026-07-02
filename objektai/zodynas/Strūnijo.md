@@ -27,7 +27,6 @@ Vartojamos formos: `strūnijo ar dailidavo`.
 - t-001
   global_id: t-07660
   teiginys: 'Strūnijo vartojama kalbant apie namų įrengimą, kuriam reikalingus įrankius žmonės patys kalė.'
-  sudarymo_pagrindimas: 'Citata palaiko namų įrengimo ir pačių kaltų įrankių ryšį.'
   pagrindžia:
     - c-001
     - c-002
@@ -36,8 +35,6 @@ Vartojamos formos: `strūnijo ar dailidavo`.
 - t-002
   global_id: t-07661
   teiginys: 'Strūnijo reiškia statė sau trobesius be svetimo meistro pagalbos.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai sieja žodį su savarankišku trobesių statymu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/daiktai/Ūkio įrankiai.md#claim-t-08360|Ūkio įrankiai]]: Įrankius jie patys sau kalė ir gaminosi be svetimo meistro, o šiame sąraše tiesiogiai minimi grąžtai, kaltai, Strūnos, skaptai, skrytulės, kirviai ir skliutai.
@@ -53,7 +50,6 @@ Vartojamos formos: `strūnijo ar dailidavo`.
         paregėjęs, tą turi padirbti. Ir taip jų grąžtai, kaltai, Strūnos^570 , skaptai, skrytulės^571 , kirviai, skliutai
         yra pačių dirbti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -68,7 +64,6 @@ Vartojamos formos: `strūnijo ar dailidavo`.
         dažyvėmis^567 savo prasma. Vyriškieji taip pat strūnijo^568 sau visus trobesius, svetimo meistro
         nereikalaudami, dailidavo ratus, važius, šlėdes, arba šlajas, ir roges.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -46,8 +46,6 @@ Nenurodyta
 - t-001
   global_id: t-67035
   teiginys: 'MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.'
-  sudarymo_pagrindimas: 'Sakinys aiškus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Agentai-smogikai|Agentai-smogikai]]; mentioned_group: [[objektai/grupes/MGB-KGB agentai smogikai|MGB-KGB agentai smogikai]]; mentioned_object: [[objektai/zodynas/agentai smogikai|agentai smogikai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -55,11 +53,6 @@ Nenurodyta
 - t-002
   global_id: t-67036
   teiginys: 'Apie 1948 m. sovietai aktyviai infiltravo agentus-smogikus į partizanų gretas ir net jų vadovybę.'
-  sudarymo_pagrindimas: 'Citata leidžia patikslinti laiką ir veikėją.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)|Šimonių girios apgultis (1949 m.)]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1948 m.; įvykio data: apie 1948 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia patikslinti laiką ir veikėją.'
   pagrindžia:
     - c-003
 
@@ -67,9 +60,6 @@ Nenurodyta
 - t-003
   global_id: t-67037
   teiginys: 'Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Agentai-smogikai|Agentai-smogikai]]; mentioned_place: Baltija; mentioned_place: Ukraina'
-  temporaliniai_duomenys: 'įvykio data: 1940-1950; įvykio data: 1950 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -93,7 +83,6 @@ Nenurodyta
     bių pabėgti ar pasitraukti iš spec. grupių sudėties, nes tuojau pat
     „kompromatas“ būtų pamestas tikriesiems partizanams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -120,7 +109,6 @@ Nenurodyta
     kaip kovos su priešiškomis žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gau-
     jomis rezervą ypatinguoju laikotarpiu ar karo metu.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -149,7 +137,6 @@ Nenurodyta
     pajėgoms galutinai palaužti partizaninį ju-
     dėjimą Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

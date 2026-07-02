@@ -40,9 +40,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 92177-92485; hash=9c3cef373af3db2233db63fe047b749e7f8d248eff37d492300f22f7dc1a43a8; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-66837"></a>
 - t-002
   global_id: t-66837
@@ -51,9 +48,6 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4b91fb598f34377b85388cf34b976f919b3d19233000d72073287e7ab02aae3d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -66,13 +60,10 @@ Nenurodyta
     vis artino į aisčių kraštą. Kurį laiką Padauguvio giminės net mo-
     kėjo jam duoklę — buvo pripažinusios jo valdžią.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'O Mindaugo laikais jie pavergė ir patį Polocką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -83,9 +74,7 @@ Nenurodyta
     paėmė į savo valdžią kai kurias jo valdytas kunigaikštijėles. O
     Mindaugo laikais jie pavergė ir patį Polocką.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

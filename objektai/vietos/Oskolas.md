@@ -21,16 +21,6 @@ Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir bud
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 385899-386445; hash=4539e8a7289ec142371ba5aef51cdd18420a27543b650627d9568e1095eb4f98; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Europa: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Budinai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Europa: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Ankstesniame sakinyje kalbama apie budinus, todėl frazė apie persikėlimą į Europą taikytina jiems.
 - susijęs iš [[objektai/grupes/Gelonai.md#claim-t-189488|Gelonai]]: Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo tėvynėje turėjo trečią šventąją Ross upę, tapatintą su Oskolu.
 - susijęs iš [[objektai/grupes/Budinai.md#claim-t-189468|Budinai]]: Narbutas rašė, kad budinai gyveno prie senovės Armėnijos Arakso, o vėliau persikėlė prie Volgos žemupio Arakso.
 ## Reikšmingi paminėjimai
@@ -48,10 +38,8 @@ Narbutas Oskolą tapatino su šventąja Ross upe, kurią siejo su gelonų ir bud
     kairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­
     kančią per jų sodybų vidurį, jie pavadino Rose (Ross).
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -31,29 +31,13 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
 - t-001
   global_id: t-59996
   teiginys: 'Pamedės kilmingasis Pipinas gyveno pilaitėje ir su būriais puldinėjo iš pilies išėjusius krikščionis.'
-  sudarymo_pagrindimas: 'Reikia pašalinti boilerplate ir suformuoti vientisą faktinį sakinį.'
-  susije_objektai: 'llm_object: Pilaitė; mentioned_place: Pilaitė; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Pipinas|Pipinas]] gyveno Pilaitė'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=eafcf7213028bf68f354ef9a427eb4e54211137e1d647b0ff36c273c641e2eac; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pipinas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Tekstas tiesiogiai vadina Pipiną kovotoju prieš Ordino agresiją.
 
 <a id="claim-t-59998"></a>
 - t-002
   global_id: t-59998
   teiginys: 'Ragavos vadas išdavė savo seserėną Pipiną broliams, kurie pririštą prie arklio uodegos Pipiną nuvilko iki Torunės ir pakorė po medžiu.'
-  sudarymo_pagrindimas: 'Reikia pataisyti sakinio sklandumą ir aiškiai įvardyti Pipiną.'
-  susije_objektai: 'llm_object: Torunė; mentioned_place: Torunė; mentioned_place: Pamedė; mentioned_place: Pilėnai'
-  semantiniai_rysiai: '[[objektai/asmenys/Pipinas|Pipinas]] mirė Torunė'
   pagrindžia:
     - c-001
 
@@ -61,24 +45,8 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
 - t-003
   global_id: t-59999
   teiginys: 'Pipinas buvo vienas pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatoje pateiktu vertinimu.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsų žemė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Kulmas; mentioned_place: Oliva; mentioned_place: Pamedė; mentioned_place: Torunė'
-  semantiniai_rysiai: '[[objektai/asmenys/Pipinas|Pipinas]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
-  temporaliniai_duomenys: 'įvykio data: iki 1223 m.; įvykio data: 1223 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatoje pateiktu vertinimu.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=108f8c8721107bebb3511f72dae20c667bf6d16c71c2f418cc283c719708d938; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyveno -> Pilaitė: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pipinas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Pilaitė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Pipinas gyveno pilaitėje.
 - susijęs iš [[objektai/posakiai/krikščioniškieji plėšikautojai.md#claim-t-59119|krikščioniškieji plėšikautojai]]: „Krikščioniškieji plėšikautojai“, veikę Ordino labui, galėjo pateikti nemaža žinių apie Lietuvos ir Prūsijos kraštus.
 - susijęs iš [[objektai/asmenys/Mata.md#claim-t-60055|Mata]]: Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui.
 - susijęs iš [[objektai/asmenys/Mata.md#claim-t-60056|Mata]]: Kilmingas pamedėnas Mata, Pipino sūnus, patarė broliams ir kariuomenei pulti priešus pėsčiomis, palikus arklius užnugaryje.
@@ -114,7 +82,6 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
     uolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė
     Kristaus tikėjimą222.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -135,7 +102,6 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
     išpjovus jam iš pilvo bambą  ir prikalus ją prie medžio, Pipinas, smarkiai mušamas,
     buvo verčiamas vaikščioti, kol visos žarnos susivijo aplink kamieną.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -154,7 +120,6 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
     gulėjo girti kas sau, nuvedė ten brolius su kariuomene, kurie juos smarkiai užpuolė,
     vienus išžudė, kitus paėmė į nelaisvę, o pilį pavertė pelenais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

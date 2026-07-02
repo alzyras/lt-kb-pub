@@ -22,21 +22,8 @@ tags:
 - t-001
   global_id: t-99928
   teiginys: 'Koložas buvo Gardino priemiestis.'
-  sudarymo_pagrindimas: 'Indekso fragmentas leidžia paremti trumpą faktą, bet pradinė ištrauka buvo triukšminga ir ne sakinio formos.'
-  susije_objektai: 'mentioned_place: Gardinas; mentioned_author: [[objektai/autoriai/L. Kolankowski|L. Kolankowski]]; mentioned_place: Knituva; mentioned_place: Kolainiai; mentioned_place: Kolainių pilis; mentioned_place: Maskva; mentioned_place: Šušvė; llm_object: Gardinas'
-  semantiniai_rysiai: 'Koložas priklausė Gardinas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f7db4eb9bf476d67fec35ced76ccdb7329204d42d924b69c602ecfc494300b7d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Gardinas: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Koložas: llm_allowed_candidate, place
-  ryšio_targeto_parinkimas: Gardinas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai apibrėžia Koložą kaip Gardino priemiestį.
 - susijęs iš Naugardukas: Naugardukas 1044 m. Jaroslavo buvo įkurtas, tikėtina, dar lietuvių gyvenamoje žemėje.
 ## Reikšmingi paminėjimai
 
@@ -75,7 +62,6 @@ tags:
     Konrad Zöllner von Rottenstein,
     D. mag.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

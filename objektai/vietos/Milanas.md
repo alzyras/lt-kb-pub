@@ -29,23 +29,8 @@ Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metai
 - t-001
   global_id: t-58706
   teiginys: '1311 m. sausio 6 d. Romos karalius Henrikas prie Milano buvo vainikuotas geležiniu vainiku.'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės ir bibliografinio triukšmo, bet citata palaiko aiškų faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]'
-  temporaliniai_duomenys: 'įvykio data: 1311 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi antraštės ir bibliografinio triukšmo, bet citata palaiko aiškų faktą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e85ae99953b0c3cf5cc9805f166eddec1d653c0b01a6ccb11bffaabc256fa6c2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Romos karalius: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Milanas: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: Romos karalius: mention_match, thing, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Milanas" parinktas kaip owner_note_path. Targetas "Romos karalius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Henrikas VII.md#claim-t-59978|Henrikas VII]]: 1311 m. sausio 6 d. Henrikas VII prie Milano buvo vainikuotas geležiniu vainiku.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173333|Žygimantas Senasis]]: Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.
 - susijęs iš [[objektai/ivykiai/Henriko vainikavimas prie Milano geležiniu vainiku (1311 m. sausio 6 d.).md#claim-t-62289|Henriko vainikavimas prie Milano geležiniu vainiku (1311 m. sausio 6 d.)]]: 1311 m. sausio 6 d. Henrikas, Romos karalius, prie Milano buvo vainikuotas geležiniu vainiku.
@@ -77,7 +62,6 @@ Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metai
       1311 viešpaties metais, per tris karalius sausio 6 dieną, Henriką, Romos karalių,
     vainikavo prie Milano geležiniu vainiku (Ptol. p. 1234; Mart. p. 446).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

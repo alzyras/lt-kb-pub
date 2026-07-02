@@ -27,7 +27,6 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
 - t-001
   global_id: t-70422
   teiginys: 'Šaldros buvo į kraštą atklydę prašalaičiai, mėginę įbrukti savo nuomonę apie dievą ir įkurti naują tikybą.'
-  sudarymo_pagrindimas: 'Citata leidžia apibūdinti šaldras kaip atklydusius prašalaičius, siekusius skleisti naują tikybą.'
   pagrindžia:
     - c-001
     - c-002
@@ -46,7 +45,6 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
   citata_originali: |
     Užvis jog šaldrų^709 ir prašaleičių, atklydusių į savo kraštą, kurie norėjo savo nuomonę apie dievą jiems įbrukti ir tikybą naują įkurti, tuos, kaipo norinčius sau valdžią įgyti ir svietą nuvergti, be meilės galavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -63,7 +61,6 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
         ąžuolo buvusi anga, o užpakalinėj rūsiai, kuriuose indai ir kiti įrankiai, tai lietai^772 derantys, buvę
         laikomi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

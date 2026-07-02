@@ -44,8 +44,6 @@ Terminas žymi nustatytą kariuomenės skaičių ar karo etatą, nuo kurio prikl
 - t-001
   global_id: t-09709
   teiginys: 'Komputu lenkiškai vadintas karo tarybos nustatytas karo etatas.'
-  sudarymo_pagrindimas: 'Pašalintas šaltinio boilerplate, teiginys paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Turkija; mentioned_place: Vengrija'
   pagrindžia:
     - c-001
 
@@ -59,7 +57,6 @@ Terminas žymi nustatytą kariuomenės skaičių ar karo etatą, nuo kurio prikl
     šiaurę, siekdama užvaldyti visą Vengrijos pastangų, kai prispiria reikalas, tačiau ji niekad nepasiekia 48 000 vyrų skaičiaus, kurį
     teritoriją (dalis Vengrijos jau priklausė nustatė karo taryba [etat de la guerre], lenkiškai vadinama komputu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

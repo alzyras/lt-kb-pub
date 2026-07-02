@@ -47,48 +47,18 @@ Viešai nuplaktas Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaz
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 19289-19589; hash=5c275f45edc93edaeb7b340b3403a2c22d914a2c9b74cc85914ba4ae4292383a; match=exact
-  sprendimo_priezastis: gap::events
-  ryšio_patikimumas: susije_su -> Liudvikas Narbutas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Liudvikas Narbutas: mention_match, person, gap=42
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.)" parinktas kaip owner_note_path. Targetas "Liudvikas Narbutas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - t-005
   teiginys: 'Liudvikas Narbutas buvo kaltinamas priešvalstybine agitacija ir siekiu sukurti slaptą organizaciją.'
   pagrindžia:
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 19289-19589; hash=5c275f45edc93edaeb7b340b3403a2c22d914a2c9b74cc85914ba4ae4292383a; match=exact
-  sprendimo_priezastis: gap::events
-  ryšio_patikimumas: susije_su -> Liudvikas Narbutas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.): owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Liudvikas Narbutas: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.)" parinktas kaip owner_note_path. Targetas "Liudvikas Narbutas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - t-006
   teiginys: 'Po tardymo, kalinimo ir viešo nuplakimo Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaze veikusią Rusijos armiją.'
   pagrindžia:
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 19289-19589; hash=5c275f45edc93edaeb7b340b3403a2c22d914a2c9b74cc85914ba4ae4292383a; match=exact
-  sprendimo_priezastis: gap::events
-  ryšio_patikimumas: siunte_i -> Kaukazas: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Liudvikas Narbutas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kaukazas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Liudvikas Narbutas buvo išsiųstas į Kaukazą.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -101,15 +71,12 @@ Viešai nuplaktas Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaz
     tą rykštėmis, sūnų išsiunčia eiliniu kareiviu į Kaukaze veikian­
     čią rusų armiją. Tai buvo didelis smūgis tėvui.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
     - t-005
     - t-006
-
 ## Data ir vieta
 
 Data: 1850 m. Vieta: Vilniaus gimnazija.

@@ -29,41 +29,15 @@ Grekov, B. D. i Jakubov ­ skij, A. J. : Zolotaja Orda i ee padenije, Moskva-Len
 - t-001
   global_id: t-54121
   teiginys: 'A. J. Jakubovskij su B. D. Grekovu 1950 m. Maskvoje-Leningrade išleido veikalą „Zolotaja Orda i ee padenije“.'
-  susije_objektai: 'mentioned_place: Varšuva'
-  temporaliniai_duomenys: 'įvykio data: 1950 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=08a2d7d91520c6d4986fb67863ccb766a8c1b793570c1e8317b983f925587744; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Varšuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jakubovskij, A. J: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Varšuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jakubovskij, A. J" parinktas kaip owner_note_path. Targetas "Varšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-54122"></a>
 - t-002
   global_id: t-54122
   teiginys: 'A. J. Jakubovskij su B. D. Grekovu parašė veikalą „Zolotaja Orda i ee padenije“, išleistą Maskvoje ir Leningrade 1950 m.'
-  susije_objektai: 'mentioned_place: Leningradas; mentioned_place: Maskva; mentioned_place: Varšuva'
-  temporaliniai_duomenys: 'įvykio data: 1950 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=08a2d7d91520c6d4986fb67863ccb766a8c1b793570c1e8317b983f925587744; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Leningradas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Jakubovskij, A. J: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Leningradas: mention_match, place, gap=102
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jakubovskij, A. J" parinktas kaip owner_note_path. Targetas "Leningradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -75,7 +49,6 @@ Grekov, B. D. i Jakubov ­ skij, A. J. : Zolotaja Orda i ee padenije, Moskva-Len
     skij, A. J. : _Zolotaja Orda i ee padenije,_ Moskva-Leningrad 1950 (plati
     bibliogr.) ; Varšuvoje 1953 išl. lenk. vertimas (Złota Orda i jej upadek).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

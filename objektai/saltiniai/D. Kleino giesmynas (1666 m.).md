@@ -23,9 +23,6 @@ D. Kleino giesmynas datuojamas 1666 metais. 1666 m. D. Kleinas išleido dvi gies
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=080156330fffa534577d6491b3048f8b1cfa4cb02feca114edc00df1bd31840f; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 <a id="claim-t-67365"></a>
 - t-002
   global_id: t-67365
@@ -34,9 +31,6 @@ D. Kleino giesmynas datuojamas 1666 metais. 1666 m. D. Kleinas išleido dvi gies
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1218455-1218483; hash=bd624caf22e8f4c2e5e148cff577af0980056640e09e42f08844b0bdb4f2e82e; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -54,21 +48,16 @@ D. Kleino giesmynas datuojamas 1666 metais. 1666 m. D. Kleinas išleido dvi gies
     kurios ėjo pagrindu vėlesnėms lietuvių liu-
     terionių giesmynų laidoms.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'D. Kleino giesmynas datuojamas 1666 metais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1666 m. D. Kleino giesmynas.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

@@ -21,16 +21,6 @@ Narbutas lietuvių religiją lygino su galų druidų tikėjimu, aiškindamas pan
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 151789-152598; hash=b4803faa2d77d9affb46596b34037c94bd074f08b31c4a335eca7bfdbd224273; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_priesas -> Herulai: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Gotai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Herulai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Citatoje tiesiogiai pasakyta, kad gotai buvo herulų priešai.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -52,9 +42,7 @@ Narbutas lietuvių religiją lygino su galų druidų tikėjimu, aiškindamas pan
     prasimanymų, kurių pėdsakai pastebimi menkiausiuose mi­
     luose, apeigose ir kitose religinėse smulkmenose.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

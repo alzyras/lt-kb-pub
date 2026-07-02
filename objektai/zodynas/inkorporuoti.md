@@ -21,20 +21,8 @@ Taip pat kitus kaimus prie Teterino dvaro, išsi­ dėsčiusius greta Pruto upė
 - t-001
   global_id: t-86581
   teiginys: 'Kaimai prie Teterino dvaro, išsidėstę greta Pruto upės, šiuo raštu inkorporuoti, grąžinti ir užrašyti Teterino dvarui.'
-  sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą inkorporavimą ir užrašymą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_place: Prutas; mentioned_place: Teterinas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=174be8baca8c85128a128427338ebca668519daaa0e7ed421f50789544baef57; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bona: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: inkorporuoti: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bona: mention_match, person
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "inkorporuoti" parinktas kaip owner_note_path. Targetas "Bona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Prutas: Prie Pruto upės buvę kaimai buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui.
 - susijęs iš Prutas: Kaimai greta Pruto upės buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179140|Lenkai]]: Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Lenkijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika.
@@ -93,7 +81,6 @@ Taip pat kitus kaimus prie Teterino dvaro, išsi­ dėsčiusius greta Pruto upė
     šyti bei šiuo raštu inkorporuojame, grąžiname ir užrašome
     minėtam Teterino dvarui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

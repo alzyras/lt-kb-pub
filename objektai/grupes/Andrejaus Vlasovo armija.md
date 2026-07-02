@@ -20,21 +20,8 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
 - t-001
   global_id: t-19632
   teiginys: 'Naciai Lietuvoje akcijose prieš žydus panaudojo Andrejaus Vlasovo armijos dalinius.'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys ir tiesiogiai remiasi citata.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Žydai|Žydai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Andrejaus Vlasovo armija|Andrejaus Vlasovo armija]] kariavo prieš [[objektai/grupes/Žydai|Žydai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5bac17ee17c027735d9a98f7b82c2dba6c07fb9f81c786e15ca98181870577cd; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: kariavo_pries -> Žydai: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Andrejaus Vlasovo armija: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Žydai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Claimas tiesiogiai nurodo, kad armijos daliniai buvo panaudoti akcijose prieš žydus.
 
 ## Reikšmingi paminėjimai
 
@@ -48,7 +35,6 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
     prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armi-
     jos dalinius, ukrainiečių, latvių policijos batalionus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

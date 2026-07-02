@@ -29,15 +29,8 @@ amziai:
 - t-001
   global_id: t-26360
   teiginys: 'Posakis „Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins“ buvo įsiutusių karininkų perspėjimas Seimo nariui.'
-  sudarymo_pagrindimas: 'Reikia aiškiai įvardyti patį posakį ir pašalinti perteklinį kontekstą.'
-  temporaliniai_duomenys: 'įvykio data: po 1927 m.; įvykio data: 1927 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti patį posakį ir pašalinti perteklinį kontekstą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 312486-312941; hash=85308914ee0df38ccd9371aefc4e61ddd3f0408bbcd5380a18f529ce65ba6d65; match=whitespace_regex
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/daiktai/Raudonos vėliavos.md#claim-t-19584|Raudonos vėliavos]]: 1926 m. rudenį po komunistų mitingų chuliganai su raudonomis vėliavomis gatvėse užkabinėjo uniformuotus kariškius.
 ## Reikšmingi paminėjimai
 
@@ -53,7 +46,6 @@ amziai:
     sumažinsite, o kariuomenė jus sumažins.“ Staigios reformos ir kilnūs val-
     džios siekiai atsisuko prieš ją pačią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

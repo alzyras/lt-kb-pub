@@ -21,7 +21,6 @@ Dusburgietis teigia, kad ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59):
 - t-001
   global_id: t-60998
   teiginys: 'Judas Makabėjus, su saujele savųjų stovėdamas prieš didelę kariuomenę, drąsino juos nebijoti priešų daugybės.'
-  sudarymo_pagrindimas: 'Citata tiesiogiai nurodo Judą Makabėjų, aplinkybes ir jo drąsinimą.'
   pagrindžia:
     - c-001
 
@@ -38,7 +37,6 @@ Dusburgietis teigia, kad ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59):
     kaip buvo išgelbėti mūsų tėvai Raudonojoje jūroje, kai juos vijosi faraonas su gausinga
     kariuomene.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

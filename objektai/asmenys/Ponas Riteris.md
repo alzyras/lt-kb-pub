@@ -21,16 +21,6 @@ Narbutas rašo, kad ponas Riteris savo „Siaurės senovės tyrimuose“ plačia
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 176897-177279; hash=715dbb3a7bd4520960790418870ec4a3a60ac494451b0fb26462b6ded3bf78b0; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Baltija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ponas Riteris: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=99
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ponas Riteris" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Riteris.md#claim-t-190403|Riteris]]: Narbutas nurodė, kad Riteris savo „Šiaurės senovės tyrimuose“ plačiai aptarė padavimą apie saulės garbinimą prie Baltijos jūros.
 - susijęs iš [[objektai/asmenys/Plinijus.md#claim-t-190200|Plinijus]]: Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus pastebėtą Saulės, arba Apolono, garbinimą prie Baltijos jūros.
 - susijęs iš [[objektai/asmenys/Riteris.md#claim-t-190239|Riteris]]: Narbutas nurodo, kad ponas Riteris „Šiaurės senovės tyrimuose“ plačiai aptarė saulės, arba Apolono, garbinimą prie Baltijos jūros.
@@ -53,9 +43,7 @@ Narbutas rašo, kad ponas Riteris savo „Siaurės senovės tyrimuose“ plačia
     binamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba
     ponas Riteris savo Siaurės senovės tyrimuose15.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

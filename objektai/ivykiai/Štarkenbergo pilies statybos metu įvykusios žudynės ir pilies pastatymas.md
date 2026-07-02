@@ -39,58 +39,22 @@ Nenurodyta
 - t-001
   global_id: t-89423
   teiginys: 'Štarkenbergo pilies statybos metu prūsų kariuomenė netikėtai užpuolė ir išžudė magistro sušauktus darbininkus.'
-  sudarymo_pagrindimas: 'Pradinis teiginys beveik tinkamas, bet reikia aiškiai įvardyti įvykį ir pašalinti perteklinę formą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsų žemė; mentioned_place: Štarkenbergas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 447081-447759; hash=99c0082dac97c208261aa8c9158ecfea293167bb52fd82d0e025aa95580433dc; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Štarkenbergas: 0.74
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Štarkenbergas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teutonų ordino broliai ir magistras citatoje siejami su Štarkenbergo pilies statyba.
 
 <a id="claim-t-89424"></a>
 - t-002
   global_id: t-89424
   teiginys: 'Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams prie Osos pastatyti būsimą Štarkenbergo pilį.'
-  sudarymo_pagrindimas: 'Pirminis teiginys neįvardijo Štarkenbergo pilies, nors citata leidžia ją aiškiai susieti su įsakymu.'
-  susije_objektai: 'mentioned_place: Štarkenbergas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; llm_object: Štarkenbergas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 447081-447759; hash=99c0082dac97c208261aa8c9158ecfea293167bb52fd82d0e025aa95580433dc; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Štarkenbergas: 0.72
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Teutonai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Štarkenbergas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata nurodo, kad ordino magistras su žmonėmis užbaigė statyti Štarkenbergo pilį.
 
 <a id="claim-t-89425"></a>
 - t-003
   global_id: t-89425
   teiginys: 'Po pirmųjų statybų žudynių magistras vėl sušaukė žmones, užbaigė Štarkenbergo pilį ir jai ginti paskyrė brolių bei ginklanešių.'
-  sudarymo_pagrindimas: 'Teiginys glaustai ir aiškiai perteikia citatoje aprašytą pilies užbaigimą po žudynių.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Štarkenbergas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; llm_object: Štarkenbergas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 447081-447759; hash=99c0082dac97c208261aa8c9158ecfea293167bb52fd82d0e025aa95580433dc; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Prūsų žemė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=34
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -107,11 +71,9 @@ Nenurodyta
     žmones ir tada per dievo malonę užbaigė statydinti šią pilį, kurią pavadino Štarkenbergo
     vardu, kuris lotyniškai reiškia tvirtą kalną, o jai ginti paskyrė daug brolių bei ginklanešių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
     - t-004

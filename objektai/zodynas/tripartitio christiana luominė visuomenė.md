@@ -23,8 +23,6 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
 - t-001
   global_id: t-22330
   teiginys: 'Tripartitio christiana samprata siejama su Viduramžių luomų idėja ir visuomenės skirstymu į karius, dvasininkus bei dirbančiuosius.'
-  sudarymo_pagrindimas: 'Pirminis teiginys silpnai siejosi su objektu, todėl perrašytas pagal tiesiogiai citatoje pagrįstą informaciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -43,7 +41,6 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
     privilegijas ne tik Vilniaus vyskupui, bet ir bajorams, patvirtindamas jų
     nuosavybę, ir Vilniaus miestiečiams, suteikdamas jiems savivaldą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

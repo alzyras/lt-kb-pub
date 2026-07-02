@@ -27,16 +27,6 @@ Narbutas rašė, kad prie Upinės upelio dar buvo prisimenama moterų brolija, a
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 251844-252244; hash=160674369722abfd10e356dae77a5a9f047b13a8e30a54eec57b2aff05c980a2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> kunigas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Upinės moterų brolija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: kunigas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Upinės moterų brolija" parinktas kaip owner_note_path. Targetas "kunigas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 <a id="claim-t-189506"></a>
 - t-002
   global_id: t-189506
@@ -45,16 +35,6 @@ Narbutas rašė, kad prie Upinės upelio dar buvo prisimenama moterų brolija, a
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 252245-252809; hash=859596971f33e1ba806a898a21d25a34cacc22b75615eca44730d2806180471f; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Raganos: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Upinės moterų brolija: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Raganos: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Upinės moterų brolija" parinktas kaip owner_note_path. Targetas "Raganos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -70,13 +50,10 @@ Narbutas rašė, kad prie Upinės upelio dar buvo prisimenama moterų brolija, a
     kas (Jankowski) smulkiai pasakojo, ką pats prieš 40 metų ma­
     tęs.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas pasakojo, kad iki uždraudimo Upinės moterų brolija per Rasas rinkdavosi prie upelio vadovaujama nepažįstamos senės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -91,9 +68,7 @@ Narbutas rašė, kad prie Upinės upelio dar buvo prisimenama moterų brolija, a
     nešdavo žuvų, vėžių, laukinių ir naminių vandens paukščių,
     paršelių, sidabrinių pinigų.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

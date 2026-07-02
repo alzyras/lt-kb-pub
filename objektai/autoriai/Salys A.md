@@ -28,8 +28,6 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
 - t-001
   global_id: t-64844
   teiginys: 'Asmenvardžio Ramego (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su lie.'
-  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nemunas; mentioned_place: Šilutė'
   pagrindžia:
     - c-002
 
@@ -37,11 +35,6 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
 - t-002
   global_id: t-64846
   teiginys: 'A. Salys Ragainės vardo kilmę siejo su Lietuva.'
-  sudarymo_pagrindimas: 'Citata palaiko aiškią autoriaus poziciją, o pradinė formuluotė yra fragmentiška.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Salys|A. Salys]]; mentioned_place: Lietuva; mentioned_place: Ragainė; mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_place: Semba'
-  temporaliniai_duomenys: 'įvykio data: 1312 m.; įvykio data: 1549 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata palaiko aiškią autoriaus poziciją, o pradinė formuluotė yra fragmentiška.'
   pagrindžia:
     - c-001
 
@@ -57,7 +50,6 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
     Semboje buvusi Ragayne (GAO, p. 137, plg. taip pat Ragow — ten pat), Rogayne (1312
     m.—SU, 1, Nr. 215, p. 128), Rogayn, Rogow (ten pat, p. 143), Reginge (GAO, p. 140).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -73,7 +65,6 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
     pilis — greičiausiai Rambynas, kalnas deš. Nemuno krante (Vilkyškių k. Šilutės rj.)
     žemiau Ragainės, pagoniška šventovėpilis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

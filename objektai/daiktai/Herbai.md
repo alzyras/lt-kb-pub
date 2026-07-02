@@ -51,7 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-12289
   teiginys: 'Horodlės unijos punktu 47 lietuviams bajorams buvo suteikti 47 lenkų bajorų herbai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Horodlė; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
     - c-003
@@ -60,7 +59,6 @@ Nenurodyta
 - t-002
   global_id: t-12290
   teiginys: 'Turintieji tą patį herbą buvo laikomi giminėmis, jiems leistos abipusės vedybos, o tai suartino abiejų valstybių aukštąjį luomą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -68,183 +66,64 @@ Nenurodyta
 - t-003
   global_id: t-12291
   teiginys: 'Vytauto laikais Lietuvos bajorija gavo herbus ir per juos įgijo luomo savygarbos.'
-  sudarymo_pagrindimas: 'Teiginys gramatinis, enciklopedinis ir paremtas citatos mintimi apie herbus bei luomo savygarbą.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/daiktai/Herbai|Herbai]] priklausė [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]'
   pagrindžia:
     - c-009
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 465839-466081; hash=225269ed30d5575527e47e2fa7831de862c842efb34d2f300ef1b5184bce30e2; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Bajorai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=39
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-12292"></a>
 - t-004
   global_id: t-12292
   teiginys: '1413 m. privilegija teises suteikė tik katalikams, kurie turėjo herbus arba clenodia.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1413 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 466082-466469; hash=92b83efa12a005695b7cfa3dedbc294d2e777898f884cddebeee09e024f9e383; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Herbas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Herbas: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-92960"></a>
 - t-005
   global_id: t-92960
   teiginys: 'Lietuvos istorikai teigė, kad lenkai herbus pasisavino iš čekų, o šie juos perėmė iš romėnų.'
-  sudarymo_pagrindimas: 'Reikia pašalinti kontekstinę pradžią ir sutrumpinti iki paremto fakto apie herbus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1fe07b80e898c8342e13d939985d1feeb33f4015a811248419cb1921647d723d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuvos bajorija: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Herbai: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Lietuvos bajorija: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Tekstas tiesiogiai sako, kad Lietuvos bajorija gavo herbus, todėl herbai priskirtini šiai grupei.
 
 <a id="claim-t-92961"></a>
 - t-006
   global_id: t-92961
   teiginys: 'Horodlės unijoje 47 pirmaeilinės Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus.'
-  sudarymo_pagrindimas: 'Sakinys tiksliai perteikia citatoje nurodytą Horodlės unijos punktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_place: Europa; mentioned_place: Horodlė; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: [[objektai/grupes/Bajorai|Bajorai]]'
-  semantiniai_rysiai: '[[objektai/daiktai/Herbai|Herbai]] priklausė [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-010
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 710182-710428; hash=40bed2be37ae11d7d41328622527576356f57f93d65e73023d891750a28af701; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-92962"></a>
 - t-007
   global_id: t-92962
   teiginys: 'Herbyne „Stemmata Polonica“ užfiksuotas XVI a. vidurio LDK herbas Vytis.'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo ir nesusijusių fragmentų, o citata pagrindžia tik faktą apie Vytį herbyne.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_author: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_author: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius]]; mentioned_person: [[objektai/asmenys/Julius Slovackis|Julius Slovackis]]; mentioned_place: Austrija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1791 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR triukšmo ir nesusijusių fragmentų, o citata pagrindžia tik faktą apie Vytį herbyne.'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=23a3e3867ad0af84a579f16c9c41c92ca3aa8decd644800de9ff033662a0bc93; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Herbas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Herbas: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-92963"></a>
 - t-008
   global_id: t-92963
   teiginys: 'Gedimino stulpai ir Jogailos kryžius XVI a. viduryje buvo pavaizduoti herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.'
-  sudarymo_pagrindimas: 'Pradinė formuluotė yra antraštinis fragmentas, bet citata pagrindžia pilną faktinį sakinį.'
-  susije_objektai: 'mentioned_place: Paryžius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0a592d52ebd75565d6d91151fdc6a80f414c79be834d68d99a121c53a66978de; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Paryžius: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Paryžius: mention_match, place, gap=54
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Paryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-92964"></a>
 - t-009
   global_id: t-92964
   teiginys: 'LDK herbas Vytis XVI a. viduryje buvo pavaizduotas herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.'
-  sudarymo_pagrindimas: 'Pradinė formuluotė yra iliustracijos antraštė, todėl ją reikia paversti faktiniu sakiniu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Paryžius; mentioned_author: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_author: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius]]; mentioned_person: [[objektai/asmenys/Julius Slovackis|Julius Slovackis]]; mentioned_place: Austrija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1791 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė yra iliustracijos antraštė, todėl ją reikia paversti faktiniu sakiniu.'
   pagrindžia:
     - c-007
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=23a3e3867ad0af84a579f16c9c41c92ca3aa8decd644800de9ff033662a0bc93; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Herbas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Herbas: mention_match, thing, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-92965"></a>
 - t-010
   global_id: t-92965
   teiginys: 'Lenkai didžiuodamiesi pabrėždavo, kad Lietuvos bajorijai davė savo herbus.'
-  sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalinta perteklinė, ne apie herbus esanti dalis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: [[objektai/grupes/Lenkai|Lenkai]]'
-  semantiniai_rysiai: '[[objektai/daiktai/Herbai|Herbai]] priklausė [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f9bf83d5b3ac787dd1024e04fd9aa1d89e557ec37ad1e3358555ffb64a2dc929; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Bajorai: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Herbai: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Bajorai: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Herbai buvo suteikti Lietuvos bajorams, todėl santykis su bendru bajorų kandidatu yra tiesiogiai paremtas, nors kandidatas nėra susiaurintas iki Lietuvos bajorų.
 
 <a id="claim-t-92966"></a>
 - t-011
   global_id: t-92966
   teiginys: 'Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius - herbus ir palengva virto atskiru luomu.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai remiasi citata.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/daiktai/Herbai|Herbai]] priklausė [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]'
   pagrindžia:
     - c-009
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=1fe07b80e898c8342e13d939985d1feeb33f4015a811248419cb1921647d723d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Lietuvos bajorija: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Herbai: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Lietuvos bajorija: llm_allowed_candidate, group
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Lietuvos bajorija gavo herbus.
 - susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-188597|Motiejus Strijkovskis]]: Narbutas rašo, kad, Strijkovskio teigimu, kai kurios Lietuvos kunigaikščių giminės turėjo tikrus savo herbus.
 - susijęs iš [[objektai/autoriai/J. B. Rakoveckis.md#claim-t-190430|J. B. Rakoveckis]]: J. B. Rakoveckis išleido „Rusų tiesą“, kurią Narbutas mini kaip šaltinį apie kitų tautų antspaudus ir herbus.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-190644|Motiejus Strijkovskis (kronikininkas)]]: Narbutas rašo, kad Strijkovskio teigimu kai kurios lietuvių giminės turėjo tikrus herbus: Hipokentaurą, Stulpus, Rožę ir Vytį.
@@ -282,7 +161,6 @@ Nenurodyta
     vo padarytas lietuvių lenkų giminystės bei moralinis ryšys, pa­
     daręs tiek daug žalos Lietuvai ištautėjimo pavidale.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -299,7 +177,6 @@ Nenurodyta
     ko Lietuva ir neteko savo tautiškos aristokratijos. Šis unijos
     punktas ir bus buvęs vienas iš žalingiausių mūsų kraštui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -317,7 +194,6 @@ Nenurodyta
     broliavo” su žymesniais Lietuvos bajorais sutiekdami jiems
     savo nobiliteto pažymius — herbus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -332,7 +208,6 @@ Nenurodyta
     lici et romanae ecclesiae subjecti, et quibus clenodia sunt con­
     cessa“^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -352,7 +227,6 @@ Nenurodyta
     išvadą, kad iš romėnų kilę lietuviai esą kilnesni už len-
     kus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -371,7 +245,6 @@ Nenurodyta
     Lenkai tada didžiuodamiesi pabrėždavo, kad jie atnešę Lie-
     tuvai vakarų Europos kultūrą, o bajorijai davę savo herbus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -404,7 +277,6 @@ Nenurodyta
     „Stemmata Polonica“ (saugomo
     Paryžiuje), XVI a. vid.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -426,7 +298,6 @@ Nenurodyta
     vinti tokius iš LDK erdvių kilusius fenomenus kaip pirtį ir „horilką“ arba
     „vodką“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -447,7 +318,6 @@ Nenurodyta
     siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto
     luomu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -469,7 +339,6 @@ Nenurodyta
     be abejo, tautiniu atžvilgiu lietuviams buvo labai ir labai kenks­
     mingi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

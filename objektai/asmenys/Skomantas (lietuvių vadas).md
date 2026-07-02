@@ -22,21 +22,8 @@ Kitais metais sūduvių ir lietuvių vadas Skomantas (Didžiojo magistro kroniko
 - t-001
   global_id: t-40424
   teiginys: 'Sūduvių ir lietuvių vadas Skomantas su didele kariuomene siaubė Kulmo teritoriją, puolė Kulmą ir sunaikino Eimsučio bei Cipelio pilis.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Skomantą ir tiksliai remiasi citata.'
-  susije_objektai: 'llm_object: Kulmas; mentioned_person: [[objektai/asmenys/Cipelis|Cipelis]]; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Drūsinė; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Pagansčiai; mentioned_place: Pamedė'
-  semantiniai_rysiai: '[[objektai/asmenys/Skomantas (lietuvių vadas)|Skomantas (lietuvių vadas)]] puolė Kulmas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=30100a0e87b1ccc075082c31ebdc94932d4fbf4744ba0f155a3991efd3393de0; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Kulmas: 0.96
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Skomantas (lietuvių vadas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kulmas: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo, kad Skomantas puolė Kulmą.
 
 ## Reikšmingi paminėjimai
 
@@ -59,7 +46,6 @@ Kitais metais sūduvių ir lietuvių vadas Skomantas (Didžiojo magistro kroniko
     puolė Elbingą, paėmė papilį, sunaikino dvi
     pilis į rytus nuo Drūsinės ežero.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

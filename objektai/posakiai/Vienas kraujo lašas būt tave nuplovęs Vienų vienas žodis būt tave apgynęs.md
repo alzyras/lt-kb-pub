@@ -28,37 +28,15 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
 - t-001
   global_id: t-41468
   teiginys: 'Poeto Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 metų įvykių vertinimu.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai sieja Aisčio eilutę su 1940 m. įvykių vertinimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1792 m.; įvykio data: 1940 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja Aisčio eilutę su 1940 m. įvykių vertinimu.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=9c6f2c6c438d658c2b71a5569654d5a3d026a5059f277007543dc714589a6fc2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-41469"></a>
 - t-002
   global_id: t-41469
   teiginys: 'Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ aiškina kaip priminimą apie protestų ir Vyriausybės pasitraukimo galimybę 1940 m.'
-  sudarymo_pagrindimas: 'Citata remia interpretaciją, bet ją reikia aiškiai atribuoti ir patikslinti pasipriešinimo formas.'
-  temporaliniai_duomenys: 'įvykio data: 1940 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata remia interpretaciją, bet ją reikia aiškiai atribuoti ir patikslinti pasipriešinimo formas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=0bb0164f5d8b5df55acdb98f7b049de73cbda2f1cce31dd4305311c4a6761a56; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -79,7 +57,6 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
     pasitraukimu, kas ir buvo siūloma 1940 m. birželio 15 nakties po-
     sėdyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -97,7 +74,6 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
     nekreipia dėmesio į tai, kad 1940 m. birželio 15 ryte Ūtos pasienio
     poste buvo nužudytas pasienietis Aleksandras Barauskas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

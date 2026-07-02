@@ -41,12 +41,8 @@ Nenurodyta
 - t-001
   global_id: t-40700
   teiginys: 'Buzdyganas XVII a. pabaigoje - XVIII a. buvo ATR tautinės kavalerijos karininkų valdžios ženklas.'
-  sudarymo_pagrindimas: 'Teiginys aiškus, gramatinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=fc7ca4644485d8fdd522ebefab87998cafc7ec20a79cf1a3984a9e899b081e07; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -64,7 +60,6 @@ Nenurodyta
     XVII a. antroji pusė bei visas xviii a. tai linijinės taktikos epocha
     karyboje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

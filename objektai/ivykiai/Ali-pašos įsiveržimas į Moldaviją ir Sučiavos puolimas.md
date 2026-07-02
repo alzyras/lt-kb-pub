@@ -48,64 +48,22 @@ Nenurodyta
 - t-001
   global_id: t-186765
   teiginys: 'Redakcinė pastaba nurodo, kad aptariamas žygis gali būti siejamas su Rumelijos vietininko Ali-pašos žygiu į Moldaviją 1485 m. vasarą.'
-  teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_place: Moldavija; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Belgorodas; mentioned_place: Isteris; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'mūšio data: 6994 m; mūšio data: 1484 m.; mūšio data: 1485 m.; mūšio data: 1486 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3a4d7dab584edf6cea9a10ff3e185fe7eed4feb0383625e97b9190052d106f2a; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Moldavija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Moldavija: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas" parinktas kaip owner_note_path. Targetas "Moldavija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186766"></a>
 - t-002
   global_id: t-186766
   teiginys: 'Redakcinė pastaba nurodo, kad Steponui būnant Kolomyjoje Ali-pašos vadovaujama kariuomenė giliai įsiveržė į Moldaviją.'
-  teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_place: Moldavija; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Kolomyja; mentioned_place: Turkija'
-  temporaliniai_duomenys: 'įvykio data: 1485 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c6e2bcfce6e6f8f7fd9c18f7c196e933fc7fc63f9eaf2b10603a4f9acec73439; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Moldavija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Moldavija: mention_match, place, gap=51
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas" parinktas kaip owner_note_path. Targetas "Moldavija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186767"></a>
 - t-003
   global_id: t-186767
   teiginys: 'Redakcinė pastaba nurodo, kad 1485 m. rugsėjo 19–20 d. buvo puolama Moldavijos sostinė Sučiava.'
-  teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_place: Moldavija; mentioned_place: Sučiava; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Turkija'
-  temporaliniai_duomenys: 'įvykio data: 1485 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=c6e2bcfce6e6f8f7fd9c18f7c196e933fc7fc63f9eaf2b10603a4f9acec73439; match=fallback; occurrences=0
-  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
-  ryšio_patikimumas: susije_su -> Moldavija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Moldavija: mention_match, place, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas" parinktas kaip owner_note_path. Targetas "Moldavija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -122,7 +80,6 @@ Nenurodyta
     1485 m. rugsėjo 1 9 -2 0  d. puolė pačių Moldavijos sostine — Su-
     čiavų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -142,7 +99,6 @@ Nenurodyta
     turim as galvoje turkų sultono vietininko Rumelijoje Ali-pašos žygis
     j M oldaviją 1485 m. vasarą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -34,8 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-07816
   teiginys: 'Kai kur Žemaičiuose lazda buvo minima kaip vyresnybės įsakymo ir paklusimo ženklas.'
-  sudarymo_pagrindimas: 'Patikslinta pagal citatoje pateiktus posakius ir pašalintas perteklinis laiko neapibrėžtumas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
 
@@ -43,7 +41,6 @@ Nenurodyta
 - t-002
   global_id: t-07817
   teiginys: 'Kūrėjų kūrėjas per žygovus skelbė įsakymus svietui lazda, vadinama krivūle.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kūrėjų kūrėjas|Kūrėjų kūrėjas]]'
   pagrindžia:
     - c-002
 
@@ -57,7 +54,6 @@ Nenurodyta
         vadina lietuvį skurczypalka^881 , nuo to, jog jis ne rašto, bet lazdos savo vyresnybės arba
         kūrėjų kūrėjo klausąs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -71,7 +67,6 @@ Nenurodyta
         krivūle būk vadinamą, ir liepė ta lazda savo įsakymus svietui skelbti, kursai būdas skelbimo
         įsakymų vyresnybės lazda iki šios dienos užsiturėjo^879 kaip Kalne, taip ir Žemaičiuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

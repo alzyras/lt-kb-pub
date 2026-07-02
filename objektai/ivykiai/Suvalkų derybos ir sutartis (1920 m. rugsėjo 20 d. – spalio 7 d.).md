@@ -42,9 +42,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=41f2e69fbe9767d8111dbe3b2e1236a4d64649de0eb09e2d208051c0dccb2643; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -60,9 +57,7 @@ Nenurodyta
     sioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno
     — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

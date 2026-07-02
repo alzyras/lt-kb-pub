@@ -33,45 +33,15 @@ Nenurodyta
 - t-001
   global_id: t-185892
   teiginys: 'Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo, ir sušaukė seimą Lenčicoje.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra išsamus, aiškus ir paremtas citatos informacija.'
-  susije_objektai: 'mentioned_place: Lenčica; mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 649556-650050; hash=37779191052ba28c3c071fbaf60ee752c96f4bc8c8cd6293e312c14e6381d7ff; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenčica: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Svarbių valstybės reikalų sprendimas gavus luomų pritarimą ir sušaukus seimą (seimas): owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenčica: mention_match, place, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Svarbių valstybės reikalų sprendimas gavus luomų pritarimą ir sušaukus seimą (seimas)" parinktas kaip owner_note_path. Targetas "Lenčica" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185893"></a>
 - t-002
   global_id: t-185893
   teiginys: 'Karalius sušaukė seimą Lenčicoje, o seimas pasiuntė Gnezno arkivyskupą Mikalojų Kurovskį skatinti magistrą taikiai baigti ginčą su Vytautu.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų kontekstą, o citata leidžia sudaryti turiningesnį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenčica; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 650005-650443; hash=fc96861bf4f389981a5503e345e44768a6cfad2043f48128001d38035f9172ec; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenčica: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Svarbių valstybės reikalų sprendimas gavus luomų pritarimą ir sušaukus seimą (seimas): owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lenčica: mention_match, place, gap=14
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Svarbių valstybės reikalų sprendimas gavus luomų pritarimą ir sušaukus seimą (seimas)" parinktas kaip owner_note_path. Targetas "Lenčica" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -93,14 +63,11 @@ Nenurodyta
     je svarbiais reikalais nieko negalįs nutarti be luomų
     pritarimo. Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Karalius sušaukė seimą Lenčicoje, o seimas pasiuntė Gnezno arkivyskupą Mikalojų Kurovskį skatinti magistrą taikiai baigti ginčą su Vytautu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -115,10 +82,8 @@ Nenurodyta
     sakymo, nei tas, kad jo žmonės, pakėlę ginklą, jau
     traukia į Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002

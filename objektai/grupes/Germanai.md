@@ -21,20 +21,8 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - t-001
   global_id: t-01324
   teiginys: 'Germanai priskiriami tai pačiai indoeuropiečių, arba arijų, tautų grupei kaip aisčiai, slavai ir romanai.'
-  sudarymo_pagrindimas: 'Rewrite failed deterministic gates: missing_factual_predicate'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Europa'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=4cc0a6389da75786b5f9f98c5c7b637f36ae031ab04219e87275be5eff28ebbb; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aisčiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Germanai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Aisčiai: mention_match, group, gap=78
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Germanai" parinktas kaip owner_note_path. Targetas "Aisčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Tadas Čackis.md#claim-t-190018|Tadas Čackis]]: Narbutas klaidinga vadina Tado Čackio nuomonę, kad lietuviai germanų pavyzdžiu laiką skaičiavo naktimis, o ne dienomis.
 - susijęs iš [[objektai/autoriai/Foigtas.md#claim-t-190389|Foigtas]]: Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų tautoms seniai žinomos garbingos pareigos.
 - susijęs iš [[objektai/autoriai/J. G. Vachteris Wächter.md#claim-t-88010|J. G. Vachteris Wächter]]: J. G. Vachterio germanų kalbos žodyne žodis „Hof“ aiškintas kaip dvaro arba ūkio pastatų sąvoka.
@@ -92,7 +80,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
     ventojai (germanai, slavai, romanai ir kt.), priklauso prie tos pa-
     čios indoeuropiečių, arba arijų, tautų grupės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

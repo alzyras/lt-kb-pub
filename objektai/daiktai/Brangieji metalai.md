@@ -49,7 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-64909
   teiginys: 'Vytautas, padedamas pirklių, sukaupė brangiųjų metalų - aukso ir sidabro - bei kitų brangenybių.'
-  sudarymo_pagrindimas: 'Citata remia glaustesnį teiginį apie brangiuosius metalus.'
   pagrindžia:
     - c-001
 
@@ -65,7 +64,6 @@ Nenurodyta
     visą savo gyvenimą nevartojo vyno ir jokio kito gėrimo, o tik
     gryną vandenį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -79,9 +77,6 @@ Nenurodyta
     sukaupę brangiųjų metalų nemažus kiekius^4. Karių apginklavi­
     mas buvo turtingas^5.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   pagrindžia:
     - t-001

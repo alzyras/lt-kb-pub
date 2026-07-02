@@ -23,24 +23,8 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 - t-001
   global_id: t-18754
   teiginys: 'Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste.'
-  sudarymo_pagrindimas: 'Citata aiškiai nurodo misijos baigtį.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Islandija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Švedija; llm_object: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Adalbertas|Adalbertas]] keliavo į Prūsija'
-  temporaliniai_duomenys: 'įvykio data: 997 m'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata aiškiai nurodo misijos baigtį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 40947-41435; hash=adb33939b156052cb069ae3fc0f122d2100fd6021e4b9cea224adc9cefda1f3e; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Prūsija: 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Adalbertas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Prūsija: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Misija Prūsijoje tiesiogiai sieja Adalbertą su vykimu ar veikla Prūsijoje.
 - susijęs iš [[objektai/asmenys/Kozmas Prahietis.md#claim-t-190174|Kozmas Prahietis]]: Narbutas Kozmui Prahiečiui priskiria šventojo Adalberto biografiją, kurioje Siggo vaizduojamas kaip prūsų minios vadas ir pirmasis žudikas.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188310|Prūsai]]: Narbutas, remdamasis Kozmo Prahiečio Adalberto biografija, rašo, kad prie Fišhauzeno prūsams užpuolus Adalbertą miniai vadovavo žynys Siggo.
 - susijęs iš [[objektai/zodynas/Signotai Signotas.md#claim-t-189209|Signotai Signotas]]: Narbutas signotus (Sigonotta) laiko Atrimpo arba Gardaičio žyniais, kurių būta pajūrio srityse.
@@ -78,7 +62,6 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
     jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
     krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

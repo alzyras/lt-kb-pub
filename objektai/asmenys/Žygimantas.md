@@ -16,6 +16,11 @@ amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+description: 'Žygimantas LDK istorijos šaltiniuose: nuo Vytauto brolio krikšto ir pabėgimo iki karaliaus veiksmų prie Borisovo ir Gardino.'
+socialDescription: 'Žygimantas LDK istorijos pasakojimuose minimas kaip Vytauto brolis ir kaip karalius, susijęs su karo veiksmais, Maskva bei Gardino seimu.'
+seo_atnaujinta: '2026-07-02T20:14:54.880554+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'true'
 tags:
   - asmuo
   - kunigaikštis
@@ -24,18 +29,13 @@ tags:
 
 ## Santrauka
 
-Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas. Pačiam Vytautui nakties tamsoje, drauge su jaunu broliu Žygimantu ir Švitrigaila, pasisekė pabėgti.
+Įraše „Žygimantas“ siejami keli epizodai iš LDK istorijos: Vytauto brolio Žygimanto krikštas ir pabėgimas su Vytautu bei Švitrigaila. Kituose fragmentuose minimas karalius Žygimantas, jo karo veiksmai prie Borisovo, santykiai su Maskva ir 1567 m. Gardino seimo sušaukimas.
 
 ## Teiginiai
 <a id="claim-t-184380"></a>
 - t-001
   global_id: t-184380
   teiginys: 'Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: [[objektai/asmenys/Kęstutis|Kęstutis]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas|Žygimantas]] buvo brolis [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-001
 
@@ -43,12 +43,6 @@ tags:
 - t-002
   global_id: t-184381
   teiginys: 'Žygimantas kartu su Vytautu ir Švitrigaila nakties tamsoje pabėgo po kautynių tolimose stepėse.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pirminis sakinys prasideda kontekstiniu fragmentu ir turi būti perrašytas apie Žygimantą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kaunas; llm_object: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas|Žygimantas]] buvo sąjungininkas su [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
   pagrindžia:
     - c-002
 
@@ -56,11 +50,6 @@ tags:
 - t-003
   global_id: t-184905
   teiginys: 'Karalius Žygimantas pirmas perbrido ir perplaukė upę, be nuostolių pervesdamas visus raitelius.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pagrindžia upės perėjimą ir raitelių pervedimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Saulė|Saulė]]'
   pagrindžia:
     - c-003
 
@@ -68,67 +57,22 @@ tags:
 - t-004
   global_id: t-184906
   teiginys: 'Žygimantas, praradęs viltį sudaryti taiką, išsiuntė skitams sutartą atlygį, kad šie sulaikytų priešą jo žemėje.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pagrindžia Žygimanto sprendimą ir tikslą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Maskva'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 765635-765862; hash=2ee1af0ea6685e90f07f27c389aae1f34eaa93f69271f1d2f5ef0be1c63cdfc1; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_brolis -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.66
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žygimantas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Tekstas Žygimantą vadina „jo broliu“, o artimiausias leistinas asmens kandidatas kontekste yra Kęstutis, tačiau įvardis nėra visiškai aiškus.
 
 <a id="claim-t-184907"></a>
 - t-005
   global_id: t-184907
   teiginys: 'Karalius Žygimantas prie Borisovo įkūrė stovyklą su trisdešimt tūkstančių rinktinių karių.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys pilnas ir tiksliai atitinka citatos faktą.'
-  susije_objektai: 'mentioned_place: Borisovas; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Gardinas'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 869159-869460; hash=13efe19a7212bc39c6c87edac04d1f3e3be82da27325acc9b983797fe6206db8; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Švitrigaila: 0.60
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žygimantas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Švitrigaila: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Bendras pabėgimas kartu su Švitrigaila rodo laikino bendrininkavimo ar sąjungininkų situaciją, nors nėra politinės sąjungos formuluotės.
 
 <a id="claim-t-184908"></a>
 - t-006
   global_id: t-184908
   teiginys: 'Žygimantas paprašė leisti į Maskvą grįžti pirkliams ir žygūnams, sulaikytiems po karališkųjų teisėjų suėmimo.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata pagrindžia prašymą ir jo aplinkybes.'
-  susije_objektai: 'mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 1070545-1070982; hash=ecbca30608878a48c4689c245b247769fc53076278d16108f9c0e5b252441c12; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Saulė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Saulė: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas" parinktas kaip owner_note_path. Targetas "Saulė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-188655"></a>
 - t-007
@@ -138,16 +82,6 @@ tags:
     - c-007
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 898002-898507; hash=d839231627213ecd5eafcb19c78c4e37adc380af8316155e0b1f24f671ddd945; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Piotrkovas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žygimantas: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Piotrkovas: mention_match, place, gap=32
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygimantas" parinktas kaip owner_note_path. Targetas "Piotrkovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 <a id="claim-t-188656"></a>
 - t-008
   global_id: t-188656
@@ -156,16 +90,6 @@ tags:
     - c-008
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 898508-899166; hash=4b2a9730ec129542814c8c8bde0bbec9d547ab04ef9122f257e23a1a52ee878d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: siunte_i -> Lietuva: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žygimantas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Lietuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai sako, kad Žygimantas išsiuntinėjo universalus Lietuvai.
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-87559|Mykolas (Žygimanto sūnus)]]: 1440 m. balandį, sąmokslininkams Trakų pilyje nužudžius Žygimantą, jo sūnus Mykolas buvo ištremtas.
 - susijęs iš [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis).md#claim-t-185995|Vasilijus (Maskvos kunigaikštis)]]: Vasilijus raštu paskelbė karą Žygimantui, nors Glinskis jau buvo įsiveržęs į Lietuvos žemes.
 - susijęs iš [[objektai/asmenys/Aleksandras Balinskis.md#claim-t-173117|Aleksandras Balinskis]]: Po karaliaus Aleksandro mirties Aleksandras Balinskis kalėjo Vilniuje iki Žygimanto atvykimo.
@@ -360,13 +284,11 @@ tags:
     atvykęs, jo brolis Žygimantas buvo pakrikštytas. Susirinko ir kiti
     giminės, kunigaikščiai: Eišiškių Sudemantas, Alšėniškis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Žygimantas kartu su Vytautu ir Švitrigaila nakties tamsoje pabėgo po kautynių tolimose stepėse.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -378,13 +300,11 @@ tags:
     seną tradiciją, jis įkūrė pranciškonų vienuolynus Kaune ir Ašme­
     noje^39.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-- c-003
+    - t-002- c-003
   santrauka: 'Karalius Žygimantas pirmas perbrido ir perplaukė upę, be nuostolių pervesdamas visus raitelius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -398,13 +318,11 @@ tags:
     Kol pėstininkai persikėlė plaustais, saulė pakrypo į va­
     karus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003
-- c-004
+    - t-003- c-004
   santrauka: 'Žygimantas, praradęs viltį sudaryti taiką, išsiuntė skitams sutartą atlygį, kad šie sulaikytų priešą jo žemėje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -423,13 +341,11 @@ tags:
     v o s  k u n ig a ik šty stę
     nuniokojo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
-- c-005
+    - t-004- c-005
   santrauka: 'Karalius Žygimantas prie Borisovo įkūrė stovyklą su trisdešimt tūkstančių rinktinių karių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -450,13 +366,11 @@ tags:
     duoti Smolenską ir šitaip atsilyginti už paramą, nė
     nesirengė to daryti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005
-- c-006
+    - t-005- c-006
   santrauka: 'Žygimantas paprašė leisti į Maskvą grįžti pirkliams ir žygūnams, sulaikytiems po karališkųjų teisėjų suėmimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -475,13 +389,11 @@ tags:
     Lenkijos sosto, o sudarius lenkams bei lietuviams nau­
     ją susitarimą,— ir Lietuvos kunigaikštystės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006
-- c-007
+    - t-006- c-007
   santrauka: 'Karalius Žygimantas tais metais dalyvavo Piotrkovo seimo reikaluose ir šiaurėje kariavo su Rusija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -497,13 +409,10 @@ tags:
     daškovičius; ten jis susitiko su caro pasiuntiniais,
     pareiškusiais pageidavimą taikytis.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
-- c-008
+    - t-007- c-008
   santrauka: 'Karalius Žygimantas 1567 m. pabaigoje skubėjo sušaukti Gardino seimą ir išsiuntinėjo universalus Lietuvai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -522,10 +431,8 @@ tags:
     je, tai yra išskyrus akivaizdų nusikaltimą, nuo ku­
     rio dar nepraėjo metai ir šešios savaitės“ (Czacki.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
 

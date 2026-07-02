@@ -36,9 +36,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 318412-318962; hash=d23cd8be926483cb5446e31106c235e2ba2a036469242f89128cfaf3bfcc92d9; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -55,9 +52,7 @@ Nenurodyta
     lus, kaip lėkštė, priartėdavo prie jūros, nugrimzdavo joje nusi­
     maudyti ir vykdavo į savo rūmus nakties poilsio.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

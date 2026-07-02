@@ -34,7 +34,6 @@ Nenurodyta
 - t-001
   global_id: t-07799
   teiginys: 'Vėlėms prieš valgį ir gėrimą aukodavo pirmuosius kąsnius ir gurkšnius, o Ilgių dieną kartą per metus jas vaišindavo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   pagrindžia:
     - c-001
 
@@ -52,7 +51,6 @@ Nenurodyta
         kiek pradėdami valgyti ar gerti mėčioję žemyn pirmuosius šmotelius valgio ir laistę gėrimo, bet
         dar metuose kartą ilgių^707 dieną jas vaišinę, kaip tuojau regėsim.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

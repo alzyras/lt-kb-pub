@@ -38,8 +38,6 @@ Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
 - t-001
   global_id: t-45829
   teiginys: 'Lietuvos valdovų į valstybės pakraščius įkurdinti ištikimi žmonės iš Lietuvos aplinkinių buvo vadinami leičiais, o gal ir liečiais.'
-  sudarymo_pagrindimas: 'Reikia aiškiau įvardyti, kad kalbama apie ištikimus žmones iš Lietuvos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -47,7 +45,6 @@ Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
 - t-002
   global_id: t-45830
   teiginys: 'Leičių ar liečių vardas siejamas su Lietuvos valdovų valstybės pakraščiuose įkurdintais ištikimais žmonėmis iš Lietuvos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 
@@ -67,7 +64,6 @@ Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
     atsirasti nuo etnonimo (susijusio su specifinėmis karinėmis funkcijomis)
     „liečiai“ ar „leičiai“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

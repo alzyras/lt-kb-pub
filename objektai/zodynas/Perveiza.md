@@ -27,8 +27,6 @@ Vartojamos formos: `perveizėjo`, `perveizos`.
 - t-001
   global_id: t-07730
   teiginys: 'Perveizos metu netinkamai pasirengęs arba neatvykęs žemlionis buvo išbraukiamas iš reistro ir vėl turėjo mokėti duoklę.'
-  sudarymo_pagrindimas: 'Pradinis teiginys abstraktus, o citata palaiko konkretesnį faktą apie perveizos padarinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemlionys|Žemlionys]]; mentioned_object: [[objektai/zodynas/Žemlionis|Žemlionis]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -36,7 +34,6 @@ Vartojamos formos: `perveizėjo`, `perveizos`.
 - t-002
   global_id: t-07731
   teiginys: '`Perveiza` šiame tekste reiškia karių ir jų ginklų bei arklių peržiūrą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_group: [[objektai/grupes/Žemlionys|Žemlionys]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -54,7 +51,6 @@ Vartojamos formos: `perveizėjo`, `perveizos`.
         reistre Lietuvos ūkės kareivių, surašytų metuose 1528, kuriame karūžieji yra minavojami tarp tų pačių
         žemlionų, arba vyčių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

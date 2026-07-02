@@ -46,7 +46,6 @@ Nenurodyta
 - t-001
   global_id: t-71784
   teiginys: 'Karūnos armija priklausė Lenkijos karalystei, o Lietuvos kariuomenė priklausė Lietuvos Didžiajai Kunigaikštystei.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Lietuva; llm_object: Lenkija'
   pagrindžia:
     - c-001
 
@@ -54,8 +53,6 @@ Nenurodyta
 - t-002
   global_id: t-71785
   teiginys: 'Karūnos armija priklausė Lenkijos Karalystei, o Lietuvos kariuomenė – Lietuvos Didžiajai Kunigaikštystei, kuri nebuvo pavaldi provincija.'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR klaidų ir nėra gramatiškai tvarkingas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lenkija; mentioned_place: Lietuva; llm_object: Lietuva; llm_object: Lenkija'
   pagrindžia:
     - c-001
 
@@ -63,7 +60,6 @@ Nenurodyta
 - t-003
   global_id: t-71786
   teiginys: 'Lietuvos kariuomenė buvo laikoma Karūnos armijos pagalbininke ir sąjungininke, o ne pavaldžia provincija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -77,7 +73,6 @@ Nenurodyta
     jungininkei, o ne pavaldžiai provincijai, kaip kad kitos karalystę sudarančios provincijos.
     Karūnos armija turi 36 000 vyrų, Lietuvos - 12 000; mūsų laikais dar taip nebuvo, kad
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

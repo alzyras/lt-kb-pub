@@ -20,20 +20,8 @@ Dalyva­ vimas valachų Vytauto būriuose leidžia tarti, jog jis Dniepro žemu�
 - t-001
   global_id: t-28672
   teiginys: 'Valachų dalyvavimas Vytauto būriuose leidžia spręsti, kad Vytautas Dniepro žemupyje turėjo plačių planų.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka citatoje pateiktą Ivinskio išvadą.'
-  susije_objektai: 'mentioned_place: Dniepras'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 862007-862238; hash=fb606db8906e4378fbe93fdfe1be1db47c4a98bf5bd93655c366d2c1ec94680b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Dniepras: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Valachai: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Dniepras: mention_match, place, gap=67
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valachai" parinktas kaip owner_note_path. Targetas "Dniepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184534|Lenkai]]: Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos kare prieš turkus.
 - susijęs iš [[objektai/grupes/Vengrai.md#claim-t-184586|Vengrai]]: Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos prasidėjus karui prieš turkus.
 - susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186048|Jonas Gornostajus]]: Lietuvos raštininkas Jonas Gornostajus karaliaus vardu atsakė į prašymus dėl valachų pasiuntinių ir Severino Norvedo.
@@ -63,7 +51,6 @@ Dalyva­ vimas valachų Vytauto būriuose leidžia tarti, jog jis Dniepro žemu�
     vimas valachų Vytauto būriuose leidžia tarti, jog jis Dniepro žemu­
     pyje yra turėjęs plačių planų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -28,24 +28,8 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
 - t-001
   global_id: t-19960
   teiginys: 'Pasaulio lietuvių bendruomenė buvo viena svarbiausių ir stipriausių JAV lietuvių išeivijos organizacijų.'
-  sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškesnį teiginį apie organizaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Europa; llm_object: [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba]]'
-  semantiniai_rysiai: '[[objektai/grupes/Pasaulio lietuvių bendruomenė|Pasaulio lietuvių bendruomenė]] buvo sąjungininkas su [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba]]'
-  temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1951 m.; įvykio data: 1991 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti aiškesnį teiginį apie organizaciją.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=325fa4a45b83d0cdf459dd5ed099f3d4beecc97f85bb429d126971023d21e254; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sajungininkas_su -> Amerikos lietuvių taryba (institucija): 0.75
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Pasaulio lietuvių bendruomenė: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Amerikos lietuvių taryba (institucija): llm_allowed_candidate, group
-  ryšio_paaiskinimas: PLB ir ALT minimos tarp organizacijų, kurios siekė veikti išvien, todėl ryšys atitinka bendradarbiavimo ar sąjungininkystės prasmę.
 
 ## Reikšmingi paminėjimai
 
@@ -60,7 +44,6 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
     riausiasis Lietuvos išlaisvinimo komitetas (VLIK). Jos siekė veikti išvien
     ir pasitarnauti Lietuvos laisvės bylai tarptautiniu mastu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

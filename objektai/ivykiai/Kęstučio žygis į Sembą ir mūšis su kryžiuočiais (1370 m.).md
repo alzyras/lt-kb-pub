@@ -36,46 +36,15 @@ Nenurodyta
 - t-001
   global_id: t-185734
   teiginys: 'Surinkęs pulkus stovykloje, Kęstutis padalijo kariuomenę į dvi žygio voras ir nusprendė niokoti Sembą.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Išskleistas neaiškus įvardis ir pašalintas OCR triukšmas.'
-  susije_objektai: 'llm_object: Semba; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Semba; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 437223-437773; hash=9b84ad589392eabeeeaf848542e3d5a8d72bd32d6f5690ae350b9aeef142d175; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Semba: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Semba: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Kęstutis vadovauja kariuomenei ir nusprendžia žygio tikslą Sembą.
 
 <a id="claim-t-185735"></a>
 - t-002
   global_id: t-185735
   teiginys: 'Mūšyje krito tūkstantis lietuvių, o kryžiuočiai neteko dvidešimt šešių kilmingųjų riterių ir ordino magistro Henriko.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; llm_object: [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)|Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]]'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] dalyvavo mūšyje [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)|Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]]; [[objektai/asmenys/Kęstutis|Kęstutis]] dalyvavo mūšyje [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)|Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]]; [[objektai/asmenys/Algirdas|Algirdas]] dalyvavo mūšyje [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)|Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]]'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 438452-439353; hash=7cdee5613249dcf4054422bfa2ec87dcfae126cb5d3c8de0ae4990cf87da77ab; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: dalyvavo_musyje -> Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.): 0.82
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.): llm_allowed_candidate, event
-  ryšio_paaiskinimas: Kryžiuočių nuostoliai mūšyje tiesiogiai rodo jų dalyvavimą šiame mūšyje.
 
 ## Reikšmingi paminėjimai
 
@@ -98,7 +67,6 @@ Nenurodyta
     vedė karius prie Ortelsbergo pilies; ji buvo užpulta ir
     užkariauta, o įtvirtinimai iš pamatų sugriauti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -127,7 +95,6 @@ Nenurodyta
     gretoms atitrūkti nuo priešo, susirinkti prie gurguolių
     ir žygiuoti prie artimiausio miško.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -48,11 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-11542
   teiginys: 'Iš pirmosios katedros išlikęs didžiojo altoriaus kryžius.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiksliai atitinka citatoje pateiktą informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
-  temporaliniai_duomenys: 'įvykio data: 1531 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiksliai atitinka citatoje pateiktą informaciją.'
   pagrindžia:
     - c-001
 
@@ -66,7 +61,6 @@ Nenurodyta
     bet ir ją gaisras sunaikino 1531 m. Pirmosios katedros tėra iš­
     likęs didžiojo altoriaus kryžius^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

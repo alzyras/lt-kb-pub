@@ -21,16 +21,6 @@ Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo j
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 159272-159607; hash=0e22e9fe65a25e90f782642617a0e719ce0ca2a357d5d1207cd9d53afdc4cc4d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Graikai: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Antikos žmonės: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Graikai: mention_match, group, gap=40
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antikos žmonės" parinktas kaip owner_note_path. Targetas "Graikai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/paprociai/Laukų apvalymas arba pašventinimas apeinant javus su auka.md#claim-t-189842|Laukų apvalymas arba pašventinimas apeinant javus su auka]]: Narbutas laukų apvalymo apeigas siejo su antikos praktika ir nurodė, kad romėnai jas vadino Ambervales.
 - susijęs iš [[objektai/paprociai/Lietuvių priesaikos formulės ir užkeikimai.md#claim-t-189844|Lietuvių priesaikos formulės ir užkeikimai]]: Narbutas lietuvių priesaikas lygino su antikos priesaikomis ir nurodė formules „dėl Dievo“ bei „Kad aš skradžiai prapultau“.
 - susijęs iš [[objektai/zodynas/Gabija Gabie.md#claim-t-189294|Gabija Gabie]]: Narbutas Gabie sieja su Antikos saulės kaip ugnies šaltinio garbinimu ir vardais Gabalus bei Heliogabalus.
@@ -62,9 +52,7 @@ Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo j
     pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia
     viskam.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -52,23 +52,8 @@ Nenurodyta
 - t-001
   global_id: t-87180
   teiginys: 'Popiežius su kardinolais viešoje konsistorijoje svarstė Rygos arkivyskupo ginčą su Livonijos ordinu ir paskelbė sprendimą.'
-  sudarymo_pagrindimas: 'Pradinis teiginys buvo išnašinis fragmentas, o citata palaiko platesnį faktą apie kurijos svarstymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_author: [[objektai/autoriai/Pauli|Pauli]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Avinjonas; mentioned_place: Dvina; mentioned_place: Palenkė; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Vilnius; llm_object: Ryga'
-  temporaliniai_duomenys: 'įvykio data: 1323 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo išnašinis fragmentas, o citata palaiko platesnį faktą apie kurijos svarstymą.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 184971-189308; hash=7d72cd84e2213d2742da61c41ce056a171886ff86d402168073e21a1f9706991; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Ryga: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Kryžiuočių ordinas: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Ryga: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Skunde Ordinui priskiriamas Rygos miesto gyventojų turto plėšimas.
 
 ## Reikšmingi paminėjimai
 
@@ -180,7 +165,6 @@ Nenurodyta
     n a u a. a. d. Žr. H e n n e b e r g e r,
     p. 283.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

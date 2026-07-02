@@ -34,9 +34,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - t-001
   global_id: t-70264
   teiginys: '1409 m. Ordino kariuomenė buvo išvyta iš Lenkijos, o netrukus sudarytos vienerių metų paliaubos.'
-  susije_objektai: 'mentioned_place: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1409 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -44,8 +41,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - t-002
   global_id: t-70265
   teiginys: 'Lenkų atstovas pasakė, kad lenkai naktį gavo telefonogramą apie karo paliaubas.'
-  sudarymo_pagrindimas: 'Pradinis sakinys turi neaiškų įvardį, todėl reikia aiškiai įvardyti veikėją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -53,11 +48,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - t-003
   global_id: t-70268
   teiginys: 'Spalio 6 d. prasidėjo paliaubos, per kurias lenkai slapta pergrupavo ir papildė savo pajėgas.'
-  sudarymo_pagrindimas: 'Pradinis teiginys per trumpas ir be aiškesnio faktinio konteksto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija'
-  temporaliniai_duomenys: 'įvykio data: 1409 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys per trumpas ir be aiškesnio faktinio konteksto.'
   pagrindžia:
     - c-001
 
@@ -65,8 +55,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - t-004
   global_id: t-70269
   teiginys: 'Vytautas sudarė paliaubų sutartį su livoniškąja Ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje.'
-  sudarymo_pagrindimas: 'Reikia aiškiau įvardyti priežastinį ryšį ir pataisyti stilių.'
-  susije_objektai: 'mentioned_place: Tanenbergas; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -74,11 +62,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - t-005
   global_id: t-184632
   teiginys: 'Ivanas atsakė Vasilijui Zaborovskiui, kad paliaubos nedraudžia jam statyti pilių prie Usviatų ir Ūlos.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'OCR triukšmas pašalintas, paliktas citatos remiamas faktas apie paliaubas.'
-  susije_objektai: 'mentioned_place: Usviatai; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]'
   pagrindžia:
     - c-005
 - susijęs iš [[objektai/asmenys/Vaclovas.md#claim-t-28977|Vaclovas]]: Tarpininkaujant Vaclovui, 1409 m. spalio 8 d. buvo sudarytos paliaubos iki 1410 m. birželio 24 d.
@@ -146,7 +129,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     pasirengė pulti Lietuvą ties Seinais ir Kap-
     čiamiesčiu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -161,7 +143,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 
     Tada pašnekesys užsimezgė dėl anos dienos mūšio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -175,7 +156,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     trukus buvo padarytos vienerių metų paliaubos. Paliaubų metu
     susitarta pavesti ginčą išspręsti imperatoriui Vaclovui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -193,7 +173,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     livoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame di-
     džiame Tanenbergo mūšyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -215,7 +194,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     laiškus, n ei p e r pasiuntinius, k araliu s p arag in o  gretim ų
     pilių seniūnus p u ld in ėti m ask v ėn ų  žem es.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

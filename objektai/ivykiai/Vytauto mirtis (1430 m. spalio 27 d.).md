@@ -45,9 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-66992
   teiginys: '1430 m. spalio 17 d. iš Vilniaus į Trakus išjojęs Vytautas pakeliui nukrito nuo arklio ir nuo patalo nebepakilo.'
-  susije_objektai: 'llm_object: Trakai; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Trakai; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1430 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -55,8 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-66993
   teiginys: 'Pagal Dlugošo pasakojimą, prieš mirtį Vytautas Lietuvą pavedė Jogailai ir liepė jam atiduoti raktus nuo iždo ir pilių.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai perteikia Dlugošo pasakojimu paremtą faktą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-002
 
@@ -64,20 +59,8 @@ Nenurodyta
 - t-003
   global_id: t-66995
   teiginys: 'Vienuose šaltiniuose Vytauto mirties priežastimi laikyta votis ant peties, kituose - susitrenkimas nukritus nuo žirgo.'
-  sudarymo_pagrindimas: 'Patikslinta, kad kalbama apie Vytauto mirtį, ir sujungta su citatoje pateikta aplinkybe.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 303758-304126; hash=42839fad0cea47967e30ea02fb5b81b9ca60b91ff8ff1f206940861689f5c29e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Trakai: 0.93
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Trakai: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad Vytautas išjojo į Trakus.
 - susijęs iš [[objektai/posakiai/Mirė tikrai mūsų tautos garbė.md#claim-t-67274|Mirė tikrai mūsų tautos garbė.]]: Vytauto mirtis apibūdinta žodžiais, kad mirė tikrai mūsų tautos garbė.
 ## Reikšmingi paminėjimai
 
@@ -88,7 +71,6 @@ Nenurodyta
     kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
     žmonos vežime. Iš patalo daugiau nebepakilo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -103,7 +85,6 @@ Nenurodyta
     lišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo­
     gailai ir liepęs jam nuo iždo ir pilių atiduoti raktus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -120,7 +101,6 @@ Nenurodyta
     žirgo. Susitrenkęs nebegalėjo toliau joti, todėl važiavo žmonos
     vežime. Nuvykęs į Trakus, atsigulė ir daugiau nebekėlė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -21,7 +21,6 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
 - t-001
   global_id: t-22018
   teiginys: 'Po privatizacijos įsivyravo požiūris, kad privatizacija iš esmės buvo neteisinga.'
-  sudarymo_pagrindimas: 'Perrašyta į aiškesnį sakinį apie privatizaciją kaip žodyno objekto temą.'
   pagrindžia:
     - c-001
 
@@ -29,15 +28,8 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
 - t-002
   global_id: t-183457
   teiginys: 'Privatizacija kėlė abejonių, ar ji buvo efektyviausias valstybės turto išvalstybinimo būdas.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Citata palaiko tikslesnį teiginį apie privatizaciją kaip išvalstybinimo būdą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=42245cf0510d346f24e05b51ba3915f9f07cddeaf761e7e52ee58bb8e6003976; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -50,14 +42,11 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
     gyventojų čekius pardavė ir net nesugebėjo privatizuoti savo gyvenamojo
     būsto. Įsivyravo požiūris, kad privatizacija buvusi „neteisinga“ iš esmės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Privatizacija kėlė abejonių, ar ji buvo efektyviausias valstybės turto išvalstybinimo būdas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -69,10 +58,8 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
     kos „išvalstybinimo“ būdas; šiaip ar taip, jis lėmė pirmojo dešimtmečio
     šalies ūkio raidą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002

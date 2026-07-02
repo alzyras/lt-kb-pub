@@ -41,8 +41,6 @@ Nenurodyta
 - t-001
   global_id: t-06171
   teiginys: 'Archeologų atkastas šventoves apylinkių žmonės dažnai vadino alkų vardais.'
-  sudarymo_pagrindimas: 'Citata palaiko tikslesnį sakinį apie alkų vardų vartojimą.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -50,8 +48,6 @@ Nenurodyta
 - t-002
   global_id: t-06172
   teiginys: 'Pasakojimas apie vieną vyriausiąją Romuvą laikomas viduramžių rašytojų prasimanymu.'
-  sudarymo_pagrindimas: 'Citata palaiko tikslesnį enciklopedinį teiginį apie Romuvos vaizdinį.'
-  susije_objektai: 'mentioned_place: Romuva; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -59,8 +55,6 @@ Nenurodyta
 - t-003
   global_id: t-06173
   teiginys: 'Šventovės vienur buvo vadinamos romuvomis, kitur alkomis, galbūt dėl pobūdžio ar tarmių skirtumų.'
-  sudarymo_pagrindimas: 'Reikia tiksliau perteikti citatos formuluotę be perteklinio aiškinimo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -75,7 +69,6 @@ Nenurodyta
     dažniausiai vadina savotiškais alkų vardais. Alkos kalnų, Al-
     kakapių, Alkų kaimų — pilna Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -95,7 +88,6 @@ Nenurodyta
     namos romuvomis, kitur alkomis, — gal būt, dėl skirtingo savo
     pobūdžio arba dėl tarminių skirtumų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

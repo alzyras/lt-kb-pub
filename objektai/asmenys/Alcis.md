@@ -29,16 +29,6 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 369333-369548; hash=565c644b0e568d86040032a374d1e6bb3633c7529a573c5c755ac844190e792b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Vilnius: 0.86
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Herbas: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Formuluotė „Vilniaus herbe“ tiesiogiai sieja herbą su Vilniumi.
 <a id="claim-t-190048"></a>
 - t-002
   global_id: t-190048
@@ -47,16 +37,6 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 731708-732192; hash=da0ec572cf905c4354b847d556621411ba0a8fe2fd77f8d633d78239dfe4585b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Vilnius: 0.90
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Herbas: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys tiesiogiai įvardija herbą kaip Vilniaus.
 <a id="claim-t-190049"></a>
 - t-003
   global_id: t-190049
@@ -65,16 +45,6 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
     - c-003
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 732794-733225; hash=b509bb992a386acce1afdd15e448a6df718b0ec7215b804be63c5aead312b771; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: priklause -> Vilnius: 0.84
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Herbas: llm_allowed_candidate, thing
-  ryšio_targeto_parinkimas: Vilnius: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Teiginys kalba apie Vilniui priskiriamą herbą.
 - susijęs iš [[objektai/grupes/Radvilos.md#claim-t-184578|Radvilos]]: Augustas liepė nutiesti takelį iš pilies į Barboros Radvilaitės sodus ir pastatyti tiltuką per Vilnią.
 ## Reikšmingi paminėjimai
 - c-001
@@ -87,13 +57,10 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
     vės milžinas Alcis, kurį, priimant krikščionybę, pamaldumas
     pavertė šv. Kristupu.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas laiko įtikėtina, kad Vilniaus herbas įvestas 1325 m., ir tuo grindžia spėjimą, jog milžinas Alcis ilgainiui virto šv. Kristupu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -107,13 +74,10 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
     spaude, prispaustame šalia šito, skyde yra Vytis po karūna;
     apačioje -  Radvilų herbas Trimitai*.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
+    - t-002- c-003
   santrauka: 'Narbutas su Alciu lygina Vilniaus herbui priskiriamą šarvuotą riterį, kuris remiasi į nulaužtą medžio kamieną ir laiko pasagą primenantį daiktą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -126,9 +90,7 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
     išskyrus, kad jam trūksta moters ant pečių, labai panašus į Al­
     ėj, kurį laikėme Vilniaus miesto herbu.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003

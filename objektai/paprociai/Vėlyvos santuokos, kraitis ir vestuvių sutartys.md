@@ -46,7 +46,6 @@ Nenurodyta
 - t-001
   global_id: t-67234
   teiginys: 'Mergaitės iki ištekėjimo dirbo ir krovė kraitį, o nuotakos ieškojo ne turtingų, bet narsių vyrų.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -65,7 +64,6 @@ Nenurodyta
         savo kraičiu galėjo apdaryti. Pinigų nežinojo, ir jų niekam nereikėjo, nesgi mokesnių niekam
         nemokėjo, duoklių nedavė ir rinkliavų nežinojo, kaipogi visi liuosi sau gyvendami dirbo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

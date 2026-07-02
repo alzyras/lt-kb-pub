@@ -18,23 +18,8 @@ Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame
 - t-001
   global_id: t-186221
   teiginys: 'Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame tartasi dėl Rytų ir Romos bažnyčių tikėjimo santarvės.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinis teiginys triukšmingas ir per ilgas; citata palaiko aiškų faktą apie Juozapą.'
-  susije_objektai: 'mentioned_place: Florencija; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kijevas; mentioned_place: Konstantinopolis; mentioned_place: Severskas'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 950107-951056; hash=15966f6d317e374aecf5db782d1f369ff0c28450ea3784e0dde465fe242eaeee; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Florencija: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Juozapas (Konstantinopolio patriarchas): owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Florencija: mention_match, place, gap=18
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozapas (Konstantinopolio patriarchas)" parinktas kaip owner_note_path. Targetas "Florencija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Seversko kunigaikščiai.md#claim-t-185437|Seversko kunigaikščiai]]: Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstybę ir visas savo valdas prijungė prie Maskvos.
 - susijęs iš Nifono laiškas rusams dėl Florencijos tikėjimo santarvės: Nifono laiškas ragino rusus tvirtai laikytis Florencijos tikėjimo santarvės, dėl kurios sutarė Jonas Paleologas ir Rytų bažnyčios patriarchai.
 ## Reikšmingi paminėjimai
@@ -71,7 +56,6 @@ Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame
     išdavė valstybę ir v isas savo valdas prijungė prie Mas­
     kvos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -53,11 +53,6 @@ Nenurodyta
 - t-001
   global_id: t-182715
   teiginys: 'Personalinės unijos laikotarpiu Lietuvą ir Lenkiją valdė tie patys valdovai, nors valstybės liko atskiros.'
-  sudarymo_pagrindimas: 'Pradinis teiginys neparemtas citata, todėl perrašytas pagal pateiktą šaltinio vietą.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Baiga'
-  temporaliniai_duomenys: 'įvykio data: 1539 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys neparemtas citata, todėl perrašytas pagal pateiktą šaltinio vietą.'
   pagrindžia:
     - c-004
 
@@ -65,8 +60,6 @@ Nenurodyta
 - t-002
   global_id: t-182717
   teiginys: 'Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus interpretacinis sakinys, tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -74,7 +67,6 @@ Nenurodyta
 - t-003
   global_id: t-182718
   teiginys: 'Savotiškos personalinės unijos reikalavo lietuviai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Krėva; mentioned_place: Lenkija'
   pagrindžia:
     - c-003
 
@@ -82,10 +74,6 @@ Nenurodyta
 - t-004
   global_id: t-182968
   teiginys: 'Darant uniją daugiausia dėmesio buvo skiriama susitarimui dėl bendro valdovo.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradinė formuluotė prasideda neaiškia nuoroda „to“, o citata leidžia suformuluoti aiškų sakinį.'
   pagrindžia:
     - c-005
 
@@ -93,16 +81,8 @@ Nenurodyta
 - t-005
   global_id: t-182969
   teiginys: 'Lietuviai ir lenkai sutiko turėti bendrą valdovą, bet nesutarė, ar valstybės liks personalinėje unijoje, ar pereis į realinę.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Pradiniame teiginyje neaišku, kas yra „abidvi pusės“, todėl reikia įvardyti šalis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 529317-529643; hash=19502c9ae915b9b31452b87674d2ddda6351f9093ed6bb76edf2721f8244c990; match=whitespace_regex
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -118,14 +98,11 @@ Nenurodyta
     skaitomasi su dviem sostais, o lenkai reikalavo, kad būtų skai-
     tomasi tik su vienu dviejų jungtinių valstybių sostu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-005
-
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -142,14 +119,11 @@ Nenurodyta
     Tokią Lietuvai nepalankią sutartį vertė sudaryti ypač įnirtingi vokie-
     čių puolimai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-002
-
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -166,14 +140,11 @@ Nenurodyta
     valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-
     lemta valstybių sąveika naikino Lietuvos valstybingumą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-003
-
 - c-004
   santrauka: 'Personalinės unijos laikotarpiu Lietuvą ir Lenkiją valdė tie patys valdovai, nors valstybės liko atskiros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -185,14 +156,11 @@ Nenurodyta
     išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir
     Lenkija, nors valstybės buvo atskiros.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
-
 - c-005
   santrauka: 'Darant uniją daugiausia dėmesio buvo skiriama susitarimui dėl bendro valdovo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -206,10 +174,8 @@ Nenurodyta
     ar pereis į realinę. Savotiškos personalinės unijos reikalavo lie-
     tuviai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-004

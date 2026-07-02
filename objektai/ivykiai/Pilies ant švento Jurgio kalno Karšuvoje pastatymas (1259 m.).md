@@ -45,34 +45,13 @@ Nenurodyta
 - t-001
   global_id: t-62896
   teiginys: '1259 m. Burchardas iš Hornhauzeno patvarkė pastatyti pilį Karšuvoje ant švento Jurgio kalno.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Karšuva; mentioned_person: [[objektai/asmenys/Burchardas iš Hornhauzeno|Burchardas iš Hornhauzeno]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Viena; llm_object: Karšuva'
-  temporaliniai_duomenys: 'pastatymo data: 1259 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 363746-364469; hash=1f886337f9e0e3a2bc1026484d1cbe434d88cd269e626a80b1e0b2abde3b267e; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: pastate -> Karšuva: 0.60
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Burchardas iš Hornhauzeno: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Karšuva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Burchardas nurodė pastatyti pilį Karšuvoje, tačiau leidžiamuose objektuose nėra pačios pilies, todėl ryšys vedamas į vietą.
 
 <a id="claim-t-183955"></a>
 - t-002
   global_id: t-183955
   teiginys: 'Karšuvos pilis ant švento Jurgio kalno buvo pastatyta Livonijos ir Prūsijos brolių lėšomis bei darbu.'
-  teiginio_tipas: 'saltinio_teiginys'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir citata patvirtina pilies statybos lėšas bei darbą.'
-  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Karšuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -92,11 +71,9 @@ Nenurodyta
     saugoti ten buvo palikta Prūsijos ir Livonijos brolių bei ginklanešių įgula, sudaryta iš
     vyrų, tinkamai parinktų ir įgudusių kovoti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
     - t-002

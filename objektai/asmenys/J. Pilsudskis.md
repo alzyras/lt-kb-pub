@@ -8,6 +8,11 @@ datos:
   - '1927 m.'
 date_start: '1919'
 date_end: '1927'
+description: 'J. Pilsudskis, pokario Lenkijos vadovas, siejamas su Vilniaus klausimu, 1926 m. perversmu ir 1927 m. įtampa Ženevoje.'
+socialDescription: 'J. Pilsudskio vaidmuo Lietuvos ir Lenkijos santykiuose: Vilniaus klausimas, 1926 m. perversmo atgarsiai ir 1927 m. Ženevos įtampa.'
+seo_atnaujinta: '2026-07-02T21:03:54.575047+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,7 +29,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl 1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą laiką išnaudojo Lietuvą, politinė unija XVI a. Pilsudskis motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe.
+J. Pilsudskis buvo pokario Lenkijos vadovas, kilęs iš Lietuvos dvarininkų ir vadinęs save lietuviu. Jo politika siejosi su Lietuvos ir Lenkijos konfliktu dėl Vilniaus: Vilniaus užėmimą jis grindė vietos lenkų tautiniu apsisprendimu ir kova su bolševikais. 1926 m. perversmas Lenkijoje, sugrąžinęs Pilsudskį į valdžią, veikė ir Lietuvos politines nuotaikas, o 1927 m. Ženevoje jis A. Voldemarui iškėlė klausimą „Karas ar taika?“
 
 ## Teiginiai
 
@@ -32,8 +37,6 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 - t-001
   global_id: t-108750
   teiginys: 'Pilsudskis motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe.'
-  sudarymo_pagrindimas: 'Sakinys aiškus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena; mentioned_place: Vilnija'
   pagrindžia:
     - c-002
 
@@ -41,52 +44,20 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 - t-002
   global_id: t-108751
   teiginys: 'J. Pilsudskis, pokario Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu.'
-  sudarymo_pagrindimas: 'Sakinys pilnas, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gabrielis Narutovičius|Gabrielis Narutovičius]]; mentioned_person: [[objektai/asmenys/Stanislovas Narutavičius|Stanislovas Narutavičius]]; mentioned_place: Vargiai'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=3b336e884f59e587dbddd48249f7d95c62227085709fae7137fdc9eb718380fe; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: reme -> J. Pilsudskis: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: J. Pilsudskis: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Formuluotė tiesiogiai apibūdina lenkus kaip J. Pilsudskio šalininkus.
 
 <a id="claim-t-108753"></a>
 - t-003
   global_id: t-108753
   teiginys: '1926 m. karinis perversmas Lenkijoje, sugrąžinęs J. Pilsudskį į valdžią, skatino veikti Seimo valdymu nepatenkintas jėgas.'
-  sudarymo_pagrindimas: 'Pirminis teiginys klaidingai rodė tiesioginį Pilsudskio veiksmą; citata palaiko platesnį poveikį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1926 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pirminis teiginys klaidingai rodė tiesioginį Pilsudskio veiksmą; citata palaiko platesnį poveikį.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f08be723e9fa1d6f26404bffad3fa7ec628b5932757a9011714210912337896e; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lenkai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: J. Pilsudskis: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=44
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Pilsudskis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-108754"></a>
 - t-004
   global_id: t-108754
   teiginys: '1927 m. gruodžio 10 d. Ženevoje J. Pilsudskis Augustinui Voldemarui uždavė klausimą „Karas ar taika?“'
-  sudarymo_pagrindimas: 'Reikia išplėsti inicialą, nes citata leidžia įvardyti Augustiną Voldemarą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustinas Voldemaras|Augustinas Voldemaras]]; mentioned_person: [[objektai/asmenys/Petras Klimas|Petras Klimas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Ženeva'
-  temporaliniai_duomenys: 'įvykio data: 1926 m.; įvykio data: 1927 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia išplėsti inicialą, nes citata leidžia įvardyti Augustiną Voldemarą.'
   pagrindžia:
     - c-004
 
@@ -94,12 +65,6 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 - t-005
   global_id: t-108755
   teiginys: 'J. Pilsudskis turėjo gausių lenkų šalininkų, kurie siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
-  sudarymo_pagrindimas: 'Pradinė formuluotė nepakankamai aiškiai sieja faktą su J. Pilsudskiu.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/J. Pilsudskis|J. Pilsudskis]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Suvalkai; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] rėmė [[objektai/asmenys/J. Pilsudskis|J. Pilsudskis]]'
-  temporaliniai_duomenys: 'įvykio data: 1919 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinė formuluotė nepakankamai aiškiai sieja faktą su J. Pilsudskiu.'
   pagrindžia:
     - c-005
 
@@ -107,11 +72,6 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 - t-006
   global_id: t-183534
   teiginys: 'Ernestas Galvanauskas siekė J. Pilsudskio pavyzdžiu užimti Klaipėdos kraštą jėga, sudaryti fait accompli padėtį ir tada derėtis.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Reikia išplėsti inicialą ir aiškiau nurodyti veiksmą dėl Klaipėdos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/fait accompli|fait accompli]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Klaipėda; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_person: [[objektai/asmenys/Ernestas Galvanauskas|Ernestas Galvanauskas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75772|Augustinas Voldemaras]]: 1927 m. gruodžio 10 d. Ženevoje Augustinas Voldemaras atsakė Juzefui Pilsudskiui, kad karo padėties tarp Lietuvos ir Lenkijos nėra.
@@ -144,7 +104,6 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
     gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti
     visus, nepatenkintus Seimo valdymu („seimokratija“).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -162,7 +121,6 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
     motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir ko-
     vos su bolševikais būtinybe.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -185,7 +143,6 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
     kijos prezidentu, o jo brolis Stanislovas Narutavičius – vienu iš Lietuvos
     nepriklausomybės kūrėjų, Lietuvos Tarybos nariu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -204,7 +161,6 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
     Dovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir
     pasiuntinys Petras Klimas (H. Roger Viollet nuotrauka)
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -228,7 +184,6 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
     laiką išnaudojo Lietuvą, politinė unija XVI a. su ja privedė Lietuvą prie
     vidinio chaoso.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -247,7 +202,6 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
     A. Smetonos, be faktinės kontrolės nebus juridinės), J. Pilsudskio pavyz-
     džiu pastatyti visus į fait accompli padėtį ir tada derėtis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

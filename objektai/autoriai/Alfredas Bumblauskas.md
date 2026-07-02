@@ -35,9 +35,6 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
 - t-001
   global_id: t-169883
   teiginys: '2013 m. leidime nurodytos Alfredo Bumblausko autorių teisės.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Alvydas Jokubaitis|Alvydas Jokubaitis]]; mentioned_author: [[objektai/autoriai/Inga Vinogradnaitė|Inga Vinogradnaitė]]; mentioned_author: [[objektai/autoriai/Raimundas Lopata|Raimundas Lopata]]; mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija|Mindaugo karūnacija]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Vytautas Radžvilas|Vytautas Radžvilas]]; mentioned_place: Europa; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 2013 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -45,11 +42,6 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
 - t-002
   global_id: t-169884
   teiginys: 'Alfredas Bumblauskas buvo vienas iš 2013 m. leidinio „Lietuvos istorija“ autorių.'
-  sudarymo_pagrindimas: 'Pradinis tekstas yra OCR ir metaduomenų nuotrupa; citata pagrindžia autorystę.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Alvydas Jokubaitis|Alvydas Jokubaitis]]; mentioned_author: [[objektai/autoriai/Inga Vinogradnaitė|Inga Vinogradnaitė]]; mentioned_author: [[objektai/autoriai/Raimundas Lopata|Raimundas Lopata]]; mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija|Mindaugo karūnacija]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Vytautas Radžvilas|Vytautas Radžvilas]]; mentioned_place: Europa'
-  temporaliniai_duomenys: 'įvykio data: 2013 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra OCR ir metaduomenų nuotrupa; citata pagrindžia autorystę.'
   pagrindžia:
     - c-001
 
@@ -57,7 +49,6 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
 - t-003
   global_id: t-169885
   teiginys: 'A. Bumblausko veikalai „Lietuvos Didžioji Kunigaikštija ir jos tradicija“ ir „Senosios Lietuvos istorija: 1009–1795“ nurodyti iliustracijų šaltiniuose.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštija|Lietuvos Didžioji Kunigaikštija]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/monografija|monografija]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/autoriai/Bumblauskas A.md#claim-t-64572|Bumblauskas A]]: A. Bumblauskas parašė veikalą „Lietuvos Didžioji Kunigaikštija ir jos tradicija“, išleistą Vilniuje 2010 m.
@@ -100,7 +91,6 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
     Gediminaičių dinastijos iškilimas 31
     PAGONIŲ VALSTYBĖ.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,7 +105,6 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
     A.  Bumblauskas. Senosios Lietuvos istorija: 1009–1795. Vilnius, 2005; Alma Mater
     Vilnensis: Vilniaus universiteto istorijos bruožai: kolektyvinė monografija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -53,42 +53,15 @@ Nenurodyta
 - t-001
   global_id: t-91907
   teiginys: 'Jai tarus šiuos žodžius, regėjimas dingo.'
-  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 247696-249449; hash=5c07b690f9bcefa54fb598b87ec2946b153b870e8015c212f85763f66f0f4ee6; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Pamedė: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Pamedė: mention_match, place, gap=29
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje" parinktas kaip owner_note_path. Targetas "Pamedė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-91908"></a>
 - t-002
   global_id: t-91908
   teiginys: '1234 m. magistras Hermanas, po prūsų išvijimo iš Kulmo žemės, pastatė Rudino pilį prie dykros tarp Pamedės ir Kulmo žemių.'
-  sudarymo_pagrindimas: 'Perrašyta sklandžiau ir pašalintas netaisyklingas konstrukcijos vartojimas.'
-  susije_objektai: 'mentioned_place: Pamedė; mentioned_place: Rudinas; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Krokuva; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Pamaris; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_place: Silezija; mentioned_place: Zirgūna'
-  temporaliniai_duomenys: 'pastatymo data: po 1202 m.; pastatymo data: 1202 m.; pastatymo data: po 1229 m.; pastatymo data: 1229 m.; pastatymo data: po 1232 m.; pastatymo data: 1232 m.; pastatymo data: 1233 m.; pastatymo data: po 1234 m.; pastatymo data: 1234 m.; pastatymo data: 1235 m.; pastatymo data: 1266 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip pastatymo data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Perrašyta sklandžiau ir pašalintas netaisyklingas konstrukcijos vartojimas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 249450-250827; hash=f0f5ca67eb8acf8d70cee0eb8eac684b3ad36d2b25f4b2cbf4247250517a762a; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -121,7 +94,6 @@ Nenurodyta
     buvusią tarp Pamedės ir Kulmo žemių, toje vietoje, pro kur prūsai nuolatos puldinėdavo
     ir kur buvo įeiga į Kulmo žemę [fuerat [...] introitus ad terram Colmensem].
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -149,7 +121,6 @@ Nenurodyta
     priėmęs,  ir visiems papasakojo matytą regėjimą. Tas brolis, uoliai tarnavęs dievui,
     netrukus buvo netikėlių nužudytas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

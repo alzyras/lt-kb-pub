@@ -49,58 +49,22 @@ Nenurodyta
 - t-001
   global_id: t-87005
   teiginys: 'Žaliaminės odos ir vaškas buvo svarbiausios Vilniaus pirklių išvežamosios prekės.'
-  sudarymo_pagrindimas: 'Perrašyta glaudžiau ir be migloto laiko žymens.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 537763-537982; hash=d136bcda105a0d8c9893ee7a31574fcb8b96faa2797fe026a11ffacccb238915; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vaškas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vaškas: mention_match, thing, gap=3
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės" parinktas kaip owner_note_path. Targetas "Vaškas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87006"></a>
 - t-002
   global_id: t-87006
   teiginys: 'Miesto lėšomis pastatyti kailiadirbių namai turguje leido ant sienų pardavimui kabinti kepures ir kailius.'
-  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet pradinė formuluotė per ilga ir nutrūkusi.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 538636-539159; hash=c6ef1d6b131baeef706b25dfe46d02f6eebada6dc05db6177ee7a53488c1110a; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vaškas: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vaškas: mention_match, thing
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės" parinktas kaip owner_note_path. Targetas "Vaškas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-87007"></a>
 - t-003
   global_id: t-87007
   teiginys: 'Karaliaus raštu Vilniaus vaitui leista į užsienį parduoti tris vaško gabalus po 50 akmenų.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir remiasi citatoje minimu karaliaus raštu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Jonas Markovičius|Jonas Markovičius]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Bobruiskas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rudamina; mentioned_place: Smolenskas; mentioned_place: Vilija'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 539009-540981; hash=cd5dddad2df249956ddc79248d40ca4912eea017712be4e7f82467dc0befeca2; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Vaškas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Vaškas: mention_match, thing, gap=47
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės" parinktas kaip owner_note_path. Targetas "Vaškas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -120,7 +84,6 @@ Nenurodyta
     vaitui į užsienį parduoti tris gaba­
     lus vaško po 50 akmenų], fol.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -194,7 +157,6 @@ Nenurodyta
     prekių sandėlis ir leista Vilijos upe laisvai plaukioti jų lai­
     vams, vadinamoms vytinėms.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -214,7 +176,6 @@ Nenurodyta
     kad nuo vaško ir kitų prekių iš Vil­
     niaus pirklių neimtų muito.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

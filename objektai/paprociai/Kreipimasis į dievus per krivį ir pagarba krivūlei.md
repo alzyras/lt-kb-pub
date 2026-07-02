@@ -41,9 +41,6 @@ Nenurodyta
 - t-001
   global_id: t-62686
   teiginys: 'Krivio pasiuntinys, keliaudamas su krivūle ar kitu žinomu ženklu, sulaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pašalintas nutrūkęs fragmentas ir aiškiai įvardytas krivio pasiuntinys.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/negęstančiąją ugnį|negęstančiąją ugnį]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 
@@ -60,7 +57,6 @@ Nenurodyta
     iš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta
     senovėje, negęstančiąją ugnį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -36,26 +36,8 @@ Nenurodyta
 - t-001
   global_id: t-185809
   teiginys: 'Vasario pradžioje Karaliaučiaus komtūras Bertoldas Briuhavenas atvedė daugiau kaip 1500 raitelių į Junigedos apylinkes.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatinis ir paremtas citata.'
-  susije_objektai: 'llm_object: Junigeda; mentioned_place: Junigeda; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Bertoldas Briuhavenas|Bertoldas Briuhavenas]]; mentioned_place: Kolainiai'
-  temporaliniai_duomenys: 'įvykio data: 1291 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatinis ir paremtas citata.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 280980-281534; hash=79243a7ccacc11a197191b02ab6bcc6b8498806ec2f24e74fcaab9079dcdd22c; match=ocr_normalized_gapped
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: surenge_zygi_i -> Junigeda: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Bertoldas Briuhavenas: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Junigeda: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Bertoldas Briuhavenas tiesiogiai atvedė kariuomenę į Junigedos apylinkes.
 
 ## Reikšmingi paminėjimai
 
@@ -88,10 +70,8 @@ Nenurodyta
     pilis, vėliau, nuniokojus kaimus, be kito grobio, išsi­
     varyta į vergiją septyni šimtai žmonių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

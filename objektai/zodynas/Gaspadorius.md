@@ -27,7 +27,6 @@ Papildomos aiškios formos neišskirtos.
 - t-001
   global_id: t-07723
   teiginys: 'Gaspadorius vaizduojamas kaip ūkio šeimininkas, raginantis pjovėjus baigti pievos kertę.'
-  sudarymo_pagrindimas: 'Citata rodo šeimininko vaidmenį ir konkretų darbų organizavimą.'
   pagrindžia:
     - c-001
 
@@ -48,7 +47,6 @@ Papildomos aiškios formos neišskirtos.
   citata_originali: |
     Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj duosiu arklius į bažnyčią joti.“ Šie, tais žodžiais pagaivinti, tarsi sylos atsigėrę, nubengia dainuodami noris pusnakty.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

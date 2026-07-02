@@ -56,8 +56,6 @@ amziai:
 - t-001
   global_id: t-20823
   teiginys: 'Vytauto jubiliejinių renginių svarbiausia mintis buvo tautos vienybė ir žinia, kad Lietuva yra sena istorinė valstybė.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, glaustas ir atitinka citatos mintį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Kaunas'
   pagrindžia:
     - c-002
 
@@ -65,8 +63,6 @@ amziai:
 - t-002
   global_id: t-20824
   teiginys: 'Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir aiškiai susijęs su jubiliejinių apeigų praktika.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -85,7 +81,6 @@ amziai:
     veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
     vos miestuose ir miesteliuose, jam pastatyti paminklai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -106,7 +101,6 @@ amziai:
     platų patriotinį sąjūdį, esama atrama šlovingoje pagoniškosios LDK pra-
     eityje, ir pasiųsta žinia, kad Lietuva yra sena istorinė valstybė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

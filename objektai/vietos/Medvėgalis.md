@@ -32,54 +32,22 @@ amziai:
 - t-001
   global_id: t-98613
   teiginys: 'Medvėgalio pilis stovėjo centrinėje Žemaitijoje, į šiaurės vakarus nuo Kaltinėnų, Medvėgalio kalno papėdėje.'
-  sudarymo_pagrindimas: 'Reikia pašalinti klaidingą autorinę atribuciją, nes citata yra paaiškinimas, ne Dusburgiečio pasakojimas.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5cce4eacc53d86f062d23656180308afcef8aae5ed2d60d8ebfa4be80c96bae6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 <a id="claim-t-98614"></a>
 - t-002
   global_id: t-98614
   teiginys: '1329 m. brolis Verneris su kariuomene apsupo Medvėgalio pilį, kuri po ilgų kovų pasidavė krikščionių tikėjimui.'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs sąrašas, o citata geriau palaiko faktą apie Medvėgalio apsiaustį.'
-  susije_objektai: 'llm_object: Medvėgalis; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Silezija; mentioned_place: Vokietija; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]] apgulė Medvėgalis'
-  temporaliniai_duomenys: 'įvykio data: 1329 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra nutrūkęs sąrašas, o citata geriau palaiko faktą apie Medvėgalio apsiaustį.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5772c90e6d80e330e2f23be84e8d405a2cdedd38dfaa0092101ac6663e964a1d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: gyne -> Medvėgalis: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Žemaičiai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Medvėgalis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Tekstas tiesiogiai nurodo, kad žemaičiai gynėsi Medvėgalyje.
 
 <a id="claim-t-98615"></a>
 - t-003
   global_id: t-98615
   teiginys: 'Grafas iš Bergo prie Medvėgalio pilies daug karių įšventino į riterius po Ordino brolių vėliava.'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi perteklinę atribuciją ir kontekstinę pradžią, bet citata palaiko konkretų faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Medininkai; mentioned_place: Reinas'
   pagrindžia:
     - c-005
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 655197-655783; hash=24c87d2b1064fc36de457712cfca9515e57a6f83e60deb5a19454ff76bc2a22d; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> vėliava: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Medvėgalis: owner_note_path, place, gap=0
-  ryšio_targeto_parinkimas: vėliava: mention_match, thing, gap=67
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medvėgalis" parinktas kaip owner_note_path. Targetas "vėliava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-98616"></a>
 - t-004
@@ -87,43 +55,20 @@ amziai:
   teiginys: 'Daug Medvėgalio srities kilmingųjų derėjosi su magistru, siūlydami paklusti už apsaugą nuo karaliaus pykčio ir jėgos.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 655788-656172; hash=55e4c22e7179c41b64900cd0b4077f6058e9f81d7de3d2febe9cbe2bc8271dc9; match=exact
-  sprendimo_priezastis: auto
 
 <a id="claim-t-98617"></a>
 - t-005
   global_id: t-98617
   teiginys: 'Medvėgalyje žemaičiai atkakliai gynėsi, tačiau priešui padegus pilį turėjo pasiduoti.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citatoje aprašytu Medvėgalio gynimu.'
-  susije_objektai: 'llm_object: Medvėgalis; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Guillaume de Machaut|Guillaume de Machaut]]'
-  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] gynė Medvėgalis'
-  temporaliniai_duomenys: 'įvykio data: 1357 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citatoje aprašytu Medvėgalio gynimu.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 748286-749102; hash=913c88e83f64e549c3127e0e697c56d51fa26de24366e97aab273871a6409530; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: apgule -> Medvėgalis: 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Medvėgalis: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Verneris tiesiogiai nurodytas kaip Medvėgalio pilies apgulėjas.
 
 <a id="claim-t-98618"></a>
 - t-006
   global_id: t-98618
   teiginys: 'Wigando kronikoje rašoma, kad daug Medvėgalio srities kilmingųjų derėjosi su magistru dėl paklusimo mainais į apsaugą nuo karaliaus.'
-  sudarymo_pagrindimas: 'Pašalintas puslapio ir OCR triukšmas, išlaikant citatos pagrįstą faktą.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5cce4eacc53d86f062d23656180308afcef8aae5ed2d60d8ebfa4be80c96bae6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-184141|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: 1329 m. Verneris su 200 brolių ir 18 tūkstančių karių patraukė į Lietuvą ir apsupo Medvėgalio pilį.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64231|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: 1329 m. Verneris su 200 brolių ir 18 tūkstančių karių patraukė į Lietuvą ir apsupo Medvėgalio pilį.
 - susijęs iš Aukaimis: Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Aukaimį bei dar tris pilis.
@@ -162,7 +107,6 @@ amziai:
     kaimį). Žemaičiai Medvėgalyje gana atkakliai gynęsi, tačiau prie­
     šui padegus pilį, turėję pasiduoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -185,7 +129,6 @@ amziai:
     kokių atskirų nuo bendros kovos linijos nukrypimų, gali atsirasti
     perbėgėlių pas priešą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -212,7 +155,6 @@ amziai:
 
                             10.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -229,7 +171,6 @@ amziai:
     — vienas svarbiausių Žemaitijos gynybos centrų (žr. paaiškinimus D. III, 320, 1; D.
     papildymai, 9; be to, SZM, p. 225; LAA, 2, p. 106).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -249,7 +190,6 @@ amziai:
     dėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava  į
     riterius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

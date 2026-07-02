@@ -33,11 +33,6 @@ Nenurodyta
 - t-001
   global_id: t-185853
   teiginys: 'Vaidevutis vengė karinių stovyklų, nes iš patirties matė, kad ginklą paėmę žmonės suįžūlėja ir nebeklauso įsakymų.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir citata tiesiogiai jį patvirtina.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laužas|Laužas]]'
   pagrindžia:
     - c-001
 
@@ -64,10 +59,8 @@ Nenurodyta
     dieninės patirties matė, jog žmonės, paėmę į rankas
     ginklą, suįžūlėja ir nebeklauso įsakymų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001

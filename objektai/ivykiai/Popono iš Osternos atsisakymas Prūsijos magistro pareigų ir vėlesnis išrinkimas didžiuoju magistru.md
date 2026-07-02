@@ -43,24 +43,8 @@ Nenurodyta
 - t-001
   global_id: t-62442
   teiginys: 'Poponas iš Osternos septynerius metus buvo antrasis Prūsijos žemės magistras, 1241 m. atsisakė pareigų ir vėliau tapo didžiuoju magistru.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės triukšmo ir nuorodos liekaną, bet faktas pagrįstas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Poponas iš Osternos|Poponas iš Osternos]]; mentioned_place: Prūsija; mentioned_place: Prūsų žemė; mentioned_place: Vokietija'
-  temporaliniai_duomenys: 'įvykio data: 1241 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi antraštės triukšmo ir nuorodos liekaną, bet faktas pagrįstas.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=afc61881e23488a684477f3cf59df716805a6d4400abad6ca40b07d33bce4551; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Poponas iš Osternos: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Popono iš Osternos atsisakymas Prūsijos magistro pareigų ir vėlesnis išrinkimas didžiuoju magistru: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Poponas iš Osternos: mention_match, person, gap=0
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Popono iš Osternos atsisakymas Prūsijos magistro pareigų ir vėlesnis išrinkimas didžiuoju magistru" parinktas kaip owner_note_path. Targetas "Poponas iš Osternos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -79,7 +63,6 @@ Nenurodyta
 
                 30.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -21,9 +21,6 @@ Narbutas kelio dievui skirtą akmenį vadina „Akmuo užukiejkimo Kieto Dewo“
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 281978-282498; hash=f8259af1fe334e4d1b89639e35d90878d3b3de83cc4f04197f54f56067c9f161; match=exact
-  sprendimo_priezastis: auto
 <a id="claim-t-189153"></a>
 - t-002
   global_id: t-189153
@@ -32,9 +29,6 @@ Narbutas kelio dievui skirtą akmenį vadina „Akmuo užukiejkimo Kieto Dewo“
     - c-002
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 284287-284700; hash=d049ba103a8e8347d3084ef1e91d5b544c80f2d98ce89aaf4aa7bdb9b6ecd63d; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -56,13 +50,10 @@ Narbutas kelio dievui skirtą akmenį vadina „Akmuo užukiejkimo Kieto Dewo“
     muo gali pasitraukti iš po sėdinčio, todėl galima smarkiai už­
     sigauti.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-001- c-002
   santrauka: 'Narbutas, remdamasis senovės padavimais, Wiessą Kielą vaizduoja kaip vieškelį, religiškai pašvęstą šalies svetingumui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -74,9 +65,7 @@ Narbutas kelio dievui skirtą akmenį vadina „Akmuo užukiejkimo Kieto Dewo“
     nių Merkurijus, Apolonas, Bakchas, Herkulis taip pat vadino­
     si kelio dievai, Dii viales. Buvo ir keliautojų deivė Vibilia.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

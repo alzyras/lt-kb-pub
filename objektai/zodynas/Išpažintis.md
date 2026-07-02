@@ -21,16 +21,6 @@ Narbutas, remdamasis Strijkovskiu ir Grunau, išpažintį priskiria lietuvių at
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 560438-561082; hash=89e2a54880f36748a5e0efca50db088acd6ad782345dfa4c1df00846135ff36b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Išpažintis: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Išpažintis" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Motiejus Strijkovskis.md#claim-t-188595|Motiejus Strijkovskis]]: Narbutas rašo, kad Strijkovskis lietuvių išpažintį grindė senųjų kronikininkų pranešimais ir savo duomenimis.
 - susijęs iš [[objektai/paprociai/Išpažintis per aukojimo apeigas.md#claim-t-189803|Išpažintis per aukojimo apeigas]]: Narbutas išpažintį priskyrė apeigoms, atliekamoms per aukų atnašavimą, remdamasis Strijkovskio ir senųjų kronikininkų duomenimis.
 - susijęs iš [[objektai/paprociai/Išpažintis per aukojimo apeigas.md#claim-t-189805|Išpažintis per aukojimo apeigas]]: Narbutas aiškino, kad po krikščionybės įvedimo lietuvių išpažintis mėgdžiojo katalikų išpažintį, bet turėjo senesnių stabmeldiškų bruožų.
@@ -61,9 +51,7 @@ Narbutas, remdamasis Strijkovskiu ir Grunau, išpažintį priskiria lietuvių at
     už plaukų, kitiems skaldė antausius, trečius gerokai apmušda­
     vo lazda.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

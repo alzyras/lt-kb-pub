@@ -42,43 +42,17 @@ Nenurodyta
 - t-001
   global_id: t-62672
   teiginys: 'Lietuviai prieš išpuolį prieš Ragainės brolius metė burtus, kurie nežadėjo sėkmės.'
-  teiginio_tipas: 'saltinio_teiginys'
-  sudarymo_pagrindimas: 'Išskleistas neaiškus veiksnys ir pašalinta fragmentiška formuluotė.'
-  susije_objektai: 'mentioned_place: Ragainė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Aukaimis; llm_object: Ragainė'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 562909-563315; hash=f6d0e89283583ec1a7a07cb84de83ce0046cca40d500410e84793665a2f4b24b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Aukaimis: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Burtų traukimas prieš svarbesnius darbus: owner_note_path, thing, gap=0
-  ryšio_targeto_parinkimas: Aukaimis: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Burtų traukimas prieš svarbesnius darbus" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-62673"></a>
 - t-002
   global_id: t-62673
   teiginys: 'Prūsai prieš svarbesnius darbus traukdavo burtus, klausdami savo dievų, ar darbas pavyks gerai, ar blogai.'
-  teiginio_tipas: 'faktas'
-  sudarymo_pagrindimas: 'Pašalinta boilerplate autorinė įžanga, sakinys glaustas ir enciklopedinis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_place: Aukaimis; mentioned_place: Ragainė'
   pagrindžia:
     - c-001
     - c-002
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 562909-563315; hash=f6d0e89283583ec1a7a07cb84de83ce0046cca40d500410e84793665a2f4b24b; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: puole -> Ragainė: 0.78
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lietuviai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Ragainė: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Lietuviai ketino surengti išpuolius prieš Ragainės brolius; kandidatuose nėra brolių, todėl naudojama Ragainė.
 
 ## Reikšmingi paminėjimai
 
@@ -92,7 +66,6 @@ Nenurodyta
     plėšikiškais išpuoliais Ragainės broliams ramybę. Artėdami jie metė — kaip reikalauja
     jų papročiai — burtus, kurie jiems nežadėjo sėkmės. Dėl to tučtuojau pasuko atgal.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -111,7 +84,6 @@ Nenurodyta
     Jie nei anksčiau nesirūpino nebūtinais ir prabangiais drabužiais, nei dabar nesirūpina:
     kaip šiandien nusivelka, taip rytoj apsivelka, nė nepastebėdami, kad jie štai išvirkšti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -129,7 +101,6 @@ Nenurodyta
     pastovėti. Prūsai retai kada imasi kokio svarbesnio darbo netraukę, kaip reikalauja jų
     papročiai, burtų ir šitaip nepasiteiravę savo dievų, ar gerai, ar blogai tas darbas pavyksiąs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

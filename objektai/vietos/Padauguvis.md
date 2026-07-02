@@ -43,9 +43,6 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
 - t-001
   global_id: t-73355
   teiginys: 'Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.'
-  sudarymo_pagrindimas: 'Sutvarkyta sakinio pradžia ir išlaikyta citatos paremta faktinė mintis.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Lybiai|Lybiai]]; llm_object: [[objektai/grupes/Aisčiai|Aisčiai]]; llm_object: Padauguvis; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių pirkliai|Vokiečių pirkliai]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Lybiai|Lybiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_object: [[objektai/zodynas/kolonijos|kolonijos]]; llm_object: [[objektai/grupes/Rusai|Rusai]]'
-  semantiniai_rysiai: '[[objektai/grupes/Vokiečių pirkliai|Vokiečių pirkliai]] keliavo į Padauguvis'
   pagrindžia:
     - c-001
 
@@ -53,11 +50,6 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
 - t-002
   global_id: t-73356
   teiginys: 'Pirmoji krikščionių bendruomenė Padauguvyje buvo silpna ir dažnai nukentėdavo nuo pagonių antpuolių.'
-  sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia, teiginys sutrumpintas ir sugramatintas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_place: Livonija'
-  temporaliniai_duomenys: 'įvykio data: 1180 m.; įvykio data: apie 1180 m.; įvykio data: 1229 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Pašalinta kontekstinė pradžia, teiginys sutrumpintas ir sugramatintas.'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/grupes/Voluiniečiai.md#claim-t-52464|Voluiniečiai]]: Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su lenkais ir voluiniečiais, o rytuose su gudais.
@@ -85,7 +77,6 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     lankytis vokiečių pirkliai. Jie prekiavo su lybiais ir aisčiais arba
     čia tik sustodavo, vykdami prekiauti į rusų kraštus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -104,7 +95,6 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     vyskupas, Albertas (1199—1229 m.), ėmė organizuoti gin-
     kluotą savo tikinčiųjų apsaugą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

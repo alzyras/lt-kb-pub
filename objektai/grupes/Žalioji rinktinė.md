@@ -27,42 +27,15 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
 - t-001
   global_id: t-41218
   teiginys: '1950 m. lapkričio 25 d. panaikinus Algimanto apygardą, Žaliosios rinktinės kovotojai buvo įtraukti į Vyčio apygardą.'
-  sudarymo_pagrindimas: 'Pataisyta gramatinė forma ir išlaikyta citatos paremta informacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Algimanto apygarda|Algimanto apygarda]]; mentioned_person: [[objektai/asmenys/Vaižgantas|Vaižgantas]]; mentioned_place: Viena'
-  temporaliniai_duomenys: 'įvykio data: 1950 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pataisyta gramatinė forma ir išlaikyta citatos paremta informacija.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=2d05fa0cf4aac6b49a9242d36a5496dd06b281e34a66f23f6d7f206e6f9e7697; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Viena: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žalioji rinktinė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=22
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žalioji rinktinė" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-41219"></a>
 - t-002
   global_id: t-41219
   teiginys: 'Žalioji rinktinė buvo viena iš trijų Algimanto apygardos rinktinių kartu su Šarūno ir Kunigaikščio Margio rinktinėmis.'
-  sudarymo_pagrindimas: 'Perrašyta, kad teiginys būtų tiesiogiai apie Žaliąją rinktinę.'
-  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=bb9851ec3a891331aad38f66f83e787cc6d66eb3ede881ccce93b98371bf26c2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Algimanto apygarda: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Žalioji rinktinė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Algimanto apygarda: mention_match, group, gap=20
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žalioji rinktinė" parinktas kaip owner_note_path. Targetas "Algimanto apygarda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -77,7 +50,6 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
     bazavosi srities vadovybė, būdavo ren-
     giami srities vadų sąskrydžiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -95,7 +67,6 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
     rinktinę ir įtraukti į Vytauto, o Žaliosios
     rinktinės kovotojai - į Vyčio apygardas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

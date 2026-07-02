@@ -56,11 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-108568
   teiginys: 'Petrapily paruoštas ir 1861 m. vasario 19 d. paskelbtas manifestas Rusijos imperijoje panaikino baudžiavą ir suteikė valstiečiams teisę per 49 metus išsipirkti žemę.'
-  sudarymo_pagrindimas: 'Pradinis tekstas sudarytas iš dviejų sakinių, todėl perrašytas į vieną glaustą faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1861 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis tekstas sudarytas iš dviejų sakinių, todėl perrašytas į vieną glaustą faktinį sakinį.'
   pagrindžia:
     - c-002
 
@@ -68,8 +63,6 @@ Nenurodyta
 - t-002
   global_id: t-108570
   teiginys: 'Po Napoleono sutriuškinimo Rusijoje drąsiau buvo keliami valdžios reformavimo ir baudžiavos paveldo klausimai.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai atitinka citatos informaciją apie baudžiavos klausimus.'
-  susije_objektai: 'mentioned_place: Rusija'
   pagrindžia:
     - c-008
 
@@ -77,11 +70,6 @@ Nenurodyta
 - t-003
   global_id: t-108573
   teiginys: '1864 m. carizmas pradėjo anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
-  sudarymo_pagrindimas: 'Sakinys aiškus ir susijęs su baudžiavos panaikinimu.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1864 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys aiškus ir susijęs su baudžiavos panaikinimu.'
   pagrindžia:
     - c-007
 
@@ -89,8 +77,6 @@ Nenurodyta
 - t-004
   global_id: t-108574
   teiginys: 'Į baudžiavą nebegalėjo būti grąžinti valstiečiai, kuriuos buvo atleidę patys dvarininkai.'
-  sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstiniu žodžiu „Buvo“ ir gali būti suformuluotas aiškiau.'
-  susije_objektai: 'mentioned_place: Rusija'
   pagrindžia:
     - c-003
 
@@ -98,11 +84,6 @@ Nenurodyta
 - t-005
   global_id: t-108575
   teiginys: '1831 m. sukilimo atsišaukimuose lenkų ir lietuvių kalbomis keltas reikalavimas paleisti valstiečius iš baudžiavos.'
-  sudarymo_pagrindimas: 'Sakinys aiškiai perteikia faktą apie baudžiavą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1831 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys aiškiai perteikia faktą apie baudžiavą.'
   pagrindžia:
     - c-004
 
@@ -110,11 +91,6 @@ Nenurodyta
 - t-006
   global_id: t-108576
   teiginys: 'Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikinimo projektus.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus Senienų muziejus|Vilniaus Senienų muziejus]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_place: Krymas; mentioned_place: Rusija; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1855 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-006
 
@@ -122,9 +98,6 @@ Nenurodyta
 - t-007
   global_id: t-108577
   teiginys: '1861 m. vasario 19 d. manifestu baudžiava Rusijos imperijoje buvo panaikinta, paliekant valstiečiams teisę išsipirkti žemę per 49 metus.'
-  susije_objektai: 'mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
-  temporaliniai_duomenys: 'įvykio data: 1861 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -132,7 +105,6 @@ Nenurodyta
 - t-008
   global_id: t-108579
   teiginys: 'Valstiečiai ir toliau liko beteisiai baudžiauninkai, bet atleistųjų dvarininkai nebegalėjo grąžinti į baudžiavą.'
-  susije_objektai: 'mentioned_place: Rusija'
   pagrindžia:
     - c-003
 
@@ -140,8 +112,6 @@ Nenurodyta
 - t-009
   global_id: t-108580
   teiginys: 'Po 1447 m. privilegijos prasidėjo tikroji baudžiava, vis labiau apkraudama valstiečius mokesčiais ir darbais.'
-  temporaliniai_duomenys: 'įvykio data: po 1447 m.; įvykio data: 1447 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -149,11 +119,6 @@ Nenurodyta
 - t-011
   global_id: t-108583
   teiginys: 'Rusijos pralaimėjimas Krymo kare paskatino carą Aleksandrą II rengtis baudžiavos panaikinimui.'
-  sudarymo_pagrindimas: 'Sakinys pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Krymas; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1861 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-005
 
@@ -168,7 +133,6 @@ Nenurodyta
     džiava (žiūr. 180 psl.): iš savo vietų nebegalį išsikelti valstie-
     čiai buvo apkraunami vis didesniais mokesčiais ir darbais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -186,7 +150,6 @@ Nenurodyta
     rijoje buvo panaikinta baudžiava, o valstiečiams
     duota teisė per 49 metus išsipirkti žemę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -202,7 +165,6 @@ Nenurodyta
     bus grąžinti į baudžiavą tų, kurie atleisti pačių dvarininkų.
     Daugiau teisių gavo miestiečiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -221,7 +183,6 @@ Nenurodyta
     dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas
     ir reikalavimas paleisti valstiečius iš baudžiavos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -239,7 +200,6 @@ Nenurodyta
     matyta privaloma valstiečiams skiriamo žemės sklypo išpirka. Valstiečių
     reformą numatyta pradėti po dvejų metų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -261,7 +221,6 @@ Nenurodyta
     tyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė
     institucija, sutelkusi krašto visuomenę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -280,7 +239,6 @@ Nenurodyta
     mą žemę įgijusiu žemiausiu, bet savarankišku valstiečių žemdirbių luo-
     mu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -296,7 +254,6 @@ Nenurodyta
     tarinėjamos socialinės, politinės problemos. Drąsiau keliami val­
     džios reformavimo, baudžiavos paveldo klausimai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

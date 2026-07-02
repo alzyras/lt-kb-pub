@@ -27,8 +27,6 @@ Vartojamos formos: `sutartiniais`, `sutartines`, `sutartinėmis`.
 - t-001
   global_id: t-07663
   teiginys: 'Sutartinės vadintos dainomis, kurias sueigose dainuodavo atlieptinai.'
-  sudarymo_pagrindimas: 'Citata aiškiai paaiškina sutartinių pavadinimą ir dainavimo būdą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Trimitai|Trimitai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -39,7 +37,6 @@ Vartojamos formos: `sutartiniais`, `sutartines`, `sutartinėmis`.
   citata_originali: |
     Įrankiais jų linksmybės buvo ilgi, iš trijų skilų sudėti apvalūs medžio trūbai^551 , nuokamieni^552 ir truputį pakumpi, per pusantro sieksnio ilgi, stipriai sukibyti^553 , nukaišti ir laibai tošėmis nuvyturti, kuriuos t vadino trimitais, jog iš trijų dalių buvo sudėti; tais trūbais skatino kareivius į kovą kariaudami, pūtė aukas dievams aukaudarni, nabaštikus^554 laidodami, kaip viršiau minavojau; vadino juos dar sutartiniais nuo to, jog vieni trūbijo^555 , o kiti atlieptinai dainavo sueimuose^556 : kaipogi Kiauleikio nabaštikas, 137 metus turįs, 1836 metuose miręs, jis pasakojo, jog dar atmenąs, kaip liuobėję^557 subatos vakarą nuo saulės užsileidimo lig saulei patekant sutartines dainuoti. Ir taip, susiėję į vieną kiemą, motriškosios ir vyriškieji vieni į tuos trimitus pūtę, o kiti dainavę atlieptinai, nuo ko ir dainos yra taip pat sutartinėmis vadinamos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

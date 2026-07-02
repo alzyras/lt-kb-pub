@@ -44,8 +44,6 @@ Nenurodyta
 - t-001
   global_id: t-05370
   teiginys: 'Valstiečių prievolės dvarui gausėjo, o iš valstiečio kiemo reikėjo siųsti vis daugiau darbo rankų į dvaro laukus.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-001
 
@@ -53,8 +51,6 @@ Nenurodyta
 - t-002
   global_id: t-97142
   teiginys: 'Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais anksti mokėjo sidabrinę duoklę pinigais.'
-  sudarymo_pagrindimas: 'Reikia glaudesnio, mažiau pasikartojančio enciklopedinio sakinio.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-003
 
@@ -62,8 +58,6 @@ Nenurodyta
 - t-003
   global_id: t-97143
   teiginys: 'XV a. pradžioje, Vytauto laikais, dauguma Lietuvos valstiečių dar buvo laisvieji ūkininkai.'
-  sudarymo_pagrindimas: 'Reikia pataisyti skyrybą ir sklandžiau suformuluoti faktą.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -82,7 +76,6 @@ Nenurodyta
     lakus », gausėjo. Vis daugiau darbo rankų iš valstiečio kiemo rei­
     kėjo siųsti į dvaro laukus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -102,7 +95,6 @@ Nenurodyta
     žemės ploto ir turėjo nustatytas pareigas; tokie valstiečiai vadi-
     nosi nelaisvaisiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -123,7 +115,6 @@ Nenurodyta
     kėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t. y. mo-
     kestį sidabriniais pinigais).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

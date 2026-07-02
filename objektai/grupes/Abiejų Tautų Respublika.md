@@ -64,11 +64,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-001
   global_id: t-80769
   teiginys: '1797 m. Peterburgo konvencija patvirtino trečiąjį Abiejų Tautų Respublikos padalijimą ir panaikino jos valstybingumo likučius.'
-  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet santrumpa LLV pakeista aiškiu objekto pavadinimu.'
-  susije_objektai: 'mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Peterburgas; mentioned_place: Prūsija; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1797 m.; įvykio data: 1918 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys pagrįstas, bet santrumpa LLV pakeista aiškiu objekto pavadinimu.'
   pagrindžia:
     - c-008
 
@@ -76,11 +71,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-002
   global_id: t-80770
   teiginys: '1566–1795 m. Abiejų Tautų Respublikos bajoriškoji demokratija buvo luominė monarchija, paremta bajorų luomu.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys su faktiniu predikatu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/bajoriškoji demokratija|bajoriškoji demokratija]]; mentioned_object: [[objektai/zodynas/Liberum veto|Liberum veto]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Olandija; mentioned_place: Prancūzija'
-  temporaliniai_duomenys: 'įvykio data: iki 1763 m.; įvykio data: 1566-1795; įvykio data: po 1573 m.; įvykio data: 1573 m.; įvykio data: 1689 m.; įvykio data: 1763 m.; įvykio data: 1795 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys su faktiniu predikatu.'
   pagrindžia:
     - c-011
 
@@ -88,11 +78,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-003
   global_id: t-80771
   teiginys: '1569 m. Liublino unija sukūrė jungtinę valstybę – Abiejų Tautų Respubliką.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Abiejų Tautų Respubliką ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Liublino unija (1569 m.)|Liublino unija (1569 m.)]]; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštija|Lietuvos Didžioji Kunigaikštija]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Žemaitija'
-  temporaliniai_duomenys: 'įvykio data: 1569 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Abiejų Tautų Respubliką ir tiksliai remiasi citata.'
   pagrindžia:
     - c-001
     - c-004
@@ -101,11 +86,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-004
   global_id: t-80772
   teiginys: '1793 m. Rusija ir Prūsija įvykdė antrąjį Abiejų Tautų Respublikos padalijimą, kurį Gardino seimas buvo priverstas patvirtinti.'
-  sudarymo_pagrindimas: 'Teiginys pagrįstas, bet santrumpa LLV pakeista aiškiu note objekto pavadinimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gardino seimas|Gardino seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Gardinas; mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1793 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys pagrįstas, bet santrumpa LLV pakeista aiškiu note objekto pavadinimu.'
   pagrindžia:
     - c-007
 
@@ -113,11 +93,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-005
   global_id: t-80773
   teiginys: 'Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos padalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, paremtas citata apie Respublikos padalijimus.'
-  susije_objektai: 'mentioned_place: Austrija; mentioned_place: Prūsija; mentioned_author: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1791 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys, paremtas citata apie Respublikos padalijimus.'
   pagrindžia:
     - c-003
     - c-007
@@ -127,8 +102,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-006
   global_id: t-80774
   teiginys: 'Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Lenkijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie istorinės minties tradiciją ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Livonija'
   pagrindžia:
     - c-010
 
@@ -136,7 +109,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-007
   global_id: t-80775
   teiginys: 'Abiejų Tautų Respublika XVII-XVIII a. siejama su duonos, tolerancijos, demokratijos, konstitucijos ir baroko fenomenais.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštija|Lietuvos Didžioji Kunigaikštija]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -144,8 +116,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-008
   global_id: t-80776
   teiginys: 'Oficialus Liublino unijos sukurtos jungtinės valstybės pavadinimas buvo Abiejų Tautų Respublika.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai įvardija oficialų valstybės pavadinimą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Baroko epocha|Baroko epocha]]; mentioned_place: Didžioji Lenkija; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Mažoji Lenkija; mentioned_place: Viena'
   pagrindžia:
     - c-012
 
@@ -153,9 +123,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-009
   global_id: t-80777
   teiginys: '1791 m. Abiejų Tautų tarpusavio įžadas grąžino valstybės dualizmo, arba federacijos, principą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1791 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-006
 
@@ -163,9 +130,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-011
   global_id: t-80779
   teiginys: '1569 m. Liublino unija sukūrė Abiejų Tautų Respubliką, vadinamą originaliu valstybių junginiu ir kartais laikomą Europos Sąjungos pirmtaku.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_event: [[objektai/ivykiai/Liublino unija (1569 m.)|Liublino unija (1569 m.)]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_object: [[objektai/posakiai/„Šventos santuokos“|„Šventos santuokos“]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas'
-  temporaliniai_duomenys: 'įvykio data: 1386 m.; įvykio data: 1569 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-004
 
@@ -173,8 +137,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-012
   global_id: t-80780
   teiginys: 'Lenkijoje gyvuoja tradicija Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika.'
-  sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiksliai perteikia citatoje minimą pavadinimo tradiciją.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Livonija'
   pagrindžia:
     - c-005
 
@@ -182,11 +144,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-013
   global_id: t-80781
   teiginys: '1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo konstitucijos pataisą, pavadintą Abiejų Tautų tarpusavio įžadu.'
-  sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1791 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir atitinka citatos informaciją.'
   pagrindžia:
     - c-006
 
@@ -194,11 +151,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-014
   global_id: t-80782
   teiginys: 'Abiejų Tautų Respublika per Gdanską aprūpino Vakarus javais ir sukūrė religinės tolerancijos bei bajoriškosios demokratijos tradiciją.'
-  sudarymo_pagrindimas: 'Teiginys yra rišlus faktinis sakinys apie Respublikos poveikį ir atitinka citatą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Austrija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1791 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra rišlus faktinis sakinys apie Respublikos poveikį ir atitinka citatą.'
   pagrindžia:
     - c-003
 
@@ -206,12 +158,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-015
   global_id: t-80783
   teiginys: 'Zigmantas III Vaza 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako valdovo išrinkimą ir yra pagrįstas citata.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Zigmantas III|Zigmantas III]]; mentioned_place: Švedija'
-  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas III|Zigmantas III]] buvo valdovas [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]'
-  temporaliniai_duomenys: 'įvykio data: 1587 m.; įvykio data: 1592 m.; įvykio data: 1594 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako valdovo išrinkimą ir yra pagrįstas citata.'
   pagrindžia:
     - c-009
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169842|Liublino unija (1569 m.)]]: 1569 m. sudaryta Liublino unija sukūrė Abiejų Tautų Respubliką kaip Lietuvos ir Lenkijos suartėjimo nuo Jogailos ir Jadvygos vedybų padarinį.
@@ -698,7 +644,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
     valstybė – Abiejų Tautų Respublika.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -717,7 +662,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     mingus fenomenus, kurių trumpa formulė būtų tokia – duona, toleran-
     cija, demokratija, konstitucija, barokas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -747,7 +691,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos pa-
     dalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -766,7 +709,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     ginalus valstybių junginys, kuris šiandien kartais laikomas net Europos
     Sąjungos pirmtaku.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -786,7 +728,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     kijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų,
     o Lenkijos Respublika.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -806,7 +747,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     Tėvynę – Lenkijos Respubliką“, visur minima ir „abi tautos“ bei LDK.
     Taigi į konstituciją sugrąžintas valstybės dualizmo principas – federacija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -828,7 +768,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     gustas buvo priversti atšaukti Gegužės trečiosios konstituciją ir atkurti
     ikikonstitucinę „auksinių laisvių“ santvarką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -847,7 +786,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     nebeatsikūrė. Susikurs dvi naujos savarankiškos valstybės – Lietuva ir
     Lenkija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -867,7 +805,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     Jonui 111, Upsaloje 1594 m. jis taip pat vai-
     nikuotas ir Švedijos karaliumi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -885,7 +822,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     nės minties nelogiškumą: jei unija – „šventa santuoka“, tai kur santuokos
     partneris?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -912,7 +848,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     nepriėmę jokių sprendimų, nes kai kuriuos tokių seimų nutraukė pavie-
     niai atstovai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -933,7 +868,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos
     buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

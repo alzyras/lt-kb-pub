@@ -33,16 +33,6 @@ Nenurodyta
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 482875-483261; hash=d0d3f9c38e09435f0ae6e664266af8a06566e47f2065c5f8fac941603efb6e53; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kražiai: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Aleksandro įsakymu pastatyta filija pagoniškos šventyklos vietoje: owner_note_path, event, gap=0
-  ryšio_targeto_parinkimas: Kražiai: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandro įsakymu pastatyta filija pagoniškos šventyklos vietoje" parinktas kaip owner_note_path. Targetas "Kražiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -57,9 +47,7 @@ Nenurodyta
     dant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­
     toje buvo pastatyta filija .
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

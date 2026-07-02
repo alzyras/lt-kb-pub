@@ -29,16 +29,6 @@ Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaiki
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 476007-476509; hash=19f55a1819e20d1708467f0ae21de0eddac7ef9f670344692e2e2e7b25c7f8ea; match=exact
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_zmona -> Algirdas (Lietuvos valdovas): 0.94
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Julijona Vitebskietė: llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Julijoną kaip Algirdo žmoną.
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -55,10 +45,8 @@ Narbutas nurodė, kad apie 1331 m. Julijonos Vitebskietės įsakymu buvo panaiki
     tos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­
     dyklos vietoje įkūrė cerkvę su šventiku.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

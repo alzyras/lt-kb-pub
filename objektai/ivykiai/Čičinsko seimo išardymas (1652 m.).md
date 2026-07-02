@@ -41,9 +41,6 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 717099-717447; hash=d0369acf031dcc9f61497f760fb06f8e5f596c38d82fe29ea7c935476bfdd13c; match=exact
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -57,9 +54,7 @@ Nenurodyta
     1569 m. Liublino seimo, kada prasidėjo bendrieji lietuvių lenkų
     seimai, — Lenkijoje iš viso iširo 7 seimai.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

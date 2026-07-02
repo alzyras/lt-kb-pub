@@ -31,24 +31,8 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
 - t-001
   global_id: t-60245
   teiginys: 'Popiežius Jonas XXII 1324 m. pasiuntė Aleto vyskupą Baltramiejų į Livoniją kaip legatą pakrikštyti lietuvių ir rusų karaliaus.'
-  sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas konkretus faktas apie Baltramiejų.'
-  susije_objektai: 'llm_object: Ryga; llm_object: Livonija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Livonija; mentioned_person: [[objektai/asmenys/Benediktas|Benediktas]]; mentioned_person: [[objektai/asmenys/Jonas XXII|Jonas XXII]]; mentioned_place: Ryga; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Baltramiejus (Aleto vyskupas)|Baltramiejus (Aleto vyskupas)]] keliavo į Ryga; [[objektai/asmenys/Baltramiejus (Aleto vyskupas)|Baltramiejus (Aleto vyskupas)]] keliavo į Livonija'
-  temporaliniai_duomenys: 'įvykio data: 1324 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuluotas konkretus faktas apie Baltramiejų.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=31147ad856378d84d2e1aa7af46149bab7d1822555dcaed50cc31d48756e3044; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: keliavo_i -> Ryga: 0.92
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Baltramiejus (Aleto vyskupas): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Ryga: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo Baltramiejaus atvykimą į Rygą kaip vieno iš dviejų legatų.
 
 ## Reikšmingi paminėjimai
 
@@ -73,7 +57,6 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
     tik apaštališkasis sostas, prie kurio  jie patys per  tris mėnesius turėsią prisistatyti,
     kad atvykę deramai pataisytų tai, kas atsitiko.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

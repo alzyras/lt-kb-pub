@@ -38,7 +38,6 @@ Nenurodyta
 - t-001
   global_id: t-08333
   teiginys: 'Jei stoginėse netilpo pašaras, jį krovė ant lauko į žagus arba bragus.'
-  teiginio_tipas: 'faktas'
   pagrindžia:
     - c-001
 - susijęs iš Joniškio apskritis: 1945 m. balandžio 18 d. Joniškio apskrities Joniškio valsčiaus Gasčiūnų kaime NKVD pajėgos aptiko partizanus, o kautynės truko tris valandas.
@@ -52,7 +51,6 @@ Nenurodyta
         vadinamas [7]; bragas buvo ketvirtainis su šiaudų ar stembrų^240 stogeliu, o žagas be stogo,
         nuokamieniai^241 sukrautas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

@@ -23,20 +23,8 @@ Jo pirmoji žmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė. Ma
 - t-001
   global_id: t-35217
   teiginys: 'Vytauto pirmoji žmona Marija buvo Rusijos kunigaikštytė ir, anot šaltinio, veikiausiai stačiatikė.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Rusija; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Marija (pirmoji Vytauto žmona)|Marija (pirmoji Vytauto žmona)]] buvo žmona [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=dd2a6d59dadf54369478053208edfe6815e99526db535b2290db33739019b081; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_zmona -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.98
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Marija (pirmoji Vytauto žmona): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person
-  ryšio_paaiskinimas: Teiginys tiesiogiai nurodo Mariją kaip pirmąją Vytauto žmoną.
 
 ## Reikšmingi paminėjimai
 
@@ -49,7 +37,6 @@ Jo pirmoji žmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė. Ma
     Antroji jo žmona Ona pradžioj taip pat buvusi stačiatikė, tik
     paskui pasidarė labai uoli katalikė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

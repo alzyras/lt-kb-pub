@@ -9,6 +9,11 @@ datos:
   - '1634 m.'
 date_start: '1610'
 date_end: '1634'
+description: 'Vladislovas Vaza, Zigmanto Vazos sūnus, 1632 m. reformavo kariuomenę ir 1634 m. privertė kapituliuoti rusų pajėgas.'
+socialDescription: 'Vladislovas Vaza siejamas su 1632 m. Lietuvos ir Lenkijos kariuomenių reformomis bei 1634 m. pergale prieš rusų pajėgas.'
+seo_atnaujinta: '2026-07-02T20:14:54.878006+03:00'
+seo_policy_version: 'seo_summary_v1'
+seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,7 +30,7 @@ periodo_grupes:
 
 ## Santrauka
 
-Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santykiai su Švedais Vladislovo laikais ....
+Vladislovas Vaza buvo Zigmanto Vazos sūnus, kurį dalis Rusijos bojarinų 1610 m. išrinko naujuoju caru. Jo valdymo laikais, nuo 1632 m., imtasi Lietuvos ir Lenkijos kariuomenių reformų, siekiant padidinti jų ugnies galią. 1633 m. jis atvyko į frontą su 15 tūkst. kariuomene, o 1634 m. sausio 24 d. jo vadovaujamos lietuvių ir lenkų pajėgos privertė kapituliuoti rusų kariuomenę.
 
 ## Teiginiai
 
@@ -33,7 +38,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
 - t-001
   global_id: t-79221
   teiginys: 'Vladislovas Vaza buvo bendrai išrinktas lietuvių ir lenkų.'
-  sudarymo_pagrindimas: 'Pašalinta kontekstinė jungtis ir suformuluotas pilnas sakinys.'
   pagrindžia:
     - c-006
 
@@ -41,7 +45,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
 - t-002
   global_id: t-79222
   teiginys: 'Vladislovo Vazos laikais karų buvo kiek mažiau negu kitais Vazų valdymo periodo tarpsniais.'
-  sudarymo_pagrindimas: 'Pradiniame teiginyje vartojamas neaiškus įvardinis kontekstas; citata leidžia suformuluoti aiškų faktą.'
   pagrindžia:
     - c-005
 
@@ -49,11 +52,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
 - t-003
   global_id: t-79223
   teiginys: 'Dalis Rusijos bojarinų naujuoju caru išrinko Zigmanto Vazos sūnų Vladislovą.'
-  sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir citata jį tiesiogiai patvirtina.'
-  susije_objektai: 'llm_object: Maskva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Maskva; mentioned_place: Rusija'
-  temporaliniai_duomenys: 'įvykio data: 1610 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys ir citata jį tiesiogiai patvirtina.'
   pagrindžia:
     - c-008
 
@@ -61,11 +59,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
 - t-004
   global_id: t-79225
   teiginys: '1633 m. rugsėjį Vladislovas Vaza atvyko į frontą su 15 tūkst. kariuomene.'
-  sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'kelionės data: 1633 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
   pagrindžia:
     - c-007
 
@@ -73,11 +66,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
 - t-005
   global_id: t-79226
   teiginys: '1632 m. Vladislovas Vaza ėmė reformuoti Lietuvos ir Lenkijos kariuomenes, siekdamas padidinti jų ugnies galią.'
-  sudarymo_pagrindimas: 'Teiginys yra išbaigtas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Atskiri Lietuvos seimai|Atskiri Lietuvos seimai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]'
-  temporaliniai_duomenys: 'įvykio data: 1632 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys yra išbaigtas, faktinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
 
@@ -85,12 +73,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
 - t-006
   global_id: t-79227
   teiginys: '1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė kapituliuoti rusų pajėgas.'
-  sudarymo_pagrindimas: 'Teiginys aiškiai nusako asmens vadovaujamos kariuomenės veiksmą ir datą.'
-  susije_objektai: 'llm_object: [[objektai/grupes/Rusai|Rusai]]; llm_object: Rusija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Krymo totoriai|Krymo totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Rusija'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Vaza|Vladislovas Vaza]] kariavo prieš [[objektai/grupes/Rusai|Rusai]]'
-  temporaliniai_duomenys: 'įvykio data: 1634 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako asmens vadovaujamos kariuomenės veiksmą ir datą.'
   pagrindžia:
     - c-001
 
@@ -98,37 +80,15 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
 - t-007
   global_id: t-79229
   teiginys: 'Vladislovo Vazos valdymo laikai datuojami 1632–1648 m.'
-  sudarymo_pagrindimas: 'Pradinis teiginys turi OCR klaidą, o citata palaiko aiškų datavimo sakinį.'
   pagrindžia:
     - c-002
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=5f2543de4bf26c1f753427006031d3776616eff771119085ca58b2a6b84e8f9d; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: uzeme -> Maskva: 0.88
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Lenkai: llm_allowed_candidate, group
-  ryšio_targeto_parinkimas: Maskva: llm_allowed_candidate, place
-  ryšio_paaiskinimas: Citata tiesiogiai nurodo, kad lenkų kariuomenė užėmė Maskvą.
 
 <a id="claim-t-79230"></a>
 - t-008
   global_id: t-79230
   teiginys: 'Nuo Vladislovo Vazos lietuviai XVII a. ėmė rinkti karalius bendrai su lenkais, todėl atskiri Lietuvos seimai nyko.'
-  sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir suformuluotas pilnas sakinys apie asmens reikšmę.'
   pagrindžia:
     - c-004
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f27272ff3ec0c23e8eba066fbb249d8be000aef24365a1f9fbbeb3c5b8545f4b; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Vladislovas Vaza: owner_note_path, person, gap=0
-  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Vaza" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Mykolas Borisovičius Šeina.md#claim-t-40355|Mykolas Borisovičius Šeina]]: Rusų kariuomenės vado Mykolo Borisovičiaus Šeinos štabas prie Smolensko pasidavė ATR valdovui Vladislovui Vazai.
 - susijęs iš [[objektai/asmenys/Kristupas II Radvila.md#claim-t-49421|Kristupas II Radvila]]: 1633 m. žiemą tuometinis Lietuvos lauko etmonas Kristupas II Radvila atskubėjo į pagalbą.
 - susijęs iš [[objektai/asmenys/Kristupas II Radvila.md#claim-t-49422|Kristupas II Radvila]]: 1633 m. žiemą tuometinis Lietuvos lauko etmonas Kristupas II Radvila atskubėjo į pagalbą.
@@ -150,7 +110,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     apsupo sumenkusias priešo pajėgas ir
     1634 m. sausio 24 d. privertė kapituliuoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -163,7 +122,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     9. Vladislovo asmuo ir elekcija 315
     10.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -184,7 +142,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     Vladislovas Vaza 1632 m. ėmė reformuoti Lietuvos ir Lenkijos
     kariuomenes, siekdamas didinti ugnies galią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -202,7 +159,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     lovu Vaza, lietuviai ėmė rinkti karalius bendrai su lenkais, tie
     atskiri Lietuvos seimai ėmė nykti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -217,7 +173,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     tik Vladislovo laikais, bet Jono Kazimiero laikais visa Lietuva
     buvo nuteriota Maskvos ir Švedų kariuomenių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -231,7 +186,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     net nepripažino savo didžiaisiais kunigaikščiais. Bet Vladislovas
     Vaza jau buvo bendrai išrinktas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -248,7 +202,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     dovas Vladislovas Vaza su 15 tūkst. ka-
     riuomene. Rusų pajėgų padėtis ėmė
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -268,7 +221,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     limas, Maskvoje įsitvirtinę lenkai ir lietu-
     viai buvo apsupti ir priversti kapituliuoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

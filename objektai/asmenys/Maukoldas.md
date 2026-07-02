@@ -31,21 +31,8 @@ periodo_grupes:
 - t-001
   global_id: t-87550
   teiginys: 'Maukoldas, pasak šaltinyje perteikto pasakojimo, buvo Rostislavo Rogvoldovičiaus sūnus ir Mindaugo tėvas.'
-  sudarymo_pagrindimas: 'Teiginys sutelktas į Maukoldą ir pašalintas ilgas konteksto fragmentas.'
-  susije_objektai: 'llm_object: [[objektai/asmenys/Maukoldas|Maukoldas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] buvo sūnus [[objektai/asmenys/Maukoldas|Maukoldas]]'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=f0ddb0e66f5bccc32fed2d0b11187bdd0d85fed35c867bb59b499bc5cb1ceec2; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: buvo_sunus -> Maukoldas: 0.95
-  ryšio_patikimumo_lygis: aukstas
-  ryšio_patikimumo_priezastys: llm_structured_decision; deterministic_validation_passed
-  ryšio_sprendimo_taisykle: llm_validated_relation
-  ryšio_subjekto_parinkimas: Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person
-  ryšio_targeto_parinkimas: Maukoldas: llm_allowed_candidate, person
-  ryšio_paaiskinimas: Jei Maukoldas buvo Mindaugo tėvas, tada Mindaugas buvo Maukoldo sūnus.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113914|Mindaugas (valdovas, XIII a.)]]: Maukoldas buvo Mindaugo, dar vadinamo Mendogu, tėvas.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113936|Mindaugas (valdovas, XIII a.)]]: Maukoldas citatoje nurodomas kaip Mindaugo, dar vadinto Mendogu, tėvas.
 - susijęs iš [[objektai/asmenys/Dovilas, arba Dovydas.md#claim-t-87493|Dovilas, arba Dovydas]]: Dovilas, arba Dovydas, šaltinyje laikomas pirmuoju Vilniaus kunigaikščiu, kurį vilniečiai pasikvietė vietininku XII amžiuje.
@@ -73,7 +60,6 @@ periodo_grupes:
     deno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­
     vas3.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

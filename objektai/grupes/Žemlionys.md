@@ -26,7 +26,6 @@ amziai:
 - t-001
   global_id: t-07857
   teiginys: 'Žemlionys vadinti ir vyčiais, nes turėjo vyti priešus gindamiesi arba gyveno vietoje, neklajodami su gyvuliais.'
-  sudarymo_pagrindimas: 'Citata palaiko aiškinimą, todėl vietoj abstraktaus sutapatinimo pateiktas konkretesnis faktas.'
   pagrindžia:
     - c-001
     - c-002
@@ -43,7 +42,6 @@ amziai:
   citata_originali: |
     Nuo ko jau žemlionimis vadinos, jog žemę savo turėjo, jau vyčiais, kaip viršiau minavojau, nuo to, jog turėjo vyti neprietelius gyniodamos, ar nuo to, jog vietoje gyveno ir nebklajojo su gyvuliais po laukus ir girias, juos ganydami; ir taip patys žemlionys, arba vyčiai, pradžioj tearė ir tesėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -55,7 +53,6 @@ amziai:
     Žemaičiuose didžiai vėlai dar yra regimas: kaipogi veizint į reistrą^1177 vyčių, metuose 1528 surašytų,
         gal regėti, jog Žemaičių vyčiai it visi dar lygias tėviškes yra tebturėję.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -68,7 +65,6 @@ amziai:
         ūkės vyresnieji neturėjo valsčių, kaip kad yra randama paskesnėse gadynėse irstant Lietuvos ūkei^1178 ,
         nes vos penkis, šešis tarnus, arba, kaip šiandien vadina, padonuosius^1179 , teturėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

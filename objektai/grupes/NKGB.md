@@ -57,10 +57,6 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 - t-001
   global_id: t-65923
   teiginys: 'NKVD ir NKGB skyriai visose apskrityse koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Lietuva; llm_object: [[objektai/grupes/NKVD|NKVD]]'
-  semantiniai_rysiai: '[[objektai/grupes/NKGB|NKGB]] buvo sąjungininkas su [[objektai/grupes/NKVD|NKVD]]'
-  temporaliniai_duomenys: 'įvykio data: 1945 m.; įvykio data: 1946 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -68,12 +64,6 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 - t-002
   global_id: t-65924
   teiginys: 'Tigras pirmaisiais šūviais nukovė tris NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir dar vieną rusų karininką.'
-  sudarymo_pagrindimas: 'Reikia pataisyti linksnį ir sutvarkyti formuluotę pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_place: Viena; mentioned_person: [[objektai/asmenys/Tigras|Tigras]]; llm_object: [[objektai/grupes/NKGB|NKGB]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Tigras|Tigras]] puolė [[objektai/grupes/NKGB|NKGB]]'
-  temporaliniai_duomenys: 'įvykio data: 1945 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia pataisyti linksnį ir sutvarkyti formuluotę pagal citatą.'
   pagrindžia:
     - c-004
 
@@ -81,9 +71,6 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 - t-003
   global_id: t-65925
   teiginys: 'Atkuriant stalininį režimą Lietuvoje, totalitariniam režimui dirigavo komunistų partija, NKGB ir NKVD struktūros.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: iki 1945 m.; įvykio data: 1945 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -91,8 +78,6 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 - t-004
   global_id: t-65926
   teiginys: 'Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.'
-  sudarymo_pagrindimas: 'Pirminiame teiginyje neaiškus įvardis, todėl faktas sukonkretintas pagal citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Tigras|Tigras]]; mentioned_place: Prienai; mentioned_place: Viena'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Marcinkevičius.md#claim-t-39596|Marcinkevičius]]: Leitenantas Marcinkevičius buvo vienas iš trijų NKGB dalinio vadų, kuriuos nukovė Tigras.
@@ -119,7 +104,6 @@ Sovietinė valstybės saugumo ir represinė struktūra.
     į Lietuvą buvo atsiųsta 6 tūkst. rusakalbių į svarbiausius kuriamos admi-
     nistracijos postus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -137,7 +121,6 @@ Sovietinė valstybės saugumo ir represinė struktūra.
     vadinimo istrebitelnyje bataliony), į kuriuos agitavo stoti vietinius gyvento-
     jus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -151,7 +134,6 @@ Sovietinė valstybės saugumo ir represinė struktūra.
     Kruglov Arkadij. Bet pasirodė, kad Tigro oda buvo per kieta. Kulkos, pralindusios pro duris,
     paliko Tigro milinėje, nė viena nepasiekdama kūno.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -168,7 +150,6 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 
     1945 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

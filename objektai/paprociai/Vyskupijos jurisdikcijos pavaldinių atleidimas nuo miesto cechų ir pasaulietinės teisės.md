@@ -50,11 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-87191
   teiginys: '1584 m. Gardine Steponas Batoras paskelbė Vilniaus vyskupijos jurisdikcijos pavaldinius laisvus nuo miesto pasaulietinės jurisdikcijos ir cechų.'
-  sudarymo_pagrindimas: 'Pradinis teiginys yra OCR fragmentas, o citata aiškiai pagrindžia atleidimą nuo miesto jurisdikcijos ir cechų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miesto cechai|Vilniaus miesto cechai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Gedimino antspaudas|Gedimino antspaudas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Bełskas; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1584 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra OCR fragmentas, o citata aiškiai pagrindžia atleidimą nuo miesto jurisdikcijos ir cechų.'
   pagrindžia:
     - c-001
 
@@ -127,7 +122,6 @@ Nenurodyta
     1570 METAIS
     (Iš Dogelio rankraščių buv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

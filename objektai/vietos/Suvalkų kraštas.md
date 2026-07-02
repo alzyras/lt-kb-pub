@@ -24,8 +24,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - t-001
   global_id: t-95214
   teiginys: 'Užnemunėje, citatoje tapatinamoje su Suvalkų kraštu, kaimai XIX a. išsiskirstė vienkiemiais.'
-  sudarymo_pagrindimas: 'Reikia pašalinti santrumpos ir fragmentiškumo įspūdį.'
-  susije_objektai: 'mentioned_place: Suvalkai; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_place: Užnemunė'
   pagrindžia:
     - c-001
 
@@ -33,7 +31,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - t-002
   global_id: t-95216
   teiginys: 'Dabartinis Suvalkų kraštas buvo kryžiuočių pasienio didžiulės girios dalis.'
-  sudarymo_pagrindimas: 'Citata palaiko faktą apie dabartinio Suvalkų krašto teritoriją.'
   pagrindžia:
     - c-004
 
@@ -41,7 +38,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - t-003
   global_id: t-95217
   teiginys: 'Lietuviškoji Užnemunė, apimanti Suvalkų kraštą, Prūsijos valdžioje priklausė Balstogės departamentui.'
-  sudarymo_pagrindimas: 'Pašalintas antraštės triukšmas ir paliktas aiškus faktas apie vietą.'
   pagrindžia:
     - c-005
 
@@ -49,8 +45,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - t-004
   global_id: t-95219
   teiginys: 'Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais, o į Prūsiją per jį ėjo tik du keliai.'
-  sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai apibendrina citatoje pateiktą informaciją.'
-  susije_objektai: 'mentioned_place: Prūsija; mentioned_place: Suvalkai; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -58,12 +52,8 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - t-005
   global_id: t-95220
   teiginys: 'Šapokos redaguotoje „Lietuvos istorijoje“ svarstoma, kad Vytautas tikėjosi gauti Žemaičius ir Užnemunę (Suvalkų kraštą).'
-  sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=d904f45558d462ae8e5e033171065a8b2e069e554257cef8508972a2d8181a79; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -79,7 +69,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     mūsų laikų. Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė
     vienkiemiais XIX amž., o kitur jie dar nebaigė skirstytis nė dabar.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -95,7 +84,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     priklausančios rusų žemės — retai gyvenamos; taigi ir Vytauto
     dvarų juose buvo mažiau.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -115,7 +103,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko
     daugiau nesitikėjo gauti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -134,7 +121,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     visas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kre-
     tingos ir Telšių apskričių dalys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -149,7 +135,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     Jos visos buvo padalintos į Plocko ir Balstogės departamentus.
     Lietuviškoji Užnemunė priklausė Balstogės departamentui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

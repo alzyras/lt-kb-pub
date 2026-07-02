@@ -31,11 +31,6 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
 - t-001
   global_id: t-64642
   teiginys: 'J. Puzinas 1938 m. Kaune paskelbė darbą „Naujausių proistorinių tyrinėjimų duomens“.'
-  sudarymo_pagrindimas: 'Reikia pataisyti pavadinimo rašybą ir sakinį padaryti sklandesnį.'
-  susije_objektai: 'mentioned_place: Kaunas'
-  temporaliniai_duomenys: 'įvykio data: iki 1356 m.; įvykio data: 1356 m.; įvykio data: 1938 m.; įvykio data: 1961 m.'
-  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Reikia pataisyti pavadinimo rašybą ir sakinį padaryti sklandesnį.'
   pagrindžia:
     - c-002
 
@@ -43,41 +38,15 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
 - t-002
   global_id: t-64643
   teiginys: 'J. Puzinas 1948 m. žurnale „Aidai“ paskelbė straipsnį „Aisčiai istorinių šaltinių šviesoje“.'
-  sudarymo_pagrindimas: 'Citata remia tikslesnį bibliografinį teiginį su leidiniu ir metais.'
-  susije_objektai: 'mentioned_place: Kretinga; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'įvykio data: 1948 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Citata remia tikslesnį bibliografinį teiginį su leidiniu ir metais.'
   pagrindžia:
     - c-003
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=954b24879a0914cfca68c44a2b9923d297f74abb02082193dd008789c62bd66c; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Lietuva: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: J. Puzinas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Lietuva: mention_match, place
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Puzinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-64645"></a>
 - t-003
   global_id: t-64645
   teiginys: 'J. Puzinas pristatomas kaip specialistas, duodantis atskirą išsamų veikalą.'
-  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: hash=e7ac34687b85d04ecd38cac62c30814164185d2718c1eafd80c6e180777bbad6; match=fallback; occurrences=0
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Kaunas: 0.85
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: J. Puzinas: owner_note_path, author, gap=0
-  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=19
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Puzinas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/Iždo ir pilių raktai.md#claim-t-64929|Iždo ir pilių raktai]]: Dlugošo aprašymu, Vytautas prieš mirtį pavedė Lietuvą Jogailai ir liepė jam atiduoti iždo ir pilių raktus.
 - susijęs iš [[objektai/daiktai/Vežimai.md#claim-t-93003|Vežimai]]: Vytautui pakeliui į Trakus nukritus nuo arklio, jis buvo nuvežtas žmonos vežime.
 ## Reikšmingi paminėjimai
@@ -91,7 +60,6 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
     surankiojama vertingų žilos praeities paminklų. Reikia džiaugtis,
     kad specialistas (prof. dr. J. Puzinas) duoda atskirą išsamų veikalą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -107,7 +75,6 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
     PuPrT = Puzinas, J. : Naujausių Proistorinių Tyrinėjimų Duomens,
     Kaunas 1938 (atsp. iš Senovė, t. 4).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -127,7 +94,6 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
     D. : _Žiegždrių piliakalnis,_ ILKI, t. 1, 1958, 119-124 p. —Puzinas, J. :
     _Aisčiai istorinių šaltinių šviesoje,_ Aidai, nr. 12, 1948, 97-103 p. — (”)
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

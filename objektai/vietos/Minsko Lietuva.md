@@ -48,8 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-77010
   teiginys: 'Lietuviai nebepretendavo į Minsko Lietuvą, bet neįsivaizdavo savo valstybės be istorinės sostinės Vilniaus.'
-  sudarymo_pagrindimas: 'Sakinys yra pilnas ir tiesiogiai susijęs su Minsko Lietuva.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Vilnius; mentioned_place: Lenkija'
   pagrindžia:
     - c-004
 
@@ -57,9 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-77011
   teiginys: 'Minsko, arba rusėnų, Lietuva vadintos senosios rusėniškosios LDK žemės į rytus nuo Vidurinės Lietuvos.'
-  sudarymo_pagrindimas: 'Sakinys aiškiai apibrėžia Minsko Lietuvos sampratą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Lietuva; mentioned_place: Vidurinė Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lenkija; mentioned_place: Vilnius; llm_object: Lietuva'
-  semantiniai_rysiai: 'Minsko Lietuva priklausė Lietuva'
   pagrindžia:
     - c-001
 
@@ -67,9 +62,6 @@ Nenurodyta
 - t-003
   global_id: t-77012
   teiginys: 'Lenkiškoje trijų dalių Lietuvos sampratoje Minsko Lietuva buvo siejama su senosiomis rusėniškosiomis LDK žemėmis.'
-  sudarymo_pagrindimas: 'Pradinis teiginys menkai siejosi su objekto pavadinimu, todėl sukonkretintas pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; llm_object: Lietuva'
-  semantiniai_rysiai: 'Minsko Lietuva priklausė Lietuva'
   pagrindžia:
     - c-003
 
@@ -77,9 +69,6 @@ Nenurodyta
 - t-004
   global_id: t-77013
   teiginys: 'Minsko Lietuva vadintos į rytus nuo Vidurinės Lietuvos buvusios senosios rusėniškosios LDK žemės.'
-  sudarymo_pagrindimas: 'Sakinys aiškiai apibrėžia Minsko Lietuvos sampratą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Vidurinė Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lenkija; mentioned_place: Vilnius; llm_object: Lietuva'
-  semantiniai_rysiai: 'Minsko Lietuva priklausė Lietuva'
   pagrindžia:
     - c-001
 
@@ -87,11 +76,6 @@ Nenurodyta
 - t-005
   global_id: t-77014
   teiginys: 'Lietuviai siekė kurti valstybę etniniais pagrindais ir nebepretendavo į Minsko Lietuvą.'
-  sudarymo_pagrindimas: 'Sakinys yra pilnas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Lenkija; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1922 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas ir pagrįstas citata.'
   pagrindžia:
     - c-002
 
@@ -99,11 +83,6 @@ Nenurodyta
 - t-007
   global_id: t-77016
   teiginys: 'Lietuviai, apsisprendę kurti Lietuvos valstybę etniniais pagrindais, nebepretendavo į Minsko Lietuvą.'
-  sudarymo_pagrindimas: 'Sakinys yra pilnas ir tiesiogiai susijęs su Minsko Lietuva.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Lenkija; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'įvykio data: 1922 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas ir tiesiogiai susijęs su Minsko Lietuva.'
   pagrindžia:
     - c-002
 
@@ -119,7 +98,6 @@ Nenurodyta
     turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės va-
     dinamos „Minsko“, arba „rusėnų“, Lietuva.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -137,7 +115,6 @@ Nenurodyta
     pagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo
     valstybės be istorinės sostinės Vilniaus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -155,7 +132,6 @@ Nenurodyta
     ta, pasitelkiama neva siekiant atkurti LDK tradiciją, buvo tik deklaracija,
     nebeatitinkanti istorinės tikrovės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -174,7 +150,6 @@ Nenurodyta
     valstybės be istorinės sostinės Vilniaus. Be to, moderniosios Lietuvos
     valstybės kūrėjai pretendavo į Mažosios Lietuvos žemes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

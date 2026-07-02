@@ -21,9 +21,6 @@ Narbutas Putonis (Puttones) apibūdino kaip pranašautojus, ateitį spėjusius i
     - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   statusas: patvirtinta
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 520422-520716; hash=4510068c4ff3ea0db46edef5d09bfa3bd0f588e9a1196d3feaac18de714c8419; match=exact
-  sprendimo_priezastis: auto
 - susijęs iš [[objektai/zodynas/Putonys Puttones.md#claim-t-189322|Putonys Puttones]]: Narbutas Putonis (Puttones) aprašo kaip pranašautojus, kurie ateitį nusakydavo iš vandens ūžimo ar putų ir taikydavo susipykusius žmones.
 - susijęs iš [[objektai/paprociai/Vandens, putų ir ūžimo stebėjimas ateičiai spėti.md#claim-t-189947|Vandens, putų ir ūžimo stebėjimas ateičiai spėti]]: Narbutas putonimis (Puttones) vadino pranašautojus, ateitį nusakydavusius stebint vandenį, ypač jo ūžimą arba putas.
 ## Reikšmingi paminėjimai
@@ -39,9 +36,7 @@ Narbutas Putonis (Puttones) apibūdino kaip pranašautojus, ateitį spėjusius i
     niausiomis visuomenėje laikė todėl, kad jų priedermė buvo
     sutaikyti priešus ir susipykusius bet kurio luomo žmones.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

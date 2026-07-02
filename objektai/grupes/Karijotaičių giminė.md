@@ -24,26 +24,8 @@ Kamianecas Podolėje nebuvo įkurtas Karijotaičių, nes istoriniuose šaltiniuo
 - t-001
   global_id: t-187763
   teiginys: 'Kamianecas Podolėje nebuvo įkurtas Karijotaičių, nes istoriniuose šaltiniuose minimas jau 1062 m.'
-  teiginio_tipas: 'faktas'
-  patikimumo_lygis: 'vidutinis'
-  patikimumo_saltinis: 'ai'
-  sudarymo_pagrindimas: 'Sakinys yra aiškus faktinis teiginys apie Karijotaičius ir Kamianecą Podolėje.'
-  susije_objektai: 'mentioned_place: Podolė'
-  temporaliniai_duomenys: 'įvykio data: 1062 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
-  temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus faktinis teiginys apie Karijotaičius ir Kamianecą Podolėje.'
   pagrindžia:
     - c-001
-  irodymo_stiprumas: 0.00
-  saltinio_vieta: 394285-394552; hash=38068cd88a929c08340b59a58517a877a91be1b22f752cf6ef8e3239b6056a05; match=whitespace_regex
-  sprendimo_priezastis: auto
-  ryšio_patikimumas: susije_su -> Podolė: 0.83
-  ryšio_patikimumo_lygis: vidutinis
-  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
-  ryšio_sprendimo_taisykle: rule_plain_mention
-  ryšio_subjekto_parinkimas: Karijotaičių giminė: owner_note_path, group, gap=0
-  ryšio_targeto_parinkimas: Podolė: mention_match, place, gap=24
-  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karijotaičių giminė" parinktas kaip owner_note_path. Targetas "Podolė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -56,10 +38,8 @@ Kamianecas Podolėje nebuvo įkurtas Karijotaičių, nes istoriniuose šaltiniuo
     Karijotaičių, nes istoriniuose šaltiniuose minimas jau  1062 m. XIV a.
     antrojoje pusėje tikrai buvo Konstantino Karijotaičio sostinė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  statusas: verified
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Automatinis legacy citatos patikimumo metaduomenų backfill."
-  statusas: verified
   pagrindžia:
     - t-001
