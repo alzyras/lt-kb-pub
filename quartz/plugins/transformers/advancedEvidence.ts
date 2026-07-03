@@ -45,6 +45,7 @@ interface EvidenceEntry {
 }
 
 type SlugResolveIndex = Map<string, FullSlug | null>
+type CitationMap = Map<string, EvidenceEntry>
 
 function escapeHtml(text: string): string {
   return text
@@ -406,6 +407,7 @@ function splitClaimAndContext(entry: EvidenceEntry): { claim: string; context: s
 function renderClaimsSection(
   sectionLines: string[],
   resolveIndex: SlugResolveIndex,
+  citationsById: CitationMap,
 ): string[] | null {
   const entries = parseEntries(sectionLines).filter((entry) => entry.id.startsWith("t-"))
   if (entries.length === 0) {
@@ -420,19 +422,25 @@ function renderClaimsSection(
   for (const entry of entries) {
     const { claim, context } = splitClaimAndContext(entry)
     const refs = entry.lists.get("pagrindžia") ?? []
-    const refsHtml = refs.length > 0 ? refs.map(pill).join(" ") : ""
+    const refsHtml =
+      refs.length > 0
+        ? refs.map((ref) => `<button class="evidence-pill-button" type="button" data-claim-toggle="true">${pill(ref)}</button>`).join(" ")
+        : ""
     const globalId = entry.fields.get("global_id") ?? ""
     const anchorId = claimAnchorId(globalId)
     const globalAttrs = globalId ? ` data-global-claim-id="${escapeHtml(globalId)}"` : ""
     const anchorAttr = anchorId ? ` id="${escapeHtml(anchorId)}"` : ""
     const claimPill = claimDeeplinkPill(entry.id, anchorId)
     const advanced = claimAdvancedRows(entry, resolveIndex)
+    const detailId = `claim-evidence-${entry.id}`
+    const toggle = `<button class="claim-evidence-toggle-button" type="button" data-claim-toggle="true" aria-expanded="false" aria-controls="${escapeHtml(detailId)}"><span class="claim-evidence-toggle-icon" aria-hidden="true">▸</span><span class="sr-only">Rodyti citatas</span></button>`
     const claimCell =
       advanced.length > 0
-        ? `${claimPill} ${markdownCell(claim)}<table class="advanced-evidence-line advanced-evidence-table" data-adv-key="claim_technical_fields"><tbody>${advanced.join("")}</tbody></table>`
-        : `${claimPill} ${markdownCell(claim)}`
+        ? `${toggle}${claimPill} ${markdownCell(claim)}<table class="advanced-evidence-line advanced-evidence-table" data-adv-key="claim_technical_fields"><tbody>${advanced.join("")}</tbody></table>`
+        : `${toggle}${claimPill} ${markdownCell(claim)}`
     out.push(
-      `<tr${anchorAttr} data-claim-row="true"${globalAttrs} data-supporting-ids="${escapeHtml(refs.join("|"))}"><td>${claimCell}</td><td>${markdownCell(context)}</td><td>${refsHtml}</td></tr>`,
+      `<tr${anchorAttr} data-claim-row="true" data-claim-id="${escapeHtml(entry.id)}"${globalAttrs} data-supporting-ids="${escapeHtml(refs.join("|"))}"><td>${claimCell}</td><td>${markdownCell(context)}</td><td>${refsHtml}</td></tr>`,
+      renderClaimEvidenceDetailRow(entry, detailId, refs, citationsById, resolveIndex),
     )
   }
   out.push(
@@ -443,14 +451,6 @@ function renderClaimsSection(
     "",
   )
   return out
-}
-
-function quoteLines(text: string): string[] {
-  const cleaned = text.trim()
-  if (!cleaned) {
-    return []
-  }
-  return cleaned.split(/\r?\n/).map((line) => `> ${line.trim()}`)
 }
 
 function claimAdvancedRows(entry: EvidenceEntry, resolveIndex: SlugResolveIndex): string[] {
@@ -493,6 +493,116 @@ function claimAdvancedRows(entry: EvidenceEntry, resolveIndex: SlugResolveIndex)
     }
   }
   return rows
+}
+
+function citationQuote(entry: EvidenceEntry): string {
+  const displayQuote = entry.fields.get(QUOTE_DISPLAY_KEY)?.trim()
+  const legacyDisplayQuote = entry.fields.get(QUOTE_LEGACY_DISPLAY_KEY)?.trim()
+  const originalQuote = entry.fields.get(QUOTE_ORIGINAL_KEY)?.trim() ?? ""
+  return displayQuote || legacyDisplayQuote || originalQuote
+}
+
+function firstField(entries: EvidenceEntry[], keys: string[]): string {
+  for (const entry of entries) {
+    for (const key of keys) {
+      const value = entry.fields.get(key)?.trim()
+      if (value) {
+        return value
+      }
+    }
+  }
+  return ""
+}
+
+function reliabilityClass(value: string): string {
+  const normalized = slugTag(markdownText(value)).toLowerCase()
+  if (normalized.includes("aukst")) {
+    return "high"
+  }
+  if (normalized.includes("zem") || normalized.includes("zema")) {
+    return "low"
+  }
+  return "medium"
+}
+
+function renderEvidenceSummary(
+  claimEntry: EvidenceEntry,
+  citationEntry: EvidenceEntry,
+  resolveIndex: SlugResolveIndex,
+): string {
+  const entries = [claimEntry, citationEntry]
+  const reliability = firstField(entries, ["patikimumo_lygis", "ryšio_patikimumo_lygis"])
+  const reason = firstField(entries, ["patikimumo_pagrindimas", "sudarymo_pagrindimas"])
+  const relations = firstField(entries, ["semantiniai_rysiai", "susije_objektai"])
+  const time = firstField(entries, ["temporaliniai_duomenys"])
+  const rows: string[] = []
+
+  if (reliability) {
+    rows.push(
+      `<div class="claim-evidence-summary-item claim-evidence-summary-reliability"><span class="claim-evidence-summary-label">Patikimumas</span><span class="claim-evidence-reliability-badge claim-evidence-reliability-${reliabilityClass(reliability)}">${escapeHtml(markdownText(reliability))}</span></div>`,
+    )
+  }
+  if (reason) {
+    rows.push(
+      `<div class="claim-evidence-summary-item"><span class="claim-evidence-summary-label">Kodėl</span><span>${advancedCell(reason)}</span></div>`,
+    )
+  }
+  if (relations) {
+    rows.push(
+      `<div class="claim-evidence-summary-item"><span class="claim-evidence-summary-label">Ryšiai iš šios citatos</span><span>${renderLinkifiedAdvancedCell(relations, resolveIndex)}</span></div>`,
+    )
+  }
+  if (time) {
+    rows.push(
+      `<div class="claim-evidence-summary-item"><span class="claim-evidence-summary-label">Laikotarpis</span><span>${renderLinkifiedAdvancedCell(time, resolveIndex)}</span></div>`,
+    )
+  }
+
+  if (rows.length === 0) {
+    return ""
+  }
+  return `<div class="claim-evidence-summary" data-claim-evidence-summary="true">${rows.join("")}</div>`
+}
+
+function renderCitationCard(
+  claimEntry: EvidenceEntry,
+  citationEntry: EvidenceEntry,
+  resolveIndex: SlugResolveIndex,
+): string {
+  const source = citationEntry.fields.get("šaltinis") ?? citationEntry.fields.get("saltinis") ?? ""
+  const quote = citationQuote(citationEntry)
+  const rows = advancedRows(citationEntry, quote, resolveIndex)
+  const summaryHtml = renderEvidenceSummary(claimEntry, citationEntry, resolveIndex)
+  const sourceHtml = source
+    ? `<div class="claim-citation-source"><strong>Šaltinis:</strong> ${markdownCell(source)}</div>`
+    : `<div class="claim-citation-source claim-citation-source-missing">Šaltinis nenurodytas</div>`
+  const quoteHtml = quote
+    ? `<blockquote class="claim-citation-quote"><p>${advancedCell(quote)}</p></blockquote>`
+    : `<p class="claim-citation-missing">Citatos tekstas nerastas.</p>`
+  const advancedHtml =
+    rows.length > 0
+      ? `<table class="advanced-evidence-line advanced-evidence-table" data-adv-key="technical_fields"><tbody>${rows.join("")}</tbody></table>`
+      : ""
+
+  return `<article class="claim-citation-card" data-claim-citation-id="${escapeHtml(citationEntry.id)}">${pill(citationEntry.id)}${sourceHtml}${summaryHtml}${quoteHtml}${advancedHtml}</article>`
+}
+
+function renderClaimEvidenceDetailRow(
+  claimEntry: EvidenceEntry,
+  detailId: string,
+  refs: string[],
+  citationsById: CitationMap,
+  resolveIndex: SlugResolveIndex,
+): string {
+  const cards = refs
+    .map((ref) => citationsById.get(normalizeEvidenceId(ref)))
+    .filter((entry): entry is EvidenceEntry => Boolean(entry))
+    .map((entry) => renderCitationCard(claimEntry, entry, resolveIndex))
+  const content =
+    cards.length > 0
+      ? cards.join("")
+      : `<p class="claim-citation-missing">Citata nerasta.</p>`
+  return `<tr class="claim-evidence-detail-row" id="${escapeHtml(detailId)}" data-claim-detail="${escapeHtml(claimEntry.id)}" hidden><td colspan="3"><div class="claim-evidence-detail">${content}</div></td></tr>`
 }
 
 function advancedRows(
@@ -543,47 +653,23 @@ function advancedRows(
 
 function renderMentionsSection(
   sectionLines: string[],
-  resolveIndex: SlugResolveIndex,
 ): string[] | null {
   const entries = parseEntries(sectionLines).filter((entry) => entry.id.startsWith("c-"))
   if (entries.length === 0) {
     return null
   }
 
-  const out: string[] = ["", `<div class="citations-section" data-citation-section="true">`]
+  const out: string[] = [
+    "",
+    `<div class="citations-section citation-evidence-store" data-citation-section="true" data-citation-store="true" hidden aria-hidden="true">`,
+  ]
   for (const entry of entries) {
-    const summary = entry.fields.get("santrauka") ?? ""
     const source = entry.fields.get("šaltinis") ?? entry.fields.get("saltinis") ?? ""
     const sourceId = source ? normalizeCitationSourceId(source) : ""
-    const displayQuote = entry.fields.get(QUOTE_DISPLAY_KEY)?.trim()
-    const legacyDisplayQuote = entry.fields.get(QUOTE_LEGACY_DISPLAY_KEY)?.trim()
-    const originalQuote = entry.fields.get(QUOTE_ORIGINAL_KEY)?.trim() ?? ""
-    const quote = displayQuote || legacyDisplayQuote || originalQuote
 
     out.push(
-      `<section class="citation-entry" data-citation-entry="true" data-citation-id="${escapeHtml(entry.id)}" data-citation-source-id="${escapeHtml(sourceId)}" data-citation-source-title="${escapeHtml(source)}">`,
-      `${pill(entry.id)}`,
-      "",
+      `<section class="citation-entry" data-citation-entry="true" data-citation-id="${escapeHtml(entry.id)}" data-citation-source-id="${escapeHtml(sourceId)}" data-citation-source-title="${escapeHtml(source)}"></section>`,
     )
-    if (summary) {
-      out.push(`**Santrauka:** ${markdownText(summary)}`, "")
-    }
-    if (source) {
-      out.push(`**Šaltinis:** ${source}`, "")
-    }
-    const renderedQuote = quoteLines(quote)
-    if (renderedQuote.length > 0) {
-      out.push("", ...renderedQuote)
-    }
-
-    const rows = advancedRows(entry, quote, resolveIndex)
-    if (rows.length > 0) {
-      out.push(
-        "",
-        `<table class="advanced-evidence-line advanced-evidence-table" data-adv-key="technical_fields"><tbody>${rows.join("")}</tbody></table>`,
-      )
-    }
-    out.push("", `</section>`, "")
   }
   out.push(
     `<p class="options-filter-empty" data-citation-empty-state hidden>Nėra citatų pagal pasirinktus filtrus.</p>`,
@@ -597,18 +683,53 @@ function renderStructuredSection(
   title: string,
   sectionLines: string[],
   resolveIndex: SlugResolveIndex,
+  citationsById: CitationMap,
 ): string[] | null {
   if (title === "Teiginiai") {
-    return renderClaimsSection(sectionLines, resolveIndex)
+    return renderClaimsSection(sectionLines, resolveIndex, citationsById)
   }
   if (
     title === "Reikšmingi paminėjimai" ||
     title === "Šaltiniai ir įrodymai" ||
     title === "Bibliografiniai įrodymai"
   ) {
-    return renderMentionsSection(sectionLines, resolveIndex)
+    return renderMentionsSection(sectionLines)
   }
   return null
+}
+
+function isEvidenceStoreSection(title: string): boolean {
+  return (
+    title === "Reikšmingi paminėjimai" ||
+    title === "Šaltiniai ir įrodymai" ||
+    title === "Bibliografiniai įrodymai"
+  )
+}
+
+function collectCitationEntries(lines: string[]): CitationMap {
+  const citationsById: CitationMap = new Map()
+  for (let idx = 0; idx < lines.length; idx++) {
+    const heading = lines[idx].match(/^##\s+(.+?)\s*$/)
+    if (!heading) {
+      continue
+    }
+    const title = heading[1].trim()
+    if (!isEvidenceStoreSection(title)) {
+      continue
+    }
+    const start = idx + 1
+    let end = start
+    while (end < lines.length && !lines[end].startsWith("## ")) {
+      end += 1
+    }
+    for (const entry of parseEntries(lines.slice(start, end))) {
+      if (entry.id.startsWith("c-")) {
+        citationsById.set(entry.id, entry)
+      }
+    }
+    idx = end - 1
+  }
+  return citationsById
 }
 
 function transformFallbackLines(lines: string[]): string[] {
@@ -690,6 +811,7 @@ export const AdvancedEvidence: QuartzTransformerPlugin = () => ({
   textTransform(ctx, src) {
     const resolveIndex = buildSlugResolveIndex(ctx)
     const lines = src.replace(/^((?:---\n[\s\S]*?\n---\n)?\s*)#\s+.+(?:\n|$)/, "$1").split("\n")
+    const citationsById = collectCitationEntries(lines)
     const out: string[] = []
 
     for (let idx = 0; idx < lines.length; idx++) {
@@ -708,9 +830,15 @@ export const AdvancedEvidence: QuartzTransformerPlugin = () => ({
       }
 
       const sectionLines = lines.slice(start, end)
-      const structured = renderStructuredSection(title, sectionLines, resolveIndex)
-      out.push(line)
-      out.push(...(structured ?? transformFallbackLines(sectionLines)))
+      const structured = renderStructuredSection(title, sectionLines, resolveIndex, citationsById)
+      if (title === "Teiginiai") {
+        out.push(line)
+      }
+      if (structured) {
+        out.push(...structured)
+      } else if (!isEvidenceStoreSection(title)) {
+        out.push(...transformFallbackLines(sectionLines))
+      }
       idx = end - 1
     }
 

@@ -61,6 +61,57 @@
   vertical-align: 0.08em;
 }
 
+.evidence-pill-button,
+.claim-evidence-toggle-button {
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+}
+
+.evidence-pill-button {
+  margin-right: 0.15rem;
+}
+
+.claim-evidence-toggle-button {
+  width: 1.35rem;
+  height: 1.35rem;
+  margin-right: 0.25rem;
+  border-radius: 999px;
+  color: var(--gray);
+  vertical-align: -0.15rem;
+
+  &:hover,
+  &:focus-visible {
+    background: color-mix(in srgb, var(--secondary) 12%, transparent);
+    color: var(--secondary);
+  }
+}
+
+.claim-evidence-toggle-icon {
+  display: inline-block;
+  font-size: 0.82rem;
+  transition: transform 120ms ease;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 .evidence-pill-claim {
   border-color: color-mix(in srgb, var(--tertiary) 34%, transparent);
   background: color-mix(in srgb, var(--tertiary) 12%, transparent);
@@ -89,6 +140,130 @@ article table:has(.evidence-pill) {
   td:last-child {
     white-space: nowrap;
   }
+}
+
+article table.advanced-claims-table {
+  tr[data-claim-row="true"] {
+    cursor: pointer;
+
+    &:hover,
+    &:focus-within,
+    &.is-expanded {
+      background: color-mix(in srgb, var(--secondary) 7%, transparent);
+    }
+
+    &.is-expanded .claim-evidence-toggle-icon {
+      transform: rotate(90deg);
+    }
+  }
+}
+
+.claim-evidence-detail-row {
+  td {
+    padding: 0 !important;
+    white-space: normal !important;
+  }
+}
+
+.claim-evidence-detail {
+  padding: 0.85rem 1rem 1rem;
+  border-left: 3px solid color-mix(in srgb, var(--secondary) 36%, transparent);
+  background: color-mix(in srgb, var(--light) 72%, var(--secondary) 5%);
+  overflow-wrap: anywhere;
+}
+
+.claim-citation-card {
+  margin: 0 0 0.85rem;
+  padding: 0.72rem 0.85rem;
+  border: 1px solid color-mix(in srgb, var(--secondary) 18%, transparent);
+  border-radius: 6px;
+  background: var(--light);
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.claim-citation-source {
+  margin-top: 0.45rem;
+  color: var(--darkgray);
+  font-size: 0.92rem;
+}
+
+.claim-evidence-summary {
+  display: grid;
+  grid-template-columns: minmax(8rem, 0.35fr) minmax(0, 1fr);
+  gap: 0.42rem 0.75rem;
+  margin: 0.7rem 0 0;
+  padding: 0.65rem 0.75rem;
+  border: 1px solid color-mix(in srgb, var(--tertiary) 18%, transparent);
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--light) 78%, var(--tertiary) 7%);
+  color: var(--darkgray);
+  font-size: 0.88rem;
+  line-height: 1.35;
+}
+
+.claim-evidence-summary-item {
+  display: contents;
+}
+
+.claim-evidence-summary-label {
+  color: var(--gray);
+  font-weight: 800;
+}
+
+.claim-evidence-reliability-badge {
+  display: inline-flex;
+  width: max-content;
+  align-items: center;
+  min-height: 1.45em;
+  padding: 0.12rem 0.5rem;
+  border-radius: 999px;
+  border: 1px solid color-mix(in srgb, var(--gray) 28%, transparent);
+  background: color-mix(in srgb, var(--gray) 9%, transparent);
+  color: var(--darkgray);
+  font-size: 0.78rem;
+  font-weight: 800;
+  line-height: 1;
+}
+
+.claim-evidence-reliability-high {
+  border-color: color-mix(in srgb, #2f7d55 42%, transparent);
+  background: color-mix(in srgb, #2f7d55 13%, transparent);
+  color: #246343;
+}
+
+.claim-evidence-reliability-medium {
+  border-color: color-mix(in srgb, var(--tertiary) 34%, transparent);
+  background: color-mix(in srgb, var(--tertiary) 10%, transparent);
+  color: var(--tertiary);
+}
+
+.claim-evidence-reliability-low {
+  border-color: color-mix(in srgb, var(--secondary) 34%, transparent);
+  background: color-mix(in srgb, var(--secondary) 10%, transparent);
+  color: var(--secondary);
+}
+
+.claim-citation-source-missing,
+.claim-citation-missing {
+  color: var(--gray);
+  font-size: 0.9rem;
+}
+
+.claim-citation-quote {
+  margin: 0.6rem 0 0;
+  padding: 0.15rem 0 0.15rem 0.85rem;
+  border-left-color: color-mix(in srgb, var(--secondary) 42%, transparent);
+
+  p {
+    margin: 0;
+  }
+}
+
+.citation-evidence-store {
+  display: none !important;
 }
 
 article h2 + p:has(> .evidence-pill-quote),
@@ -138,5 +313,38 @@ article blockquote {
     background: transparent;
     white-space: pre-wrap;
     font: inherit;
+  }
+}
+
+@media all and (max-width: 700px) {
+  article table.advanced-claims-table {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+
+    td:first-child {
+      min-width: 12rem;
+    }
+  }
+
+  .claim-evidence-detail {
+    padding: 0.7rem;
+  }
+
+  .claim-citation-card {
+    padding: 0.65rem;
+  }
+
+  .claim-evidence-summary {
+    display: block;
+  }
+
+  .claim-evidence-summary-label {
+    display: block;
+    margin: 0.45rem 0 0.12rem;
+
+    &:first-child {
+      margin-top: 0;
+    }
   }
 }

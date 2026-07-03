@@ -27,4 +27,66 @@ document.addEventListener("nav", () => {
     button.addEventListener("click", toggleMode)
     window.addCleanup(() => button.removeEventListener("click", toggleMode))
   }
+
+  const setClaimOpen = (row: HTMLElement, open: boolean) => {
+    const claimId = row.dataset.claimId
+    if (!claimId) {
+      return
+    }
+
+    const detail = document.querySelector<HTMLElement>(`[data-claim-detail="${claimId}"]`)
+    if (!detail) {
+      return
+    }
+
+    detail.hidden = !open
+    row.classList.toggle("is-expanded", open)
+    for (const toggle of row.querySelectorAll<HTMLElement>("[data-claim-toggle]")) {
+      toggle.setAttribute("aria-expanded", String(open))
+    }
+  }
+
+  const toggleClaim = (target: EventTarget | null) => {
+    const element = target instanceof Element ? target : null
+    const row = element?.closest<HTMLElement>("[data-claim-row]")
+    if (!row) {
+      return
+    }
+    const detail = document.querySelector<HTMLElement>(`[data-claim-detail="${row.dataset.claimId ?? ""}"]`)
+    setClaimOpen(row, Boolean(detail?.hidden))
+  }
+
+  const onClick = (event: MouseEvent) => {
+    const target = event.target instanceof Element ? event.target : null
+    if (!target) {
+      return
+    }
+    if (target.closest("a") && !target.closest("[data-claim-toggle]")) {
+      return
+    }
+    if (!target.closest("[data-claim-toggle]") && !target.closest("[data-claim-row]")) {
+      return
+    }
+    event.preventDefault()
+    toggleClaim(target)
+  }
+
+  const onKeyDown = (event: KeyboardEvent) => {
+    if (event.key !== "Enter" && event.key !== " ") {
+      return
+    }
+    const target = event.target instanceof Element ? event.target : null
+    if (!target?.closest("[data-claim-toggle]")) {
+      return
+    }
+    event.preventDefault()
+    toggleClaim(target)
+  }
+
+  document.addEventListener("click", onClick)
+  document.addEventListener("keydown", onKeyDown)
+  window.addCleanup(() => {
+    document.removeEventListener("click", onClick)
+    document.removeEventListener("keydown", onKeyDown)
+  })
 })

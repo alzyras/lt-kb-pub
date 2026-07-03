@@ -35,7 +35,7 @@ const markdown = `# Objektas
 `
 
 describe("AdvancedEvidence transformer", () => {
-  test("adds machine-readable claim and citation metadata for filtering", () => {
+  test("renders citations inline under their supporting claim and keeps a hidden citation store", () => {
     const plugin = AdvancedEvidence()
     const transformed =
       plugin.textTransform?.(
@@ -51,11 +51,23 @@ describe("AdvancedEvidence transformer", () => {
       ) ?? markdown
 
     assert.match(transformed, /data-claim-row="true"/)
+    assert.match(transformed, /data-claim-id="t-001"/)
     assert.match(transformed, /id="claim-t-00042"/)
     assert.match(transformed, /data-global-claim-id="t-00042"/)
     assert.match(transformed, /href="#claim-t-00042"/)
     assert.match(transformed, /data-no-popover="true"/)
     assert.match(transformed, /data-supporting-ids="c-001"/)
+    assert.match(transformed, /data-claim-detail="t-001"/)
+    assert.match(transformed, /data-claim-citation-id="c-001"/)
+    assert.match(transformed, /claim-citation-source/)
+    assert.match(transformed, /data-claim-evidence-summary="true"/)
+    assert.match(transformed, /Patikimumas/)
+    assert.match(transformed, /claim-evidence-reliability-high/)
+    assert.match(transformed, /aukstas/)
+    assert.match(transformed, /Kodėl/)
+    assert.match(transformed, /Ryšiai iš šios citatos/)
+    assert.match(transformed, /Laikotarpis/)
+    assert.match(transformed, /Cituojamas sakinys\./)
     assert.match(transformed, /claim_technical_fields/)
     assert.match(transformed, /sudarymo_pagrindimas/)
     assert.match(transformed, /susije_objektai/)
@@ -71,10 +83,69 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(transformed, /href="objektai\/asmenys\/Vytautas"/)
     assert.match(transformed, /href="objektai\/vietos\/Lietuva"/)
     assert.match(transformed, />Vytautas<\/a>/)
+    const summaryStart = transformed.indexOf('data-claim-evidence-summary="true"')
+    const quoteStart = transformed.indexOf("claim-citation-quote")
+    assert.ok(summaryStart >= 0)
+    assert.ok(quoteStart > summaryStart)
+    const summaryRegion = transformed.slice(summaryStart, quoteStart)
+    assert.doesNotMatch(summaryRegion, /global_id/)
+    assert.doesNotMatch(summaryRegion, /ryšio_sprendimo_taisykle/)
+    assert.doesNotMatch(summaryRegion, /rule_marriage_local_spouse/)
     assert.match(transformed, /data-citation-entry="true"/)
+    assert.match(transformed, /data-citation-store="true"/)
     assert.match(transformed, /data-citation-id="c-001"/)
     assert.match(transformed, /data-citation-source-title="Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties \(1978 m\.\)"/)
     assert.match(transformed, /data-citation-source-id="zenonas-ivinskis-lietuvos-istorija-iki-vytauto-didziojo-mirties-1978-m"/)
+    assert.doesNotMatch(transformed, /^## Šaltiniai ir įrodymai/m)
+  })
+
+  test("renders all citations linked from one claim", () => {
+    const plugin = AdvancedEvidence()
+    const multiCitationMarkdown = `# Objektas
+
+## Teiginiai
+- id: t-001
+  teiginys: Testinis teiginys
+  pagrindžia:
+    - c-001
+    - c-002
+
+## Reikšmingi paminėjimai
+- id: c-001
+  šaltinis: Šaltinis A
+  citata_originali: |
+    Pirma citata.
+- id: c-002
+  šaltinis: Šaltinis B
+  citata_originali: |
+    Antra citata.
+`
+
+    const transformed = plugin.textTransform?.({ allSlugs: [] } as any, multiCitationMarkdown) ?? multiCitationMarkdown
+
+    assert.match(transformed, /data-claim-citation-id="c-001"/)
+    assert.match(transformed, /data-claim-citation-id="c-002"/)
+    assert.doesNotMatch(transformed, /data-claim-evidence-summary="true"/)
+    assert.match(transformed, /Pirma citata\./)
+    assert.match(transformed, /Antra citata\./)
+  })
+
+  test("shows a compact missing-citation state for unsupported claims", () => {
+    const plugin = AdvancedEvidence()
+    const missingCitationMarkdown = `# Objektas
+
+## Teiginiai
+- id: t-001
+  teiginys: Testinis teiginys
+  pagrindžia:
+    - c-404
+`
+
+    const transformed = plugin.textTransform?.({ allSlugs: [] } as any, missingCitationMarkdown) ?? missingCitationMarkdown
+
+    assert.match(transformed, /data-claim-detail="t-001"/)
+    assert.match(transformed, /Citata nerasta\./)
+    assert.doesNotMatch(transformed, /data-claim-citation-id="c-404"/)
   })
 
   test("leaves unresolved advanced values as plain text", () => {
