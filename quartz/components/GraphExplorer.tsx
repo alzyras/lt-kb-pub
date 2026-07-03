@@ -45,6 +45,50 @@ export default (() => {
             </select>
           </label>
 
+          <fieldset class="graph-explorer-type-control" aria-label="Objektų tipai">
+            <legend>Objektai</legend>
+            <label>
+              <input type="checkbox" value="asmuo" data-type-toggle />
+              <span>Asmenys</span>
+            </label>
+            <label>
+              <input type="checkbox" value="autorius" data-type-toggle />
+              <span>Autoriai</span>
+            </label>
+            <label>
+              <input type="checkbox" value="ivykis" data-type-toggle />
+              <span>Įvykiai</span>
+            </label>
+            <label>
+              <input type="checkbox" value="grupe" data-type-toggle />
+              <span>Grupės</span>
+            </label>
+            <label>
+              <input type="checkbox" value="vieta" data-type-toggle />
+              <span>Vietos</span>
+            </label>
+            <label>
+              <input type="checkbox" value="daiktas" data-type-toggle />
+              <span>Daiktai</span>
+            </label>
+            <label>
+              <input type="checkbox" value="paprotys" data-type-toggle />
+              <span>Papročiai</span>
+            </label>
+            <label>
+              <input type="checkbox" value="posakis" data-type-toggle />
+              <span>Posakiai</span>
+            </label>
+            <label>
+              <input type="checkbox" value="zodyno_irasas" data-type-toggle />
+              <span>Žodynas</span>
+            </label>
+            <label>
+              <input type="checkbox" value="tema" data-type-toggle />
+              <span>Temos</span>
+            </label>
+          </fieldset>
+
           <fieldset class="graph-explorer-depth-control" aria-label="Ryšių gylis">
             <legend>Gylis</legend>
             <label>
@@ -64,15 +108,6 @@ export default (() => {
               <span>Visas</span>
             </label>
           </fieldset>
-
-          <label class="graph-explorer-chip-toggle">
-            <input type="checkbox" name="showPlaces" />
-            <span>Vietos</span>
-          </label>
-          <label class="graph-explorer-chip-toggle">
-            <input type="checkbox" name="showTopics" />
-            <span>Temos</span>
-          </label>
 
           <div class="graph-explorer-actions-bar" role="toolbar" aria-label="Žemėlapio veiksmai">
             <button
@@ -165,20 +200,6 @@ export default (() => {
                 <button type="button" data-popover-close aria-label="Uždaryti filtrus">×</button>
               </div>
               <div class="graph-explorer-filter-grid">
-                <label>
-                  <span>Tipai</span>
-                  <select name="types" multiple>
-                    <option value="asmuo">Asmenys</option>
-                    <option value="autorius">Autoriai</option>
-                    <option value="ivykis">Įvykiai</option>
-                    <option value="grupe">Grupės</option>
-                    <option value="daiktas">Daiktai</option>
-                    <option value="paprotys">Papročiai</option>
-                    <option value="posakis">Posakiai</option>
-                    <option value="zodyno_irasas">Žodynas</option>
-                    <option value="vieta">Vietos</option>
-                  </select>
-                </label>
                 <label>
                   <span>Min. teiginių</span>
                   <input type="number" name="minClaims" min="0" max="200" step="1" />

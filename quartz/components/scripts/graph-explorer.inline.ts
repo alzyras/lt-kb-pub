@@ -79,6 +79,21 @@ type LabelBounds = {
 const runtime = globalThis as ExplorerRuntime
 let cachedCitationSources: CitationSourceRegistryEntry[] | null = null
 
+const noTypeSelection = "__none__"
+const graphTypeValues = [
+  "asmuo",
+  "autorius",
+  "ivykis",
+  "grupe",
+  "vieta",
+  "daiktas",
+  "paprotys",
+  "posakis",
+  "zodyno_irasas",
+  "tema",
+] as const
+const defaultVisibleTypes = graphTypeValues.filter((type) => type !== "vieta" && type !== "tema")
+
 const defaultState: FilterState = {
   focus: "",
   q: "",
@@ -322,8 +337,17 @@ function nodeType(node: GraphExplorerIndexDetails): string {
 function graphAllowed(node: GraphExplorerIndexDetails, state: FilterState): boolean {
   if (node.slug.startsWith("laikotarpiai/")) return false
   if (node.slug.startsWith("objektai/saltiniai/")) return false
-  if (node.slug.startsWith("objektai/vietos/") && !state.showPlaces) return false
-  if (node.slug.startsWith("temos/") && !state.showTopics && state.preset !== "topics") return false
+  const kind = nodeType(node)
+  if (kind === "vieta" && !typeFilterAllows(kind, state)) return false
+  if (kind === "tema" && !typeFilterAllows(kind, state) && state.preset !== "topics") return false
+  return true
+}
+
+function typeFilterAllows(kind: string, state: FilterState): boolean {
+  if (state.types.includes(noTypeSelection)) return false
+  if (state.types.length > 0) return state.types.includes(kind)
+  if (kind === "vieta") return state.showPlaces
+  if (kind === "tema") return state.showTopics || state.preset === "topics"
   return true
 }
 
@@ -364,7 +388,7 @@ function matchesPreset(node: GraphExplorerIndexDetails, state: FilterState): boo
 function passesFilters(node: GraphExplorerIndexDetails, state: FilterState, ignoreVolume = false): boolean {
   if (!graphAllowed(node, state)) return false
   const kind = nodeType(node)
-  if (state.types.length > 0 && !state.types.includes(kind)) return false
+  if (!typeFilterAllows(kind, state)) return false
   if (!matchesPreset(node, state)) return false
   if (!ignoreVolume && node.claimCount < state.minClaims && node.quoteCount < state.minQuotes) {
     return false
@@ -383,6 +407,7 @@ function passesFilters(node: GraphExplorerIndexDetails, state: FilterState, igno
 
 function passesFocusTraversalFilters(node: GraphExplorerIndexDetails, state: FilterState): boolean {
   if (!graphAllowed(node, state)) return false
+  if (!typeFilterAllows(nodeType(node), state)) return false
   if (!dateOverlaps(node, state.from, state.to)) return false
   if (!sourceMatches(node, state.sources)) return false
   return true
@@ -391,7 +416,7 @@ function passesFocusTraversalFilters(node: GraphExplorerIndexDetails, state: Fil
 function passesSuggestionFilters(node: GraphExplorerIndexDetails, state: FilterState): boolean {
   if (!graphAllowed(node, state)) return false
   const kind = nodeType(node)
-  if (state.types.length > 0 && !state.types.includes(kind)) return false
+  if (!typeFilterAllows(kind, state)) return false
   if (!sourceMatches(node, state.sources)) return false
   if (!dateOverlaps(node, state.from, state.to)) return false
   return true
@@ -724,18 +749,54 @@ function setFormState(root: HTMLElement, state: FilterState) {
   const activeDepth = form.querySelector<HTMLInputElement>(`input[name="depth"][value="${state.depth}"]`)
   if (activeDepth) activeDepth.checked = true
   ;(form.elements.namedItem("maxNodes") as HTMLInputElement).value = String(state.maxNodes)
-  ;(form.elements.namedItem("showPlaces") as HTMLInputElement).checked = state.showPlaces
-  ;(form.elements.namedItem("showTopics") as HTMLInputElement).checked = state.showTopics
-  const types = form.elements.namedItem("types") as HTMLSelectElement
-  for (const option of types.options) {
-    option.selected = state.types.includes(option.value)
+  const selectedTypes = new Set(
+    state.types.length > 0
+      ? state.types
+      : [
+          ...defaultVisibleTypes,
+          ...(state.showPlaces ? ["vieta"] : []),
+          ...(state.showTopics || state.preset === "topics" ? ["tema"] : []),
+        ],
+  )
+  form.querySelectorAll<HTMLInputElement>("[data-type-toggle]").forEach((input) => {
+    input.checked = selectedTypes.has(input.value)
+  })
+}
+
+function readSelectedTypes(form: HTMLFormElement): string[] {
+  const selected = [...form.querySelectorAll<HTMLInputElement>("[data-type-toggle]")]
+    .filter((input) => input.checked)
+    .map((input) => input.value)
+  return selected.length > 0 ? selected : [noTypeSelection]
+}
+
+function shouldWriteExplicitTypes(types: string[]): boolean {
+  if (types.includes(noTypeSelection)) return true
+  if (types.length !== defaultVisibleTypes.length) return true
+  const defaults = new Set(defaultVisibleTypes)
+  return types.some((type) => !defaults.has(type as (typeof defaultVisibleTypes)[number]))
+}
+
+function normalizedTypesForState(types: string[]): string[] {
+  return shouldWriteExplicitTypes(types) ? types : []
+}
+
+function typeIsSelected(types: string[], type: string): boolean {
+  return types.includes(type)
+}
+
+function formTypesForLegacyFlags(types: string[]): { types: string[]; showPlaces: boolean; showTopics: boolean } {
+  return {
+    types: normalizedTypesForState(types),
+    showPlaces: typeIsSelected(types, "vieta"),
+    showTopics: typeIsSelected(types, "tema"),
   }
 }
 
 function readFormState(root: HTMLElement, previous: FilterState): FilterState {
   const form = root.querySelector("[data-graph-filters]") as HTMLFormElement
-  const types = form.elements.namedItem("types") as HTMLSelectElement
   const activeDepth = form.querySelector<HTMLInputElement>("input[name='depth']:checked")
+  const typeState = formTypesForLegacyFlags(readSelectedTypes(form))
   return {
     ...previous,
     q: (form.elements.namedItem("q") as HTMLInputElement).value.trim(),
@@ -746,9 +807,9 @@ function readFormState(root: HTMLElement, previous: FilterState): FilterState {
     to: parseOptionalNumber((form.elements.namedItem("to") as HTMLInputElement).value),
     depth: parseNumber(activeDepth?.value ?? null, -1),
     maxNodes: Math.max(25, parseNumber((form.elements.namedItem("maxNodes") as HTMLInputElement).value, 250)),
-    showPlaces: (form.elements.namedItem("showPlaces") as HTMLInputElement).checked,
-    showTopics: (form.elements.namedItem("showTopics") as HTMLInputElement).checked,
-    types: [...types.selectedOptions].map((option) => option.value),
+    showPlaces: typeState.showPlaces,
+    showTopics: typeState.showTopics,
+    types: typeState.types,
   }
 }
 

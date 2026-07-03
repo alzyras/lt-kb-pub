@@ -1,6 +1,12 @@
 body.graph-explorer-active {
   overflow: hidden;
 
+  & .page {
+    margin: 0;
+    max-width: none;
+    width: 100vw;
+  }
+
   & #quartz-body {
     column-gap: 0;
     display: grid !important;
@@ -10,6 +16,7 @@ body.graph-explorer-active {
     margin: 0;
     padding: 0;
     row-gap: 0;
+    width: 100vw;
   }
 
   & .sidebar,
@@ -51,19 +58,16 @@ body.graph-explorer-active {
 .graph-explorer-topbar {
   --graph-control-height: 2.35rem;
   --graph-control-radius: 0.45rem;
-  align-items: center;
+  align-items: start;
   background: color-mix(in srgb, var(--light) 95%, var(--lightgray));
   border-bottom: 1px solid var(--lightgray);
   display: grid;
   gap: 0.45rem;
-  grid-template-columns:
-    minmax(10rem, 13rem)
-    minmax(13rem, 1fr)
-    minmax(11rem, 0.7fr)
-    auto
-    auto
-    auto
-    auto;
+  grid-template-areas:
+    "brand search preset actions"
+    "types types depth actions"
+    "popovers popovers popovers popovers";
+  grid-template-columns: minmax(10rem, 13rem) minmax(18rem, 1fr) minmax(14rem, 24rem) auto;
   min-width: 0;
   padding: 0.45rem 0.7rem;
   position: sticky;
@@ -102,7 +106,9 @@ body.graph-explorer-active {
   color: var(--secondary);
   font-size: 0.92rem;
   font-weight: 700;
+  grid-area: brand;
   line-height: 1.15;
+  padding-top: 0.2rem;
   text-decoration: none;
 }
 
@@ -112,7 +118,12 @@ body.graph-explorer-active {
 }
 
 .graph-explorer-search {
+  grid-area: search;
   position: relative;
+}
+
+.graph-explorer-preset {
+  grid-area: preset;
 }
 
 .graph-explorer-suggest {
@@ -184,6 +195,8 @@ body.graph-explorer-active {
   border: 0;
   display: flex;
   gap: 0.2rem;
+  grid-area: depth;
+  justify-content: end;
   margin: 0;
   min-width: 0;
   padding: 0;
@@ -202,10 +215,16 @@ body.graph-explorer-active {
     min-width: 0;
   }
 
-  input {
+  input[type="radio"] {
+    height: 1px !important;
+    margin: 0 !important;
+    min-height: 0 !important;
     position: absolute;
     opacity: 0;
+    padding: 0 !important;
     pointer-events: none;
+    transform: none !important;
+    width: 1px !important;
   }
 
   span {
@@ -230,22 +249,48 @@ body.graph-explorer-active {
   }
 }
 
-.graph-explorer-chip-toggle {
-  cursor: pointer;
-  display: inline-flex;
+.graph-explorer-type-control {
+  align-items: center;
+  border: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.24rem;
+  grid-area: types;
+  margin: 0;
   min-width: 0;
+  padding: 0;
 
-  input {
+  legend {
+    color: var(--darkgray);
+    font-size: 0.68rem;
+    font-weight: 700;
+    margin-right: 0.2rem;
+    text-transform: uppercase;
+  }
+
+  label {
+    cursor: pointer;
+    display: inline-flex;
+    min-width: 0;
+  }
+
+  input[type="checkbox"] {
+    height: 1px !important;
+    margin: 0 !important;
+    min-height: 0 !important;
     position: absolute;
     opacity: 0;
+    padding: 0 !important;
     pointer-events: none;
+    transform: none !important;
+    width: 1px !important;
   }
 
   span {
     align-items: center;
     background: var(--light);
     border: 1px solid var(--lightgray);
-    border-radius: 999px;
+    border-radius: 0.42rem;
     color: var(--darkgray);
     display: inline-flex;
     font-size: 0.82rem;
@@ -265,6 +310,7 @@ body.graph-explorer-active {
 .graph-explorer-actions-bar {
   display: flex;
   gap: 0.3rem;
+  grid-area: actions;
   justify-content: end;
   min-width: 0;
 }
@@ -313,7 +359,7 @@ body.graph-explorer-active {
 }
 
 .graph-explorer-popovers {
-  grid-column: 1 / -1;
+  grid-area: popovers;
   position: relative;
 }
 
@@ -415,7 +461,7 @@ body.graph-explorer-active {
 .graph-explorer-filter-grid {
   display: grid;
   gap: 0.55rem;
-  grid-template-columns: minmax(10rem, 1.3fr) repeat(5, minmax(5.4rem, 0.7fr));
+  grid-template-columns: repeat(5, minmax(5.4rem, 1fr));
 
   label {
     display: grid;
@@ -693,24 +739,30 @@ body.graph-explorer-active {
 
 @media (max-width: 1180px) {
   .graph-explorer-topbar {
-    grid-template-columns: minmax(9rem, 12rem) minmax(12rem, 1fr) minmax(10rem, 0.8fr) auto auto;
-  }
-
-  .graph-explorer-depth-control,
-  .graph-explorer-chip-toggle {
-    grid-row: 2;
+    grid-template-areas:
+      "brand search actions"
+      "preset depth actions"
+      "types types types"
+      "popovers popovers popovers";
+    grid-template-columns: minmax(9rem, 12rem) minmax(14rem, 1fr) auto;
   }
 
   .graph-explorer-actions-bar {
-    grid-column: -2;
-    grid-row: 1 / span 2;
+    align-self: stretch;
   }
 }
 
 @media (max-width: 900px) {
   .graph-explorer-topbar {
-    grid-template-columns: minmax(8rem, 1fr) minmax(12rem, 1.4fr) auto;
-    max-height: 34vh;
+    grid-template-areas:
+      "brand actions"
+      "search search"
+      "preset preset"
+      "types types"
+      "depth depth"
+      "popovers popovers";
+    grid-template-columns: minmax(8rem, 1fr) auto;
+    max-height: 38vh;
     overflow: auto;
   }
 
@@ -718,19 +770,12 @@ body.graph-explorer-active {
     font-size: 0.88rem;
   }
 
-  .graph-explorer-preset,
-  .graph-explorer-depth-control,
-  .graph-explorer-chip-toggle {
-    grid-row: auto;
-  }
-
-  .graph-explorer-preset {
-    grid-column: 1 / span 2;
-  }
-
   .graph-explorer-actions-bar {
-    grid-column: 3;
-    grid-row: 1 / span 2;
+    justify-content: end;
+  }
+
+  .graph-explorer-depth-control {
+    justify-content: start;
   }
 
   .graph-explorer:not([data-panel="hidden"]) .graph-explorer-stage {
@@ -765,41 +810,51 @@ body.graph-explorer-active {
 
 @media (max-width: 640px) {
   .graph-explorer-topbar {
-    display: flex;
+    display: grid;
     gap: 0.35rem;
-    max-height: none;
-    overflow-x: auto;
-    overflow-y: visible;
+    grid-template-areas:
+      "brand actions"
+      "search search"
+      "preset preset"
+      "types types"
+      "depth depth"
+      "popovers popovers";
+    grid-template-columns: minmax(7.5rem, 1fr) auto;
+    max-height: 42vh;
+    overflow: auto;
     padding: 0.45rem;
-    scrollbar-width: thin;
   }
 
   .graph-explorer-brand {
-    flex: 0 0 7.5rem;
+    min-width: 0;
   }
 
   .graph-explorer-search {
-    flex: 0 0 12rem;
+    min-width: 0;
   }
 
   .graph-explorer-preset {
-    flex: 0 0 11rem;
-  }
-
-  .graph-explorer-depth-control,
-  .graph-explorer-chip-toggle,
-  .graph-explorer-actions-bar {
-    flex: 0 0 auto;
+    min-width: 0;
   }
 
   .graph-explorer-actions-bar {
     justify-content: flex-start;
   }
 
+  .graph-explorer-type-control {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    padding-bottom: 0.08rem;
+    scrollbar-width: thin;
+
+    legend,
+    label {
+      flex: 0 0 auto;
+    }
+  }
+
   .graph-explorer-popovers {
-    flex: 0 0 0;
     position: static;
-    width: 0;
   }
 
   .graph-explorer-popover {
