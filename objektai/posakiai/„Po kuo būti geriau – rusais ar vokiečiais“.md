@@ -78,6 +78,7 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Mintis „Po kuo būti geriau – rusais ar vokiečiais“ reiškė mažos valstybės galimybių įvertinimą, o ne išankstinį pasidavimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

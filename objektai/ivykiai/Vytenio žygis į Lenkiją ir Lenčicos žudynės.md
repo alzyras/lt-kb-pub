@@ -74,6 +74,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vytenis su 800 vyrų per Sekmines įsiveržė į Lenkiją, užpuolė Lenčicos dvasininkus ir išsivarė daug belaisvių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

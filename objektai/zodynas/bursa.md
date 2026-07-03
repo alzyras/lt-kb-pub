@@ -89,6 +89,7 @@ Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be ši�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Valerijonas Protasevičius neturtingiems studentams įsteigė Valerijono bursą ir pavedė ją jėzuitų priežiūrai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -59,6 +59,7 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

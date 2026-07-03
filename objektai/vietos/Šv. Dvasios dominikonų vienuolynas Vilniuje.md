@@ -51,6 +51,7 @@ Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv. Dvasios
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Prieglaudos namus vargšams ir ligoniams buvo numatyta statyti prie Šv. Dvasios dominikonų vienuolyno Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

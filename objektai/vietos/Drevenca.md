@@ -87,6 +87,7 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -106,6 +107,7 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   pagrindžia:
     - t-003
     - t-004
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -120,6 +122,7 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Sąjungininkai priėjo Drevencos upę ties Kauerniku.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

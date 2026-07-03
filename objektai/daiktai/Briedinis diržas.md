@@ -54,6 +54,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 ## Pastabos
 
 - šaltinis šalia diržo mini ir kitus senoviško apdaro pavadinimus, todėl tai gali būti platesnio senovinio vyriško aprėdo klasterio dalis.

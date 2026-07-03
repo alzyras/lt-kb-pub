@@ -74,6 +74,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais, o į Prūsiją per jį ėjo tik du keliai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -89,6 +90,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Šapokos redaguotoje „Lietuvos istorijoje“ svarstoma, kad Vytautas tikėjosi gauti Žemaičius ir Užnemunę (Suvalkų kraštą).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -108,6 +110,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   santrauka: 'Dabartinis Suvalkų kraštas buvo kryžiuočių pasienio didžiulės girios dalis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -126,6 +129,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-005
   santrauka: 'Lietuviškoji Užnemunė, apimanti Suvalkų kraštą, Prūsijos valdžioje priklausė Balstogės departamentui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

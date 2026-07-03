@@ -76,6 +76,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: '1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir nuniokojo žemes iki Medininkų bei Ašmenos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

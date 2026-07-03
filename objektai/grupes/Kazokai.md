@@ -188,6 +188,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -203,6 +204,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -223,6 +225,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Ukrainos kazokų stovyklą pirmiausia atakavo janičarai, o po jų puolė turkų kavalerija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -239,6 +242,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-005
   santrauka: 'Kazokai buvo lengvoji raitija, kurios paskirtis buvo paremti husarus mūšyje ir naikinti jų sumuštus eskadronus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -262,6 +266,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-006
   santrauka: 'Kazokai vijosi bėgantį priešą, įsiveržė į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -281,6 +286,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-007
   santrauka: 'Kazokai vijosi bėgantį priešą, įsiveržė į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

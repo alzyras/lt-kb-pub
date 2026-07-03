@@ -129,6 +129,7 @@ Juzefas Pilsudskis, iš Lietuvos dvarininkų kilęs pokario Lenkijos vadovas, r�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   santrauka: 'Juzefo Pilsudskio grįžimas į valdžią po 1926 m. perversmo Lenkijoje skatino veikti Seimo valdymu nepatenkintas Lietuvos politines jėgas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -147,6 +148,7 @@ Juzefas Pilsudskis, iš Lietuvos dvarininkų kilęs pokario Lenkijos vadovas, r�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -168,6 +170,7 @@ Juzefas Pilsudskis, iš Lietuvos dvarininkų kilęs pokario Lenkijos vadovas, r�
   pagrindžia:
     - t-004
     - t-002
+
 - c-004
   santrauka: 'Pagal Juzefą Pilsudskį Vilnių turėjo užimti ne Lenkijos kariuomenė, o Liucjano Želigovskio daliniai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -188,6 +191,7 @@ Juzefas Pilsudskis, iš Lietuvos dvarininkų kilęs pokario Lenkijos vadovas, r�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Juzefas Pilsudskis, pokario Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -210,6 +214,7 @@ Juzefas Pilsudskis, iš Lietuvos dvarininkų kilęs pokario Lenkijos vadovas, r�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-006
   santrauka: 'Ernestas Galvanauskas ketino Juzefą Pilsudskį sekti pavyzdžiu: pirmiausia sudaryti fait accompli padėtį, o tada derėtis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -228,6 +233,7 @@ Juzefas Pilsudskis, iš Lietuvos dvarininkų kilęs pokario Lenkijos vadovas, r�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-007
   santrauka: 'Juzefas Pilsudskis Vilniaus užėmimą motyvavo vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -247,6 +253,7 @@ Juzefas Pilsudskis, iš Lietuvos dvarininkų kilęs pokario Lenkijos vadovas, r�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-008
   santrauka: 'Juzefas Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kurią laikė „tėvynine“ šalimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -264,6 +271,7 @@ Juzefas Pilsudskis, iš Lietuvos dvarininkų kilęs pokario Lenkijos vadovas, r�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

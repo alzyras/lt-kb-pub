@@ -87,6 +87,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: '1920 m. balandžio 14–15 d. Steigiamojo Seimo rinkimus laimėjo krikščionių demokratų blokas, gavęs 59 vietas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -110,6 +111,7 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
+
 - c-003
   santrauka: 'Dėl nepriklausomybės kovų rinkimai į Steigiamąjį Seimą surengti tik 1920 m. balandžio viduryje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

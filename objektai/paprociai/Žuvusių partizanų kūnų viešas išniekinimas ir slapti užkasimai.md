@@ -89,6 +89,7 @@ Sovietinės represinės institucijos partizaninio judėjimo atramai slopinti nau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 ## Šaltiniai ir įrodymai
 
 Nenurodyta

@@ -81,6 +81,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Šventaragio slėnyje prie medinės šventyklos stovėjo pagonių vaidilų būstai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -99,6 +100,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Lietuvos kronikos ir vietos padavimai katedros varpinę siejo su bokštu, iš kurio Lizdeika skelbdavęs pranašystes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

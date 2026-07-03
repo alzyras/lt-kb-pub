@@ -1272,6 +1272,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1288,6 +1289,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-043
+
 - c-003
   santrauka: 'Užimdamas naujus rusų kraštus, Vytautas priartėjo prie totorių sienų ir tai vedė prie karo su totoriais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1304,6 +1306,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1318,6 +1321,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-037
+
 - c-005
   santrauka: 'Totoriai, užėmę lietuvių stovyklą, paėmė jų gurguoles bei turtus ir ėmė niokoti kraštą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1331,6 +1335,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-051
+
 - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1347,6 +1352,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
     - t-004
     - t-011
     - t-019
+
 - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1361,6 +1367,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-044
+
 - c-008
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1382,6 +1389,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-042
+
 - c-009
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1406,6 +1414,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   pagrindžia:
     - t-016
     - t-032
+
 - c-010
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1428,6 +1437,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
 - c-011
   santrauka: 'Totorių raiteliai vesdavosi po tris atsarginius žirgus, todėl galėdavo judėti labai sparčiai ir pasiekti netikėtumo efektą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -1446,6 +1456,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-012
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1467,6 +1478,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-046
+
 - c-013
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1488,6 +1500,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-014
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1511,6 +1524,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-015
   santrauka: 'Andrius kartu su Dmitrijumi Doniškiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1551,6 +1565,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   pagrindžia:
     - t-001
     - t-035
+
 - c-016
   santrauka: 'Didžiojoje Kunigaikštystėje gyvenę totoriai, įsigiję nuosavybę, atsisakydavo mokėti dešimtinę ir kitas duokles dvasininkams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1586,6 +1601,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   pagrindžia:
     - t-006
     - t-025
+
 - c-017
   santrauka: 'Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1600,6 +1616,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-047
+
 - c-018
   santrauka: 'Vytautas Vilniuje ne kartą skelbdavo totorių kunigaikščius chanais arba carais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1631,6 +1648,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   pagrindžia:
     - t-018
     - t-021
+
 - c-019
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1652,6 +1670,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   pagrindžia:
     - t-007
     - t-036
+
 - c-020
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -1669,6 +1688,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   pagrindžia:
     - t-045
     - t-056
+
 - c-021
   santrauka: 'Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1695,6 +1715,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   pagrindžia:
     - t-029
     - t-052
+
 - c-022
   santrauka: '1202 m. prasidėjo totorių viešpatavimas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1708,6 +1729,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-023
   santrauka: 'Vilniuje ir jo apylinkėse įsikūrė nemaža į nelaisvę paimtų totorių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1740,6 +1762,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-024
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1764,6 +1787,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   pagrindžia:
     - t-022
     - t-009
+
 - c-025
   santrauka: 'Vytauto politikoje svarbi buvo kova rytuose su rusų kunigaikščiais ir totoriais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1781,6 +1805,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-033
+
 - c-026
   santrauka: 'Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną ir Henriką, o tas šalis nuniokojo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1799,6 +1824,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   pagrindžia:
     - t-014
     - t-045
+
 - c-027
   santrauka: 'Vytautas užmezgė draugiškus ryšius su totorių chanu ir susitarė dėl taikos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1815,6 +1841,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-050
+
 - c-028
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1848,6 +1875,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-040
+
 - c-029
   santrauka: 'Petro Dusburgiečio kryžiaus žygių istorijoje pritariama popiežiaus kurijos pastangoms suartėti su totoriais-mongolais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1865,6 +1893,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
+
 - c-030
   santrauka: 'Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1883,6 +1912,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-034
+
 - c-031
   santrauka: 'Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, tapusiais artimosios sargybos tautomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1899,6 +1929,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-053
+
 - c-032
   santrauka: 'Vytautas, tarpininkaujant Tochtamyšui, ketino nukariauti totorius ir perimti kovotojo su netikinčiais šlovę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1916,6 +1947,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
+
 - c-033
   santrauka: 'Totoriai, įsigalėję Rusijoje, pradėjo tarpusavyje vaidytis, o Lietuva iš šių vaidų ne kartą pasipelnydavo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1932,6 +1964,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-034
   santrauka: '1326 m. Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1950,6 +1983,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-049
+
 - c-035
   santrauka: '1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1964,6 +1998,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-036
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2000,6 +2035,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   pagrindžia:
     - t-039
     - t-002
+
 - c-037
   santrauka: 'LDK turėjo totorių musulmonų bendruomenę, kurios iki unijos su Lenkija Lenkijoje nebuvo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -2021,6 +2057,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-038
   santrauka: '1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2042,6 +2079,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-039
   santrauka: 'Po apiplėšimų totoriai stengdavosi greitai pasitraukti, todėl bajorų pašauktinės kariuomenės mobilizacija dažnai vėluodavo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -2063,6 +2101,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-040
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2078,6 +2117,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-048
+
 - c-041
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2096,6 +2136,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-041
+
 - c-042
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -2117,6 +2158,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
+
 - c-043
   santrauka: 'Žalgirio pergalė dar nepasiekta ideologiškai – Vakaruose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes jie nugalėjo pasitelkę pagonis, totorius musulmonus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -2135,6 +2177,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   pagrindžia:
     - t-054
     - t-038
+
 - c-044
   santrauka: 'Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -2156,6 +2199,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-055
+
 - c-045
   santrauka: 'Lietuvos metraštyje totorių chanas su sutelktomis ordomis patraukė į Rusų žemę ir, pasak kronikos, padarė jai daug žalos.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -2179,6 +2223,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-057
+
 - c-046
   santrauka: 'Lietuvos metraštis teigia, kad Dievui padėjus totoriai sumušė Vytautą ir jo kariuomenę, o Vytautas su nedideliu būriu pabėgo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -2199,6 +2244,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-058
+
 - c-047
   santrauka: 'Vytautas į karą su Prūsijos vokiečiais sutelkė Lietuvos ir Rusios pajėgas bei daug Ordos totorių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -2229,6 +2275,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-059
+
 - c-048
   santrauka: 'Prie Klecko už Lanės upės stovėjo mūšiui pasirengę totorių pulkai.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -2249,6 +2296,7 @@ Totoriai Lietuvos istorijos šaltiniuose pasirodo kaip galinga Rytų Europos jė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-060
+
 - c-049
   santrauka: 'Totoriai puolė per upę besikeliančių lietuvių dešinįjį sparną ir nukovė daug jo karių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

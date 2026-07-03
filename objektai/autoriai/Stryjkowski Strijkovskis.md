@@ -116,6 +116,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Strijkovskis minėjo pagonių šventyklą Antakalnyje, kurios vietoje, pagal padavimus, Goštautas pastatydino Šv. Petro bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -132,6 +133,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-003
   santrauka: 'Strijkovskis užsiminė apie mūšį prie Sudervėlės upelio, siejamą su lietuvių sumuštų kryžiuočių kapaviete.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -151,6 +153,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Strijkovskis plačiai aprašė Kęstučio gudrybes puolant Vilnių, o Kojelevičius juo sekė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -175,6 +178,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Stryjkowski savo kronikoje aiškino Šventaragio vardo kilmę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

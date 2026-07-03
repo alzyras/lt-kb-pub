@@ -68,6 +68,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Habdanko ženklas sudarė Dubnios herbo atmainos detalę: baltą W raidę apatiniame kairiajame raudono skydo kampe.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

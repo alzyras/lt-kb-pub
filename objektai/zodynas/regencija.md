@@ -46,7 +46,8 @@ Po Vosyliaus III mirties Maskvos kunigaikščiu tapus mažamečiam Jonui IV Žia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Po 1533 m. Vosyliaus III mirties sudaryta Jono IV regencija Maskvos kunigaikštystėje sukėlė vidaus neramumus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

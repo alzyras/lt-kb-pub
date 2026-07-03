@@ -59,7 +59,8 @@ Nenurodyta
   statusas: verified
 
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-002
+  patikimumo_saltinis: ai
+- c-002
   santrauka: 'Kristburgo komtūras Ditrichas Rodė antrosios atskalūnybės metais apiplėšė Pagudę ir privertė jį persekiojusius prūsus bėgti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |

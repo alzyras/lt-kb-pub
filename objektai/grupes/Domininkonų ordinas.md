@@ -152,6 +152,7 @@ Domininkonų ordinas Lietuvos istorijos šaltiniuose iškyla kaip krikščionyb�
   pagrindžia:
     - t-012
     - t-010
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -173,6 +174,7 @@ Domininkonų ordinas Lietuvos istorijos šaltiniuose iškyla kaip krikščionyb�
   pagrindžia:
     - t-003
     - t-006
+
 - c-003
   santrauka: 'Vingrių šaltinių perleidimas dominikonams sukėlė nesiliaujančius vaidus tarp šio ordino ir Vilniaus miestiečių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -240,6 +242,7 @@ Domininkonų ordinas Lietuvos istorijos šaltiniuose iškyla kaip krikščionyb�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   santrauka: 'Dominikonų ordino broliai turėjo laisvę krikštyti, sakyti pamokslus ir atlikti kitas šventąsias apeigas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -259,6 +262,7 @@ Domininkonų ordinas Lietuvos istorijos šaltiniuose iškyla kaip krikščionyb�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Brolių pamokslininkų ordinas minimas kaip įkurtas 1216 m., valdant popiežiui Honorijui III.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -272,6 +276,7 @@ Domininkonų ordinas Lietuvos istorijos šaltiniuose iškyla kaip krikščionyb�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -286,6 +291,7 @@ Domininkonų ordinas Lietuvos istorijos šaltiniuose iškyla kaip krikščionyb�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -298,6 +304,7 @@ Domininkonų ordinas Lietuvos istorijos šaltiniuose iškyla kaip krikščionyb�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -337,6 +344,7 @@ Domininkonų ordinas Lietuvos istorijos šaltiniuose iškyla kaip krikščionyb�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-009
   santrauka: 'Michałas Balińskis Gedimino vardu dominikonų ordinui, minoritams ir Vokietijos miestams rašytus laiškus laikė Rygos arkivyskupo prasimanymu ir klastote.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -366,6 +374,7 @@ Domininkonų ordinas Lietuvos istorijos šaltiniuose iškyla kaip krikščionyb�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-010
   santrauka: '1323 m. gegužės 26 d. laiškai buvo pasiųsti Saksų provincijos domininkonams, pranciškonams ir Hanzos miestams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -383,6 +392,7 @@ Domininkonų ordinas Lietuvos istorijos šaltiniuose iškyla kaip krikščionyb�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-011
   santrauka: '1303 m. valdęs popiežius Benediktas XI buvo Brolių pamokslininkų ordino vienuolis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

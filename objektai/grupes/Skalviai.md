@@ -242,6 +242,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-002
   santrauka: 'Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -257,6 +258,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -278,6 +280,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
   pagrindžia:
     - t-009
     - t-015
+
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -303,6 +306,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
   pagrindžia:
     - t-002
     - t-007
+
 - c-005
   santrauka: 'Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -323,6 +327,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-006
   santrauka: 'Sembų fogtas brolis Ditrichas su Ordino kariais įsiveržė į abipus Nemuno buvusią skalvių žemę ir užpuolė pilį būsimos Ragainės vietoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -339,6 +344,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -359,6 +365,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
   pagrindžia:
     - t-012
     - t-003
+
 - c-008
   santrauka: 'Materialinės kultūros požiūriu skalviai prie Nemuno žemupio siejami su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -374,6 +381,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -393,6 +401,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
   pagrindžia:
     - t-006
     - t-016
+
 - c-010
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -409,6 +418,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
   pagrindžia:
     - t-011
     - t-008
+
 - c-011
   santrauka: 'Prie Nemuno buvo pastatyta Skalvių pilis, skirta į Kristaus tikėjimą atsivertusiems skalviams gyventi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -424,6 +434,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-012
   santrauka: 'M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais, dar XIX a. laikė skalvius ir nadruvius lietuviais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -438,6 +449,7 @@ Skalviai buvo Nemuno žemupio gentis, gyvenusi abipus Nemuno, o jų teritorijos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-013
   santrauka: 'Archeologijos duomenys rodo, kad skalvių gentinė kultūra Nemuno ir Jūros santakos rajone buvo ryški nuo mūsų eros pradžios.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

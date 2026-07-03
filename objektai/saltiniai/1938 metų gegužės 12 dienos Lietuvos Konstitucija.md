@@ -57,6 +57,7 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Atkuriant Lietuvos valstybę buvo priimtas įstatymas dėl 1938 metų gegužės 12 dienos Lietuvos Konstitucijos galiojimo atstatymo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

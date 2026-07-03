@@ -75,6 +75,7 @@ Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo mi
     - t-002
     - t-001
     - t-003
+
 - c-002
   santrauka: 'Pagudėnų persekiojami Elbingo miestiečiai pasitraukė į Liefardo malūną, kuris buvo įtvirtintas tarsi pilis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

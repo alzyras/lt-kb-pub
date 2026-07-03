@@ -84,6 +84,7 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -100,6 +101,7 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -119,6 +121,7 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
   pagrindžia:
     - t-001
     - t-005
+
 - c-004
   santrauka: 'Juozo Miliausko prisiminimuose aprašytas rusų pajėgų puolimas prieš sukilėlių stovyklą Švėkšnos apylinkių miškuose.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

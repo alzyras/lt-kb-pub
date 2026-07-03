@@ -112,6 +112,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -128,6 +129,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -144,6 +146,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -161,7 +164,8 @@ Nenurodyta
   statusas: verified
 
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-005
+  patikimumo_saltinis: ai
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Įvade bandoma apibūdinti kronikos sukūrimo epochą, prūsų ir Lietuvos ryšius,
@@ -177,6 +181,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -197,6 +202,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |

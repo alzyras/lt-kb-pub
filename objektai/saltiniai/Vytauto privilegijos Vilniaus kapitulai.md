@@ -89,6 +89,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: '1412 m. ketvirtoji Vytauto privilegija Vilniaus kapitulai buvo rašyta Trakuose antradienį prieš Kristaus Kūno šventę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -136,6 +137,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: '1411 m. Trakuose rašyta Vytauto privilegija Vilniaus kapitulai mainais už Vechatnicos kaimą suteikė valdas Krėvos ir Svisločiaus apylinkėse.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -169,6 +171,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Antrąja privilegija Vytautas Vilniaus katedrai skyrė Dragimino ir Dragiminiškių kaimus, pievą prie Žižmos ir nausėdžius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

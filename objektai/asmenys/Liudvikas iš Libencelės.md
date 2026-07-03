@@ -111,6 +111,7 @@ Liudvikas iš Libencelės 1294–1300 m. buvo Ragainės komtūras, daug kartų k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė plėšikautojus ir 25 jų nukovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -132,6 +133,7 @@ Liudvikas iš Libencelės 1294–1300 m. buvo Ragainės komtūras, daug kartų k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Antrą kartą patekęs į nelaisvę Liudvikas iš Libencelės buvo nuvestas pas kilmingąjį Kantigirdą ir pavestas jo globai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -152,6 +154,7 @@ Liudvikas iš Libencelės 1294–1300 m. buvo Ragainės komtūras, daug kartų k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: '1296 m. Liudvikas iš Libencelės su kitais broliais ir 200 vyrų dalyvavo žygyje, per kurį buvo sudeginta Kimelio pilis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -174,6 +177,7 @@ Liudvikas iš Libencelės 1294–1300 m. buvo Ragainės komtūras, daug kartų k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-005
   santrauka: 'Liudvikas iš Libencelės buvo kilmingas ir nuo jaunų dienų įgudęs kariauti, o paimtą į nelaisvę jį atidavė Skomantui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -191,6 +195,7 @@ Liudvikas iš Libencelės 1294–1300 m. buvo Ragainės komtūras, daug kartų k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-006
   santrauka: 'Dusburgietis teigia, kad siekdamas šio tikslo, subūrė daug brolių bei kitų karių; kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų lyčių sūduvių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

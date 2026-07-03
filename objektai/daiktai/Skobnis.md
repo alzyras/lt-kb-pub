@@ -68,6 +68,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -66,6 +66,7 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-002
+
 - c-002
   santrauka: 'Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -83,6 +84,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 ## Šaltiniai ir įrodymai
 
 Nenurodyta

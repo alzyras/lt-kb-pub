@@ -66,6 +66,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vilniaus seime ginčas dėl Podolės istorijos ir teisių buvo atidėtas Parčevo seimui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

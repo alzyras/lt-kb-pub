@@ -62,6 +62,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Krautuvių Pilyje slėpdavosi priemiesčių gyventojai ir pirkliai su prekėmis, todėl vokiečiai ją taip praminė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -84,6 +85,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Krautuvių Pilyje susirinko keli tūkstančiai ginkluotų žmonių, vyresnieji ir prastuomenė, siekę ją ginti ir rasti prieglobstį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

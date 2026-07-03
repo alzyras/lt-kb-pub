@@ -46,7 +46,8 @@ Narbutas remiasi Tadu Čackiu teigdamas, kad XVI a. daugiausia raganų būdavo r
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas klaidinga vadina Tado Čackio nuomonę, kad lietuviai germanų pavyzdžiu laiką skaičiavo naktimis, o ne dienomis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

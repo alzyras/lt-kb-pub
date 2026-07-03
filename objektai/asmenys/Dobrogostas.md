@@ -115,6 +115,7 @@ Dobrogostas buvo Poznanės vyskupas, susijęs su Vilniaus vyskupijos įkūrimo r
   pagrindžia:
     - t-003
     - t-001
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -135,6 +136,7 @@ Dobrogostas buvo Poznanės vyskupas, susijęs su Vilniaus vyskupijos įkūrimo r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -151,6 +153,7 @@ Dobrogostas buvo Poznanės vyskupas, susijęs su Vilniaus vyskupijos įkūrimo r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |

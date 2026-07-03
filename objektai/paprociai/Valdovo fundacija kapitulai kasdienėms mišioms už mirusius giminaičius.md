@@ -113,6 +113,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Vytautas privilegijoje nurodė maldomis rūpintis jo ir mirusių brolių Kazimiero Karigailos bei Aleksandro Vyganto sveikata.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

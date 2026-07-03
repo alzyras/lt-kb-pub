@@ -188,7 +188,8 @@ Janas Lasickis žinių bazėje pristatomas kaip autorius, kurio knyga apie žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Vienintelis Lasickis išsaugojo mums šį faktą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -206,7 +207,8 @@ Janas Lasickis žinių bazėje pristatomas kaip autorius, kurio knyga apie žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Narbutas rašo, kad Lasickis išsaugojo Kriukio vardą, bet klaidingai jam priskyrė kiaulių globėjo savybes.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -224,7 +226,8 @@ Janas Lasickis žinių bazėje pristatomas kaip autorius, kurio knyga apie žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Narbutas nurodo, kad Lasickis Patelo dievą žinojo Algio vardu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -238,7 +241,8 @@ Janas Lasickis žinių bazėje pristatomas kaip autorius, kurio knyga apie žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-005
+    - t-004
+- c-005
   santrauka: 'Lasickis Perkūnaitėlę apibūdino kaip žaibo ir griausmo motiną, kuri išprausia nuvargusią saulę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -253,7 +257,8 @@ Janas Lasickis žinių bazėje pristatomas kaip autorius, kurio knyga apie žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-006
+    - t-005
+- c-006
   santrauka: 'Pasak Narbuto perteikiamų Lasickio tyrimų, Alabatės buvo šaukiamasi dirbant linininkystės darbus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -272,7 +277,8 @@ Janas Lasickis žinių bazėje pristatomas kaip autorius, kurio knyga apie žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-007
+    - t-006
+- c-007
   santrauka: 'Narbutas rašo, kad Lasickis liudijo buvus Aušros vardu vadintą ryto deivę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -284,7 +290,8 @@ Janas Lasickis žinių bazėje pristatomas kaip autorius, kurio knyga apie žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-008
+    - t-007
+- c-008
   santrauka: 'Narbutas cituoja Lasickio posakį „Kur tikėjimas, ten ir rezultatas“ prie Ratainyčios aprašymo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -297,7 +304,8 @@ Janas Lasickis žinių bazėje pristatomas kaip autorius, kurio knyga apie žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-009
+    - t-008
+- c-009
   santrauka: 'Narbutas vertina, kad Lasickis apsiriko Ragutienę pačią laikydamas dievu, o ne aludarystę globojančia deive.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -310,7 +318,8 @@ Janas Lasickis žinių bazėje pristatomas kaip autorius, kurio knyga apie žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-010
+    - t-009
+- c-010
   santrauka: 'Narbutas kaltina Lasickį nekritiškai rinkus mitologinius duomenis ir klydus dėl dievaičių kerpių rinkimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -330,7 +339,8 @@ Janas Lasickis žinių bazėje pristatomas kaip autorius, kurio knyga apie žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-011
+    - t-010
+- c-011
   santrauka: 'Narbutas, remdamasis Lasickiu, rašo, kad Strijkovskis ir kiti Markopolius trumpai mini kaip požemio dievaičius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -344,7 +354,8 @@ Janas Lasickis žinių bazėje pristatomas kaip autorius, kurio knyga apie žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-012
+    - t-011
+- c-012
   santrauka: 'Narbutas perteikia Lasickio teiginį, kad lietuviai kai kurias dievų garbinimo apeigas slėpdavo nuo krikščionių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -358,7 +369,8 @@ Janas Lasickis žinių bazėje pristatomas kaip autorius, kurio knyga apie žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-013
+    - t-012
+- c-013
   santrauka: 'Narbutas aiškina, kad Lasickis fetišo termino nevartojo, bet aprašė asmeninius fetišus šventovėse, giminėse, namuose ir pas pavienius žmones.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -377,7 +389,8 @@ Janas Lasickis žinių bazėje pristatomas kaip autorius, kurio knyga apie žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-014
+    - t-013
+- c-014
   santrauka: 'Narbutas nurodo, kad burtininkės pavadinimas Burte yra Lasickio mitologijoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -389,7 +402,8 @@ Janas Lasickis žinių bazėje pristatomas kaip autorius, kurio knyga apie žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-015
+    - t-014
+- c-015
   santrauka: 'Narbutas rašo, kad Lasickis iš Jokūbo Laskovičiaus girdėjo apie Žemaitijoje daugeliui dievų teiktą garbę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -408,7 +422,8 @@ Janas Lasickis žinių bazėje pristatomas kaip autorius, kurio knyga apie žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-016
+    - t-015
+- c-016
   santrauka: 'Narbutas mano, kad Lasickis, cituodamas maldelę Perkūnui, padarė aiškią lietuvių kalbos klaidą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -427,7 +442,8 @@ Janas Lasickis žinių bazėje pristatomas kaip autorius, kurio knyga apie žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-017
+    - t-016
+- c-017
   santrauka: 'Narbutas vertina, kad Lasickio paliktas pirmos alaus statinės pradėjimo apeigų aprašymas menkavertis, bet svarbus kaip senovės paminklas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -446,7 +462,8 @@ Janas Lasickis žinių bazėje pristatomas kaip autorius, kurio knyga apie žema
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-018
+    - t-017
+- c-018
   santrauka: 'Narbutas rašo, kad Lasickis pateikė po Ilgių šventės atliekamų apeigų mirusiųjų garbei aprašymą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

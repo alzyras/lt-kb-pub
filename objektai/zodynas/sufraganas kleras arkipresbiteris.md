@@ -55,6 +55,7 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -78,6 +78,7 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-003
+
 - c-002
   santrauka: '1322 m. Gedimino taikos sutartyje su Livonija minėti Aukštaičiai reiškė geografinį žemės pavadinimą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

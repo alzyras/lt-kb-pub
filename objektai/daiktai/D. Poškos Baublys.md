@@ -83,7 +83,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visi to sąjūdžio bajorai, kad ir mylėjo savo kraštą, kad ir
@@ -101,7 +102,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Narbutas Baublio vardą aiškina mitologiškai ir sieja su žemaitišku buliaus balso apibūdinimu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

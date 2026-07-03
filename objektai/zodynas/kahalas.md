@@ -78,6 +78,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vilniaus kahalas iki 1763 m. nuo 5500 auksinų sumos Valerijono konvikto gyventojams mokėjo 8 procentus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

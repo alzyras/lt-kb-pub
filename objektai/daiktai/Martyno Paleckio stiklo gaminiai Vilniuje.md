@@ -103,6 +103,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -134,6 +135,7 @@ Nenurodyta
     - t-002
     - t-003
     - t-004
+
 - c-003
   santrauka: 'Martynas Paleckis Vilniuje gavo žemės sklypą, leidimą steigti stiklo liejyklą ir privilegiją pardavinėti lenkišką stiklą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

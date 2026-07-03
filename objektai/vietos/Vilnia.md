@@ -149,7 +149,8 @@ Vilnia siejama su ankstyvąja Vilniaus gyvenviete: Balińskis miesto vardą kild
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Nuo tvirtovės prie Vilnios palei krantą pažemiais trobelės tęsėsi iki Vilijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -170,7 +171,8 @@ Vilnia siejama su ankstyvąja Vilniaus gyvenviete: Balińskis miesto vardą kild
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-003
+    - t-010
+- c-003
   santrauka: 'Gediminas, statydindamas pilį, iškasė Vilniai naują vagą ir iškastomis žemėmis paaukštino Pilies kalną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -202,7 +204,8 @@ Vilnia siejama su ankstyvąja Vilniaus gyvenviete: Balińskis miesto vardą kild
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-004
+    - t-012
+- c-004
   santrauka: 'Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose buvo žinoma jau XII amžiuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -223,7 +226,8 @@ Vilnia siejama su ankstyvąja Vilniaus gyvenviete: Balińskis miesto vardą kild
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-005
+    - t-004
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     48
@@ -264,7 +268,8 @@ Vilnia siejama su ankstyvąja Vilniaus gyvenviete: Balińskis miesto vardą kild
     - t-014
     - t-013
     - t-003
-    - t-008- c-006
+    - t-008
+- c-006
   santrauka: '1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -316,7 +321,8 @@ Vilnia siejama su ankstyvąja Vilniaus gyvenviete: Balińskis miesto vardą kild
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-007
+    - t-002
+- c-007
   santrauka: 'Balińskis manė, kad iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -340,7 +346,8 @@ Vilnia siejama su ankstyvąja Vilniaus gyvenviete: Balińskis miesto vardą kild
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-008
+    - t-009
+- c-008
   santrauka: 'Narbutas Vilnios vardą laikė pirminiu ir iš jo kildino Vilniaus bei vėliau Vilija pramintos Neries pavadinimus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -354,7 +361,8 @@ Vilnia siejama su ankstyvąja Vilniaus gyvenviete: Balińskis miesto vardą kild
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-009
+    - t-013
+- c-009
   santrauka: 'Narbutas Vilnią apibūdino kaip kadaise laivybai tikusią, sraunią, vingiuotą ir akmenuoto dugno upę, priešindamas ją giliai Vilijai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -373,7 +381,8 @@ Vilnia siejama su ankstyvąja Vilniaus gyvenviete: Balińskis miesto vardą kild
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-010
+    - t-014
+- c-010
   santrauka: 'Narbuto perteiktoje legendoje Gediminas nakvojo Šventaragio miške prie Vilnios ir Neries santakos, kur jam prisisapnavo geležinis vilkas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -396,7 +405,8 @@ Vilnia siejama su ankstyvąja Vilniaus gyvenviete: Balińskis miesto vardą kild
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-011
+    - t-015
+- c-011
   santrauka: 'Narbutas Gedimino kapą lokalizavo prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

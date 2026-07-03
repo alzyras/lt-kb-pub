@@ -75,6 +75,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Karaliui atžygiavus į Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčius, kai kurie gyventojai atidavė jam sūnus įkaitais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

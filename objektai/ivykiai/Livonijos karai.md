@@ -79,6 +79,7 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-002
+
 - c-002
   santrauka: 'Livonijos karuose 1558–1583 m. Lietuva ir Lenkija gavo didžiąją Livonijos dalį kartu su Ryga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

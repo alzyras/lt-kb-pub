@@ -292,6 +292,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -309,6 +310,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -323,6 +325,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -337,6 +340,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -348,6 +352,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -365,6 +370,7 @@ Nenurodyta
   pagrindžia:
     - t-008
     - t-016
+
 - c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -382,6 +388,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-008
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -399,6 +406,7 @@ Nenurodyta
   pagrindžia:
     - t-006
     - t-015
+
 - c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -411,6 +419,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-010
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -425,6 +434,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-011
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -439,6 +449,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-012
   santrauka: 'Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs Jogailai dar prieš karą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -456,6 +467,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-013
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -484,6 +496,7 @@ Nenurodyta
   pagrindžia:
     - t-021
     - t-004
+
 - c-014
   santrauka: 'Lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -505,6 +518,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-015
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -518,6 +532,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-016
   santrauka: 'Vytauto vadovaujami Lietuvos pulkai buvo patraukę paskui save kelias priešo vėliavas ir sugrįžo į kovos lauką.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -532,6 +547,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-017
   santrauka: 'Kiekvienas riteris kaudavosi po savo vėliava ir neturėjo teisės ją palikęs bėgti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -548,6 +564,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-018
   santrauka: 'XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys vaizduojamas tarnaujantis Lietuvos valdovo asmeninėje vėliavoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -568,6 +585,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-019
   santrauka: 'Vyriausioji Lenkijos vėliava pateko į priešų rankas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -582,6 +600,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-020
   santrauka: 'Herulai, tapę Romos sąjungininkais ir pagalbine kariuomene, daugelį amžių karo tarnyboje gynė romėnų vėliavas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

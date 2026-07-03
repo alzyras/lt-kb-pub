@@ -72,6 +72,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Mykolas Goštautas buvo vedęs Glinskio dukterį, todėl kai kas įtarė jį ir jo brolį prisidėjus prie Glinskio antpuolio.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

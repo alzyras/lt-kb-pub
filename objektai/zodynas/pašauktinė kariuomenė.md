@@ -70,6 +70,7 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, kad po apiplėšimo totoriai spėdavo pasitraukti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -91,6 +92,7 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

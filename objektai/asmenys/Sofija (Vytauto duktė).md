@@ -89,6 +89,7 @@ Sofija, Vytauto duktė, šaltiniuose minima kaip Maskvos kunigaikštienė, sieja
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Žemaičių bajorai Sofijos ir Jogailos dukters Jadvygos vardu įteikė protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -106,6 +107,7 @@ Sofija, Vytauto duktė, šaltiniuose minima kaip Maskvos kunigaikštienė, sieja
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -123,6 +125,7 @@ Sofija, Vytauto duktė, šaltiniuose minima kaip Maskvos kunigaikštienė, sieja
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -142,6 +145,7 @@ Sofija, Vytauto duktė, šaltiniuose minima kaip Maskvos kunigaikštienė, sieja
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -158,6 +162,7 @@ Sofija, Vytauto duktė, šaltiniuose minima kaip Maskvos kunigaikštienė, sieja
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'Sofija, Vytauto duktė, tekėjo už Maskvos kunigaikščio Vasilijaus, o Vytautas Marienburge surengė jai dideles palydėtuves.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

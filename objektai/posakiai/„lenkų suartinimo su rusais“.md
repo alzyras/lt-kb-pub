@@ -60,6 +60,7 @@ Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proce
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Lietuvos Užnemunėje švietimo politika siekė parengti lietuvius rusų aukštosios kultūros dalyviais ir suartinimo su rusų kultūra tarpininkais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

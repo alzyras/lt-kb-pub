@@ -82,6 +82,7 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   santrauka: 'Didžiajam magistrui Verneriui kronikos reikėjo Ordino priekaištams atremti ir vidaus reformai įgyvendinti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

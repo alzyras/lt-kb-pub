@@ -111,6 +111,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: 'Dviejų paskutiniųjų Jogailaičių laikais miestiečių luomas buvo paaukštintas iki tikrųjų piliečių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -136,6 +137,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   pagrindžia:
     - t-003
     - t-002
+
 - c-003
   santrauka: '1515 m. Vienos suvažiavimo kontekste Habsburgai, varžydamiesi su Jogailaičiais dėl Čekijos ir Vengrijos, nustojo remti Vokiečių ordiną ir Maskvą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

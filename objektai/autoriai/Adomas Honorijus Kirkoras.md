@@ -71,6 +71,7 @@ Adomas Honorijus Kirkoras minimas kaip 1859 m. vadovo po Vilnių autorius ir kai
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: '1859 m. išleistame vadove po Vilnių Adomas Honorijus Kirkoras pažymėjo, kad Vilnius jau turi savo istorikus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

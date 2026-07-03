@@ -68,6 +68,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Dailės, vaizduojamojo meno ir architektūros srityje draugijų paralelizmas pasireiškė Lietuvių dailės draugijos ir Vilniaus dailės draugijos veikla.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

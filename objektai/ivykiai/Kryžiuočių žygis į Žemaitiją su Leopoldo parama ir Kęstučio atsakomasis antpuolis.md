@@ -75,6 +75,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kęstutis, nepasivijęs atgal traukiančių kryžiuočių, nuvedė savo būrius niokoti priešo kaimų Prūsijoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

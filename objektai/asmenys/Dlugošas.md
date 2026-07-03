@@ -108,7 +108,8 @@ Dlugošas žinių bazėje minimas kaip pagrindinis 1409–1411 m. karo šaltinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Apskritai, sąjungininkų pusėje
@@ -124,7 +125,8 @@ Dlugošas žinių bazėje minimas kaip pagrindinis 1409–1411 m. karo šaltinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -139,7 +141,8 @@ Dlugošas žinių bazėje minimas kaip pagrindinis 1409–1411 m. karo šaltinis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Narbuto vertinimu, Dlugošas iš senesniųjų istorikų aiškiai pripažino, kad lietuvių genties tautos tikėjo fetišais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

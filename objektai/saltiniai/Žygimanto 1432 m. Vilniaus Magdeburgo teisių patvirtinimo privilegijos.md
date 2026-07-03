@@ -80,6 +80,7 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: 'Žygimantas privilegijose Vilniui amžiams suteikė vokišką Magdeburgo teisę, nuo seno naudotą Krokuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -99,6 +100,7 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: '1432 m. Vilnius gavo Magdeburgo teisių atnaujinimą ir patvirtinimą dviem privilegijomis lotynų ir rusų kalbomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -142,6 +144,7 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Žygimantas garantavo Vilniui pajamas iš vyno, midaus ir alaus smuklių, palikdamas mokestį kunigaikščio iždui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

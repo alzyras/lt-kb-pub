@@ -90,6 +90,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Otono Didžiojo laikais daugelis Italijos miestų apsitvėrė mūro sienomis, saugodamiesi vengrų ir saracėnų antpuolių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -111,6 +112,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Krokuva už geriausiai sutvirtintas mūro sienas ir svarbias privilegijas buvo skolinga Lešekui Juodajam.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

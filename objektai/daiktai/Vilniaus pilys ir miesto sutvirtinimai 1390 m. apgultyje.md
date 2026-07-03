@@ -116,6 +116,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: '1390 m. apgultyje prie Žemutinės pilies šliejosi nedidelis Vilniaus miesto centras su mediniais namais, tvoromis ir grioviais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -135,6 +136,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: '1390 m. Vilniaus apgultyje vienai iš trijų miesto pilių, vadintai Krautuvių pilimi, vadovavo Jogailos brolis Kazimieras Karigaila.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

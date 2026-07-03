@@ -76,6 +76,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Po Paleckių mirties jų sūnūs turėjo perduoti privilegijas miestui ir per dvidešimt savaičių išparduoti likusį stiklą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -95,6 +96,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: '1583 metų Varšuvos seime Vilniaus miestas ir Martynas Paleckis sudarė sutartį dėl stiklo liejyklos ir stiklo supirkimo teisių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

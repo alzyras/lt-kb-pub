@@ -78,6 +78,7 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   santrauka: 'Vokiečių valdžia vietoje Laikinosios vyriausybės ministrų lietuvių administracijos vadovais paskyrė generalinius tarėjus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

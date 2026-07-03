@@ -125,6 +125,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1533 m. spalio 23 d. Vilniuje datuotas karalienės Bonos laiškas buvo pasirašytas Valerijono.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

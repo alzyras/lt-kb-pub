@@ -88,6 +88,7 @@ Brunonas šaltiniuose minimas keliais skirtingais kontekstais: kaip vokiečių v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1009 m. vasario 14 d. Brunonas aisčių krašte buvo suimtas ir nužudytas su visais palydovais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -106,6 +107,7 @@ Brunonas šaltiniuose minimas keliais skirtingais kontekstais: kaip vokiečių v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Brunonas 1008 m. pabaigoje išvyko iš Lenkijos krikštyti aisčių su 18 palydovų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -132,6 +134,7 @@ Brunonas šaltiniuose minimas keliais skirtingais kontekstais: kaip vokiečių v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus netoli Livonijos įlankos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

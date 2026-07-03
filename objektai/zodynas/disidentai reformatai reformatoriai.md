@@ -75,6 +75,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Lietuvos disidentai reformatai nepajėgė sutelkti tokių stiprių pajėgų kovai su Vilniaus jėzuitais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -98,6 +99,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Andrius Volanas Vilniuje buvo laikomas uoliu reformatų idėjų skleidėju.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

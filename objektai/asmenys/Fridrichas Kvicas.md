@@ -98,6 +98,7 @@ Fridrichas Kvicas buvo Vokiečių ordino brolis, minimas 1316–1323 m. kariniuo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1323 metais Vėluvos valsčiuje lietuviai nužudė brolį Fridrichą Kvicą, vadintą drąsiu ir narsiu kariu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -141,6 +142,7 @@ Fridrichas Kvicas buvo Vokiečių ordino brolis, minimas 1316–1323 m. kariniuo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Broliai Hartmanas ir Fridrichas Kvicas su 60 vyrų turėjo užpulti Pagraudės valsčiaus kaimus, bet pasiklydo ir nieko nenuveikė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -160,6 +162,7 @@ Fridrichas Kvicas buvo Vokiečių ordino brolis, minimas 1316–1323 m. kariniuo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras, ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

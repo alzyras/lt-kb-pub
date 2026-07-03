@@ -169,6 +169,7 @@ Lietuvos komunistų partija (LKP) tarpukariu veikė pogrindyje ir A. Smetonai ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -184,6 +185,7 @@ Lietuvos komunistų partija (LKP) tarpukariu veikė pogrindyje ir A. Smetonai ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -200,6 +202,7 @@ Lietuvos komunistų partija (LKP) tarpukariu veikė pogrindyje ir A. Smetonai ne
   pagrindžia:
     - t-009
     - t-002
+
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -220,6 +223,7 @@ Lietuvos komunistų partija (LKP) tarpukariu veikė pogrindyje ir A. Smetonai ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -237,6 +241,7 @@ Lietuvos komunistų partija (LKP) tarpukariu veikė pogrindyje ir A. Smetonai ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-006
   santrauka: 'Prosovietiška Lietuvos komunistų partija organizavo rusakalbius sąjunginio pavaldumo gamyklų darbininkus mėginamam valstybiniam perversmui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -261,6 +266,7 @@ Lietuvos komunistų partija (LKP) tarpukariu veikė pogrindyje ir A. Smetonai ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-007
   santrauka: 'TSKP platformos Lietuvos komunistų partija įkūrė slaptą Nacionalinio gelbėjimo komitetą, parengusį prezidentinio valdymo įvedimo Lietuvoje planą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -277,6 +283,7 @@ Lietuvos komunistų partija (LKP) tarpukariu veikė pogrindyje ir A. Smetonai ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-008
   santrauka: 'Stalino valdymo metais komunistų partija kontroliavo, administravo ir cenzūravo visas Lietuvos kultūros sritis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -300,6 +307,7 @@ Lietuvos komunistų partija (LKP) tarpukariu veikė pogrindyje ir A. Smetonai ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-009
   santrauka: 'Sovietai, siekdami sumažinti Lietuvos žmonių paramą nepriklausomybei, paskelbė ekonominę blokadą ir skatino atskirų Lietuvos regionų atsiskyrimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -337,6 +345,7 @@ Lietuvos komunistų partija (LKP) tarpukariu veikė pogrindyje ir A. Smetonai ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-010
   santrauka: 'Lietuvos komunistų partijoje lietuvių skaičius išaugo nuo 13 tūkst. 1953 m. iki 55 tūkst. 1965 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -356,6 +365,7 @@ Lietuvos komunistų partija (LKP) tarpukariu veikė pogrindyje ir A. Smetonai ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-011
   santrauka: 'Per Liaudies seimo rinkimus kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -374,6 +384,7 @@ Lietuvos komunistų partija (LKP) tarpukariu veikė pogrindyje ir A. Smetonai ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-012
   santrauka: 'LKP atsiskyrus nuo SSKP, atsirado nacionalinė eurokomunistinio tipo partija su reformuota programa ir nauju statutu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -390,6 +401,7 @@ Lietuvos komunistų partija (LKP) tarpukariu veikė pogrindyje ir A. Smetonai ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-013
   santrauka: '1989 m. gruodį Vilniuje įvykęs LKP XX suvažiavimas turėjo didelę įtaką Lietuvos komunistų partijos veiklai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -408,6 +420,7 @@ Lietuvos komunistų partija (LKP) tarpukariu veikė pogrindyje ir A. Smetonai ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-014
   santrauka: '1990 m. rinkimų kampanijoje savarankiška LKP skelbė šūkį „Lietuva be suvereniteto – Lietuva be ateities“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

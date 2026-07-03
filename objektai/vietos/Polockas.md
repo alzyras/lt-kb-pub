@@ -807,7 +807,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-036- c-002
+    - t-036
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tačiau Strėvos kau­
@@ -821,7 +822,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-003
+    - t-017
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Esant nepatogiam susisiekimui į Pietus, vis daugiau reikšmės
@@ -835,7 +837,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-004
+    - t-004
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Rytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­
@@ -848,7 +851,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025- c-005
+    - t-025
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš tikro, Skirgailai bebuvo palik­
@@ -860,7 +864,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-006
+    - t-008
+- c-006
   santrauka: 'Skirgailai apgulus Polocką, Jogailos kariuomenė ir Livonijos magistras atsiuntė jam pagalbinių būrių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -875,7 +880,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-007
+    - t-021
+- c-007
   santrauka: '1411 m. pavasarį Vytautui vykstant pro Polocką iki Kijevo, tų kraštų kunigaikščiai jam reiškė paklusnumą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -893,7 +899,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-033- c-008
+    - t-033
+- c-008
   santrauka: '1381 m. Skirgaila su Livonijos magistru dvylika savaičių laikė apsupęs Polocką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -922,7 +929,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-037
-    - t-040- c-009
+    - t-040
+- c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vykdamu Lietuvon malšinti sukilimo, jiedu
@@ -935,7 +943,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-010
+    - t-006
+- c-010
   santrauka: '1432 m. rugpjūčio 31 d. naktį užpultas Ašmenos dvare Švitrigaila spėjo pabėgti į Polocką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -954,7 +963,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-011
+    - t-013
+- c-011
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl
@@ -970,7 +980,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
-    - t-046- c-012
+    - t-046
+- c-012
   santrauka: 'Vytenio ir Gedimino laikais Polockas 1307 m. buvo prijungtas prie Lietuvos kaip Baltosios Rusios dalis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -988,7 +999,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-013
+    - t-012
+- c-013
   santrauka: 'Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1010,7 +1022,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
     - t-028
     - t-053
     - t-044
-    - t-007- c-014
+    - t-007
+- c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tik XVII a. rusėnai
@@ -1027,7 +1040,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
-    - t-030- c-015
+    - t-030
+- c-015
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1506 m. vasarą totoriai įsiveržė į LDK valdas
@@ -1044,7 +1058,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
-    - t-001- c-016
+    - t-001
+- c-016
   santrauka: 'Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1059,7 +1074,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-017
+    - t-018
+- c-017
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Gediminas (1316—1341 m.)**
@@ -1072,7 +1088,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-039
-    - t-031- c-018
+    - t-031
+- c-018
   santrauka: 'Jogailai pasiuntus Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, kilo atviras susirėmimas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1098,7 +1115,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-045
-    - t-042- c-019
+    - t-042
+- c-019
   santrauka: 'Vytauto valdymo metu Polockas buvo vienas iš dviejų didelių prekybos centrų Lietuvoje kartu su Kaunu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1114,7 +1132,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027- c-020
+    - t-027
+- c-020
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jur­
@@ -1139,7 +1158,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
-    - t-047- c-021
+    - t-047
+- c-021
   santrauka: 'Tikėta, kad šventuoju paskelbtas Kazimieras 1518 m. padėjo Lietuvos kariuomenei įveikti priešą prie Polocko.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1153,7 +1173,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024- c-022
+    - t-024
+- c-022
   santrauka: 'Vytautas patvirtino laisvos prekybos sutartį ir suteikė Polockui daugiau laisvės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1169,7 +1190,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-023
+    - t-020
+- c-023
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1388 [pasirašyta ties Kaunu
@@ -1189,7 +1211,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
-    - t-051- c-024
+    - t-051
+- c-024
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Narimantui, kuris 1348 m. žuvo
@@ -1204,7 +1227,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-049
-    - t-038- c-025
+    - t-038
+- c-025
   santrauka: 'Gedimino ar Algirdo laikais Polocko žemės telkėsi apie Lietuvą kaip politinės sistemos centrą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1220,7 +1244,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-050- c-026
+    - t-050
+- c-026
   santrauka: 'Švitrigaila, nusigavęs į Polocką, ten įkūrė atramos vietą, iš kurios beveik šešerius metus plito vaidai, puldinėjimai ir pilietinis karas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1251,7 +1276,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-027
+    - t-022
+- c-027
   santrauka: 'Gedimino laikais Polockas jau buvo tarp anksčiau lietuvių užvaldytų žemių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1265,7 +1291,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-035- c-028
+    - t-035
+- c-028
   santrauka: '1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama karą tarp LLV ir Rusijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1283,7 +1310,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026- c-029
+    - t-026
+- c-029
   santrauka: 'Polockas, anksčiau patekęs į ordino įtaką, vėl buvo sugrąžintas Lietuvai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1296,7 +1324,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-030
+    - t-016
+- c-030
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Todėl pasirinko
@@ -1313,7 +1342,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
-    - t-023- c-031
+    - t-023
+- c-031
   santrauka: 'Po nepavykusio žygio gilyn į Lietuvą Švitrigaila grįžo į Polocką, paleido kariuomenę ir išvyko į Kijevą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1332,7 +1362,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-052- c-032
+    - t-052
+- c-032
   santrauka: 'Strėvos kautynėse dalyvavo būriai iš Polocko, o mūšis baigėsi lietuvių pralaimėjimu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1345,7 +1376,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-032- c-033
+    - t-032
+- c-033
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Livonijoje tuo metu jau buvo pagerėję reikalai: karalium
@@ -1370,7 +1402,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
-    - t-043- c-034
+    - t-043
+- c-034
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I I I  KNYGA
@@ -1395,7 +1428,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-035
+    - t-009
+- c-035
   santrauka: 'Skirgailai išvykus į Polocką, atsirado proga įgyvendinti sumanymą Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1415,7 +1449,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-041- c-036
+    - t-041
+- c-036
   santrauka: 'Vienas vieškelis iš Vilniaus per Vilnios upę prie bendro naudojimo malūno suko į Polocką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1447,7 +1482,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-054
-    - t-002- c-037
+    - t-002
+- c-037
   santrauka: 'Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko sritį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1464,7 +1500,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-055- c-038
+    - t-055
+- c-038
   santrauka: 'Daumantas susitaikė su broliu ir gavo valdyti Polocko kraštą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1487,7 +1524,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-056- c-039
+    - t-056
+- c-039
   santrauka: 'Gediminas laukė pagrindinių dalinių, kuriems į pagalbą turėjo ateiti naugardukiečiai ir polockiečiai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1515,7 +1553,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-057- c-040
+    - t-057
+- c-040
   santrauka: 'Kazimieras žiemos viduryje lankėsi Baltarusijoje ir Polocke, Vitebske bei Smolenske tvarkė taikos bei karo reikalus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1557,7 +1596,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-058- c-041
+    - t-058
+- c-041
   santrauka: 'Lietuvos metraštis Kęstutį vadina didžiuoju kunigaikščiu ir rašo, kad užėmęs Vilnių jis pasiuntė du žmones į Polocką.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -1573,7 +1613,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-059- c-042
+    - t-059
+- c-042
   santrauka: 'Lietuvos metraštis Aleksandrą vadina didžiuoju kunigaikščiu ir rašo, kad jis su Elena bei didikais lankėsi Polocke.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -1601,7 +1642,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-060- c-043
+    - t-060
+- c-043
   santrauka: 'Stanislovas Hlebavičius Polocko vietininku buvo bene nuo 1502 m.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -1613,7 +1655,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-061- c-044
+    - t-061
+- c-044
   santrauka: 'Narbutas pasakoja, kad po Mindaugo žūties Treniota nužudė Polocko Tautvilą, o bijodamas polockiečių keršto įkalino Polocko bajorus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1632,7 +1675,8 @@ Polockas Lietuvos istorijos žinių bazėje iškyla kaip svarbi vieta prie Daugu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-062- c-045
+    - t-062
+- c-045
   santrauka: '1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

@@ -1049,7 +1049,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-002
+    - t-008
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Atskirą didelę epochą sudarė Lietuvos istorijoje, kai lietuviai
@@ -1061,7 +1062,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Algirdas ir Kęstutis pasidalijo Lietuvos vadovavimo darbą pusiau.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1074,7 +1076,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-042- c-004
+    - t-042
+- c-004
   santrauka: 'Abi Algirdo žmonos ir pirmosios žmonos vaikai buvo stačiatikių tikėjimo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1090,7 +1093,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-039- c-005
+    - t-039
+- c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos galybės maksimumas
@@ -1108,7 +1112,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   pagrindžia:
     - t-032
     - t-005
-    - t-006- c-006
+    - t-006
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tie politiniai pokyčiai Vilniu­
@@ -1125,7 +1130,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-007
+    - t-013
+- c-007
   santrauka: 'Algirdas kartais gyvendavo Paneriuose, kurie Balińskio laikais priklausė Vilniaus kapitulai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1143,7 +1149,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-035- c-008
+    - t-035
+- c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kijevas priklausė
@@ -1157,7 +1164,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-009
+    - t-009
+- c-009
   santrauka: 'Algirdas iš senosios Kijevo Rusios įsigijo plačias teritorijas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1172,7 +1180,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019- c-010
+    - t-019
+- c-010
   santrauka: 'Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1187,7 +1196,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-011
+    - t-003
+- c-011
   santrauka: 'Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1208,7 +1218,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
-    - t-004- c-012
+    - t-004
+- c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Betgi yra ir
@@ -1249,7 +1260,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-013
+    - t-020
+- c-013
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mirdamas jis paliko 7 sūnus.
@@ -1263,7 +1275,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-014
+    - t-007
+- c-014
   santrauka: 'Algirdas valdė Lietuvą Vilniuje, o Kęstutis tuo pat metu valdė Trakuose.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1280,7 +1293,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034- c-015
+    - t-034
+- c-015
   santrauka: 'Algirdo ir Kęstučio laikais Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1296,7 +1310,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-037- c-016
+    - t-037
+- c-016
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tik neilgai Lietuvos
@@ -1316,7 +1331,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
-    - t-027- c-017
+    - t-027
+- c-017
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
@@ -1333,7 +1349,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-018
+    - t-018
+- c-018
   santrauka: 'Lietuvos metraščiuose užrašyti Ldk Algirdo žygiai į Maskvą laikomi epinius pasakojimus atitinkančiu siužetu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1352,7 +1369,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-019
+    - t-016
+- c-019
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rem-
@@ -1371,7 +1389,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-041- c-020
+    - t-041
+- c-020
   santrauka: 'Algirdas buvo Seversko kunigaikščio Dmitrijaus Kaributo tėvas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1399,7 +1418,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-021
+    - t-018
+- c-021
   santrauka: 'Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1420,7 +1440,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-030- c-022
+    - t-030
+- c-022
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     « Lietuvos diecezijai » buvo lemta greitai žlugti,
@@ -1437,7 +1458,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-023
+    - t-001
+- c-023
   santrauka: 'Labiau linkstama manyti, kad Algirdas prijungė Kijevą po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1455,7 +1477,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-040- c-024
+    - t-040
+- c-024
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     12 000 žmonių vedini, pakeliui sudeginę Trakų mies­
@@ -1471,7 +1494,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-025
+    - t-017
+- c-025
   santrauka: 'Algirdas leido Romos vienuoliams Vilniuje skelbti evangeliją, o graikų apeigų dvasininkams atlikti savo tikėjimo apeigas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1492,7 +1516,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-036- c-026
+    - t-036
+- c-026
   santrauka: 'Algirdas, laimėjęs sostą ir įsitraukęs į karus su Rusia, netrukus išvyko iš Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1529,7 +1554,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
-    - t-015- c-027
+    - t-015
+- c-027
   santrauka: 'Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1548,7 +1574,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-028
+    - t-003
+- c-028
   santrauka: 'Valdant Ldk Algirdui 1345–1377 m. Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1564,7 +1591,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026- c-029
+    - t-026
+- c-029
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visi jo vaikai, gimę Vitebske, buvo krikštyti rytų Bažny-
@@ -1576,7 +1604,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-030
+    - t-011
+- c-030
   santrauka: 'Algirdas, nelaukdamas pripažinimo ir karūnos iš svetur, vadinosi karaliumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1592,7 +1621,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029- c-031
+    - t-029
+- c-031
   santrauka: 'Algirdo ir Kęstučio palaikų deginimo aprašymai išliko istoriniuose šaltiniuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1606,7 +1636,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-032
+    - t-022
+- c-032
   santrauka: '1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -1621,7 +1652,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-033
+    - t-017
+- c-033
   santrauka: 'Poznanės vyskupas Dobrogostas buvo tarpininkavęs tarp popiežiaus Inocento VI ir didžiojo Lietuvos kunigaikščio Algirdo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1640,7 +1672,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-038- c-034
+    - t-038
+- c-034
   santrauka: 'Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats Vilnius perėjo į Algirdo rankas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1659,7 +1692,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023- c-035
+    - t-023
+- c-035
   santrauka: 'Algirdas buvo Gedimino sūnus ir Jogailos tėvas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1680,7 +1714,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-036
+    - t-012
+- c-036
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Rinkdamas į savo valdžią
@@ -1694,7 +1729,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-037
+    - t-010
+- c-037
   santrauka: 'Algirdas buvo vyriausias iš brolių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1708,7 +1744,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-038
+    - t-015
+- c-038
   santrauka: 'Nuo Algirdo laikų įsigalėjusios tradicijos padėjo Vytautui prijungti rusų žemes.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1726,7 +1763,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024- c-039
+    - t-024
+- c-039
   santrauka: 'Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1747,7 +1785,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-043- c-040
+    - t-043
+- c-040
   santrauka: 'Algirdas nubaudė pranciškonų žudynių vadus ir paskelbė vienuoliams laisvę gyventi bei išpažinti tikėjimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1770,7 +1809,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-044
-    - t-016- c-041
+    - t-016
+- c-041
   santrauka: 'Algirdo valdymo ir rūpesčio dėka Lietuvoje plitusi prekyba palaikė Vilniaus gyvybingumą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1786,7 +1826,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-045- c-042
+    - t-045
+- c-042
   santrauka: 'Kęstutis užleido valdžią Algirdui, nors pats buvo pašalinęs Jaunutį ir, pasak Kojelavičiaus, turėjo daugiau teisių į valdžią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1808,7 +1849,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-046- c-043
+    - t-046
+- c-043
   santrauka: 'Kęstutis ir Algirdas sutarė, kad Algirdas gaus didžiojo kunigaikščio titulą, o kitą valdžią jie dalysis lygiomis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1826,7 +1868,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-047- c-044
+    - t-047
+- c-044
   santrauka: 'Algirdas įsakė kariuomenei sustoti ir pasirengti kautynėms, kai priešo kunigaikščiai rengėsi stoti į mūšį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1841,7 +1884,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-048- c-045
+    - t-048
+- c-045
   santrauka: 'Algirdas, žmonos Julijonos prašymu sutikęs priimti krikščionybę, Vitebsko rusams pastatė porą šventovių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1859,7 +1903,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-049- c-046
+    - t-049
+- c-046
   santrauka: 'Algirdas išvarė Teodorą Karijotaitį iš valdų, užėmė Podolės pilis ir paskyrė Goštautą Podolės seniūnu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1901,7 +1946,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-050- c-047
+    - t-050
+- c-047
   santrauka: 'Algirdas ir Aleksandras Karijotaitis nuniokojo daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė 800 belaisvių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1920,7 +1966,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-051- c-048
+    - t-051
+- c-048
   santrauka: 'Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1941,7 +1988,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-052- c-049
+    - t-052
+- c-049
   santrauka: 'Simonas Olelkaitis citatoje pristatomas kaip Slucko kunigaikštis ir Algirdo proanūkis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1968,7 +2016,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-053- c-050
+    - t-053
+- c-050
   santrauka: 'Narbutas Algirdą vadina Smolensko kunigaikštytės Olgos sūnumi, gimusiu 1296 m., ir jo vardą aiškina kaip „Olgos meilę“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1983,7 +2032,8 @@ Algirdas vaizduojamas kaip LDK valdovas, su Kęstučiu perėmęs Vilniaus kuniga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-054- c-051
+    - t-054
+- c-051
   santrauka: 'Narbutas rašo, kad apie 1331 m. Algirdo žmona Julijona įsakė panaikinti Ragučio maldyklą ir jos vietoje įkūrė cerkvę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

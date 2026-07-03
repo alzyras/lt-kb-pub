@@ -81,7 +81,8 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
   statusas: verified
 
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-002
+  patikimumo_saltinis: ai
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis
@@ -97,6 +98,7 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
   pagrindžia:
     - t-004
     - t-002
+
 - c-003
   santrauka: '1298 m. Brandenburgo komtūras su gausiu būriu sudegino Junigėdos ir Peštvės priešpilius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

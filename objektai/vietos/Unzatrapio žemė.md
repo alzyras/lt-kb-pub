@@ -81,6 +81,7 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Vonsdorfas buvo suvokietintas Dusburgiečio minimo Unzatrapio pavadinimas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

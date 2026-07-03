@@ -123,6 +123,7 @@ Stasys Raštikis buvo Lietuvos kariuomenės vadas, siejamas su diplomatijos ir k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -138,6 +139,7 @@ Stasys Raštikis buvo Lietuvos kariuomenės vadas, siejamas su diplomatijos ir k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -156,6 +158,7 @@ Stasys Raštikis buvo Lietuvos kariuomenės vadas, siejamas su diplomatijos ir k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -171,6 +174,7 @@ Stasys Raštikis buvo Lietuvos kariuomenės vadas, siejamas su diplomatijos ir k
   pagrindžia:
     - t-009
     - t-006
+
 - c-005
   santrauka: '1939 m. balandį Stasys Raštikis dalyvavo Adolfo Hitlerio 50-mečio šventime, o gegužę oficialiai lankėsi Lenkijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -194,6 +198,7 @@ Stasys Raštikis buvo Lietuvos kariuomenės vadas, siejamas su diplomatijos ir k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -211,6 +216,7 @@ Stasys Raštikis buvo Lietuvos kariuomenės vadas, siejamas su diplomatijos ir k
   pagrindžia:
     - t-010
     - t-004
+
 - c-007
   santrauka: 'Stasys Raštikis ir Vincas Vitkauskas motyvavo, kad Lietuva viena negalėtų rimčiau pasipriešinti sovietų karinei mašinai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -227,6 +233,7 @@ Stasys Raštikis buvo Lietuvos kariuomenės vadas, siejamas su diplomatijos ir k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-008
   santrauka: 'Stasys Raštikis ir Vincas Vitkauskas motyvavo, kad Lietuva viena negalėtų rimčiau pasipriešinti sovietų karinei mašinai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

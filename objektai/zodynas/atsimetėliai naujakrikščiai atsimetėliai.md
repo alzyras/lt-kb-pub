@@ -55,6 +55,7 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Sventopelkas paskatino Prūsijos žemės naujakrikščius atsimesti nuo tikėjimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

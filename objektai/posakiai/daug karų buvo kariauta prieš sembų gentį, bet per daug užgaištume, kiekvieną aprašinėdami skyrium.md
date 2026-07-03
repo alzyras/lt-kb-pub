@@ -58,6 +58,7 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
   pagrindžia:
     - t-003
     - t-002
+
 - c-002
   santrauka: 'Kalbėdamas apie Ordino pastangas užgrobti Sembą, Dusburgietis nurodė, kad prieš sembus kariauta daug karų, bet visų aprašyti neverta.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

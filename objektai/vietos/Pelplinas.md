@@ -86,6 +86,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1324 m. Mevėje parengiant Mažesniųjų brolių laiško nuorašą dalyvavo Pelplino abatas Jordanas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

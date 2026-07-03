@@ -99,6 +99,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Jai tarus šiuos žodžius, regėjimas dingo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

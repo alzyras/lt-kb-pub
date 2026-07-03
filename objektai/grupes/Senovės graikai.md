@@ -164,7 +164,8 @@ Senovės graikai šioje žinių bazėje pristatomi daugiausia per Narbuto ir A. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas graikų nepastovumą vertino kaip ydą, lėmusią pasaulietinių ir religinių piktnaudžiavimų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -187,7 +188,8 @@ Senovės graikai šioje žinių bazėje pristatomi daugiausia per Narbuto ir A. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Narbutas rašė, kad graikai iš egiptiečių perėmė dalį dangaus kūnų ir Titanų giminės garbinimo ir išplėtojo savo daugiadievystę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -203,7 +205,8 @@ Senovės graikai šioje žinių bazėje pristatomi daugiausia per Narbuto ir A. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Narbutas rašė, kad graikai ir romėnai turėjo lemties dievybes Sors ir Fatum, siejamas su pasaulio, dievų ir visko valdymu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -218,7 +221,8 @@ Senovės graikai šioje žinių bazėje pristatomi daugiausia per Narbuto ir A. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-005
+    - t-004
+- c-005
   santrauka: 'Narbutas, remdamasis graikų dievų padavimais, rašė, kad Melampas apie 1380 m. pr. Kr. Graikijoje įvedė Bakcho garbinimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -235,7 +239,8 @@ Senovės graikai šioje žinių bazėje pristatomi daugiausia per Narbuto ir A. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-006
+    - t-005
+- c-006
   santrauka: 'Narbutas rašė, kad graikai Šiaurės tautų Apolono garbinimą laikė pagarsėjusiu ir todėl Apoloną vadino Šiauriniu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -250,7 +255,8 @@ Senovės graikai šioje žinių bazėje pristatomi daugiausia per Narbuto ir A. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-007
+    - t-006
+- c-007
   santrauka: 'Narbutas rašė, kad egiptiečiai, finikiečiai, graikai ir romėnai pasakojo apie Plutono vedybas su į pragarą pagrobtos deivės dukterimi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -267,7 +273,8 @@ Senovės graikai šioje žinių bazėje pristatomi daugiausia per Narbuto ir A. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-008
+    - t-007
+- c-008
   santrauka: 'Narbutas rašė, kad graikai, egiptiečiai, romėnai, indai, japonai, slavai, lietuviai ir kitos tautos turėjo dievų Kabirų ritualą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -282,7 +289,8 @@ Senovės graikai šioje žinių bazėje pristatomi daugiausia per Narbuto ir A. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-009
+    - t-008
+- c-009
   santrauka: 'Narbutas rašė, kad senovės graikai iki Periklio laikų Venerą laikė dviem atskiromis žvaigždėmis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -299,7 +307,8 @@ Senovės graikai šioje žinių bazėje pristatomi daugiausia per Narbuto ir A. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-010
+    - t-009
+- c-010
   santrauka: 'Narbutas rašė, kad egiptiečių religinės paslaptys pranoko kitas antikines tautas, o graikai ir romėnai šiuo požiūriu juos mėgdžiojo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -322,7 +331,8 @@ Senovės graikai šioje žinių bazėje pristatomi daugiausia per Narbuto ir A. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-011
+    - t-010
+- c-011
   santrauka: 'Narbutas teigė, kad senovėje žalčius garbino indai, chaldėjai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir kitos tautos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -335,7 +345,8 @@ Senovės graikai šioje žinių bazėje pristatomi daugiausia per Narbuto ir A. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-012
+    - t-011
+- c-012
   santrauka: 'Narbutas rašė, kad antikos graikai ir romėnai Heraklį vadino Alkidu, Minervą Alkida ir turėjo dievybes Alkides.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -347,7 +358,8 @@ Senovės graikai šioje žinių bazėje pristatomi daugiausia per Narbuto ir A. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-013
+    - t-012
+- c-013
   santrauka: 'Narbutas rašė, kad chaldėjai, persai, egiptiečiai, graikai, romėnai ir kitos tautos garbino ugnį kaip dievybę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -363,7 +375,8 @@ Senovės graikai šioje žinių bazėje pristatomi daugiausia per Narbuto ir A. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-014
+    - t-013
+- c-014
   santrauka: 'Narbutas rašė, kad graikai nuo didvyrių laikų šventu laikė tam tikros ąžuolo rūšies medį, paskirtą Jupiteriui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -379,7 +392,8 @@ Senovės graikai šioje žinių bazėje pristatomi daugiausia per Narbuto ir A. 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-015
+    - t-014
+- c-015
   santrauka: 'Narbutas rašė, kad senovės egiptiečiai, graikai ir romėnai statė prabangius aukurus, skirtus atskiriems dievams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

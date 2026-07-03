@@ -80,6 +80,7 @@ Atkūrus Lietuvą sportininkų vieša atsiskyrimo nuo SSRS sporto struktūrų pr
   pagrindžia:
     - t-001
     - t-002
+
 ## Šaltiniai ir įrodymai
 
 Nenurodyta

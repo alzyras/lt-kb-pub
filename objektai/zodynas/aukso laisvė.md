@@ -48,6 +48,7 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Zigmanto laikais Lenkijoje ir Lietuvoje įsigalėjo vadinamoji „aukso laisvė“, leidusi galingiesiems nieko neklausyti ir elgtis kaip tinkama.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

@@ -144,6 +144,7 @@ Lietuvos valstiečių liaudininkų sąjunga išaugo iš kairiojo valstiečių li
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: '1926 m. birželį valstiečiai liaudininkai ir socialdemokratai pirmą kartą suformavo kairiąją valdančiąją koaliciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -161,6 +162,7 @@ Lietuvos valstiečių liaudininkų sąjunga išaugo iš kairiojo valstiečių li
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Spaudžiamas perversmininkų Kazys Grinius, gavęs valstiečių liaudininkų vadovybės pritarimą, atstatydino Mykolo Sleževičiaus vyriausybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -177,6 +179,7 @@ Lietuvos valstiečių liaudininkų sąjunga išaugo iš kairiojo valstiečių li
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -194,6 +197,7 @@ Lietuvos valstiečių liaudininkų sąjunga išaugo iš kairiojo valstiečių li
   pagrindžia:
     - t-006
     - t-007
+
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -213,6 +217,7 @@ Lietuvos valstiečių liaudininkų sąjunga išaugo iš kairiojo valstiečių li
     - t-002
     - t-005
     - t-009
+
 - c-006
   santrauka: 'Po Klaipėdos atplėšimo liaudininkai Jono Černiaus „vieningo darbo“ vyriausybėje gavo dvi ministrų vietas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -230,6 +235,7 @@ Lietuvos valstiečių liaudininkų sąjunga išaugo iš kairiojo valstiečių li
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -247,6 +253,7 @@ Lietuvos valstiečių liaudininkų sąjunga išaugo iš kairiojo valstiečių li
   pagrindžia:
     - t-008
     - t-003
+
 - c-008
   santrauka: '1926 m. birželį valstiečiai liaudininkai ir socialdemokratai sudarė naują valdančiąją koaliciją, prie kurios prisidėjo septyni tautinių mažumų atstovai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

@@ -327,6 +327,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -342,6 +343,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -358,6 +360,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
   pagrindžia:
     - t-003
     - t-019
+
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -377,6 +380,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
     - t-013
     - t-014
     - t-001
+
 - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -391,6 +395,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-006
   santrauka: 'Folkvinas, antrasis Kristaus karių ordino Livonijoje magistras, šešerius metus ragino prijungti jo ordiną prie Teutonų ordino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -407,6 +412,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-007
   santrauka: '1220 metais Lietuvos ir žiemgalių kariuomenė Padauguvyje smogė kalavijuočiams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -422,6 +428,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-008
   santrauka: 'Gotardas Ketleris, Teutonų ordino Livonijoje magistras, patikėjo save, ordiną ir valdas valdovui, prašydamas gynybos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -445,6 +452,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
   pagrindžia:
     - t-011
     - t-009
+
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -467,6 +475,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-010
   santrauka: '1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -483,6 +492,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-011
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -503,6 +513,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
   pagrindžia:
     - t-015
     - t-016
+
 - c-012
   santrauka: 'Folkvinas, antrasis Kristaus karių ordino Livonijoje magistras, šešerius metus ragino prijungti jo ordiną prie Teutonų ordino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -521,6 +532,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-013
   santrauka: '1557 m. iš Vilniaus į Livoniją žygiavo kariuomenė prieš kalavijuočių ordino magistrą Firstembergą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -542,6 +554,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-014
   santrauka: 'Kalavijuočiai iš šiaurės Vytauto jaunystėje buvo vienas iš dviejų galingų priešų, smarkiai puldavusių Lietuvą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -568,6 +581,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-015
   santrauka: 'Folkvinas šešerius metus per pasiuntinius ragino Hermaną iš Zalcos prijungti Kristaus karių ordiną prie Teutonų ordino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -585,6 +599,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-016
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -601,6 +616,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-017
   santrauka: '1236 metais popiežius įsakė Livonijoje esantiems Kristaus karių ordino broliams vilkėti Teutonų ordino drabužius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -622,6 +638,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-018
   santrauka: 'Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovojo su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -642,6 +659,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-019
   santrauka: 'Mūšyje su lietuviais ordino kariuomenė buvo sutriuškinta, o pats magistras žuvo su beveik 20 ordino riterių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -666,6 +684,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-020
   santrauka: 'Livonijos ordino ir Lietuvos sutaikymą bandė tarpininkauti Rygos vyskupas Fridrichas, pasitelkęs popiežiaus Jono XXII autoritetą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -691,6 +710,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-021
   santrauka: 'Livonijos riterių magistras Vilhelmas Fiurstenbergas su beveik visu ordinu atsižadėjo Romos tikėjimo ir perėjo į Liuterio sektą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -715,6 +735,7 @@ Kalavijuočių ordinas buvo 1202–1203 m. žiemą vyskupo priklausomybėje įku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-022
   santrauka: 'Komentare Andriui Algirdaičiui priskiriamas siekis atplėšti Polocką nuo LDK ir 1385 m. spalio 10 d. pasiduoti Livonijos ordinui kaip vasalui.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

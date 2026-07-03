@@ -272,6 +272,7 @@ Ašmena žinių bazėje iškyla kaip Vilniui artima pilies sritis, priklausiusi 
     - t-012
     - t-002
     - t-016
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -288,6 +289,7 @@ Ašmena žinių bazėje iškyla kaip Vilniui artima pilies sritis, priklausiusi 
   pagrindžia:
     - t-003
     - t-010
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -304,6 +306,7 @@ Ašmena žinių bazėje iškyla kaip Vilniui artima pilies sritis, priklausiusi 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-004
   santrauka: '1385 metų rugpjūtį didžiojo magistro Konrado Ciolnerio Rotenšteino pajėgos nuniokojo žemes iki pat Ašmenos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -324,6 +327,7 @@ Ašmena žinių bazėje iškyla kaip Vilniui artima pilies sritis, priklausiusi 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -350,6 +354,7 @@ Ašmena žinių bazėje iškyla kaip Vilniui artima pilies sritis, priklausiusi 
   pagrindžia:
     - t-015
     - t-019
+
 - c-006
   santrauka: '1388 m. Lucke tarp liudytojų minimas Mangaila iš Ašmenos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -365,6 +370,7 @@ Ašmena žinių bazėje iškyla kaip Vilniui artima pilies sritis, priklausiusi 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-007
   santrauka: 'Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -384,6 +390,7 @@ Ašmena žinių bazėje iškyla kaip Vilniui artima pilies sritis, priklausiusi 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-008
   santrauka: 'Prieš vyskupijos įkūrimą Jogaila rytų Lietuvoje aplankė Ašmeną, kur vietiniai žmonės buvo mokomi tikėjimo tiesų ir krikštijami.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -402,6 +409,7 @@ Ašmena žinių bazėje iškyla kaip Vilniui artima pilies sritis, priklausiusi 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -426,6 +434,7 @@ Ašmena žinių bazėje iškyla kaip Vilniui artima pilies sritis, priklausiusi 
   pagrindžia:
     - t-001
     - t-011
+
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -453,6 +462,7 @@ Ašmena žinių bazėje iškyla kaip Vilniui artima pilies sritis, priklausiusi 
   pagrindžia:
     - t-006
     - t-008
+
 - c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -499,6 +509,7 @@ Ašmena žinių bazėje iškyla kaip Vilniui artima pilies sritis, priklausiusi 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-012
   santrauka: 'Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -518,6 +529,7 @@ Ašmena žinių bazėje iškyla kaip Vilniui artima pilies sritis, priklausiusi 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-013
   santrauka: '1385 m. vasarą Prūsų ordinas su didele kariuomene buvo nuėjęs iki Vilniaus ir Ašmenos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -533,6 +545,7 @@ Ašmena žinių bazėje iškyla kaip Vilniui artima pilies sritis, priklausiusi 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-014
   santrauka: 'Vytautas Ašmenoje pastatė šv. Pranciškaus ordino vienuoliams bažnyčią ir vienuolyną, kuriuos dosniai apdovanojo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

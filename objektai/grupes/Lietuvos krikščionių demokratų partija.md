@@ -64,6 +64,7 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
   pagrindžia:
     - t-003
     - t-004
+
 - c-002
   santrauka: 'Po Klaipėdos atplėšimo krikščionys demokratai sąlyginai sugrįžo į valdžią ir Jono Černiaus vyriausybėje gavo dvi ministrų vietas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -81,6 +82,7 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Krikščionys demokratai ir liaudininkai pareikalavo vietoj Antano Merkio ministru pirmininku paskirti krikščionims demokratams artimą Stasį Raštikį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

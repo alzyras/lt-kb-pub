@@ -69,6 +69,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -86,6 +87,7 @@ amziai:
   pagrindžia:
     - t-004
     - t-001
+
 - c-003
   santrauka: '1807 m. Europos žemėlapyje atsirado pusiau nepriklausoma, Napoleono globojama Varšuvos kunigaikštystė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

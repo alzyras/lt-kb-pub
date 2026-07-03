@@ -84,7 +84,8 @@ Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-    - t-006- c-002
+    - t-006
+- c-002
   santrauka: 'Seime atsiradus atstovui, pasakiusiam „veto“, seimas turėdavo iširti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -99,7 +100,8 @@ Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Čartoriskiai siekė panaikinti liberum veto, bet pasipriešinus Rusų ir Prūsų atstovams veto buvo paliktas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -115,7 +117,8 @@ Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Kardinalinių teisių įstatyme liberum veto buvo paliktas nepaliestas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -132,7 +135,8 @@ Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-005
+    - t-004
+- c-005
   santrauka: 'Liberum veto buvo paliktas kartu su karalių elekcija ir bajorijos teise neklausyti karaliaus, jei nevykdomi pacta conventa punktai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

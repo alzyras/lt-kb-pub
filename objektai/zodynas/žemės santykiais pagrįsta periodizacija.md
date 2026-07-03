@@ -67,6 +67,7 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Žemės santykiais pagrįsta periodizacija Lietuvos istoriją skirsto pagal agrarinių santykių kaitą, o ne dinastinius ar tarpvalstybinius santykius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

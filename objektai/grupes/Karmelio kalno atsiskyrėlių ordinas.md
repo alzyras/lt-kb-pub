@@ -52,6 +52,7 @@ Dusburgietis teigia, kad karmelio kalno atsiskyrėlių ordiną bei Mokinių slė
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   santrauka: 'Karmelio kalno atsiskyrėlių ordiną patvirtino popiežius Honorijus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

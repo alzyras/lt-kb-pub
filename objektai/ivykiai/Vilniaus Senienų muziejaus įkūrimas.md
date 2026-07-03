@@ -82,6 +82,7 @@ Nenurodyta
     - t-003
     - t-001
     - t-002
+
 ## Data ir vieta
 
 Tiksli įkūrimo data šioje citatoje nenurodyta. Vieta aiški iš įvykio pavadinimo: Vilnius.

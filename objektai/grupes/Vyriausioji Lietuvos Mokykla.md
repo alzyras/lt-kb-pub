@@ -47,6 +47,7 @@ Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus aka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vyriausiajai Lietuvos Mokyklai priklausė visų kitų Lietuvos krašto mokyklų priežiūra.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

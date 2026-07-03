@@ -93,6 +93,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Jogaila čekų pasiuntiniams pareiškė esąs patenkintas Dievo duota valdžia ir netrokštantis svetimų valdų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -115,6 +116,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Vytautas ilgai dvejojo dėl čekų pasiūlymo priimti karaliaus vainiką, bet nuodugniau apsvarstęs padėtį jį atmetė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

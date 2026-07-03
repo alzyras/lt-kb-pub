@@ -85,6 +85,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: 'Gedimino laiške popiežiui Jonui XXII teigiama, kad Mindaugas su karalyste buvo priėmęs krikščionybę, bet dėl Teutonų ordino nuoskaudų nuo jos atkrito.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -115,6 +116,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-003
   santrauka: 'Foigto Prūsijos istorijos priede nagrinėta Gedimino laiškų popiežiui Jonui XXII, dominikonams, minoritams ir pajūrio miestams klastotė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -144,6 +146,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Balińskis teigė, kad laiškas popiežiui ir kiti laiškai ordinams bei Vokietijos miestams nebuvo parašyti Gedimino žinia ar valia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -171,6 +174,7 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Gediminas laiške popiežiui Jonui XXII prisistatė lietuvių ir daugelio rusėnų karaliumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

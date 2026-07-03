@@ -41,6 +41,7 @@ Vytautas paėmė Oviučio miestą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vytautas tą patį pavasarį paėmė Žitomiro ir Oviučio miestus.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

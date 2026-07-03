@@ -81,6 +81,7 @@ Sovietmečiu Kryžių kalnas tapo tikėjimo laisvės simboliu: valdžiai draudž
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 ## Šaltiniai ir įrodymai
 
 Nenurodyta

@@ -112,6 +112,7 @@ Karigaila buvo Jogailos brolis, Julijonos sūnus ir Mstislavlio kunigaikštis. J
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: 'Karigaila pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -131,6 +132,7 @@ Karigaila buvo Jogailos brolis, Julijonos sūnus ir Mstislavlio kunigaikštis. J
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Karigaila, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -152,6 +154,7 @@ Karigaila buvo Jogailos brolis, Julijonos sūnus ir Mstislavlio kunigaikštis. J
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

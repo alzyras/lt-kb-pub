@@ -44,6 +44,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1 būrio kareivis Šidiškis prašė leidimo pulti lenkus durtuvais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

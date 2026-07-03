@@ -82,6 +82,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Sembos valstiečiai susimokė išžudyti savo kilminguosius ir karvedžiu išsirinko Naudžiotą, Juodučio sūnų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -102,6 +103,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: '1295 m. notangai vėl sukilo, savo kariuomenės vadu išsirinko Sabiną ir Bartenšteino pilyje paėmė į nelaisvę du brolius su jų šeimyna.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

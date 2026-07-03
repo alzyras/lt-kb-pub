@@ -58,7 +58,8 @@ Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas kaip Trakų vardo paplitimo pavyzdį nurodė Trakais vadintą mišką Lydos apskrities Žirmūnų parapijoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -74,7 +75,8 @@ Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Narbutas teigė, kad slaptos dievo Atlaibo šventyklos buvusios Trakuose ir Vilniuje, po abiem miestais esančiuose panašiuose požemiuose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

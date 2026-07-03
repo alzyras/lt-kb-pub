@@ -84,6 +84,7 @@ Hermanas Balkas buvo pirmasis Teutonų ordino magistras Prūsijos žemėje. 1230
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: '1237 m. didysis magistras Hermanas pasiuntė Prūsijos magistrą Hermaną Balką su broliais ir ginklanešiais į Livoniją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -108,6 +109,7 @@ Hermanas Balkas buvo pirmasis Teutonų ordino magistras Prūsijos žemėje. 1230
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Hermanas Balkas buvo Hermano iš Zalcos atsiųstas eiti magistro pareigas po brolio Konrado prašymo atsiųsti daugiau brolių ir ginklanešių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -129,6 +131,7 @@ Hermanas Balkas buvo pirmasis Teutonų ordino magistras Prūsijos žemėje. 1230
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: '1230 m. didysis magistras Hermanas iš Zalcos pasiuntė Hermaną Balką eiti magistro pareigų Prūsijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

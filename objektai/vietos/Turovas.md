@@ -91,6 +91,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Turovas buvo vienas žymiausių Polesės miestų kartu su Pinsku ir David Gorodoku.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -106,6 +107,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Po Skirmanto mirties Pisimantas sėdo valdyti Turovą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

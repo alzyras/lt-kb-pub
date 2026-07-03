@@ -51,6 +51,7 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Broliai ant kalvos prie tilto į Baigos pilį pastatė Šnikenbergo pilį ir įkurdino joje brolių bei karingų vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

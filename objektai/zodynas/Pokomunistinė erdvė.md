@@ -49,6 +49,7 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kitos pokomunistinės valstybės, kaip ir atsikūrusi Lietuva, turėjo vytis Vakarus ir perimti daugybę naujovių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

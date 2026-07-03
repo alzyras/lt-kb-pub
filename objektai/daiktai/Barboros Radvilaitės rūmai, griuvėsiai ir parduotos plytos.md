@@ -98,6 +98,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Barboros Radvilaitės rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

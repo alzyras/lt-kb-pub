@@ -70,6 +70,7 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: '1260 m. Livonijos ir Prūsijos broliai ketino nugabenti maisto Švento Jurgio pilies broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

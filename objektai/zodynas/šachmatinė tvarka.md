@@ -56,6 +56,7 @@ Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Šachmatine tvarka šaudant vienu metu šaudydavo kas antras karys arba padalinys.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

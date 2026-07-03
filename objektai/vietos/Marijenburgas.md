@@ -63,6 +63,7 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1309 m. didžiajam magistrui persikėlus į Prūsus, Marijenburgas tapo ordino centru.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

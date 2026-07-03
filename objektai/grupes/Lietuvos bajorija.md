@@ -224,7 +224,8 @@ Lietuvos bajorija XV a. iškilo kaip nauja socialinė ir politinė jėga, rėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-004
+    - t-007
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     To­
@@ -245,7 +246,8 @@ Lietuvos bajorija XV a. iškilo kaip nauja socialinė ir politinė jėga, rėmus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-    - t-012- c-005
+    - t-012
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vaito,
@@ -265,7 +267,8 @@ Lietuvos bajorija XV a. iškilo kaip nauja socialinė ir politinė jėga, rėmus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-    - t-011- c-006
+    - t-011
+- c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Viena to priežastis, žinoma, buvo unija su Lenkija, kur
@@ -282,7 +285,8 @@ Lietuvos bajorija XV a. iškilo kaip nauja socialinė ir politinė jėga, rėmus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
-    - t-002- c-007
+    - t-002
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O
@@ -300,7 +304,8 @@ Lietuvos bajorija XV a. iškilo kaip nauja socialinė ir politinė jėga, rėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-008
+    - t-013
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau šis Žygimanto galios išaugimas, matyt, bus lėmęs
@@ -317,7 +322,8 @@ Lietuvos bajorija XV a. iškilo kaip nauja socialinė ir politinė jėga, rėmus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
-    - t-005- c-009
+    - t-005
+- c-009
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bajorijos atsiunčiamoms de-
@@ -331,7 +337,8 @@ Lietuvos bajorija XV a. iškilo kaip nauja socialinė ir politinė jėga, rėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-010
+    - t-016
+- c-010
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytautas tam nesiprie-
@@ -348,7 +355,8 @@ Lietuvos bajorija XV a. iškilo kaip nauja socialinė ir politinė jėga, rėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-011
+    - t-001
+- c-011
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Baigdamas jį Žygimanto Augusto mirtimi
@@ -366,7 +374,8 @@ Lietuvos bajorija XV a. iškilo kaip nauja socialinė ir politinė jėga, rėmus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
-    - t-015- c-012
+    - t-015
+- c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     214
@@ -390,7 +399,8 @@ Lietuvos bajorija XV a. iškilo kaip nauja socialinė ir politinė jėga, rėmus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-    - t-014- c-013
+    - t-014
+- c-013
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jų vietą
@@ -408,7 +418,8 @@ Lietuvos bajorija XV a. iškilo kaip nauja socialinė ir politinė jėga, rėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-014
+    - t-006
+- c-014
   santrauka: 'Įvadinio straipsnio autorius teigia, kad neigiamas požiūris į sulenkėjusią Lietuvos bajoriją atitolino nuo jos kūrybos ir istorijos tyrimų supratimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -423,7 +434,8 @@ Lietuvos bajorija XV a. iškilo kaip nauja socialinė ir politinė jėga, rėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-015
+    - t-020
+- c-015
   santrauka: 'Įvadinio straipsnio autorius XVI–XVIII a. lietuvį istorinėje Lietuvoje apibrėžia kaip bajorą, gynusį politines laisves ir Lietuvos Statuto teises.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -439,7 +451,8 @@ Lietuvos bajorija XV a. iškilo kaip nauja socialinė ir politinė jėga, rėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-016
+    - t-021
+- c-016
   santrauka: 'Įvadinio straipsnio autorius teigia, kad lenkiškai parašytas Narbuto veikalas išryškino lietuvių ir koroniažų etnokultūrinius skirtumus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -453,7 +466,8 @@ Lietuvos bajorija XV a. iškilo kaip nauja socialinė ir politinė jėga, rėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024- c-017
+    - t-024
+- c-017
   santrauka: 'Narbutas perteikia autoriaus pagyrimą Lietuvos bajorams, kurie, vėl paklusę Apaštališkajam sostui, esą nusipelnė didžio vardo Bažnyčioje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -469,7 +483,8 @@ Lietuvos bajorija XV a. iškilo kaip nauja socialinė ir politinė jėga, rėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-018
+    - t-022
+- c-018
   santrauka: 'Narbutas teigė, kad keli aiškiai lietuviški herbai pateko į Lenkijos herbynus veikiausiai atsikėlus juos naudojusioms šeimoms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -485,7 +500,8 @@ Lietuvos bajorija XV a. iškilo kaip nauja socialinė ir politinė jėga, rėmus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023- c-019
+    - t-023
+- c-019
   santrauka: 'Narbutas aiškino, kad herbo vardas „Kiniglis“ lietuvių kalboje reiškia triušį, o ne Neseckio nurodytą kiškį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

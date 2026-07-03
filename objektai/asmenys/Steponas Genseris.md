@@ -65,6 +65,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Steponas Genseris buvo auksakalys, kurį karaliaus dekretas atleido nuo Vilniaus miesto jurisdikcijos ir cechų valdžios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

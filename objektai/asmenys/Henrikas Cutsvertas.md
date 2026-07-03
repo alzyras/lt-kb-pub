@@ -99,6 +99,7 @@ Henrikas Cutsvertas buvo Baigos komtūras, minimas žygiuose prieš Lietuvą. Š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Jazbutui sužeidus Henriko Cutsverto žirgą, Henrikas Cutsvertas įniršęs perdūrė Jazbutą ietimi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -113,6 +114,7 @@ Henrikas Cutsvertas buvo Baigos komtūras, minimas žygiuose prieš Lietuvą. Š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -133,6 +135,7 @@ Henrikas Cutsvertas buvo Baigos komtūras, minimas žygiuose prieš Lietuvą. Š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Karaliaučiaus komtūras Bertoldas paskyrė Baigos komtūrą Henriką Cutsvertą kariuomenės vadu žygiui į Lietuvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -152,6 +155,7 @@ Henrikas Cutsvertas buvo Baigos komtūras, minimas žygiuose prieš Lietuvą. Š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-005
   santrauka: 'Henrikas Cutsvertas, prūso įspėtas apie gresiančią išdavystę Lietuvoje, paprašė patarimo, kaip išvengti pavojaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -169,6 +173,7 @@ Henrikas Cutsvertas buvo Baigos komtūras, minimas žygiuose prieš Lietuvą. Š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'Henrikas Cutsvertas vadovavo užpakalinei vorai ir ietimi persmeigė lietuvių kunigaikštį Jazbutą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

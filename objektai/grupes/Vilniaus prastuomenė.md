@@ -95,6 +95,7 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |

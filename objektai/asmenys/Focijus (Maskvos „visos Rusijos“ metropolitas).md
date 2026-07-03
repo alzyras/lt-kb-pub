@@ -119,6 +119,7 @@ Focijus buvo graikų kilmės Maskvos kandidatas, 1408 m. Konstantinopolio patria
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-002
   santrauka: 'Focijus Lietuvos stačiatikiams siuntė raštus, kuriuose kaltino Gregorijų Cemblaką ir reikalavo jį ištremti iš Lietuvos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -138,6 +139,7 @@ Focijus buvo graikų kilmės Maskvos kandidatas, 1408 m. Konstantinopolio patria
   pagrindžia:
     - t-007
     - t-005
+
 - c-003
   santrauka: 'Po Gregorijaus Cemblako mirties Vytautas susitaikė su Maskvos metropolitu Focijumi, o Kijevo metropolija nebuvo atnaujinta.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -155,6 +157,7 @@ Focijus buvo graikų kilmės Maskvos kandidatas, 1408 m. Konstantinopolio patria
   pagrindžia:
     - t-010
     - t-004
+
 - c-004
   santrauka: '1408 m. Konstantinopolio patriarchas metropolitu paskyrė Maskvos kandidatą graiką Focijų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -176,6 +179,7 @@ Focijus buvo graikų kilmės Maskvos kandidatas, 1408 m. Konstantinopolio patria
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-005
   santrauka: 'Focijus savo rezidencija pasirinko Maskvą, nors Vytautas reikalavo, kad jis apsigyventų Kijeve.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -197,6 +201,7 @@ Focijus buvo graikų kilmės Maskvos kandidatas, 1408 m. Konstantinopolio patria
   pagrindžia:
     - t-002
     - t-001
+
 - c-006
   santrauka: 'Po Gregorijaus Cemblako mirties Vytautas 1421 m. pripažino Maskvos Focijų Kijevo metropolitu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

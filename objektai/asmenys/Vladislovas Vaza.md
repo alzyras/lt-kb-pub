@@ -115,6 +115,7 @@ Vladislovas Vaza buvo Zigmanto Vazos sūnus, kurį dalis Rusijos bojarinų 1610 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -127,6 +128,7 @@ Vladislovas Vaza buvo Zigmanto Vazos sūnus, kurį dalis Rusijos bojarinų 1610 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-003
   santrauka: '1632 m. Vladislovas Vaza ėmė reformuoti Lietuvos ir Lenkijos kariuomenes, siekdamas padidinti jų ugnies galią.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -147,6 +149,7 @@ Vladislovas Vaza buvo Zigmanto Vazos sūnus, kurį dalis Rusijos bojarinų 1610 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   santrauka: 'Nuo Vladislovo Vazos lietuviai XVII a. ėmė rinkti karalius bendrai su lenkais, todėl atskiri Lietuvos seimai nyko.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -164,6 +167,7 @@ Vladislovas Vaza buvo Zigmanto Vazos sūnus, kurį dalis Rusijos bojarinų 1610 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-005
   santrauka: 'Vladislovo Vazos laikais karų buvo kiek mažiau negu kitais Vazų valdymo periodo tarpsniais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -178,6 +182,7 @@ Vladislovas Vaza buvo Zigmanto Vazos sūnus, kurį dalis Rusijos bojarinų 1610 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-006
   santrauka: 'Vladislovas Vaza buvo bendrai išrinktas lietuvių ir lenkų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -191,6 +196,7 @@ Vladislovas Vaza buvo Zigmanto Vazos sūnus, kurį dalis Rusijos bojarinų 1610 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-007
   santrauka: '1633 m. rugsėjį Vladislovas Vaza atvyko į frontą su 15 tūkst. kariuomene.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -207,6 +213,7 @@ Vladislovas Vaza buvo Zigmanto Vazos sūnus, kurį dalis Rusijos bojarinų 1610 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-008
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

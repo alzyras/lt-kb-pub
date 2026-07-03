@@ -50,6 +50,7 @@ Tačiau Lietuvai tapus visateise valstybe atsivėrė naujos rinkos, prasidėjo d
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Lietuvai tapus visateise valstybe atsivėrė naujos rinkos, prasidėjo demonopolizacija, padidėjo efektyvumas ir prekių bei paslaugų pasiūla.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

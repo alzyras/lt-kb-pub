@@ -97,6 +97,7 @@ Ernestas Galvanauskas siejamas su 1921–1923 m. Lietuvos diplomatinėmis ir pol
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -114,6 +115,7 @@ Ernestas Galvanauskas siejamas su 1921–1923 m. Lietuvos diplomatinėmis ir pol
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Ernestas Galvanauskas ir Jonas Budrys nustebo, kad Lietuvos karininkai nenoriai rašėsi į Klaipėdos žygį, nelaikydami jo kova už tėvynę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -130,6 +132,7 @@ Ernestas Galvanauskas siejamas su 1921–1923 m. Lietuvos diplomatinėmis ir pol
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Ernestas Galvanauskas nota pakvietė nustatyti Lenkijos rytines sienas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -148,6 +151,7 @@ Ernestas Galvanauskas siejamas su 1921–1923 m. Lietuvos diplomatinėmis ir pol
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-005
   santrauka: 'Ernestas Galvanauskas planavo paruošti Klaipėdos akcijos politinę apsaugą ir diplomatinę gynybą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -164,6 +168,7 @@ Ernestas Galvanauskas siejamas su 1921–1923 m. Lietuvos diplomatinėmis ir pol
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-006
   santrauka: 'Ernestas Galvanauskas nusistatė Klaipėdos kraštą užimti jėga, manydamas, kad Lietuva jo negaus per Tautų Sąjungą ar Ambasadorių konferenciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

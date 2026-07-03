@@ -99,6 +99,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: '1411 m. rudenį Vavelio katedroje buvo pakabinta 51 kryžiuočių ir jų talkininkų vėliava, paimta 1409–1411 m. kare.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -114,6 +115,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -127,6 +129,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -139,6 +142,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   santrauka: 'Bychovco kronikoje teigiama, kad Žalgirio mūšyje laimėtos kryžiuočių vėliavos buvo pakabintos Vilniaus katedroje.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

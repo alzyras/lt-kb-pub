@@ -81,6 +81,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: '1855 m. Aleksandrui II pradėjus liberalias reformas, krašto šviesuomenė tikėjosi atkurti iki 1830-1831 m. sukilimo klestėjusį Vilniaus universitetą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

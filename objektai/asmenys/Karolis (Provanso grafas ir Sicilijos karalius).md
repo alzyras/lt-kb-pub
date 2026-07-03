@@ -65,6 +65,7 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: '1265 m. popiežius Klemensas IV apvainikavo Karolį Sicilijos karaliumi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -82,6 +83,7 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: '1268 m. Karolis, Sicilijos karalius, paėmė į nelaisvę ir nugalabijo Konradiną, imperatoriaus Fridricho II anūką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

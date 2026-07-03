@@ -75,6 +75,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Magdeburgo teisių išdava buvo aukštesnė miestiečių luomo padėtis negu nelaisvų kaimo žmonių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

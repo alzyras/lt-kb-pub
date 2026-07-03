@@ -69,6 +69,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -83,6 +84,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 ## Pastabos
 
 - terminas sutampa su žodyno vartosena, bet šiame gabale aiškiai kalbama apie konkretų gyvulių pastatą.

@@ -69,6 +69,7 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: '1570 m. nuostolių sąraše nurodyta, kad už talerius, Lenkijoje vertintus po 30 grašių, Lietuvoje mokėta po 25 lietuviškus grašius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -97,6 +98,7 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: '1571 m. rugpjūčio 18 d. Vilniuje 666 kapoms lietuviškomis monetomis nurodytos 91 florino, 19 grašių ir 6 lietuviškų denarų išlaidos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -61,6 +61,7 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Sofija buvo Vytauto duktė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

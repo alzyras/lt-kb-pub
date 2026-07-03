@@ -79,6 +79,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: 'Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -100,6 +101,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Per svetimšalių puolimą Žemutinėje pilyje keliose vietose įsiplieskė ugnis ir apėmė medinius statinius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -118,6 +120,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Žemutinė pilis taip pat vadinta Kreivąja pilimi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -130,6 +133,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-005
   santrauka: 'Žemutinė pilis, vadinta Kreivąja, driekėsi apačioje, joje buvo kunigaikščių menės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

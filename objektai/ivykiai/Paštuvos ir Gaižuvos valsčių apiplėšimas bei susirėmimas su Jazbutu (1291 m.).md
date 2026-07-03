@@ -74,6 +74,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

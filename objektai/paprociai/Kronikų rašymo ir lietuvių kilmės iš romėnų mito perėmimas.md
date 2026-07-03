@@ -105,6 +105,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -123,6 +124,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Perimant Vakarų kultūros idėjas Lietuvoje susipažinta su kronikų rašymo tradicija ir perimtas mitas apie valdovų kildinimą iš kito krašto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

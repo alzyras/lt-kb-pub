@@ -189,6 +189,7 @@ Jurgis Radvila buvo kardinolas, Vilniaus ir Krokuvos vyskupas, Mikalojaus Radvil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -212,6 +213,7 @@ Jurgis Radvila buvo kardinolas, Vilniaus ir Krokuvos vyskupas, Mikalojaus Radvil
   pagrindžia:
     - t-012
     - t-013
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -245,6 +247,7 @@ Jurgis Radvila buvo kardinolas, Vilniaus ir Krokuvos vyskupas, Mikalojaus Radvil
   pagrindžia:
     - t-003
     - t-009
+
 - c-004
   santrauka: 'Jurgis Radvila paveikslo „Oršos mūšis“ fragmente vaizduojamas kaip buože užsimojęs lauko etmonas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -274,6 +277,7 @@ Jurgis Radvila buvo kardinolas, Vilniaus ir Krokuvos vyskupas, Mikalojaus Radvil
   pagrindžia:
     - t-017
     - t-008
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -298,6 +302,7 @@ Jurgis Radvila buvo kardinolas, Vilniaus ir Krokuvos vyskupas, Mikalojaus Radvil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-006
   santrauka: 'Jurgis Radvila buvo kardinolas, Vilniaus vyskupijos nuolatinis administratorius, Olykos ir Nesvyžiaus kunigaikštis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -326,6 +331,7 @@ Jurgis Radvila buvo kardinolas, Vilniaus ir Krokuvos vyskupas, Mikalojaus Radvil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-007
   santrauka: 'Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -356,6 +362,7 @@ Jurgis Radvila buvo kardinolas, Vilniaus ir Krokuvos vyskupas, Mikalojaus Radvil
   pagrindžia:
     - t-002
     - t-014
+
 - c-008
   santrauka: 'Jurgis Radvila, tuometinis Kijevo vaivada ir LDK taurininkas, vadovavo ne mažiau kaip 8000 lietuvių pašauktinių bajorų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -377,6 +384,7 @@ Jurgis Radvila buvo kardinolas, Vilniaus ir Krokuvos vyskupas, Mikalojaus Radvil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-009
   santrauka: 'Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -401,6 +409,7 @@ Jurgis Radvila buvo kardinolas, Vilniaus ir Krokuvos vyskupas, Mikalojaus Radvil
   pagrindžia:
     - t-006
     - t-004
+
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -432,6 +441,7 @@ Jurgis Radvila buvo kardinolas, Vilniaus ir Krokuvos vyskupas, Mikalojaus Radvil
   pagrindžia:
     - t-007
     - t-019
+
 - c-011
   santrauka: 'Jurgio Radvilos lėšomis Vilniuje buvo pastatytas vienas didžiausių miesto namų, vadintas Kardinalija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -453,6 +463,7 @@ Jurgis Radvila buvo kardinolas, Vilniaus ir Krokuvos vyskupas, Mikalojaus Radvil
   pagrindžia:
     - t-011
     - t-010
+
 - c-012
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -466,6 +477,7 @@ Jurgis Radvila buvo kardinolas, Vilniaus ir Krokuvos vyskupas, Mikalojaus Radvil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-013
   santrauka: 'Jurgis Radvila metė prieš Čeliadniną lengvąją kavaleriją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

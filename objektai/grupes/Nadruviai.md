@@ -168,6 +168,7 @@ Nadruviai buvo Nadruvoje gyvenusi vakarinių baltų grupė, kalbos požiūriu pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-002
   santrauka: 'Viduryje Nadruva priklausė, atrodo, Mindaugo Lietuvai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -190,6 +191,7 @@ Nadruviai buvo Nadruvoje gyvenusi vakarinių baltų grupė, kalbos požiūriu pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-003
   santrauka: 'Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį prie Bartenšteino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -206,6 +208,7 @@ Nadruviai buvo Nadruvoje gyvenusi vakarinių baltų grupė, kalbos požiūriu pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-004
   santrauka: 'Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, o šis nusiaubė Retavos valsčių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -224,6 +227,7 @@ Nadruviai buvo Nadruvoje gyvenusi vakarinių baltų grupė, kalbos požiūriu pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Septinta — Nadruva197, kurioje [gyveno] nadruviai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -241,6 +245,7 @@ Nadruviai buvo Nadruvoje gyvenusi vakarinių baltų grupė, kalbos požiūriu pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -264,6 +269,7 @@ Nadruviai buvo Nadruvoje gyvenusi vakarinių baltų grupė, kalbos požiūriu pr
   pagrindžia:
     - t-007
     - t-006
+
 - c-007
   santrauka: 'Po Tirsko pasidavimo daug kilmingų Nadruvos vyrų su šeimynomis atėjo pas brolius, priėmė krikštą ir išsižadėjo stabų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -288,6 +294,7 @@ Nadruviai buvo Nadruvoje gyvenusi vakarinių baltų grupė, kalbos požiūriu pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-008
   santrauka: 'Katinavos kalva nadruvių buvo laikoma šventa (Pratorius M., Deliciae..., kn.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -301,6 +308,7 @@ Nadruviai buvo Nadruvoje gyvenusi vakarinių baltų grupė, kalbos požiūriu pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-009
   santrauka: 'M. Tepenas, remdamasis rašytiniais šaltiniais, dar XIX a. laikė skalvius ir nadruvius lietuviais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -315,6 +323,7 @@ Nadruviai buvo Nadruvoje gyvenusi vakarinių baltų grupė, kalbos požiūriu pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-010
   santrauka: 'Katinavos apylinkėse esanti Katinavos kalva nadruvių buvo laikoma šventa.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

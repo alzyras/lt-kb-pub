@@ -698,6 +698,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-038
+
 - c-002
   santrauka: '1447 m. privilegijoje Kazimieras pasižadėjo išlaikyti Lietuvą Vytauto laikų ribose, todėl Podolė su Voluine turėjo likti Lietuvai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -714,6 +715,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -727,6 +729,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -748,6 +751,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   pagrindžia:
     - t-027
     - t-034
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -781,6 +785,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   pagrindžia:
     - t-028
     - t-033
+
 - c-006
   santrauka: '1395 m. Vytautas paskyrė savo vietininką Podolėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -796,6 +801,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -811,6 +817,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-008
   santrauka: 'Goštautas vedė Bučiacką iš Podolės ir priėmė Romos katalikų tikėjimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -832,6 +839,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -853,6 +861,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -872,6 +881,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-011
   santrauka: 'Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, kurie per Dniestrą drįsdavo keltis tik sutelkę dideles pajėgas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -893,6 +903,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
     - t-018
     - t-014
     - t-017
+
 - c-012
   santrauka: 'Vorsklos mūšyje žuvo Vytauto bičiulis Spytkas iš Melštyno, valdęs Podoliją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -912,6 +923,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
+
 - c-013
   santrauka: 'Kai kurių autorių manymu, Podolės vaivada Goštautas vėliau tapo vienuoliu ir pirmuoju Vilniaus vyskupu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -933,6 +945,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-014
   santrauka: 'Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė Podolės vaivadiją ir kitas LDK teritorijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -949,6 +962,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-015
   santrauka: 'Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas pilis Podolėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -984,6 +998,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   pagrindžia:
     - t-032
     - t-003
+
 - c-016
   santrauka: 'Kijevo kunigaikštystė ir Podolė, tuomet nusidriekusi iki Dniepro ir Dniestro žiočių, priklausė Lietuvai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1007,6 +1022,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
+
 - c-017
   santrauka: 'Petras Goštautas, vedęs Bučiacką iš Podolės, priėmė krikštą ir pagonišką dievaičių buveinę pavertė Šv. Petro bažnyčia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1030,6 +1046,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-035
+
 - c-018
   santrauka: '1621 m. liepos 14 d. LDK kariuomenė atžygiavo į bendrą stovyklą prie Orinino, netoli Podolės Kameneco.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -1050,6 +1067,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-019
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1072,6 +1090,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   pagrindžia:
     - t-007
     - t-023
+
 - c-020
   santrauka: 'Drauge su Podole į Lietuvos valstybę buvo įjungta ir Kijevo kunigaikštystė.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1090,6 +1109,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-021
   santrauka: 'Podolės bajorai, vadovaujami Gregoro Kierdėjaus, atplėšė Podolę nuo Lietuvos ir perdavė Lenkijai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1116,6 +1136,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   pagrindžia:
     - t-021
     - t-019
+
 - c-022
   santrauka: 'Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų pilių Podolėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1135,6 +1156,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-023
   santrauka: 'Netrukus Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1150,6 +1172,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-024
   santrauka: 'Jadvyga anksčiau kėlė protesto balsą dėl Podolijos, rūpindamasi, kad jos auka nenueitų niekais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1167,6 +1190,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   pagrindžia:
     - t-026
     - t-036
+
 - c-025
   santrauka: '1362 m. prie Mėlynųjų Vandenų Algirdas sumušė totorius ir laimėjo Podoliją bei Dniepro žemupį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1187,6 +1211,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
+
 - c-026
   santrauka: 'Stryjkovskis konflikte su lenkais dėl Podolės ir Volinijos gynė lietuvių poziciją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1205,6 +1230,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-027
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1222,6 +1248,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-028
   santrauka: 'Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1241,6 +1268,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-029
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1258,6 +1286,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-030
   santrauka: 'Podolė ne visa perėjo į tiesioginę Vytauto valdžią, nes ji nuo seno buvo glaudžiai susijusi su Lenkija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -1276,6 +1305,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-037
+
 - c-031
   santrauka: 'Vytautas, vėl prijungęs Podolę prie Lietuvos, jos pilyse ir miestuose paliko lietuvių įgulas bei lietuvių kilmės vietininkus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1292,6 +1322,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-039
+
 - c-032
   santrauka: 'Jogailai išvykus iš Lietuvos į Lenkiją, Boleslovas su kariuomene patraukė į Podolę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1315,6 +1346,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-040
+
 - c-033
   santrauka: 'Lietuviai reikalavo sugrąžinti Podolę, kurią, jų teigimu, Lietuvos kunigaikščiai ginklu išvadavo iš skitų vergovės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1347,6 +1379,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-041
+
 - c-034
   santrauka: 'Lenkai tvirtino, kad Podolė Lenkijai atiteko dėl Kazimiero Didžiojo užkariavimo ir paveldėjimo teisių, o ne atplėšus ją nuo Lietuvos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1378,6 +1411,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-042
+
 - c-035
   santrauka: 'Lietuviai teigė, kad dėl Jogailos neapgalvotų pažadų Podolė buvo atplėšta nuo Lietuvos ir prijungta prie Lenkijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1396,6 +1430,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-043
+
 - c-036
   santrauka: 'Visa Lietuva rengėsi karui dėl Podolės, bet apsiribojo grasinimais ir kariuomenės telkimu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1427,6 +1462,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-044
+
 - c-037
   santrauka: 'Dėl perdėtų žinių pasklido neteisingas gandas, kad Podolėje jau prasidėjo karas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1448,6 +1484,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-045
+
 - c-038
   santrauka: 'Lietuvos metraštyje Jonas Žadivydas vadinamas kunigaikščiu, valdžiusiu Podolės žemę.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1463,6 +1500,7 @@ Podolė Lietuvos istorijos šaltiniuose minima kaip istorinė teritorija, susiju
   patikimumo_saltinis: ai
   pagrindžia:
     - t-046
+
 - c-039
   santrauka: 'Lietuvos metraštis Vytautą vadina didžiuoju kunigaikščiu ir rašo, kad pavasariop jis ištraukė į Podolės žemę.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

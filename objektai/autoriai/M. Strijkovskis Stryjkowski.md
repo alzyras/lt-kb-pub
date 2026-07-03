@@ -187,6 +187,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -215,6 +216,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
     - t-030
     - t-010
     - t-031
+
 - c-003
   santrauka: 'Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -250,6 +252,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-004
   santrauka: 'Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -276,6 +279,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-005
   santrauka: 'Stryjkowskis nurodė, kad Švitrigaila piliai užimti pasinaudojo rusų vienuolių, vadintų čiornais, išdavyste.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -305,6 +309,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-006
   santrauka: 'Strijkovskis klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -344,6 +349,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-007
   santrauka: 'Strijkovskis, aprašydamas Vilniaus apgultį, teigė, kad Mikalojus Moskorovskis su lenkais narsiai gynė Aukštutinę pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -392,6 +398,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
+
 - c-008
   santrauka: 'Strijkovskis užsiminė apie mūšį, po kurio prie Sudervėlės upelio liko lietuvių sumuštų kryžiuočių kapavietė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -411,6 +418,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-009
   santrauka: 'Strijkovskis minėjo pagonių šventyklą Antakalnyje, kurios vietoje, pagal padavimą, Goštautas pastatydino Šv. Petro bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -427,6 +435,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-010
   santrauka: 'Strijkovskis klydo teigdamas, kad miškas lietuviškai vadinamas lauku ir iš šio žodžio kilo Lukiškių pavadinimas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -445,6 +454,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
+
 - c-011
   santrauka: 'Strijkovskis neužsiminė apie tariamą Goštauto vienuolystę ir vyskupystę, todėl ši aplinkybė tekste atmetama.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -472,6 +482,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-012
   santrauka: 'Strijkovskis teigė, kad Gedimino palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -493,6 +504,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-013
   santrauka: 'Strijkovskis prie Vilniaus apsupties metu nukautųjų priskyrė Narimantą ir pateikė Długoszo pasakojimą apie jo mirtį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -529,6 +541,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
+
 - c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -560,6 +573,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
     - t-013
     - t-003
     - t-008
+
 - c-015
   santrauka: 'Stryjkowskis savo kronikoje aiškino Šventaragio vardo kilmę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -578,6 +592,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-016
   santrauka: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -633,6 +648,7 @@ M. Strijkovskis žinių bazėje pristatomas per jo kronikos liudijimus apie Viln
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-017
   santrauka: 'Strijkovskis plačiai aprašė gudrybes, kurių Kęstutis ėmėsi puldamas Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

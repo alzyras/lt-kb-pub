@@ -86,7 +86,8 @@ Ignas Onacevičius minimas kaip istorikas, rinkęs istorinius dokumentus Karalia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-002
+    - t-002
+- c-002
   santrauka: 'Michałas Balińskis veikalo pratarmėje dėkojo Ignui Onacevičiui už pagalbą istoriniais dokumentais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -102,7 +103,8 @@ Ignas Onacevičius minimas kaip istorikas, rinkęs istorinius dokumentus Karalia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-003
+    - t-001
+- c-003
   santrauka: 'Ignotas Onacevičius dėstė Vilniaus universitete tuo metu, kai, Narbuto biografinio pasakojimo kontekste, buvo didelis susidomėjimas istorija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -119,7 +121,8 @@ Ignas Onacevičius minimas kaip istorikas, rinkęs istorinius dokumentus Karalia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Teodoras Narbutas laišką istorikui Ignotui Onacevičiui pradėjo deklaracija „Aš nerašau lietuvių tautos istorijos <...>“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

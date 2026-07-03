@@ -171,6 +171,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -187,6 +188,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -204,6 +206,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -218,6 +221,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Lietuvos istorikai teigė, kad lenkai herbus pasisavino iš čekų, o šie juos perėmė iš romėnų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -237,6 +241,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'Lenkai didžiuodamiesi pabrėždavo, kad Lietuvos bajorijai davė savo herbus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -255,6 +260,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -288,6 +294,7 @@ Nenurodyta
   pagrindžia:
     - t-009
     - t-007
+
 - c-008
   santrauka: 'Gedimino stulpai ir Jogailos kryžius XVI a. viduryje buvo pavaizduoti herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -308,6 +315,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -329,6 +337,7 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-011
+
 - c-010
   santrauka: 'Horodlės unijoje 47 pirmaeilinės Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

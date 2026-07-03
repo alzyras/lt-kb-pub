@@ -64,6 +64,7 @@ Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigian
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Urbono VI bulės originalas su vertimu į lenkų kalbą išspausdintas leidinyje „Dzieje Dobroczynności“ 1822 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

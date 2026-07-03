@@ -109,6 +109,7 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
   pagrindžia:
     - t-003
     - t-004
+
 - c-002
   santrauka: 'Į Vilnių atvykusiems neturtingiems jėzuitams iš Braunsbergo buvo sunku įsitvirtinti Lietuvos sostinėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -128,6 +129,7 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
   pagrindžia:
     - t-005
     - t-001
+
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

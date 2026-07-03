@@ -79,6 +79,7 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Sizditės pilies vardas galimai sietinas su Spasčių kalno prie Girgždūtės vardu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

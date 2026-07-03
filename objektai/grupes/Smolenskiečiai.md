@@ -53,6 +53,7 @@ Tos vė­ liavos buvusios smolenskiečių.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Smolenskiečiai Oršoje pasitiko kunigaikštį Mykolą ir pasidavė didžiajam kunigaikščiui Žygimantui bei jo sūnui Mykolui.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

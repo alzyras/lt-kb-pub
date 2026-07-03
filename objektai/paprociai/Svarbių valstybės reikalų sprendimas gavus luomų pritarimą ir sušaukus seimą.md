@@ -68,6 +68,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Karalius sušaukė seimą Lenčicoje, o seimas pasiuntė Gnezno arkivyskupą Mikalojų Kurovskį skatinti magistrą taikiai baigti ginčą su Vytautu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

@@ -87,6 +87,7 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
   pagrindžia:
     - t-002
     - t-003
+
 - c-002
   santrauka: 'Karalius Zigmantas I buvo Jono II, 1519 m. paskelbto Vilniaus vyskupu, tėvas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

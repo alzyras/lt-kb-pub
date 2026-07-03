@@ -115,6 +115,7 @@ Konradas iš Tirbergo Vyresnysis buvo devintas Prūsijos žemės magistras, nuo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Konradas iš Tirbergo Vyresnysis subūrė 1500 raitelių, puolė Sasavos pilį, ją užėmė ir sudegino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -132,6 +133,7 @@ Konradas iš Tirbergo Vyresnysis buvo devintas Prūsijos žemės magistras, nuo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-003
   santrauka: 'Konradas iš Tirbergo Vyresnysis pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -150,6 +152,7 @@ Konradas iš Tirbergo Vyresnysis buvo devintas Prūsijos žemės magistras, nuo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Konradas iš Tirbergo Vyresnysis su 1500 raitelių įsiveržė į Sūduvą ir nusiaubė Kimenavos valsčių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -169,6 +172,7 @@ Konradas iš Tirbergo Vyresnysis buvo devintas Prūsijos žemės magistras, nuo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   santrauka: 'Po Konrado iš Tirbergo Vyresniojo mirties 1279 m. didysis magistras Konradą iš Foichtvangeno paskyrė Prūsijos ir Livonijos brolių magistru.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -186,6 +190,7 @@ Konradas iš Tirbergo Vyresnysis buvo devintas Prūsijos žemės magistras, nuo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -206,6 +211,7 @@ Konradas iš Tirbergo Vyresnysis buvo devintas Prūsijos žemės magistras, nuo 
   pagrindžia:
     - t-009
     - t-012
+
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -223,6 +229,7 @@ Konradas iš Tirbergo Vyresnysis buvo devintas Prūsijos žemės magistras, nuo 
   pagrindžia:
     - t-010
     - t-007
+
 - c-008
   santrauka: 'Po Konrado iš Tirbergo Vyresniojo mirties 1279 m. didysis magistras Konradą iš Foichtvangeno paskyrė Prūsijos ir Livonijos brolių magistru.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -238,6 +245,7 @@ Konradas iš Tirbergo Vyresnysis buvo devintas Prūsijos žemės magistras, nuo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-009
   santrauka: 'Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo Vyresnysis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

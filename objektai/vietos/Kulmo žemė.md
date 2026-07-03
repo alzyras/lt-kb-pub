@@ -201,6 +201,7 @@ Kulmo žemė – XIII a. šaltiniuose minima teritorija prie Vyslos, tarp Osos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -219,6 +220,7 @@ Kulmo žemė – XIII a. šaltiniuose minima teritorija prie Vyslos, tarp Osos i
   pagrindžia:
     - t-011
     - t-018
+
 - c-003
   santrauka: 'Magistras Hermanas pasiuntė Konradą iš Landsbergo ir dar vieną brolį apžiūrėti Kulmo žemės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -239,6 +241,7 @@ Kulmo žemė – XIII a. šaltiniuose minima teritorija prie Vyslos, tarp Osos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-004
   santrauka: '1222 ir 1230 m. dokumentuose Kulmo žemė apibūdinama kaip teritorija tarp Osos, Vyslos ir Drėvantos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -252,6 +255,7 @@ Kulmo žemė – XIII a. šaltiniuose minima teritorija prie Vyslos, tarp Osos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-005
   santrauka: '„Pranešime“ kalbama apie Vokiečių ordino pakvietimą ir Kulmo žemės užrašymą broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -266,6 +270,7 @@ Kulmo žemė – XIII a. šaltiniuose minima teritorija prie Vyslos, tarp Osos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-006
   santrauka: 'Prūsai su didele kariuomene nusiaubė Kulmo žemę ir patraukė prie Osos pakrantėje stovėjusios Belichovo pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -284,6 +289,7 @@ Kulmo žemė – XIII a. šaltiniuose minima teritorija prie Vyslos, tarp Osos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-007
   santrauka: 'Prūsai po kelerių metų nusiaubė Kulmo žemę, pavertė ją dykra, o krikščionis išžudė arba išsivarė į nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -304,6 +310,7 @@ Kulmo žemė – XIII a. šaltiniuose minima teritorija prie Vyslos, tarp Osos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -319,6 +326,7 @@ Kulmo žemė – XIII a. šaltiniuose minima teritorija prie Vyslos, tarp Osos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-009
   santrauka: 'Sūduvių vadas Skomantas su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -335,6 +343,7 @@ Kulmo žemė – XIII a. šaltiniuose minima teritorija prie Vyslos, tarp Osos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-010
   santrauka: 'Kulmo žemė rašytiniuose šaltiniuose minima nuo 1222 m., o jos vardas įsitvirtino XIII a. 3–4 dešimtmečiais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -348,6 +357,7 @@ Kulmo žemė – XIII a. šaltiniuose minima teritorija prie Vyslos, tarp Osos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-011
   santrauka: 'XIII a., prieš kryžiuočių atsikraustymą į Pavyslį, Kulmo žemė vėl buvo prūsų rankose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -362,6 +372,7 @@ Kulmo žemė – XIII a. šaltiniuose minima teritorija prie Vyslos, tarp Osos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-012
   santrauka: 'Ordino įsikūrimas Mazovijos kunigaikščio Konrado dovanotoje Kulmo žemėje laikomas Ordino veiklos Prūsijoje pagrindu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -379,6 +390,7 @@ Kulmo žemė – XIII a. šaltiniuose minima teritorija prie Vyslos, tarp Osos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-013
   santrauka: 'Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą, taip siekdamas padaryti Kulmo žemę saugesnę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -398,6 +410,7 @@ Kulmo žemė – XIII a. šaltiniuose minima teritorija prie Vyslos, tarp Osos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-014
   santrauka: 'Istoriografijoje vyrauja nuomonė, kad Dusburgietis perdėjo Kulmo žemės nusiaubimo mastą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -412,6 +425,7 @@ Kulmo žemė – XIII a. šaltiniuose minima teritorija prie Vyslos, tarp Osos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-015
   santrauka: 'Dusburgietis nutyli lenkų ir kryžiuočių ginčus dėl Kulmo žemės dovanojimo pobūdžio bei apimties.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -429,6 +443,7 @@ Kulmo žemė – XIII a. šaltiniuose minima teritorija prie Vyslos, tarp Osos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-016
   santrauka: 'Druzigeriui Torunėje paskelbus klaidingą žinią apie kariuomenės žūtį, Kulmo žemėje ir Lenkijoje kilo didelis krikščionių raudojimas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -447,6 +462,7 @@ Kulmo žemė – XIII a. šaltiniuose minima teritorija prie Vyslos, tarp Osos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-017
   santrauka: 'Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -467,6 +483,7 @@ Kulmo žemė – XIII a. šaltiniuose minima teritorija prie Vyslos, tarp Osos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-018
   santrauka: 'Dusburgietis teigia, kad jis subūrė du tūkstančius puikiausių karių ir, perplukdinęs juos per Vyslą, įsibrovė į Kulmo žemę, per dvi dienas bei dvi naktis paėmė visa, kas dar buvo likę, o visa kita pavertė pelenais bei degėsiais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

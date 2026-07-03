@@ -286,6 +286,7 @@ Marienburgas minimas kaip Vokiečių ordino administracinis centras, nuo 1309 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -304,6 +305,7 @@ Marienburgas minimas kaip Vokiečių ordino administracinis centras, nuo 1309 m.
   pagrindžia:
     - t-007
     - t-016
+
 - c-003
   santrauka: 'Marienburgo pilis Nogato deš.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -318,6 +320,7 @@ Marienburgas minimas kaip Vokiečių ordino administracinis centras, nuo 1309 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą puolamos pilies sienų aukštį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -330,6 +333,7 @@ Marienburgas minimas kaip Vokiečių ordino administracinis centras, nuo 1309 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Nuo 1309 m. Marienburgas buvo vienas iš Ordino administracinių centrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -347,6 +351,7 @@ Marienburgas minimas kaip Vokiečių ordino administracinis centras, nuo 1309 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-006
   santrauka: 'Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla, paskui per jūros įlanką įplaukė į Nemuną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -369,6 +374,7 @@ Marienburgas minimas kaip Vokiečių ordino administracinis centras, nuo 1309 m.
   pagrindžia:
     - t-009
     - t-015
+
 - c-007
   santrauka: 'Henrikui von Plauenui Marienburge surinkus apie 5000 vyrų įgulą, liepos 25 d. atvykę Jogaila ir Vytautas tvirtovės nebeįstengė paimti.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -387,6 +393,7 @@ Marienburgas minimas kaip Vokiečių ordino administracinis centras, nuo 1309 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-008
   santrauka: '1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške Steponas Batoras sutiko atidėti muito rinkimą iki seimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -424,6 +431,7 @@ Marienburgas minimas kaip Vokiečių ordino administracinis centras, nuo 1309 m.
   pagrindžia:
     - t-013
     - t-003
+
 - c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -439,6 +447,7 @@ Marienburgas minimas kaip Vokiečių ordino administracinis centras, nuo 1309 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-010
   santrauka: 'Skirgaila Marienburge buvo draugiškai ir vaišingai priimtas, nes Ordinas veikiausiai žinojo ar nujautė jo pasiuntinystės tikslus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -456,6 +465,7 @@ Marienburgas minimas kaip Vokiečių ordino administracinis centras, nuo 1309 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-011
   santrauka: '1280 m. Santyro pilis buvo perkelta į naują vietą ir pavadinta Marienburgu, tai yra Šventosios Marijos pilimi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -476,6 +486,7 @@ Marienburgas minimas kaip Vokiečių ordino administracinis centras, nuo 1309 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-012
   santrauka: 'Vytauto kariuomenę išretino ne tik Žalgirio kautynės, bet ir prie Marienburgo prasidėjusios ligos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -491,6 +502,7 @@ Marienburgas minimas kaip Vokiečių ordino administracinis centras, nuo 1309 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-013
   santrauka: 'Ordino dokumentų nuorašas į Marienburgą galėjo patekti defektuotas ir nepilnas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -506,6 +518,7 @@ Marienburgas minimas kaip Vokiečių ordino administracinis centras, nuo 1309 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-014
   santrauka: 'Vytautas Marienburge surengė dukters Sofijos palydėtuves prieš jos santuoką su Maskvos kunigaikščiu Vasilijumi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -536,6 +549,7 @@ Marienburgas minimas kaip Vokiečių ordino administracinis centras, nuo 1309 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-015
   santrauka: 'Lietuvos metraštyje Vytautui būnant pas magistrą Marienburge, pas jį atvyko daug lietuvių kunigaikščių ir bajorų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

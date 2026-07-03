@@ -59,6 +59,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Per šešerių metų paliaubas Vasilijus pasilaikė Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

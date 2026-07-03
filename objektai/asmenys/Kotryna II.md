@@ -84,6 +84,7 @@ Kotryna II, Anhalt-Cerbsto kunigaikštytė vokietaitė, perėmė valdžią Rusij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -101,6 +102,7 @@ Kotryna II, Anhalt-Cerbsto kunigaikštytė vokietaitė, perėmė valdžią Rusij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Po Petro III pašalinimo ir nužudymo valdžią Rusijoje perėmė Kotryna II, Anhalt-Cerbsto kunigaikštytė vokietaitė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -119,6 +121,7 @@ Kotryna II, Anhalt-Cerbsto kunigaikštytė vokietaitė, perėmė valdžią Rusij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Karalius siūlė Kotrynai II užleisti jos vaikaičiui Konstantinui sostą, kad ji paliktų seimo padarytas reformas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -135,6 +138,7 @@ Kotryna II, Anhalt-Cerbsto kunigaikštytė vokietaitė, perėmė valdžią Rusij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Kotryna II valdė 1762-1796 m., o jos laikais Rusija pradėjo vadovauti rytų Europos politikai ir kištis į centro bei vakarų Europos konfliktus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

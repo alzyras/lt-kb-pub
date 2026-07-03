@@ -347,7 +347,8 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024- c-002
+    - t-024
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tame pat seime dalis Lietuvos ponų, pasipiktinusių lenkais, grą-
@@ -363,7 +364,8 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-    - t-015- c-003
+    - t-015
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip Vy-
@@ -378,7 +380,8 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
-    - t-010- c-004
+    - t-010
+- c-004
   santrauka: 'Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose, o kita - Nesvyžiuje ir Olykoje Voluinėje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -391,7 +394,8 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-005
+    - t-016
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiame anuomet garsiame fabrike išlieta labai daug pabūk­
@@ -409,7 +413,8 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023- c-006
+    - t-023
+- c-006
   santrauka: 'Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -426,7 +431,8 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-007
+    - t-013
+- c-007
   santrauka: 'Gedimino ar Algirdo laikais Voluinė buvo Lietuvos politinėje įtakoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -442,7 +448,8 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-008
+    - t-008
+- c-008
   santrauka: 'Voluinė labiausiai integravosi į Lietuvos Didžiosios Kunigaikštijos gyvenimą, o Vytautas ją ėmė laikyti tėvonijos dalimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -465,7 +472,8 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
-    - t-019- c-009
+    - t-019
+- c-009
   santrauka: 'Žygimantas Augustas prie Lenkijos prijungė Voluinės, Kijevo ir Podolės vaivadijas bei Palenkę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -480,7 +488,8 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-010
+    - t-002
+- c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XVI a. viduryje naujas madas atneš Vilniaus Žemuti-
@@ -497,7 +506,8 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
-    - t-014- c-011
+    - t-014
+- c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     laikyti tėvonijos dalimi. Vėliau Voluinė apskritai tapo šalutinių Gedimi-
@@ -514,7 +524,8 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-012
+    - t-022
+- c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Man atrodo, kad jei Lietuvo­
@@ -546,7 +557,8 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-    - t-007- c-013
+    - t-007
+- c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Čia gotika tapo
@@ -562,7 +574,8 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-014
+    - t-018
+- c-014
   santrauka: '1340 m. Vytenio ir Gedimino laikų plėtros kontekste prie Lietuvos buvo prijungta Voluinė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -580,7 +593,8 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026- c-015
+    - t-026
+- c-015
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mindaugo valstybės reikalai po krikšto ir karūnavimosi**
@@ -594,7 +608,8 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-016
+    - t-006
+- c-016
   santrauka: '1248 m. Mindaugo opozicija į pagalbą pasitelkė Livonijos ordiną ir Voluinę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -609,7 +624,8 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-017
+    - t-003
+- c-017
   santrauka: 'Po paskutinio karo Voluinėje Jogaila išlaisvino lietuvių didikus Rumbautą ir Goštautą ir pasiuntė juos Švitrigailai į Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -636,7 +652,8 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
-    - t-025- c-018
+    - t-025
+- c-018
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1219 m. Voluinės ir Lietuvos kunigaikščių sutartyje (sudarytoje taip
@@ -648,7 +665,8 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-019
+    - t-009
+- c-019
   santrauka: 'Višnioveckiai telkė Bresto vaivadijos bajoriją, pasitelkdami šalininkus, tarnus ir rekrūtus iš savo dvarų Voluinėje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -668,7 +686,8 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-020
+    - t-021
+- c-020
   santrauka: 'Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose, o kita - Nesvyžiuje ir Olykoje Voluinėje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -685,7 +704,8 @@ Voluinė šiame šaltinyje siejama su Lietuvos valdovų veikla Rusios žemėse i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-021
+    - t-011
+- c-021
   santrauka: 'Švitrigailos privilegijos nuoraše nurodyta, kad Ostapui Kropotkovui herbas duotas kartu su Podbužo dvaru Voluinėje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

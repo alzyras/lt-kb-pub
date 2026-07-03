@@ -154,7 +154,8 @@ Treniota buvo XIII a. LDK veikėjas, Mindaugo varžovas ir žemaičių karo su L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Treniota veikė išvien su Nalšios kunigaikščiu Daumantu, kuris 1263 m. nužudė Mindaugą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -170,7 +171,8 @@ Treniota buvo XIII a. LDK veikėjas, Mindaugo varžovas ir žemaičių karo su L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-003
+    - t-004
+- c-003
   santrauka: '1264 m. Mindaugo šalininkai nužudė Treniotą, o Lietuvos valdovu tapo Mindaugo sūnus Vaišelga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -184,7 +186,8 @@ Treniota buvo XIII a. LDK veikėjas, Mindaugo varžovas ir žemaičių karo su L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Po 1260 m. Durbės mūšio žemaičiai, tarpininkaujant Treniotai, siūlė Mindaugui atsimesti nuo krikščionybės ir kariauti su Livonija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -200,7 +203,8 @@ Treniota buvo XIII a. LDK veikėjas, Mindaugo varžovas ir žemaičių karo su L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-005
+    - t-005
+- c-005
   santrauka: '1262 m. Treniotos vadovaujama didelė Mindaugo kariuomenė nusiaubė Ordino užnugarį Pavyslyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -214,7 +218,8 @@ Treniota buvo XIII a. LDK veikėjas, Mindaugo varžovas ir žemaičių karo su L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-006
+    - t-002
+- c-006
   santrauka: 'Treniota nedelsdamas griebėsi ginklo, siekdamas narsa ir sėkme nenusileisti savo tėvui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -232,7 +237,8 @@ Treniota buvo XIII a. LDK veikėjas, Mindaugo varžovas ir žemaičių karo su L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-007
+    - t-006
+- c-007
   santrauka: 'Treniota sutartą dieną slaptai atvedė kariuomenę iš Žemaitijos ir kartu su Daumantu naktį įsiveržė į Mindaugo rūmus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -253,7 +259,8 @@ Treniota buvo XIII a. LDK veikėjas, Mindaugo varžovas ir žemaičių karo su L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-008
+    - t-007
+- c-008
   santrauka: 'Keturi Mindaugo asmeninės sargybos kariai nužudė Treniotą, kai dar nebuvo praėję nė metai nuo jo viešpatavimo pradžios.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -271,7 +278,8 @@ Treniota buvo XIII a. LDK veikėjas, Mindaugo varžovas ir žemaičių karo su L
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-009
+    - t-008
+- c-009
   santrauka: 'Narbutas pasakoja, kad po Mindaugo žūties dėl grobio susikivirčijęs Žemaičių Treniota nužudė Polocko kunigaikštį Tautvilą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

@@ -65,6 +65,7 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vidivarijų vardas aiškinamas kaip įvairių tautų sambūrio bendruomenės vardas, o ne vienos tautos giminės vardas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

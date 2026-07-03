@@ -67,6 +67,7 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 ir ten pamatę, kuo broliai gyvena ir kaip jie gyvena, paklausė, kuo vardu jų pilis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

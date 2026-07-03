@@ -74,6 +74,7 @@ Sudegė abiejų pilių papiliai.
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -89,7 +90,8 @@ Sudegė abiejų pilių papiliai.
   statusas: verified
 
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-003
+  patikimumo_saltinis: ai
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1293 pats ordino magistras dviem atvejais puolė Junigėdą, sude­
@@ -105,8 +107,4 @@ Sudegė abiejų pilių papiliai.
   statusas: verified
 
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai## Ryšiai
-
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/magistras]]
+  patikimumo_saltinis: ai

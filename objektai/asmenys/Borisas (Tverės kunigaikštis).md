@@ -90,6 +90,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

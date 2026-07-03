@@ -82,6 +82,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Valdovo privilegijos 1387, 1413, 1434 ir 1447 m. palaikė bajoriją kaip atskirą ir stiprėjantį visuomenės sluoksnį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

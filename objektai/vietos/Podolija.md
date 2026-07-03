@@ -117,6 +117,7 @@ Podolija Lietuvos istorijos žinių bazėje siejama su Lietuvos valstybės pieti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-002
   santrauka: 'Po 1362 m. Mėlynųjų Vandenų mūšio Podolijoje įsigalėjo Algirdo giminaičiai Karijotai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -131,6 +132,7 @@ Podolija Lietuvos istorijos žinių bazėje siejama su Lietuvos valstybės pieti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Vytautas tuo metu paėmė Podoliją ir įgijo įtakos aukščiausiai Lenkijos valdžiai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -152,6 +154,7 @@ Podolija Lietuvos istorijos žinių bazėje siejama su Lietuvos valstybės pieti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -171,6 +174,7 @@ Podolija Lietuvos istorijos žinių bazėje siejama su Lietuvos valstybės pieti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-005
   santrauka: 'Vytauto laikais Podolijoje buvo daug dvarų ir ūkio centrų, nes ši sritis buvo labiau apgyventa.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -188,6 +192,7 @@ Podolija Lietuvos istorijos žinių bazėje siejama su Lietuvos valstybės pieti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -203,6 +208,7 @@ Podolija Lietuvos istorijos žinių bazėje siejama su Lietuvos valstybės pieti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-007
   santrauka: 'Vorsklos mūšyje žuvo Vytauto bičiulis Spytkas iš Melštyno, valdęs Podoliją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -222,6 +228,7 @@ Podolija Lietuvos istorijos žinių bazėje siejama su Lietuvos valstybės pieti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-008
   santrauka: 'Jadvyga anksčiau kėlė protesto balsą dėl Podolijos, rūpindamasi, kad jos auka nenueitų niekais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -238,6 +245,7 @@ Podolija Lietuvos istorijos žinių bazėje siejama su Lietuvos valstybės pieti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-009
   santrauka: 'Algirdo laikų Lietuvos valstybė pietuose apėmė plačią Podoliją, nusitęsusią link Juodosios jūros stepių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

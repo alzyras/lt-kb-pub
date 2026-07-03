@@ -46,6 +46,7 @@ Bandymo pabėgti atveju būtų ištremtas, savo eilėmis girdamas ir liaupsinda�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Ossolińskis veikale „Wiadomości Historyczno-Krytyczne“ patvirtino, kad eilėmis buvo šlovinamas Rotundas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

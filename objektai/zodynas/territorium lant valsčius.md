@@ -54,6 +54,7 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Valsčių sudarė pilis, laukai, pievos ir miškeliai su bajorų kaimais bei žemdirbių sodžiais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

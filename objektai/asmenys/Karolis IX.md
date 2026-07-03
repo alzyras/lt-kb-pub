@@ -117,6 +117,7 @@ Karolis IX buvo Švedijos karalius, minimas 1605 m. Salaspilio (Kirkcholmo) mū�
   pagrindžia:
     - t-007
     - t-003
+
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -136,6 +137,7 @@ Karolis IX buvo Švedijos karalius, minimas 1605 m. Salaspilio (Kirkcholmo) mū�
   pagrindžia:
     - t-001
     - t-006
+
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -151,6 +153,7 @@ Karolis IX buvo Švedijos karalius, minimas 1605 m. Salaspilio (Kirkcholmo) mū�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Karolis Sudermanas pasiuntė 2400 karių pristatyti apsiaustai švedų kariuomenei maisto ir šaudmenų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -167,6 +170,7 @@ Karolis IX buvo Švedijos karalius, minimas 1605 m. Salaspilio (Kirkcholmo) mū�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   santrauka: 'Salaspilio mūšyje Švedijos karalius Karolis IX vos nepateko į nelaisvę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

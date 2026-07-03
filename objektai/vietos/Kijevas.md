@@ -893,7 +893,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-032- c-002
+    - t-032
+- c-002
   santrauka: '1411 metų pavasarį Vytautas su Jogaila keliavo per Lietuvos rytų pakraščius iki Kijevo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -912,7 +913,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
-    - t-045- c-003
+    - t-045
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo Brastos bažnytinės unijos
@@ -926,7 +928,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-    - t-024- c-004
+    - t-024
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Podolėje Karijotaičiai
@@ -944,7 +947,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   pagrindžia:
     - t-027
     - t-022
-    - t-015- c-005
+    - t-015
+- c-005
   santrauka: 'Žygimantas Augustas prie Lenkijos prijungė Kijevo vaivadiją kartu su Palenke, Voluine ir Podole.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -960,7 +964,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
-    - t-020- c-006
+    - t-020
+- c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Susitaikinęs Jogaila su Vytautu, stengėsi jį, pagaliau, su­
@@ -975,7 +980,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
-    - t-003- c-007
+    - t-003
+- c-007
   santrauka: 'Per Kijevą Vilnius palaikė prekybinius ryšius su Rytais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1003,7 +1009,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-047
-    - t-035- c-008
+    - t-035
+- c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kada iš Vladimiro Kijevas buvo atimtas, Vytautas išlaikė
@@ -1016,7 +1023,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-042- c-009
+    - t-042
+- c-009
   santrauka: 'Ignacas Danilavičius, buvęs Vilniaus universiteto profesorius, Kijeve vadovavo Teisės katedrai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1035,7 +1043,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-010
+    - t-009
+- c-010
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pats Vytautas, Krokuvoje praleidęs 1399 pavasarį^28 , vykdė
@@ -1049,7 +1058,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-011
+    - t-008
+- c-011
   santrauka: 'Gerokai prieš XIII amžių pietų Rusioje klestėjo senasis Kijevas, vadintas Rytų apeigų tikėjimo lopšiu ir buvęs garsios monarchijos sostine.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1066,7 +1076,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-033- c-012
+    - t-033
+- c-012
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kroku­
@@ -1085,7 +1096,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-    - t-018- c-013
+    - t-018
+- c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
@@ -1101,7 +1113,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-040
-    - t-006- c-014
+    - t-006
+- c-014
   santrauka: 'Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdytą Kijevą ir atėmė jį iš Aukso ordos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -1114,7 +1127,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-038- c-015
+    - t-038
+- c-015
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip bėglys, prie jo pri­
@@ -1130,7 +1144,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
-    - t-037- c-016
+    - t-037
+- c-016
   santrauka: '1395 m. Vytautas atėmė Kijevą iš Vladimiro ir atidavė jį Skirgailai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1145,7 +1160,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-017
+    - t-017
+- c-017
   santrauka: '1414–1416 metais Edygos vadovaujami totoriai smarkiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1159,7 +1175,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-018
+    - t-021
+- c-018
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ir Algirdas, ir Maskvos kunigaikštis tuo
@@ -1177,7 +1194,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   pagrindžia:
     - t-044
     - t-011
-    - t-023- c-019
+    - t-023
+- c-019
   santrauka: 'Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1204,7 +1222,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-    - t-013- c-020
+    - t-013
+- c-020
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet einant karštoms
@@ -1224,7 +1243,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
-    - t-016- c-021
+    - t-016
+- c-021
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos
@@ -1239,7 +1259,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
-    - t-004- c-022
+    - t-004
+- c-022
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LDK būtent Vytauto
@@ -1256,7 +1277,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
-    - t-010- c-023
+    - t-010
+- c-023
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tarp Aleksan­
@@ -1273,7 +1295,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-024
+    - t-005
+- c-024
   santrauka: 'Gediminas, užkariavimais pasiekęs žemes už Kijevo, įsakė pastatyti pilį Vilniuje ir perkėlė savo buveinę iš Trakų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1305,7 +1328,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-025
+    - t-014
+- c-025
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
@@ -1319,7 +1343,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-041
-    - t-043- c-026
+    - t-043
+- c-026
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     plotus valdžiusi Kijevo
@@ -1338,7 +1363,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034- c-027
+    - t-034
+- c-027
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kijeviečiams gi-
@@ -1363,7 +1389,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   pagrindžia:
     - t-046
     - t-029
-    - t-036- c-028
+    - t-036
+- c-028
   santrauka: 'Cituojamame metraštyje teigiama, kad Lietuvos miestai buvo valdomi Kijevo, Černigovo, Smolensko ir Polocko kunigaikščių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1394,7 +1421,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-039- c-029
+    - t-039
+- c-029
   santrauka: 'Po sąmokslininkų puolimo Švitrigaila paspruko į Polocką ir perėmė Kijevo bei kelias kitas sritis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1411,7 +1439,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-048- c-030
+    - t-048
+- c-030
   santrauka: 'Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1437,7 +1466,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-049- c-031
+    - t-049
+- c-031
   santrauka: 'Užkariavus Kijevą, Volynę ir didelę Seversko dalį, Kijevas atsidūrė Lietuvos kunigaikščio valdžioje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1457,7 +1487,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-050- c-032
+    - t-050
+- c-032
   santrauka: 'Vytautas iš Kijevo su kariuomene tyliai patraukė į Azovą ir prie Azovo persikėlė per Doną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1474,7 +1505,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-051- c-033
+    - t-051
+- c-033
   santrauka: 'Ostrogiškis už keturiasdešimties mylių nuo Kijevo pavijo su grobiu grįžtantį priešą ir jį sumušė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1500,7 +1532,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-052- c-034
+    - t-052
+- c-034
   santrauka: 'Algirdo sūnus Vladimiras gavo Kijevą kaip savo dalį.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -1518,7 +1551,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-053- c-035
+    - t-053
+- c-035
   santrauka: 'Lietuvos metraštyje pasakojama, kad kunigaikštis Vladimiras atvyko iš Kijevo pas Vytautą, kuris tais pačiais metais jį iškėlė iš Kijevo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -1537,7 +1571,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-054- c-036
+    - t-054
+- c-036
   santrauka: 'Skirgaila po puotos susirgo Miloslavičiuose ir, grįžęs į Kijevą, septintą dieną mirė.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -1556,7 +1591,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-055- c-037
+    - t-055
+- c-037
   santrauka: 'Vytauto vadovaujamos LDK ir sąjungininkų pajėgos 1399 m. liepos pabaigoje išžygiavo iš Kijevo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -1578,7 +1614,8 @@ Kijevas Lietuvos istorijos žinių bazėje siejamas su LDK politine įtaka Rusio
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-056- c-038
+    - t-056
+- c-038
   santrauka: 'Narbutas Perkūno stabo garsumą X a. siejo su Vladimiro pastatytais tokiais pat stabais Kijeve ir Naugarde.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

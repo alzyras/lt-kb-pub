@@ -147,6 +147,7 @@ Kazimieras Karigaila buvo kunigaikštis, Vilniaus puolimo metu vadovavęs miesto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -172,6 +173,7 @@ Kazimieras Karigaila buvo kunigaikštis, Vilniaus puolimo metu vadovavęs miesto
   pagrindžia:
     - t-003
     - t-005
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -213,6 +215,7 @@ Kazimieras Karigaila buvo kunigaikštis, Vilniaus puolimo metu vadovavęs miesto
   pagrindžia:
     - t-004
     - t-010
+
 - c-004
   santrauka: 'Kazimieras Karigaila buvo palaidotas katedroje, o šalia jo iškilmingai palaidotas Aleksandras Vygantas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -233,6 +236,7 @@ Kazimieras Karigaila buvo kunigaikštis, Vilniaus puolimo metu vadovavęs miesto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-005
   santrauka: 'Kazimieras Karigaila žuvo mūšio lauke, bėgdamas gelbėtis į Aukštutinę pilį ir priešų neatpažintas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -263,6 +267,7 @@ Kazimieras Karigaila buvo kunigaikštis, Vilniaus puolimo metu vadovavęs miesto
   pagrindžia:
     - t-006
     - t-002
+
 - c-006
   santrauka: '1396 m. Vytauto privilegija Kazimierui Karigailai, kaip mirusiam jo broliui, numatė kasdienes skaitytines mišias.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -313,6 +318,7 @@ Kazimieras Karigaila buvo kunigaikštis, Vilniaus puolimo metu vadovavęs miesto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-007
   santrauka: 'Kazimieras Karigaila buvo palaidotas katedroje, šalia vėliau iškilmingai palaidoto mirusiojo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

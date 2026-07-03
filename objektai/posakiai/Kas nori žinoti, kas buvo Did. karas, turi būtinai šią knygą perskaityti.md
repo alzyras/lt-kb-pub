@@ -49,6 +49,7 @@ Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |

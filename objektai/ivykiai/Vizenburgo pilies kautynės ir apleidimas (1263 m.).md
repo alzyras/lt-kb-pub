@@ -76,6 +76,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -95,6 +96,7 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
+
 - c-003
   santrauka: '1263 m. Vizenburgo pilies gynėjai, pristigę maisto, su ginklanešiais paliko pilį ir slapta pasitraukė Mazovijos link.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -113,6 +115,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Vizenburgo pilies kautynėse prūsai prie Vangrapės įveikė brolius ir nukovė dvidešimt brolių bei visą jų kariuomenę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -104,6 +104,7 @@ Nenurodyta
   pagrindžia:
     - t-004
     - t-002
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -121,6 +122,7 @@ Nenurodyta
   pagrindžia:
     - t-007
     - t-005
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -138,6 +140,7 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-006
+
 - c-004
   santrauka: 'Lietuviai nebepretendavo į Minsko Lietuvą, bet neįsivaizdavo savo valstybės be istorinės sostinės Vilniaus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

@@ -214,6 +214,7 @@ Rusėnai buvo LDK slavų tauta, susiformavusi stačiatikiškose senrusių žemė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -230,6 +231,7 @@ Rusėnai buvo LDK slavų tauta, susiformavusi stačiatikiškose senrusių žemė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'LDK raštinėje pradėjo formuotis rusėnų kalba, skyrusi ją nuo vienuolynuose vartotos bulgarų kilmės slavų bažnytinės kalbos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -246,6 +248,7 @@ Rusėnai buvo LDK slavų tauta, susiformavusi stačiatikiškose senrusių žemė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'LDK rusėnai save vadino rusais, suvokė kaip vieną etninę grupę ir Lietuvos valdovą laikė savu valdovu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -261,6 +264,7 @@ Rusėnai buvo LDK slavų tauta, susiformavusi stačiatikiškose senrusių žemė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -276,6 +280,7 @@ Rusėnai buvo LDK slavų tauta, susiformavusi stačiatikiškose senrusių žemė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-006
   santrauka: 'Pranciškus Skorina buvo iš rusėnų kultūrinės aplinkos kilęs pirmasis Lietuvos spaustuvininkas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -292,6 +297,7 @@ Rusėnai buvo LDK slavų tauta, susiformavusi stačiatikiškose senrusių žemė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -306,6 +312,7 @@ Rusėnai buvo LDK slavų tauta, susiformavusi stačiatikiškose senrusių žemė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -326,6 +333,7 @@ Rusėnai buvo LDK slavų tauta, susiformavusi stačiatikiškose senrusių žemė
   pagrindžia:
     - t-007
     - t-009
+
 - c-009
   santrauka: 'Mokslininkų aiškinimu, rusėnų ir žemaičių žemėse įkurdinti Lietuvos valdovų žmonės galėjo būti vadinami leičiais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

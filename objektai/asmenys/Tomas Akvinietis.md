@@ -52,6 +52,7 @@ Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alber
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Tomas Akvinietis buvo Alberto mokinys, pamokslininkų ordino vienuolis ir vėliau popiežiaus Jono XXII kanonizuotas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

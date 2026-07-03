@@ -80,6 +80,7 @@ J. Variakojis 1918 m. gruodžio 29 d. buvo paskirtas Panevėžio srities apsaugo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: 'Sužinojęs, kad mieste 2–3 dienas nebuvo ginkluotos jėgos, J. Variakojis pasiuntė pustrečios kuopos su dviem kulkosvaidžiais jį užimti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -95,6 +96,7 @@ J. Variakojis 1918 m. gruodžio 29 d. buvo paskirtas Panevėžio srities apsaugo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -108,6 +110,7 @@ J. Variakojis 1918 m. gruodžio 29 d. buvo paskirtas Panevėžio srities apsaugo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

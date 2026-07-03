@@ -59,6 +59,7 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -70,6 +71,7 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Satyros objektus autorius nebijojo vadinti tikrais vardais, nors jo satyriški knybtelėjimai laikyti labai švelniais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

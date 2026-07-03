@@ -83,6 +83,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: '1915–1922 m. Lietuvių Mokslo Draugija iš Tautos Namams skirtų lėšų leido vadovėlius naujai įsikūrusioms lietuviškoms mokykloms.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -99,6 +100,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -118,6 +120,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   pagrindžia:
     - t-001
     - t-003
+
 - c-004
   santrauka: 'Lietuvių mokslo draugija daugiausia orientavosi į lietuvių kalbos, etninės kultūros tyrimus ir vadovėlių lietuvių mokykloms rengimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

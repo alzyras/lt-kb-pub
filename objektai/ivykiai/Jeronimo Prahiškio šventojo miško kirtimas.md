@@ -60,7 +60,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas pasakoja, kad šventojo miško viduryje žmonės kurį laiką nedrįso paliesti seniausio medžio, laikyto dievų buveine.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

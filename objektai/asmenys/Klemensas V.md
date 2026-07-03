@@ -105,6 +105,7 @@ Klemensas V minimas kaip popiežius, atšaukęs Bonifaco sprendimą dėl Albrech
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Popiežius Klemensas V atšaukė Bonifaco sprendimą paskelbti Albrechtą imperatoriumi ir jam atiduoti Prancūzijos karalystę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -120,6 +121,7 @@ Klemensas V minimas kaip popiežius, atšaukęs Bonifaco sprendimą dėl Albrech
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: '1313 m. gegužės 5 d. Klemensas V kanonizavo Petrą išpažintoją, buvusį popiežių Celestiną V, ir liepė jį gerbti birželio 14 d.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -135,6 +137,7 @@ Klemensas V minimas kaip popiežius, atšaukęs Bonifaco sprendimą dėl Albrech
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   santrauka: 'Po Klemenso V vainikavimo prie Liono sugriuvusi mūro siena pražudė daug žmonių, o pats popiežius nukentėjo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -152,6 +155,7 @@ Klemensas V minimas kaip popiežius, atšaukęs Bonifaco sprendimą dėl Albrech
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-005
   santrauka: '1312 m. kovo 22 d. Vieno sinode popiežius Klemensas V pasmerkė tamplierių ordiną, nors tai dar nebuvo galutinis sprendimas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

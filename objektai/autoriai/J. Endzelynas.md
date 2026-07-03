@@ -57,6 +57,7 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'J. Endzelynas parašė veikalą „Senprūšu valoda“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -76,6 +77,7 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'J. Endzelynas Kuršo vietovardį Semba tapatino su prūsų žemės vardu Semba.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

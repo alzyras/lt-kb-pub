@@ -167,6 +167,7 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Lenkų ponų taryba Radome garantavo, kad Vytautui nebus atimta Lietuvos didžioji kunigaikštija.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -184,6 +185,7 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -202,6 +204,7 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
   pagrindžia:
     - t-004
     - t-002
+
 - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -217,6 +220,7 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
   pagrindžia:
     - t-001
     - t-007
+
 - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -233,6 +237,7 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -249,6 +254,7 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   santrauka: 'Lietuvos ponų taryboje buvę kunigaikščiai ilgai reikalavo vietos senate, bet dėl Lietuvos ponų pasipriešinimo į jį nepateko.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -266,6 +272,7 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-008
   santrauka: 'Ponų taryba Brastoje pakėlė karalaitį Kazimierą Lietuvos didžiuoju kunigaikščiu.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -286,6 +293,7 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-009
   santrauka: 'Kazimieras ir Didžiosios Kunigaikštystės Ponų taryba pasiuntė Joną Goštautą su kariuomene susigrąžinti nuo LDK atsiskyrusių miestų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -317,6 +325,7 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-010
   santrauka: 'Jonušas Zaberezinskis ir kiti LDK Ponų tarybos nariai pasisakė už Melniko uniją, kuriai Aleksandras ir jo broliai priešinosi.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -333,6 +342,7 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-011
   santrauka: 'Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš Ponų tarybos.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -350,6 +360,7 @@ Ponų taryba buvo Lietuvos didžiojo kunigaikščio aplinkoje įsitvirtinusi ins
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-012
   santrauka: 'Aleksandro 1492 m. rugpjūčio 6 d. privilegija Lietuvos feodalams išplėtė LDK Ponų tarybos teises.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

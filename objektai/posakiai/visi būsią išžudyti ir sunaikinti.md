@@ -51,6 +51,7 @@ Dusburgietis teigia, kad rengdamiesi antrą kartą pakilti į kovą, pagudėnai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Pagudėnai grasino krikščionims išžudymu ir sunaikinimu, jei šie neatiduos pilies ir nepasiduos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

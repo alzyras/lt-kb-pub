@@ -91,6 +91,7 @@ Henrikas iš Lichtenšteino minimas 1246 m. Prūsijos ir Pomeranijos karo veiksm
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Henrikas iš Lichtenšteino užgriuvo priešus ir susigrąžino jų atimtą grobį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -105,6 +106,7 @@ Henrikas iš Lichtenšteino minimas 1246 m. Prūsijos ir Pomeranijos karo veiksm
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Henrikas iš Lichtenšteino 1246 m. atvyko į Prūsiją su daugeliu maldininkų ir dalyvavo žygyje į Pomeraniją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -127,6 +129,7 @@ Henrikas iš Lichtenšteino minimas 1246 m. Prūsijos ir Pomeranijos karo veiksm
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Henrikas iš Lichtenšteino užgriuvo Sventopelko karius ir susigrąžino jų atimtą grobį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

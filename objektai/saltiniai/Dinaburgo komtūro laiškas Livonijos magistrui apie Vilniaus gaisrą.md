@@ -65,6 +65,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Dinaburgo komtūro laiške pranešta, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -104,6 +105,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Dinaburgo komtūro laiške teigiama, kad Vilniaus gaisras Vytautui padarė nuostolių už 60 000 sidabro luitų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

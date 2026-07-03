@@ -86,6 +86,7 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   pagrindžia:
     - t-005
     - t-002
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -101,6 +102,7 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   pagrindžia:
     - t-001
     - t-006
+
 - c-003
   santrauka: 'Viename dokumente pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

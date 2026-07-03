@@ -46,6 +46,7 @@ Dusburgietis teigia, kad „Pranešimo apie Prūsijos užkariavimą“, priedo p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Henriko iš Hohenlohės „Pranešimas“ buvo svarbiausias Dusburgiečio kronikos II dalies ir III dalies pradžios šaltinis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

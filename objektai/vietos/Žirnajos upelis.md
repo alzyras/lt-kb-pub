@@ -58,6 +58,7 @@ Jos viena kitą pastebėjo šiauriau Žirnajų ežero, kur išteka Žirnajos upe
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Mūšio vieta buvo prie Žirnajos upelio, tarp Žirnajų ežero ir Pabaisko, apie 9 km nuo Ukmergės ir 6 km nuo Šventosios.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

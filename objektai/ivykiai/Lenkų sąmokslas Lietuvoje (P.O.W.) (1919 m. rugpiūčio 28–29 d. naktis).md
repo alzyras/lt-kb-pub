@@ -73,6 +73,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: '1919 m. rugpjūčio 28–29 d. naktį Lietuvos saugumo organai atliko kratą P.O.W. centre Kaune, areštavo vadus ir sužlugdė sukilimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -89,6 +90,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Po P.O.W. sąmokslo Lietuvoje 117 sąmokslininkų 1920 m. gruodžio 11–24 d. buvo teisti kariuomenės teismo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

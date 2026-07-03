@@ -75,6 +75,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Lietuvos žalvario amžiaus dirbinių sąraše minimi kirviai, kalavijai, iečių galai, papuošalai ir statulėlė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

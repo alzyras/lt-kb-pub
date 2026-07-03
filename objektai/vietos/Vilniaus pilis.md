@@ -166,6 +166,7 @@ Vilniaus pilis minima kaip valdovų buveinė ir gynybinis centras Vilnelės ir V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   santrauka: 'Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -198,6 +199,7 @@ Vilniaus pilis minima kaip valdovų buveinė ir gynybinis centras Vilnelės ir V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Dalis vietos gyventojų, siekdami apsisaugoti nuo kryžiuočių, ieškojo prieglobsčio prie Vilniaus pilies.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -216,6 +218,7 @@ Vilniaus pilis minima kaip valdovų buveinė ir gynybinis centras Vilnelės ir V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-004
   santrauka: '1506 m. buvo taisomos daug kur pakrypusios ir suskilusios Žemutinės Vilniaus pilies sienos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -241,6 +244,7 @@ Vilniaus pilis minima kaip valdovų buveinė ir gynybinis centras Vilnelės ir V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-005
   santrauka: 'Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pilyje, pirmenybę teikdami Trakų piliai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -262,6 +266,7 @@ Vilniaus pilis minima kaip valdovų buveinė ir gynybinis centras Vilnelės ir V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-006
   santrauka: 'Vilniaus vyskupas Povilas parodė karaliui į katedros bažnyčią pilyje ir privertė jį pakeisti ketinimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -282,6 +287,7 @@ Vilniaus pilis minima kaip valdovų buveinė ir gynybinis centras Vilnelės ir V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-007
   santrauka: 'Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -309,6 +315,7 @@ Vilniaus pilis minima kaip valdovų buveinė ir gynybinis centras Vilnelės ir V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-008
   santrauka: 'Balińskis nurodė, kad po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nėra.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -330,6 +337,7 @@ Vilniaus pilis minima kaip valdovų buveinė ir gynybinis centras Vilnelės ir V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-009
   santrauka: 'Prie Vilniaus pilies buvo įkurta didžioji ginklų liejykla, turėjusi daug įtakos amatininkų gerovei ir tobulėjimui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -355,6 +363,7 @@ Vilniaus pilis minima kaip valdovų buveinė ir gynybinis centras Vilnelės ir V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-010
   santrauka: 'Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -388,6 +397,7 @@ Vilniaus pilis minima kaip valdovų buveinė ir gynybinis centras Vilnelės ir V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-011
   santrauka: 'Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

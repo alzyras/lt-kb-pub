@@ -157,6 +157,7 @@ Skomantas buvo sūduvių vadas, šaltiniuose siejamas su XIII a. karo veiksmais 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-002
   santrauka: 'Skomantas galop su visais savo namais bei šeimyna pasidavė tikėjimui ir broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -176,6 +177,7 @@ Skomantas buvo sūduvių vadas, šaltiniuose siejamas su XIII a. karo veiksmais 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-003
   santrauka: '1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -192,6 +194,7 @@ Skomantas buvo sūduvių vadas, šaltiniuose siejamas su XIII a. karo veiksmais 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -210,6 +213,7 @@ Skomantas buvo sūduvių vadas, šaltiniuose siejamas su XIII a. karo veiksmais 
   pagrindžia:
     - t-003
     - t-010
+
 - c-005
   santrauka: 'Skomantas su sūduviais įsiveržė į Kulmo žemę ir padalijo kariuomenę į dvi dalis puolimams prieš Torunę ir Kulmo miestą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -237,6 +241,7 @@ Skomantas buvo sūduvių vadas, šaltiniuose siejamas su XIII a. karo veiksmais 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'Spalio 21 d. Skomantas su 4 tūkstančiais sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -256,6 +261,7 @@ Skomantas buvo sūduvių vadas, šaltiniuose siejamas su XIII a. karo veiksmais 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   santrauka: 'Petras Dusburgietis Skomantą po atsivertimo vaizduoja kaip tikėjimo gynėją ir krikščionių tautos vadą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -276,6 +282,7 @@ Skomantas buvo sūduvių vadas, šaltiniuose siejamas su XIII a. karo veiksmais 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-008
   santrauka: 'Skomantas pamėgo į nelaisvę patekusį Liudviką iš Libencelės ir nusivedė jį į Sūduvos diduomenės puotą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -292,6 +299,7 @@ Skomantas buvo sūduvių vadas, šaltiniuose siejamas su XIII a. karo veiksmais 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-009
   santrauka: '1284 m. Ordino magistras vasarą su vedliu Skomantu patraukė prieš Gardino pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -310,6 +318,7 @@ Skomantas buvo sūduvių vadas, šaltiniuose siejamas su XIII a. karo veiksmais 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-010
   santrauka: 'Skomantas atvedė kariuomenę prie Plovistos pilies ir po atkaklios apsiausties privertė jos įgulą pasiduoti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -336,6 +345,7 @@ Skomantas buvo sūduvių vadas, šaltiniuose siejamas su XIII a. karo veiksmais 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-011
   santrauka: 'Skomantas ir Girdila buvo didikų kilmės vyrai, priėmę krikščionių tikėjimą ir pasitraukę pas kryžiuočius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -365,6 +375,7 @@ Skomantas buvo sūduvių vadas, šaltiniuose siejamas su XIII a. karo veiksmais 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-012
   santrauka: 'Skomantas, neseniai pabėgęs į Prūsiją, su prūsų kariais puolė Gardiną, paėmė pilį, išžudė įgulą ir sunaikino įtvirtinimus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

@@ -52,6 +52,7 @@ Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Britai iš pradžių siūlė Lietuvai už prarastą Vilnių gauti Klaipėdą, bet vėliau pasisakė už Klaipėdos laisvojo miesto statusą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

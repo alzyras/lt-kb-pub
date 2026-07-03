@@ -48,6 +48,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Jogailos įsakyme mišriose santuokose su rusais buvo reikalaujama sekti kataliką ar katalikę ir priimti Romos krikštą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

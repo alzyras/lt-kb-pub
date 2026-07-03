@@ -274,6 +274,7 @@ Palenkė Lietuvos istorijos šaltiniuose minima kaip svarbi vakarinės valstybė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -288,6 +289,7 @@ Palenkė Lietuvos istorijos šaltiniuose minima kaip svarbi vakarinės valstybė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -303,6 +305,7 @@ Palenkė Lietuvos istorijos šaltiniuose minima kaip svarbi vakarinės valstybė
   pagrindžia:
     - t-010
     - t-015
+
 - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -319,6 +322,7 @@ Palenkė Lietuvos istorijos šaltiniuose minima kaip svarbi vakarinės valstybė
   pagrindžia:
     - t-004
     - t-002
+
 - c-005
   santrauka: 'Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė Palenkę ir kitas LDK teritorijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -336,6 +340,7 @@ Palenkė Lietuvos istorijos šaltiniuose minima kaip svarbi vakarinės valstybė
   pagrindžia:
     - t-016
     - t-014
+
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -354,6 +359,7 @@ Palenkė Lietuvos istorijos šaltiniuose minima kaip svarbi vakarinės valstybė
   pagrindžia:
     - t-005
     - t-011
+
 - c-007
   santrauka: 'Goštautui išvykus į Tikociną Palenkėje, apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -384,6 +390,7 @@ Palenkė Lietuvos istorijos šaltiniuose minima kaip svarbi vakarinės valstybė
   pagrindžia:
     - t-003
     - t-007
+
 - c-008
   santrauka: 'Kęstutis paveldėjo Trakus ir Gardiną su Palenke.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -396,6 +403,7 @@ Palenkė Lietuvos istorijos šaltiniuose minima kaip svarbi vakarinės valstybė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -423,6 +431,7 @@ Palenkė Lietuvos istorijos šaltiniuose minima kaip svarbi vakarinės valstybė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-010
   santrauka: 'Vytautas iš Jogailos tegalėjo gauti Gardiną su Palenke, nes Trakai jau buvo atiduoti Skirgailai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -437,6 +446,7 @@ Palenkė Lietuvos istorijos šaltiniuose minima kaip svarbi vakarinės valstybė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-011
   santrauka: 'Lietuvos ir Lenkijos teritoriniai ginčai dėl Palenkės žemės buvo pasiekę karinės konfrontacijos lygį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -451,6 +461,7 @@ Palenkė Lietuvos istorijos šaltiniuose minima kaip svarbi vakarinės valstybė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-012
   santrauka: 'Jogailos ir Kęstučio pasirašytoje sutartyje ordinas pasižadėjo nepulti Palenkės, o Lietuva - ordino žemių Palenkės pasienyje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -465,6 +476,7 @@ Palenkė Lietuvos istorijos šaltiniuose minima kaip svarbi vakarinės valstybė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-013
   santrauka: 'Vytautas pradėjo telkti karius Žemaitijoje ir Palenkėje, susitaręs su kryžiuočiais dėl taikos ir pagalbos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -488,6 +500,7 @@ Palenkė Lietuvos istorijos šaltiniuose minima kaip svarbi vakarinės valstybė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-014
   santrauka: 'Mazovijos kunigaikštis Boleslovas, užpuolęs Palenkę, užėmė Melniką, Belską ir Drohičiną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -523,6 +536,7 @@ Palenkė Lietuvos istorijos šaltiniuose minima kaip svarbi vakarinės valstybė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-015
   santrauka: 'Vilniaus seime lenkų atstovai reikalavo Palenkę, Volynę, Kijevo ir Seversko žemes atiduoti Lenkijos karalystei.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

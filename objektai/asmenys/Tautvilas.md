@@ -120,6 +120,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: '1249 m. Mindaugas iš savo sūnėno Tautvilo atėmė valdas, o Tautvilas, remiamas Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -134,6 +135,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-003
   santrauka: 'Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -182,6 +184,7 @@ periodo_grupes: []
   pagrindžia:
     - t-005
     - t-004
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -196,6 +199,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Mindaugo sūnėnas Tautvilas įsigyveno Polocke, kai Lietuvos valdžia plito Baltojoje Rusioje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -211,6 +215,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-006
   santrauka: 'Tautvilas Treniotos kvietimu atvyko iš Polocko ir slapta su savaisiais rengė naują sąmokslą prieš Treniotą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

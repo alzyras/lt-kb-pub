@@ -196,6 +196,7 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -213,6 +214,7 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
   pagrindžia:
     - t-012
     - t-004
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -230,6 +232,7 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -245,6 +248,7 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-005
   santrauka: 'Valerijonas Protasevičius fundavo ir aprūpino jėzuitų kolegiją, kurią karalius pakėlė iki universiteto laipsnio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -269,6 +273,7 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
   pagrindžia:
     - t-018
     - t-009
+
 - c-006
   santrauka: 'Valerijonas Protasevičius 1569 metais pirmasis pakvietė jėzuitų ordiną į Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -295,6 +300,7 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-007
   santrauka: 'Valerijonas Protasevičius atmetė katalikų tikėjimui prieštaraujančias sąlygas ir ragino valdovą su jomis nesutikti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -319,6 +325,7 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -350,6 +357,7 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   santrauka: '1579 m. Vilniuje duotą Bursos įkūrėjo atminimo aktą vyskupas Valerijonas pasirašė savo ranka.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -400,6 +408,7 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -419,6 +428,7 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -432,6 +442,7 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-012
   santrauka: 'Vilniaus vyskupas Valerijonas Protasevičius paprieštaravo, kad į sutartį būtų įtraukta sąlyga dėl Augustino tikėjimo laisvo išpažinimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -457,6 +468,7 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-013
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -477,6 +489,7 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
   pagrindžia:
     - t-014
     - t-002
+
 - c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -500,6 +513,7 @@ Valerijonas Protasevičius buvo Vilniaus vyskupas, 1556 m. perkeltas į Vilniaus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-015
   santrauka: 'Valerijonas Protasevičius Vilniuje palaimino Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

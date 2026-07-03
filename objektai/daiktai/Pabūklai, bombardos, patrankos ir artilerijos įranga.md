@@ -91,6 +91,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: '1383 m. puolant Trakų pilį, jos mūrai buvo sugriauti bombardomis, o įgula priversta pasiduoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -109,6 +110,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Długoszo tekste minima pieva, kurioje buvo sustatytos prūsų bombardos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -128,6 +130,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Patrankų padariniai kartu su anglų lankininkų veiksmais lėmė didelius Lietuvos patirtus smūgius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

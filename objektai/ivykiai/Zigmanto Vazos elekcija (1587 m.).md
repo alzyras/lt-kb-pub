@@ -66,7 +66,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: '1587 m. elekcijoje kandidatais buvo Maksimilijonas, Maskvos caras Teodoras ir Švedijos karalaitis Zigmantas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

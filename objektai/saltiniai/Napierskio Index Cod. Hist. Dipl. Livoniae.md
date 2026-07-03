@@ -60,6 +60,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Napierskio „Index Cod. Hist. Dipl. Livoniae“ siejamas su Dinaburgo komtūro pranešimu apie Vilniaus miesto, kapitulos ir pilies gaisrą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

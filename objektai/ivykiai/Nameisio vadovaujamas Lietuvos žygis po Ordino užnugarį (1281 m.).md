@@ -69,6 +69,7 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   santrauka: '1281 m. Traidenis pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę niokoti Ordino užnugario.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

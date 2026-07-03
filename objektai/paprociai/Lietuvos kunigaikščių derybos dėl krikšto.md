@@ -76,6 +76,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kryžiaus karų epochoje Lietuvos kunigaikščiai derėjosi dėl krikšto, bet Europa nebeleido valstybėms savarankiškai krikštytis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

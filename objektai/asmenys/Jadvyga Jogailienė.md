@@ -202,6 +202,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
   pagrindžia:
     - t-004
     - t-005
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -218,6 +219,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
   pagrindžia:
     - t-014
     - t-009
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -237,6 +239,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
   pagrindžia:
     - t-010
     - t-013
+
 - c-004
   santrauka: 'Jadvyga Jogailienė 1387 metų sausį atvyko į Vilnių kartu su Vladislovu Jogaila ir kitais krikščionybės skleidėjais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -262,6 +265,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-005
   santrauka: 'Netikėta Jadvygos Jogailienės mirtis, įvykusi pora savaičių prieš Vorsklos mūšį, pagreitino naują susiartinimą po 1398 m. susitarimo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -277,6 +281,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-006
   santrauka: 'Jadvyga laišku priminė Vytautui, kad Jogailos valdytos Lietuvos ir Rusijos žemės buvo jai užrašytos kraičiu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -296,6 +301,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -310,6 +316,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -326,6 +333,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -347,6 +355,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
   pagrindžia:
     - t-007
     - t-017
+
 - c-010
   santrauka: 'Jadvyga Jogailienė buvo Vengrų karalienės Elžbietos duktė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -365,6 +374,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-011
   santrauka: 'Lenkų karalaitė Jadvyga buvo pažadėta Vilhelmui Habsburgui, bet ją vedė Jogaila.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -383,6 +393,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-012
   santrauka: 'Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino Konradą Ciolnerį Rotenšteiną 1385 metais pulti Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -409,6 +420,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
   pagrindžia:
     - t-008
     - t-003
+
 - c-013
   santrauka: 'Dlugošas rašė, kad Jadvyga Jogailienė buvo atvykusi į Lietuvą, bet šaltinyje nurodoma, jog tai nėra tikra.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

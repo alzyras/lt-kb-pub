@@ -111,6 +111,7 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Gedimino laiškų užuomina apie Mazoviją leido manyti, kad Mazovijos kunigaikštis buvo Lietuvos valdovo sąjungininkas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -131,6 +132,7 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: '1325 m. kitose Mazovijos žemėse viešpatavo kunigaikščiai Ziemovitas ir Traidenis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -161,6 +163,7 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Mazovijos kunigaikštis Boleslovas IV 1440 m. balandį arba gegužę užėmė Drohičino žemę Palenkėje ir laikė ją bent ketverius metus.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

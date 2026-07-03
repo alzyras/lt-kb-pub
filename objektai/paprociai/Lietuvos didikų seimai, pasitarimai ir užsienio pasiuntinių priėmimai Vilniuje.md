@@ -84,6 +84,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Kazimiero valdymo laikotarpiu Vilniuje vyko dažni Lietuvos didikų suvažiavimai, pasitarimai, užsienio pasiuntinių priėmimai ir sutarčių sudarymai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

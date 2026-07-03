@@ -70,6 +70,7 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Į Pinską buvo išsiųsti žygūnai pakviesti vienuolį Vaišvilką perimti tėvo paliktos valdžios.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -97,6 +98,7 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Jedlnios seimas nutarė saugoti Lenkijos pasienio kelius, kad imperatoriaus ir Vytauto žygūnai negalėtų prasmukti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -118,6 +120,7 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Karalius skubiai išsiuntė žygūnus pranešti išvykstantiems kunigaikščiams apie durininko nubaudimą mirtimi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

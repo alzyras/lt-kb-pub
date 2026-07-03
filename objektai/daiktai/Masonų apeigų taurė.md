@@ -115,6 +115,7 @@ Taurė siejama su masonų apeigomis; jos raižinyje pateikti keli simboliniai ob
     - t-005
     - t-006
     - t-007
+
 ## Šaltiniai ir įrodymai
 
 Nenurodyta

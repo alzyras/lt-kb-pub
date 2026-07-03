@@ -97,6 +97,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

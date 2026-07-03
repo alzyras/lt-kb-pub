@@ -126,6 +126,7 @@ Surminas buvo Kolainių pilies vadas, 1290 m. su 120 karių narsiai gynęs pilį
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: 'Surminas paliko pilį ir prisiekė ateityje nelaukti, kol Ordino broliai užpuls kurią nors pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -144,6 +145,7 @@ Surminas buvo Kolainių pilies vadas, 1290 m. su 120 karių narsiai gynęs pilį
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Kolainių pilininkas Surminas sušaukė pilėnus tartis, kaip apgauti pro pilį laivais plaukusius Ordino brolius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -165,6 +167,7 @@ Surminas buvo Kolainių pilies vadas, 1290 m. su 120 karių narsiai gynęs pilį
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų vyrų, kurie narsiai priešinosi broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -183,6 +186,7 @@ Surminas buvo Kolainių pilies vadas, 1290 m. su 120 karių narsiai gynęs pilį
   pagrindžia:
     - t-005
     - t-003
+
 - c-005
   santrauka: 'Surminas po pergalingos kovos grįžo pas valdovą nugalėtoju, bet joje neteko brolio Goštauto ir kitų karių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

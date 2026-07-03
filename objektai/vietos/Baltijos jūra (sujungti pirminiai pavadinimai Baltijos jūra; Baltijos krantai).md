@@ -99,6 +99,7 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -135,6 +136,7 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-003
   santrauka: 'Vytauto užkariavimai pastūmė Lietuvos sienas nuo Baltijos iki Juodosios jūros.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -170,6 +172,7 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'XIII amžiaus viduryje Lietuva valdė nedidelį, uostų stokojantį Baltijos pakrantės ruožą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -190,6 +193,7 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-005
   santrauka: 'Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -222,6 +226,7 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-006
   santrauka: 'Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -247,6 +252,7 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-007
   santrauka: 'XII amžiuje buvo geriau susipažinta su tolimesnėmis Baltijos jūros pakrantėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

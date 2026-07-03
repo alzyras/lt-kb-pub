@@ -151,6 +151,7 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -164,6 +165,7 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -178,6 +180,7 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -192,6 +195,7 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -205,6 +209,7 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -223,6 +228,7 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-007
   santrauka: 'Zbignievas Olesnickis buvo karūnos pasiuntinys, kartu su kuriuo Vytautas pasiuntė Mikalojų Cebulką pareikšti Zigmantui nepasitenkinimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -242,6 +248,7 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
   pagrindžia:
     - t-014
     - t-012
+
 - c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -259,6 +266,7 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
   pagrindžia:
     - t-009
     - t-010
+
 - c-009
   santrauka: 'Zbignievas Olesnickis, tapęs Krokuvos vyskupu, buvo priskirtas žmonėms, priešiškiems Vytauto persvarai ir politikai bendroje valstybėje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -278,6 +286,7 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
   pagrindžia:
     - t-001
     - t-006
+
 - c-010
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -292,6 +301,7 @@ Zbignievas Olesnickis buvo Krokuvos vyskupas ir įtakingas karaliaus dvaro veik�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-011
   santrauka: 'Krokuvos vyskupas Zbignievas Olesnickis karaliaus dvare įgijo daug įtakos ir buvo laikomas nepriklausomos Vytauto politikos priešininku.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

@@ -46,6 +46,7 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Vda atpažįstama kaip upė, Jeronimo variante vadinama Bda.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -62,6 +63,7 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Vyslos krante, žemiau Kulmo, prie upės Vda žiočių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

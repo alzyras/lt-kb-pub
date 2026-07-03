@@ -69,6 +69,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Prūsai pagal seną paprotį žmonas pirkdavosi už tam tikrą pinigų sumą ir laikė jas tarsi tarnaitėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -85,6 +86,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Senovės paprotys reikalavo, kad jaunikis pinigais ar daiktais mokėtų jaunosios tėvui ir taip išpirktų žmoną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -99,7 +101,8 @@ Nenurodyta
   statusas: verified
 
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-004
+  patikimumo_saltinis: ai
+- c-004
   santrauka: 'Prūsai pagal seną paprotį žmonas pirkdavosi už tam tikrą pinigų sumą ir laikė jas tarsi tarnaitėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |

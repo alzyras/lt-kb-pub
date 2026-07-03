@@ -75,6 +75,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Po Laikinosios vyriausybės veiklos sustabdymo naciai 1941 m. rugsėjo 26 d. uždarė LAF, kai dauguma ministrų atsisakė tapti tarėjais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

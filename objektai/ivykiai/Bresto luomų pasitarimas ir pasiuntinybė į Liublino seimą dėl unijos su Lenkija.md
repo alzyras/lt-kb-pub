@@ -66,6 +66,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kojelavičiaus teigimu, pasiuntiniams buvo uždrausta ką nors spręsti, todėl jie turėjo apie viską pranešti Bresto seimo luomams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

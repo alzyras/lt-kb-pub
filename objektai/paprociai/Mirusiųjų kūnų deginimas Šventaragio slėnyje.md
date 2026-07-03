@@ -85,6 +85,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Pasakojime Germantas Šventaragio slėnį paskyrė savo tėvo Šventaragio ir savo įpėdinių kapavietėms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

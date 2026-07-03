@@ -66,6 +66,7 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kristburgo komtūras Luterbergas pastatė miestą prie Ilienburgo pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -115,6 +115,7 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Prie Merkio, ant nedidelės aukštumėlės, stovėjo du mažesni, veikiausiai dviejų aukštų namai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -133,6 +134,7 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   pagrindžia:
     - t-004
     - t-002
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -148,6 +150,7 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Medžioklės rūmai prie Merkio buvo pastatyti iš medžio ant aukšto mūrinio cokolio ir stovėjo ant mažos kalvelės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -164,6 +167,7 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

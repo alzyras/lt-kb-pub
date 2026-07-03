@@ -67,6 +67,7 @@ Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laišku
   pagrindžia:
     - t-003
     - t-001
+
 - c-002
   santrauka: 'Taip liko neįgyvendintos Algirdo išsakytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o Vilnius nevirto „antruoju Kijevu“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

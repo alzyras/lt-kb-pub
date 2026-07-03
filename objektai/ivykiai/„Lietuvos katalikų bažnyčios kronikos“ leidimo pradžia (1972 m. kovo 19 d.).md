@@ -76,6 +76,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '„Lietuvos katalikų bažnyčios kronika“ Vakarų radijo stotims tapo pagrindiniu medžiagos apie Lietuvą šaltiniu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -93,6 +94,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Pirmajame „Lietuvos katalikų bažnyčios kronikos“ numeryje išspausdintas lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

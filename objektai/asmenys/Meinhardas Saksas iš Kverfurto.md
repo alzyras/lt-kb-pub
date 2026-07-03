@@ -87,6 +87,7 @@ Meinhardas Saksas iš Kverfurto buvo tryliktas Prūsijos magistras, vadovavęs v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Meinhardas Saksas iš Kverfurto kėlė siaubą visiems priešams, nes jų negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -105,6 +106,7 @@ Meinhardas Saksas iš Kverfurto buvo tryliktas Prūsijos magistras, vadovavęs v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-003
   santrauka: '1294 m. Meinhardas Saksas iš Kverfurto subūrė kariuomenę, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -126,6 +128,7 @@ Meinhardas Saksas iš Kverfurto buvo tryliktas Prūsijos magistras, vadovavęs v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -142,6 +145,7 @@ Meinhardas Saksas iš Kverfurto buvo tryliktas Prūsijos magistras, vadovavęs v
   pagrindžia:
     - t-003
     - t-006
+
 - c-005
   santrauka: '1289 m. balandžio 23 d. Meinhardas Saksas iš Kverfurto su kariuomene patraukė į Skalvą ir Nemuno pakrantėje pastatė Landeshutės pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

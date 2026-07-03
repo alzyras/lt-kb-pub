@@ -44,6 +44,7 @@ Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs O
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Marija Gimbutienė knygoje „Baltai“ aptarė politeistinę baltų religiją, Krivės funkcijas, Perkūną ir kitus baltų dievus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

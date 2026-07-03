@@ -119,6 +119,7 @@ Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, minimas XVI a. Vilniaus r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1539 m. Vilniaus vyskupas Povilas valdė Vilniaus dieceziją, kai Abraomas Kulvietis mieste skleidė Liuterio religines pažiūras.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -147,6 +148,7 @@ Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, minimas XVI a. Vilniaus r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Vilniaus vyskupas Povilas savo sode pastatydino nedidelę Šv. Kryžiaus oratoriją vietoje, kur buvo palaidoti pranciškonai kankiniai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -165,6 +167,7 @@ Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, minimas XVI a. Vilniaus r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-004
   santrauka: 'Vilniaus vyskupas Povilas turėjo teisę nubausti eretiką, bet prieš egzekuciją nusprendė apie bylą pranešti valdovui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -204,6 +207,7 @@ Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, minimas XVI a. Vilniaus r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-005
   santrauka: 'Vilniaus vyskupas Povilas 1543 m. išleido šios koplyčios fundacijos aktą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -227,6 +231,7 @@ Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, minimas XVI a. Vilniaus r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-006
   santrauka: 'Vilniaus vyskupas Povilas sustabdė karalių ir privertė jį atsisakyti ketinimo eiti kitur, nukreipdamas į katalikų katedrą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -247,6 +252,7 @@ Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, minimas XVI a. Vilniaus r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-007
   santrauka: 'Povilas ginčijosi su Vilniaus vaitu, tarėjais ir miestiečių bendrija dėl turguje bei miesto aikštėje buvusių mėsinių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -274,6 +280,7 @@ Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, minimas XVI a. Vilniaus r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-008
   santrauka: 'Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, dalyvavo 1542 m. Vilniuje duoto Žygimanto rašto patvirtinime.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

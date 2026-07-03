@@ -73,6 +73,7 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   santrauka: 'Elbingo broliai su nedidele ginklanešių palyda vijosi didelę prūsų kariuomenę, prisiplėšusią grobio jų valdomose apygardose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

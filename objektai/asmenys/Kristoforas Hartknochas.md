@@ -143,7 +143,8 @@ Kristoforas Hartknochas Narbuto cituojamas kaip Prūsijos senovės ir religijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Pasak Narbuto cituojamo Hartknocho, kryžiuočiai užėmė šventąją vietą Dybove ir ten įkūrė Senąją Torunę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -157,7 +158,8 @@ Kristoforas Hartknochas Narbuto cituojamas kaip Prūsijos senovės ir religijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Hartknochas pateikė duomenų apie Insterburgo valsčiaus šventąją pušį Romutą arba Ruombotą, kurią 1664 metais suskaldė žaibas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -170,7 +172,8 @@ Kristoforas Hartknochas Narbuto cituojamas kaip Prūsijos senovės ir religijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Hartknochas pagal senus duomenis šventąjį mišką lokalizavo prie Žemaitijos sienos, dviejų upių santakoje netoli Rusnės įlankos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -187,7 +190,8 @@ Kristoforas Hartknochas Narbuto cituojamas kaip Prūsijos senovės ir religijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-005
+    - t-004
+- c-005
   santrauka: 'Hartknochas senosios Prūsijos žemėlapyje užrašą Romnowe padėjo tarp Prūsos ir Bysleidos upių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -204,7 +208,8 @@ Kristoforas Hartknochas Narbuto cituojamas kaip Prūsijos senovės ir religijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-006
+    - t-005
+- c-006
   santrauka: 'Pasak Narbuto, Hartknochas spėjo, kad Senosios Torunės vietoje taip pat buvo šventykla.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -219,7 +224,8 @@ Kristoforas Hartknochas Narbuto cituojamas kaip Prūsijos senovės ir religijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-007
+    - t-006
+- c-007
   santrauka: 'Narbutas teigė, kad Hartknochas savo Prūsijos istorijoje kruopščiai surinko kronikose išlikusius raštiškus paminėjimus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -237,7 +243,8 @@ Kristoforas Hartknochas Narbuto cituojamas kaip Prūsijos senovės ir religijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-008
+    - t-007
+- c-008
   santrauka: 'Pasak Hartknocho, senovės prūsų žodis Sigos reiškė tvarką arba vienuoliją, todėl signotai buvo laikomi vienuoliais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -252,7 +259,8 @@ Kristoforas Hartknochas Narbuto cituojamas kaip Prūsijos senovės ir religijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-009
+    - t-008
+- c-009
   santrauka: 'Narbutas rašo, kad Hartknochas signotus aiškino kaip bendruomenėje su tam tikromis teisėmis gyvenusius dvasininkus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -269,7 +277,8 @@ Kristoforas Hartknochas Narbuto cituojamas kaip Prūsijos senovės ir religijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-010
+    - t-009
+- c-010
   santrauka: 'Narbutas nurodė, kad Hartknochas abejojo, ar prūsai mokėjo daryti alų iki kryžiuočių atsikraustymo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -283,7 +292,8 @@ Kristoforas Hartknochas Narbuto cituojamas kaip Prūsijos senovės ir religijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-011
+    - t-010
+- c-011
   santrauka: 'Narbutas kritikavo Hartknochą, kad šis prūsų laiko skaičiavimą naktimis kildino iš spėjimų apie gotų mėgdžiojimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -300,7 +310,8 @@ Kristoforas Hartknochas Narbuto cituojamas kaip Prūsijos senovės ir religijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-012
+    - t-011
+- c-012
   santrauka: 'Narbutas kaltino Škicą, Henenbergerį, Hartknochą ir Kojalavičių apšmeižus senovės lietuvius dėl elgesio su ligoniais ir mirštančiaisiais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -319,7 +330,8 @@ Kristoforas Hartknochas Narbuto cituojamas kaip Prūsijos senovės ir religijos 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-013
+    - t-012
+- c-013
   santrauka: 'Narbutas nurodė, kad pasakojimą apie ypatingą vėliavos užrašą iš Grunau perėmė Henenbergeris ir Hartknochas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

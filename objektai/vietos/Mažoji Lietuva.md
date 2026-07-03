@@ -142,6 +142,7 @@ Mažoji Lietuva – Prūsų Lietuva, kur Vokiečių ordino valstybėje gyvenę l
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-002
   santrauka: '1914 m. liepą J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas Gintarinėje deklaracijoje siekė sujungti Didžiąją ir Mažąją Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -169,6 +170,7 @@ Mažoji Lietuva – Prūsų Lietuva, kur Vokiečių ordino valstybėje gyvenę l
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-003
   santrauka: 'Modernioji Lietuvos samprata Lietuvos vardą siejo su lietuvių kalbos vartojimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -189,6 +191,7 @@ Mažoji Lietuva – Prūsų Lietuva, kur Vokiečių ordino valstybėje gyvenę l
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -207,6 +210,7 @@ Mažoji Lietuva – Prūsų Lietuva, kur Vokiečių ordino valstybėje gyvenę l
   pagrindžia:
     - t-005
     - t-002
+
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -229,6 +233,7 @@ Mažoji Lietuva – Prūsų Lietuva, kur Vokiečių ordino valstybėje gyvenę l
   pagrindžia:
     - t-007
     - t-011
+
 - c-006
   santrauka: 'Vokiečių ordino valstybėje lietuviai ilgainiui pradėti vadinti lietuvininkais, o jų žemės – Prūsų Lietuva arba Mažąja Lietuva.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -249,6 +254,7 @@ Mažoji Lietuva – Prūsų Lietuva, kur Vokiečių ordino valstybėje gyvenę l
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-007
   santrauka: 'Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, kur daug vietos gyventojų vartojo lietuvių kalbą ir ėjo lietuviški laikraščiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -269,6 +275,7 @@ Mažoji Lietuva – Prūsų Lietuva, kur Vokiečių ordino valstybėje gyvenę l
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-008
   santrauka: 'Steigiamojo Seimo rinkimuose Mažajai Lietuvai buvo skirtos 9 vietos, bet rinkimai ten nevyko, nes Lietuva šios teritorijos nekontroliavo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -284,6 +291,7 @@ Mažoji Lietuva – Prūsų Lietuva, kur Vokiečių ordino valstybėje gyvenę l
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-009
   santrauka: 'Lietuvos Respublikos kūrėjai siekė prie Lietuvos prijungti Mažąją Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -300,6 +308,7 @@ Mažoji Lietuva – Prūsų Lietuva, kur Vokiečių ordino valstybėje gyvenę l
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-010
   santrauka: '1921 m. lapkričio 11 d. Steigiamasis Seimas vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį, demonstruodamas vienybę su Mažąja Lietuva.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -319,6 +328,7 @@ Mažoji Lietuva – Prūsų Lietuva, kur Vokiečių ordino valstybėje gyvenę l
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-011
   santrauka: 'Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -337,6 +347,7 @@ Mažoji Lietuva – Prūsų Lietuva, kur Vokiečių ordino valstybėje gyvenę l
   pagrindžia:
     - t-009
     - t-014
+
 - c-012
   santrauka: 'Steigiamojo Seimo rinkimuose Mažajai Lietuvai buvo skirtos 9 vietos, bet rinkimai ten nevyko, nes Lietuva šios teritorijos nekontroliavo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

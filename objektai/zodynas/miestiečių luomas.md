@@ -86,6 +86,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Didesniąją Vilniaus miestiečių dalį sudarė graikų apeigų tikėjimą išpažinę rusinai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -114,6 +115,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės pakėlė miestiečių luomo visuomeninę padėtį virš nelaisvų kaimo žmonių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -72,7 +72,8 @@ Nenurodyta
   statusas: verified
 
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-002
+  patikimumo_saltinis: ai
+- c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Jojo ir grūmės su neprieteliais, ant arklių apžarga sėdėdami, ilgainiui, jei dėvėjo balnus, tad būtinai iš

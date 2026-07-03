@@ -67,6 +67,7 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Aleksejus Michailovičius) vadovavo kunigaikštis Jokūbas Kudenekovičius Čerkaskis (iki krikšto — Uruskan-Murza), pasižymėjęs kovose su totoriais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

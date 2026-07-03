@@ -1239,7 +1239,8 @@ Rusija Lietuvos istorijos žinių bazėje siejama su ilgalaikiais konfliktais d�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-002
+    - t-002
+- c-002
   santrauka: '1998–1999 m. Rusijos finansų krizė sukėlė naujų išbandymų Lietuvos ekonomikai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1258,7 +1259,8 @@ Rusija Lietuvos istorijos žinių bazėje siejama su ilgalaikiais konfliktais d�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-003
+    - t-003
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vis dėlto Vilniaus, Lietuvos ir Abiejų
@@ -1276,7 +1278,8 @@ Rusija Lietuvos istorijos žinių bazėje siejama su ilgalaikiais konfliktais d�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-    - t-009- c-004
+    - t-009
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Antra vertus,
@@ -1302,7 +1305,8 @@ Rusija Lietuvos istorijos žinių bazėje siejama su ilgalaikiais konfliktais d�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
-    - t-015- c-005
+    - t-015
+- c-005
   santrauka: '1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1325,7 +1329,8 @@ Rusija Lietuvos istorijos žinių bazėje siejama su ilgalaikiais konfliktais d�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
-    - t-013- c-006
+    - t-013
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
@@ -1345,7 +1350,8 @@ Rusija Lietuvos istorijos žinių bazėje siejama su ilgalaikiais konfliktais d�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
-    - t-010- c-007
+    - t-010
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kitaip klostėsi Didžiosios Lietuvos istorija. Rusijai sunaikinus senąją
@@ -1357,7 +1363,8 @@ Rusija Lietuvos istorijos žinių bazėje siejama su ilgalaikiais konfliktais d�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-008
+    - t-008
+- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o
@@ -1377,7 +1384,8 @@ Rusija Lietuvos istorijos žinių bazėje siejama su ilgalaikiais konfliktais d�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-009
+    - t-014
+- c-009
   santrauka: '1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos, išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1395,7 +1403,8 @@ Rusija Lietuvos istorijos žinių bazėje siejama su ilgalaikiais konfliktais d�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-010
+    - t-018
+- c-010
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Skaičiuojant nuo pirmųjų žmogaus pėdsakų
@@ -1412,7 +1421,8 @@ Rusija Lietuvos istorijos žinių bazėje siejama su ilgalaikiais konfliktais d�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
-    - t-006- c-011
+    - t-006
+- c-011
   santrauka: 'Atkūrusi nepriklausomybę Lietuva vakaruose įgijo sieną su Rusijos Kaliningrado sritimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1430,7 +1440,8 @@ Rusija Lietuvos istorijos žinių bazėje siejama su ilgalaikiais konfliktais d�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-012
+    - t-005
+- c-012
   santrauka: '1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko ir pradėjo LLV karą su Rusija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1448,7 +1459,8 @@ Rusija Lietuvos istorijos žinių bazėje siejama su ilgalaikiais konfliktais d�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-013
+    - t-017
+- c-013
   santrauka: 'Rusijos valdžia brutaliu, diskriminaciniu rusinimu siekė aneksuotas Lenkijos ir Lietuvos žemes paversti Vakarų Rusija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1464,7 +1476,8 @@ Rusija Lietuvos istorijos žinių bazėje siejama su ilgalaikiais konfliktais d�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-014
+    - t-004
+- c-014
   santrauka: '1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė demokratinė revoliucija greitai pasiekė Lietuvos miestus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1479,7 +1492,8 @@ Rusija Lietuvos istorijos žinių bazėje siejama su ilgalaikiais konfliktais d�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-015
+    - t-016
+- c-015
   santrauka: '1897 m. Rusijos imperijos gyventojų surašymas parodė, kad skaityti mokėjo beveik pusė etninių lietuvių, o rusiškai skaitė tik kas penktas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1499,7 +1513,8 @@ Rusija Lietuvos istorijos žinių bazėje siejama su ilgalaikiais konfliktais d�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-016
+    - t-007
+- c-016
   santrauka: '1991 m. liepos 29 d. Vytautas Landsbergis ir Borisas Jelcinas pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1516,7 +1531,8 @@ Rusija Lietuvos istorijos žinių bazėje siejama su ilgalaikiais konfliktais d�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-017
+    - t-022
+- c-017
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1795
@@ -1530,7 +1546,8 @@ Rusija Lietuvos istorijos žinių bazėje siejama su ilgalaikiais konfliktais d�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-018
+    - t-021
+- c-018
   santrauka: 'T. Narbutas dalyvavo 1808–1809 m. Rusijos–Švedijos kare, o mūšyje prie Abo miesto buvo kontūzytas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

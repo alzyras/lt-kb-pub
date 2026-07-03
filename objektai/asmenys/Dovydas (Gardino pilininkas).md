@@ -169,6 +169,7 @@ Dovydas buvo Gardino pilininkas ir karo vadas, šaltiniuose siejamas su Gedimino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-002
   santrauka: '1324 m. kovo mėn. kryžiuočiai sunaikino Gardino pilininko Dovydo dvarą, o vėliau puolė ir Gardiną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -191,6 +192,7 @@ Dovydas buvo Gardino pilininkas ir karo vadas, šaltiniuose siejamas su Gedimino
     - t-006
     - t-013
     - t-007
+
 - c-003
   santrauka: 'Dovydas, Gardino pilininkas, su 800 vyrų įsibrovė į Unzatrapį, sudegino kelis namus ir išsivarė belaisvių bei grobio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -211,6 +213,7 @@ Dovydas buvo Gardino pilininkas ir karo vadas, šaltiniuose siejamas su Gedimino
   pagrindžia:
     - t-009
     - t-004
+
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -225,6 +228,7 @@ Dovydas buvo Gardino pilininkas ir karo vadas, šaltiniuose siejamas su Gedimino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -247,6 +251,7 @@ Dovydas buvo Gardino pilininkas ir karo vadas, šaltiniuose siejamas su Gedimino
   pagrindžia:
     - t-002
     - t-005
+
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -266,6 +271,7 @@ Dovydas buvo Gardino pilininkas ir karo vadas, šaltiniuose siejamas su Gedimino
   pagrindžia:
     - t-001
     - t-011
+
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -286,6 +292,7 @@ Dovydas buvo Gardino pilininkas ir karo vadas, šaltiniuose siejamas su Gedimino
   pagrindžia:
     - t-008
     - t-015
+
 - c-008
   santrauka: 'Gardino pilininkas Dovydas su lietuvių kariuomene įsibrovė į Danijos karaliaus Revelio žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -303,6 +310,7 @@ Dovydas buvo Gardino pilininkas ir karo vadas, šaltiniuose siejamas su Gedimino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-009
   santrauka: 'Dusburgietis teigia, kad jis mat patvarkė, kad Dovydas, jo pilininkas Gardine, įsibrovė su galinga kariuomene lapkričio 21 dieną į Mazovijos žemę ir, plėšdamas bei degindamas, nusiaubė Plocko vyskupo miestą, vardu Pultuskas, ir 130 šios vyskupystės bei Mazovijos kunigaikštystės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

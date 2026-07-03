@@ -172,6 +172,7 @@ Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -190,6 +191,7 @@ Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Motiejus Valančius XIX a. padarė didelę įtaką Lietuvos politiniams procesams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -207,6 +209,7 @@ Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -224,6 +227,7 @@ Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -238,6 +242,7 @@ Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -256,6 +261,7 @@ Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-007
   santrauka: 'Zenonas Ivinskis Motiejui Valančiui priskyrė sveikas pažiūras ir gana kritišką nusistatymą šaltinių atžvilgiu veikale „Žemaičių Vyskupystė“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -274,6 +280,7 @@ Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-008
   santrauka: 'Motiejaus Valančiaus „Palangos Juzė“, „Paaugusių žmonių knygelė“, „Vaikų knygelė“ ir „Pasakojimas Antano tretininko“ turėjo nemažą reikšmę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -294,6 +301,7 @@ Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-009
   santrauka: 'Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -309,6 +317,7 @@ Motiejus Valančius pristatomas kaip Žemaičių vyskupas, rašytojas ir lietuvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-010
   santrauka: 'Spaudos draudimo metu Amerikoje buvo išleista ir Motiejaus Valančiaus raštų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

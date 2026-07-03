@@ -65,6 +65,7 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Celestinas III Jeruzalėje įkūrė ir pašventino Šv. Marijos Teutonų ordino vienuolių ligoninę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

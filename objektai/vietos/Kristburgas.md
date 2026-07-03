@@ -255,6 +255,7 @@ Kristburgas buvo Ordino pilis Pamedėje, kurios pradžia siejama su magistro Hen
   pagrindžia:
     - t-009
     - t-005
+
 - c-002
   santrauka: 'Ordino broliai pastatė Kristburgo pilį naujoje vietoje, išlaikė jos vardą ir įkurdino joje daug karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -272,6 +273,7 @@ Kristburgas buvo Ordino pilis Pamedėje, kurios pradžia siejama su magistro Hen
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Pagudėnai prie Kristburgo užpuolė netoliese buvusią pilaitę, kurioje gyveno tikintieji pamedėnai, ir ją sugriovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -293,6 +295,7 @@ Kristburgas buvo Ordino pilis Pamedėje, kurios pradžia siejama su magistro Hen
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -314,6 +317,7 @@ Kristburgas buvo Ordino pilis Pamedėje, kurios pradžia siejama su magistro Hen
   pagrindžia:
     - t-010
     - t-012
+
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -332,6 +336,7 @@ Kristburgas buvo Ordino pilis Pamedėje, kurios pradžia siejama su magistro Hen
   pagrindžia:
     - t-001
     - t-008
+
 - c-006
   santrauka: '1324 m. Kristburgo pilyje račiaus Andriaus vaišėse iš aluje dažytos duonos pradėjo varvėti kraujo lašai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -352,6 +357,7 @@ Kristburgas buvo Ordino pilis Pamedėje, kurios pradžia siejama su magistro Hen
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -373,6 +379,7 @@ Kristburgas buvo Ordino pilis Pamedėje, kurios pradžia siejama su magistro Hen
   pagrindžia:
     - t-007
     - t-004
+
 - c-008
   santrauka: 'Dusburgietis teigia, kad traukdami atgal, jie pasiskirstė dviem būriais, vieną pasivijo Kristburgo broliai, nukovė 15 lietuvių ir atėmė iš jų 50 krikščionių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

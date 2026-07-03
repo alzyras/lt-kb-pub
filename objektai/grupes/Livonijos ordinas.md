@@ -569,6 +569,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -581,6 +582,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-046
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -598,6 +600,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -611,6 +614,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -626,6 +630,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-051
+
 - c-006
   santrauka: 'Kryžiuočiai siekė užkariauti Žemaitiją kaip sausumos jungtį su Livonijos ordinu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -645,6 +650,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-007
   santrauka: '1424 m. Niešavos sutartis leido Lietuvos, Žemaičių, Lenkijos, Maskvos ir Rusijos pirkliams laisvai prekiauti Vokiečių ir Livonijos ordinų žemėse.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -662,6 +668,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-035
+
 - c-008
   santrauka: '1260 m. liepos 13 d. Durbės mūšyje buvo sutriuškinta Livonijos ordino šaka, Prūsijos kryžiuočiai ir jų talkininkai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -687,6 +694,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-053
+
 - c-009
   santrauka: 'Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -702,6 +710,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-036
+
 - c-010
   santrauka: 'Gedimino vardu rašytų laiškų klastojimas citatoje siejamas su Rygos arkivyskupo ir Livonijos ordino brolių konfliktu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -731,6 +740,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
+
 - c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -747,6 +757,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
+
 - c-012
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -765,6 +776,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   pagrindžia:
     - t-056
     - t-006
+
 - c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -782,6 +794,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   pagrindžia:
     - t-059
     - t-005
+
 - c-014
   santrauka: 'Apie 1396 m. Liksnoje rašytas laiškas buvo adresuotas Livonijos magistrui ir turėjo būti nedelsiant atiduotas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -799,6 +812,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-015
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -833,6 +847,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   pagrindžia:
     - t-054
     - t-037
+
 - c-016
   santrauka: '1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš didįjį Kalavijuočių ordino magistrą Firstembergą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -854,6 +869,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-017
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -869,6 +885,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-042
+
 - c-018
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -885,6 +902,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-045
+
 - c-019
   santrauka: 'Siena su Livonijos ordinu prasidėjo į Baltiją įtekančia Šventosios upe ir toliau rėmėsi senomis ribomis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -904,6 +922,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-066
+
 - c-020
   santrauka: '1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio danų vietininku.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -921,6 +940,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-021
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -938,6 +958,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   pagrindžia:
     - t-067
     - t-065
+
 - c-022
   santrauka: 'Livonijos ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -959,6 +980,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   pagrindžia:
     - t-024
     - t-050
+
 - c-023
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -977,6 +999,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   pagrindžia:
     - t-030
     - t-044
+
 - c-024
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -991,6 +1014,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-025
   santrauka: 'Konstancijos susirinkimas paskyrė Vytautą Livonijos vyskupų globėju, nes Livonijos ordinas dažnai skriausdavo jų vyskupijas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1010,6 +1034,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   pagrindžia:
     - t-052
     - t-043
+
 - c-026
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1026,6 +1051,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   pagrindžia:
     - t-009
     - t-012
+
 - c-027
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1041,6 +1067,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-058
+
 - c-028
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1058,6 +1085,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-057
+
 - c-029
   santrauka: 'Mūšyje žuvo daug livoniečių, tarp jų Kalavijuočių riterių ordino magistras Frankas Kirskorffas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1074,6 +1102,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-034
+
 - c-030
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1092,6 +1121,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   pagrindžia:
     - t-018
     - t-064
+
 - c-031
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1109,6 +1139,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-032
   santrauka: '1380 m. Jogaila sudarė paliaubas su Livonijos magistru Rygoje, apeidamas Kęstutį ir jo Žemaitijos kunigaikštystę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1129,6 +1160,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   pagrindžia:
     - t-028
     - t-063
+
 - c-033
   santrauka: 'Jogailos prieš Livonijos kariuomenę pasiųstas Vytautas sudarė taiką, gavęs pažadą dėl Sūduvos ir Žemaičių pripažinimo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1146,6 +1178,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-060
+
 - c-034
   santrauka: 'Salyno sutarties ratifikavime dalyvavo Prūsų ir Livonijos ordinų magistrai, Varmijos ir Sambijos vyskupai ir daug komtūrų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1163,6 +1196,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   pagrindžia:
     - t-020
     - t-039
+
 - c-035
   santrauka: 'Lietuvos valdovai į kovą prieš Ordiną įtraukė visą Lietuvos Didžiąją Kunigaikštiją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1179,6 +1213,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-048
+
 - c-036
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1192,6 +1227,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-061
+
 - c-037
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1220,6 +1256,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   pagrindžia:
     - t-014
     - t-026
+
 - c-038
   santrauka: 'Mindaugas, pasinaudodamas priešų nesantaika, kreipėsi į Livonijos ordino magistrą ir siuntė jam brangių dovanų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1238,6 +1275,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-062
+
 - c-039
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1256,6 +1294,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-041
+
 - c-040
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1271,6 +1310,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
+
 - c-041
   santrauka: '1260 m. Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -1296,6 +1336,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-042
   santrauka: 'Maskvos ginklų sutriuškintas Livonijos ordino magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1318,6 +1359,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-043
   santrauka: 'Kunigaikštis Mykolas vedė lenkų ir lietuvių pulkus prieš Švitrigailą ir Livonijos magistrą ir laimėjo netoli Ukmergės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1341,6 +1383,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-047
+
 - c-044
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1358,6 +1401,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   pagrindžia:
     - t-003
     - t-049
+
 - c-045
   santrauka: '1380 m. kovo 26 d. Rygoje sudarytos paliaubos tarp Livonijos magistro ir Lietuvos didžiojo kunigaikščio Jogailos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1383,6 +1427,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-046
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1402,6 +1447,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   pagrindžia:
     - t-019
     - t-008
+
 - c-047
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1422,6 +1468,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-048
   santrauka: 'Švitrigaila po nesėkmės prie Vilniaus prikalbino Livonijos ordino riterius kartu pulti Vitebską.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1449,6 +1496,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-038
+
 - c-049
   santrauka: 'Livonijos ordinas ir kariuomenė iš Prūsų atskubėjo kryžiuočiams į pagalbą, kai Vytautas puolė pilį atstatančius priešus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1464,6 +1512,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-055
+
 - c-050
   santrauka: 'Jogailos kariuomenė kartu su Livonijos magistru pasiuntė būrius Skirgailai į pagalbą prie Polocko.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1484,6 +1533,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-040
+
 - c-051
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1503,6 +1553,7 @@ Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, kuri veikė savar
   pagrindžia:
     - t-033
     - t-013
+
 - c-052
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

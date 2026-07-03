@@ -69,6 +69,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Zigmanto II antkapis buvo Krokuvos katedroje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

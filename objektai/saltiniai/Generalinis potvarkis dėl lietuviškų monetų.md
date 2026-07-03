@@ -70,6 +70,7 @@ Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešam
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Potvarkis numatė, kad 1558-1565 m. nukaldintos lietuviškos monetos galės būti keičiamos kalykloje pagal nustatytą kainą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

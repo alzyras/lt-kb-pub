@@ -111,6 +111,7 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-002
+
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -130,6 +131,7 @@ Nenurodyta
   pagrindžia:
     - t-005
     - t-001
+
 - c-003
   santrauka: 'Kristupo Radvilos Perkūno reido metu lietuvių pajėgos nusiaubė Dubno apylinkes, užėmė Cholmą, sudegino Starają Rusą ir nusiaubė Opokos apylinkes.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

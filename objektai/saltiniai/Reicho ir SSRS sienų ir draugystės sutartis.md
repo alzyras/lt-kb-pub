@@ -57,6 +57,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1939 m. rugsėjo 28 d. Reicho ir SSRS sienų ir draugystės sutarties slaptasis protokolas priskyrė Lietuvą SSRS įtakos sferai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

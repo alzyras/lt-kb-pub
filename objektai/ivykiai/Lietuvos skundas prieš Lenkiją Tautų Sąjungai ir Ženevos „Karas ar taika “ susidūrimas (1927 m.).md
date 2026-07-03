@@ -80,6 +80,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Ženevoje Tautų Sąjungos Taryba patvirtino, kad karo padėties tarp Lietuvos ir Lenkijos nėra.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

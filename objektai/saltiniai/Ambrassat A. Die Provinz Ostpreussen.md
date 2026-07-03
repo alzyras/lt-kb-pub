@@ -60,6 +60,7 @@ Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Ambrassato veikalo puslapis 421 nurodomas prie Gilgenburgo pilies ir miesto datavimo aptarimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

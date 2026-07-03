@@ -144,6 +144,7 @@ Ona Jogailaitė 1571 m. Žygimanto Augusto testamente įvardijama kaip karalait�
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -194,6 +195,7 @@ Ona Jogailaitė 1571 m. Žygimanto Augusto testamente įvardijama kaip karalait�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -213,6 +215,7 @@ Ona Jogailaitė 1571 m. Žygimanto Augusto testamente įvardijama kaip karalait�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -256,6 +259,7 @@ Ona Jogailaitė 1571 m. Žygimanto Augusto testamente įvardijama kaip karalait�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -277,6 +281,7 @@ Ona Jogailaitė 1571 m. Žygimanto Augusto testamente įvardijama kaip karalait�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -305,6 +310,7 @@ Ona Jogailaitė 1571 m. Žygimanto Augusto testamente įvardijama kaip karalait�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-007
   santrauka: 'Karalaitė Ona Jogailaitė Lenkijoje turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

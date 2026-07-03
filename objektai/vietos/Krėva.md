@@ -277,6 +277,7 @@ Krėva Lietuvos istorijos šaltiniuose minima kaip svarbi vieta, susijusi su Alg
   pagrindžia:
     - t-005
     - t-007
+
 - c-002
   santrauka: 'Vokiečių pirkliai lankė Krėvą ir kitus Lietuvos miestus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -293,6 +294,7 @@ Krėva Lietuvos istorijos šaltiniuose minima kaip svarbi vieta, susijusi su Alg
   pagrindžia:
     - t-009
     - t-008
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -306,6 +308,7 @@ Krėva Lietuvos istorijos šaltiniuose minima kaip svarbi vieta, susijusi su Alg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Algirdas valdė Vitebską ir Krėvą, o Kęstutis valdė Žemaitiją dar jų tėvui esant gyvam.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -326,6 +329,7 @@ Krėva Lietuvos istorijos šaltiniuose minima kaip svarbi vieta, susijusi su Alg
   pagrindžia:
     - t-004
     - t-010
+
 - c-005
   santrauka: 'Kęstutis buvo perkeltas į Krėvą, uždarytas pilies bokšte ir penktą naktį pasmaugtas kelių budelių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -349,6 +353,7 @@ Krėva Lietuvos istorijos šaltiniuose minima kaip svarbi vieta, susijusi su Alg
   pagrindžia:
     - t-002
     - t-006
+
 - c-006
   santrauka: 'Į Lietuvą įsiveržusi totorių kariuomenė užėmė Krėvą, Lydą, Vilnių, Trakus ir kitas vietoves bei priartėjo prie Kauno.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -392,6 +397,7 @@ Krėva Lietuvos istorijos šaltiniuose minima kaip svarbi vieta, susijusi su Alg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-007
   santrauka: 'Kęstutis po suėmimo buvo išvežtas į Krėvos pilį, kur po penkių dienų kalėjimo buvo nužudytas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -408,6 +414,7 @@ Krėva Lietuvos istorijos šaltiniuose minima kaip svarbi vieta, susijusi su Alg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-008
   santrauka: 'Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį liepė nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -438,6 +445,7 @@ Krėva Lietuvos istorijos šaltiniuose minima kaip svarbi vieta, susijusi su Alg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-009
   santrauka: 'Sargybinis įspėjo Oną, kad Vytautui gresia mirtis, nes Jogailos siųsti budeliai jau atvyko į Krėvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

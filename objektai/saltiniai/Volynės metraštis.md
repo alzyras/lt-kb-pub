@@ -58,6 +58,7 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Volynės metraštyje teritorija Crasim minima forma Krismence.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

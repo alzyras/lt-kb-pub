@@ -76,6 +76,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Vilniuje religijų įvairovė palūžusios pagonybės akivaizdoje kėlė piktumų tarp skirtingo tikėjimo žmonių ir jų dvasininkų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

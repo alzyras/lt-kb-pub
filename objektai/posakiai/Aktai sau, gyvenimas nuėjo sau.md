@@ -67,6 +67,7 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Unijos dokumentas liko dokumentu, o gyvenimas pagal savo logiką pasuko kitu keliu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -84,6 +85,7 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Aktai sau, gyvenimas nuėjo sau.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

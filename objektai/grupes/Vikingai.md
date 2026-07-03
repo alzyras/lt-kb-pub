@@ -69,6 +69,7 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Prie Dauguvos ir Dniepro kelio į Bizantiją ilgainiui atsirado vikingų sodybų, saugojusių upe keliaujančius pirklius nuo plėšikų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

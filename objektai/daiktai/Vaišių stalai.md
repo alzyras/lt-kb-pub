@@ -85,6 +85,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Martinas Galas rašė, kad Boleslovo Didžiojo dvare kasdien būdavo parengiama keturiasdešimt pagrindinių stalų, neskaitant mažesnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

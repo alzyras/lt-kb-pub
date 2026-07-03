@@ -621,6 +621,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -635,6 +636,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   pagrindžia:
     - t-027
     - t-015
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -649,6 +651,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -662,6 +665,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   pagrindžia:
     - t-029
     - t-033
+
 - c-005
   santrauka: 'Po kovų su Lenkija Gediminaitis Liubartas išsilaikė Volinijoje, Lucke.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -677,6 +681,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-006
   santrauka: 'Ivinskio teigimu, 1398 m. žygyje paimti karaimai veikiausiai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -690,6 +695,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
+
 - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -706,6 +712,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   pagrindžia:
     - t-013
     - t-007
+
 - c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -722,6 +729,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   pagrindžia:
     - t-003
     - t-001
+
 - c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -736,6 +744,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -750,6 +759,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
+
 - c-011
   santrauka: 'Valentinas iš Pilzno buvo Vilniaus ir Lucko kanauninkas bei Pabaisko bažnyčios klebonas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -781,6 +791,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   pagrindžia:
     - t-018
     - t-016
+
 - c-012
   santrauka: '1429 m. sausio 9–29 d. Lucko suvažiavime Vytautas ir Jogaila susitiko su Zigmantu I aptarti Vidurio ir Rytų Europos politikos problemų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -806,6 +817,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-013
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -828,6 +840,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   pagrindžia:
     - t-012
     - t-023
+
 - c-014
   santrauka: 'Vakarinėje LDK dalyje tarp Vilniaus ir Lucko didikai kūrė rezidencijas dėl reprezentacijos ir artumo Krokuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -847,6 +860,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-015
   santrauka: '1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -871,6 +885,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   pagrindžia:
     - t-008
     - t-028
+
 - c-016
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -887,6 +902,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
+
 - c-017
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -902,6 +918,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   pagrindžia:
     - t-005
     - t-006
+
 - c-018
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -918,6 +935,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-019
   santrauka: '1429 m. sausio 9–29 d. Lucko suvažiavime Vytautas ir Jogaila susitiko su Zigmantu I aptarti Vidurio ir Rytų Europos politikos problemų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -946,6 +964,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-020
   santrauka: 'Lucke buvo sušauktas daugelio monarchų ir kunigaikščių suvažiavimas, tariamai skirtas sąjungai prieš turkus sudaryti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -970,6 +989,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   pagrindžia:
     - t-010
     - t-022
+
 - c-021
   santrauka: 'Žygimantas suteikė Vilniaus miestiečiams teisę be muito gabenti prekes Lietuvos žemėje, įskaitant Lucką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -994,6 +1014,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   pagrindžia:
     - t-035
     - t-009
+
 - c-022
   santrauka: 'Po Lietuvos krikšto LDK buvo suformuota Lucko katalikų vyskupija greta Vilniaus, Žemaičių ir Kijevo vyskupijų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1010,6 +1031,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-023
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1036,6 +1058,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-034
+
 - c-024
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1047,6 +1070,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-025
   santrauka: '1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1074,6 +1098,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-026
   santrauka: '1388 m. Šv. Jono Krikštytojo dieną Lucke buvo išduotas antspaudu patvirtintas raštas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1089,6 +1114,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-036
+
 - c-027
   santrauka: 'Prie Jaseldos upės sumuštas Mstislavas prarado kariuomenę ir vos gyvas paspruko į Lucką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1126,6 +1152,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-037
+
 - c-028
   santrauka: 'Mūšyje žuvo Drucko kunigaikštis Michailas, Lucko valdovas Andrejus ir Treniotos broliai Pisimantas bei Liubartas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1162,6 +1189,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-038
+
 - c-029
   santrauka: 'Po senato posėdžio karalius skubiai išvyko iš Lucko, net neatsisveikinęs su imperatoriumi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1186,6 +1214,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-039
+
 - c-030
   santrauka: 'Karo veiksmai artėjo prie Lucko, nes niekas nedrįso ginklu ginti Boleslovo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1205,6 +1234,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-040
+
 - c-031
   santrauka: 'Boleslovas, bijodamas rimtesnių veiksmų prieš save, pasitraukė iš Lucko į Dakiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1228,6 +1258,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-041
+
 - c-032
   santrauka: 'Lietuvos metraštyje Skirmantas prie Jieseldos upės sumušė Lucko ir Pinsko kunigaikštį Mstislavą, kuris pabėgo į Lucką.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1244,6 +1275,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-042
+
 - c-033
   santrauka: 'Lietuvos metraštyje Jogaila parsikvietė Vytautą iš Prūsų ir davė jam valdyti Lucką bei visą Volynės žemę.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1261,6 +1293,7 @@ Luckas šaltiniuose siejamas su Vytauto įsitvirtinimu Volinijoje: minimos Lucko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-043
+
 - c-034
   santrauka: 'Lietuvos metraštyje Vytautas, būdamas Lucke, sutarė išleisti dukterį Sofiją už Maskvos didžiojo kunigaikščio Vasilijaus Dmitrijevičiaus.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

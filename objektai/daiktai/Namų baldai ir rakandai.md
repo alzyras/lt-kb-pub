@@ -55,6 +55,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 ## Pastabos
 
 - šis platus sąrašas artimas bendresniam viešam įrašui apie namų dirbinius, bet čia pateikiamas gerokai platesnis būtos padargų sąrašas.

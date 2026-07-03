@@ -63,6 +63,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -75,6 +76,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 ## Pastabos
 
 - terminas tekste turi ir žaidybinį, ir karės įrankio vartojimą, todėl daiktinis kandidatas čia keliamas kartu su galimu žodyno kandidatu.

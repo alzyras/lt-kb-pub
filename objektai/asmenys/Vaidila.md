@@ -107,6 +107,7 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Kęstutis įsakė pakarti Vaidilą, laikydamas jį karo kurstytoju.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -133,6 +134,7 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

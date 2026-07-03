@@ -61,6 +61,7 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
   pagrindžia:
     - t-003
     - t-001
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

@@ -275,6 +275,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   pagrindžia:
     - t-009
     - t-018
+
 - c-002
   santrauka: 'Skomantas su sūduviais įsibrovė į Kulmo žemę ir padalijo kariuomenę į dvi dalis, nukreiptas prieš Torunę ir Kulmo miestą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -302,6 +303,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-003
   santrauka: 'Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -318,6 +320,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
+
 - c-004
   santrauka: 'Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -335,6 +338,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -349,6 +353,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-006
   santrauka: '1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -367,6 +372,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -388,6 +394,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   pagrindžia:
     - t-006
     - t-032
+
 - c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -407,6 +414,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
     - t-029
     - t-031
     - t-006
+
 - c-009
   santrauka: 'Magistras su kariuomene įsiveržė į Sūduvos Kimenavos valsčių ir privertė Kimenavos pilėnus atiduoti pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -424,6 +432,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-010
   santrauka: 'Sūduviai su didele kariuomene apsiautė Bartenšteino pilį, ją sugriovė, o visus gyventojus išžudė arba išsivarė į nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -435,6 +444,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-011
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -449,6 +459,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   pagrindžia:
     - t-021
     - t-005
+
 - c-012
   santrauka: 'Sūduviai pranoko kitus kilnumu, turtais ir galybe ir turėjo šešis tūkstančius raitelių bei daug kitokių karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -463,6 +474,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-013
   santrauka: 'Dusburgietis sūduvius vadina paskutine ir galingiausia neužkariauta Prūsijos žemės gentimi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -480,6 +492,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-014
   santrauka: 'Spalio 21 d. Skomantas su 4000 sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę keršyti už savųjų žūtį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -499,6 +512,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-015
   santrauka: 'Iš Sūduvos atėjusi kariuomenė netikėtai užpuolė Kulmo žemės kaimų žmones, juos išžudė, o moteris ir vaikus išsivarė į nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -518,6 +532,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-016
   santrauka: 'Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose siejami su 1205 m., tai yra 1209–1210 m., įvykiais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -535,6 +550,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
 - c-017
   santrauka: 'Dusburgietis sūduvius apibūdina kaip tauriausius, kitus pranokusius papročių kilnumu, turtais ir galybe.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -549,6 +565,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-018
   santrauka: 'Brolis Liudvikas iš Libencelės atvedė magistrui Konradui Kantigirdą ir 1600 sūduvių, kuriuos nelaisvėje buvo atvertęs į Kristaus tikėjimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -570,6 +587,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   pagrindžia:
     - t-030
     - t-007
+
 - c-019
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -589,6 +607,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
     - t-002
     - t-020
     - t-033
+
 - c-020
   santrauka: 'Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -607,6 +626,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-021
   santrauka: 'Magistro Mangoldo vadovavimo metais sūduviai pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -626,6 +646,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-022
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -648,6 +669,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   pagrindžia:
     - t-015
     - t-007
+
 - c-023
   santrauka: 'Sūduviai su didele kariuomene apsiautė Bartenšteino pilį, ją sugriovė, o visus gyventojus išžudė arba išsivarė į nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -669,6 +691,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-024
   santrauka: 'Sūduviai sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -688,6 +711,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-025
   santrauka: 'Kazio Būgos nuomone, jotvingiai kalbėjo prūsų kalbos tarme.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -702,6 +726,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-026
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -722,6 +747,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   pagrindžia:
     - t-013
     - t-014
+
 - c-027
   santrauka: 'Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -742,6 +768,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-028
   santrauka: 'Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -758,6 +785,7 @@ Sūduviai-jotvingiai XIII a. šaltiniuose minimi kaip karinga vakarinių baltų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-029
   santrauka: 'Kariuomenė iš Sūduvos ir kitų žemių prie Valevonos pilies apiplėšė aplinkinius valsčius ir pasitraukė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

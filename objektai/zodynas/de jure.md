@@ -60,6 +60,7 @@ Sostas pripažino Lietuvos valstybę de jure (1922.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Vatikanas, JAV, Ispanija, Olandija, Skandinavijos šalys ir 1922 m. gruodžio 20 d. keturios Antantės valstybės pripažino Lietuvą de jure.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

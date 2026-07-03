@@ -428,6 +428,7 @@ Vengrija Lietuvos istorijos šaltiniuose minima kaip Vidurio Europos karalystė,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -446,6 +447,7 @@ Vengrija Lietuvos istorijos šaltiniuose minima kaip Vidurio Europos karalystė,
   pagrindžia:
     - t-004
     - t-011
+
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -461,6 +463,7 @@ Vengrija Lietuvos istorijos šaltiniuose minima kaip Vidurio Europos karalystė,
   pagrindžia:
     - t-007
     - t-005
+
 - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -479,6 +482,7 @@ Vengrija Lietuvos istorijos šaltiniuose minima kaip Vidurio Europos karalystė,
   pagrindžia:
     - t-009
     - t-002
+
 - c-005
   santrauka: '1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -497,6 +501,7 @@ Vengrija Lietuvos istorijos šaltiniuose minima kaip Vidurio Europos karalystė,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-006
   santrauka: 'Totoriai nuniokojo Vengriją ir Lenkiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -510,6 +515,7 @@ Vengrija Lietuvos istorijos šaltiniuose minima kaip Vidurio Europos karalystė,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -525,6 +531,7 @@ Vengrija Lietuvos istorijos šaltiniuose minima kaip Vidurio Europos karalystė,
   pagrindžia:
     - t-010
     - t-012
+
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -547,6 +554,7 @@ Vengrija Lietuvos istorijos šaltiniuose minima kaip Vidurio Europos karalystė,
   pagrindžia:
     - t-003
     - t-008
+
 - c-009
   santrauka: 'Imperatorius, apsvarstęs su Vytautu svarbiausius klausimus, iš Volynės patraukė tiesiai į Vengriją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -570,6 +578,7 @@ Vengrija Lietuvos istorijos šaltiniuose minima kaip Vidurio Europos karalystė,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-010
   santrauka: 'Tėvo raginamas valdovo sūnus su karių parama leidosi į Vengriją, tačiau vengrai nuo jo nusigręžė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -588,6 +597,7 @@ Vengrija Lietuvos istorijos šaltiniuose minima kaip Vidurio Europos karalystė,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-011
   santrauka: 'Vladislovas turėjo likti Vengrijos karaliumi, o jam mirus be vaikų Jonas turėjo tapti sosto įpėdiniu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

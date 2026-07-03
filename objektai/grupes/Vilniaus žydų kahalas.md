@@ -95,6 +95,7 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -117,6 +118,7 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Tėvas Juraha viderkafto mokestį priskyrė kahale investuotoms sumoms, nuo kurių kahalas mokėjo procentus įpareigotoms pamaldoms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -143,6 +145,7 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: '1631 m. Vilniaus kahalo žydams buvo perduota 5500 auksinų suma, nuo kurios kahalas iki 1763 m. mokėjo 8 procentus Valerijono konvikto gyventojams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

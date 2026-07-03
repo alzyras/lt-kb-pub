@@ -48,7 +48,8 @@ Lenkija pramanė „sukilimo“ pasaką, kad pateisintų Želigovskio kariuomen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Želigovskio kariuomenė buvo sudaryta su daug vilniškių, kad Vilniaus užėmimą būtų lengviau teisinti kaip vietinių sukilimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

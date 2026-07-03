@@ -64,6 +64,7 @@ Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1938 m. Baltijos šalių ministrai nutarė neleisti užsienio kariuomenėms kirsti jų teritorijų net pagal Tautų Sąjungos Statuto 16 straipsnį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

@@ -62,6 +62,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1940 m. liepos 21 d. trijų Baltijos šalių „parlamentai“ paskelbė savo šalis sovietų socialistinėmis respublikomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

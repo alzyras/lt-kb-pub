@@ -142,6 +142,7 @@ Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 17
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -158,6 +159,7 @@ Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 17
   pagrindžia:
     - t-010
     - t-004
+
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -174,6 +176,7 @@ Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 17
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Michałas Balińskis, vertindamas Vilniaus akademijos istoriją, pagyrė Edukacinės komisijos veiklą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -191,6 +194,7 @@ Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 17
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Edukacinė komisija sumodernino ir supasaulietino mokymo programą, įvesdama gamtos ir tiksliųjų mokslų disciplinas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -207,6 +211,7 @@ Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 17
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-006
   santrauka: 'Vilniuje gyvenęs autorius kurį laiką dirbo Edukacinėje teismo komisijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -223,6 +228,7 @@ Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 17
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -241,6 +247,7 @@ Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 17
   pagrindžia:
     - t-002
     - t-006
+
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -256,6 +263,7 @@ Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 17
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-009
   santrauka: 'Edukacinė komisija įkurta 1773 m.; jos pirmininku tapo Vilniaus vyskupas Ignotas Masalskis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -271,6 +279,7 @@ Edukacinė Komisija buvo bendra Lietuvos ir Lenkijos institucija, veikusi nuo 17
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-010
   santrauka: 'A. Šapokos redaguotoje istorijoje Edukacinė Komisija vertinama kaip pirmas Europoje atvejis, kai švietimą perėmė valstybė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

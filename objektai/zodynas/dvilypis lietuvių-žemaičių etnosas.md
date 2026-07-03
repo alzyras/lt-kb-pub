@@ -61,6 +61,7 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vilniaus universiteto aplinkoje susibūrę iš Žemaitijos kilę inteligentai siekė plėtoti aukštąją kultūrą lietuvių arba žemaičių kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

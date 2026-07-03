@@ -529,6 +529,7 @@ Ryga Lietuvos istorijoje minima kaip svarbus prekybos centras prie Dauguvos keli
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-002
   santrauka: '1621 m. Rygai atitekus Švedams, Lietuvos laisvoji prekyba Dauguvos keliu per Rygą užsidarė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -542,6 +543,7 @@ Ryga Lietuvos istorijoje minima kaip svarbus prekybos centras prie Dauguvos keli
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: '1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -559,6 +561,7 @@ Ryga Lietuvos istorijoje minima kaip svarbus prekybos centras prie Dauguvos keli
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-004
   santrauka: '1313 m. Rygos arkivyskupas ir miestiečiai buvo priversti taikytis su ordinu ir nutraukti sąjungą su Vyteniu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -575,6 +578,7 @@ Ryga Lietuvos istorijoje minima kaip svarbus prekybos centras prie Dauguvos keli
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-005
   santrauka: '1989 m. rugpjūčio 23 d. Baltijos kelias buvo rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -602,6 +606,7 @@ Ryga Lietuvos istorijoje minima kaip svarbus prekybos centras prie Dauguvos keli
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-006
   santrauka: 'XIII-XIV a. Ryga buvo svarbiausias Lietuvos prekybos punktas, nes laisvas miestas buvo sukalbamesnis už kryžiuočius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -619,6 +624,7 @@ Ryga Lietuvos istorijoje minima kaip svarbus prekybos centras prie Dauguvos keli
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-007
   santrauka: 'Ryga buvo turtingas miestas, per kurį ėjo prekyba su Dauguvos ir Dniepro upyno miestais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -634,6 +640,7 @@ Ryga Lietuvos istorijoje minima kaip svarbus prekybos centras prie Dauguvos keli
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-008
   santrauka: 'Ryga nepripažino 1561 m. Livonijos pasidavimo sutarties ir liko nepriklausoma iki 1582 m., kai ją nukariavo Steponas Batoras.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -654,6 +661,7 @@ Ryga Lietuvos istorijoje minima kaip svarbus prekybos centras prie Dauguvos keli
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   santrauka: 'Vytauto laikais Ryga buvo vienas iš prekybos centrų, buvusių netoli Lietuvos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

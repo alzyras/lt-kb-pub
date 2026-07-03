@@ -81,6 +81,7 @@ amziai:
   pagrindžia:
     - t-002
     - t-003
+
 - c-002
   santrauka: '1919 m. 7-asis pulkas atsitraukęs užėmė 1,5 km gynybos ruožą palei Širvintos ir Kertušos upes nuo Levainių iki Kačiniškių dvaro.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

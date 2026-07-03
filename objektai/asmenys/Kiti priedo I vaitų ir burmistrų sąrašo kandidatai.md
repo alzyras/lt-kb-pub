@@ -107,6 +107,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-002
   santrauka: 'Andrius Katavičius 1666 m. neteisėtai gavo privilegiją Vilniaus vaitystei, bet Jonas Kazimieras ją panaikino 1667 m. sausio 15 d. dekretu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -129,6 +130,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Jokūbas Vargalovskis Stefanovičius dar buvo Vilniaus vaitas 1713 ir 1721 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -144,6 +146,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -174,6 +177,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Jachna Laurinavičius sąraše nurodytas kaip žinomas nuo 1485 m., o tuo metu burmistru buvo Mykolas Laurinavičius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -187,6 +191,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: '1620 m. burmistrais buvo nurodyti katalikų atstovas Petras Pliuščius ir stačiatikių atstovas Leonas Mamoničius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -83,6 +83,7 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Posakiu „pirma geležis į vašką, o vanduo į plieną pavirs“ 1323 m. laiškuose teigta, kad duotas žodis nebus sulaužytas ar atšauktas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -58,6 +58,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Visi 79 kandidatai 1940 m. rinkimuose į Liaudies seimą atstovavo Lietuvos darbo liaudies sąjungai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

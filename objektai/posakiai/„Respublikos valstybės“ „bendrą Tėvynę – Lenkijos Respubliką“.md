@@ -73,6 +73,7 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
   pagrindžia:
     - t-003
     - t-002
+
 - c-002
   santrauka: 'Remiantis šiuo įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendrose vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijose – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai turėjo būti paeiliui lenkai ir.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

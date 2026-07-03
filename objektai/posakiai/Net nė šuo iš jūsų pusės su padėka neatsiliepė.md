@@ -72,6 +72,7 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Posakis „net nė šuo iš jūsų pusės su padėka neatsiliepė“ pavartotas priekaištaujant, kad adresatai neatsakė į pasiūlymus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

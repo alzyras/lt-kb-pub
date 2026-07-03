@@ -81,6 +81,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -96,6 +97,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Vytautas kurį laiką išbuvo Ordino sostinėje Marienburge.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

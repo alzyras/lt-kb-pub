@@ -71,6 +71,7 @@ Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Mikalojus Moskoževskis, išvargintas karo rūpesčių ir Skirgailos įnorių, grąžino karaliui Vilniaus seniūno pareigas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -90,6 +91,7 @@ Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Mikalojus Moskoževskis gindamas pilį atakas atremdavo staigiais išpuoliais ir apsukriai taisydavo priešo padarytą žalą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

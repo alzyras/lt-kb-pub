@@ -80,6 +80,7 @@ Konradas iš Tirbergo Jaunesnysis buvo Prūsijos žemės maršalas ir dvyliktas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Konradas iš Tirbergo Jaunesnysis, būdamas Prūsijos žemės maršalas, įsiveržė į Pakimos valsčių Sūduvoje ir jį smarkiai nusiaubė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -98,6 +99,7 @@ Konradas iš Tirbergo Jaunesnysis buvo Prūsijos žemės maršalas ir dvyliktas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Konradas iš Tirbergo Jaunesnysis su didele kariuomene puolė Bisenės pilį, ją užėmė ir pavertė pelenais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -116,6 +118,7 @@ Konradas iš Tirbergo Jaunesnysis buvo Prūsijos žemės maršalas ir dvyliktas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Magistras Konradas iš Tirbergo Jaunesnysis subūrė brolius ir karius žygiui į Sūduvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

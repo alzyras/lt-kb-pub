@@ -90,6 +90,7 @@ Konradas iš Foichtvangeno 1279 m. buvo paskirtas Prūsijos ir Livonijos brolių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: 'Konradas iš Foichtvangeno atsisakė pareigybės Prūsijoje ir pasiliko vienos Livonijos žemės magistru.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -107,6 +108,7 @@ Konradas iš Foichtvangeno 1279 m. buvo paskirtas Prūsijos ir Livonijos brolių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Konradas iš Foichtvangeno turėjo dievui atsidavusią seserį, gyvenusią viename Vokietijos vienuolyne.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -123,6 +125,7 @@ Konradas iš Foichtvangeno 1279 m. buvo paskirtas Prūsijos ir Livonijos brolių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |

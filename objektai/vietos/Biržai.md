@@ -70,6 +70,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

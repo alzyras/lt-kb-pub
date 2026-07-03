@@ -310,6 +310,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Unijos akte Jogaila ir Vytautas pažadėjo Vilniuje įsteigti vaivados ir kašteliono pareigybes.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -324,6 +325,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -345,6 +347,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Vilniaus ir Trakų vaivadų pareigybės įvestos 1413 m.; iki tol panašias vaivadų funkcijas vykdė seniūnai.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

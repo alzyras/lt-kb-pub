@@ -51,6 +51,7 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Pakartoto Įstatymo knygos žodžiais buvo guodžiami į karą einantys žmonės, raginant nebijoti gausesnės priešų kariuomenės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -70,6 +70,7 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Aleksandro laikais daug valstybės dvarų Lietuvoje pateko bajorijai ir ponams, nes valdovas juos dalijo be atodairos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -87,6 +88,7 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Mirus Jonui Albrechtui, Aleksandras buvo išrinktas Lenkijos karaliumi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

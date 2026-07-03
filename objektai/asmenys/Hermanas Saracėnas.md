@@ -74,6 +74,7 @@ Hermanas Saracėnas buvo iš Švabijos kilęs Teutonų ordino brolis, gyvenęs K
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -98,6 +99,7 @@ Hermanas Saracėnas buvo iš Švabijos kilęs Teutonų ordino brolis, gyvenęs K
   pagrindžia:
     - t-005
     - t-006
+
 - c-003
   santrauka: 'Pasakojime Mergelė Marija ne kartą slapta ir draugiškai kalbėjosi su Hermanu Saracėnu, jau priimtu į Teutonų ordiną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -118,6 +120,7 @@ Hermanas Saracėnas buvo iš Švabijos kilęs Teutonų ordino brolis, gyvenęs K
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Hermanas Saracėnas iš Karaliaučiaus pilies rengėsi vykti į karą Kurše, kai, pasak pasakojimo, jam pasirodė Mergelė Marija.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -140,6 +143,7 @@ Hermanas Saracėnas buvo iš Švabijos kilęs Teutonų ordino brolis, gyvenęs K
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |

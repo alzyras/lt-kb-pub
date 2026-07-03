@@ -84,6 +84,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1246 m. Sventopelkas su didesne kariuomene persekiojo atsitraukiančius brolius, bet mūšyje prarado 1500 vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -118,6 +119,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: '1246 m. magistras, broliai, kunigaikštis Kazimieras ir jų sąjungininkai įsiveržė į Pomeraniją ir devynias dienas ją niokojo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

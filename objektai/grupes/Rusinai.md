@@ -134,7 +134,8 @@ Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas nurodė, kad vestuvių pyrago pavadinimas „karvojus“ lietuvių vartosenoje buvo perimtas iš rusinų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -152,7 +153,8 @@ Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Narbutas rašė, kad Lietuvos rusinai baidykles Zlydni vaizdavosi keliamečių vaikų pavidalo ir tikėjo jas kenkiant namams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -170,7 +172,8 @@ Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Narbutas teigė, kad Lietuvos rusinai žinojo prietarus apie naminius žalčius, latvių vadintus Czuhskas ir garbintus kaip fetišus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -186,7 +189,8 @@ Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-005
+    - t-004
+- c-005
   santrauka: 'Narbutas Plikojo kalno pavadinimą siejo su rusinu, vienu iš miesto kolonistų, atgabentų iš Lietuvos Rusios kuriant Vilnių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -200,7 +204,8 @@ Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-006
+    - t-005
+- c-006
   santrauka: 'Narbutas atmetė Stenderio aiškinimą, kad kriviai kildintini iš rusų žemės, nes latviai tenykščius rusinus vadino Kreews arba Kriws.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -218,7 +223,8 @@ Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-007
+    - t-006
+- c-007
   santrauka: 'Narbutas rašė, kad rusinai vilku virstantį kerėtoją vadino Wolkotak, latviai - Wilkats, o lietuviai - Witkatas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -232,7 +238,8 @@ Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-008
+    - t-007
+- c-008
   santrauka: 'Narbutas nurodė, kad rusinai alaus tipo gėrimą vadino Ohij, o lietuviai, prūsai ir latviai turėjo giminingus pavadinimus Alaus, Alus ir Alius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -246,7 +253,8 @@ Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-009
+    - t-008
+- c-009
   santrauka: 'Narbutas citavo Faterio nuomonę, kad Dusburgiečio žinia apie krivį kilo iš rusinų, latviškai vadintų krieviais, pavadinimo nesupratimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

@@ -89,6 +89,7 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Henrikas Lankasteris, Derbio grafas, dalyvavo Vilniaus apgultyje 1390 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -114,6 +115,7 @@ liepos 25 d. 119 ## Puslapis 136 VILNIAUS MIESTO ISTORIJA I TOMAS lankininkų, k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Henrikas Lankasteris apie 1390 m. buvo prie Vilniaus ir Prūsijoje išgarsėjo riteriškais žygiais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -73,6 +73,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Daug galingų ir kilmingų Nadruvos vyrų su šeimynomis atėjo pas brolius, priėmė krikštą, išsižadėjo stabų ir ėmė tarnauti Kristui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

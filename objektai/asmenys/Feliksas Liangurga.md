@@ -68,6 +68,7 @@ Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: '1527-1552 m. Vilniaus vaitas buvo Krokuvos miestietis Feliksas Liangurga.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

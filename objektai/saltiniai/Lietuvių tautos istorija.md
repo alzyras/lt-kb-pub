@@ -65,6 +65,7 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Balinskio rašiniuose T. Narbuto „Lietuvių tautos istorija“ pateikiama kaip pavyzdys, kaip nereikia rašyti istorijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -80,6 +81,7 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvoje stigo veikalų apie krašto istoriją nuo seniausių laikų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

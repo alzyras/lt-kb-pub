@@ -2340,7 +2340,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-074- c-002
+    - t-074
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nuo «nebylių
@@ -2356,7 +2357,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-003
+    - t-012
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Nemuno gynybinė sistema
@@ -2369,7 +2371,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-033- c-004
+    - t-033
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pralaimėjimo kaina buvo labai didelė.
@@ -2388,7 +2391,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-067
-    - t-037- c-005
+    - t-037
+- c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ## Puslapis 151
@@ -2404,7 +2408,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-006
+    - t-022
+- c-006
   santrauka: 'Dusburgiečio kronikoje teigiama, kad kryžiaus karui „viešpats pasirinko Prūsijos žemę“, o Ordino veiksmai laikyti Dievo veiksmais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -2424,7 +2429,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-040- c-007
+    - t-040
+- c-007
   santrauka: '1394 m. Prūsijos ordinas pasinaudojo Švitrigailos išvykimu pas kryžiuočius ir pradėjo karą prieš Lietuvą bei Lenkiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2458,7 +2464,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-055- c-008
+    - t-055
+- c-008
   santrauka: 'Po Kryžiuočių ordino užkariavimo Prūsija galutinai imtas vadinti visas kraštas tarp Vyslos ir Nemuno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -2474,7 +2481,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023- c-009
+    - t-023
+- c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tautos, kalbos, raštijos
@@ -2489,7 +2497,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-044
-    - t-014- c-010
+    - t-014
+- c-010
   santrauka: 'Po pralaimėjimo Vilniaus prieigose dalies lenkų dalinių likučiai perėjo sieną su Prūsija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2502,7 +2511,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-028- c-011
+    - t-028
+- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­
@@ -2531,7 +2541,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-066- c-012
+    - t-066
+- c-012
   santrauka: '1390 m. sausio pradžioje Vytautas išsiuntė šeimą iš Gardino į Prūsiją ir rengėsi atnaujinti sutartis su didžiuoju magistru.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2557,7 +2568,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
-    - t-011- c-013
+    - t-011
+- c-013
   santrauka: '1385 m. rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas iš Prūsijos puolė Lietuvos žemes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2582,7 +2594,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-    - t-051- c-014
+    - t-051
+- c-014
   santrauka: 'Petro iš Dusburgo kronikos IV dalies paaiškinimai Prūsijos įvykius gretino su visuotinės istorijos faktais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -2599,7 +2612,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-050- c-015
+    - t-050
+- c-015
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­
@@ -2617,7 +2631,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-070
-    - t-016- c-016
+    - t-016
+- c-016
   santrauka: 'Popiežius nenorėjo be tolesnio nagrinėjimo patvirtinti sutarties, galbūt dėl naujesnių žinių iš Prūsijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2646,7 +2661,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-031- c-017
+    - t-031
+- c-017
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Rusija visą laiką buvo palanki arba vis dar pakluso svy­
@@ -2659,7 +2675,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-030- c-018
+    - t-030
+- c-018
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai buvo žmogus, kurį dar Algirdas dėl didelių
@@ -2676,7 +2693,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-045
-    - t-013- c-019
+    - t-013
+- c-019
   santrauka: 'Skirgaila nuvyko į Prūsiją ir, remdamasis sandėriu su Ordinu, rengė naujus antpuolius prieš Kęstutį ir Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2693,7 +2711,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-071- c-020
+    - t-071
+- c-020
   santrauka: '1326 m. Petras iš Dusburgo užbaigė kroniką, skirtą pagrįsti kryžiuočių užkariavimus Prūsijoje ir karą prieš Lietuvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -2707,7 +2726,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-065- c-021
+    - t-065
+- c-021
   santrauka: 'Dusburgiečio kronikoje pabrėžiama, kad Ordino broliai apvalė „šventąją Prūsijos žemę“ nuo stabmeldystės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -2719,7 +2739,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-047- c-022
+    - t-047
+- c-022
   santrauka: '1960 m. buvo suredaguotas leidinys „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2733,7 +2754,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019- c-023
+    - t-019
+- c-023
   santrauka: 'Prūsijos teutonų ordino broliai pasiuntė kariuomenę aplinkiniais keliais ir sudegino Vytenio pranciškonams pastatytą bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2758,7 +2780,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-032- c-024
+    - t-032
+- c-024
   santrauka: 'Vokiečių ordino valstybėje, vėliau tapusioje Prūsija, lietuviai ilgainiui pradėti vadinti lietuvininkais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2777,7 +2800,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-062- c-025
+    - t-062
+- c-025
   santrauka: 'Po Žygimanto Kęstutaičio mirties Prūsijos ordino įtaka Lietuvos likimui liovėsi vyravusi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2804,7 +2828,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-042- c-026
+    - t-042
+- c-026
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytauto rūpesčiu žemaičiai Karaliaučiuje
@@ -2825,7 +2850,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-061
-    - t-038- c-027
+    - t-038
+- c-027
   santrauka: '1231 m. Prūsijoje pradėjęs veikti Kryžiuočių ordinas buvo stipresnis ir geriau organizuotas nei kalavijuočiai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -2837,7 +2863,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-072- c-028
+    - t-072
+- c-028
   santrauka: '1304 m. Vokietijos maldininkai vėl išsirengė keliauti į Prūsijos žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -2852,7 +2879,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-060- c-029
+    - t-060
+- c-029
   santrauka: 'Dėl baisių šalčių Prūsijoje ir Livonijoje nušalo visi vaismedžiai, o kryžiuočiai negalėjo imtis žygio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2872,7 +2900,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-064
-    - t-020- c-030
+    - t-020
+- c-030
   santrauka: 'Vytauto laikais Vilniaus prekyba išsišakojo su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2898,7 +2927,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-    - t-029- c-031
+    - t-029
+- c-031
   santrauka: 'Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai nusiaubė kraštą ir grįžo į Prūsiją bei Livoniją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2928,7 +2958,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
-    - t-026- c-032
+    - t-026
+- c-032
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kita ekspe­
@@ -2947,7 +2978,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-039- c-033
+    - t-039
+- c-033
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Juk šis kroniki­
@@ -2969,7 +3001,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
-    - t-035- c-034
+    - t-035
+- c-034
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
@@ -2990,7 +3023,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-035
+    - t-001
+- c-035
   santrauka: 'Petro iš Dusburgo kronikoje Prūsijos žemė skirstoma į 11 atskirų žemių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -3009,7 +3043,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-036
+    - t-018
+- c-036
   santrauka: 'Prūsijos ir Livonijos kryžiuočių galybė rėmė asmenį, troškusį tapti Lietuvos valdovu ir atkeršyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3033,7 +3068,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-063- c-037
+    - t-063
+- c-037
   santrauka: '1329 m. Jonas Liuksemburgietis, Čekijos karalius, su kilmingaisiais atžygiavo į Prūsijos žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -3053,7 +3089,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-043- c-038
+    - t-043
+- c-038
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmąjį Vilniaus paminėjimą, pirmą autentišką
@@ -3077,7 +3114,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-052
-    - t-009- c-039
+    - t-009
+- c-039
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet
@@ -3096,7 +3134,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
-    - t-025- c-040
+    - t-025
+- c-040
   santrauka: 'Kryžiuočiai sunaikino Romuvas, užėmę Prūsiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3122,7 +3161,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-049- c-041
+    - t-049
+- c-041
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tačiau Zigmantas nė ne­
@@ -3139,7 +3179,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027- c-042
+    - t-027
+- c-042
   santrauka: 'Prūsijoje pasklido gandas, kad Gediminas išsiuntinėjo laiškus apie norą priimti krikštą ir prisijungti prie tikinčiųjų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3172,7 +3213,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-073
-    - t-059- c-043
+    - t-059
+- c-043
   santrauka: 'Petro iš Dusburgo kronikoje Prūsijos vardu politine prasme vadintas Ordino užkariautas plotas nuo Vyslos iki Nemuno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -3190,7 +3232,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-041- c-044
+    - t-041
+- c-044
   santrauka: 'Rugpjūčio 8 d. apie trečią valandą visoje Prūsijoje tris kartus drebėjo žemė su pastatais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -3203,7 +3246,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-045
+    - t-003
+- c-045
   santrauka: '1375 m. ekspedicija iš Prūsijos sukėlė Vilniui grėsmę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3224,7 +3268,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-057- c-046
+    - t-057
+- c-046
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jau Salyno taikoje (1398) buvo paliesti prekybos reikalai,
@@ -3241,7 +3286,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-056
-    - t-024- c-047
+    - t-024
+- c-047
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     bergan pas ciesorių Karolių IV vieną savo giminaitį tartis dėl
@@ -3258,7 +3304,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
-    - t-004- c-048
+    - t-004
+- c-048
   santrauka: 'Vienais metais Prūsijos žemėje buvo pagaunama kur kas mažiau silkių negu anksčiau.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -3275,7 +3322,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-048- c-049
+    - t-048
+- c-049
   santrauka: 'Prūsijos dokumentuose Vilija XIII amžiuje buvo vadinama Nerimi arba Neria.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3294,7 +3342,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-036- c-050
+    - t-036
+- c-050
   santrauka: 'Dusburgiečio kronikoje Ordino karas Prūsijoje vaizduojamas kaip vykęs „pagal dievo valią“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -3309,7 +3358,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-053- c-051
+    - t-053
+- c-051
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mažojoje Lietuvoje iškilo ir pirmasis
@@ -3326,7 +3376,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-068
-    - t-069- c-052
+    - t-069
+- c-052
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lapkričio 5 dieną pasidavė Varšuva, kurią
@@ -3341,7 +3392,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-054- c-053
+    - t-054
+- c-053
   santrauka: '1322 m. žiemą po ilgos ramybės nauja kryžiuočių ekspedicija patraukė į Prūsiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3358,7 +3410,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034- c-054
+    - t-034
+- c-054
   santrauka: 'Per Kotrynos II įvykdytus Respublikos padalijimus trečdalis valstybės buvo atiduotas Prūsijai ir Austrijai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -3373,7 +3426,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-046- c-055
+    - t-046
+- c-055
   santrauka: 'Prūsijos žemę ribojo Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -3388,7 +3442,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-058- c-056
+    - t-058
+- c-056
   santrauka: 'Skirgaila, gavęs pavedimą, nuvyko į Prūsiją ir ėmė rengti antpuolius prieš Kęstutį bei Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3403,7 +3458,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-057
+    - t-021
+- c-057
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvos istorijoje yra žinomos šven­
@@ -3427,7 +3483,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-058
+    - t-002
+- c-058
   santrauka: 'Priešams užplūdus Lietuvos miestus, daugelis vokiečių pirklių pabėgo į Prūsiją, ypač į Karaliaučių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -3441,7 +3498,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-075- c-059
+    - t-075
+- c-059
   santrauka: 'Livonija vis glaudžiau šliejosi prie Prūsijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3462,7 +3520,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-076- c-060
+    - t-076
+- c-060
   santrauka: 'Sudeginus Karšuvos ir Heilsbergo pilis Kurše, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3484,7 +3543,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-077- c-061
+    - t-077
+- c-061
   santrauka: 'Mindaugas, atgavęs Žemaitiją bei Kuršą ir nusiaubęs Sembą, po kelerių metų vėl sukėlė karą Prūsijoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3506,7 +3566,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-078- c-062
+    - t-078
+- c-062
   santrauka: 'Į pagalbą prieš Prūsijos ir Žemaitijos gyventojus buvo sutelkta daug kariuomenės iš Vokietijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3544,7 +3605,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-079- c-063
+    - t-079
+- c-063
   santrauka: 'Skomantas, neseniai pabėgęs į Prūsiją, su prūsų kariais netikėtai patraukė Gardino kryptimi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3561,7 +3623,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-080- c-064
+    - t-080
+- c-064
   santrauka: 'Vytenio pulkai beveik tris mėnesius niokojo Prūsiją, kurią siaubė žudynės ir gaisrai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3588,7 +3651,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-081- c-065
+    - t-081
+- c-065
   santrauka: 'Bertoldas Briuhavenas į Livoniją buvo pasiųstas su Prūsijos kryžiuočių daliniu ir nugalėjo apgulties išsekintus lietuvius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3622,7 +3686,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-082- c-066
+    - t-082
+- c-066
   santrauka: 'Kęstutis, priešui pasitraukus iš Lietuvos, slaptais miškų keliais užpuolė Prūsiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3648,7 +3713,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-083- c-067
+    - t-083
+- c-067
   santrauka: 'Kryžiuočiai po ariergardo pralaimėjimo skubiai pasitraukė į Prūsiją, pakelėse išmesdami gausų grobį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3666,7 +3732,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-084- c-068
+    - t-084
+- c-068
   santrauka: 'Nugalėtojai, išžudę ginkluotus priešininkus kovos lauke, be grobio sugrįžo į Prūsiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3688,7 +3755,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-085- c-069
+    - t-085
+- c-069
   santrauka: 'Kryžiuočiai paragino ginkluotis Prūsijos vyrus ir pasikvietė pagalbininkų iš Silezijos, Austrijos, Vokietijos, Anglijos bei Prancūzijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3717,7 +3785,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-086- c-070
+    - t-086
+- c-070
   santrauka: 'Jogaila įsakė dvidešimt laivų su grūdais Vysla nuplukdyti į Prūsijos pasienį, kad maistas būtų nugabentas į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3736,7 +3805,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-087- c-071
+    - t-087
+- c-071
   santrauka: 'Jogaila, matydamas kryžiuočių sėkmę, įsakė visoms Lenkijos žemėms stoti į kovą su Prūsija.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3752,7 +3822,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-088- c-072
+    - t-088
+- c-072
   santrauka: 'Lietuvių kariuomenė, sugrįžusi iš Prūsijos, šiek tiek pailsėjo ir patraukė iš vakarų į rytus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3776,7 +3847,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-089- c-073
+    - t-089
+- c-073
   santrauka: 'Rengiantis traukti į Prūsiją, Vilniuje buvo sušauktas lietuvių seimas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3800,7 +3872,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-090- c-074
+    - t-090
+- c-074
   santrauka: 'Narbutas ginčija išvadą apie dievo kilmę, nes, jo teigimu, žemės drebėjimų būta Prūsijoje ir jie buvo žinomi tolimesnei Lietuvai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -3812,7 +3885,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-091- c-075
+    - t-091
+- c-075
   santrauka: 'Narbutas rašo, kad Prūsijos kronikininkai šiuo vardu siejo dievintą senovės kunigaikštį Vaidevutį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -3833,7 +3907,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-092- c-076
+    - t-092
+- c-076
   santrauka: 'Narbutas rašo, kad Prūsijos kronikininkai burtininkams priskyrė ateities pranašavimą liejant ištirpintą vašką į šaltą vandenį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -3849,7 +3924,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-093- c-077
+    - t-093
+- c-077
   santrauka: 'Narbutas rašo, kad Prūsijos kronikininkai senovės prūsų herbo kilmę siejo su Vaidevučio laikais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -3866,7 +3942,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-094- c-078
+    - t-094
+- c-078
   santrauka: 'Narbutas Dusburgiečio pasakojimą apie senovės Prūsiją laiko patikimu krivio istorinės egzistencijos argumentu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -3887,7 +3964,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-095- c-079
+    - t-095
+- c-079
   santrauka: 'Narbutas ginkluoto atvertimo eigą sieja su tikėjimo smukimu ir vardija ją nuo Livonijos iki Prūsijos, Lietuvos ir Žemaitijos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -3907,7 +3985,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-096- c-080
+    - t-096
+- c-080
   santrauka: 'Narbutas pateikia Hartknocho duomenis apie lietuvių kalbą, vartotą Prūsijoje, Nemuno žemupyje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -3928,7 +4007,8 @@ Prūsija Lietuvos istorijos žinių bazėje siejama su Kryžiuočių ordino veik
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-097- c-081
+    - t-097
+- c-081
   santrauka: 'Narbutas VII lentelėje Romovę vaizduoja Prūsijoje, Prūsos ir Bysleidos upių santakoje, kaip šventą miestą su šventovės aptvaru.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

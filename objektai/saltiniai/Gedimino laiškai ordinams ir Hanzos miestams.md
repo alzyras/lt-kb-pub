@@ -77,6 +77,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: '1323 m. notaro parengtas autentiškas Gedimino laiškų ordinams ir Hanzos miestams dokumentas buvo Karaliaučiaus slaptajame archyve.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -111,6 +112,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Gedimino laiškai rodo valdovo siekį gausinti Lietuvos gyventojus, kelti gerovę ir kviesti amatininkus, žemdirbius bei dvasininkus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -137,6 +139,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Foigtas ginčijo Gedimino laiškų autentiškumą ir teigė, kad juos parengė bei išsiuntinėjo Rygos arkivyskupas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

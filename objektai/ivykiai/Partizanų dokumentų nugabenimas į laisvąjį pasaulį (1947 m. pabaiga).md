@@ -78,6 +78,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1947 m. pabaigoje partizanų dokumentų nugabenimas į Vakarus padėjo pirmą kartą užmegzti ryšius su pasitraukusių lietuvių organizacijomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

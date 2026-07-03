@@ -85,6 +85,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: 'Pabaisko parapijos ribos turėjo eiti nuo Širvintos upės iki Šventosios ir būti juosiamos Kertušos upės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -118,6 +119,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Pabaisko bažnyčia buvo pastatyta Šventosios Trejybės, Mergelės Marijos Ėmimo į dangų, šv. Egidijaus ir šv. Jurgio garbei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -151,6 +153,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Pabaisko bažnyčios ir klebonijos fundacijos privilegija buvo sudaryta 1544 metais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

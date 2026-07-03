@@ -60,6 +60,7 @@ Vaišvilkas leidosi į Šventąjį Kalną. Dėl sąmyšio anuose kraštuose Vai�
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   santrauka: 'Po trejų metų vienuolyne Vaišvilkas iškeliavo į Šventąjį Kalną ir buvo Grigorijaus palaimintas.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

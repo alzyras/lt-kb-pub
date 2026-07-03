@@ -58,6 +58,7 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Katinavos apylinkės apibūdintos kaip ryškus pagoniško kulto židinys.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

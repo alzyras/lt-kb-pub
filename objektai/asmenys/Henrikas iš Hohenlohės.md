@@ -74,6 +74,7 @@ Henrikas iš Hohenlohės minimas kaip Ordino magistras, valdęs 1244–1249 m. S
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Henriko iš Hohenlohės pranešime pirmojo prūsų sukilimo pradžios kariuomenė įvardyta kaip „lietuviai ir prūsai“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -90,6 +91,7 @@ Henrikas iš Hohenlohės minimas kaip Ordino magistras, valdęs 1244–1249 m. S
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Henrikas iš Hohenlohės buvo vėlesnis didysis magistras, kurio kanceliarijoje redaguotas „Pranešimas“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -102,6 +104,7 @@ Henrikas iš Hohenlohės minimas kaip Ordino magistras, valdęs 1244–1249 m. S
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Henrikas iš Hohenlohės buvo vienas iš trijų Ordino magistrų, praleistų aptariamame sąraše.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

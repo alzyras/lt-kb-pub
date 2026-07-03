@@ -85,6 +85,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Didžiojo Vilniaus Seimo rezoliucijų raginimai paskatino Lietuvos kaimus ir miestelius perimti valsčių savivaldybes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

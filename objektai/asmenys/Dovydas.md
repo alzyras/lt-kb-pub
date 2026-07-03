@@ -88,6 +88,7 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Dovydas mokė savo kariuomenės vadą Joabą nenusiminti dėl saviškių mirties ir padrąsinti kovotojus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -108,7 +109,8 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   statusas: verified
 
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-003
+  patikimumo_saltinis: ai
+- c-003
   santrauka: 'Pulko vadas Dovydas žuvo grįždamas su kariuomene namo po Mazovijos siaubimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |

@@ -116,6 +116,7 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -145,6 +146,7 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Aukštutinėje tvirtovėje užsidarė lenkai, kuriems vadovavo Karūnos pakancleris Mikalojus Moskoževskis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -167,6 +169,7 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   santrauka: 'Jogailos laikų Vilniaus miesto plane Aukštutinė pilis nurodyta ant Tauro kalno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -185,6 +188,7 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Kalno, ant kurio stovėjo Aukštutinė pilis, griūtis užslinko ant Manvydo rūmo ir pridarė daug nuostolių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -204,6 +208,7 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-006
   santrauka: 'Aukštutinę pilį saugojo aukšti mūrai ir bokštai, o apačioje driekėsi Žemutinė pilis, vadinta Kreivąja.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -220,6 +225,7 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-007
   santrauka: 'Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula valdė ir kitus gyventojus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

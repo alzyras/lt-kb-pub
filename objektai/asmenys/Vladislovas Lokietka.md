@@ -157,6 +157,7 @@ Vladislovas Lokietka buvo Lenkijos valdovas, kurio suvienyta Lenkija siekė dipl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -171,6 +172,7 @@ Vladislovas Lokietka buvo Lenkijos valdovas, kurio suvienyta Lenkija siekė dipl
   pagrindžia:
     - t-002
     - t-005
+
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -187,6 +189,7 @@ Vladislovas Lokietka buvo Lenkijos valdovas, kurio suvienyta Lenkija siekė dipl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-004
   santrauka: 'Vasario 1 d. Vladislovas Lokietka su 6 tūkstančiais karių įsibrovė į Kulmo žemę ir ją siaubė penkias dienas bei naktis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -204,6 +207,7 @@ Vladislovas Lokietka buvo Lenkijos valdovas, kurio suvienyta Lenkija siekė dipl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-005
   santrauka: 'Vladislovo Lokietkos laikais Lenkijos aristokratai ir dvasininkija pradėjo šaukti suvažiavimus ir tautos pasitarimus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -221,6 +225,7 @@ Vladislovas Lokietka buvo Lenkijos valdovas, kurio suvienyta Lenkija siekė dipl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-006
   santrauka: 'Kazimieras ir Lokietka, Lenkijos kunigaikščiai, dėl savo žmonių likimo paprašė Prūsijos magistro Meinhardo pagalbos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -239,6 +244,7 @@ Vladislovas Lokietka buvo Lenkijos valdovas, kurio suvienyta Lenkija siekė dipl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-007
   santrauka: '1326 m. Lokietka paprašė Lietuvos karaliaus Gedimino atsiųsti karių, ir Gediminas jam davė 1200 raitelių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -255,6 +261,7 @@ Vladislovas Lokietka buvo Lenkijos valdovas, kurio suvienyta Lenkija siekė dipl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-008
   santrauka: 'Dusburgietis Gedimino sąjungininką Vladislovą Lokietką vadino išdaviku, nes šis dėl Pamario kovojo prieš Ordiną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -273,6 +280,7 @@ Vladislovas Lokietka buvo Lenkijos valdovas, kurio suvienyta Lenkija siekė dipl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-009
   santrauka: '1330 m. rudenį Lokietka, Lenkijos karalius, su savo raiteliais, samdininkais ir vengrų pagalba užgriuvo Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -296,7 +304,8 @@ Vladislovas Lokietka buvo Lenkijos valdovas, kurio suvienyta Lenkija siekė dipl
   statusas: verified
 
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-010
+  patikimumo_saltinis: ai
+- c-010
   santrauka: 'Gediminas, matydamas užsitęsiančią kovą su kryžiuočiais, rado sąjungininką Lenkijos valdovo Vladislovo Lokietkos asmenyje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

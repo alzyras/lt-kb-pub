@@ -734,7 +734,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-002
+    - t-013
+- c-002
   santrauka: 'Mindaugas, gelbėdamasis nuo Livonijos Ordino, buvo priverstas taikytis ir priimti katalikų tikėjimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -747,7 +748,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-003
+    - t-004
+- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Mindaugo broliavimosi su
@@ -761,7 +763,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
-    - t-002- c-004
+    - t-002
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Per beveik tris dešimtmečius kryžiuočiai nukariavo visas
@@ -776,7 +779,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
-    - t-003- c-005
+    - t-003
+- c-005
   santrauka: 'Mindaugas 1219 m. kartu su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -800,7 +804,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-006
+    - t-014
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -816,7 +821,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
-    - t-026- c-007
+    - t-026
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -834,7 +840,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_saltinis: ai
   pagrindžia:
     - t-035
-    - t-025- c-008
+    - t-025
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gediminas, supamas tokių įvairių kaimyninio val­
@@ -856,7 +863,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
-    - t-031- c-009
+    - t-031
+- c-009
   santrauka: '1248 m. Mindaugui kilo grėsminga opozicija, sudaryta iš jo brolvaikių, Livonijos ordino ir Voluinės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -873,7 +881,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-010
+    - t-011
+- c-010
   santrauka: 'Karalius Mindaugas su visa savo karalyste buvo atsivertęs į Kristaus tikėjimą, bet dėl teutonų išdavysčių nuo jo atkrito.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -903,7 +912,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
-    - t-018- c-011
+    - t-018
+- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I  KNYGA
@@ -927,7 +937,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-    - t-028- c-012
+    - t-028
+- c-012
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo I a. po
@@ -949,7 +960,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   pagrindžia:
     - t-019
     - t-012
-    - t-005- c-013
+    - t-005
+- c-013
   santrauka: 'Dalis jotvingių žemių įėjo į Mindaugo valstybės sudėtį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -964,7 +976,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029- c-014
+    - t-029
+- c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl suomiai, estai ir latviai buvo nukariauti, prūsai – išnaikinti, o Min-
@@ -980,7 +993,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-    - t-016- c-015
+    - t-016
+- c-015
   santrauka: 'Genealoginėje ištraukoje Mindaugas nurodomas kaip Lietuvos kunigaikštis 1240 m., Erdeno nužudytas 1263 m. arba 1265 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -998,7 +1012,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-016
+    - t-021
+- c-016
   santrauka: 'Teiginys apie žynių luomo nebuvimą buvo grindžiamas duomenimis apie Mindaugo ir Kęstučio dalyvavimą aukojimo apeigose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -1010,7 +1025,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027- c-017
+    - t-027
+- c-017
   santrauka: '1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusiaubė Ordino užnugarį Pavyslyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -1027,7 +1043,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-018
+    - t-001
+- c-018
   santrauka: '1259 m. Mindaugo dokumente išvardytos Dainavos, arba Jotvingijos, terrulae.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -1043,7 +1060,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-033- c-019
+    - t-033
+- c-019
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tasai Dovilas ar Dovydas turėjo būti pir­
@@ -1057,7 +1075,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034- c-020
+    - t-034
+- c-020
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O Mindaugas, karūnavęsis per Vokietijos vasalą –
@@ -1082,7 +1101,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
-    - t-017- c-021
+    - t-017
+- c-021
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmiausia, joms priklauso užuomina apie kara­
@@ -1096,7 +1116,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023- c-022
+    - t-023
+- c-022
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
@@ -1110,7 +1131,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-023
+    - t-010
+- c-023
   santrauka: 'Mindaugo krikštas ir karalystė nepanaikino pagoniškų dievų vaidmens Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1129,7 +1151,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-024
+    - t-006
+- c-024
   santrauka: 'Maukoldas buvo Mindaugo, dar vadinamo Mendogu, tėvas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1148,7 +1171,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-025
+    - t-015
+- c-025
   santrauka: 'Mindaugas sukūrė valstybę ir, nors laikinai, įtraukė ją į Europos šalių sistemą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1163,7 +1187,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-036- c-026
+    - t-036
+- c-026
   santrauka: 'Mindaugas, atgavęs Žemaitiją ir Kuršą bei nusiaubęs Sembą, sukurstė Prūsijos žmones atsimesti nuo kryžiuočių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1185,7 +1210,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-037- c-027
+    - t-037
+- c-027
   santrauka: 'Mindaugas, susilaukęs rusų paramos, slaptai ir netikėtai įsibrovė į Mazoviją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1211,7 +1237,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-038- c-028
+    - t-038
+- c-028
   santrauka: 'Mirus Mindaugo žmonai, Daumanto žmona atvyko į Mindaugo rūmus tvarkyti šeimynos moterų ir surengti šermenų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1234,7 +1261,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-039- c-029
+    - t-039
+- c-029
   santrauka: 'Narbutas Mindaugą vadina Lietuvos ir Rusios kunigaikščiu ir jo žudikais įvardija Daumantą, Treniotą bei Tautvilą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1252,7 +1280,8 @@ Mindaugas – XIII a. Lietuvos valdovas, pirmą kartą šaltiniuose minimas 1219
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-040- c-030
+    - t-040
+- c-030
   santrauka: 'Narbutas Mindaugo valdymo pradžią sieja su 1240 metais ir nuo jos skiria aiškesnės Lietuvos istorijos laikotarpį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

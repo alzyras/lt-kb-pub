@@ -51,6 +51,7 @@ Skirgaila nujojęs į Miloslavičius ten susirgo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susirgo ir, grįžęs į Kijevą, septintą dieną mirė.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

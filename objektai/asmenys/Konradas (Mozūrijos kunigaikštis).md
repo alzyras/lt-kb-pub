@@ -105,6 +105,7 @@ Konradas buvo Mozūrijos kunigaikštis, šaltiniuose siejamas su prūsų krikšt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -123,6 +124,7 @@ Konradas buvo Mozūrijos kunigaikštis, šaltiniuose siejamas su prūsų krikšt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir saugoti vietinius bei aplinkinius krikščionis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -142,6 +144,7 @@ Konradas buvo Mozūrijos kunigaikštis, šaltiniuose siejamas su prūsų krikšt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -158,6 +161,7 @@ Konradas buvo Mozūrijos kunigaikštis, šaltiniuose siejamas su prūsų krikšt
   pagrindžia:
     - t-005
     - t-004
+
 - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -174,6 +178,7 @@ Konradas buvo Mozūrijos kunigaikštis, šaltiniuose siejamas su prūsų krikšt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-006
   santrauka: 'Vokiečių ordino įsikūrimas Kulmo žemėje siejamas su Mazovijos kunigaikščio Konrado dovanojimu Ordinui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -191,6 +196,7 @@ Konradas buvo Mozūrijos kunigaikštis, šaltiniuose siejamas su prūsų krikšt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-007
   santrauka: 'Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -235,6 +241,7 @@ Konradas buvo Mozūrijos kunigaikštis, šaltiniuose siejamas su prūsų krikšt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-008
   santrauka: '„Pranešime...“ kalbama apie pagonių brovimąsi į Mazovijos kunigaikščio Konrado valdas ir Vokiečių ordino pakvietimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -249,6 +256,7 @@ Konradas buvo Mozūrijos kunigaikštis, šaltiniuose siejamas su prūsų krikšt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

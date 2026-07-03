@@ -97,6 +97,7 @@ Jonas Mačiulis-Maironis pristatomas kaip tautos Atgimimo dainius ir vienas Liet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Jono Mačiulio-Maironio lietuviškai rašyta poezija knygoje apibūdinta kaip romantiška, daininga, lyriška ir savotiškai kovinga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -117,6 +118,7 @@ Jonas Mačiulis-Maironis pristatomas kaip tautos Atgimimo dainius ir vienas Liet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Poetas Maironis laikomas tautos Atgimimo dainiumi Lietuvos Respublikos ištakų kontekste.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -136,6 +138,7 @@ Jonas Mačiulis-Maironis pristatomas kaip tautos Atgimimo dainius ir vienas Liet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta Maironio, Vinco Mykolaičio-Putino ir kitų lietuvių autorių kūrinių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -158,6 +161,7 @@ Jonas Mačiulis-Maironis pristatomas kaip tautos Atgimimo dainius ir vienas Liet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   santrauka: 'J. Stalino valdymo metais iš bibliotekų buvo pašalintos Maironio, Vinco Kudirkos, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -178,6 +182,7 @@ Jonas Mačiulis-Maironis pristatomas kaip tautos Atgimimo dainius ir vienas Liet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-006
   santrauka: 'Suvokimas, kad tautos ateitis priklauso nuo atminties, įkvėpė Joną Mačiulį-Maironį raštu įamžinti Lietuvos praeitį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

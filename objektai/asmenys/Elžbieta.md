@@ -152,6 +152,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -169,6 +170,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-003
   santrauka: 'Šventa Elžbieta gimė 1207 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -186,6 +188,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: '1235 m. popiežius Grigalius IX kanonizavo šventą Elžbietą Perudžoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -204,6 +207,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -226,6 +230,7 @@ periodo_grupes: []
   pagrindžia:
     - t-009
     - t-006
+
 - c-006
   santrauka: '1227 m. rugsėjo 11 d. Ortrante mirė šventos Elžbietos vyras landgrafas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -244,6 +249,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-007
   santrauka: 'Šventa Elžbieta mirė 1231 m. lapkričio 19 d.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -261,6 +267,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -278,6 +285,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-009
   santrauka: 'Karalienė Elžbieta sutiko po 1383 m. Velykų išsiųsti Jadvygą lenkams, jei ši po karūnavimo trejiems metams grįš į Vengriją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -295,6 +303,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-010
   santrauka: 'Žygimantui Augustui buvo paprašyta Romos karaliaus Ferdinando dukters Elžbietos rankos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

@@ -90,6 +90,7 @@ Petras I Didysis buvo Maskvos caras, XVIII a. pradžioje siekęs Rusijai prasive
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -104,6 +105,7 @@ Petras I Didysis buvo Maskvos caras, XVIII a. pradžioje siekęs Rusijai prasive
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Ivinskio vertinimu, Petro Didžiojo epocha įvedė Rusijos imperiją į Europos areną ir bajorų respubliką paliko Rusijos įtakoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -124,6 +126,7 @@ Petras I Didysis buvo Maskvos caras, XVIII a. pradžioje siekęs Rusijai prasive
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -140,6 +143,7 @@ Petras I Didysis buvo Maskvos caras, XVIII a. pradžioje siekęs Rusijai prasive
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -157,6 +161,7 @@ Petras I Didysis buvo Maskvos caras, XVIII a. pradžioje siekęs Rusijai prasive
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'Petras I susitarė su Augustu II dėl Rusijos paramos prieš Švediją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

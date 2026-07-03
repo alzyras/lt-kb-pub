@@ -46,6 +46,7 @@ Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos lauki�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Priėmęs Ordino pasiuntinių atneštus kardus Jogaila atsakė, kad kautynių vieta bus gera ten, kur ją paskirs Dievas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

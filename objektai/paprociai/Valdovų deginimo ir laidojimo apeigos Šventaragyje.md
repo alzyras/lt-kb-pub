@@ -78,6 +78,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Šventaragiu vadinta vieta iki Jogailos laikų išsaugojo valdovų deginimo ir pelenų laidojimo pagoniškas apeigas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -108,6 +109,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Per valdovo laidotuves didikai ant laužo užkeldavo kario drabužiais aprengtą kūną, o šalia dėdavo jo ginklus, sakalus, šunis, tarną ir žirgą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

@@ -245,7 +245,8 @@ M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-002
+    - t-002
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jogailai pristigo pajėgų gintis taip staiga užkluptam,
@@ -273,7 +274,8 @@ M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Liet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-    - t-010- c-003
+    - t-010
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I  KNYGA
@@ -303,7 +305,8 @@ M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-004
+    - t-004
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anot jų, Gediminas,
@@ -335,7 +338,8 @@ M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-005
+    - t-005
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Stryjkowski,ed. Królewiec, 1.487
@@ -357,7 +361,8 @@ M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-006
+    - t-006
+- c-006
   santrauka: '1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“ tapo parankine Lietuvos bajorijos knyga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -373,7 +378,8 @@ M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-007
+    - t-018
+- c-007
   santrauka: 'Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -401,7 +407,8 @@ M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Liet
     - t-015
     - t-024
     - t-019
-    - t-016- c-008
+    - t-016
+- c-008
   santrauka: 'M. Strijkovskio kronika plačiai aprašė Kęstučio gudrybes puolant Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -424,7 +431,8 @@ M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023- c-009
+    - t-023
+- c-009
   santrauka: 'M. Strijkovskio kronika minima kaip XVI a. istorinės tradicijos šaltinis apie mūšį prie Irpenės upės netoli Belgorodo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -441,7 +449,8 @@ M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-010
+    - t-021
+- c-010
   santrauka: 'M. Strijkovskio kronika Gotfrido Lindeno Vilniaus apgultį datavo metais per vėlai ir praleido dalį aplinkybių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -460,7 +469,8 @@ M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Liet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
-    - t-001- c-011
+    - t-001
+- c-011
   santrauka: 'Strijkovskis prie Vilniaus apsupties aukų priskyrė Narimantą, remdamasis Długoszo pramanytu pasakojimu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -502,7 +512,8 @@ M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Liet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
-    - t-007- c-012
+    - t-007
+- c-012
   santrauka: 'Strijkovskio kronikoje Vilniaus įkūrimas pasakojamas kaip XIV amžiaus įvykis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -521,7 +532,8 @@ M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-013
+    - t-014
+- c-013
   santrauka: 'M. Strijkovskio kronikos VIII knygoje aiškinta Šventaragio vardo kilmė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -538,7 +550,8 @@ M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-014
+    - t-022
+- c-014
   santrauka: 'M. Strijkovskio kronika mini, kad Vytautas paskleidė gandą apie atvykimą į Vilnių rengti Ringailės ir Mazovijos kunigaikščio Henriko vestuvių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -560,7 +573,8 @@ M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-015
+    - t-012
+- c-015
   santrauka: 'Narbutas aiškina, kad Strijkovskio minima Pilwitos arba Pilwite reiškia turto deivę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -571,7 +585,8 @@ M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024- c-016
+    - t-024
+- c-016
   santrauka: 'Narbutas, remdamasis Strijkovskiu, vaizduoja, kad žmonės Birutę dar gyvą ėmė garbinti kaip deivę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -587,7 +602,8 @@ M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025- c-017
+    - t-025
+- c-017
   santrauka: 'Narbutas rašo, kad Strijkovskis pursčius, jo siejamus su romėnų mitologijos Purs, vadino pigmėjais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -600,7 +616,8 @@ M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026- c-018
+    - t-026
+- c-018
   santrauka: 'Narbutas kritiškai perteikia Strijkovskio teiginį, kad Pušaitis ir barstukai pasirodydavę prieštaringiems žmonėms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -615,7 +632,8 @@ M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027- c-019
+    - t-027
+- c-019
   santrauka: 'Narbutas nurodo, kad Strijkovskis Vilniaus Perkūno šventykloje prie Katedros mini atskirą koplyčią, kurioje laikyti gyvi šliužai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -630,7 +648,8 @@ M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-028- c-020
+    - t-028
+- c-020
   santrauka: 'Narbutas remiasi Strijkovskiu teigdamas, kad medinis milžino išvaizdos Kukovaičio stabas stovėjo ant kalno prie Deltuvos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -642,7 +661,8 @@ M. Strijkovskio kronika – 1582 m. lenkų kalba išspausdinta „Lenkijos, Liet
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029- c-021
+    - t-029
+- c-021
   santrauka: 'Narbutas aiškina, kad Strijkovskis apie lietuvių aukštąsias pareigas rašė plačiau, nes esą turėjo daugiau istorijos šaltinių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

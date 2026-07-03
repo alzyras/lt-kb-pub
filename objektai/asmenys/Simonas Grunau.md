@@ -140,7 +140,8 @@ Simonas Grunau XVI a. 3-iajame dešimtmetyje Prūsijoje parašė išsamią Prūs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'XVI a. 3-iajame dešimtmetyje Simonas Grunau Prūsijoje parašė išsamią visos Prūsijos istoriją iki 1529 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -155,7 +156,8 @@ Simonas Grunau XVI a. 3-iajame dešimtmetyje Prūsijoje parašė išsamią Prūs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Simono Grunau kronikoje Rikojotas aprašytas kaip prūsų dievų kulto centras su žaliuojančiu ąžuolu, šventykla ir trimis dievų stabais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -171,7 +173,8 @@ Simonas Grunau XVI a. 3-iajame dešimtmetyje Prūsijoje parašė išsamią Prūs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Narbutas rašė, kad Simonas Grunau kroniką grindė seniausiomis kronikomis apie legendinį žiemą ir vasarą žaliavusį Romovės ąžuolą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -189,7 +192,8 @@ Simonas Grunau XVI a. 3-iajame dešimtmetyje Prūsijoje parašė išsamią Prūs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-005
+    - t-004
+- c-005
   santrauka: 'Narbutas perteikė Grunau pasakojimą, kad šis atsitiktinai pateko į kaimą per ožio aukojimą ir turėjo prisiekti Perkūnui neišduoti apeigų vyskupui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -205,7 +209,8 @@ Simonas Grunau XVI a. 3-iajame dešimtmetyje Prūsijoje parašė išsamią Prūs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-006
+    - t-005
+- c-006
   santrauka: 'Grunau pasakojime apie išpažintį vyrai klaupdavosi prieš vaidilą, išpažindavo nuodėmes ir kaip atgailą patirdavo fizines bausmes.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -221,7 +226,8 @@ Simonas Grunau XVI a. 3-iajame dešimtmetyje Prūsijoje parašė išsamią Prūs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-007
+    - t-006
+- c-007
   santrauka: 'Narbutas nurodė, kad Grunau teigė pats laikęs senovės prūsų vėliavą ir ją išmatavęs: 4 uolekčių ilgio ir 3 uolekčių pločio.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -234,7 +240,8 @@ Simonas Grunau XVI a. 3-iajame dešimtmetyje Prūsijoje parašė išsamią Prūs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-008
+    - t-007
+- c-008
   santrauka: 'Narbutas nurodė, kad Henenbergeris ir Hartknochas iš Grunau perėmė žinią apie ypatingą senovės prūsų vėliavos užrašą nežinomomis raidėmis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -246,7 +253,8 @@ Simonas Grunau XVI a. 3-iajame dešimtmetyje Prūsijoje parašė išsamią Prūs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-009
+    - t-008
+- c-009
   santrauka: 'Narbutas laikė Grunau papildomu liudytoju, kad vyskupo Kristijono kronikoje buvo žinių apie krivį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -266,7 +274,8 @@ Simonas Grunau XVI a. 3-iajame dešimtmetyje Prūsijoje parašė išsamią Prūs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-010
+    - t-009
+- c-010
   santrauka: 'Narbutas Simoną Grunau vadino seniausiu žinomu šio pasakojimo šaltiniu ir gynė jį kaip didesnės pagarbos vertą kronikininką.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -284,7 +293,8 @@ Simonas Grunau XVI a. 3-iajame dešimtmetyje Prūsijoje parašė išsamią Prūs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-011
+    - t-010
+- c-011
   santrauka: 'Narbutas gynė Grunau nuo Foigto kritikos ir manė, kad žinią apie vyriausiuosius žynius jis paėmė iš vyskupo Kristijono kronikos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

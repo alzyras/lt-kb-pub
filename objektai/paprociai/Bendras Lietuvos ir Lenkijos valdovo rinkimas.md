@@ -88,6 +88,7 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Lietuvių bajorų akte nustatyta, kad Jogailai mirus be įpėdinių Lenkija negalėtų rinktis karaliaus be Vytauto ir jo bajorų žinios.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

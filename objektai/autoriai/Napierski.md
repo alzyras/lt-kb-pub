@@ -70,6 +70,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Napierskis perdavė dviejų dokumentų nuorašus ir buvo Livonijos dokumentų rinkinio nuorodos autorius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -100,6 +101,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Napierskio veikale „Index Codicis Hist. Dipl. Livon.“ pateiktas Vytauto 1426 m. sausio 13 d. laiško turinys.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

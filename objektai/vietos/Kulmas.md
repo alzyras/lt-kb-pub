@@ -634,6 +634,7 @@ Kulmas buvo Kulmo žemės vieta, siejama su ankstyva Kryžiuočių ordino atrama
   pagrindžia:
     - t-001
     - t-007
+
 - c-002
   santrauka: 'Mozūrų kunigaikštis Konradas vyskupą Kristijoną įkurdino Mozūrams priklausiusio Kulmo žemės pakraštyje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -651,6 +652,7 @@ Kulmas buvo Kulmo žemės vieta, siejama su ankstyva Kryžiuočių ordino atrama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-003
   santrauka: 'Kulmo kilmingieji ir miestiečiai tvirtino verčiau žūsią garbingoje kovoje, nei diena po dienos merdėsią varge.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -670,6 +672,7 @@ Kulmas buvo Kulmo žemės vieta, siejama su ankstyva Kryžiuočių ordino atrama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-004
   santrauka: 'Kulmo ir Lubavo srityse gyveno mišrūs lenkų ir prūsų gyventojai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -685,6 +688,7 @@ Kulmas buvo Kulmo žemės vieta, siejama su ankstyva Kryžiuočių ordino atrama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-005
   santrauka: '1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -701,6 +705,7 @@ Kulmas buvo Kulmo žemės vieta, siejama su ankstyva Kryžiuočių ordino atrama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-006
   santrauka: '1330 m. rudenį Lenkijos karalius Lokietka užgriuvo Kulmo žemę ir dešimt dienų ją grobė bei degino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -723,7 +728,8 @@ Kulmas buvo Kulmo žemės vieta, siejama su ankstyva Kryžiuočių ordino atrama
   statusas: verified
 
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-007
+  patikimumo_saltinis: ai
+- c-007
   santrauka: 'Vasario 1 d. Lenkijos karalius Lokietka su 6 tūkstančiais karių įsibrovė į Kulmo žemę ir ją siaubė penkias dienas bei naktis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -740,6 +746,7 @@ Kulmas buvo Kulmo žemės vieta, siejama su ankstyva Kryžiuočių ordino atrama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-008
   santrauka: 'Po mūšio viena moteris su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti žuvusiųjų kūnų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -765,6 +772,7 @@ Kulmas buvo Kulmo žemės vieta, siejama su ankstyva Kryžiuočių ordino atrama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-009
   santrauka: 'Kulmo pilis ir miestas buvo Vyslos dešiniajame krante, o dabartinis jų atitikmuo yra Chełmno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -782,6 +790,7 @@ Kulmas buvo Kulmo žemės vieta, siejama su ankstyva Kryžiuočių ordino atrama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-010
   santrauka: 'Po mūšio Kulmo vyskupas įpareigojo Kulmo našles tekėti už savo tarnų, nes miestas buvo likęs be vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -799,6 +808,7 @@ Kulmas buvo Kulmo žemės vieta, siejama su ankstyva Kryžiuočių ordino atrama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-011
   santrauka: 'Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -817,6 +827,7 @@ Kulmas buvo Kulmo žemės vieta, siejama su ankstyva Kryžiuočių ordino atrama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-012
   santrauka: '1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -834,6 +845,7 @@ Kulmas buvo Kulmo žemės vieta, siejama su ankstyva Kryžiuočių ordino atrama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-013
   santrauka: 'Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą, taip siekdamas padaryti Kulmo žemę saugesnę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -853,6 +865,7 @@ Kulmas buvo Kulmo žemės vieta, siejama su ankstyva Kryžiuočių ordino atrama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-014
   santrauka: 'Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -873,6 +886,7 @@ Kulmas buvo Kulmo žemės vieta, siejama su ankstyva Kryžiuočių ordino atrama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-015
   santrauka: 'Kulmo kilmingieji ir miestiečiai tvirtino verčiau žūsią garbingoje kovoje, nei diena po dienos merdėsią varge.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

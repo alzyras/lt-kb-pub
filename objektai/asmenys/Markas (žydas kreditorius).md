@@ -47,6 +47,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Žydui kreditoriui Markui už šešių savaičių palūkanas nuo 250 zlotų buvo sumokėta 15 florinų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -78,6 +78,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kovos prie Savranės pradžia buvo sunki, nes skitai dar prieš tikrąsias kautynes iš tolo apšaudė Jono Olbrachto karius strėlėmis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

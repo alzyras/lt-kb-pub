@@ -123,6 +123,7 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -142,6 +143,7 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   pagrindžia:
     - t-003
     - t-001
+
 - c-003
   santrauka: 'Lietuvai paskirtas Tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -171,6 +173,7 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Oginskis siūlė numatomoje kunigaikštijoje palikti Lietuvos statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

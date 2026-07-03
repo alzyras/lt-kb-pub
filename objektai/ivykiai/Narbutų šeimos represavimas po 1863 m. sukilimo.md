@@ -68,6 +68,7 @@ Knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažny
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 ## Data ir vieta
 
 Laikotarpis siejamas su 1863 m. sukilimo slopinimu ir 1864 m. lapkričio 26 d. T. Narbuto mirtimi.

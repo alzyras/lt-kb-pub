@@ -70,7 +70,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Bajorijos ir didikų pasipelnymo įprotis viešuosiuose reikaluose: užtat daugumas mokykloms skirtų pinigų žūdavo visokių agentų kišenėse, ir mokyklos pradėjo skursti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

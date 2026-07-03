@@ -411,6 +411,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   pagrindžia:
     - t-018
     - t-026
+
 - c-002
   santrauka: 'Po mūšio išlikę sembai kartu su kitais krikščionių kariais bėgo, nebegalėdami kovoti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -429,6 +430,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-003
   santrauka: 'Sembai priklausė sembų-notangų kultūrinei grupei, kurioje išskiriamos sembų, varmių, notangų, pagudėnų ir pamedėnų gentinės teritorijos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -445,6 +447,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-004
   santrauka: 'Prieš sembų gentį buvo kariauta daug karų, o viename žygyje Kristburgo komtūras Henrikas Stange įsiveržė į Sembą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -470,6 +473,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-005
   santrauka: 'Sembai, nebepajėgdami priešintis, atsiuntė savo sūnus kaip įkaitus ir vėl pasidavė krikščionių tikėjimui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -490,6 +494,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -506,6 +511,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   pagrindžia:
     - t-004
     - t-031
+
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -521,6 +527,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   pagrindžia:
     - t-012
     - t-027
+
 - c-008
   santrauka: '1313 m. rudenį maršalas Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį, o abu jos papiliai sudegė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -541,6 +548,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-009
   santrauka: 'Sembai, nebepajėgdami priešintis, atsiuntė savo sūnus kaip įkaitus ir vėl pasidavė krikščionių tikėjimui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -557,6 +565,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-010
   santrauka: 'Sembai paliko kuorus prie Karaliaučiaus, pasitraukė ir pastojo kelią maldininkų kariuomenei.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -574,6 +583,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-011
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -593,6 +603,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-012
   santrauka: 'Sembų fogtas Ditrichas iš Lidelau, grįžęs iš Vokietijos, atkalbėjo jį gerbusius sembus nuo paklydimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -608,6 +619,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
+
 - c-013
   santrauka: 'Semba apibūdinta kaip turtingiausia ir tankiausiai gyvenama žemė, galėjusi sutelkti 4000 raitelių ir 40000 karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -622,6 +634,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-014
   santrauka: 'Šešta — Semba196, kurioje [gyveno] sembai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -633,6 +646,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-015
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -650,6 +664,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-016
   santrauka: 'Sembos vardas šaltiniuose minimas formomis Semland, Samblandia, Zambia, Samia, Samplandia, Samlandia ir Sambia.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -665,6 +680,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-017
   santrauka: 'Brolis Bertoldas su tūkstančiu Sembos vyrų sudegino Medrabos pilį iki pamatų, jos žmones išžudė arba paėmė į nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -680,6 +696,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-018
   santrauka: 'Šešta — Semba196, kurioje [gyveno] sembai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -694,6 +711,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-019
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -717,6 +735,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   pagrindžia:
     - t-019
     - t-033
+
 - c-020
   santrauka: 'Semba apibūdinta kaip turtingiausia ir tankiausiai gyvenama žemė, galėjusi sutelkti 4000 raitelių ir 40000 karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -732,6 +751,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-021
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -754,6 +774,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   pagrindžia:
     - t-023
     - t-012
+
 - c-022
   santrauka: 'Vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -769,6 +790,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-023
   santrauka: '1274 m. sembai kartu su pagudėnais, varmiais, notangais ir bartais grįžo į Bažnyčios visuotinybę ir davė įkaitų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -790,6 +812,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-024
   santrauka: 'Sembai nukankino Teutonų ordino kunigą, atsiųstą jų krikštyti, suspaudę jam kaklą dviem kartimis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -812,6 +835,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-025
   santrauka: '1314 m. maršalas Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -829,6 +853,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-026
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -846,6 +871,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   pagrindžia:
     - t-017
     - t-012
+
 - c-027
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -867,6 +893,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   pagrindžia:
     - t-022
     - t-032
+
 - c-028
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -889,6 +916,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
     - t-021
     - t-030
     - t-012
+
 - c-029
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -907,6 +935,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   pagrindžia:
     - t-003
     - t-012
+
 - c-030
   santrauka: 'Prūsams vėl atkritus nuo tikėjimo, sembai savo kariuomenės vadu ir vyresniuoju išsirinko Glandą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -929,6 +958,7 @@ Sembai buvo vakarų baltų prūsų gentis, siejama su Sembos žeme ir sembų-not
   pagrindžia:
     - t-028
     - t-012
+
 - c-031
   santrauka: 'Sembų ir lietuvių bendrų veiksmų galima įžiūrėti XIII a. šeštojo dešimtmečio Klaipėdos pilies apgultyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

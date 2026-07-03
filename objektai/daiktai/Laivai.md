@@ -349,6 +349,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-002
   santrauka: 'Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -381,6 +382,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-003
   santrauka: '1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -398,6 +400,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -416,6 +419,7 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-008
+
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -433,6 +437,7 @@ Nenurodyta
   pagrindžia:
     - t-006
     - t-005
+
 - c-006
   santrauka: 'Senovės aisčiai veikiausiai turėjo laivų, nes jų vadai rengdavo karo žygius į skandinavų kraštus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -451,6 +456,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -465,6 +471,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-008
   santrauka: 'Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -486,6 +493,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-009
   santrauka: 'Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

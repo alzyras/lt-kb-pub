@@ -108,6 +108,7 @@ Zigmantas Sierakauskas 1863 m. pavasarį buvo paskirtas vyriausiuoju Lietuvos su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -125,6 +126,7 @@ Zigmantas Sierakauskas 1863 m. pavasarį buvo paskirtas vyriausiuoju Lietuvos su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Zigmantas Sierakauskas parengė sukilėlių kovos planą, numatantį sujungti Kauno gubernijos sukilėlių pajėgas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -143,6 +145,7 @@ Zigmantas Sierakauskas 1863 m. pavasarį buvo paskirtas vyriausiuoju Lietuvos su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   santrauka: 'Sukilėlių vadas Zigmantas Sierakauskas buvo sužeistas, o po dviejų valandų kovos sukilėlių pasipriešinimas ėmė silpti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -160,6 +163,7 @@ Zigmantas Sierakauskas 1863 m. pavasarį buvo paskirtas vyriausiuoju Lietuvos su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Sužeistas Zigmantas Sierakauskas mūšio pradžioje buvo išvežtas ir paslėptas Biržų girioje esančiame Skrebiškio palivarke.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -181,6 +185,7 @@ Zigmantas Sierakauskas 1863 m. pavasarį buvo paskirtas vyriausiuoju Lietuvos su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-006
   santrauka: 'Zigmantas Sierakauskas pateko į nelaisvę, kai gegužės 10-osios naktį sukilėlius apsupo paporučikio fon Gaso dalinys.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

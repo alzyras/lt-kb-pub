@@ -55,6 +55,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 ## Pastabos
 
 - čia daiktas aprašytas kartu su žemdirbystės įpročiu, bet pats norago tipas aiškiai materiališkas.

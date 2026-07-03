@@ -138,6 +138,7 @@ A. Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų ministra
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   santrauka: 'A. Voldemaras užsienio politiką pakreipė radikalesne kryptimi, pabrėždamas, kad be Vilniaus Lietuva nėra vienas kūnas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -156,6 +157,7 @@ A. Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų ministra
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Stiprėjant Europos sienų neliečiamumo tendencijai, A. Voldemaras negalėjo pakeisti Lietuvos padėties Vilniaus klausimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -172,6 +174,7 @@ A. Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų ministra
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-004
   santrauka: 'Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti A. Voldemarą į valdžią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -188,6 +191,7 @@ A. Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų ministra
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-005
   santrauka: 'A. Voldemaras Vilniaus klausimo sprendimą siejo su Maskva ir Berlynu, todėl ieškojo SSRS paramos prieš Lenkiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -213,6 +217,7 @@ A. Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų ministra
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-006
   santrauka: 'A. Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -233,6 +238,7 @@ A. Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų ministra
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-007
   santrauka: '1929 m. rugsėjį A. Voldemaras neteko pareigų, nes atsisakė tapti užsienio reikalų ministru.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -253,6 +259,7 @@ A. Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų ministra
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-008
   santrauka: 'A. Smetona ir A. Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

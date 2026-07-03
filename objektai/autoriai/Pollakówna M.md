@@ -35,6 +35,7 @@ Dusburgietis teigia, kad pollakówna M.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
 - c-002
   santrauka: 'M. Pollakówna parašė darbus „Zanik ludności pruskiej“ ir „Galindia“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

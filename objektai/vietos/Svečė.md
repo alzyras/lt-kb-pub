@@ -77,6 +77,7 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   pagrindžia:
     - t-003
     - t-004
+
 - c-002
   santrauka: 'Sventopelkas pradėjo statyti Svečės pilį priešais dabartinį Kulmo miestą, kad trukdytų Ordino broliams plaukioti Vysla.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -95,6 +96,7 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Dusburgietis teigia, kad žvalgai sugrįžę pranešė, kad Sventopelkas su galybe savo karių stovįs prie Svečės pilies ir ją stiprinąs.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

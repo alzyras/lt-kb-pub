@@ -56,6 +56,7 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -71,6 +72,7 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Broliai ir ginklanešiai prie Varmės kranto užpuolė aplinkinius kaimus ir juos degino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

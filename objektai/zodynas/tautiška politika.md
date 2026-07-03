@@ -56,6 +56,7 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vytenis, vykdydamas tautišką politiką prieš Ordiną, sudarė sąjungą su Ryga ir Rygos arkivyskupu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

@@ -618,6 +618,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-034
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -633,6 +634,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-035
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -646,6 +648,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -661,6 +664,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-005
   santrauka: '1562 m. maskvėnai nusiaubė Vitebsko apylinkes, o lietuviai atsakydami nuniokojo Maskvos žemes Vitebsko vaivadijos pasienyje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -686,6 +690,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
+
 - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -706,6 +711,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   pagrindžia:
     - t-002
     - t-008
+
 - c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -724,6 +730,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   pagrindžia:
     - t-021
     - t-032
+
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -743,6 +750,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   pagrindžia:
     - t-018
     - t-024
+
 - c-009
   santrauka: 'Vytenio ir Gedimino laikais prie Lietuvos prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -762,6 +770,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-010
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -781,6 +790,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   pagrindžia:
     - t-016
     - t-038
+
 - c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -797,6 +807,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   pagrindžia:
     - t-001
     - t-003
+
 - c-012
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -812,6 +823,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
+
 - c-013
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -828,6 +840,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   pagrindžia:
     - t-023
     - t-004
+
 - c-014
   santrauka: 'Švitrigaila prisiglaudė Vitebske, o vėliau išvyko į Ukrainą praleisti paskutinių senatvės dienų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -854,6 +867,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   pagrindžia:
     - t-015
     - t-030
+
 - c-015
   santrauka: 'Panaikinus Vitebsko kunigaikštiją, jos dvarai ir pajamos pateko į tiesioginę Vytauto valdžią.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -872,6 +886,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-016
   santrauka: 'Po Julijonos Algirdienės mirties Švitrigaila prieš Jogailos valią įsitvirtino Vitebske.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -887,6 +902,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-017
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -905,6 +921,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   pagrindžia:
     - t-014
     - t-019
+
 - c-018
   santrauka: 'Gediminas prie anksčiau lietuvių užvaldytų žemių pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -920,6 +937,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-019
   santrauka: 'Vytautas apsupo Vitebską ir po keturias savaites trukusio puolimo užėmė miestą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -947,6 +965,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-039
+
 - c-020
   santrauka: '1411 m. pavasarį Vytautas su Jogaila keliavo pro Vitebską, o tų kraštų kunigaikščiai reiškė Vytautui paklusnumą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -966,6 +985,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-021
   santrauka: 'Mykolas Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, netoli Vitebsko.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -981,6 +1001,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-022
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1000,6 +1021,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
 - c-023
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1014,6 +1036,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-024
   santrauka: 'Žygiui į Lietuvą Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske, iš kur patraukė į Breslaują.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -1038,6 +1061,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
+
 - c-025
   santrauka: 'Švitrigailą rėmusiose pajėgose buvo rytinių LDK slaviškų žemių, įskaitant Vitebską, kariai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -1069,6 +1093,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-033
+
 - c-026
   santrauka: 'Švitrigaila Vitebske įsakė Alšėnų kunigaikštį nuo aukšto skardžio įmesti į Dviną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1089,6 +1114,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
+
 - c-027
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1107,6 +1133,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-028
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1129,6 +1156,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-029
   santrauka: 'Strėvos kautynėse dalyvavo būriai iš Vitebsko, o mūšis baigėsi lietuvių pralaimėjimu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1143,6 +1171,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-037
+
 - c-030
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1159,6 +1188,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-031
   santrauka: '1562 m. Vitebsko karo lauko seimas siuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1173,6 +1203,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-036
+
 - c-032
   santrauka: 'Jogailai grįžus iš Vitebsko, Kęstutis organizavo pasipriešinimą, o Vytautas jam tik padėjo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1189,6 +1220,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-040
+
 - c-033
   santrauka: 'Algirdas, priėmęs krikščionybę žmonos Julijonos noru, neatmetė rusų apeigų ir pastatė rusams Vitebske porą šventovių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1208,6 +1240,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-041
+
 - c-034
   santrauka: 'Prie Vytauto kariuomenės prisidėjus smolenskiečiams, padidėjusi kariuomenė buvo nuvesta į Vitebską.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1233,6 +1266,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-042
+
 - c-035
   santrauka: 'Žiemos viduryje Kazimieras aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos ir karo reikalus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1276,6 +1310,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-043
+
 - c-036
   santrauka: 'Vytautas su Skirgaila ir didele kariuomene žygiavo į Vitebską prieš kunigaikštį Švitrigailą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1292,6 +1327,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-044
+
 - c-037
   santrauka: 'Aleksandras su Elena ir didikais žiemą lankėsi Vitebske, apžiūrėdamas Rusų žemę.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1321,6 +1357,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-045
+
 - c-038
   santrauka: 'Jogailos tėvas Algirdas gavo valdžią Vitebske, kai valdžia Vilniuje teko Jaunučiui, o Trakuose - Kęstučiui.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1349,6 +1386,7 @@ Vitebskas Lietuvos istorijos žinių bazėje iškyla kaip svarbi rytinė Lietuvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-046
+
 - c-039
   santrauka: 'Kęstutis grąžino Jogailai jo tėvo dalį - Vitebską ir kitas sritis, o Jogaila prisiekė Kęstučiui ištikimybę.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

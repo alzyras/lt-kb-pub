@@ -126,6 +126,7 @@ Andrius Algirdaitis buvo Algirdo ir Julijonos sūnus, Jogailai pavaldus Polocko 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -152,6 +153,7 @@ Andrius Algirdaitis buvo Algirdo ir Julijonos sūnus, Jogailai pavaldus Polocko 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir kovėsi su juo prieš totorius Kulikovo mūšyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -194,6 +196,7 @@ Andrius Algirdaitis buvo Algirdo ir Julijonos sūnus, Jogailai pavaldus Polocko 
     - t-001
     - t-002
     - t-003
+
 - c-004
   santrauka: 'Andrius Algirdaitis buvo Jogailai pavaldus Polocko kunigaikštis, linkęs į Kęstučio pusę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

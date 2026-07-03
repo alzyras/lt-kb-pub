@@ -72,6 +72,7 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   santrauka: 'Ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

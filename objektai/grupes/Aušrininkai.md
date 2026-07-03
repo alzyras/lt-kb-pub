@@ -81,6 +81,7 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
     - t-001
     - t-004
     - t-005
+
 - c-002
   santrauka: 'Aušrininkai plačiai naudojosi M. Balinskio ir J. I. Kraševskio kūrybiniu palikimu apie Vilniaus ir urbanistinės Lietuvos istoriją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

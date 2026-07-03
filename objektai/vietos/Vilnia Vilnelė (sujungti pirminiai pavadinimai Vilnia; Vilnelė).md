@@ -180,7 +180,8 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-002
+    - t-004
+- c-002
   santrauka: 'Pasak autoriaus, Gediminas, statydindamas pilį, iškasė Vilnelei kitą vagą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -212,7 +213,8 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-003
+    - t-021
+- c-003
   santrauka: 'Tarp Vilijos ir Vilnelės plytėjo Šventaragio slėnio lanka, nuo seno apaugusi ąžuolais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -230,7 +232,8 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-004
+    - t-022
+- c-004
   santrauka: '1522 metais prie Vilnelės iškilo popieriaus malūnas, buvęs aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -250,7 +253,8 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-005
+    - t-005
+- c-005
   santrauka: 'Gediminas įsakė pastatyti mūrinę pilį Vilnelės ir Vilijos upių santakoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -282,7 +286,8 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-006
+    - t-015
+- c-006
   santrauka: 'Balińskis manė, kad iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -306,7 +311,8 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-007
+    - t-012
+- c-007
   santrauka: 'Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose buvo žinoma jau XII amžiuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -327,7 +333,8 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-008
+    - t-001
+- c-008
   santrauka: 'Nuo tvirtovės prie Vilnios palei krantą pažemiais trobelės tęsėsi iki Vilijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -348,7 +355,8 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-009
+    - t-020
+- c-009
   santrauka: 'Vilnia tekėjo kalnų apsupta vaga ir įtekėjo į Viliją ties Gedimino pastatyta mūro tvirtove.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -367,7 +375,8 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-010
+    - t-009
+- c-010
   santrauka: '1580 metais ant kalno prie Vilnelės Kasparo Bekešo kapui buvo pastatytas apvalaus bokšto pavidalo paminklas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -388,7 +397,8 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-011
+    - t-017
+- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     48
@@ -429,7 +439,8 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
     - t-006
     - t-002
     - t-003
-    - t-011- c-012
+    - t-011
+- c-012
   santrauka: 'Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -459,7 +470,8 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-013
+    - t-010
+- c-013
   santrauka: 'Vilnia, arba Vilnelė, anuomet tekėjo pro Pilies gatvę, palei Pilies vartus ir už dabartinės katedros įtekėjo į Viliją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -481,7 +493,8 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-014
+    - t-013
+- c-014
   santrauka: '1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -533,7 +546,8 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-015
+    - t-014
+- c-015
   santrauka: 'Didysis kunigaikštis Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio į Užupį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -551,7 +565,8 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-016
+    - t-008
+- c-016
   santrauka: 'Narbutas Vilnios, arba Vilnelės, vardą laikė pirminiu ir iš jo kildino Vilniaus bei vėliau Vilija pramintos Neries pavadinimus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -565,7 +580,8 @@ Vilnia, dar vadinama Vilnele, kontekste siejama su ankstyvąja Vilniaus gyvenvie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023- c-017
+    - t-023
+- c-017
   santrauka: 'Narbutas Vilnią apibūdino kaip kadaise laivybai tikusią, sraunią, vingiuotą ir akmenuoto dugno upę, priešindamas ją giliai Vilijai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

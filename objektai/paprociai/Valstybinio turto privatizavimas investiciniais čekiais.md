@@ -86,6 +86,7 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Privatizuojant valstybės turtą investiciniais čekiais, daugelis gyventojų čekius pardavė ir neprivatizavo savo būsto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -102,6 +103,7 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 ## Šaltiniai ir įrodymai
 
 Nenurodyta

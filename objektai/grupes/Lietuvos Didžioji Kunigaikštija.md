@@ -189,6 +189,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
   pagrindžia:
     - t-002
     - t-013
+
 - c-002
   santrauka: '1840 m. panaikinus Lietuvos Statutą ir surusinus teismus, buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -206,6 +207,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Edukacinės komisijos pertvarkyta valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -220,6 +222,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-004
   santrauka: 'Valdant Gediminui ir Algirdui Lietuvos Didžioji Kunigaikštija išsiplėtė ir tapo reikšminga Vidurio bei Rytų Europos jėga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -239,6 +242,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-005
   santrauka: 'Po Krėvos sutarties Gediminaičiams buvo dalijamos kunigaikštijos Lenkijoje, o lenkų pareigūnai su valdovo įgaliojimais siųsti į Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -261,6 +265,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-006
   santrauka: 'Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -278,6 +283,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-007
   santrauka: 'XIV–XV a. sandūroje Lietuvos Didžiojoje Kunigaikštijoje sparčiai didėjo rašto poreikis, bet trūko vienuolijų jam tenkinti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -297,6 +303,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-008
   santrauka: 'Istorinėje Lietuvoje gyvenę žydai šalį vadino „Lite“, o save – „litvakais“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -313,6 +320,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-009
   santrauka: 'XVI a. Vytauto kultas Lietuvoje stiprėjo ieškant ideologinės atramos prieš Lenkijos hegemonijos planus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -342,6 +350,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-010
   santrauka: 'Lietuvos Didžioji Kunigaikštija kartais vadinama „aksomine imperija“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -357,6 +366,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-011
   santrauka: 'Įtraukus lietuvių pareigūnus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, o personalinė unija naikino jos valstybingumą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -379,6 +389,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-012
   santrauka: '1387 m. Lietuva priėmė katalikišką krikštą, o Žemaitija tapo paskutiniu Europoje apsikrikštijusiu regionu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -398,6 +409,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-013
   santrauka: 'Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Kunigaikštija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -412,6 +424,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-014
   santrauka: 'Po antrojo Abiejų Tautų Respublikos padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -430,6 +443,7 @@ Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos atsiradim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-015
   santrauka: 'Šia kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lietuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

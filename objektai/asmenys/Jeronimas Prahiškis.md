@@ -96,7 +96,8 @@ Jeronimas Prahiškis siejamas su XV a. Lietuvos krikščioninimo pasakojimais ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Jeronimas Prahiškis 1416 m. birželio 21 d. buvo sudegintas gyvas Konstancoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -122,7 +123,8 @@ Jeronimas Prahiškis siejamas su XV a. Lietuvos krikščioninimo pasakojimais ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Narbutas cituoja žinią, kad Jogailos į Lietuvą siųstas Jeronimas Prahiškis rašė apie pirmųjų sutiktų lietuvių žalčių garbinimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -142,7 +144,8 @@ Jeronimas Prahiškis siejamas su XV a. Lietuvos krikščioninimo pasakojimais ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Narbutas pasakoja, kad Jeronimas Prahiškis įtikino žmones apgavyste, sugriovė šventyklą, užpylė ugnį ir įvedė krikščioniškus papročius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -156,7 +159,8 @@ Jeronimas Prahiškis siejamas su XV a. Lietuvos krikščioninimo pasakojimais ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-005
+    - t-004
+- c-005
   santrauka: 'Narbutas pasakoja, kad Jeronimas Prahiškis saulės garbintojų aiškinimus laikė tuščiomis pasakomis ir mokė apie Dievo sukurtus dangaus kūnus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -175,7 +179,8 @@ Jeronimas Prahiškis siejamas su XV a. Lietuvos krikščioninimo pasakojimais ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-006
+    - t-005
+- c-006
   santrauka: 'Narbutas pasakoja, kad Jeronimas Prahiškis ilgai mokė žmones tikėjimo paslapčių ir liepė iškirsti šventąjį mišką.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

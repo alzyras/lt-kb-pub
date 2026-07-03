@@ -51,6 +51,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Leidiniu siekta per karų kulminacinius momentus, tai yra mūšius, parodyti ilgaamžę kovų už Lietuvos valstybę istoriją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

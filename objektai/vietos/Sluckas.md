@@ -285,6 +285,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
   pagrindžia:
     - t-002
     - t-006
+
 - c-002
   santrauka: 'Žygio maršrutas nuo Lojevo ėjo vakarų kryptimi Mozyriaus ir Slucko link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -303,6 +304,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -325,6 +327,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -341,6 +344,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
   pagrindžia:
     - t-003
     - t-001
+
 - c-005
   santrauka: '1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -362,6 +366,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
   pagrindžia:
     - t-009
     - t-010
+
 - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -377,6 +382,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -397,6 +403,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-008
   santrauka: 'Po Slucko kunigaikščio Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio viduryje užpuolė Slucką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -420,6 +427,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-009
   santrauka: 'Po nesėkmingo puolimo prie Slucko skitai pasitraukė ir patraukė į Naugarduką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -442,6 +450,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-010
   santrauka: 'Į karaliaus stovyklą atbėgę žmonės teigė, kad dvidešimt tūkstančių priešų liko prie Slucko.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -463,6 +472,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-011
   santrauka: 'Lietuviai gaudė pabėgusius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais, juos žudė ir atiminėjo grobį.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -485,6 +495,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-012
   santrauka: 'Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, buvo Mykolo Olelkaičio sūnus ir mirė 1505 m. rugsėjo 14 d.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -502,6 +513,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-013
   santrauka: 'Umolts — gyvenvietė prie Slucko.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -518,6 +530,7 @@ Sluckas minimas kaip LDK branduolio vieta, kurią palietė 1506 m. totorių žyg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-014
   santrauka: 'Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

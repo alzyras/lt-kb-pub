@@ -54,6 +54,7 @@ Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Bermontininkai nuginklavo ir išvaikė buvusias Lietuvos komendantūras, o paskui ėmė vieni šeimininkauti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

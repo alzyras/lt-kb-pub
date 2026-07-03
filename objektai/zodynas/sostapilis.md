@@ -38,6 +38,7 @@ Jo «sostapilio» jieškota net keliose Žemaičių vietose.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Mindaugo sostapilio ieškota keliose Žemaičių vietose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

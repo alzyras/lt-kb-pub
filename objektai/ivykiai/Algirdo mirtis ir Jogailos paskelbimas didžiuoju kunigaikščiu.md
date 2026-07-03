@@ -59,6 +59,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Palaidojus Algirdą pagal senus protėvių papročius, visi luomai Kęstučio siūlymu paskelbė Jogailą Lietuvos didžiuoju kunigaikščiu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

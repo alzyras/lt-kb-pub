@@ -92,6 +92,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -118,6 +119,7 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-003
+
 - c-003
   santrauka: 'Gedimino laikais Vilniaus miesto valdymas buvo siejamas su pilininkų ir bendruomenės parinkto seniūno priežiūra.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

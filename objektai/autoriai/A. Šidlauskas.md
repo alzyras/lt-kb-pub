@@ -61,6 +61,7 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
   pagrindžia:
     - t-001
     - t-003
+
 - c-002
   santrauka: 'A. Šidlauskas kartu su J. Jurginiu parengė 1983 m. Vilniuje išleistą rinkinį „Kraštas ir žmonės“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

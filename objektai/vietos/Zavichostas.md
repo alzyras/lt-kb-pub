@@ -64,6 +64,7 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Lietuvių kariai, primetę į miestą pagalių, sudegino visą Zavichostą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

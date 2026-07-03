@@ -270,6 +270,7 @@ Minskas minimas kaip viena iš vietų, susijusių su Lietuvos žemės prekybos t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-002
   santrauka: 'Rytiniame lietuvių etnografinės sienos pakraštyje Minskas minimas tarp paskutinių rytinių slavų pilių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -287,6 +288,7 @@ Minskas minimas kaip viena iš vietų, susijusių su Lietuvos žemės prekybos t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-003
   santrauka: 'Per maištą užpultas Minskas, kaip ir Sluckas, nepasidavė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -309,6 +311,7 @@ Minskas minimas kaip viena iš vietų, susijusių su Lietuvos žemės prekybos t
   pagrindžia:
     - t-009
     - t-003
+
 - c-004
   santrauka: 'XII amžiuje, pakrikus Polocko kunigaikštijai, iš Minsko ir kitų jos miestų susidarė atskiros kunigaikštijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -325,6 +328,7 @@ Minskas minimas kaip viena iš vietų, susijusių su Lietuvos žemės prekybos t
   pagrindžia:
     - t-002
     - t-011
+
 - c-005
   santrauka: 'Žygimanto privilegijoje Minskas minėtas tarp Lietuvos žemės vietų, kur Vilniaus miestiečiai galėjo gabenti prekes be muito.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -348,6 +352,7 @@ Minskas minimas kaip viena iš vietų, susijusių su Lietuvos žemės prekybos t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'XII a. iš Polocko kunigaikštijos miestų, tarp jų Minsko, susidarė atskiros kunigaikštijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -364,6 +369,7 @@ Minskas minimas kaip viena iš vietų, susijusių su Lietuvos žemės prekybos t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-007
   santrauka: 'Po Švitrigailos pabėgimo Zigmantui, be tikrosios Lietuvos, liko Palenkės, Pagirio ir Minsko žemės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -384,6 +390,7 @@ Minskas minimas kaip viena iš vietų, susijusių su Lietuvos žemės prekybos t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-008
   santrauka: 'Į Lietuvą įsiveržusi totorių kariuomenė užėmė Minską ir kitas vietoves, tarp jų Borisovą, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -427,6 +434,7 @@ Minskas minimas kaip viena iš vietų, susijusių su Lietuvos žemės prekybos t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   santrauka: '1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -447,6 +455,7 @@ Minskas minimas kaip viena iš vietų, susijusių su Lietuvos žemės prekybos t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-010
   santrauka: 'Minske įsteigta jėzuitų kolegija buvo kanclerio Martyno Oginskio ir K. Bžostausko fundacija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -470,6 +479,7 @@ Minskas minimas kaip viena iš vietų, susijusių su Lietuvos žemės prekybos t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-011
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -486,6 +496,7 @@ Minskas minimas kaip viena iš vietų, susijusių su Lietuvos žemės prekybos t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-012
   santrauka: 'Aleksandras su pagrindinėmis jėgomis lėtai sekė Konstantino Ostrogiškio dalinius, stabtelėdamas Minske ir Borisove.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -513,6 +524,7 @@ Minskas minimas kaip viena iš vietų, susijusių su Lietuvos žemės prekybos t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-013
   santrauka: 'Maskvėnams apsupus Smolenską, Aleksandras įsikūrė Minske, kad iš arti vadovautų kariuomenei kilus karui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -536,6 +548,7 @@ Minskas minimas kaip viena iš vietų, susijusių su Lietuvos žemės prekybos t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-014
   santrauka: 'Mechmetas Girėjus nužygiavo iki Minsko, nuniokojo kraštą, sudegino miestą ir neapgulė pilies.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -558,6 +571,7 @@ Minskas minimas kaip viena iš vietų, susijusių su Lietuvos žemės prekybos t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-015
   santrauka: 'Po priešo niokojamo antpuolio Minske ir kituose miestuose kilo maras.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

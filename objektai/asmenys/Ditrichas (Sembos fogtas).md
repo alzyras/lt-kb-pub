@@ -106,6 +106,7 @@ Ditrichas, Sembos fogtas 1278–1292 m., šaltiniuose minimas kaip brolis ir kar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-002
   santrauka: '1286 m. Sembos fogtas Ditrichas baiminosi bartų, pagudėnų ir kitų prūsų sumanyto naujo sukilimo prieš brolius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -125,6 +126,7 @@ Ditrichas, Sembos fogtas 1278–1292 m., šaltiniuose minimas kaip brolis ir kar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Sembos fogtas Ditrichas magistro įsakymu su brolių ir tūkstančio vyrų pajėgomis užpuolė Ragainės pilies vietoje stovėjusią pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -141,6 +143,7 @@ Ditrichas, Sembos fogtas 1278–1292 m., šaltiniuose minimas kaip brolis ir kar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-004
   santrauka: 'Ditrichas Sembos fogtu buvo 1278-1292 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -154,6 +157,7 @@ Ditrichas, Sembos fogtas 1278–1292 m., šaltiniuose minimas kaip brolis ir kar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-005
   santrauka: 'Konradas iš Tirbergo pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -172,6 +176,7 @@ Ditrichas, Sembos fogtas 1278–1292 m., šaltiniuose minimas kaip brolis ir kar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'Grįžęs iš Vokietijos, Sembos fogtas Ditrichas iš Lidelau atkalbėjo sembus nuo paklydimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -187,6 +192,7 @@ Ditrichas, Sembos fogtas 1278–1292 m., šaltiniuose minimas kaip brolis ir kar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-007
   santrauka: 'Sembos fogtui Ditrichui nepatiko, kad broliai bartams grąžino į nelaisvę paimtas žmonas ir vaikus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -207,6 +213,7 @@ Ditrichas, Sembos fogtas 1278–1292 m., šaltiniuose minimas kaip brolis ir kar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-008
   santrauka: 'Dusburgietis teigia, kad todėl minėtasis brolis Ditrichas, persikėlęs su savo kariuomene į kitą Nemuno krantą, tuo pat būdu užpuolė Ramijos pilį469; nors toje kovoje kai kurie jo kariai buvo sužeisti ir nukauti, bet tą pačią dieną jis įsiveržė į pilį ir ją sugriovė, dalį žmonių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -83,6 +83,7 @@ Liubartas sėdo valdyti Karačevą. Karačevas šiame gabale siejamas su atskiru
   pagrindžia:
     - t-002
     - t-004
+
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |

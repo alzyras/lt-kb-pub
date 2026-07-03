@@ -76,7 +76,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Didžioji Maskvos suirutė (1597–1613 m.): lenkų ponų padedamas, jis 1605 m. užėmė Maskvą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -89,7 +90,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Vasylių Šuiskį paskelbus caru, Maskvoje ramybė neįsigalėjo: krašte prasidėjo nauji sukilimai ir atsirado antras apsimetėlis Dimitrijas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

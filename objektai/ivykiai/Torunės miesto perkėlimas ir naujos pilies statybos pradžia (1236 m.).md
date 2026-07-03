@@ -65,6 +65,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1236 m. Torunės miestas buvo perkeltas į dabartinės Torunės vietą, kur pradėta statyti nauja pilis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

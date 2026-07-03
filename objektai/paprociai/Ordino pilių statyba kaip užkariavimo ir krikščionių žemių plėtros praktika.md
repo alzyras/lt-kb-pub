@@ -69,6 +69,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Marienverderio ir Kristmemelio pilys Dusburgiečio pasakojime siejamos su keliu į netikėlių žemes ir krikščionių žemių plėtra.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -85,6 +86,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Petras iš Dusburgo Ordino pilių statybą vaizdavo kaip užkariavimų įtvirtinimą iš Dievo malonės ir „viešpaties darbą“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -96,6 +96,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -113,6 +114,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -129,6 +131,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: '1380 m. Jogaila slapta, be Kęstučio žinios, sudarė Dovydiškių sutartį su ordinu tam surengtoje medžioklėje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -144,6 +147,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

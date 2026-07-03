@@ -64,6 +64,7 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: '1220 m. Lietuvos ir žiemgalių kariuomenė Padauguvyje smogė kalavijuočiams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

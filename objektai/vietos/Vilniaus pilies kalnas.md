@@ -74,6 +74,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: '1396 m. Vilniaus pilies kalną ištiko smarki griūtis, kurios nuošliaužos užslinko ant vaivados Manvydo rūmų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -90,6 +91,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Vilniaus pilies kalno griūtis palietė tik kalną, o pilies mūrai išliko sveiki.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -105,6 +107,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Dinaburgo komtūras Livonijos magistrui pranešė, kad Vilniaus pilies kalną ištiko griūtis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -106,6 +106,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-002
   santrauka: 'Lietuvos Taryba, vykdydama Vokietijos reikalavimą, pasisakė už tvirtą Lietuvos valstybės sąjungą su Vokietija, numatytą keturiomis konvencijomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -123,6 +124,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Konferencijoje išrinkta 20 asmenų Lietuvos Taryba pradėjo veikti rugsėjo 24 d., o jos pirmininku tapo Antanas Smetona.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -147,6 +149,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -163,6 +166,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-005
   santrauka: 'Konferencija programai vykdyti išrinko 20 asmenų Lietuvos Tarybą, kurią vėliau turėjo papildyti tautinių mažumų atstovai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -184,6 +188,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-006
   santrauka: 'Valstybės Taryba spalio pabaigos sesijoje išleido laikinės konstitucijos pamatinius dėsnius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

@@ -67,6 +67,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Prūsų prigimtinėje teisėje buvęs taliono principas davė pagrindo kalbėti apie kraujo kerštą nusikaltėliui ir jo giminėms.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

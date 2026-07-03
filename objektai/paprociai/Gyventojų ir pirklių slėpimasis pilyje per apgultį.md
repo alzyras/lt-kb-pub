@@ -91,6 +91,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Per apgultį prie Žemutinės pilies slėpdavosi priemiesčių gyventojai ir pirkliai su prekėmis, todėl vokiečiai ją praminė Krautuvių pilimi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

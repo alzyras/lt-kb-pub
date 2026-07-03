@@ -1064,7 +1064,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-061- c-002
+    - t-061
+- c-002
   santrauka: 'Vaclovas pripažino Ordinui Žemaičius ir visą kairiąją Panemunę iki Gardino.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1078,7 +1079,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-003
+    - t-005
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo
@@ -1099,7 +1101,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-047- c-004
+    - t-047
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kęstutaitis iš pusbrolio
@@ -1112,7 +1115,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-064- c-005
+    - t-064
+- c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kaune ir
@@ -1129,7 +1133,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-031- c-006
+    - t-031
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XVI a. viduryje naujas madas atneš Vilniaus Žemuti-
@@ -1146,7 +1151,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
-    - t-023- c-007
+    - t-023
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šio dalyko patvirtinimui mū­
@@ -1168,7 +1174,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034- c-008
+    - t-034
+- c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kiek tos kovos Kęstučio valdymo laiku padidėjo,
@@ -1188,7 +1195,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-009
+    - t-013
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai visa tai vyko, karalius, matydamas
@@ -1209,7 +1217,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_saltinis: ai
   pagrindžia:
     - t-035
-    - t-002- c-010
+    - t-002
+- c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     278
@@ -1234,7 +1243,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-062- c-011
+    - t-062
+- c-011
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tad
@@ -1247,7 +1257,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-059- c-012
+    - t-059
+- c-012
   santrauka: 'A. Jofė sutiko Gardiną ir Lydą priskirti Lietuvai, nors šiose žemėse lietuvių gyventa mažai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1263,7 +1274,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-013
+    - t-008
+- c-013
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1392 m. birželio gale, apsimes­
@@ -1279,7 +1291,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   pagrindžia:
     - t-017
     - t-012
-    - t-056- c-014
+    - t-056
+- c-014
   santrauka: 'Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. targovitėnų valdomame Gardine sušaukti Seimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1294,7 +1307,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-038- c-015
+    - t-038
+- c-015
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Viena iš svarbiausių diskusijos temų – būsimos Lietuvos teritorija.
@@ -1314,7 +1328,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_saltinis: ai
   pagrindžia:
     - t-067
-    - t-007- c-016
+    - t-007
+- c-016
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iki XV a. pabaigos gynybinės sienos saugojo
@@ -1339,7 +1354,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_saltinis: ai
   pagrindžia:
     - t-060
-    - t-029- c-017
+    - t-029
+- c-017
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Su pagoniškąja Lietuva pirmąsias nuolatinio karo paliau­
@@ -1357,7 +1373,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_saltinis: ai
   pagrindžia:
     - t-055
-    - t-016- c-018
+    - t-016
+- c-018
   santrauka: 'Vytautas dominikonus parėmė donacijomis Gardine, Lucke ir Naugardėlyje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1374,7 +1391,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-051- c-019
+    - t-051
+- c-019
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     5 d. Ost­
@@ -1389,7 +1407,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_saltinis: ai
   pagrindžia:
     - t-052
-    - t-018- c-020
+    - t-018
+- c-020
   santrauka: 'Vasarą maršalo pajėgos žygiavo Gardino link ir bandė pereiti Nemuną brasta, bet buvo sustabdytos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1407,7 +1426,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-058- c-021
+    - t-058
+- c-021
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kazimiero bažnyčia71. Ankstyva ir netikėta
@@ -1421,7 +1441,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
-    - t-046- c-022
+    - t-046
+- c-022
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Žemaičiams jis nuolatos gelbėjo jų iš kartos į kartą einan­
@@ -1440,7 +1461,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
-    - t-028- c-023
+    - t-028
+- c-023
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tikrosios Lietuvos bylas spręsdavo
@@ -1453,7 +1475,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-024
+    - t-015
+- c-024
   santrauka: 'Gedimino arba Algirdo laikais Gardino pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1470,7 +1493,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-030- c-025
+    - t-030
+- c-025
   santrauka: 'Šešiasdešimt brolių su vyrais iš Prūsijos patraukė link Gardino pilies ir pasiuntė 400 vyrų apiplėšti jos apylinkių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -1486,7 +1510,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-041- c-026
+    - t-041
+- c-026
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tikė­
@@ -1501,7 +1526,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_saltinis: ai
   pagrindžia:
     - t-054
-    - t-027- c-027
+    - t-027
+- c-027
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Siena nuo Livonijos iki Ne­
@@ -1516,7 +1542,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026- c-028
+    - t-026
+- c-028
   santrauka: 'Lietuviai pretendavo į buvusios Rusijos imperijos Gardino gubernijos žemes, kurias Rusijos vyriausybės tradiciškai vadindavo lietuviškomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1531,7 +1558,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-063- c-029
+    - t-063
+- c-029
   santrauka: 'Henrikas Cutsvertas puolė Gardino pilį, bet dėl stipraus pilėnų pasipriešinimo ir daugybės sužeistųjų pasitraukė nepasiekęs tikslo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -1555,7 +1583,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-045- c-030
+    - t-045
+- c-030
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Arklių ūkis labiau buvo paplitęs Žemaitijoje ir apie Tra­
@@ -1572,7 +1601,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
-    - t-053- c-031
+    - t-053
+- c-031
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai nebuvo
@@ -1592,7 +1622,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_saltinis: ai
   pagrindžia:
     - t-037
-    - t-019- c-032
+    - t-019
+- c-032
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Didesnė dalis XVIII a. pa-
@@ -1619,7 +1650,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_saltinis: ai
   pagrindžia:
     - t-033
-    - t-066- c-033
+    - t-066
+- c-033
   santrauka: '1390 m. sausio pradžioje Vytautas išsiuntė šeimą iš Gardino į Prūsiją ir dar labiau įtvirtino Gardiną kaip savo buveinę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1644,7 +1676,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-050- c-034
+    - t-050
+- c-034
   santrauka: '1586 metų gruodžio 13 dieną Gardine Lietuvos ponų taryba parengė laišką dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1707,7 +1740,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-065- c-035
+    - t-065
+- c-035
   santrauka: '1305 m. Konradas iš Lichtenhageno su didele kariuomene nusiaubė Gardino pilies apylinkes degindamas ir plėšdamas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -1724,7 +1758,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-036
+    - t-022
+- c-036
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Svarbesnė buvo jo nauja taikos sutartis su kry­
@@ -1738,7 +1773,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   pagrindžia:
     - t-025
     - t-003
-    - t-009- c-037
+    - t-009
+- c-037
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1390 metų sausio pradžioje visą savo šei­
@@ -1759,7 +1795,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-038
+    - t-021
+- c-038
   santrauka: 'Kęstutis paveldėjo Trakus ir Gardiną su Palenke, arba Lietuvos Brasta.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1770,7 +1807,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-043- c-039
+    - t-043
+- c-039
   santrauka: 'Kadangi Trakai jau buvo atiduoti Skirgailai, Vytautas galėjo gauti tik Gardiną su Palenke.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1783,7 +1821,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-040
+    - t-004
+- c-040
   santrauka: '1801 m. Lietuvos gubernija padalyta į Lietuvos Vilniaus ir Lietuvos Gardino gubernijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1799,7 +1838,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-041
+    - t-006
+- c-041
   santrauka: '1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją ir centru paskelbė Gardiną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1817,7 +1857,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-057- c-042
+    - t-057
+- c-042
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
@@ -1838,7 +1879,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-039- c-043
+    - t-039
+- c-043
   santrauka: 'Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė profesines mokyklas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1855,7 +1897,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-042- c-044
+    - t-042
+- c-044
   santrauka: 'Balińskis Garteną tapatino su Gardinu ir minėjo jį kaip valsčių bei pilį netoli Pagraudenės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1884,7 +1927,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-049- c-045
+    - t-049
+- c-045
   santrauka: '1365 m. pradžioje Patrikas iš Gardino kartu su Kęstučiu, Algirdu ir Aleksandru Karijotaičiu puolė Skalvos žemę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1904,7 +1948,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-046
+    - t-020
+- c-046
   santrauka: '1295 m. penki broliai ir 150 vyrų iš Sembos bei Notangos išjojo link Gardino pilies ir apiplėšė lietuvių kaimą prie Nemuno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -1920,7 +1965,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-036- c-047
+    - t-036
+- c-047
   santrauka: 'Antanas Tyzenhauzas Gardine įkūrė matininkų, buhalterių, statybininkų ir veterinarų mokyklas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1939,7 +1985,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-040- c-048
+    - t-040
+- c-048
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     To viso patikimumui ir galiai patvirtinti mū­
@@ -1960,7 +2007,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-048- c-049
+    - t-048
+- c-049
   santrauka: 'Vasarą maršalo pajėgos žygiavo Gardino link ir bandė pereiti Nemuną brasta, bet buvo sustabdytos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1982,7 +2030,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-068- c-050
+    - t-068
+- c-050
   santrauka: 'Skomantas su prūsų kariais patraukė Gardino kryptimi, paėmė Gardino pilį, išžudė įgulą ir sugriovė įtvirtinimus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1999,7 +2048,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-069- c-051
+    - t-069
+- c-051
   santrauka: 'Magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2029,7 +2079,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-070- c-052
+    - t-070
+- c-052
   santrauka: 'Magistras Konradas įsakė Albertui Hagenui staiga užpulti ir užimti Gardino pilį bei miestą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2048,7 +2099,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-071- c-053
+    - t-071
+- c-053
   santrauka: 'Vilniuje ir Gardine siautęs maras lėmė, kad karalius likusius žiemos mėnesius praleido Kaune.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2072,7 +2124,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-072- c-054
+    - t-072
+- c-054
   santrauka: 'Gardino seime luomai svarstė valstybės reikalus, kai Mengli Girėjaus pasiuntiniai pranešė apie Maniako rengiamą karą prieš Rusią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2104,7 +2157,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-073- c-055
+    - t-073
+- c-055
   santrauka: 'Gardinas buvo aprašytas kaip miestas prie Krono upės, kuri vėliau vadinta Nemunu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -2119,7 +2173,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-074- c-056
+    - t-074
+- c-056
   santrauka: 'Narbutas nurodė iš Gardino gavęs ištrauką iš lotyniško in folio veikalo, kuriame buvo XVI a. Gardino raižinys.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -2140,7 +2195,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-075- c-057
+    - t-075
+- c-057
   santrauka: 'Narbutas abejojo, ar Lietuvos seimas posėdžiavo Gardine 1567 m., nes vien kronikos šios abejonės nepašalino.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -2156,7 +2212,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-076- c-058
+    - t-076
+- c-058
   santrauka: 'Narbutas manė, kad karalius, nenutraukęs karo veiksmų, 1567 m. pabaigoje skubėjo sušaukti seimą Gardine.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -2178,7 +2235,8 @@ Gardinas šaltiniuose siejamas su Vytauto valdų centru: po Trakų perdavimo Ski
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-077- c-059
+    - t-077
+- c-059
   santrauka: 'Narbutas rašė, kad Gardine aprašomas seimas pradėjo posėdžiauti 1568 m. vasarį, o balandžio 28 d. ten buvo karalius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

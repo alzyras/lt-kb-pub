@@ -161,6 +161,7 @@ Nenurodyta
   pagrindžia:
     - t-004
     - t-012
+
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -176,6 +177,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -190,6 +192,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -214,6 +217,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-005
   santrauka: 'Artėjant 1991 m. rugpjūčio Maskvos pučui, Lietuvos kariai jau turėjo pirmąsias uniformas, o Aukščiausiosios Tarybos gynyba buvo geriau organizuota.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -230,6 +234,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-006
   santrauka: '1991 m. sausio 11–12 d. Aukščiausiosios Tarybos rūmų viduje spygliuota viela apraizgyti praėjimai ir ventiliacinės angos, o pirmasis aukštas sutvirtintas smėlio maišais bei armatūros tinklais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -252,6 +257,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -282,6 +288,7 @@ Nenurodyta
   pagrindžia:
     - t-008
     - t-003
+
 - c-008
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -299,6 +306,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-009
   santrauka: '1991 m. sausio 11–13 d. Aukščiausiosios Tarybos rūmuose duota Lietuvos kario savanorio priesaika tapo teisiniu pagrindu piliečiui ginklu ginti valstybę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

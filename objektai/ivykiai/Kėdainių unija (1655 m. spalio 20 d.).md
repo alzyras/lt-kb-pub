@@ -82,6 +82,7 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-001
+
 - c-002
   santrauka: 'Po Kėdainių unijos švedai nepateisino Jonušo Radvilos lūkesčių: jis negavo reikšmingų pareigų, o karinė pagalba nebuvo suteikta.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

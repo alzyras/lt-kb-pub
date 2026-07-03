@@ -189,6 +189,7 @@ Papilys Lietuvos istorijos šaltiniuose minimas kaip pilies prieigos ar įtvirti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-002
   santrauka: 'Konrado Štangės žvalgas prie Junigedos pilies pranešė, kad lauke, pilyje ir papilyje pilna karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -205,6 +206,7 @@ Papilys Lietuvos istorijos šaltiniuose minimas kaip pilies prieigos ar įtvirti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Rudenį komtūras antrą kartą sudegino atstatytą papilį, kuriame buvo sukrauti grūdai ir javai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -226,6 +228,7 @@ Papilys Lietuvos istorijos šaltiniuose minimas kaip pilies prieigos ar įtvirti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-004
   santrauka: '1318 m. rudenį maršalas Henrikas su didele kariuomene sudegino Junigedos ir Pieštvės pilių papilius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -246,6 +249,7 @@ Papilys Lietuvos istorijos šaltiniuose minimas kaip pilies prieigos ar įtvirti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-005
   santrauka: 'Prie Junigedos, arba Veliuonos, pilies buvo du papiliai: vienas ant kalno, kitas slėnyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -259,6 +263,7 @@ Papilys Lietuvos istorijos šaltiniuose minimas kaip pilies prieigos ar įtvirti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -283,6 +288,7 @@ Papilys Lietuvos istorijos šaltiniuose minimas kaip pilies prieigos ar įtvirti
   pagrindžia:
     - t-012
     - t-016
+
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -306,6 +312,7 @@ Papilys Lietuvos istorijos šaltiniuose minimas kaip pilies prieigos ar įtvirti
   pagrindžia:
     - t-008
     - t-017
+
 - c-008
   santrauka: '1313 m. rudenį maršalas Henrikas užpuolė Bisenės pilį, o po ilgų kovų sudegė abu jos papiliai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -326,6 +333,7 @@ Papilys Lietuvos istorijos šaltiniuose minimas kaip pilies prieigos ar įtvirti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-009
   santrauka: '1296 m. Ordino broliai perėjo užšalusį Nemuną ir nusiaubė Gardino pilies apylinkes bei papilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -347,6 +355,7 @@ Papilys Lietuvos istorijos šaltiniuose minimas kaip pilies prieigos ar įtvirti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-010
   santrauka: 'Bežglove po 1277 m. buvo atstatyta mūrinė kryžiuočių pilis su papiliu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -359,6 +368,7 @@ Papilys Lietuvos istorijos šaltiniuose minimas kaip pilies prieigos ar įtvirti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-011
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -381,6 +391,7 @@ Papilys Lietuvos istorijos šaltiniuose minimas kaip pilies prieigos ar įtvirti
   pagrindžia:
     - t-009
     - t-015
+
 - c-012
   santrauka: '1324 m. gegužės 22 d. Ditrichas iš Altenburgo su Ordino pajėgomis užpuolė ir sudegino Gedimino pilies papilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -399,6 +410,7 @@ Papilys Lietuvos istorijos šaltiniuose minimas kaip pilies prieigos ar įtvirti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-013
   santrauka: 'Prūsai prie Pagansčių kaimo sumušė krikščionis, o po to sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -419,6 +431,7 @@ Papilys Lietuvos istorijos šaltiniuose minimas kaip pilies prieigos ar įtvirti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-014
   santrauka: 'Pagudėnai ir jų sąjungininkai būtų galėję paimti Elbingo papilį, jei karys Virtelis nebūtų ietimi pervėręs jų vado.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -436,6 +449,7 @@ Papilys Lietuvos istorijos šaltiniuose minimas kaip pilies prieigos ar įtvirti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-015
   santrauka: '1299 m. Brandenburgo komtūras Kanonas sudegino namus Junigedos ir Pieštvės papiliuose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

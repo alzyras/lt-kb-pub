@@ -271,6 +271,7 @@ amziai:
   pagrindžia:
     - t-003
     - t-006
+
 - c-002
   santrauka: 'XIV amžiuje buvo įkurti beveik visi Varmės miestai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -292,6 +293,7 @@ amziai:
   pagrindžia:
     - t-007
     - t-005
+
 - c-003
   santrauka: 'Petro Dusburgiečio kronikoje Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -310,6 +312,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dėl taikos sutarties.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -65,6 +65,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 ## Data ir vieta
 
 Data: 1817 m.

@@ -409,6 +409,7 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -426,6 +427,7 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
   pagrindžia:
     - t-008
     - t-011
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -446,6 +448,7 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
   pagrindžia:
     - t-004
     - t-012
+
 - c-004
   santrauka: '1432 m. pradžioje, stringant lenkų ir lietuvių deryboms, Jogaila stovėjo Liubline, o Švitrigaila su kryžiuočių atstovais buvo Brastoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -460,6 +463,7 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -485,6 +489,7 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
   pagrindžia:
     - t-007
     - t-002
+
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -502,6 +507,7 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-007
   santrauka: '1569 m. Liubline lenkai reikalavo visiško Lietuvos ir Lenkijos sujungimo, o lietuviai siekė abiejų valstybių savarankiškumo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -522,6 +528,7 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-008
   santrauka: 'Liublino seimas unijos klausimui spręsti susirinko 1569 m. sausio 10 d.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -541,6 +548,7 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -560,6 +568,7 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-010
   santrauka: 'Po tokių sostinės apsaugos priemonių karalius, į Vilnių atvykęs iš Liublino seimo, ėmėsi reikalų su totoriais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -586,6 +595,7 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
   pagrindžia:
     - t-014
     - t-005
+
 - c-011
   santrauka: 'Lenkai siekė ginklu atsiimti iš rusų Liubliną, kurio buvo netekę prieš penkiasdešimt septynerius metus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -617,6 +627,7 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-012
   santrauka: '1496 m. karalius Olbrachtas su broliu karalaičiu Zigmantu išvyko į Liubliną prieš abiejų šalių ponų suvažiavimą Parčeve.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

@@ -110,6 +110,7 @@ Mikalojus Kristupas Radvila-Našlaitėlis buvo Mikalojaus Radvilos Juodojo sūnu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -133,6 +134,7 @@ Mikalojus Kristupas Radvila-Našlaitėlis buvo Mikalojaus Radvilos Juodojo sūnu
   pagrindžia:
     - t-001
     - t-006
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -160,6 +162,7 @@ Mikalojus Kristupas Radvila-Našlaitėlis buvo Mikalojaus Radvilos Juodojo sūnu
   pagrindžia:
     - t-008
     - t-003
+
 - c-004
   santrauka: 'Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -179,6 +182,7 @@ Mikalojus Kristupas Radvila-Našlaitėlis buvo Mikalojaus Radvilos Juodojo sūnu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-005
   santrauka: 'Kapitulai nustojus gauti činšą už Filipovo namą, su kunigaikščiu Kristupu prasidėjo teismo procesas, o 1573 m. kovo 26 d. įsigaliojo sutartis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -204,6 +208,7 @@ Mikalojus Kristupas Radvila-Našlaitėlis buvo Mikalojaus Radvilos Juodojo sūnu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |

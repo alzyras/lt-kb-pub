@@ -51,6 +51,7 @@ Vartojamos formos: `veldėme`.
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |

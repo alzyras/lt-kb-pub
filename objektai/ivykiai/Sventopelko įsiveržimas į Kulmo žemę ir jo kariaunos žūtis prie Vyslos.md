@@ -74,6 +74,7 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-003
+
 - c-002
   santrauka: 'Prie Kulmo miesto broliai ir jų sąjungininkai užpuolė Sventopelko kariauną, o po kautynių Sventopelkas pabėgo prie Vyslos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

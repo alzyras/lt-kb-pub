@@ -49,6 +49,7 @@ Dusburgietis teigia, kad strikowski M. Kronika polska, litewska, żmodzka i wszy
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'M. Stryjkowskis 1582 m. Karaliaučiuje paskelbė „Kronika polska, litewska, żmódzka i wszystkiej Rusi“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -101,6 +101,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Augustas von Kotzebue išrašė tris Gedimino laiškus iš slaptojo Kryžiuočių archyvo Karaliaučiuje ir įdėjo juos į savo veikalą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -121,6 +122,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Kotzebue tikėjosi Gedimino laiškų originalus rasti Ordino archyve ir apkaltinti Ordiną nauja piktadaryste.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -138,6 +140,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   santrauka: 'Kotzebue veikale pateikti skundo punktai atitiko Raynaldo 1324 m. nurodytus punktus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -161,6 +164,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Michałas Balińskis Kotzebue „Prūsijos istoriją“ vadino geriausiu dokumentų vertės paliudijimu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -187,6 +191,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-006
   santrauka: 'Kotzebue rašinyje „Switrigail“ gynė Švitrigailą, vaizduodamas jį kaip herojų ir didį žmogų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -220,6 +225,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-007
   santrauka: 'Kotzebue citavo Slaptajame archyve buvusį Švitrigailos laišką didžiajam magistrui, rašytą iš Trakų 1432 m. rugpjūčio 13 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

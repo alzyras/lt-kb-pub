@@ -225,6 +225,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-002
   santrauka: 'Baliński spėjo, kad Vilijos vardas lietuviškai galėjo kilti iš „vilioju“ arba „vylius“ ir reikšti Vilioklę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -247,6 +248,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-003
   santrauka: 'Vilniaus pirklių vytinėms buvo leista laisvai plaukioti Vilijos upe.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -320,6 +322,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-004
   santrauka: '1536 m. Žygimantas Senasis suteikė Ulrikui Hozijui teisę pastatyti tiltą per Viliją vietoj nepatogios perkėlos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -342,6 +345,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Nuo 1556 m. Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos tapo reformos šalininkų prieglobsčiu ir mokykla.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -388,6 +392,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-006
   santrauka: 'Dabartinio Antakalnio užuomazgos buvo trobos, išsidėsčiusios palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -408,6 +413,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-007
   santrauka: 'Artėjanti žiema grėsė Vilijos upėje stovėjusiems kryžiuočių laivams užkirsti kelią grįžti į Prūsiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -432,6 +438,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -453,6 +460,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-009
   santrauka: 'Vilnius buvo įsikūręs dviejų upių, Vilijos arba Neries ir Vilnios, santakoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -475,6 +483,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-010
   santrauka: 'Kitoje Vilijos pusėje, prie Visevaldės pilies netoli senojo Kauno, buvo įrengta Skirgailos stovykla.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -506,6 +515,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-011
   santrauka: '1390 m. Vladislovo Jogailos privilegijoje, kuria Vilniaus kapitulai dovanoti Paneriai, Vilija pavadinta Vigilia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -532,6 +542,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-012
   santrauka: 'Prie Vilniaus buvusi perkėla per Viliją kėlė LDK valdiniams ir kitiems žmonėms sunkumų, išlaidų ir nepatogumų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -578,6 +589,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-013
   santrauka: '1492 m. Aleksandras garantavo Vilniaus miestiečiams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -601,6 +613,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-014
   santrauka: 'Žemiau Vilniaus Vilijos pakrantėse gyvenę lietuviai kaimiečiai šią upę vadino Nerimi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -620,6 +633,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-015
   santrauka: '1547 m. privilegijoje fabrikui skirtas sklypas apibūdintas kaip esantis už Vilijos upės prie Vilniaus miesto.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -649,6 +663,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-016
   santrauka: 'Totorių vartų pavadinimas siejamas su vieta, kur slėnyje į Viliją įtekėjo Vingrių šaltinis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -668,6 +683,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-017
   santrauka: 'Vilija galėjo būti vadinama Nerimi arba Neria dėl gilios vagos ir aukštų smėlingų pakrančių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -688,6 +704,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-018
   santrauka: 'Perkėlimai plaustais per Viliją buvo uždrausti tarp Verkių kaimo ir Vilniaus kapitulai priklausiusio Panerių kaimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -715,6 +732,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-019
   santrauka: 'Baliński teigė, kad Vilniaus vardas kilo nuo į Viliją įtekančios Vilnios, todėl pirmykštė gyvenvietė turėjo būti prie Vilnios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -741,6 +759,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-020
   santrauka: 'Pasakojime apie Vilniaus įkūrimą Gediminas atvyko į Šventaragio slėnį, kur Vilnios upė įteka į Viliją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -777,6 +796,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-021
   santrauka: 'Latopisiec Litewski nurodo, kad mūšis vyko prie Vilijos upės, ties Horodoku, vietovėje, vadinamoje Weyiszczuszki.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -796,6 +816,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-022
   santrauka: 'Gedimino pastatydinta mūro tvirtovė stovėjo ant kalno ties vieta, kur Vilnelė įteka į Viliją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -816,6 +837,7 @@ Neris, istoriniuose šaltiniuose vadinta ir Vilija, siejama su Vilniaus miesto t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-023
   santrauka: 'Kryžiuočių archyve esančiame sename Lietuvos kelių aprašyme minima Nerige yra dabartinė Vilija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

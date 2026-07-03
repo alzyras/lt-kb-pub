@@ -252,6 +252,7 @@ Vietininkas Lietuvos Didžiojoje Kunigaikštystėje buvo valdovo paskirtas parei
     - t-014
     - t-011
     - t-002
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -265,6 +266,7 @@ Vietininkas Lietuvos Didžiojoje Kunigaikštystėje buvo valdovo paskirtas parei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -281,6 +283,7 @@ Vietininkas Lietuvos Didžiojoje Kunigaikštystėje buvo valdovo paskirtas parei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -301,6 +304,7 @@ Vietininkas Lietuvos Didžiojoje Kunigaikštystėje buvo valdovo paskirtas parei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -319,6 +323,7 @@ Vietininkas Lietuvos Didžiojoje Kunigaikštystėje buvo valdovo paskirtas parei
   pagrindžia:
     - t-009
     - t-006
+
 - c-006
   santrauka: 'Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -353,6 +358,7 @@ Vietininkas Lietuvos Didžiojoje Kunigaikštystėje buvo valdovo paskirtas parei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-007
   santrauka: 'Vladislovas Jogaila Vilniuje paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -373,6 +379,7 @@ Vietininkas Lietuvos Didžiojoje Kunigaikštystėje buvo valdovo paskirtas parei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-008
   santrauka: 'Pskovo metraštis pasakoja, kad 1432 m. vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bojarinais sudarė sutartį su Švitrigaila.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -393,6 +400,7 @@ Vietininkas Lietuvos Didžiojoje Kunigaikštystėje buvo valdovo paskirtas parei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -423,6 +431,7 @@ Vietininkas Lietuvos Didžiojoje Kunigaikštystėje buvo valdovo paskirtas parei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -463,6 +472,7 @@ Vietininkas Lietuvos Didžiojoje Kunigaikštystėje buvo valdovo paskirtas parei
   pagrindžia:
     - t-005
     - t-010
+
 - c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -486,6 +496,7 @@ Vietininkas Lietuvos Didžiojoje Kunigaikštystėje buvo valdovo paskirtas parei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-012
   santrauka: 'Kazimiero valdymo pabaigoje likusių kunigaikštysčių pilis valdė didžiojo kunigaikščio vietininkai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -502,6 +513,7 @@ Vietininkas Lietuvos Didžiojoje Kunigaikštystėje buvo valdovo paskirtas parei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-013
   santrauka: 'Gediminas prijungė Lucką, Drohičiną ir Brestą prie Lietuvos valdų, palikdamas lietuvių įgulas ir vietininkus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -522,6 +534,7 @@ Vietininkas Lietuvos Didžiojoje Kunigaikštystėje buvo valdovo paskirtas parei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-014
   santrauka: 'Moskožovskis nebuvo prikalbėtas tapti karaliaus vietininku Vilniuje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -548,6 +561,7 @@ Vietininkas Lietuvos Didžiojoje Kunigaikštystėje buvo valdovo paskirtas parei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-015
   santrauka: 'Vėl prijungus Podolę prie Lietuvos, pilyse ir miestuose buvo paliktos lietuvių įgulos ir lietuvių kilmės vietininkai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -564,6 +578,7 @@ Vietininkas Lietuvos Didžiojoje Kunigaikštystėje buvo valdovo paskirtas parei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-016
   santrauka: 'Karalius laikinai paskyrė Spiteką valdų vietininku.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -589,6 +604,7 @@ Vietininkas Lietuvos Didžiojoje Kunigaikštystėje buvo valdovo paskirtas parei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-017
   santrauka: 'Aleksandro pasiuntinys Stanislovas Strumila Petravičius buvo Smolensko vietininkas ir derėjosi su Ivanu dėl skriaudų atlyginimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -611,6 +627,7 @@ Vietininkas Lietuvos Didžiojoje Kunigaikštystėje buvo valdovo paskirtas parei
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-018
   santrauka: 'Lietuvos metraščio pasakojime Vytautas Pskove vietininku pasodino Pinsko kunigaikštį Jurijų, pramintą Nosimi.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

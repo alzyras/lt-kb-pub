@@ -110,6 +110,7 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

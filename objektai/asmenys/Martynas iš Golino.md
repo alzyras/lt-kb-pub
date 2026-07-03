@@ -412,6 +412,7 @@ Martynas iš Golino šaltiniuose minimas kaip Ordino labui veikęs „krikščio
   pagrindžia:
     - t-008
     - t-011
+
 - c-002
   santrauka: 'Martynas iš Golino pateko tarp belaisvių, kuriuos prūsai išsivarė po persekiojimo ir grobio surinkimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -427,6 +428,7 @@ Martynas iš Golino šaltiniuose minimas kaip Ordino labui veikęs „krikščio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -445,6 +447,7 @@ Martynas iš Golino šaltiniuose minimas kaip Ordino labui veikęs „krikščio
   pagrindžia:
     - t-003
     - t-015
+
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -461,6 +464,7 @@ Martynas iš Golino šaltiniuose minimas kaip Ordino labui veikęs „krikščio
   pagrindžia:
     - t-006
     - t-010
+
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -480,6 +484,7 @@ Martynas iš Golino šaltiniuose minimas kaip Ordino labui veikęs „krikščio
     - t-013
     - t-014
     - t-012
+
 - c-006
   santrauka: 'Martynas iš Golino prie Bugo upės užpuolė prekių laivo upeivius, juos išžudė ir laivą nuplukdė į Torunę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -498,6 +503,7 @@ Martynas iš Golino šaltiniuose minimas kaip Ordino labui veikęs „krikščio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -520,6 +526,7 @@ Martynas iš Golino šaltiniuose minimas kaip Ordino labui veikęs „krikščio
     - t-002
     - t-018
     - t-017
+
 - c-008
   santrauka: 'Karaliaučiaus komtūras paskyrė Martyną iš Golino į Pelužio būrį, traukusį keršyti lietuvių kunigaikščiui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -541,6 +548,7 @@ Martynas iš Golino šaltiniuose minimas kaip Ordino labui veikęs „krikščio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-009
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -557,6 +565,7 @@ Martynas iš Golino šaltiniuose minimas kaip Ordino labui veikęs „krikščio
   pagrindžia:
     - t-005
     - t-001
+
 - c-010
   santrauka: 'Po sesers nužudymo Martynas iš Golino ėmė nekęsti netikėlių ir, išsivadavęs iš nelaisvės, smarkiai jiems smogė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

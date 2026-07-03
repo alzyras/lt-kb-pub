@@ -152,6 +152,7 @@ Kaributas buvo Jogailos brolis ir Naugardo Sieversko kunigaikštis, minimas XIV 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-002
   santrauka: 'Kaributas pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -171,6 +172,7 @@ Kaributas buvo Jogailos brolis ir Naugardo Sieversko kunigaikštis, minimas XIV 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Karalių Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs dar prieš karą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -188,6 +190,7 @@ Kaributas buvo Jogailos brolis ir Naugardo Sieversko kunigaikštis, minimas XIV 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-004
   santrauka: 'Kaributas iki 1393 m. valdė Naugardo Sieversko kunigaikštiją, iš kurios jį pašalino Vytautas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -205,6 +208,7 @@ Kaributas buvo Jogailos brolis ir Naugardo Sieversko kunigaikštis, minimas XIV 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -226,6 +230,7 @@ Kaributas buvo Jogailos brolis ir Naugardo Sieversko kunigaikštis, minimas XIV 
   pagrindžia:
     - t-003
     - t-001
+
 - c-006
   santrauka: 'Kaributas, Jogailos brolis ir Naugardo Sieversko kunigaikštis, sukilo prieš Kęstutį, kai šis buvo apgulęs Jurbarką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

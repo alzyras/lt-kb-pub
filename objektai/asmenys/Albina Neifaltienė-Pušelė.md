@@ -44,6 +44,7 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Mūšyje Albina Neifaltienė-Pušelė rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių ir buvo pakirsta priešo kulkos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

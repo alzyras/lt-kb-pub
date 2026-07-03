@@ -70,6 +70,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Balińskis Waddyngo pasakojimą laikė painiu ir nepatikimu dėl neaiškių šaltinių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

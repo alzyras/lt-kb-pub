@@ -80,6 +80,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kryžiuočiai per žygį kentė maisto stoką, nes neseniai nusiaubtuose kaimuose nerado kuo numalšinti alkio.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

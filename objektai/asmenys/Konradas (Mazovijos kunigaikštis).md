@@ -88,6 +88,7 @@ Konradas, Mazovijos kunigaikštis, šaltinyje vaizduojamas kaip valdovas, kurio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kunigaikštis Konradas, prūsų įbaugintas, perduodavo jų pasiuntiniams žirgus ir ryškiaspalvius drabužius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -107,6 +108,7 @@ Konradas, Mazovijos kunigaikštis, šaltinyje vaizduojamas kaip valdovas, kurio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Konradas, žmonai Agotai ir sūnums pritarus, atidavė Teutonų namų ordino broliams Kulmo ir Lubavos žemes bei būsimas atkariautas žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -135,6 +137,7 @@ Konradas, Mazovijos kunigaikštis, šaltinyje vaizduojamas kaip valdovas, kurio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijos vyskupas Kristijonas ragino prūsus priimti krikščionybę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -152,6 +155,7 @@ Konradas, Mazovijos kunigaikštis, šaltinyje vaizduojamas kaip valdovas, kurio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   santrauka: 'Kunigaikštis Konradas, vyskupo Kristijono ir kai kurių didikų patartas, savo žemei ginti ėmė burti Kristaus karius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

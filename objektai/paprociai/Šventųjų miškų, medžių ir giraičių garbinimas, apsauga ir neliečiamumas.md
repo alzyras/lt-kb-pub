@@ -66,7 +66,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas mini padavimą, kad prie Girkų kaimo Lydos apskrityje augę seni medžiai buvo šventojo miško, teikusio prieglobstį persekiojamiesiems, liekana.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

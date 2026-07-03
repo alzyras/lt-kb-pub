@@ -68,6 +68,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Po Kulmo vyskupo nurodymo dvi moterys eidamos į bažnyčią pamatė aikštėje kauliukais žaidžiantį tarną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -84,6 +85,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Po mūšio Kulmo vyskupas įpareigojo Kulmo našles tekėti už savo tarnų, kad tikėjimo reikalas neatsidurtų pavojuje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

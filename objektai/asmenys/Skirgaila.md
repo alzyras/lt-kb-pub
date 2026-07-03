@@ -565,7 +565,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-002
+    - t-010
+- c-002
   santrauka: 'Skirgaila neturėjo visos valdžios valstybėje, nes Vilnių Jogaila pasiliko sau.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -581,7 +582,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-003
+    - t-020
+- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Skirgailai buvo pavesta valdyti Vilniaus sritis. Jo valdžia
@@ -592,7 +594,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-028- c-004
+    - t-028
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Susitaikinęs Jogaila su Vytautu, stengėsi jį, pagaliau, su­
@@ -606,7 +609,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025- c-005
+    - t-025
+- c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Klausimas kaip Lietuva
@@ -619,7 +623,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-031- c-006
+    - t-031
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip
@@ -644,7 +649,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-    - t-024- c-007
+    - t-024
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     116
@@ -666,7 +672,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
-    - t-032- c-008
+    - t-032
+- c-008
   santrauka: 'Karalienė Jadvyga stengėsi sutaikyti Skirgailą su Vytautu, o sutartimis Skirgaila gavo Kijevo kunigaikštystę ir kelias pilis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -690,7 +697,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
-    - t-013- c-009
+    - t-013
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau, apsuptas išdavikų,
@@ -709,7 +717,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-033- c-010
+    - t-033
+- c-010
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^1) **Plačiau žr. G. Rhode : RhOP, I, 307, 344 p.**
@@ -729,7 +738,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-036
-    - t-035- c-011
+    - t-035
+- c-011
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ostrogo kunigaikštis Feodoras turėjo iš
@@ -743,7 +753,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
-    - t-029- c-012
+    - t-029
+- c-012
   santrauka: '1391 m. liepos 22 d. Jogaila dokumentu pažadėjo Skirgailai be jo žinios neatiduoti Vilniaus ir kitų miestų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -759,7 +770,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-013
+    - t-017
+- c-013
   santrauka: 'Dėl Skirgailos niršaus būdo Vytautas negalėjo būti tikras, kad nebus pasikėsinta į jo gyvybę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -784,7 +796,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
-    - t-037- c-014
+    - t-037
+- c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Išties trumpas, bet itin nesėkmingas buvo Vilniui Skir­
@@ -805,7 +818,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-015
+    - t-016
+- c-015
   santrauka: 'Skirgaila, gavęs valdžią, aplaidumu ir žiauriu elgesiu nuteikė prieš save didesnę Lietuvos dalį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -831,7 +845,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-    - t-005- c-016
+    - t-005
+- c-016
   santrauka: 'Jogaila paskyrė Skirgailą savo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu, pavaldžiu karaliaus valdžiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -852,7 +867,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
-    - t-023- c-017
+    - t-023
+- c-017
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tačiau viso šio darbo
@@ -869,7 +885,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-    - t-019- c-018
+    - t-019
+- c-018
   santrauka: 'Trakuose viešpatavusio Skirgailos išvarymas galėjo sukelti naują karą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -883,7 +900,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-019
+    - t-007
+- c-019
   santrauka: 'Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -898,7 +916,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-020
+    - t-015
+- c-020
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tik taikos sutartyje tarp Ordi­
@@ -920,7 +939,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-021
+    - t-021
+- c-021
   santrauka: 'Vytautas negalėjo taikstytis su Skirgailos paaukštinimu, todėl Gardine susimokė išvyti Skirgailą iš sostinės ir paimti valdžią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -945,7 +965,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034- c-022
+    - t-034
+- c-022
   santrauka: 'Skirgaila nuolatine buveine pasirinko Trakų pilį ir išvykdavo į mūšius su Prūsijos ordinu bei maištaujančiais kunigaikščiais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -962,7 +983,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027- c-023
+    - t-027
+- c-023
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     To­
@@ -983,7 +1005,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-024
+    - t-004
+- c-024
   santrauka: '1393 m. tarp Vytauto ir Skirgailos kilo smarkus ginčas, kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -999,7 +1022,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-025
+    - t-003
+- c-025
   santrauka: '1394 m. Vytautui panaikinus Kijevo kunigaikštiją, Kijevą gavo Skirgaila.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1013,7 +1037,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-026
+    - t-014
+- c-026
   santrauka: 'Jogaila pasiuntė brolį Skirgailą su slaptais įgaliojimais į Vakarų Europą, o Marienburge Skirgaila buvo draugiškai priimtas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1029,7 +1054,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-027
+    - t-012
+- c-027
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taip galvoti
@@ -1044,7 +1070,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-028
+    - t-018
+- c-028
   santrauka: 'Jogaila po susitaikymo su Vytautu sutaikė jį ir su didžiausiu Vytauto priešu Skirgaila.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1063,7 +1090,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-029
+    - t-006
+- c-029
   santrauka: '1387–1392 m. Skirgaila neturėjo visos valdžios Lietuvoje, nes Vilnių Jogaila pasiliko sau.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1077,7 +1105,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-038- c-030
+    - t-038
+- c-030
   santrauka: 'Skirgaila Šventaragio slėnyje surengė Kęstučiui karališkas šermenis ir laidotuves.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1105,7 +1134,8 @@ Skirgaila buvo Jogailos brolis ir vietininkas Lietuvoje iki 1392 m., tačiau jo 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-039- c-031
+    - t-039
+- c-031
   santrauka: 'Narbutas Lietuvos 1386–1447 m. laikotarpį apibūdino kaip didžiausios galybės epochą ir rašė, kad Vytautas sostą paveldėjo iš Skirgailos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

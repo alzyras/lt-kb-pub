@@ -63,6 +63,7 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Pirmomis sausio įvykių dienomis dalis A. Pociaus vadovaujamų ginkluotų gynėjų buvo išdėstyti ties Žvėryno tiltu kitoje Neries pusėje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

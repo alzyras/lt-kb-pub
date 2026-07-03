@@ -78,6 +78,7 @@ Henrikas VII, Liuksemburgo grafas, šv. Kotrynos dieną buvo vieningai išrinkta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Šv. Kotrynos dieną Vokietijos valdovai elektoriai vieningai išrinko Henriką VII Romos karaliumi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -93,6 +94,7 @@ Henrikas VII, Liuksemburgo grafas, šv. Kotrynos dieną buvo vieningai išrinkta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: '1311 m. sausio 6 d. Henrikas VII prie Milano buvo vainikuotas geležiniu vainiku.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -107,6 +109,7 @@ Henrikas VII, Liuksemburgo grafas, šv. Kotrynos dieną buvo vieningai išrinkta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |

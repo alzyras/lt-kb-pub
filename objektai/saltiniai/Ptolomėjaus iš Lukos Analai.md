@@ -120,6 +120,7 @@ Ptolomėjaus iš Lukos „Analai“ yra bažnyčios istorijos šaltinis, siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   santrauka: 'Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona kūnu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -134,6 +135,7 @@ Ptolomėjaus iš Lukos „Analai“ yra bažnyčios istorijos šaltinis, siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo prasidėjo nesantarvė dėl Prancūzijos karalystės pavaldumo apaštališkajam sostui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -154,6 +156,7 @@ Ptolomėjaus iš Lukos „Analai“ yra bažnyčios istorijos šaltinis, siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Ptolomėjus iš Lukos, Tomo Akviniečio mokinys ir popiežiaus bibliotekininkas, parašė „Analus“ apie bažnyčios istoriją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -169,6 +172,7 @@ Ptolomėjaus iš Lukos „Analai“ yra bažnyčios istorijos šaltinis, siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: '1314 m. kovo 1 d. prie Karpantra, kur buvo Romos kurija, pasirodė trys saulės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -189,6 +193,7 @@ Ptolomėjaus iš Lukos „Analai“ yra bažnyčios istorijos šaltinis, siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-006
   santrauka: 'Brolių pamokslininkų ordinas minimas 1216 m., kai valdė popiežius Honorijus III.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -202,6 +207,7 @@ Ptolomėjaus iš Lukos „Analai“ yra bažnyčios istorijos šaltinis, siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-007
   santrauka: 'Popiežius Inocentas III viešpatavo kartu su imperatoriais Otonu IV ir Fridrichu II.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -216,6 +222,7 @@ Ptolomėjaus iš Lukos „Analai“ yra bažnyčios istorijos šaltinis, siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-008
   santrauka: 'Birželio 3 d. per pietus įvyko toks smarkus saulės užtemimas, kad buvo matyti žvaigždės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -232,6 +239,7 @@ Ptolomėjaus iš Lukos „Analai“ yra bažnyčios istorijos šaltinis, siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   santrauka: '1228 m. Italijoje radosi gibelinų ir gvelfų partijos: Gibelinas rėmė imperatorių, o Gveltas bažnyčią.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

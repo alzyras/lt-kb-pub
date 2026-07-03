@@ -350,6 +350,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -371,6 +372,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -390,6 +392,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindžia:
     - t-004
     - t-005
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -409,6 +412,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-005
   santrauka: 'Karai ir dažnas karinės valdžios kišimasis silpnino Vilniaus miestiečiams suteiktų Magdeburgo teisių poveikį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -435,6 +439,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindžia:
     - t-007
     - t-035
+
 - c-006
   santrauka: 'Vilniaus miestiečių luomui priklausė narystė Lietuvos suvažiavimuose arba seimuose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -458,6 +463,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -478,6 +484,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -495,6 +502,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindžia:
     - t-011
     - t-012
+
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -525,6 +533,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - t-014
     - t-021
     - t-013
+
 - c-010
   santrauka: '1451 m. Kazimieras atleido Magdeburgo teisei paklususius Vilniaus miestiečius nuo pastočių davimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -543,6 +552,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
+
 - c-011
   santrauka: '1505 m. karalius atleido Vilniaus gyventojus nuo karo tarnybos vieneriems metams, kad jie apjuostų miestą mūro siena.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -564,6 +574,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-012
   santrauka: 'Iki Gedimino Vilniaus būsimo miesto užuomazgą sudarė palei Vilnią gyvenę lietuviai, vaidilos ir jų svitos žmonės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -598,6 +609,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
+
 - c-013
   santrauka: '1506 m. totorių pabūgę Vilniaus miestiečiai, remiami vyskupo Vaitiekaus Taboro, apjuosė miestą mūro pylimu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -623,6 +635,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-014
   santrauka: 'Vilniaus miestiečiai, palaikę Jogailą prieš Kęstutį, naktį sumušė Kęstučio įgulą ir perdavė Jogailai Žemutinę bei Aukštutinę pilis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -647,6 +660,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-015
   santrauka: 'Silpno charakterio karalius nepajėgė pasipriešinti turčių vyravimui ir suteikti daugiau laisvės Vilniaus miestiečių luomui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -663,6 +677,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
+
 - c-016
   santrauka: 'Vilniaus miestiečių luomas negalėjo išsiderėti daugiau laisvių, nes stokojo palankaus meto ir politinių sąlygų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -685,6 +700,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
+
 - c-017
   santrauka: 'Nuolatiniai karai ir mokesčiai nuskurdino Vilniaus miestiečius, todėl jie nebegalėjo prekiauti su svetimšaliais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -706,6 +722,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
+
 - c-018
   santrauka: 'Kazimieras dar būdamas didžiuoju kunigaikščiu atleido Vilniaus miestiečius nuo muito mokesčio visoje Lietuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -735,6 +752,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-019
   santrauka: 'Vilniaus burmistrai, tarybos nariai ir miestiečiai skundė vaitą dėl Magdeburgo teisės nesilaikymo ir privilegijų pažeidimų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -757,6 +775,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-020
   santrauka: 'Miestiečių luomas, dviejų paskutinių Jogailaičių iškeltas iki tikrų piliečių, valdant Steponui Batorui turėjo stiprų globėją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -781,6 +800,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-021
   santrauka: '1569 m. liepos 1 d. Liublino seime Vilniaus pasiuntiniai kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -814,6 +834,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-022
   santrauka: 'Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės Vilniaus miestiečių luomui suteikė aukštesnę visuomeninę padėtį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -843,6 +864,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-023
   santrauka: 'Vilniaus miestiečių luomas turėjo nustatytą vietą Lietuvos seimuose ir dalyvavo krašto reprezentacijose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -870,6 +892,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
 - c-024
   santrauka: 'Gaisro atveju kiekvienas Vilniaus miestietis privalėjo skubėti prie ugnies, o burmistrai turėjo vadovauti gesinimui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -893,6 +916,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindžia:
     - t-016
     - t-010
+
 - c-025
   santrauka: 'Vilniaus gyventojai įvertino, kad gaisras didžiajam kunigaikščiui padarė iki 60 tūkstančių sidabro luitų žalą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -911,6 +935,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
+
 - c-026
   santrauka: 'Žygimantas rugsėjo 23 d. suteikė Vilniaus miestiečiams teisę prekiauti ir be muitų gabenti prekes Lietuvos žemėse.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -934,6 +959,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-033
+
 - c-027
   santrauka: 'Vilniaus namų statyba teikė miestiečiams naudingos veiklos ir prisidėjo prie jų turtėjimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -960,6 +986,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-028
   santrauka: '1568 m. birželio 15 d. Gardino seimo sprendimas apsaugojo Vilniaus miestiečius nuo dvariškių ir pasiuntinių apgyvendinimo be miesto tarybos leidimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -75,6 +75,7 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-001
+
 - c-002
   santrauka: '1433 m. liepą iš Cėsių Lietuvos niokoti išžygiavusi Livonijos ordino kariuomenė žygyje užtruko 11 savaičių, o magistras Rutenbergas rugsėjo 18 d. grįžo į Rygą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

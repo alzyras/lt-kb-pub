@@ -68,6 +68,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Maskvėnai ryžtingai puolė Smolenską ir, sudaužę sienas, galėjo įeiti į miestą, bet pilies neužėmė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

@@ -59,6 +59,7 @@ Didikai ir bajorai teigė, kad Lietuvos Didžiajai Kunigaikštystei ramybę sute
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Mintis apie savarankišką Lietuvos Didžiosios Kunigaikštystės valdovą sukėlė palankumą Aleksandrui Sluckiečiui arba vienam iš jo sūnų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

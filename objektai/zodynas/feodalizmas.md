@@ -97,6 +97,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -111,6 +112,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -134,6 +136,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   pagrindžia:
     - t-003
     - t-005
+
 - c-004
   santrauka: 'Susidūrimas su Rytais, anot autoriaus, sutramdė feodalizmo piktnaudžiavimą ir iš bajorijos formavo riterių luomą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -153,6 +156,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   pagrindžia:
     - t-004
     - t-008
+
 - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -168,6 +172,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-006
   santrauka: 'Michałas Balińskis Gediminą vadino darnesnio ir pajėgesnio feodalizmo kūrėju ir miestų Lietuvoje įkūrėju.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -186,6 +191,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-007
   santrauka: 'Lietuvos feodalizmas nebuvo galutinai išsiplėtojęs.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

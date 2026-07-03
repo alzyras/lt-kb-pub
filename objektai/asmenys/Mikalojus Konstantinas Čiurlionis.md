@@ -117,6 +117,7 @@ Mikalojus Konstantinas Čiurlionis (1875–1911) šaltiniuose įvardijamas kaip 
   pagrindžia:
     - t-007
     - t-003
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -134,6 +135,7 @@ Mikalojus Konstantinas Čiurlionis (1875–1911) šaltiniuose įvardijamas kaip 
   pagrindžia:
     - t-004
     - t-005
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -156,6 +158,7 @@ Mikalojus Konstantinas Čiurlionis (1875–1911) šaltiniuose įvardijamas kaip 
   pagrindžia:
     - t-008
     - t-006
+
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -175,6 +178,7 @@ Mikalojus Konstantinas Čiurlionis (1875–1911) šaltiniuose įvardijamas kaip 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

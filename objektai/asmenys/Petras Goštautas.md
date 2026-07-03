@@ -229,6 +229,7 @@ Petras Goštautas tradicijoje siejamas su pranciškonų globa Vilniuje, kataliky
   pagrindžia:
     - t-005
     - t-011
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -257,6 +258,7 @@ Petras Goštautas tradicijoje siejamas su pranciškonų globa Vilniuje, kataliky
   pagrindžia:
     - t-006
     - t-013
+
 - c-003
   santrauka: '1333 m. Petras Goštautas iš Rusios ir Podolės atkvietė į Vilnių keturiolika Šv. Pranciškaus regulos vienuolių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -285,6 +287,7 @@ Petras Goštautas tradicijoje siejamas su pranciškonų globa Vilniuje, kataliky
   pagrindžia:
     - t-012
     - t-004
+
 - c-004
   santrauka: 'Apie 1345 m. Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną Palenkėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -323,6 +326,7 @@ Petras Goštautas tradicijoje siejamas su pranciškonų globa Vilniuje, kataliky
   pagrindžia:
     - t-010
     - t-003
+
 - c-005
   santrauka: 'Petras Goštautas, valdovo vietininkas Lietuvoje, globojo pranciškonus ir saugojo juos nuo pavojų Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -346,6 +350,7 @@ Petras Goštautas tradicijoje siejamas su pranciškonų globa Vilniuje, kataliky
     - t-009
     - t-001
     - t-002
+
 - c-006
   santrauka: 'Petras Goštautas, Algirdo laikų didikas ir Vilniaus vaivada, pagonišką dievaičių buveinę pavertė Šv. Petro bažnyčia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -386,6 +391,7 @@ Petras Goštautas tradicijoje siejamas su pranciškonų globa Vilniuje, kataliky
   pagrindžia:
     - t-008
     - t-007
+
 - c-007
   santrauka: 'Pergalingoje kovoje Surminas neteko savo brolio Goštauto ir kitų narsių karių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -411,6 +417,7 @@ Petras Goštautas tradicijoje siejamas su pranciškonų globa Vilniuje, kataliky
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-008
   santrauka: 'Petras Goštautas įsakė surasti nužudytų vienuolių kūnus ir palaidoti juos aikštėje, kur jie skelbė Kristaus žodį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -441,6 +448,7 @@ Petras Goštautas tradicijoje siejamas su pranciškonų globa Vilniuje, kataliky
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-009
   santrauka: 'Algirdui paskelbus Podolę savo valda, Petras Goštautas buvo paskirtas jos seniūnu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -463,6 +471,7 @@ Petras Goštautas tradicijoje siejamas su pranciškonų globa Vilniuje, kataliky
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-010
   santrauka: 'Veliuonos įgulos vadas Goštautas pasidavė priešams, bet žuvo nuo nugalėtojų rankų jiems susiginčijus dėl belaisvio.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

@@ -52,6 +52,7 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vilniaus-Radomo susitarimu buvo patvirtintas Vytauto savarankiškumas, bet po jo mirties Lietuva turėjo grįžti Jogailai ir jo įpėdiniams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

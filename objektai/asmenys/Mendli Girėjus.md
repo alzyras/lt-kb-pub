@@ -55,6 +55,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Mendli Girėjus sumušė sąjungininko apleistą Šach Achmedą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

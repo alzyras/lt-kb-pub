@@ -80,6 +80,7 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Ulrikui Hozijui leista rinkti tilto mokestį tol, kol jam sugrįš tilto statybai įdėtos lėšos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -103,6 +104,7 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Tilto mokestis karališkąja malone visiems laikams buvo paskirtas prieglaudai ir joje gyvenantiems vargšams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

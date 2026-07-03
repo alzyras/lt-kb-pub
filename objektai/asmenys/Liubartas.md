@@ -193,6 +193,7 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Remdamasis giminystės ir paveldėjimo teisėmis, Liubartas įsitvirtino Volinijoje ir beveik iki mirties 1385 m. kovojo su Lenkija dėl kitos palikimo dalies.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -209,6 +210,7 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -224,6 +226,7 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
   pagrindžia:
     - t-003
     - t-005
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -245,6 +248,7 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
     - t-003
     - t-004
     - t-008
+
 - c-005
   santrauka: 'Liubartas per kovas su lenkais atlaikė Voluinę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -261,6 +265,7 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-006
   santrauka: 'Prieš Gedimino mirtį Liubartas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -278,6 +283,7 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-007
   santrauka: 'Liubartas ir Pisimantas iš šiaurinės Rusios buvo pakviesti į pagalbą su savo pulkais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -298,6 +304,7 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-008
   santrauka: 'Liubartas, Pisimantas, Drucko kunigaikštis Michailas ir Lucko valdovas Andrejus žuvo tame pačiame mūšyje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -334,6 +341,7 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-009
   santrauka: 'Algirdo brolis Liubartas valdė Lvovą Rusioje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -352,6 +360,7 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-010
   santrauka: 'Vladimire apsuptas Liubartas išvengė lenkų nelaisvės dėl Bogdano iš Ivanicos drąsos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -381,6 +390,7 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-011
   santrauka: 'Kazimieras išvijo Algirdo brolį Liubartą iš Volynės, kai lietuviai buvo įsitraukę į karą su kryžiuočiais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -410,6 +420,7 @@ Liubartas – Gedimino sūnus, stačiatikių srityse priėmęs jų tikėjimą ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-012
   santrauka: 'Liubartas be kovos atgavo iš jo neseniai atimtą tėvoniją, sustiprino senąją pilį ir paliepė sugriauti naująją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

@@ -60,6 +60,7 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Roczniki czyli kroniki sławnego królestwa Polskiego.— Warszawa, ks.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

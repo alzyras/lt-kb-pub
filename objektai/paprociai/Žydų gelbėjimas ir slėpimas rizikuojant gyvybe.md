@@ -88,6 +88,7 @@ Nacių okupacijos metu dalis lietuvių visuomenės rizikuodama gyvybe padėjo ž
   pagrindžia:
     - t-001
     - t-002
+
 ## Šaltiniai ir įrodymai
 
 Nenurodyta

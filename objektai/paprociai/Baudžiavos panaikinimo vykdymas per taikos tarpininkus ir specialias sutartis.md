@@ -68,7 +68,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-002
+    - t-002
+- c-002
   santrauka: 'Vykdant baudžiavos panaikinimo reformą valstiečiai bijojo naujų prievolių, bruzdėjo ir atsisakinėjo sudaryti sutartis su ponais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

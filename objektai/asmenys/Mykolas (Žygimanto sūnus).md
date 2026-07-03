@@ -122,6 +122,7 @@ Mykolas, Žygimanto sūnus, minimas kaip kunigaikštis, vedęs lenkų ir lietuvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1440 m. balandį, sąmokslininkams Trakų pilyje nužudžius Žygimantą, jo sūnus Mykolas buvo ištremtas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -141,6 +142,7 @@ Mykolas, Žygimanto sūnus, minimas kaip kunigaikštis, vedęs lenkų ir lietuvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Gavęs žinią apie sąmokslą, Mykolas pasislėpė vandens apsuptoje Mažojoje pilyje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -161,6 +163,7 @@ Mykolas, Žygimanto sūnus, minimas kaip kunigaikštis, vedęs lenkų ir lietuvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Narbuto vadovaujami Žygimanto valdiniai ir Kęstučio šeimai atsidavę žemaičiai palaikė Mykolą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -181,6 +184,7 @@ Mykolas, Žygimanto sūnus, minimas kaip kunigaikštis, vedęs lenkų ir lietuvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Mykolas, sužinojęs apie Kazimiero kelionę iš Bresto į Vilnių, paliko Trakų pilį ir su 500 raitelių patraukė į Mazoviją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -209,6 +213,7 @@ Mykolas, Žygimanto sūnus, minimas kaip kunigaikštis, vedęs lenkų ir lietuvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'Mykolui gavus skirtingose žemėse paskirtas valdas, jo širdyje vėl pabudo seni įgeidžiai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -227,6 +232,7 @@ Mykolas, Žygimanto sūnus, minimas kaip kunigaikštis, vedęs lenkų ir lietuvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   santrauka: 'Mykolas svajojo valdyti visą Lietuvą ir sumanė slapta nužudyti valdovą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -246,6 +252,7 @@ Mykolas, Žygimanto sūnus, minimas kaip kunigaikštis, vedęs lenkų ir lietuvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-008
   santrauka: 'Mykolas iš Mazovijos atvyko į Kališą ir prašė karaliaus grąžinti jam tėvoniją bei tėvo turtus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -263,6 +270,7 @@ Mykolas, Žygimanto sūnus, minimas kaip kunigaikštis, vedęs lenkų ir lietuvi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   santrauka: '1448 m. Mykolas su skitais įsiveržė į Severską ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

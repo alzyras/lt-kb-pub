@@ -62,7 +62,8 @@ Tiksli Naujųjų Trakų įkūrimo data nežinoma. Naujųjų Trakų data lyginama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas pasakojo, kad Kęstutis Birutę prieš jos valią išsivežė į Naujuosius Trakus ir ten vedė kaip žmoną.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

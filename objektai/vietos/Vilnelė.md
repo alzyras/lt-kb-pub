@@ -208,6 +208,7 @@ Vilnelė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Vilniaus 
   pagrindžia:
     - t-001
     - t-012
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -239,6 +240,7 @@ Vilnelė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Vilniaus 
   pagrindžia:
     - t-015
     - t-005
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -258,6 +260,7 @@ Vilnelė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Vilniaus 
   pagrindžia:
     - t-009
     - t-010
+
 - c-004
   santrauka: 'Vilnia, arba Vilnelė, anuomet tekėjo pro Pilies gatvę, palei Pilies vartus ir už dabartinės katedros įtekėjo į Viliją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -282,6 +285,7 @@ Vilnelė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Vilniaus 
   pagrindžia:
     - t-011
     - t-013
+
 - c-005
   santrauka: '1522 metais prie Vilnelės iškilo popieriaus malūnas, buvęs aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -304,6 +308,7 @@ Vilnelė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Vilniaus 
   pagrindžia:
     - t-008
     - t-002
+
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -326,6 +331,7 @@ Vilnelė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Vilniaus 
   pagrindžia:
     - t-006
     - t-007
+
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -345,6 +351,7 @@ Vilnelė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Vilniaus 
   pagrindžia:
     - t-004
     - t-003
+
 - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

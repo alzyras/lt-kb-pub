@@ -68,6 +68,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Maskvos didikai teigė, kad Maksimilijono ir Suleimano laiškai Vasilijui Vasiljevičiui titulavo Maskvos didįjį kunigaikštį caru.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

@@ -300,7 +300,8 @@ Dauguva Lietuvos istorijos šaltiniuose minima kaip svarbi geografinė riba ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-002
+    - t-007
+- c-002
   santrauka: 'Spalio 5 d. Lietuvos kariuomenė dar tęsė kovas su bolševikais Dauguvos fronte.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -316,7 +317,8 @@ Dauguva Lietuvos istorijos šaltiniuose minima kaip svarbi geografinė riba ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-003
+    - t-004
+- c-003
   santrauka: 'Lietuvos kariuomenės sparnas turėjo nustumti švedus nuo Dauguvos kranto ir nublokšti juos į šiaurėje esantį pelkėtą mišką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -340,7 +342,8 @@ Dauguva Lietuvos istorijos šaltiniuose minima kaip svarbi geografinė riba ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-004
+    - t-005
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę
@@ -358,7 +361,8 @@ Dauguva Lietuvos istorijos šaltiniuose minima kaip svarbi geografinė riba ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-005
+    - t-003
+- c-005
   santrauka: 'Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -396,7 +400,8 @@ Dauguva Lietuvos istorijos šaltiniuose minima kaip svarbi geografinė riba ir k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-    - t-002- c-006
+    - t-002
+- c-006
   santrauka: 'Treniotos ir žemaičių žygiai siekė už Dauguvos esančią Estiją, bet buvo siaubiamieji, o ne užkariaujamieji.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -411,7 +416,8 @@ Dauguva Lietuvos istorijos šaltiniuose minima kaip svarbi geografinė riba ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-007
+    - t-006
+- c-007
   santrauka: 'Narbutas Gercikos pilį prie Dauguvos tapatino su dabartiniu Daugpiliu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -430,7 +436,8 @@ Dauguva Lietuvos istorijos šaltiniuose minima kaip svarbi geografinė riba ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-008
+    - t-008
+- c-008
   santrauka: 'Narbutas Krivių Krivaičio valdžią vaizdavo kaip kadaise apėmusią žemes nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -448,7 +455,8 @@ Dauguva Lietuvos istorijos šaltiniuose minima kaip svarbi geografinė riba ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-009
+    - t-009
+- c-009
   santrauka: 'Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir forma „Dewine Upes“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -472,7 +480,8 @@ Dauguva Lietuvos istorijos šaltiniuose minima kaip svarbi geografinė riba ir k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-010
+    - t-010
+- c-010
   santrauka: 'Narbutas dainelės žodį „dewine“ aiškino kaip „Dwine upe“ ir siejo jį su devintąja upe, Dvina arba Dauguva.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

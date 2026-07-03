@@ -79,6 +79,7 @@ Valerijonas ## Puslapis 394 VILNIAUS MIESTO ISTORIJA II TOMAS ŽYGIMANTO SENOJO 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Žygimanto Senojo raštas Vilniaus magistratui buvo susijęs su vyskupo nesikišimu į miesto jurisdikcijoje tarnaujančiųjų teises.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

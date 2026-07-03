@@ -81,6 +81,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Merkinėje rašytu iškilmingu aktu Vilniui buvo suteiktos Magdeburgo teisės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -63,6 +63,7 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būtų bergždžios, ir pritardamas jų karštam ryžtui, taip patvarkė, kad neilgai trukus jie išvydo stiprią pilį, vardu Kimelis548, kurią sugriauti ir patys broliai ne kartą bandė, ir savo žmonių rankomis dažnai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

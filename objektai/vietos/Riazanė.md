@@ -220,6 +220,7 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -234,6 +235,7 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-003
   santrauka: 'Jurgis pabėgo į Riazanę pas savo uošvį kunigaikštį Olegą, kuris jį priėmė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -252,6 +254,7 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -270,6 +273,7 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
   pagrindžia:
     - t-005
     - t-001
+
 - c-005
   santrauka: 'Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -300,6 +304,7 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
   pagrindžia:
     - t-007
     - t-004
+
 - c-006
   santrauka: 'Maskvos valdovas į slaptą sąjungą prieš Vytautą buvo įtraukęs Riazanę ir Tverės kunigaikštį Mykolą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -315,6 +320,7 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-007
   santrauka: '1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -339,6 +345,7 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
   pagrindžia:
     - t-002
     - t-008
+
 - c-008
   santrauka: 'Vytauto žygio metu buvo pasiektos Tula, Kaluga ir Riazanė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -354,6 +361,7 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-009
   santrauka: 'Stanislovas, kijeviečiams ginantis nuo Gedimino, pabėgo į Riazanę ir ten išsižadėjo bet kokių vilčių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -375,6 +383,7 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-010
   santrauka: 'Jurgis Svetoslavovičius tuo metu viešėjo Riazanėje pas savo uošvį Olegą Ivanovičių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

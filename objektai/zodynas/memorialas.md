@@ -55,6 +55,7 @@ Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kun
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Antrajame memoriale Oginskis pabrėžė, kad be savarankiškos organizacijos Lietuva negalėjo sudaryti kariuomenės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

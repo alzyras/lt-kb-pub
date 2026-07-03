@@ -93,6 +93,7 @@ Jonas Jeronimaitis Chodkevičius iškilo kaip LDK politikas Livonijos karo spaud
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -107,6 +108,7 @@ Jonas Jeronimaitis Chodkevičius iškilo kaip LDK politikas Livonijos karo spaud
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -124,6 +126,7 @@ Jonas Jeronimaitis Chodkevičius iškilo kaip LDK politikas Livonijos karo spaud
   pagrindžia:
     - t-005
     - t-002
+
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -138,6 +141,7 @@ Jonas Jeronimaitis Chodkevičius iškilo kaip LDK politikas Livonijos karo spaud
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Jonas Jeronimaitis Chodkevičius kreipdamasis į Žygimantą Augustą teigė, kad lietuviai priversti nusileisti su didžiu skausmu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

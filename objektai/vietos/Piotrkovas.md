@@ -118,7 +118,8 @@ Lenkai reikalavo sušaukti luomus į Piotrkovo seimą, įtardami karalių dėl s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Kai gandas apie Aleksandro pakėlimą į sostą pasiekė Piotrkovą, lenkų seime kilo smarkių nesutarimų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -149,7 +150,8 @@ Lenkai reikalavo sušaukti luomus į Piotrkovo seimą, įtardami karalių dėl s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Mazovijos kunigaikštis Jonušas, siekdamas sosto, dėl nuomonių įvairovės vyko į Piotrkovą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -166,7 +168,8 @@ Lenkai reikalavo sušaukti luomus į Piotrkovo seimą, įtardami karalių dėl s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliaus pajamas iš Mazovijos ir Prūsijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -184,7 +187,8 @@ Lenkai reikalavo sušaukti luomus į Piotrkovo seimą, įtardami karalių dėl s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-005
+    - t-004
+- c-005
   santrauka: 'Narbutas aiškina, kad 1567 metais vietoj abejotino Gardino seimo iš tikrųjų vyko ilgai posėdžiavęs Lenkijos seimas Piotrkove.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -202,7 +206,8 @@ Lenkai reikalavo sušaukti luomus į Piotrkovo seimą, įtardami karalių dėl s
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-006
+    - t-005
+- c-006
   santrauka: 'Piotrkovo seime karalius Žygimantas parengė abiejų tautų žygį, o rudenį su kariuomene išžygiavo iš Vilniaus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

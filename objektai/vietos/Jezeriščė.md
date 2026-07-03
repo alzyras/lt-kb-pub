@@ -56,6 +56,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Zebžidovskis pro Polocką atžygiavo į Jezeriščę, o paskui patraukė į Nevelį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

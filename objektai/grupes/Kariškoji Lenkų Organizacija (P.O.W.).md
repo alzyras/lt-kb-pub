@@ -57,6 +57,7 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'P.O.W. sąmokslininkai tikėjosi kelioms valandoms paimti valdžią, kol ateis Lenkijos kariuomenė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

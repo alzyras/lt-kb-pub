@@ -72,6 +72,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Mazovijos kunigaikštis Konradas galėjo bandyti atsipirkti nuo prūsų antpuolių po 1216-1217 m. iki Mazovijos nusiaubimo 1222 arba 1224-1225 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

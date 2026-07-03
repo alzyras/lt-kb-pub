@@ -223,6 +223,7 @@ amziai:
   pagrindžia:
     - t-007
     - t-003
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -242,6 +243,7 @@ amziai:
   pagrindžia:
     - t-012
     - t-006
+
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -259,6 +261,7 @@ amziai:
     - t-011
     - t-002
     - t-009
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -291,6 +294,7 @@ amziai:
   pagrindžia:
     - t-010
     - t-005
+
 - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -311,6 +315,7 @@ amziai:
   pagrindžia:
     - t-001
     - t-015
+
 - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -325,6 +330,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -339,6 +345,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-008
   santrauka: 'Kazimieras atskiru įsakymu suteikė Vilniaus miestiečiams laisvę prekiauti su Černigovu be muito.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -369,6 +376,7 @@ amziai:
   pagrindžia:
     - t-008
     - t-014
+
 - c-009
   santrauka: 'Černigovas kartu su Starodubu, Naugardu ir Rylsku prisidėjo prie Seversko žemės išdavikų po Briansko užėmimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -394,6 +402,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-010
   santrauka: 'Po pergalės prieš totorių chaną didysis kunigaikštis Skirmantas Rusų žemėje paėmė Černigovą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

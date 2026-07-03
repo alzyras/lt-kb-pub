@@ -71,6 +71,7 @@ UŽPELKIŲ KAUTYNĖS 241 fo} j= o a o Qa nn co ia co ae ## Puslapis 244 NKVD SMO
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose specialiosiose grupėse, kurioms paprastai vadovaudavo operatyvininkas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

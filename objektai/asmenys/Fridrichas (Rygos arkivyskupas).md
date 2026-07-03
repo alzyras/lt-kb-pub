@@ -163,6 +163,7 @@ Fridrichas, Rygos arkivyskupas, šaltiniuose iškyla Gedimino ir Vytenio ryšių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Responsio per Procuratorem Ordinis kaltino Rygos arkivyskupą Fridrichą pasiuntus pasiuntinius pas lietuvių valdovą ir sudarius prieš Ordiną nukreiptą sąjungą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -204,6 +205,7 @@ Fridrichas, Rygos arkivyskupas, šaltiniuose iškyla Gedimino ir Vytenio ryšių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -230,6 +232,7 @@ Fridrichas, Rygos arkivyskupas, šaltiniuose iškyla Gedimino ir Vytenio ryšių
   pagrindžia:
     - t-003
     - t-007
+
 - c-004
   santrauka: 'Rygos arkivyskupą Fridrichą Ordino broliai klastingai išmetė iš bažnyčios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -250,6 +253,7 @@ Fridrichas, Rygos arkivyskupas, šaltiniuose iškyla Gedimino ir Vytenio ryšių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -275,6 +279,7 @@ Fridrichas, Rygos arkivyskupas, šaltiniuose iškyla Gedimino ir Vytenio ryšių
   pagrindžia:
     - t-004
     - t-012
+
 - c-006
   santrauka: '1325 m. balandį po Gedimino laiškų paskelbimo Rygos arkivyskupas nuvyko į popiežiaus rūmus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -295,6 +300,7 @@ Fridrichas, Rygos arkivyskupas, šaltiniuose iškyla Gedimino ir Vytenio ryšių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -320,6 +326,7 @@ Fridrichas, Rygos arkivyskupas, šaltiniuose iškyla Gedimino ir Vytenio ryšių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-008
   santrauka: 'Rygos arkivyskupas Fridrichas įkalbėjo popiežių Joną XXII pasiųsti į Livoniją du legatus pakrikštyti lietuvių ir rusų karaliaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -346,6 +353,7 @@ Fridrichas, Rygos arkivyskupas, šaltiniuose iškyla Gedimino ir Vytenio ryšių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-009
   santrauka: 'Vytenis laišku prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonus į jau pastatytą bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -372,6 +380,7 @@ Fridrichas, Rygos arkivyskupas, šaltiniuose iškyla Gedimino ir Vytenio ryšių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-010
   santrauka: 'Kryžiuočiai manė, kad Rygos arkivyskupas Fridrichas iš senos neapykantos atsikvietė lietuvių priešą į Livoniją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

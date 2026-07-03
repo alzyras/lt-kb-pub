@@ -65,6 +65,7 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -84,6 +85,7 @@ Dlugošas nieko apie tai neužsimena, tik apie patį Kęstutį, nurodydamas: ad 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Dlugošas ir Kojelavičius tvirtino, kad Vilniaus pilių gaisrą sukėlė papirkti išdavikai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

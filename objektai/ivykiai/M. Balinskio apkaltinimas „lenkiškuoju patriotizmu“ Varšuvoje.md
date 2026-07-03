@@ -79,6 +79,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: '1838 m. Varšuvoje valdžios apkaltintas „lenkiškuoju patriotizmu“, Mykolas Balinskis nutylėjo dalyvavimą 1831 m. sukilime.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -53,7 +53,8 @@ Manoma, kad S. Daukanto „Darbai senųjų lietuvių ir žemaičių“ tuo metu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'S. Daukantas „Darbų“ pratarmėje rašė kūrinį skyręs ne mokytiems vyrams, o motinoms, pasakojančioms vaikams apie protėvių darbus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

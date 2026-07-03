@@ -43,6 +43,7 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |

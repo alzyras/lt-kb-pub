@@ -209,6 +209,7 @@ Junigeda buvo lietuvių pilis ir valsčius, šaltiniuose minima 1291–1315 m. k
   pagrindžia:
     - t-006
     - t-013
+
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -231,6 +232,7 @@ Junigeda buvo lietuvių pilis ir valsčius, šaltiniuose minima 1291–1315 m. k
   pagrindžia:
     - t-005
     - t-012
+
 - c-003
   santrauka: '1313 m. Ragainės komtūras Verneris pasistatydino karo laivą ir su juo plaukė pulti Junigedos pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -247,6 +249,7 @@ Junigeda buvo lietuvių pilis ir valsčius, šaltiniuose minima 1291–1315 m. k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-004
   santrauka: 'Po to broliai nuplaukė beveik iki Junigedos pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -261,6 +264,7 @@ Junigeda buvo lietuvių pilis ir valsčius, šaltiniuose minima 1291–1315 m. k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -279,6 +283,7 @@ Junigeda buvo lietuvių pilis ir valsčius, šaltiniuose minima 1291–1315 m. k
   pagrindžia:
     - t-009
     - t-003
+
 - c-006
   santrauka: 'Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieštvės pilis ir sudegino jų papilius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -297,6 +302,7 @@ Junigeda buvo lietuvių pilis ir valsčius, šaltiniuose minima 1291–1315 m. k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-007
   santrauka: 'Per šv. Jokūbo dieną magistras Meinhardas užpuolė Junigedą ir Pieštvę ir sudegino abiejų pilių papilius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -319,6 +325,7 @@ Junigeda buvo lietuvių pilis ir valsčius, šaltiniuose minima 1291–1315 m. k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -349,6 +356,7 @@ Junigeda buvo lietuvių pilis ir valsčius, šaltiniuose minima 1291–1315 m. k
     - t-001
     - t-011
     - t-010
+
 - c-009
   santrauka: 'Po to broliai nuplaukė beveik iki Junigedos pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

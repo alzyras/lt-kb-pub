@@ -116,6 +116,7 @@ O. Halecki – autorius, palikęs ryškų pėdsaką Lietuvos istorijos tyrimuose
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -130,6 +131,7 @@ O. Halecki – autorius, palikęs ryškų pėdsaką Lietuvos istorijos tyrimuose
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -146,6 +148,7 @@ O. Halecki – autorius, palikęs ryškų pėdsaką Lietuvos istorijos tyrimuose
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'O. Haleckio 1958 m. darbe „From Florence to Brest“ išsamiai įvertintas Vytauto vaidmuo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -162,6 +165,7 @@ O. Halecki – autorius, palikęs ryškų pėdsaką Lietuvos istorijos tyrimuose
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'O. Halecki manė, kad Vytauto ketinimas atiduoti Palangą kryžiuočiams būtų atkirtęs Lietuvą nuo jūros.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -183,6 +187,7 @@ O. Halecki – autorius, palikęs ryškų pėdsaką Lietuvos istorijos tyrimuose
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -196,6 +201,7 @@ O. Halecki – autorius, palikęs ryškų pėdsaką Lietuvos istorijos tyrimuose
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -211,6 +217,7 @@ O. Halecki – autorius, palikęs ryškų pėdsaką Lietuvos istorijos tyrimuose
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-008
   santrauka: 'O. Halecki teigė, kad lenkai kantriai laukė Kamienieco Podolijos, nes ji buvo atiduota tik iki Vytauto gyvos galvos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -228,6 +235,7 @@ O. Halecki – autorius, palikęs ryškų pėdsaką Lietuvos istorijos tyrimuose
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-009
   santrauka: 'O. Haleckis gausiais raštais paliko plačių pėdsakų Lietuvos istorijos srityje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

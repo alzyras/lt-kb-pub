@@ -53,6 +53,7 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Sovietų santvarkai hipių veikla nesiderino su homo sovieticus nustatytomis gyvenimo taisyklėmis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

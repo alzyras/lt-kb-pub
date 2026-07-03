@@ -89,6 +89,7 @@ Karolis IV šiame įraše siejamas su XIV a. Lietuvos diplomatija ir krikšto kl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1358 m. Šv. Romos imperatorius Karolis IV derėjosi su Algirdu, kuris reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -105,6 +106,7 @@ Karolis IV šiame įraše siejamas su XIV a. Lietuvos diplomatija ir krikšto kl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Karolis IV buvo imperatorius, kurį Kazimieras siekė įtraukti į pasiūlymą Lietuvai krikštytis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -122,6 +124,7 @@ Karolis IV šiame įraše siejamas su XIV a. Lietuvos diplomatija ir krikšto kl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: '1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

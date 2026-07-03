@@ -66,6 +66,7 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Ipolitas Klimaševskis trumpoje pratarmėje apie rankraščio radimą Aleksandro Bychovco bibliotekoje pirmasis įvertino Bychovco kroniką.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -87,6 +88,7 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |

@@ -60,6 +60,7 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

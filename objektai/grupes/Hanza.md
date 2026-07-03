@@ -179,6 +179,7 @@ Hanza buvo vokiečių miestų pirklių sąjunga, XIII amžiuje įsigalėjusi Ši
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -194,6 +195,7 @@ Hanza buvo vokiečių miestų pirklių sąjunga, XIII amžiuje įsigalėjusi Ši
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -211,6 +213,7 @@ Hanza buvo vokiečių miestų pirklių sąjunga, XIII amžiuje įsigalėjusi Ši
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -233,6 +236,7 @@ Hanza buvo vokiečių miestų pirklių sąjunga, XIII amžiuje įsigalėjusi Ši
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   santrauka: 'Hanza dviejuose prekybos centruose veikiai įsteigė savo agentūras, vadintas pirklių kontoromis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -250,6 +254,7 @@ Hanza buvo vokiečių miestų pirklių sąjunga, XIII amžiuje įsigalėjusi Ši
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -266,6 +271,7 @@ Hanza buvo vokiečių miestų pirklių sąjunga, XIII amžiuje įsigalėjusi Ši
   pagrindžia:
     - t-009
     - t-011
+
 - c-007
   santrauka: 'Vytauto laikų Lietuva buvo kraštas, kurio negalėjo aplenkti Hanzos ir kiti pirkliai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -288,6 +294,7 @@ Hanza buvo vokiečių miestų pirklių sąjunga, XIII amžiuje įsigalėjusi Ši
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-008
   santrauka: '1416 m. Hanzos vadovybė įsikišo, kai Dorpatas uždraudė prekybą su Naugardu, bet turėjo sutikti su Dorpato draudimu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -305,6 +312,7 @@ Hanza buvo vokiečių miestų pirklių sąjunga, XIII amžiuje įsigalėjusi Ši
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-009
   santrauka: 'Rygiečiai Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -320,6 +328,7 @@ Hanza buvo vokiečių miestų pirklių sąjunga, XIII amžiuje įsigalėjusi Ši
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-010
   santrauka: 'Veliuonos derybose dalyvavo Liubeko ir Stralsundo atstovai, nes Vytauto ir Ordino nesantaika trukdė Hanzai susisiekti su Lietuva.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

@@ -54,6 +54,7 @@ Spinta XI, Nr. 18 sakoma: terra Dobrynensis et con­ finia Culmensia [Dobrynės 
   pagrindžia:
     - t-001
     - t-003
+
 - c-002
   santrauka: 'Slaptojo archyvo dokumente nurodyta, kad per antpuolį kentėjo Dobrynės žemė ir kaimyninės Kulmo žemės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

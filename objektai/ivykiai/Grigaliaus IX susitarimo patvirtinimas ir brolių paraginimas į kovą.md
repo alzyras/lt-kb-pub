@@ -79,6 +79,7 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: '1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir paragino juos kovoti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -99,6 +100,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir įpareigojo juos atgauti krikščionims priklausančias žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

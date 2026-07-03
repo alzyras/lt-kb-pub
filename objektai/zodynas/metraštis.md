@@ -284,6 +284,7 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   santrauka: 'Leidinio antraštė „Lietuvos metraštis, arba Bychovco kronika“ nėra autentiškas rankraščio pavadinimas.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

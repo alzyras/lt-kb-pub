@@ -104,6 +104,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -119,6 +120,7 @@ Nenurodyta
   pagrindžia:
     - t-005
     - t-003
+
 - c-003
   santrauka: 'Brolis Ditrichas iš Sartovicų pilies išgabeno šv. Barboros relikvijas į Kulmą, kur jos buvo iškilmingai padėtos bažnyčioje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -135,6 +137,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Perpasakodamas Sartovicų pilies užėmimą, Dusburgietis praleido šaltinio duomenis apie Ordino brolių plėšikavimą pilyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

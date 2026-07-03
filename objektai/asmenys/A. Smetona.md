@@ -411,6 +411,7 @@ A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-002
   santrauka: '1940 m. birželio 15 d. vyriausybės posėdyje A. Smetonos siūlymą priešintis ginklu palaikė tik du ministrai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -433,6 +434,7 @@ A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-003
   santrauka: 'A. Smetona demokratiją Lietuvoje lygino su vaikams nupirktais per dideliais batais, nes parlamentarizmo tradicija dar nebuvo įsitvirtinusi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -458,6 +460,7 @@ A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-004
   santrauka: 'Priėmus Lenkijos ultimatumą premjeru tapęs kunigas Vladas Mironas buvo A. Smetonai artimas asmuo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -476,6 +479,7 @@ A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: '1927 m. vasarą ir rudenį A. Smetona keliavo po Lietuvos miestelius, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -498,6 +502,7 @@ A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-006
   santrauka: '1927 m. balandžio 12 d. A. Smetona paleido III Seimą ir taip pašalino krikščionis demokratus iš valdžios.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -517,6 +522,7 @@ A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-007
   santrauka: '1936 m. kovą Kaune pasakyta A. Smetonos kalba užvėrė duris kompromisui su Lenkija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -535,6 +541,7 @@ A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-008
   santrauka: '1918 m. kovo 23 d. A. Smetonos vadovaujama Tarybos delegacija Berlyne pristatė Vasario 16-osios deklaraciją Vokietijos kancleriui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -556,6 +563,7 @@ A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-009
   santrauka: 'Grėsmės akivaizdoje A. Smetona leido A. Merkiui pasirašyti sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -572,6 +580,7 @@ A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-010
   santrauka: 'Vytauto Didžiojo kultas susiejo A. Smetonos valdomą Lietuvos valstybę su stipraus tautos vado įvaizdžiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -592,6 +601,7 @@ A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-011
   santrauka: '1940 m. birželį iš Lietuvos išvykęs A. Smetona per Vokietiją, Šveicariją ir Portugaliją pasiekė JAV.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -607,6 +617,7 @@ A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-012
   santrauka: '1918 m. gruodžio 21 d. A. Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -623,6 +634,7 @@ A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-013
   santrauka: 'A. Smetona hitlerininkams skirtą mirties bausmę pakeitė kalėjimu iki gyvos galvos, o 1937 m. juos amnestavo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -647,6 +659,7 @@ A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-014
   santrauka: 'A. Smetona agresyvesniems jaunalietuviams pareiškė, kad žydų apribojimų nereikia ir „vietos visiems užteks“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -668,6 +681,7 @@ A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-015
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -683,6 +697,7 @@ A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-016
   santrauka: '1928 m. gegužės 15 d. A. Smetona nauja konstitucija sustiprino savo pozicijas ir įteisino autoritarinį valdymą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -703,6 +718,7 @@ A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-017
   santrauka: 'A. Smetona laikėsi nuostatos, kad tautinės mažumos turi mylėti Lietuvą ir gerbti lietuvių tautą už joms suteiktas kultūrines teises.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -723,6 +739,7 @@ A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-018
   santrauka: 'A. Smetonos režimo prioritetai buvo tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -740,6 +757,7 @@ A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-019
   santrauka: '1919 m. rugsėjo 26 d. Kaune prezidentas A. Smetona iš balkono sveikino minias, susirinkusias dėl Didžiosios Britanijos de facto pripažinimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -761,6 +779,7 @@ A. Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., o jo politin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-020
   santrauka: 'Nuo 1930 m. per Tautos šventę valstybines įstaigas puošdavo dideli Vytauto Didžiojo ir A. Smetonos portretai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

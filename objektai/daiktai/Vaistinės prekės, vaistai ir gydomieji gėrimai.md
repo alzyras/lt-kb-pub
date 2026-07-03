@@ -141,6 +141,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -155,6 +156,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: '1780 m. vaistinė kelių vaistininkų dėka buvo išsiplėtusi ir pasiekusi klestintį būvį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -184,6 +186,7 @@ Nenurodyta
   pagrindžia:
     - t-005
     - t-002
+
 - c-004
   santrauka: 'Aleksandro laikais Vilniuje pirmą kartą minimi gydytojas ir vaistinė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -216,6 +219,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-005
   santrauka: 'Didžioji iš Krokuvos atgabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

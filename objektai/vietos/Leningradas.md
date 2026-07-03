@@ -72,6 +72,7 @@ GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1950 m. leidinys „Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych knjazej XIV-XVI vv.“ buvo išleistas Maskvoje ir Leningrade.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

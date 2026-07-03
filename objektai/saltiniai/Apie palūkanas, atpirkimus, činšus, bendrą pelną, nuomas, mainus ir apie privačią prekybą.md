@@ -63,6 +63,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Nagrinėdamas privačios prekybos arba monopolio privalumus ir trūkumus, Smigleckis Vilnių pateikė kaip stiklo prekių pavyzdį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

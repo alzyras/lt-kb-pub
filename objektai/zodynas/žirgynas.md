@@ -51,6 +51,7 @@ Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

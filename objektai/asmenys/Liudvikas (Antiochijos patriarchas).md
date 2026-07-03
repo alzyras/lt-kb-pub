@@ -52,6 +52,7 @@ atnaujinta: ''
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Pasak Liudviko, Mechmedas rengėsi kariauti prieš krikščionių pasaulį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

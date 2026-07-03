@@ -50,6 +50,7 @@ Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Топоров B. H. veikale apie prūsų kalbą aptarė Krivį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -68,6 +68,7 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1257 m. Sembos vyskupo ir vicemagistro valdų dalybų dokumentuose vartotas terminas terrula.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

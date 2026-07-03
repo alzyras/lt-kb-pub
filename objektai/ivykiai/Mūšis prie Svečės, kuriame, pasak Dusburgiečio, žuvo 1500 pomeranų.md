@@ -83,6 +83,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Komentare nurodoma, kad mūšis prie Svečės vyko 1244 m. arba 1245 m. pradžioje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

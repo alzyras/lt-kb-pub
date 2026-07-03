@@ -79,6 +79,7 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1323 m. rudenį popiežius į Avinjoną pakvietė didįjį magistrą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

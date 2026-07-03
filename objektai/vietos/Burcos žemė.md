@@ -61,6 +61,7 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Burcos žemė Transilvanijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

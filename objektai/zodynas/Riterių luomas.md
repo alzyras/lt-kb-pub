@@ -71,6 +71,7 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Susirėmimas su Rytais prisidėjo prie riterių luomo susiformavimo iš plėšikaujančios bajorijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

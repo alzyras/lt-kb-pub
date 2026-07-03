@@ -66,6 +66,7 @@ Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami per
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Posakis „Juk pergalės džiugina, o pralaimėjimai moko“ aiškina, kad skaudūs pralaimėjimai skatina kariuomenių reformas ir inovacijas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

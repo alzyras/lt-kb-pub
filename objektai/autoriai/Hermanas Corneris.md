@@ -54,6 +54,7 @@ Hermanas Corneris minimas kaip dominikonas ir kronikos autorius. Jo kronika citu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |

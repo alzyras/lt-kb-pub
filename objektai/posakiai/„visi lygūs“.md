@@ -42,6 +42,7 @@ Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Stalinizmo epochoje saugumo pareigūnai vienodai galėjo suimti profesorių, ministrą ar eilinį žmogų, todėl šia prasme buvo „visi lygūs“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

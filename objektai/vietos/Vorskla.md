@@ -208,6 +208,7 @@ Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Li
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-002
   santrauka: 'Vytauto žygis prie Vorsklos buvo pralaimėtas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -223,6 +224,7 @@ Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Li
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -255,6 +257,7 @@ Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Li
   pagrindžia:
     - t-001
     - t-002
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -270,6 +273,7 @@ Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Li
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Algirdo sūnus Andrius žuvo prie Vorsklos 1399 metais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -294,6 +298,7 @@ Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Li
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -311,6 +316,7 @@ Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Li
   pagrindžia:
     - t-005
     - t-009
+
 - c-007
   santrauka: 'Vytauto organizuotas kryžiaus žygis 1399 m. baigėsi pralaimėjimu prie Vorsklos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -331,6 +337,7 @@ Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Li
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-008
   santrauka: 'Vytauto žygis prie Vorsklos buvo pralaimėtas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -347,6 +354,7 @@ Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Li
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-009
   santrauka: 'Prie Vorsklos upės pasirodė Tamerlano karvedys Edigejus su didžiuliais skitų būriais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

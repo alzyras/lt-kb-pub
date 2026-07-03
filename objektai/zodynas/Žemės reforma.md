@@ -49,6 +49,7 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Žemės reformos strategija buvo kuriama ir diegiama iš viršaus į apačią, nepaisant žemės ūkyje dirbusiųjų nuomonės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

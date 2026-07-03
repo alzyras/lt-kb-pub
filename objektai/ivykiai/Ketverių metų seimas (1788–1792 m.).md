@@ -93,6 +93,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Ketverių metų seimas atmetė siūlymą sudaryti karinę sąjungą su Rusija ir, Prūsijos palaikomas, ėmėsi reformų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -111,6 +112,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: '1787 m. Kaneve Kotryna ir Stanislovas Augustas sutarė, kad kitų metų seime karalius sieks Respublikos paramos Rusijai kare su turkais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

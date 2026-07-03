@@ -61,6 +61,7 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   santrauka: 'Politinės lietuvių tautos pagrindinis požymis buvo priklausymas kilmingųjų LDK gyventojų sluoksniui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

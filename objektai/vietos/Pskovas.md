@@ -728,6 +728,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   pagrindžia:
     - t-012
     - t-053
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -744,6 +745,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   pagrindžia:
     - t-037
     - t-047
+
 - c-003
   santrauka: 'Steponui Batorui apgulus Pskovą, Posevinui tarpininkaujant prasidėjo derybos dėl karo pabaigos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -760,6 +762,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -779,6 +782,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   pagrindžia:
     - t-032
     - t-039
+
 - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -799,6 +803,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   pagrindžia:
     - t-030
     - t-021
+
 - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -824,6 +829,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   pagrindžia:
     - t-018
     - t-013
+
 - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -841,6 +847,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
     - t-040
     - t-050
     - t-007
+
 - c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -857,6 +864,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-051
+
 - c-009
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -875,6 +883,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-049
+
 - c-010
   santrauka: '1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -895,6 +904,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-011
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -923,6 +933,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   pagrindžia:
     - t-038
     - t-031
+
 - c-012
   santrauka: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -942,6 +953,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-013
   santrauka: 'Vytauto rytinių valstybės pakraščių patikrinimo metu Pskovas buvo pajungtas 1426 m., o Didysis Naugardas – 1428 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -957,6 +969,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -975,6 +988,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   pagrindžia:
     - t-044
     - t-052
+
 - c-015
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -992,6 +1006,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   pagrindžia:
     - t-054
     - t-001
+
 - c-016
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1011,6 +1026,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-017
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1023,6 +1039,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-018
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1042,6 +1059,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   pagrindžia:
     - t-045
     - t-043
+
 - c-019
   santrauka: 'Į Vytauto suvažiavimą atvyko Pskovo kunigaikščiai ir kitų kraštų valdovų bei miestų atstovai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1063,6 +1081,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-020
   santrauka: '1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -1086,6 +1105,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-046
+
 - c-021
   santrauka: 'Pskoviečiai pasiuntė pas Vytautą posadnikus Joachimą Pavlovičių ir Ivaną Sidorovičių su pažadėtu sidabru.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1120,6 +1140,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   pagrindžia:
     - t-041
     - t-036
+
 - c-022
   santrauka: '1409 m. vasarą Vytautas sudarė sau naudingą taiką su Pskovu, nors Salyno ir Raciąžo aktai Pskovą buvo garantavę Ordino įtakai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1137,6 +1158,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-023
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1161,6 +1183,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   pagrindžia:
     - t-035
     - t-027
+
 - c-024
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1187,6 +1210,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   pagrindžia:
     - t-024
     - t-026
+
 - c-025
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1211,6 +1235,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   pagrindžia:
     - t-033
     - t-029
+
 - c-026
   santrauka: 'Pskovas ir Didysis Naugardas buvo anksčiau už Vilnių įkurti prekybai tinkami Rusios miestai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1229,6 +1254,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-027
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1247,6 +1273,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   pagrindžia:
     - t-002
     - t-014
+
 - c-028
   santrauka: '1183 m. lietuviai per pirmąjį savarankišką žygį į Rusios žemes nusiaubė Pskovą ir pakeliui turbūt Polocką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1263,6 +1290,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-029
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1310,6 +1338,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   pagrindžia:
     - t-055
     - t-034
+
 - c-030
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1331,6 +1360,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   pagrindžia:
     - t-025
     - t-028
+
 - c-031
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1347,6 +1377,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-042
+
 - c-032
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1363,6 +1394,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-033
   santrauka: 'Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1380,6 +1412,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-034
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1400,6 +1433,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-048
+
 - c-035
   santrauka: 'Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1418,6 +1452,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-036
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1437,6 +1472,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-037
   santrauka: 'Gedimino ar Algirdo laikais Pskovas buvo Lietuvos politinėje įtakoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1454,6 +1490,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-038
   santrauka: 'Steponui Batorui apgulus Pskovą, Posevinui tarpininkaujant prasidėjo derybos dėl karo pabaigos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -1472,6 +1509,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-056
+
 - c-039
   santrauka: 'Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1488,6 +1526,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-057
+
 - c-040
   santrauka: 'Pskove Daumantas sėkmingai vadovavo pskoviečių jėgoms prieš Livoniją, o viena gynybinė siena vadinta jo vardu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1518,6 +1557,7 @@ Pskovas Lietuvos istorijoje minimas kaip svarbus Rusios prekybinis ir politinis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-058
+
 - c-041
   santrauka: 'Vytauto dukterį Sofiją lydėję asmenys iš Gdansko laivais per Pernu pasiekė Pskovą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

@@ -165,6 +165,7 @@ Julijona šaltiniuose pirmiausia siejama su Algirdu, Jogaila ir Tverės valdovų
   pagrindžia:
     - t-002
     - t-005
+
 - c-002
   santrauka: 'Po Onos mirties Vilniuje 1418 m. Vytautas nusprendė vesti jos dukterėčią Julijoną, Jono Algimantaičio dukterį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -190,6 +191,7 @@ Julijona šaltiniuose pirmiausia siejama su Algirdu, Jogaila ir Tverės valdovų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -205,6 +207,7 @@ Julijona šaltiniuose pirmiausia siejama su Algirdu, Jogaila ir Tverės valdovų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -224,6 +227,7 @@ Julijona šaltiniuose pirmiausia siejama su Algirdu, Jogaila ir Tverės valdovų
   pagrindžia:
     - t-006
     - t-003
+
 - c-005
   santrauka: 'Julijona prisidėjo prie Jogailos sutarties su Ordinu, nukreiptos prieš Kęstutį, sudarymo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -244,6 +248,7 @@ Julijona šaltiniuose pirmiausia siejama su Algirdu, Jogaila ir Tverės valdovų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-006
   santrauka: 'Julijonos noru Algirdas sutiko priimti krikščionybę ir Vitebske pastatė rusams dvi šventoves.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

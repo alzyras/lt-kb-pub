@@ -107,6 +107,7 @@ Jekaterina II buvo Rusijos imperatorė, siekusi plėsti įtaką Lietuvos ir Lenk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Jekaterina II 1767-1768 m. parėmė Čartoriskių priešininkus, susitelkusius Vilniaus-Radomo bajorų konfederacijoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -129,6 +130,7 @@ Jekaterina II buvo Rusijos imperatorė, siekusi plėsti įtaką Lietuvos ir Lenk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -148,6 +150,7 @@ Jekaterina II buvo Rusijos imperatorė, siekusi plėsti įtaką Lietuvos ir Lenk
   pagrindžia:
     - t-003
     - t-005
+
 - c-004
   santrauka: 'Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

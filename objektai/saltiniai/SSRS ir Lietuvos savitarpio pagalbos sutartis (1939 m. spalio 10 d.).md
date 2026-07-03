@@ -67,6 +67,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1939 m. spalio 10 d., spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, pasirašyta SSRS ir Lietuvos savitarpio pagalbos sutartis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -85,6 +86,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Pagal 1939 m. spalio 10 d. sutartį Lietuva gavo Vilnių ir dalį teritorijos, bet turėjo įsileisti sovietų karines bazes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

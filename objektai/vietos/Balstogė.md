@@ -79,6 +79,7 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Balstogėje Branickis turėjo vieną iš žymių Lenkijos politinių dvarų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

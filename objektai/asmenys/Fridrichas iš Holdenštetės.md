@@ -59,6 +59,7 @@ Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenšte
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

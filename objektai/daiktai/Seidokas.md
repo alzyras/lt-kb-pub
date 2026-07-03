@@ -55,6 +55,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 ## Pastabos
 
 - tekste pavartota alternatyva „ar“, todėl neaišku, ar čia du atskiri daiktai, ar du to paties ginklo pavadinimai.

@@ -48,6 +48,7 @@ Primindami savo ištikimybę Kęstutaičiui, jie jo maldavę, kad neatiduotų j�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Anot Dlugošo, žemaičiai sakė „Vakkis Ahridlis“, maldaudami Vytautą neatiduoti jų kryžiuočiams ir neatplėšti nuo lietuvių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

@@ -95,6 +95,7 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Lietuvos kariai prie vokiečių kariuomenės sagčių pritvirtindavo Vytį, taip uždengdami vokišką imperijos karūną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -120,6 +121,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Lietuvos kariai prie vokiškų sagčių pritvirtindavo Vytį, uždengdami imperijos karūną ir šūkį „GOT MIT UNS“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

@@ -100,6 +100,7 @@ Cituojama „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištr
   pagrindžia:
     - t-001
     - t-004
+
 - c-002
   santrauka: 'A. Vijūko-Kojalavičiaus 1651 m. veikalas „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ pateikia ištrauką apie Lojevo mūšį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

@@ -88,6 +88,7 @@ Michailas Muravjovas, paskirtas Vilniaus generalgubernatoriumi ir gavęs caro į
   pagrindžia:
     - t-001
     - t-003
+
 - c-002
   santrauka: 'Vilniaus karinės apygardos kariuomenės štabo ataskaitoje Michailui Muravjovui nurodyta, kad 128 sukilėliai nuteisti mirties bausme.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -106,6 +107,7 @@ Michailas Muravjovas, paskirtas Vilniaus generalgubernatoriumi ir gavęs caro į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'XIX a. Michailo Muravjovo Koriko laikais Lietuvoje nukentėjo perpus mažiau kunigų nei stalinizmo metais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -121,6 +123,7 @@ Michailas Muravjovas, paskirtas Vilniaus generalgubernatoriumi ir gavęs caro į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -139,6 +142,7 @@ Michailas Muravjovas, paskirtas Vilniaus generalgubernatoriumi ir gavęs caro į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

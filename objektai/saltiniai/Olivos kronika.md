@@ -111,6 +111,7 @@ Olivos kronika žinių bazėje pristatoma kaip šaltinis, padedantis tikslinti D
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-002
   santrauka: 'J. Venta analizavo Olivos kronikos šaltinius ir svarstė išlikusios Dusburgiečio kronikos redakciją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -130,6 +131,7 @@ Olivos kronika žinių bazėje pristatoma kaip šaltinis, padedantis tikslinti D
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-003
   santrauka: 'Senesnėje Olivos kronikoje: generatio [...] Bogatini (SRP, 1, p. 680).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -142,6 +144,7 @@ Olivos kronika žinių bazėje pristatoma kaip šaltinis, padedantis tikslinti D
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Wonsdorff ir Wansdorf.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -161,6 +164,7 @@ Olivos kronika žinių bazėje pristatoma kaip šaltinis, padedantis tikslinti D
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Olivos kronikoje vietovardis pateikiamas formomis Kirske ir Kirsko.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -173,6 +177,7 @@ Olivos kronika žinių bazėje pristatoma kaip šaltinis, padedantis tikslinti D
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-006
   santrauka: 'Olivos kronikoje Cristburgo pavadinimas pateikiamas formomis Kirsburg ir Kirsberg.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -189,6 +194,7 @@ Olivos kronika žinių bazėje pristatoma kaip šaltinis, padedantis tikslinti D
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-007
   santrauka: 'Senojoje Olivos kronikoje nurodyta, kad per 1243 (1242?) m. birželio 15 d. kautynes Sventopelkas buvo sudaręs paliaubas su Ordinu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -207,6 +213,7 @@ Olivos kronika žinių bazėje pristatoma kaip šaltinis, padedantis tikslinti D
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-008
   santrauka: 'Olivos kronikoje Renseno ežeras minimas lotyniška forma „ad lacum qui dicitur Rensin“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -221,6 +228,7 @@ Olivos kronika žinių bazėje pristatoma kaip šaltinis, padedantis tikslinti D
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-009
   santrauka: 'Olivos kronikoje atitinkama vieta perteikta žodžiais „tradidit illis“, reiškiančiais „jiems perdavė“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -63,7 +63,8 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas pirmykšte reikšme burtininkais laikė eilių kūrėjus ir savo pačių sudėtų giesmių giedotojus, panašius į senovės bardus ir skaldus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -87,7 +88,8 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Narbutas rašė, kad nykstant lietuvių mitologijai burtininkų profesija nusmuko iki paprastų dainių, kurių klausytasi pramogai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -105,7 +107,8 @@ Narbutas burtininkais vadino lietuvių genties dainius, kurie, panašiai kaip tr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Narbutas burtininkę Burte apibrėžė kaip lietuvių bardę Burtyniczka, kuri sakydavo eiles, dainuodavo ir pranašaudavo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

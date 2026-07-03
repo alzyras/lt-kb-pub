@@ -53,6 +53,7 @@ Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų turtai ir dvarai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Pagal kaduko teisę be įpėdinių išmirusios bajorų šeimos turtai ir dvarai atitekdavo kunigaikščiui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

@@ -238,6 +238,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   santrauka: 'Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -255,6 +256,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Sūduviai sugriovė Bartenšteino pilį, kurioje, broliams pasitraukus, buvo įsikūrę bartai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -276,6 +278,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -292,6 +295,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
   pagrindžia:
     - t-006
     - t-005
+
 - c-005
   santrauka: 'Bartų vadas Divanas sutelkė stiprią kariuomenę ir dar kartą apiplėšė Kristburgo bei Marienburgo apylinkes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -308,6 +312,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-006
   santrauka: 'Sūduviai sugriovė Bartenšteino pilį, kurioje, broliams pasitraukus, buvo įsikūrę bartai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -328,6 +333,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-007
   santrauka: 'Sūduviai sugriovė Bartenšteino pilį, kurioje, broliams pasitraukus, buvo įsikūrę bartai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -346,6 +352,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -358,6 +365,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
   pagrindžia:
     - t-012
     - t-006
+
 - c-009
   santrauka: 'Pamedėnai, pagudėnai, varmiai, notangai ir bartai grįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -379,6 +387,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-010
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -398,6 +407,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-011
   santrauka: 'Bartų vadas Divanas sutelkė stiprią kariuomenę ir dar kartą apiplėšė Kristburgo bei Marienburgo apylinkes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -414,6 +424,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-012
   santrauka: '1274 m. bartai kartu su pagudėnais, varmiais, notangais ir sembais grįžo į Bažnyčios bendruomenę ir davė įkaitų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -435,6 +446,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-013
   santrauka: '1263 m. bartų vadas Divanas vijosi iš pilies pasitraukusius brolius ir su trylika vyrų juos užpuolė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -453,6 +465,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-014
   santrauka: 'Po prūsų atkritimo nuo krikščionių tikėjimo bartai savo kariuomenės vadu išsirinko Divaną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -475,6 +488,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
   pagrindžia:
     - t-013
     - t-001
+
 - c-015
   santrauka: 'Per pilies puolimą brolis Arnoldas Krofas arbaleto strėle peršovė bartų vadui Divanui kaklą, o po Divano žūties kiti pasitraukė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -493,6 +507,7 @@ Bartai, dar vadinti bartėnais, gyveno Didžiojoje ir Mažojoje Bartoje. XIII a.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-016
   santrauka: 'Bartai Numa ir Derska, pabėgę iš Prūsijos į Lietuvą, išdavė lietuvių būrius, tikėdamiesi kryžiuočių atleidimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

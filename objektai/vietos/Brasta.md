@@ -441,6 +441,7 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -458,6 +459,7 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
   pagrindžia:
     - t-013
     - t-022
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -478,6 +480,7 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
     - t-009
     - t-004
     - t-005
+
 - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -494,6 +497,7 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
   pagrindžia:
     - t-002
     - t-012
+
 - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -516,6 +520,7 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-006
   santrauka: '1544 m. Brastos seime Žygimantas dar prieš mirtį atidavė sūnui Lietuvos valdžią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -536,6 +541,7 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-007
   santrauka: 'Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -560,6 +566,7 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-008
   santrauka: 'Brastos paviete buvę dideli valsčiai minimi tarp valdų, kuriomis buvo aprūpinta Vilniaus katedra.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -584,6 +591,7 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
   pagrindžia:
     - t-026
     - t-016
+
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -606,6 +614,7 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
   pagrindžia:
     - t-020
     - t-001
+
 - c-010
   santrauka: 'Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -629,6 +638,7 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
   pagrindžia:
     - t-017
     - t-024
+
 - c-011
   santrauka: 'Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -648,6 +658,7 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-012
   santrauka: '1544 m. Brastos seime Žygimantas dar prieš mirtį perdavė sūnui Žygimantui Augustui Lietuvos valdžią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -670,6 +681,7 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -688,6 +700,7 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
   pagrindžia:
     - t-014
     - t-011
+
 - c-014
   santrauka: 'Brastoje buvo įkurta protestantų mokykla, o pradžios mokyklų protestantai turėjo beveik kiekvienoje savo parapijoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -704,6 +717,7 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-015
   santrauka: '1792 m. liepos pabaigoje gynybai telkiantis prie Brastos, atėjo žinia apie Stanislovo Augusto prisijungimą prie Targovicos konfederacijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -722,6 +736,7 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -740,6 +755,7 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-017
   santrauka: 'Brastoje Slupskis sumokėjo 38 lietuviškus grašius palūkanų nuo filipkų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -764,6 +780,7 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-018
   santrauka: 'LDK kariuomenė pasipriešino prie Myro ir Brastoje, o paskui be didesnių nuostolių atsitraukė prie Varšuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -779,6 +796,7 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-019
   santrauka: '1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o vėliau pasiųstas gyventi į Trakus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -796,6 +814,7 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-020
   santrauka: 'Lietuvos metraštyje Brasta, Drohičinas ir Melnikas vaizduojami kaip Batu nusiaubti ir sunaikinti miestai, kuriuos Erdvilas atstatė.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -813,6 +832,7 @@ Brasta minima kaip Kęstučiui priklausiusio vakarų pasienio ruožo dalis ir vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
+
 - c-021
   santrauka: 'Lietuvos metraštis pasakoja, kad Kęstutis atvyko į Gardiną pas sūnų, o žmoną pasiuntė į Brastą, pasikliaudamas žentu Jonušu.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

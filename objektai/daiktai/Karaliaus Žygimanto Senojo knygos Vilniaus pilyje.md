@@ -80,6 +80,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Lietuvos Metrikoje buvo karaliaus knygų sąrašas, o kai kurios Žygimantų bibliotekos knygos saugotos Vilniaus universiteto bibliotekoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

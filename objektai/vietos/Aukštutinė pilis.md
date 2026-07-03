@@ -116,6 +116,7 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Aukštutinėje tvirtovėje buvo užsidarę lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -138,6 +139,7 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Aukštutinė pilis stovėjo ant Tauro kalno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

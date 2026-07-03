@@ -90,6 +90,7 @@ Jonas Olbrachtas buvo Kazimiero numatomas įpėdinis, kuriam tėvas siekė pelny
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1489 m. Jonas Olbrachtas sutelkė Rusioje ir Lietuvoje kariuomenę ir prie Savranės upės susikovė su skitais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -120,6 +121,7 @@ Jonas Olbrachtas buvo Kazimiero numatomas įpėdinis, kuriam tėvas siekė pelny
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Jonas Olbrachtas su maža kariuomene stojo į lemtingą mūšį su stipria vengrų kariuomene ir po pralaimėjimo vos paspruko.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -135,6 +137,7 @@ Jonas Olbrachtas buvo Kazimiero numatomas įpėdinis, kuriam tėvas siekė pelny
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Jonas Olbrachtas per Aleksandrą Skorutą ragino Ivaną sutikti su teisingomis taikos sąlygomis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

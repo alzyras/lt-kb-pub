@@ -108,6 +108,7 @@ Glapas buvo Varmių vadas, prūsams vėl atkritus nuo tikėjimo išrinktas kariu
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   santrauka: 'Varmių vadas Glapas, gavęs pabėgusios prūsės pranešimą, su daugybe karių atvyko ir užėmė pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -124,6 +125,7 @@ Glapas buvo Varmių vadas, prūsams vėl atkritus nuo tikėjimo išrinktas kariu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Glapas, Varmių vadas, turėjo valdinį Steinavą, kurį labai mėgo ir daug kartų gelbėjo iš mirtino pavojaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -144,6 +146,7 @@ Glapas buvo Varmių vadas, prūsams vėl atkritus nuo tikėjimo išrinktas kariu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Prūsams vėl atkritus nuo tikėjimo, varmiai išsirinko Glapą savo kariuomenės vadu ir vyresniuoju.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -160,6 +163,7 @@ Glapas buvo Varmių vadas, prūsams vėl atkritus nuo tikėjimo išrinktas kariu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   santrauka: 'Varmių vadas Glapas, sužinojęs apie brolių išvykimą iš Brandenburgo pilies, su daugybe karių ją užėmė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

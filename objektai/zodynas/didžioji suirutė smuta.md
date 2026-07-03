@@ -59,6 +59,7 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -73,6 +74,7 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Po Teodoro mirties Maskvoje prasidėjo perversmų periodas, vadinamas didžiąja suirute (smuta).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

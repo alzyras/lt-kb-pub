@@ -392,6 +392,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: 'Sventopelkas sudarė sąjungą su prūsais, kad jie išvarytų Teutonų ordino brolius ir kitus krikščionis iš Prūsijos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -415,6 +416,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
+
 - c-003
   santrauka: 'Sventopelkas sudarė sąjungą su prūsais, kad jie išvarytų Teutonų ordino brolius ir kitus krikščionis iš Prūsijos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -434,6 +436,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
+
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -455,6 +458,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   pagrindžia:
     - t-027
     - t-015
+
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -473,6 +477,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-006
   santrauka: 'Sventopelkas pareiškė nesiliausiąs persekioti savo priešų, jeigu broliai negrąžins jam sūnaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -492,6 +497,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-007
   santrauka: 'Sventopelkas pastatė Santyro pilį Vyslos ir Nogato santakoje ir joje įkurdino brolių valdinius puldinėjusius vyrus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -507,6 +513,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -525,6 +532,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-009
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -549,6 +557,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-010
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -568,6 +577,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   pagrindžia:
     - t-011
     - t-003
+
 - c-011
   santrauka: '1253 m. Sventopelko karas baigėsi, o Pomeranijos kunigaikštis iki gyvenimo pabaigos laikėsi sutarties su broliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -597,6 +607,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-012
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -616,6 +627,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   pagrindžia:
     - t-028
     - t-021
+
 - c-013
   santrauka: 'Sventopelkas taikos sąlygomis turėjo atiduoti broliams Sartovicų pilį ir įkaitais atsiųsti sūnų Mstivojų, Vimarą ir Vojaką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -640,6 +652,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-014
   santrauka: '1245 m. Sventopelkas pradėjo statyti Sveče pavadintą pilį, turėjusią trukdyti broliams plaukioti Vysla.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -659,6 +672,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-015
   santrauka: 'Sventopelkas, buvęs Pomeranijos kunigaikštis, turėjo keturis sūnus: Mstivojų, Samborą, Vartislavą ir dar vieną sūnų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -676,6 +690,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
+
 - c-016
   santrauka: 'Sventopelkas per Henriką iš Lichtenšteino skundėsi broliais ir reikalavo grąžinti sūnų, duotą jiems kaip įkaitą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -699,6 +714,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-017
   santrauka: 'Sventopelkas ragino neseniai Kristaus tikėjimą priėmusius prūsus jėga išvaryti Teutonų ordino brolius iš Prūsijos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -719,6 +735,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-018
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -745,6 +762,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     - t-026
     - t-032
     - t-012
+
 - c-019
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -769,6 +787,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
     - t-006
     - t-019
     - t-022
+
 - c-020
   santrauka: '1244 m. atvykus Ordino pastiprinimui, Sventopelkas pabandė susitaikyti su broliais, ir senoji taika buvo atnaujinta.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -789,6 +808,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-021
   santrauka: 'Prūsai išsirinko Sventopelką savo vyresniuoju ir vadu prieš antpuolį į Prūsijos žemutines apygardas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -806,6 +826,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-022
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -824,6 +845,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   pagrindžia:
     - t-008
     - t-018
+
 - c-023
   santrauka: 'Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -868,6 +890,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-024
   santrauka: 'Sventopelkas sutelkė kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -891,6 +914,7 @@ Sventopelkas šaltiniuose vaizduojamas kaip Pomeranijos kunigaikštis, susijęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
+
 - c-025
   santrauka: 'Petras Dusburgietis Pamario kunigaikštį Sventopelką vadina išdaviku dėl bendradarbiavimo su prūsais prieš Ordiną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

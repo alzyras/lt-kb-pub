@@ -89,6 +89,7 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |

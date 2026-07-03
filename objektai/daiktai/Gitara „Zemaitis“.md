@@ -104,6 +104,7 @@ Nenurodyta
     - t-002
     - t-004
     - t-003
+
 - c-002
   santrauka: 'Tony’o Zemaicio sukurta gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -124,6 +125,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 ## Šaltiniai ir įrodymai
 
 Nenurodyta

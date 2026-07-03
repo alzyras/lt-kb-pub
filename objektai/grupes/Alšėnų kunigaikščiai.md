@@ -74,6 +74,7 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Alšėnų kunigaikščiai priėmė stačiatikybę, nors turėjo tėvonijų valstybės branduolyje ir nebuvo kilę iš Gediminaičių dinastijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -92,6 +93,7 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Alšėnų kunigaikščio Jono Algimantaičio sūnus Andrius Algimantaitis po Skirgailos mirties buvo Vytauto vietininkas Kijeve.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

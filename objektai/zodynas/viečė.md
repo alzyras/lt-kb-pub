@@ -74,6 +74,7 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Polocko vyrai reikalus sprendė viečėje, kaip Didysis Naugardas ir Pskovas.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -92,6 +93,7 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Lietuvos metraštis pasakoja, kad po Polocko kunigaikščio Glėbo mirties polockiečiai ėmė reikalus spręsti viečėje ir nebeturėjo valdovo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -108,6 +110,7 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Viečė buvo žymesnių Kijevo Rusios miestų gyventojų susirinkimas karo, taikos, pareigūnų ir kitiems svarbiausiems klausimams svarstyti.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

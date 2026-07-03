@@ -53,6 +53,7 @@ Mat, lig šiol savų parapijinių mokyklų teturi vos pusė lietuviškųjų para
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Lietuvių kunigų sąjungai Amerikoje svarbus rūpestis buvo mokyklų steigimas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

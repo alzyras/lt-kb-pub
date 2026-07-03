@@ -2004,7 +2004,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-071- c-002
+    - t-071
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Galėtume ma-
@@ -2022,7 +2023,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-    - t-032- c-003
+    - t-032
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Todėl, prastovėjęs prie Maskvos mūrų «tris dienas ir tris naktis »
@@ -2035,7 +2037,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-070- c-004
+    - t-070
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tretįjį Maskvos žygį (1372.IV.) pradėjo Kęstutis ir Andrius
@@ -2046,7 +2049,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-005
+    - t-011
+- c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šis daly­
@@ -2071,7 +2075,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-087
-    - t-021- c-006
+    - t-021
+- c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Palaikydamas labai gyvus politinius santykius
@@ -2088,7 +2093,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
-    - t-001- c-007
+    - t-001
+- c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     8 Mūšiai už Lietuvą: pergalės ir pralaimėjimai, rezignacijos ir heroizmai
@@ -2114,7 +2120,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-    - t-012- c-008
+    - t-012
+- c-008
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Jau
@@ -2141,7 +2148,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-043
-    - t-037- c-009
+    - t-037
+- c-009
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1611m. J. K. Chodkevičiui buvo pavesta vadovauti
@@ -2154,7 +2162,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-093
-    - t-041- c-010
+    - t-041
+- c-010
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dėl valdžios ėmė kovoti
@@ -2174,7 +2183,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-053
-    - t-086- c-011
+    - t-086
+- c-011
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Labai greit vyriausiasis brolis, Andrius, val-
@@ -2190,7 +2200,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-088- c-012
+    - t-088
+- c-012
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės,
@@ -2207,7 +2218,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-057- c-013
+    - t-057
+- c-013
   santrauka: 'Po caro Teodoro mirties Maskvoje prasidėjo perversmų laikotarpis, vadinamas didžiąja suirute (smuta).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -2222,7 +2234,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019- c-014
+    - t-019
+- c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Buvo nacionalizuoti
@@ -2235,7 +2248,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-068- c-015
+    - t-068
+- c-015
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dalis Rusijos bojarinų naujuoju caru iš-
@@ -2252,7 +2266,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-063- c-016
+    - t-063
+- c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Antra vertus, birželio 22–28 dienos įvykiai – dar vienas tragiškas
@@ -2277,7 +2292,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-080
-    - t-066- c-017
+    - t-066
+- c-017
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmiausia Maskvoje (1494 m.)
@@ -2301,7 +2317,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025- c-018
+    - t-025
+- c-018
   santrauka: 'Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams, atvykstantiems į Vilnių iš Maskvos, Naugardo, Pskovo ir Tverės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2319,7 +2336,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-019
+    - t-007
+- c-019
   santrauka: 'Vytautas laikė Maskvos metropolitų religinę viršenybę viena opiausių kliūčių savo valdžiai Lietuvoje stiprinti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2346,7 +2364,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-076
-    - t-005- c-020
+    - t-005
+- c-020
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi,
@@ -2362,7 +2381,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-051- c-021
+    - t-051
+- c-021
   santrauka: 'Balińskis teigė, kad Maskvoje buvo išlikęs priežodis: kas Vilniuje nebuvo, tas stebuklų neregėjo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2387,7 +2407,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-073
-    - t-064- c-022
+    - t-064
+- c-022
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Politikai Kaune ultimatumo tikėjosi, patys ieškojo būdų, kaip užmegzti
@@ -2401,7 +2422,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
-    - t-014- c-023
+    - t-014
+- c-023
   santrauka: '1430 metais į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2424,7 +2446,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-079
-    - t-045- c-024
+    - t-045
+- c-024
   santrauka: 'Kunigaikštis Mykolas tremtyje Maskvoje mirė nunuodytas kažkokiame vienuolyne.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2442,7 +2465,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-056- c-025
+    - t-056
+- c-025
   santrauka: '1427 m. Vytautas žygiavo į Maskvą padėti vaikaičiui Baziliui II, ir tam pakako pademonstruoti jėgą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2455,7 +2479,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-026
+    - t-017
+- c-026
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji
@@ -2471,7 +2496,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-075- c-027
+    - t-075
+- c-027
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Georgijaus Čičerino nota prie šio pakto patvirtino Lietuvos intere-
@@ -2487,7 +2513,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
-    - t-015- c-028
+    - t-015
+- c-028
   santrauka: 'Maskva minima kaip imperines ambicijas užauginusi rytų grėsmė Lietuvos sukurtai didvalstybei.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -2511,7 +2538,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-090- c-029
+    - t-090
+- c-029
   santrauka: 'Dėl karo su Maskva patirtų nuostolių Vilniaus vyskupija sunkiai galėjo aprūpinti klierikų kolegiją lėšomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2538,7 +2566,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-033- c-030
+    - t-033
+- c-030
   santrauka: 'Napoleonui teko trauktis iš Maskvos, o traukimosi metu jo kariuomenė sunyko.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2552,7 +2581,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-042- c-031
+    - t-042
+- c-031
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet to paties siekė ir Algirdas, kuris nedvejodamas pas­
@@ -2567,7 +2597,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-035- c-032
+    - t-035
+- c-032
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Reali aukščiausioji valdžia atiteko ne šalyje li-
@@ -2584,7 +2615,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-084- c-033
+    - t-084
+- c-033
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Steponui Batorui (valdė 1576–1586  m.) pasiektos lemiamos pergalės
@@ -2597,7 +2629,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-031- c-034
+    - t-031
+- c-034
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XV a. trečiojo dešimtmečio pabaigoje Vytautas pradėjo elgtis
@@ -2610,7 +2643,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-035
+    - t-006
+- c-035
   santrauka: 'Viačeslavas Molotovas pakvietė Lietuvos užsienio reikalų ministrą Juozą Urbšį atvykti į Maskvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2629,7 +2663,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-094
-    - t-085- c-036
+    - t-085
+- c-036
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kenksmingą tos virše­
@@ -2655,7 +2690,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-091- c-037
+    - t-091
+- c-037
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai buvo kone vienintelis leidinys, be pertraukos net 17
@@ -2681,7 +2717,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-082
-    - t-067- c-038
+    - t-067
+- c-038
   santrauka: 'J. Paleckio vadovaujama delegacija Maskvoje 1940 m. rugpjūčio 3 d. pasiprašė įeiti į SSRS sudėtį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2696,7 +2733,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-039
+    - t-010
+- c-039
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
@@ -2711,7 +2749,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-055- c-040
+    - t-055
+- c-040
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vytauto nusistaty­
@@ -2727,7 +2766,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-041
+    - t-009
+- c-041
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Daugelis brangeny-
@@ -2742,7 +2782,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-038- c-042
+    - t-038
+- c-042
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kovo mėnesį, pasitelkus tarptautinį arbitražą, nustatyta siena
@@ -2757,7 +2798,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-046
-    - t-072- c-043
+    - t-072
+- c-043
   santrauka: '1991 m. rugpjūtį žlugus Maskvos pučui, kelias į Lietuvos nepriklausomybės pripažinimą tapo laisvas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2778,7 +2820,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-083- c-044
+    - t-083
+- c-044
   santrauka: '1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2793,7 +2836,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023- c-045
+    - t-023
+- c-045
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -2812,7 +2856,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-065
-    - t-030- c-046
+    - t-030
+- c-046
   santrauka: '1940 m. birželio 15 d. iš Maskvos į Lietuvą atvykęs Vladimiras Dekanozovas perėmė realią aukščiausiąją valdžią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2829,7 +2874,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-095- c-047
+    - t-095
+- c-047
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kaunas, 1959 m. liepos 16 d.
@@ -2856,7 +2902,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
-    - t-062- c-048
+    - t-062
+- c-048
   santrauka: 'Jogailos vyriausiasis brolis Andrius, valdęs Polocką, pabėgo į Maskvą ir ėmė rengti koaliciją prieš Jogailą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -2873,7 +2920,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-081- c-049
+    - t-081
+- c-049
   santrauka: 'Maskvoje saugoma Lietuvos Metrika tapo Lietuvos paveldo išbarstymo ar išgrobstymo simboliu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2889,7 +2937,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-050
+    - t-003
+- c-050
   santrauka: 'Karai su Maskva rytuose reikalavo daug pinigų, todėl reikėjo rūpintis didesniu parduodamų prekių kiekiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -2905,7 +2954,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-049- c-051
+    - t-049
+- c-051
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O valdžios olimpe įsitvirtinus Leo-
@@ -2923,7 +2973,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-061- c-052
+    - t-061
+- c-052
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Disidentinis judėjimas sten-
@@ -2942,7 +2993,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-036
-    - t-058- c-053
+    - t-058
+- c-053
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-
@@ -2958,7 +3010,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-040- c-054
+    - t-040
+- c-054
   santrauka: 'Maskvos kunigaikštis gavo mongolų leidimą rinkti Aukso ordai duoklę iš kitų senosios Rusios kunigaikštijų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -2975,7 +3028,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-047- c-055
+    - t-047
+- c-055
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
@@ -2995,7 +3049,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
-    - t-089- c-056
+    - t-089
+- c-056
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
@@ -3014,7 +3069,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-    - t-092- c-057
+    - t-092
+- c-057
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XIV a. pradžioje pagrindinėmis varžovėmis dėl jarlyko (chanų duoda-
@@ -3030,7 +3086,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-052- c-058
+    - t-052
+- c-058
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA II TOMAS
@@ -3049,7 +3106,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-050
-    - t-029- c-059
+    - t-029
+- c-059
   santrauka: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3068,7 +3126,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-096
-    - t-018- c-060
+    - t-018
+- c-060
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau lenkų kariškiai neskubėjo perduoti Vilniaus
@@ -3080,7 +3139,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-048- c-061
+    - t-048
+- c-061
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jokiais paaiškinimais netikėta, be to, reikalauta atleisti „provokacijų“ kalti-
@@ -3095,7 +3155,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
-    - t-077- c-062
+    - t-077
+- c-062
   santrauka: 'Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3122,7 +3183,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-069
-    - t-054- c-063
+    - t-054
+- c-063
   santrauka: 'Algirdas prie Maskvos mūrų prastovėjo tris dienas ir tris naktis, nuniokojo apylinkę ir grįžo atgal.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -3136,7 +3198,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-039- c-064
+    - t-039
+- c-064
   santrauka: 'Stepono Batoro valdymo metais Livonijos kare pasiektos lemiamos pergalės prieš Maskvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3153,7 +3216,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026- c-065
+    - t-026
+- c-065
   santrauka: 'Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į Kijevo ir Maskvos dalis, kurių istorija vėliau klostėsi savarankiškai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3170,7 +3234,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-044- c-066
+    - t-044
+- c-066
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     vo valdomos pačių žmonių, pasikviečiant vadas ar iš lietuvių
@@ -3187,7 +3252,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024- c-067
+    - t-024
+- c-067
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     J. K. Chodkevičius kovojo su Maskvos
@@ -3203,7 +3269,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-034
-    - t-074- c-068
+    - t-074
+- c-068
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vy­
@@ -3222,7 +3289,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-060- c-069
+    - t-060
+- c-069
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Į Maskvą vykstantį sužadėtinį
@@ -3236,7 +3304,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-059- c-070
+    - t-059
+- c-070
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pramonė labiau
@@ -3251,7 +3320,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-078- c-071
+    - t-078
+- c-071
   santrauka: 'Maskvoje prasidėjo perversmų laikotarpis, vadinamas didžiąja suirute (smuta).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -3265,7 +3335,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-097- c-072
+    - t-097
+- c-072
   santrauka: 'Iki Maskvos kariuomenei buvo likę aštuoniolika mylių, kai žygūnas ją pralenkė tik keliomis valandomis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3295,7 +3366,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-098- c-073
+    - t-098
+- c-073
   santrauka: 'Vasilijus reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą, kur jam būtų lengviau tramdyti ginčytis linkusius saviškius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3320,7 +3392,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-099- c-074
+    - t-099
+- c-074
   santrauka: 'Maskvoje maskvėnai reikalavo, kad legatai laišku paklaustų karaliaus nuomonės dėl titulų ginčo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3338,7 +3411,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-100- c-075
+    - t-100
+- c-075
   santrauka: 'Lietuvos metraščio tyrime teigiama, kad LDK santykių su Rusų valstybe vaizdavime iškeliamas Vytauto pranašumas prieš Maskvos didįjį kunigaikštį Vasilijų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -3354,7 +3428,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-101- c-076
+    - t-101
+- c-076
   santrauka: 'Sofijos Vytautaitės sužadėtinis 1388 m. sausio 19 d. jau buvo Maskvoje.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -3368,7 +3443,8 @@ Maskva žinių bazėje iškyla kaip svarbus Lietuvos rytų politikos taikinys ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-102- c-077
+    - t-102
+- c-077
   santrauka: 'Maskvoje viešėjęs arkidjakonas Povilas pasakojo apie Rusijos carui pavaldžias tautas, garbinusias dangaus kūnus ir kai kuriuos žvėris.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

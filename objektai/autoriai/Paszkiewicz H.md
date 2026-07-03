@@ -57,6 +57,7 @@ Dusburgietis teigia, kad paszkiewicz H datuojamas ir 1263 m.) organizavo Mindaug
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'H. Paszkiewicziaus darbas cituojamas aiškinant, kad 1262 m. žygį organizavo Mindaugas, o kariuomenei vadovavo Treniota.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

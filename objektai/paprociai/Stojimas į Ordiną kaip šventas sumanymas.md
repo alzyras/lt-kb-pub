@@ -69,6 +69,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Kronikoje stojimas į Teutonų ordiną vadinamas šventu sumanymu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

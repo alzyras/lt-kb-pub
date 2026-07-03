@@ -51,6 +51,7 @@ Bolševikai tą dieną į lietuvių pusę paleido užtvarą ir tęsė puolimą K
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

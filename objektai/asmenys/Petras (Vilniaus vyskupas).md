@@ -71,6 +71,7 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vilniaus vyskupas Petras atkakliai priešinosi Vytauto santuokai, kad nebūtų pažeisti Dievo ir žmonių įstatymai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

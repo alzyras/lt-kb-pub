@@ -73,6 +73,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Lietuvos metraštis pasakoja, kad supuvus Pajautos stabui toje vietoje išaugo liepos, kurios ir toliau buvo garbinamos.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

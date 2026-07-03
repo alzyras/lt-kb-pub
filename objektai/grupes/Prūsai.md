@@ -948,7 +948,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas, remdamasis Henenbergeriu, rašo, kad senovės prūsai, išgirdę griaustinį, griaustinio dievo prašydavo žodžiais: Dewe Periamas absolo mus!'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -962,7 +963,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Narbutas rašo, kad prūsų didžiojoje vėliavoje Atrimpas vaizduotas kaip jaunikaitis su javų varpų vainiku, stovintis Perkūno kairėje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -977,7 +979,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Narbutas rašo, kad senovės prūsai mirusiųjų valdovę vadino Giltine, o jos garbinimo apeigos buvo rengiamos per laidotuves ir Vėlines.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -994,7 +997,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-005
+    - t-004
+- c-005
   santrauka: 'Narbutas rašo, kad senovės prūsai Pergrubei atitinkančią deivę vadino Melitele, tai yra Meilutėle.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1007,7 +1011,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-006
+    - t-005
+- c-006
   santrauka: 'Narbutas spėja, kad Naugardo gubernijos Rusos, arba Russ, upės vardą galėjo duoti lietuvių tautos kolonija, siejama su prūsų kolonistais Naugarde.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1028,7 +1033,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-007
+    - t-006
+- c-007
   santrauka: 'Narbutas Prūsuose mini Šventainės upę, įtekančią į Peise ties Baičių kaimu; seniau ji vadinosi Galbė, o kaimas - Narpissa.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1041,7 +1047,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-008
+    - t-007
+- c-008
   santrauka: 'Narbutas prūsų Romovės ąžuolą apibūdina kaip didžiausių šventybių prieglaudą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1058,7 +1065,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-009
+    - t-008
+- c-009
   santrauka: 'Narbutas rašo, kad Dybove prie Torunės buvo senovės prūsų šventasis ąžuolas arba šventykla, kurią paėmę kryžiuočiai ten įkūrė Senąją Torunę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1072,7 +1080,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-010
+    - t-009
+- c-010
   santrauka: 'Narbutas rašo, kad liepa pas senovės prūsus priklausė šventųjų medžių kategorijai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1086,7 +1095,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-011
+    - t-010
+- c-011
   santrauka: 'Narbutas Perkūno, Patelo ir Atrimpo atvaizdus sieja su senovės prūsų vėliava.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1097,7 +1107,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-012
+    - t-011
+- c-012
   santrauka: 'Narbutas prūsus vadina didžiausiais šio dievo garbintojais ir rašo, kad jie kasmet po Didžiosios šventės sudaužydavo stabą ir pasidarydavo naują.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1110,7 +1121,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-013
+    - t-012
+- c-013
   santrauka: 'Narbutas cituoja Miechovitą, kad prūsai šventais laikė miškus, juose gyvenančius paukščius ir žvėris, o jų užmušėjams velnių galybė susukdavusi galūnes.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1130,7 +1142,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-014
+    - t-013
+- c-014
   santrauka: 'Narbutas, remdamasis Hartknochu, nurodo garsų prūsų šventąjį mišką prie Žemaitijos sienos, dviejų upių santakoje netoli Rusnės įlankos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1147,7 +1160,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-015
+    - t-014
+- c-015
   santrauka: 'Narbutas prūsų religijos duomenims svarbiomis laiko Hartknocho surinktas kronikų žinias ir 1249 metų popiežiaus legato Jokūbo privilegijos ištraukas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1165,7 +1179,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-016
+    - t-015
+- c-016
   santrauka: 'Narbutas spėja, kad paskutinis Prūsijos Krivių Krivaitis Alepas buvo išguitas iš Romovės ir slapstėsi nuo kryžiuočių, siekusių jį sučiupti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1184,7 +1199,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-017
+    - t-016
+- c-017
   santrauka: 'Narbutas, remdamasis Kozmo Prahiečio Adalberto biografija, rašo, kad prie Fišhauzeno prūsams užpuolus Adalbertą miniai vadovavo žynys Siggo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1201,7 +1217,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-018
+    - t-017
+- c-018
   santrauka: 'Narbutas ginčija Hartknocho abejonę ir teigia, kad prūsai alų darė labai senu papročiu dar iki kryžiuočių atsikraustymo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1215,7 +1232,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-019
+    - t-018
+- c-019
   santrauka: 'Narbutas rašo, kad aukojant arklius prūsai pirmenybę teikdavo širmiems, o kitos lietuvių genties tautos rinkdavosi kitokio plauko arklius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1231,7 +1249,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019- c-020
+    - t-019
+- c-020
   santrauka: 'Narbutas kritikuoja Hartknochą, kad šis prūsų laiko skaičiavimą pritempė prie germaniškų ženklų ir grindė spėliojimais apie gotų mėgdžiojimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1248,7 +1267,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-021
+    - t-020
+- c-021
   santrauka: 'Narbutas rašo, kad seni prūsai, išgirdę griaustinį, sakydavo: „Dievų karalius kalbasi su vyriausiuoju žyniu“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1263,7 +1283,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-022
+    - t-021
+- c-022
   santrauka: 'Narbutas rašo, kad senovės prūsų tarme jaunosios vainikas, apvyniotas balta skarele, vadinosi apglobtė (Abglojte), tai yra nuometas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1276,7 +1297,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-023
+    - t-022
+- c-023
   santrauka: 'Narbutas rašo, kad Prūsijos kronikininkai aprašo tautinį senovės prūsų herbą, kurio kilmę sieja su Vaidevučio laikais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1294,7 +1316,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023- c-024
+    - t-023
+- c-024
   santrauka: 'Narbutas rašo, kad kitas tautinis prūsų herbas vaizdavo dvi karališkas karūnas vieną virš kitos, o apatinė karūna buvo apversta.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1307,7 +1330,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024- c-025
+    - t-024
+- c-025
   santrauka: 'Narbutas rašo, kad tautinę senovės prūsų vėliavą nešdavo karo žygiuose ir iškeldavo pilių bokštuose, kai joms grėsdavo priešas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1320,7 +1344,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025- c-026
+    - t-025
+- c-026
   santrauka: 'Narbutas aiškina, kad tinkamai perskaičius užrašą tai buvusi kunigaikščio Utenio, padėjusio prūsams kovoti su kryžiuočiais, vėliava.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1336,7 +1361,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026- c-027
+    - t-026
+- c-027
   santrauka: 'Narbutas pabrėžia, kad Dusburgietis 1326 metais įteikė kroniką, kai nuo visiško Prūsijos užkariavimo buvo praėję kiek daugiau nei keturiasdešimt metų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1363,7 +1389,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027- c-028
+    - t-027
+- c-028
   santrauka: 'Narbutas retoriškai klausia, kodėl prūsai būtų prisiekę nebeklausyti savo krivio, jei tokio įsakinėti galinčio asmens nebebūtų buvę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1379,7 +1406,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-028- c-029
+    - t-028
+- c-029
   santrauka: 'Narbutas prūsus laiko vienos kilties ir vienos genties broliais su Lietuva.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1399,7 +1427,8 @@ Prūsai aprašomi kaip vakarų baltų tarmių regionui priskiriama tauta ar gen�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029- c-030
+    - t-029
+- c-030
   santrauka: 'Narbutas senovės prūsų kalbai iliustruoti pateikia „Tėve mūsų“ tekstus iš Gronovijaus ir 1545 metų Katekizmo pirmojo leidimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

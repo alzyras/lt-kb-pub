@@ -124,6 +124,7 @@ Julijona šiame įraše pristatoma kaip Algirdo žmona, Jogailos motina ir Viteb
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Julijoną su Rytų Bažnyčia siejo praeitis, tradicijos, tautybė ir jos giminės stačiatikių šventieji.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -140,6 +141,7 @@ Julijona šiame įraše pristatoma kaip Algirdo žmona, Jogailos motina ir Viteb
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-003
   santrauka: 'Algirdas buvo vedęs Vitebsko kunigaikštytę Julijoną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -162,6 +164,7 @@ Julijona šiame įraše pristatoma kaip Algirdo žmona, Jogailos motina ir Viteb
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -177,6 +180,7 @@ Julijona šiame įraše pristatoma kaip Algirdo žmona, Jogailos motina ir Viteb
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -190,6 +194,7 @@ Julijona šiame įraše pristatoma kaip Algirdo žmona, Jogailos motina ir Viteb
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-006
   santrauka: 'Julijona paminėta Žemaičių dovanojimo dokumente kartu su kunigaikščio taryba.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -211,6 +216,7 @@ Julijona šiame įraše pristatoma kaip Algirdo žmona, Jogailos motina ir Viteb
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-007
   santrauka: 'Julijona, Vitebsko kunigaikštytė, buvo antroji Algirdo žmona ir Polocko kunigaikščio Andriaus motina.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -237,6 +243,7 @@ Julijona šiame įraše pristatoma kaip Algirdo žmona, Jogailos motina ir Viteb
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-008
   santrauka: 'Julijona prisidėjo prie Jogailos sutarties su Ordinu, nukreiptos prieš Kęstutį, sudarymo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

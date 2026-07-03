@@ -71,6 +71,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Dusburgietis teigia, kad vienas sūduvių karys, stiprus vyras, leidosi paskui vieną krikščionę, kuri tuo metu spruko į pelkes; kai jau ketino ją nužudyti, ši, užmiršusi savo lyties trapumą, drąsiai pasipriešino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

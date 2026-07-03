@@ -206,6 +206,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-002
   santrauka: 'Augustinas Voldemaras užsienio politiką stūmė radikalesne kryptimi ir pabrėžė, kad be Vilniaus Lietuva nėra vienas kūnas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -224,6 +225,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -241,6 +243,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-004
   santrauka: 'Augustinas Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -261,6 +264,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti Augustiną Voldemarą į valdžią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -277,6 +281,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-006
   santrauka: '1927 m. gruodžio 10 d. Ženevoje Augustinas Voldemaras atsakė Juzefui Pilsudskiui, kad karo padėties tarp Lietuvos ir Lenkijos nėra.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -300,6 +305,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   santrauka: '1929 m. Augustinas Voldemaras neteko pareigų, nes atsisakė tapti užsienio reikalų ministru.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -320,6 +326,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-008
   santrauka: 'Augustinas Voldemaras Vilniaus klausimu pragmatiškai ieškojo SSRS paramos prieš Lenkiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -345,6 +352,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -366,6 +374,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -382,6 +391,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-011
   santrauka: 'Augustinas Voldemaras vadovavo Lietuvos delegacijai prie Paryžiaus taikos konferencijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -406,6 +416,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-012
   santrauka: 'Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -437,6 +448,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-013
   santrauka: 'Augustinas Voldemaras 1927 m. rugsėjo 27 d. Romoje pasirašė konkordatą su Vatikanu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -454,6 +466,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-014
   santrauka: '1918 m. lapkričio 23 d. Augustinui Voldemarui teko skelbti mobilizaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -475,6 +488,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-015
   santrauka: 'Stiprėjant Europos sienų neliečiamumo tendencijai, Augustinas Voldemaras nebegalėjo pakeisti Lietuvos padėties.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -491,6 +505,7 @@ Augustinas Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

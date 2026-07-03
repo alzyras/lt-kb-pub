@@ -70,6 +70,7 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -82,6 +83,7 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Blokeliuose su skyriaus spalvos juostele pateikiamos įvykių liudininkų, amžininkų ar tų laikų dokumentų citatos Ryškesniu šriftu išskirtos citatoje aptariamų įvykių aplinkybės Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ apie Ordino brolių sumušimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

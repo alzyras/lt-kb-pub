@@ -82,7 +82,8 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-    - t-002- c-002
+    - t-002
+- c-002
   santrauka: 'Narbutas Kukovaitį apibūdina kaip Živinbudo II sūnų, valdžiusį Užnerio Lietuvą ir palaidotą kalne netoli Deltuvos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

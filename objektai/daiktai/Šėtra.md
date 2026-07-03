@@ -55,6 +55,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 ## Pastabos
 
 - tiksli šėtros forma iš šio pasakojimo nėra visiškai aiški; ji gali būti apeiginė pastogė arba šventvietės statinys.

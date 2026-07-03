@@ -345,6 +345,7 @@ Dniepras šioje žinių bazėje siejamas su Lietuvos valstybės plėtra į pietu
   pagrindžia:
     - t-003
     - t-015
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -366,6 +367,7 @@ Dniepras šioje žinių bazėje siejamas su Lietuvos valstybės plėtra į pietu
   pagrindžia:
     - t-004
     - t-022
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -386,6 +388,7 @@ Dniepras šioje žinių bazėje siejamas su Lietuvos valstybės plėtra į pietu
   pagrindžia:
     - t-019
     - t-010
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -404,6 +407,7 @@ Dniepras šioje žinių bazėje siejamas su Lietuvos valstybės plėtra į pietu
   pagrindžia:
     - t-018
     - t-012
+
 - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -433,6 +437,7 @@ Dniepras šioje žinių bazėje siejamas su Lietuvos valstybės plėtra į pietu
   pagrindžia:
     - t-006
     - t-014
+
 - c-006
   santrauka: 'Ties Lojevu persikelta į dešinįjį Dniepro krantą ir pasukta vakarų kryptimi Mozyriaus bei Slucko link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -451,6 +456,7 @@ Dniepras šioje žinių bazėje siejamas su Lietuvos valstybės plėtra į pietu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -467,6 +473,7 @@ Dniepras šioje žinių bazėje siejamas su Lietuvos valstybės plėtra į pietu
   pagrindžia:
     - t-016
     - t-005
+
 - c-008
   santrauka: 'Maskvai palikus Černigovą, Naugardą Sieverską, Starodubą ir Okos paupius, jos sienos jau siekė Dnieprą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -482,6 +489,7 @@ Dniepras šioje žinių bazėje siejamas su Lietuvos valstybės plėtra į pietu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -499,6 +507,7 @@ Dniepras šioje žinių bazėje siejamas su Lietuvos valstybės plėtra į pietu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-010
   santrauka: '1395 m. Timūro vadai pasiekė Dnieprą po Tochtamišo sumušimo ir žygio į Rytų Europą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -524,6 +533,7 @@ Dniepras šioje žinių bazėje siejamas su Lietuvos valstybės plėtra į pietu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-011
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -539,6 +549,7 @@ Dniepras šioje žinių bazėje siejamas su Lietuvos valstybės plėtra į pietu
   pagrindžia:
     - t-007
     - t-011
+
 - c-012
   santrauka: 'Prie Dniepro stovėjusioje lietuvių Tavano pilyje Vytautas įsteigė muitinę, vadintą Vytauto pirtimi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -564,6 +575,7 @@ Dniepras šioje žinių bazėje siejamas su Lietuvos valstybės plėtra į pietu
   pagrindžia:
     - t-021
     - t-017
+
 - c-013
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -584,6 +596,7 @@ Dniepras šioje žinių bazėje siejamas su Lietuvos valstybės plėtra į pietu
   pagrindžia:
     - t-002
     - t-009
+
 - c-014
   santrauka: 'Po šešerių metų paliaubų Maskvai paliktos žemės nulėmė, kad jos sienos jau siekė Dnieprą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -599,6 +612,7 @@ Dniepras šioje žinių bazėje siejamas su Lietuvos valstybės plėtra į pietu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-015
   santrauka: 'Totorių ekspedicinės pajėgos ties Lojevu persikėlė į dešinįjį Dniepro krantą ir pasuko Mozyriaus bei Slucko link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

@@ -80,6 +80,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1246 m. buvo sudarytos paliaubos tarp Ordino ir Sventopelko.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -72,6 +72,7 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Prūsai prieš svarbesnius darbus traukdavo burtus, klausdami savo dievų, ar darbas pavyks gerai, ar blogai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -89,6 +90,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Prūsai prieš svarbesnius darbus traukdavo burtus, klausdami savo dievų, ar darbas pavyks gerai, ar blogai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -75,6 +75,7 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kunonas, Brandenburgo komtūras, iš anksto įspėtas apie 600 Lietuvos vyrų žygį į Notangą, subūrė valdinius ir kelias dienas jų laukė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -95,6 +96,7 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Kunonas, gavęs žinią apie priešą, patraukė su būriu į Notangą ir parinkęs vietą pasalai laukė lietuvių pasirodant.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

@@ -106,6 +106,7 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Pirmaisiais poliublininiais dešimtmečiais rašęs Stryjkovskis perėmė Lietuvos didikų valstybingumo sąmonę.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -127,6 +128,7 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     - t-004
     - t-001
     - t-003
+
 - c-003
   santrauka: 'Kojalavičius įtvirtino tradiciją poliublininiu laikotarpiu nebetęsti atskiros Lietuvos istorijos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -144,6 +146,7 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   pagrindžia:
     - t-005
     - t-002
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -159,6 +162,7 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -174,6 +178,7 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

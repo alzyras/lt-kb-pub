@@ -63,6 +63,7 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kai lietuviai kariavo su Maskva, Švedijos karalius Erikas įsiveržė į Livoniją ir užėmė Revelį bei Paidę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

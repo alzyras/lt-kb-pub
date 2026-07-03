@@ -130,6 +130,7 @@ Jaunutis po tėvo mirties tapo Vilniaus ir gretimų sričių valdovu, tačiau ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Jaunutis gyveno prie tėvų Vilniuje, o po Gedimino mirties tapo Vilniaus ir gretimų sričių valdovu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -144,6 +145,7 @@ Jaunutis po tėvo mirties tapo Vilniaus ir gretimų sričių valdovu, tačiau ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Brolių kivirčai paskatino slaptas sutartis, kuriomis siekta nuversti Jaunutį nuo Lietuvos didžiojo kunigaikščio sosto.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -164,6 +166,7 @@ Jaunutis po tėvo mirties tapo Vilniaus ir gretimų sričių valdovu, tačiau ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Jaunutis, neįgijęs karinės šlovės, saugojo Gedimino karūną ir Lietuvos valdžią, nors karo reikaluose neprilygo Algirdui ir Kęstučiui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -188,6 +191,7 @@ Jaunutis po tėvo mirties tapo Vilniaus ir gretimų sričių valdovu, tačiau ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-005
   santrauka: 'Kęstutis nušalino Jaunutį, todėl, Kojelavičiaus pasakojimu, turėjo daugiau teisių į valdžią už Algirdą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -211,6 +215,7 @@ Jaunutis po tėvo mirties tapo Vilniaus ir gretimų sričių valdovu, tačiau ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'Kęstučiui užėmus Vilniaus pilis, Jaunutis pabėgo iš pilies, bet Kęstučio raiteliai jį sugrąžino iš miško.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

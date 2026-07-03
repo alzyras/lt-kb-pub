@@ -69,6 +69,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Netekę vadų, Mazovijos žmonės bandė priešintis, bet buvo sumušti, o po to nusiaubta visa Mazovija ir didelė Kujavijos dalis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

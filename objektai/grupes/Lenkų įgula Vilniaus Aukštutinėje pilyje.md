@@ -109,6 +109,7 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   santrauka: 'Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -162,6 +163,7 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Lenkų įgulai Aukštutinėje pilyje penkios Vilniaus apsupties savaitės praėjo sunkiomis kautynėmis ir ginčais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -182,6 +184,7 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Po mūšio tarp Verkių ir Šeškinės visa lenkų įgula ir dalis lietuvių pajėgų užsidarė Vilniaus tvirtovių mūruose bei aptvaruose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -199,6 +202,7 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Nuolatinės atakos smarkiai kamavo įsitvirtinusią įgulą, bet nepalaužė lenkų narsos Moskoževskio gynybos linijose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

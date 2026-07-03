@@ -242,6 +242,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -266,6 +267,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
   pagrindžia:
     - t-013
     - t-011
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -281,6 +283,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Po susitikimo Paryžiuje su Augustu Zaleskiu A. Voldemarą Kauno stotyje pasitiko karininkai, priešinęsi deryboms su Lenkija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -301,6 +304,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-005
   santrauka: '1304 m. apie Kalėdas per potvynį Paryžiuje sugriuvo abu tiltai, ir jų žymės nebeliko.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -316,6 +320,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-006
   santrauka: '1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -330,6 +335,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-007
   santrauka: 'Voldemaras buvo nubaustas tremtimi iš Zarasų į Paryžių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -342,6 +348,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-008
   santrauka: 'Popiežiaus priklausomybės reskriptas buvo perskaitytas ir sudegintas Paryžiaus karaliaus rūmuose dvasininkų bei pasauliečių akivaizdoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -359,6 +366,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-009
   santrauka: '1940 m. birželio 14-osios rytą vermachtas įžengė į Paryžių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -380,6 +388,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-010
   santrauka: 'Paryžiaus taikos konferencijoje lietuviai žydams žadėjo plačią kultūrinę autonomiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -398,6 +407,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-011
   santrauka: 'Tamplierių ordino didysis magistras 1314 m. buvo sudegintas ant laužo Paryžiuje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -415,6 +425,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-012
   santrauka: 'Jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -434,6 +445,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-013
   santrauka: 'Augustinų ordino mokytojas Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -458,6 +470,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-014
   santrauka: 'Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Prancūzijos paramą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

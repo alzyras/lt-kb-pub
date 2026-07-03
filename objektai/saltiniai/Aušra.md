@@ -71,6 +71,7 @@ amziai:
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Po trejų metų „Aušra“ dėl idėjinių nesutarimų ir finansinių sunkumų sustojo ėjusi, bet paskatino naujus lietuviškus periodinius leidinius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

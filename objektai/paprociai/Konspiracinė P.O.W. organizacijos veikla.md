@@ -76,7 +76,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-002
+    - t-002
+- c-002
   santrauka: 'P.O.W. organizacija slapta rengė sukilimą ir stengėsi į savo pusę patraukti Lietuvos karininkus bei kareivius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

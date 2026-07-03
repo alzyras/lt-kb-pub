@@ -58,6 +58,7 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'A. Mežinskis manė, kad Romovė galėjusi būti ir prie Rausvės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

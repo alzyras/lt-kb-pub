@@ -209,7 +209,8 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-002
+    - t-002
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Padaręs sąjungą su Aleksandru Nevskiu (Didž.
@@ -222,7 +223,8 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-003
+    - t-006
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kiekvienas iš veiklių varžovų, norėdamas nurungti
@@ -236,7 +238,8 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-004
+    - t-015
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Sutvarkė reikalus su Smo­
@@ -248,7 +251,8 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-005
+    - t-010
+- c-005
   santrauka: 'Vytautas turėjo patrankų per 1426 m. žygį į Pskovą ir 1428 m. žygį į Naugardą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -264,7 +268,8 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-006
+    - t-017
+- c-006
   santrauka: 'Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -281,7 +286,8 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-007
+    - t-009
+- c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Yra žinoma, kad jis, kariaudamas su Pskovu, pa­
@@ -296,7 +302,8 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-008
+    - t-007
+- c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys
@@ -313,7 +320,8 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-009
+    - t-016
+- c-009
   santrauka: 'Pskovas ir Didysis Naugardas buvo įkurti anksčiau už Vilnių ir greičiau virto tankiai gyvenamomis bei turtingesnėmis gyvenvietėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -329,7 +337,8 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-010
+    - t-005
+- c-010
   santrauka: '1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino sutartį, o Švitrigaila sustiprino ryšius su Naugardu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -349,7 +358,8 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-011
+    - t-013
+- c-011
   santrauka: 'Pskovas ir Didysis Naugardas buvo įkurti anksčiau už Vilnių ir greičiau virto tankiai gyvenamomis bei turtingesnėmis gyvenvietėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -366,7 +376,8 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-012
+    - t-012
+- c-012
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vilniaus valdovo susilpnėjimu naudojosi ir kitos jo įtakoje
@@ -380,7 +391,8 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-013
+    - t-018
+- c-013
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau neparemti jie pralaimėjo, ir Kazi-
@@ -396,7 +408,8 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-    - t-001- c-014
+    - t-001
+- c-014
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet užtat daug geriau Algirdui sekėsi į
@@ -411,7 +424,8 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-015
+    - t-014
+- c-015
   santrauka: '1428 m. Naugardo ir Porchovo miestai, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribuciją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -426,7 +440,8 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-016
+    - t-004
+- c-016
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Volumes gyventojai, jausdami karaliui anti­
@@ -448,7 +463,8 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-    - t-011- c-017
+    - t-011
+- c-017
   santrauka: 'Vytautas 1428 m. pajungė Didįjį Naugardą tikrindamas rytinius Lietuvos valstybės pakraščius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -462,7 +478,8 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019- c-018
+    - t-019
+- c-018
   santrauka: 'Vytautas turėjo patrankų per 1426 m. žygį į Pskovą ir 1428 m. žygį į Naugardą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -477,7 +494,8 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-019
+    - t-020
+- c-019
   santrauka: 'Lietuvos metraštis vaizduoja, kad naugardiečiai pagerbė Sofiją ir Joną Algimantaitį ir nulydėjo juos į Maskvą pas Vasilijų Dimitrijevičių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -495,7 +513,8 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip turtinga miestų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-020
+    - t-021
+- c-020
   santrauka: 'Narbutas rašo, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija palaikė ryšius su Naugardo slavais, bet sudarė atskirą valstybę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

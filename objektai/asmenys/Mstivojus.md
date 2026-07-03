@@ -106,6 +106,7 @@ Mstivojus buvo Sventopelko pirmagimis sūnus, minimas kaip taikos sutarties įka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-002
   santrauka: 'Sventopelkas turėjo atsiųsti savo pirmagimį sūnų Mstivojų broliams kaip taikos sutarties įkaitą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -130,6 +131,7 @@ Mstivojus buvo Sventopelko pirmagimis sūnus, minimas kaip taikos sutarties įka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Mstivojus, Pomeranijos kunigaikštis, po savo žemių nusiaubimo paprašė magistro atnaujinti taikos susitarimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -149,6 +151,7 @@ Mstivojus buvo Sventopelko pirmagimis sūnus, minimas kaip taikos sutarties įka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Sventopelko pirmagimis sūnus Mstivojus anksčiau buvo atiduotas kaip įkaitas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -166,6 +169,7 @@ Mstivojus buvo Sventopelko pirmagimis sūnus, minimas kaip taikos sutarties įka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   santrauka: 'Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas valdė prieš brolių valią.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -186,6 +190,7 @@ Mstivojus buvo Sventopelko pirmagimis sūnus, minimas kaip taikos sutarties įka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-006
   santrauka: 'Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

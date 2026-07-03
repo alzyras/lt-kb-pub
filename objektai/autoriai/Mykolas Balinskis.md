@@ -285,7 +285,8 @@ Mykolas Balinskis buvo kruopštus, pedantiškas istorikas, siejamas su „Vilnia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-002
+    - t-006
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Būdamas darbštus ir plačių interesų, Vilniuje pradėjo
@@ -300,7 +301,8 @@ Mykolas Balinskis buvo kruopštus, pedantiškas istorikas, siejamas su „Vilnia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-003
+    - t-001
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiame darbe suregistruoti LDK miestai ir miesteliai,
@@ -314,7 +316,8 @@ Mykolas Balinskis buvo kruopštus, pedantiškas istorikas, siejamas su „Vilnia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Vytautas Berenis apibūdino Mykolą Balinskį kaip kruopštų, pedantišką istoriką, vengusį rašyti be faktografinės bazės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -335,7 +338,8 @@ Mykolas Balinskis buvo kruopštus, pedantiškas istorikas, siejamas su „Vilnia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-005
+    - t-002
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
@@ -350,7 +354,8 @@ Mykolas Balinskis buvo kruopštus, pedantiškas istorikas, siejamas su „Vilnia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-006
+    - t-004
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmoji knygos dalis užbaigia­
@@ -365,7 +370,8 @@ Mykolas Balinskis buvo kruopštus, pedantiškas istorikas, siejamas su „Vilnia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-007
+    - t-005
+- c-007
   santrauka: 'Mykolo Balinskio „Vilniaus miesto istorijos“ lietuviškas leidimas verstas iš 1836-1837 m. Vilniuje spausdinto leidinio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -400,7 +406,8 @@ Mykolas Balinskis buvo kruopštus, pedantiškas istorikas, siejamas su „Vilnia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-008
+    - t-008
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     užrašais ir asmeninėmis pastabomis, už ką jiems kuo nuošir­
@@ -416,7 +423,8 @@ Mykolas Balinskis buvo kruopštus, pedantiškas istorikas, siejamas su „Vilnia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-009
+    - t-007
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Sūnėnų tvirtas laidavimo žo­
@@ -437,7 +445,8 @@ Mykolas Balinskis buvo kruopštus, pedantiškas istorikas, siejamas su „Vilnia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-010
+    - t-009
+- c-010
   santrauka: 'Mykolui Balinskiui priskiriama dalies anonimiškų straipsnių, kritikavusių Narbuto „Mažesniuosius istorijos raštus“, autorystė.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

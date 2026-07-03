@@ -49,6 +49,7 @@ Neatsitiktinai tuo metu konstitucija išverčiama ir į lietuvių kalbą, o tai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Gegužės trečiosios konstitucijos vertimas buvo pirmasis politinis ir teisinis dokumentas lietuvių kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

@@ -112,7 +112,8 @@ Trakų pilis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-    - t-006- c-002
+    - t-006
+- c-002
   santrauka: 'Vokiečiai buvo išmėginę patrankas imdami Trakų pilį, o 1384 m. Jogaila jas nukreipė prieš Ordiną prie Marienverderio.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -128,7 +129,8 @@ Trakų pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-003
+    - t-005
+- c-003
   santrauka: 'Skirgaila pasirinko Trakų pilį nuolatine buveine ir iš jos vykdavo į mūšius ar malšinti maištaujančių kunigaikščių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -145,7 +147,8 @@ Trakų pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-004
+    - t-001
+- c-004
   santrauka: 'Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link į Trakų pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -177,7 +180,8 @@ Trakų pilis.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-    - t-002- c-005
+    - t-002
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Išties trumpas, bet itin nesėkmingas buvo Vilniui Skir­
@@ -198,7 +202,8 @@ Trakų pilis.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-006
+    - t-003
+- c-006
   santrauka: 'Senojoje Trakų pilyje virš didžiųjų vartų anksčiau buvo akmenyje iškaltas kryžius skyde.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

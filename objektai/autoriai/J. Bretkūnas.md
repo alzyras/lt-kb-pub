@@ -55,6 +55,7 @@ Bretkūno postilė. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'J. Bretkūno postilė datuojama 1591 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

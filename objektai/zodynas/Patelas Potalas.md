@@ -45,7 +45,8 @@ Narbutas Patelą apibūdina kaip skraidančių oro dvasių dievą ir aukščiaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas Potalą sieja su mirties patalu ir spėja, kad šis dievas globojo mirusiųjų deginimo laužus bei pernešdavo vėles į amžiną buveinę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

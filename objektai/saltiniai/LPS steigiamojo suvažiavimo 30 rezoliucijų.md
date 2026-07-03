@@ -46,6 +46,7 @@ Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'LPS steigiamasis suvažiavimas priėmė 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

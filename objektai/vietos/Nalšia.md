@@ -67,6 +67,7 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Daumantas buvo Nalšios kunigaikštis ir Mindaugo svainės vyras.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

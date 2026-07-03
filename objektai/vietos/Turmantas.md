@@ -62,6 +62,7 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
   pagrindžia:
     - t-003
     - t-002
+
 - c-002
   santrauka: 'Turmanto geležinkelio stotis buvo užimta po atkaklaus bolševikų pasipriešinimo, parėmus 1-ojo pėstininkų pulko batalionui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

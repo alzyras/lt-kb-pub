@@ -166,6 +166,7 @@ Paneriai – Vilniaus apylinkių vieta, 1390 m. Vladislovo Jogailos privilegijoj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -182,6 +183,7 @@ Paneriai – Vilniaus apylinkių vieta, 1390 m. Vladislovo Jogailos privilegijoj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -201,6 +203,7 @@ Paneriai – Vilniaus apylinkių vieta, 1390 m. Vladislovo Jogailos privilegijoj
   pagrindžia:
     - t-003
     - t-001
+
 - c-004
   santrauka: 'Algirdas kartais gyvendavo Paneriuose, kurie Balińskio aprašytu metu priklausė Vilniaus kapitulai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -220,6 +223,7 @@ Paneriai – Vilniaus apylinkių vieta, 1390 m. Vladislovo Jogailos privilegijoj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -246,6 +250,7 @@ Paneriai – Vilniaus apylinkių vieta, 1390 m. Vladislovo Jogailos privilegijoj
   pagrindžia:
     - t-002
     - t-011
+
 - c-006
   santrauka: 'Sapiegų pajėgos iš Vilniaus apylinkių pro Panerius ir Vokę išžygiavo Valkininkų kryptimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -266,6 +271,7 @@ Paneriai – Vilniaus apylinkių vieta, 1390 m. Vladislovo Jogailos privilegijoj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -288,6 +294,7 @@ Paneriai – Vilniaus apylinkių vieta, 1390 m. Vladislovo Jogailos privilegijoj
   pagrindžia:
     - t-007
     - t-004
+
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |

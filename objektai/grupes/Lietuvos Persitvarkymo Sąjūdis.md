@@ -256,6 +256,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -274,6 +275,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Steigiant Lietuvos Persitvarkymo Sąjūdį sutarta nerinkti iniciatyvinės grupės vadovo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -294,6 +296,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   santrauka: '1988 m. spalio pabaigoje 1 200 Lietuvoje įregistruotų LPS grupių vienijo 300 000 narių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -312,6 +315,7 @@ Nenurodyta
   pagrindžia:
     - t-007
     - t-018
+
 - c-005
   santrauka: '1988 m. spalio 22–23 d. Lietuvos Persitvarkymo Sąjūdžio steigiamajame suvažiavime dalyvavo 1 021 delegatas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -332,6 +336,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-006
   santrauka: 'Per Lietuvos Persitvarkymo Sąjūdžio suvažiavimą išrinktas 220 narių seimas, o lapkričio 25 d. jo tarybos pirmininku išrinktas Vytautas Landsbergis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -348,6 +353,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -368,6 +374,7 @@ Nenurodyta
   pagrindžia:
     - t-021
     - t-010
+
 - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -388,6 +395,7 @@ Nenurodyta
   pagrindžia:
     - t-011
     - t-022
+
 - c-009
   santrauka: '1988 m. birželio 3 d. Vilniuje Lietuvos mokslų akademijos salėje įsteigta Lietuvos Persitvarkymo Sąjūdžio iniciatyvinė grupė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -406,6 +414,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -425,6 +434,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-011
   santrauka: '1988 m. birželio 10 d. Lietuvos Persitvarkymo Sąjūdžio iniciatyvinė grupė įsteigta Kaune, o liepos 6 d. – Klaipėdoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -442,6 +452,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-012
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -459,6 +470,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-013
   santrauka: '1987, 1988 ir 1989 m. vasarą jaunimo muzikos koncertų žygiai per Lietuvą skleidė LPS idėjas ir drąsino režimo įbaugintus žmones.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -472,6 +484,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -488,6 +501,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-015
   santrauka: 'Sąjūdis buvo tautos frontas, suvienijęs plačius Lietuvos visuomenės sluoksnius ir kėlęs laisvės, demokratijos bei nepriklausomybės idealus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -508,6 +522,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-016
   santrauka: 'Atgimimo laikotarpiu Lietuvos Persitvarkymo Sąjūdis, o ne Lietuvos laisvės lyga, tapo pagrindine Lietuvos nepriklausomybę atkūrusia jėga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -524,6 +539,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-017
   santrauka: 'Lietuvos Persitvarkymo Sąjūdžio suvažiavimas priėmė bendrąją programą, įstatus ir 30 rezoliucijų politikos, kultūros, ekonomikos bei demokratijos klausimais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -545,6 +561,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-018
   santrauka: '1988 m. lapkritį Lietuvos Persitvarkymo Sąjūdžio aplinkoje visoje Lietuvoje reikalauta nepritarti SSRS konstitucijos pataisoms.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -563,6 +580,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-019
   santrauka: '1988–1990 m. Lietuvos Sąjūdžio kūrėjai prisidėjo prie Sovietų Sąjungos aneksijos įveikimo ir Nepriklausomybės atkūrimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -583,6 +601,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-020
   santrauka: '1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

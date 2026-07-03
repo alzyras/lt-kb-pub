@@ -68,6 +68,7 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1262 m. sausio 21 d. Engelbertas, Julicho ir Markos grafas, su stipria kariuomene atvyko į Karaliaučių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

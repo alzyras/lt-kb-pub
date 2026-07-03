@@ -85,6 +85,7 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-002
+
 - c-002
   santrauka: 'K. Semenavičiaus raketų brėžiniai buvo susieti su Amsterdamu ir 1650 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

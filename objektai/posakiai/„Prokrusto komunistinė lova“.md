@@ -51,6 +51,7 @@ Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepal
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Sovietmečiu menininkams tolstant nuo socialistinio realizmo nepavyko Lietuvos kultūros sugrūsti į „Prokrusto komunistinę lovą“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

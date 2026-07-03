@@ -74,6 +74,7 @@ Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to meto žymū
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vienas lenkų karūnos pakancleris pripažino nevykdysiąs net tėvo įsakymų, jei jie būtų nukreipti prieš Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

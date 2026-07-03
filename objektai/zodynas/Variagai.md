@@ -86,6 +86,7 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Petro Olai „Danų kronikoje“ aprašytas įvykis siejamas su Riuriko ir jo variagų pasitraukimu į Rusiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -115,6 +116,7 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'IX a. Rusioje variagais vadinti skandinavų normanai Baltijos pakrantėse vertėsi plėšikavimu ir prekyba.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

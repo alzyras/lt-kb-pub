@@ -105,6 +105,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Turkijos čiaušas Ibrahimas su dvidešimt dviem tarnais turėjo būti aprūpintas nakvyne Vilniaus mieste.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

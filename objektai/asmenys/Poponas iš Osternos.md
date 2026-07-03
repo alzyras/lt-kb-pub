@@ -86,6 +86,7 @@ Poponas iš Osternos buvo antras Prūsijos žemės magistras, pareigas ėjęs se
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   santrauka: '1244 m. magistras Poponas atvyko su keturiais broliais, o dar šeši broliai atvyko iš Markos, Meiseno ir Tiuringijos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -104,6 +105,7 @@ Poponas iš Osternos buvo antras Prūsijos žemės magistras, pareigas ėjęs se
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -124,6 +126,7 @@ Poponas iš Osternos buvo antras Prūsijos žemės magistras, pareigas ėjęs se
   pagrindžia:
     - t-002
     - t-007
+
 - c-004
   santrauka: 'Magistras Poponas pavedė Konradui Bremeriui nuplukdyti į Elbingą tris maisto prikrautus laivus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -143,6 +146,7 @@ Poponas iš Osternos buvo antras Prūsijos žemės magistras, pareigas ėjęs se
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Poponas iš Osternos buvo antras Prūsijos žemės magistras, pareigas ėjo septynerius metus ir 1241 m. jų atsisakė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -163,6 +167,7 @@ Poponas iš Osternos buvo antras Prūsijos žemės magistras, pareigas ėjęs se
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-006
   santrauka: '1244 m. magistras Poponas atvyko su keturiais broliais, o dar šeši broliai atvyko iš Markos, Meiseno ir Tiuringijos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

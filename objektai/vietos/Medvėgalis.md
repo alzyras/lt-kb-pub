@@ -112,6 +112,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -135,6 +136,7 @@ amziai:
   pagrindžia:
     - t-004
     - t-006
+
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -161,6 +163,7 @@ amziai:
   pagrindžia:
     - t-002
     - t-007
+
 - c-004
   santrauka: 'Medvėgalio pilis stovėjo centrinėje Žemaitijoje, į šiaurės vakarus nuo Kaltinėnų, Medvėgalio kalno papėdėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -176,6 +179,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Grafas iš Bergo prie Medvėgalio pilies daug karių įšventino į riterius po Ordino brolių vėliava.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

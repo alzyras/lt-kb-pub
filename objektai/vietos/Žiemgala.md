@@ -123,6 +123,7 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
   pagrindžia:
     - t-005
     - t-003
+
 - c-002
   santrauka: 'Ordinas kaltintas Žiemgalos ir kitų kraštų vertimu dykynėmis, teigiant, kad tai daroma krikščionybei ginti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -154,6 +155,7 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
   pagrindžia:
     - t-002
     - t-004
+
 - c-003
   santrauka: '1259–1260 m. žiemą kryžiuočiai Žiemgaloje pastatė stiprią Dobės pilį, kurios sukilę žiemgaliai negalėjo įveikti.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -172,6 +174,7 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Žiemgalos dalis buvo patekusi į Ordino priešininko valdžią.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

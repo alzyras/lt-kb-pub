@@ -418,7 +418,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-002
+    - t-022
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lucko, Perejaslavlio kunigaikščiai, o Kijevo,
@@ -433,7 +434,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-003
+    - t-022
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tas pats aprašyta vė-
@@ -454,7 +456,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
-    - t-004- c-004
+    - t-004
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Apie jį kai kurių
@@ -470,7 +473,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-005
+    - t-006
+- c-005
   santrauka: 'Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -496,7 +500,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
-    - t-007- c-006
+    - t-007
+- c-006
   santrauka: 'Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -530,7 +535,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027- c-007
+    - t-027
+- c-007
   santrauka: 'Motiejus Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -561,7 +567,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
     - t-002
     - t-016
     - t-020
-    - t-001- c-008
+    - t-001
+- c-008
   santrauka: 'Motiejus Strijkovskis Dusburgiečio nuorašą panaudojo 1582 m. Karaliaučiuje išspausdintoje Kronikoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -576,7 +583,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-009
+    - t-005
+- c-009
   santrauka: 'Motiejus Strijkovskis 1582 m. Karaliaučiuje išleido „Kronika polska, litewska, żmodzka i wszystkiej Rusi“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -587,7 +595,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029- c-010
+    - t-029
+- c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gedimi­
@@ -607,7 +616,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
-    - t-013- c-011
+    - t-013
+- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dabartinis
@@ -645,7 +655,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
-    - t-019- c-012
+    - t-019
+- c-012
   santrauka: 'Motiejus Strijkovskis klydo teigdamas, kad miškas lietuviškai vadinamas lauku ir iš šio žodžio kilo Lukiškių pavadinimas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -677,7 +688,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
     - t-018
     - t-014
     - t-021
-    - t-008- c-013
+    - t-008
+- c-013
   santrauka: 'Motiejaus Strijkovskio „Kronika polska, litewska, żmódzka i wszystkiej Rusi“ 1846 m. išleista Varšuvoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -688,7 +700,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024- c-014
+    - t-024
+- c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šitaip Kryžiuočių ordino kruvina politika
@@ -722,7 +735,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-015
+    - t-011
+- c-015
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Trumpojoje Lietuvos
@@ -744,7 +758,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-016
+    - t-012
+- c-016
   santrauka: 'Narbutas rašo, kad Strijkovskis Viršaitį laikė namų, turto ir namų gyvulių globėju.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -761,7 +776,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-040- c-017
+    - t-040
+- c-017
   santrauka: 'Narbutas nurodo, kad Strijkovskis karo dievą vadino Chaurirari, bet šį vardą laikė galimu kronikos riktu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -778,7 +794,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-041- c-018
+    - t-041
+- c-018
   santrauka: 'Narbutas rašo, kad Strijkovskio vartotas vardas Pilwitos reiškia turto deivę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -789,7 +806,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-042- c-019
+    - t-042
+- c-019
   santrauka: 'Narbutas rašo, kad Strijkovskis patvirtino pasakojimą, jog žmonės Birutę dar gyvą ėmė garbinti kaip deivę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -805,7 +823,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-043- c-020
+    - t-043
+- c-020
   santrauka: 'Pasak Strijkovskio, senovėje kelių dievaičiui aukodavo baltas vištas ir prašydavo laimingos kelionės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -818,7 +837,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-044- c-021
+    - t-044
+- c-021
   santrauka: 'Narbutas rašo, kad Strijkovskis paukščių dievaitį vadino Swieczpunscynis, bet šį vardą laikė rašybos ar spaudos riktu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -831,7 +851,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-045- c-022
+    - t-045
+- c-022
   santrauka: 'Narbutas rašo, kad Strijkovskis ir kiti autoriai Markopolius trumpai mini kaip požemio dievaičius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -845,7 +866,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-046- c-023
+    - t-046
+- c-023
   santrauka: 'Narbutas rašo, kad Strijkovskis pursčius vadino pigmėjais, siedamas juos su panašiais romėnų mitologijos dievaičiais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -857,7 +879,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-047- c-024
+    - t-047
+- c-024
   santrauka: 'Narbutas rašo, kad Strijkovskis tikėjo barstukų pasirodymais ir rėmėsi Olafo, Agripos bei kitų autorių liudijimais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -879,7 +902,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-048- c-025
+    - t-048
+- c-025
   santrauka: 'Narbutas rašo, kad Strijkovskis Vilniuje prie Perkūno šventyklos mini atskiroje koplyčioje laikytus šliužus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -894,7 +918,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-049- c-026
+    - t-049
+- c-026
   santrauka: 'Narbutas vertina Strijkovskį kaip nekritiškai naudojusį jam žinomų kronikų ištraukas ir vietos padavimus apie Palemoną.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -911,7 +936,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-050- c-027
+    - t-050
+- c-027
   santrauka: 'Narbutas rašo, kad Strijkovskis senojoje Lietuvos istorijoje tarp lietuvių didikų mini Montvilos sūnų Nemuną.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -927,7 +953,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-051- c-028
+    - t-051
+- c-028
   santrauka: 'Narbutas rašo, kad Strijkovskis alyvą laikė svarbiausiu iš šventųjų medžių, siejamų su Pušaičiu ir barstukais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -938,7 +965,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-052- c-029
+    - t-052
+- c-029
   santrauka: 'Narbutas rašo, kad Strijkovskis mini Vilniaus Perkūno šventykloje buvusį didžiulį juodą akmenį, iš kurio buvo įskeliama ugnis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -954,7 +982,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-053- c-030
+    - t-053
+- c-030
   santrauka: 'Narbutas rašo, kad Strijkovskis mini ant kalno prie Deltuvos stovėjusį medinį, milžino išvaizdos Kukovaičio stabą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -966,7 +995,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-054- c-031
+    - t-054
+- c-031
   santrauka: 'Narbutas rašo, kad pagal Strijkovskio suskaičiuotus šešis šventyklos kampus šventąjį ąžuolą supo šešiakampis mūrinis aptvaras.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -979,7 +1009,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-055- c-032
+    - t-055
+- c-032
   santrauka: 'Narbutas, remdamasis Strijkovskiu, rašo, kad Vilniaus Antakalnyje buvusi stogu dengta šventykla visiems dievams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -993,7 +1024,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-033- c-033
+    - t-033
+- c-033
   santrauka: 'Narbutas rašo, kad Strijkovskis Lietuvos stabmeldystės istorijoje nuolat mini vyriausiojo žynio pareigas, o paskutiniu laiko Lizdeiką.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1007,7 +1039,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034- c-034
+    - t-034
+- c-034
   santrauka: 'Strijkovskis, įsitikinęs, kad lietuviai atlikdavo išpa žintį, rašo apie tai 147 puslapyje, remdamasis senųjų kroniki ninkų pranešimais ir savo paties duomenimis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1022,7 +1055,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-035- c-035
+    - t-035
+- c-035
   santrauka: 'Narbutas rašo, kad Strijkovskis pats matė nykstančią šventę ir pateikė senovinių apeigų vaizdą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1036,7 +1070,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-036- c-036
+    - t-036
+- c-036
   santrauka: 'Narbutas rašo, kad Strijkovskis rugsėjo šventę Žemininko garbei vadino žymiausia metine švente.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1058,7 +1093,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-037- c-037
+    - t-037
+- c-037
   santrauka: 'Narbutas rašo, kad Strijkovskis sakėsi buvęs liaudyje išlikusių aukojimų liudytojas, bet neminėjo gyvulių dalių deginimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1075,7 +1111,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-038- c-038
+    - t-038
+- c-038
   santrauka: 'Narbutas rašo, kad Strijkovskis Ilgių šventę laikė visai neseniai pradėta žemaičių švente.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1094,7 +1131,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-039- c-039
+    - t-039
+- c-039
   santrauka: 'Narbutas rašo, kad Strijkovskio teigimu kai kurios lietuvių giminės turėjo tikrus herbus: Hipokentaurą, Stulpus, Rožę ir Vytį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1114,7 +1152,8 @@ Motiejus Strijkovskis pristatomas kaip kronikininkas ir Lietuvos istorikas, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-056- c-040
+    - t-056
+- c-040
   santrauka: 'Narbutas rašo, kad Strijkovskis apie aukštas lietuvių pareigas pateikė daugiau žinių nei Prūsijos ir Livonijos kronikininkai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

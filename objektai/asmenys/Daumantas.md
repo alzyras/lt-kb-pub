@@ -158,6 +158,7 @@ Daumantas pristatomas kaip Nalšėnų kunigaikštis, Mindaugo švogeris ir Treni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -172,6 +173,7 @@ Daumantas pristatomas kaip Nalšėnų kunigaikštis, Mindaugo švogeris ir Treni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -185,6 +187,7 @@ Daumantas pristatomas kaip Nalšėnų kunigaikštis, Mindaugo švogeris ir Treni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   santrauka: 'Daumantas, spėjama, dalyvavo Mindaugo nužudyme, vėliau valdė Pskovą ir buvo Dovydo tėvas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -201,6 +204,7 @@ Daumantas pristatomas kaip Nalšėnų kunigaikštis, Mindaugo švogeris ir Treni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -221,6 +225,7 @@ Daumantas pristatomas kaip Nalšėnų kunigaikštis, Mindaugo švogeris ir Treni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -245,6 +250,7 @@ Daumantas pristatomas kaip Nalšėnų kunigaikštis, Mindaugo švogeris ir Treni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-007
   santrauka: 'Daumantas buvo Nalšios kunigaikštis, kurio žmona, karalienės sesuo, atvyko į Mindaugo žmonos šermenis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -269,6 +275,7 @@ Daumantas pristatomas kaip Nalšėnų kunigaikštis, Mindaugo švogeris ir Treni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-008
   santrauka: 'Po Mindaugo padarytos skriaudos Daumantas slėpė keršto troškimą ir slapta tardavosi su Treniota.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -306,6 +313,7 @@ Daumantas pristatomas kaip Nalšėnų kunigaikštis, Mindaugo švogeris ir Treni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   santrauka: 'Mindaugui įsakius žygiuoti prieš Briansko kunigaikštį, Daumantas paragino Treniotą pasinaudoti kariuomene.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -328,6 +336,7 @@ Daumantas pristatomas kaip Nalšėnų kunigaikštis, Mindaugo švogeris ir Treni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-010
   santrauka: 'Daumantui buvo duota Utenos kunigaikštystė, o kai kurie šaltiniai jam priskyrė Svyrių pilies įkūrimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -352,6 +361,7 @@ Daumantas pristatomas kaip Nalšėnų kunigaikštis, Mindaugo švogeris ir Treni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-011
   santrauka: 'Po žmonos laidotuvių Daumantas prievarta pasiliko Narimanto žmoną, norėdamas ja pakeisti mirusiąją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -382,6 +392,7 @@ Daumantas pristatomas kaip Nalšėnų kunigaikštis, Mindaugo švogeris ir Treni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-012
   santrauka: '1441 m. žemaičiai, pašalinę Kęsgailos paliktus pareigūnus, išsirinko Daumantą kunigaikščiu ir rėmė Mykolą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

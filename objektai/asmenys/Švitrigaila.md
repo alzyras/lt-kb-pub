@@ -785,6 +785,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -799,6 +800,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -814,6 +816,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -849,6 +852,7 @@ periodo_grupes:
   pagrindžia:
     - t-038
     - t-043
+
 - c-005
   santrauka: 'Švitrigailos sąjungos didino pasitikėjimą ir išplėtė prekybą iki atokiausių Vokietijos žemių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -865,6 +869,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-039
+
 - c-006
   santrauka: 'Švitrigaila kartu su Jogaila, Vytautu, Jogailos broliais ir daugeliu lietuvių didikų priėmė katalikų tikėjimą Krokuvoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -884,6 +889,7 @@ periodo_grupes:
   pagrindžia:
     - t-015
     - t-001
+
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -906,6 +912,7 @@ periodo_grupes:
   pagrindžia:
     - t-030
     - t-009
+
 - c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -920,6 +927,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -938,6 +946,7 @@ periodo_grupes:
   pagrindžia:
     - t-018
     - t-041
+
 - c-010
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -951,6 +960,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
+
 - c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -973,6 +983,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
 - c-012
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -990,6 +1001,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-035
+
 - c-013
   santrauka: 'Švitrigaila, nusigavęs į Polocką, ten įkūrė atramos vietą, iš kurios beveik šešerius metus plito vaidai, puldinėjimai ir pilietinis karas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1022,6 +1034,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-044
+
 - c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1041,6 +1054,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
+
 - c-015
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1060,6 +1074,7 @@ periodo_grupes:
   pagrindžia:
     - t-022
     - t-012
+
 - c-016
   santrauka: 'Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1090,6 +1105,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-037
+
 - c-017
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1107,6 +1123,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-018
   santrauka: 'Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1164,6 +1181,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-019
   santrauka: 'Švitrigailos valdymo metais Vilniaus monetų kalykla kaldino lietuviškus grašius ir pusgrašius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1185,6 +1203,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-040
+
 - c-020
   santrauka: 'Po sėkmingo žygio Švitrigaila sudarė ilgalaikes paliaubas su karaliumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1208,6 +1227,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-021
   santrauka: 'Didysis magistras apstatė Švitrigailą savo parankiniais, siekdamas silpninti Lietuvos ir Lenkijos vienybę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1228,6 +1248,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-022
   santrauka: 'Švitrigailos sąjungos didino pasitikėjimą ir išplėtė prekybą iki atokiausių Vokietijos žemių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1246,6 +1267,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-023
   santrauka: '1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1269,6 +1291,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-024
   santrauka: 'Švitrigaila su sūnėnu Maskvos kunigaikščiu Jurgiu išvengė sutriuškinimo po nesėkmės ties Ukmerge.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1288,6 +1311,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-025
   santrauka: 'Švitrigaila buvo vienas iš penkių Julijonos sūnų, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1309,6 +1333,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-034
+
 - c-026
   santrauka: 'Lenkijos valdantieji sluoksniai Švitrigailai siūlė Lenkijos vainiką arba Lietuvos valdymą susiejus ją su Lenkija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -1327,6 +1352,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
+
 - c-027
   santrauka: 'Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1355,6 +1381,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-028
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1370,6 +1397,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-029
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1390,6 +1418,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-042
+
 - c-030
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1418,6 +1447,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-031
   santrauka: 'Švitrigailai buvo pavesta valdyti Podoliją, o šaltinyje jis vadinamas pavojingiausiu Vytauto priešininku.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1438,6 +1468,7 @@ periodo_grupes:
   pagrindžia:
     - t-020
     - t-036
+
 - c-032
   santrauka: 'Švitrigaila vėl pabėgo iš Lietuvos į Maskvą, vėliau pas totorius ir galiausiai pas Ordiną.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1452,6 +1483,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-033
   santrauka: 'Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu išvyko pas magistrą į Marienburgą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1487,6 +1519,7 @@ periodo_grupes:
   pagrindžia:
     - t-028
     - t-033
+
 - c-034
   santrauka: 'Po dvylikos metų paliaubų tarp karaliaus ir didžiojo magistro Švitrigailos jėgos Lietuvoje apsilpo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1511,6 +1544,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-035
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1525,6 +1559,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-036
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1544,6 +1579,7 @@ periodo_grupes:
   pagrindžia:
     - t-006
     - t-004
+
 - c-037
   santrauka: '1432 m. gruodžio 8 d. Ašmenos mūšyje Švitrigailos jėgos buvo išsklaidytos, o Švitrigaila pabėgo į Polocką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -1562,6 +1598,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-045
+
 - c-038
   santrauka: 'Boleslovą Švitrigailą kamavo neišsipildžiusios viltys, nes po Skirgailos jis turėjo teisę pirmas paveldėti valdžią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1584,6 +1621,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-046
+
 - c-039
   santrauka: 'Konradui du mėnesius nesėkmingai puolus Vilnių, Švitrigaila nutarė miesto puolime griebtis apgaulės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1614,6 +1652,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-047
+
 - c-040
   santrauka: 'Švitrigaila nuolat kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1636,6 +1675,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-048
+
 - c-041
   santrauka: 'Švitrigaila matė, kad karai ir plėšikiški antpuoliai naudingi tik kryžiuočiams, o jis pats lieka nuskurdęs tremtinys.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1662,6 +1702,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-049
+
 - c-042
   santrauka: 'Ištrūkęs į laisvę Švitrigaila pabėgo pas imperatorių Zigmantą, o vėliau susitaikė su Vytautu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

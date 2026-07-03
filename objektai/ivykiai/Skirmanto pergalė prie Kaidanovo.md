@@ -81,6 +81,7 @@ Nenurodyta
   pagrindžia:
     - t-004
     - t-001
+
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |

@@ -157,6 +157,7 @@ Alytus žinių bazėje iškyla kaip pietinės Lietuvos vieta, siejama su mezolit
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Mezolito įrankių gausiai aptikta paežerėse nuo Lydos iki Alytaus, taip pat palei Nemuną, Nerį, Merkį, Ūlą ir Katrą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -176,6 +177,7 @@ Alytus žinių bazėje iškyla kaip pietinės Lietuvos vieta, siejama su mezolit
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -231,6 +233,7 @@ Alytus žinių bazėje iškyla kaip pietinės Lietuvos vieta, siejama su mezolit
   pagrindžia:
     - t-007
     - t-004
+
 - c-004
   santrauka: 'Slaptas sandėris buvo sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli nuo Alytaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -257,6 +260,7 @@ Alytus žinių bazėje iškyla kaip pietinės Lietuvos vieta, siejama su mezolit
   pagrindžia:
     - t-005
     - t-006
+
 - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -275,6 +279,7 @@ Alytus žinių bazėje iškyla kaip pietinės Lietuvos vieta, siejama su mezolit
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-006
   santrauka: 'Alytaus, Plungės ir Utenos gamyklose 50–70 proc. darbininkų buvo to paties miesto ar rajono gyventojai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -292,6 +297,7 @@ Alytus žinių bazėje iškyla kaip pietinės Lietuvos vieta, siejama su mezolit
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-007
   santrauka: 'Vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -314,6 +320,7 @@ Alytus žinių bazėje iškyla kaip pietinės Lietuvos vieta, siejama su mezolit
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-008
   santrauka: 'Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad iš pietų pultų Kauną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

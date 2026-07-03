@@ -65,6 +65,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Prūsai, išsirinkę vadus, atsimetė nuo krikščionybės, prieš šv. Motiejaus dieną griovė bažnyčias ir žiauriai kankino pagautus kunigus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

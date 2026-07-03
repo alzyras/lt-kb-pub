@@ -72,6 +72,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Raštas buvo tvirtinamas antspaudu, o jo tikrumu netikintys asmenys laiškuose skelbti tiesos nedraugais ir tikėjimo priešais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -74,6 +74,7 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: '1326 m. Petras iš Dusburgo užbaigė „Prūsijos žemės kroniką“ ir įteikė ją magistrui Verneriui iš Orzelno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

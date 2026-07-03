@@ -63,6 +63,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Burgundijos šauliai taikliais šūviais ir narsa atrėmė puolimą, nors patys patyrė didelių nuostolių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

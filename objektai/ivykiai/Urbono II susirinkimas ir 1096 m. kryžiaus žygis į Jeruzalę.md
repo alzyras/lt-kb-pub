@@ -91,6 +91,7 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-003
+
 - c-002
   santrauka: 'Petras su Jeruzalės patriarcho Simeono ir kitų tikinčiųjų laiškais nuvyko pas popiežių Urboną II, kuris jį maloniai priėmė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

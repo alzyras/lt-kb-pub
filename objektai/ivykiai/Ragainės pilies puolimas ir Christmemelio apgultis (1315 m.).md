@@ -66,6 +66,7 @@ Ragainė ir Christmemelis išliko nepaimti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -80,12 +81,4 @@ Ragainė ir Christmemelis išliko nepaimti.
   statusas: verified
 
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai## Ryšiai
-
-### Susiję objektai
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/asmenys/Traidenis]]
-- [[objektai/asmenys/Vytenis]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+  patikimumo_saltinis: ai

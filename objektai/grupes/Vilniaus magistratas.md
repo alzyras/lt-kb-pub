@@ -193,6 +193,7 @@ Vilniaus magistratas buvo miesto savivaldos institucija, susijusi su Magdeburgo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-002
   santrauka: 'Vilniaus magistratas gavo teisę siųsti du arba tris patarėjus į didžiuosius seimus Karalystėje ar Lietuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -211,6 +212,7 @@ Vilniaus magistratas buvo miesto savivaldos institucija, susijusi su Magdeburgo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-003
   santrauka: 'Vilniaus tarėjams buvo nurodyta su ponais tartis dėl duonos dydžio, svorio ir kitų miesto tvarkos dalykų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -244,6 +246,7 @@ Vilniaus magistratas buvo miesto savivaldos institucija, susijusi su Magdeburgo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Vilniaus burmistrai, tarybos nariai ir miestiečiai skundė vaitą dėl Magdeburgo teisės nesilaikymo ir privilegijų pažeidimų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -266,6 +269,7 @@ Vilniaus magistratas buvo miesto savivaldos institucija, susijusi su Magdeburgo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-005
   santrauka: '1545 m. gegužės 4 d. įsakymu Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -282,6 +286,7 @@ Vilniaus magistratas buvo miesto savivaldos institucija, susijusi su Magdeburgo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'Vilniaus magistratas viešai iš didžiojo kunigaikščio rankų priėmė Magdeburgo teisių atnaujinimo ir patvirtinimo privilegijas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -325,6 +330,7 @@ Vilniaus magistratas buvo miesto savivaldos institucija, susijusi su Magdeburgo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-007
   santrauka: 'Vilniaus magistratas per savo valdytojus disponavo mūriniais namais, kurių pajamos buvo skirtos koplyčios poreikiams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -349,6 +355,7 @@ Vilniaus magistratas buvo miesto savivaldos institucija, susijusi su Magdeburgo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-008
   santrauka: 'Vilniaus kapitula teigė, kad bausti bažnyčios valdinius priklauso jai, o ne Vilniaus miestui ar tarėjams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -398,6 +405,7 @@ Vilniaus magistratas buvo miesto savivaldos institucija, susijusi su Magdeburgo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-009
   santrauka: '1536 m. nauji Vilniaus miesto įstatymai patvirtino, kad Vilniaus magistrato paskirtis buvo valdyti miestą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -418,6 +426,7 @@ Vilniaus magistratas buvo miesto savivaldos institucija, susijusi su Magdeburgo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-010
   santrauka: '1667 m. balandžio 4 d. Vilniaus magistratas stojo į teismą su Šv. Jono bažnyčia dėl ankstesnių potvarkių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -437,6 +446,7 @@ Vilniaus magistratas buvo miesto savivaldos institucija, susijusi su Magdeburgo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-011
   santrauka: 'Karaliaus Žygimanto 1522 m. įsakymu miesto sargyba ir policija buvo sugrąžinta Vilniaus magistratui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -457,6 +467,7 @@ Vilniaus magistratas buvo miesto savivaldos institucija, susijusi su Magdeburgo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-012
   santrauka: 'Gardino seimo privilegija leido nepriekaištingai Vilniaus magistrate tarnavusiems miestiečiams su palikuonimis pereiti į bajorų luomą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -484,6 +495,7 @@ Vilniaus magistratas buvo miesto savivaldos institucija, susijusi su Magdeburgo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-013
   santrauka: '1524 m. karalius priekaištavo Vilniaus magistratui dėl nesutarimų su bendruomene ir nubaudė jį šimto kapų grašių bauda.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -503,6 +515,7 @@ Vilniaus magistratas buvo miesto savivaldos institucija, susijusi su Magdeburgo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-014
   santrauka: 'Karaliaus įsakymas skelbė, kad Vilniaus vaito, advokato ar tarėjų draudimai naudotis vyskupo mėsinėmis turguje negalioja.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -528,6 +541,7 @@ Vilniaus magistratas buvo miesto savivaldos institucija, susijusi su Magdeburgo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-015
   santrauka: '1786 m. rugpjūčio 19 d. iš Vilniaus magistrato ir miesto knygos buvo išduota privilegijos ištrauka ribų komisijos teismui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -547,6 +561,7 @@ Vilniaus magistratas buvo miesto savivaldos institucija, susijusi su Magdeburgo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-016
   santrauka: '1632 m. Vilniaus gyventojas Parulis įkeitė mūrinį namą Vilniaus magistratui ir nurodė palūkanas mokėti Švč. Trejybės špitolei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -561,6 +576,7 @@ Vilniaus magistratas buvo miesto savivaldos institucija, susijusi su Magdeburgo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-017
   santrauka: 'Žygimanto Augusto privilegija nuo nakvynės ir apsistojimo prievolės atleido Vilniaus magistrato raštininkų namus ir butus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

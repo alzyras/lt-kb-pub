@@ -77,7 +77,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas aiškino, kad lietuviai katiną naudojo kaip laisvės deivės simbolį, siekdami išsivaduoti iš laisvių suvaržymo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

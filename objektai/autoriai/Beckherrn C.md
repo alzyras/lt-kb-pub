@@ -47,6 +47,7 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'C. Beckherrnas nagrinėjo pilaitę prie įėjimo į Notangą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

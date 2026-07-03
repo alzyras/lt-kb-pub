@@ -64,6 +64,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1632 m. sausio 2 d. Akademijos rektorius Pilypas Frizijus nupirko mūrinį namą ir Valerijono bursai mokėjo 400 auksinų činšo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

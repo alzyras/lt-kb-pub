@@ -83,6 +83,7 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -59,6 +59,7 @@ Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lietuvoje susiformavo originali luominės monarchinės santvarkos atmaina – Bajorų respublika arba net anarchija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

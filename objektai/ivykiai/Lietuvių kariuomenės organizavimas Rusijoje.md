@@ -65,7 +65,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Lietuvių karininkams pavyko suorganizuoti kelis lietuviškus batalionus Vitebske, Smolenske, Rovnoje, Sibire ir kitur.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

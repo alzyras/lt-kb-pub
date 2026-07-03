@@ -84,6 +84,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: '1543 m. privilegija leido Vilniaus vyskupui Povilui bažnyčios teritorijoje įrengti tiek mėsinių, kiek jis anksčiau turėjo Vilniaus turguje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

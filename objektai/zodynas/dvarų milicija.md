@@ -46,6 +46,7 @@ Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Sapiegų priešininkai atsivedė samdytos kariuomenės, vadintos savo dvarų milicija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

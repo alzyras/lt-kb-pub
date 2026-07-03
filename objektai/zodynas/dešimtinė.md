@@ -62,6 +62,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Ordino santykiuose su lenkų vyskupais kilo ginčų dėl dešimtinės ir šv. Petro skatiko rinkliavų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -68,6 +68,7 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Po Glinskio puolimo prieš Minską karalius pasiuntė į miestą penkis tūkstančius algininkų, didikų kariaunas ir karališkąsias vėliavas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -92,6 +93,7 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Prieš mūšį algininkai įsitvirtino rikiuotės priekyje, kai Konstantinas stojo dešiniajame, o Mikalojus Kameneckis kairiajame sparne.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -112,6 +114,7 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Aleksandras Slucko kunigaikščiui Simonui Mykolaičiui į pagalbą išsiuntė dvarionis ir nemaža vengrų algininkų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

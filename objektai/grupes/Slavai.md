@@ -419,7 +419,8 @@ Slavai šiame įraše aprašomi kaip viena indoeuropiečių tautų grupių, mini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ix a.
@@ -435,7 +436,8 @@ Slavai šiame įraše aprašomi kaip viena indoeuropiečių tautų grupių, mini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-003
+    - t-004
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Manoma, kad jei
@@ -453,7 +455,8 @@ Slavai šiame įraše aprašomi kaip viena indoeuropiečių tautų grupių, mini
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-    - t-005- c-004
+    - t-005
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     I tūkstantmetyje po Kr. baltų genčių apgyvendintas
@@ -466,7 +469,8 @@ Slavai šiame įraše aprašomi kaip viena indoeuropiečių tautų grupių, mini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-005
+    - t-003
+- c-005
   santrauka: 'Karolio Didžiojo agentai, pasiekę slavus, sužinojo, kad už slavų gyvena lietuviai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -480,7 +484,8 @@ Slavai šiame įraše aprašomi kaip viena indoeuropiečių tautų grupių, mini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-006
+    - t-006
+- c-006
   santrauka: 'Narbutas aiškino, kad slavai rusinai Perūno kultą iškilmingai perėmė tik po Vladimiro Didžiojo ir Sveneldo veiksmų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -497,7 +502,8 @@ Slavai šiame įraše aprašomi kaip viena indoeuropiečių tautų grupių, mini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-007
+    - t-007
+- c-007
   santrauka: 'Narbutas nurodė, kad Bandkė slavų Gurovidą siejo su lietuvių Gurku, bet pats tokį tapatinimą laikė klaida.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -513,7 +519,8 @@ Slavai šiame įraše aprašomi kaip viena indoeuropiečių tautų grupių, mini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-008
+    - t-008
+- c-008
   santrauka: 'Narbutas rašė, kad slavai tą pačią dievybę vadino Kolita, Dažba, Dachuba, Daszuba, Dazboh ir Dajebog vardais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -530,7 +537,8 @@ Slavai šiame įraše aprašomi kaip viena indoeuropiečių tautų grupių, mini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-009
+    - t-009
+- c-009
   santrauka: 'Narbutas slavų Sievą ir lietuvių Pergrubę lygino su antikine Flora, remdamasis slavų kronikose išlikusiu stabo atvaizdu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -545,7 +553,8 @@ Slavai šiame įraše aprašomi kaip viena indoeuropiečių tautų grupių, mini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-010
+    - t-010
+- c-010
   santrauka: 'Narbutas aiškino, kad užrašas „Nijota“ sieja slavų Cererą arba lietuvių Krūminę su požemine deive Prozerpina.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -560,7 +569,8 @@ Slavai šiame įraše aprašomi kaip viena indoeuropiečių tautų grupių, mini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-011
+    - t-011
+- c-011
   santrauka: 'Narbutas rašė, kad šiaurės slavai nimfas vadino rusalkomis dėl rusvų arba šviesiai pilkų plaukų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -574,7 +584,8 @@ Slavai šiame įraše aprašomi kaip viena indoeuropiečių tautų grupių, mini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-012
+    - t-012
+- c-012
   santrauka: 'Narbutas pagal Prilvico stabo piešinį sprendė, kad slavai vaizdavosi milžiną, ant pečių nešantį mažesnį žmogų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -587,7 +598,8 @@ Slavai šiame įraše aprašomi kaip viena indoeuropiečių tautų grupių, mini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-013
+    - t-013
+- c-013
   santrauka: 'Narbutas nurodė Naruševičiaus nuomonę, kad slavai žinojo panašią amžinąją ugnį, vadintą Zwicz.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -605,7 +617,8 @@ Slavai šiame įraše aprašomi kaip viena indoeuropiečių tautų grupių, mini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-014
+    - t-014
+- c-014
   santrauka: 'Narbutas vardus Nar, Nėr, Nor ir Nur aiškino kaip pirmykštės lietuvių kalbos, bendros su slavų kalba, vandens reikšmes.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -626,7 +639,8 @@ Slavai šiame įraše aprašomi kaip viena indoeuropiečių tautų grupių, mini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-015
+    - t-015
+- c-015
   santrauka: 'Narbutas rašė, kad slavai uosį skyrė Jupiteriui, vadintam Jesse.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -643,7 +657,8 @@ Slavai šiame įraše aprašomi kaip viena indoeuropiečių tautų grupių, mini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-016
+    - t-016
+- c-016
   santrauka: 'Narbutas pakirptuvių paprotį laikė bendru lietuviams ir slavams ir ketino aprašyti jo eigą savo apylinkėje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -659,7 +674,8 @@ Slavai šiame įraše aprašomi kaip viena indoeuropiečių tautų grupių, mini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-017
+    - t-017
+- c-017
   santrauka: 'Narbutas teigė, kad pakirptuvių, rusiškai Zastryžyny, apeigos buvo įprastos slavų kiltims ir bendros daugeliui Europos tautų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -679,7 +695,8 @@ Slavai šiame įraše aprašomi kaip viena indoeuropiečių tautų grupių, mini
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-018
+    - t-018
+- c-018
   santrauka: 'Narbutas vertino slavų vestuvių papročius kaip linkusius į svaigalus, nepadorias dainas ir kraštutinumus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

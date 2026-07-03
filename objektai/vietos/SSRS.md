@@ -531,6 +531,7 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -551,6 +552,7 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -570,6 +572,7 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -586,6 +589,7 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-005
   santrauka: 'Lietuvos aukštosios mokyklos buvo pertvarkytos pagal SSRS aukštųjų mokyklų sistemą, o jose dėstytas privalomas marksizmo-leninizmo kursas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -606,6 +610,7 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-006
   santrauka: 'Pusė per pirmuosius sovietų okupacijos metus suimtų politiniais nusikaltimais apkaltintų asmenų 1941 m. išvežti į SSRS gilumą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -620,6 +625,7 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-007
   santrauka: 'Pavertus Lietuvą SSRS dalimi, jos valdymo sistema buvo pertvarkyta pagal Sovietų Sąjungos modelį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -639,6 +645,7 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -657,6 +664,7 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-009
   santrauka: 'Įsileidusi SSRS karines bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -674,6 +682,7 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-010
   santrauka: '1939 m. rugsėjo 28 d. slaptojo protokolo pagrindu Lietuvos teritorija pateko į SSRS įtakos sferą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -693,6 +702,7 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-011
   santrauka: 'Baltijos valstybėse galimybė atsidurti SSRS valdžioje buvo klaidingai suvokta kaip laikinas grįžimas į Nikolajaus II Rusiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -718,6 +728,7 @@ SSRS Lietuvos istorijoje siejama su 1939 m. rugsėjo 28 d. slaptuoju protokolu, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-012
   santrauka: 'Lietuvos aukštosios mokyklos buvo pertvarkytos pagal SSRS aukštųjų mokyklų sistemą, o jose dėstytas privalomas marksizmo-leninizmo kursas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

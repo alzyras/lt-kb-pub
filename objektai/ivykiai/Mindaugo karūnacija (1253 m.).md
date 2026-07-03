@@ -125,6 +125,7 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -140,6 +141,7 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
   pagrindžia:
     - t-002
     - t-003
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -179,6 +181,7 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
     - t-004
     - t-005
     - t-006
+
 - c-004
   santrauka: 'A. Varnas 1952–1953 m. sukūrė darbą „Mindaugo vainikavimas. Mindaugo karūnacija“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -192,6 +195,7 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 ## Data ir vieta
 
 - 1253 m. liepos 6 d.

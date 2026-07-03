@@ -127,7 +127,8 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   pagrindžia:
     - t-001
     - t-002
-    - t-005- c-002
+    - t-005
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šubravcų draugijos kodekse suformuluotos narių elgesio
@@ -144,7 +145,8 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-003
+    - t-003
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Draugijos narių leidžiamas
@@ -159,7 +161,8 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-004
+    - t-004
+- c-004
   santrauka: 'Šubravcų tradicijų tęsėju sumanytame leidinyje „Wizerunki i Roztrząsania Naukowe“ rašė buvę Vilniaus universiteto profesoriai, mokslininkai ir literatai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

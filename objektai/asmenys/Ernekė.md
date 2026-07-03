@@ -58,6 +58,7 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su bendrais užpuolė laivą ir išžudė jo įgulą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

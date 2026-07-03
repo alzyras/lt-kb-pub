@@ -53,6 +53,7 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
   pagrindžia:
     - t-002
     - t-004
+
 - c-002
   santrauka: 'Romovė, arba Romuva, Dusburgiečio duomenimis buvo prūsų, lietuvių ir kitų baltų religinio kulto centras.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -65,6 +66,7 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Aprašyta Romovė resp. Romuva — autentiškas faktas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

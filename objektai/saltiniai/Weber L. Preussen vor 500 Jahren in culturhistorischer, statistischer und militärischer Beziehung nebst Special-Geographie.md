@@ -67,6 +67,7 @@ Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'L. Weberio „Preussen vor 500 Jahren“ išleistas Dancige 1878 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

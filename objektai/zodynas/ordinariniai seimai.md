@@ -61,6 +61,7 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Po seimo ginčytinus mokesčių klausimus turėdavo spręsti reliaciniai seimeliai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -79,6 +80,7 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Ordinariniai seimai turėjo rinktis kas dveji metai, o jų darbas trukdavo šešias savaites.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -93,6 +95,7 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   pagrindžia:
     - t-003
     - t-002
+
 - c-004
   santrauka: 'Ordinariniai seimai paprastai dirbdavo šešias savaites, tačiau seimui sutikus jų laikas galėjo būti pratęstas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

@@ -56,6 +56,7 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Rėda citatoje siejama su tautos tvarka, kuri, pasak Daukanto, kilo nuo kunigų kaip Dievo ir pasaulio tarpininkų.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean

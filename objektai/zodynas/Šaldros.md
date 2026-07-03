@@ -51,6 +51,7 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   santrauka: 'Šaldros buvo į kraštą atklydę prašalaičiai, mėginę įbrukti savo nuomonę apie dievą ir įkurti naują tikybą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean

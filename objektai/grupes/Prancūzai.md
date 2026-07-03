@@ -242,6 +242,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Prancūzai, vadovaujami Boucicaut''o, per kautynes pridarė nemažai žalos apgultiesiems.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -267,6 +268,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -289,6 +291,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Prancūzai priėmė lenkų kvietimą į dvikovą ir kautynių vieta pasirinko Prahą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -308,6 +311,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-005
   santrauka: '1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

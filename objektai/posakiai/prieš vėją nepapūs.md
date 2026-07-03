@@ -62,6 +62,7 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Lenkai nedrįso pasipriešinti Vytautui, nes suprato, kad „prieš vėją nepapūs“, o Vytautas buvo per galingas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

@@ -60,6 +60,7 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Lietuvių kalbos žodyne krivūlė aiškinama kaip kreiva lazda, buvusi krivio valdžios ženklu ir žmonių šaukimo į kuopą priemone.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -73,6 +74,7 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Kazimiero Būgos 1902 m. pradėtas „Lietuvių kalbos žodynas“ baigtas 2001 m.; išleista 20 tomų su apie puse milijono žodžių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

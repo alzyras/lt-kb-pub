@@ -107,6 +107,7 @@ Vladislovas Jogailaitis šaltiniuose minimas 1435 m. Lietuvos ir Lenkijos politi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -143,6 +144,7 @@ Vladislovas Jogailaitis šaltiniuose minimas 1435 m. Lietuvos ir Lenkijos politi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: '1435 m. gruodžio 31 d. Vladislovas Jogailaitis su Žygimantu Kęstutaičiu ir Ordino magistru Rusdorfu sudarė Bresto taiką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -164,6 +166,7 @@ Vladislovas Jogailaitis šaltiniuose minimas 1435 m. Lietuvos ir Lenkijos politi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -203,6 +206,7 @@ Vladislovas Jogailaitis šaltiniuose minimas 1435 m. Lietuvos ir Lenkijos politi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Vengrijos seime daugelis rėmė Jono brolį Vladislovą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -231,6 +235,7 @@ Vladislovas Jogailaitis šaltiniuose minimas 1435 m. Lietuvos ir Lenkijos politi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'Po pergalės Vladislovas Jogailaitis pasiūlė broliui Jonui tartis dėl santarvės sudarymo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -249,6 +254,7 @@ Vladislovas Jogailaitis šaltiniuose minimas 1435 m. Lietuvos ir Lenkijos politi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   santrauka: 'Vladislovo pastangomis lenkai, vengrai, čekai, lietuviai ir valachai sudarė tarpusavio gynybos sutartis prieš karą su turkais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -268,6 +274,7 @@ Vladislovas Jogailaitis šaltiniuose minimas 1435 m. Lietuvos ir Lenkijos politi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-008
   santrauka: 'Karalius Vladislovas atkakliai ragino valdovą nusileisti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -289,6 +296,7 @@ Vladislovas Jogailaitis šaltiniuose minimas 1435 m. Lietuvos ir Lenkijos politi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   santrauka: 'Į valdovų susitikimą karalius Vladislovas ir jo duktė Ona atvažiavo važiuoti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

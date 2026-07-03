@@ -111,6 +111,7 @@ Karalienė Bona šaltiniuose minima kaip Žygimanto Senojo aplinkos asmenybė, g
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Karalienė Bona pritarė Žygimanto Senojo 1536 m. rugsėjo 9 d. įsakymui paskelbti naujus Vilniaus miesto įstatymus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -128,6 +129,7 @@ Karalienė Bona šaltiniuose minima kaip Žygimanto Senojo aplinkos asmenybė, g
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Karalienė Bona ir Vladislovas IV gausiai apdovanojo Veliuonos bažnyčią turtais, todėl jos klebonija tapo reikšmingiausia Žemaitijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -147,6 +149,7 @@ Karalienė Bona šaltiniuose minima kaip Žygimanto Senojo aplinkos asmenybė, g
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Karalienė Bona paprastai gyvendavo viename iš dviejų mažesnių namų prie Merkio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

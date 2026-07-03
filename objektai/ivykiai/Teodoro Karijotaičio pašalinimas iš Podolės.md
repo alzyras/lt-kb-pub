@@ -78,6 +78,7 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-002
+
 - c-002
   santrauka: 'Redakcinė pastaba Teodoro Karijotaičio pašalinimą iš Podolės 1393 m. sieja su Vytautu ir laiko valstybės centralizavimo aktu.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

@@ -61,6 +61,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   pagrindžia:
     - t-004
     - t-001
+
 - c-002
   santrauka: 'Vytautas neketino atsisakyti karūnos ir buvo pasirengęs atvirai kovai su lenkais, tačiau jo karūnacijos pastangas nutraukė mirtis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -77,6 +78,7 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Imperatorius Zigmantas iškėlė sumanymą karūnuoti Vytautą Lietuvos karaliumi, o Jogaila šiam sumanymui pritarė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

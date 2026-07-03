@@ -12,17 +12,17 @@ date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - daiktas
 amziai:
   - 'XIV'
   - 'XXI'
-tags:
-  - daiktas
 ---
 # Brangieji metalai
 
 ## Santrauka
 
-XIII a. Lietuvos kunigaikščiai buvo sukaupę nemažus brangiųjų metalų kiekius. Vytautas, padedamas pirklių, sukaupė brangiųjų metalų - aukso ir sidabro - bei kitų brangenybių. Narbutas, remdamasis kronika, rašo, kad žyniams buvo patikima saugoti viešojo iždo, privačių asmenų ir brangiųjų metalų nuosavybė.
+XIII amžiuje Lietuvos kunigaikščiai buvo sukaupę nemažus brangiųjų metalų kiekius.
 
 ## Pavadinimai šaltiniuose
 
@@ -45,6 +45,14 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
+<a id="claim-t-64908"></a>
+- t-001
+  global_id: t-64908
+  teiginys: 'XIII a. Lietuvos kunigaikščiai buvo sukaupę nemažus brangiųjų metalų kiekius.'
+  pagrindžia:
+    - c-002
+
 <a id="claim-t-64909"></a>
 - t-002
   global_id: t-64909
@@ -53,6 +61,7 @@ Nenurodyta
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Vytautas, padedamas pirklių, sukaupė brangiųjų metalų - aukso ir sidabro - bei kitų brangenybių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -68,7 +77,9 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-002
+    - t-002
+
+- c-002
   santrauka: 'XIII a. Lietuvos kunigaikščiai buvo sukaupę nemažus brangiųjų metalų kiekius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -78,5 +89,7 @@ Nenurodyta
     mas buvo turtingas^5.
   citata_rodoma: ''
   statusas: verified
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-001

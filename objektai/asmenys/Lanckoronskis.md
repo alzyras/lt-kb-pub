@@ -53,6 +53,7 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš val
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Lanckoronskis buvo paliktas vyriausiuoju karvedžiu prieš laukiamą mūšį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

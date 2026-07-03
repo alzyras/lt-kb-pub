@@ -100,6 +100,7 @@ Albertas iš Meiseno Dusburgiečio pasakojime pristatomas kaip Karaliaučiaus pi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -114,6 +115,7 @@ Albertas iš Meiseno Dusburgiečio pasakojime pristatomas kaip Karaliaučiaus pi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -136,6 +138,7 @@ Albertas iš Meiseno Dusburgiečio pasakojime pristatomas kaip Karaliaučiaus pi
     - t-002
     - t-001
     - t-003
+
 - c-004
   santrauka: 'Dusburgiečio pasakojime Albertas iš Meiseno kasdien kalbėjo maldą, kol jį liovėsi kamavusios pagundos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -155,6 +158,7 @@ Albertas iš Meiseno Dusburgiečio pasakojime pristatomas kaip Karaliaučiaus pi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-005
   santrauka: 'Albertas iš Meiseno buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -173,6 +177,7 @@ Albertas iš Meiseno Dusburgiečio pasakojime pristatomas kaip Karaliaučiaus pi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-006
   santrauka: 'Albertas iš Meiseno buvo pilies komtūras, Dusburgiečio apibūdintas kaip Dievui atsidavęs ir pagirtinai gyvenęs vyras.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -186,6 +191,7 @@ Albertas iš Meiseno Dusburgiečio pasakojime pristatomas kaip Karaliaučiaus pi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   santrauka: 'Pelužis pranešė Karaliaučiaus komtūrui Albertui iš Meiseno apie sumanymą, o šis jį parėmė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

@@ -140,6 +140,7 @@ Josifas Stalinas Lietuvos istorijos kontekste siejamas su 1939 m. spalio Maskvos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -157,6 +158,7 @@ Josifas Stalinas Lietuvos istorijos kontekste siejamas su 1939 m. spalio Maskvos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-003
   santrauka: 'Po Josifo Stalino mirties 1953 m. SSRS ėmė silpnėti rusinimas, valdžia labiau pasitikėjo vietiniais lietuviais, o kaliniai ir tremtiniai buvo leidžiami į laisvę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -175,6 +177,7 @@ Josifas Stalinas Lietuvos istorijos kontekste siejamas su 1939 m. spalio Maskvos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -194,6 +197,7 @@ Josifas Stalinas Lietuvos istorijos kontekste siejamas su 1939 m. spalio Maskvos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -210,6 +214,7 @@ Josifas Stalinas Lietuvos istorijos kontekste siejamas su 1939 m. spalio Maskvos
   pagrindžia:
     - t-009
     - t-002
+
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -226,6 +231,7 @@ Josifas Stalinas Lietuvos istorijos kontekste siejamas su 1939 m. spalio Maskvos
   pagrindžia:
     - t-003
     - t-008
+
 - c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -242,6 +248,7 @@ Josifas Stalinas Lietuvos istorijos kontekste siejamas su 1939 m. spalio Maskvos
   pagrindžia:
     - t-011
     - t-006
+
 - c-008
   santrauka: 'J. Stalino valdymo metais komunistų partija kontroliavo lietuvių kultūrą, cenzūravo tekstus ir primetė marksistinę-lenininę filosofiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -265,6 +272,7 @@ Josifas Stalinas Lietuvos istorijos kontekste siejamas su 1939 m. spalio Maskvos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

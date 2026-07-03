@@ -155,6 +155,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kėdainių mokykla išgarsėjo, kai Radvilos Kėdainius darė protestantų kultūros centru.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

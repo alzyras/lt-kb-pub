@@ -60,6 +60,7 @@ Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o si
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Per švento Martyno oktavą popiežiui Klemensui leidžiantis iš švento Justo bažnyčios prie Liono išgriuvo mūro siena.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

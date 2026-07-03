@@ -203,6 +203,7 @@ Silezija Lietuvos istorijos kontekste minima kaip svarbi Vilniaus prekybinių ry
   pagrindžia:
     - t-010
     - t-008
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -222,6 +223,7 @@ Silezija Lietuvos istorijos kontekste minima kaip svarbi Vilniaus prekybinių ry
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -238,6 +240,7 @@ Silezija Lietuvos istorijos kontekste minima kaip svarbi Vilniaus prekybinių ry
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -259,6 +262,7 @@ Silezija Lietuvos istorijos kontekste minima kaip svarbi Vilniaus prekybinių ry
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-005
   santrauka: '1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -277,6 +281,7 @@ Silezija Lietuvos istorijos kontekste minima kaip svarbi Vilniaus prekybinių ry
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -298,6 +303,7 @@ Silezija Lietuvos istorijos kontekste minima kaip svarbi Vilniaus prekybinių ry
   pagrindžia:
     - t-006
     - t-007
+
 - c-007
   santrauka: 'Į Vilnių atvykęs Žygimantas buvo Silezijos Glogovo kunigaikštis ir mirusio karaliaus brolis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -317,6 +323,7 @@ Silezija Lietuvos istorijos kontekste minima kaip svarbi Vilniaus prekybinių ry
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-008
   santrauka: 'Silezijos kunigaikščiai buvo tarp susirinkimo dalyvių kartu su Vokietijos pasiuntiniais ir Hanzos atstovais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -338,6 +345,7 @@ Silezija Lietuvos istorijos kontekste minima kaip svarbi Vilniaus prekybinių ry
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-009
   santrauka: 'Pagal Vladislovo ir Jono susitarimą Jonas turėjo gauti Sileziją kaip beneficiją iš Vladislovo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

@@ -68,6 +68,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 ## Pastabos
 
 - šiame fragmente daiktas glaudžiai siejamas su jaunuomenės ir piemenų linksmynėmis, bet materiali forma aiški.

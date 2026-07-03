@@ -80,6 +80,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Jonas III, laikydamas save Bizantijos imperijos paveldėtoju, perėmė dvigalvį erelį, imperatoriaus dvaro ceremonialą ir savinosi caro titulą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

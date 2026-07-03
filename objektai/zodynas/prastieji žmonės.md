@@ -69,6 +69,7 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Smolensko bajorai nepripažino Dorohobužo kunigaikščio Andrejaus Dimitrijevičiaus vaivada, nes jį išrinko prastieji žmonės.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -88,6 +89,7 @@ Smolensko prastieji žmonės kartu su vyskupu Semionu, kunigaikščiais, bajorai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Lietuvos metraštyje Smolensko bajorai skundėsi Kazimierui, kad prastieji žmonės be jų sutikimo vaivada išsirinko Dorohobužo kunigaikštį Andrejų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

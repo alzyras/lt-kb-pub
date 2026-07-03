@@ -49,7 +49,8 @@ Narbutas Užsparinę (Usparinia) apibūdino kaip žemės ribų deivę, globojusi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas nurodė turįs Vytauto laikų sienų nustatymo dokumentą, kuriame riboženklių neliečiamybė siejama su Užsparos prakeikimu ir Kristaus šventenybe.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

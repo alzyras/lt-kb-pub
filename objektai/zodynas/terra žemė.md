@@ -58,6 +58,7 @@ Dusburgietis teigia, kad jau vartoja terminą terra (terre Galindie — III, 4 i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Petras Dusburgietis terminu terra paprastai vadino stambiausius prūsų ir lietuvių teritorinius vienetus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

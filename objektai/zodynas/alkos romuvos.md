@@ -47,7 +47,8 @@ alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmon
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Šapokos veikale pasakojimas apie vieną vyriausiąją šventovę Romuvą laikomas viduramžių rašytojų prasimanymu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

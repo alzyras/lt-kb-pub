@@ -90,6 +90,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Rusų tarpininkavimo sąlygos atėmė bajorijai teisę kurti konfederacijas, apribojo hetmonų valdžią ir sumažino kariuomenę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -108,6 +109,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Su ta kariuomene ir suorganizuotais bajorijos būriais (konfederacijomis) jie puolė švedus ir Sapiegas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

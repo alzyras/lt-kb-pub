@@ -169,6 +169,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   pagrindžia:
     - t-003
     - t-008
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -205,6 +206,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -232,6 +234,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   pagrindžia:
     - t-005
     - t-006
+
 - c-004
   santrauka: 'Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams išlaikyti bei auklėti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

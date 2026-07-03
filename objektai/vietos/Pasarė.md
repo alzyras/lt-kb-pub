@@ -54,6 +54,7 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Brunsbergo pilis ir miestas buvo pastatyti Pasarės, vadintos Serijos upe, žemupyje esančioje saloje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

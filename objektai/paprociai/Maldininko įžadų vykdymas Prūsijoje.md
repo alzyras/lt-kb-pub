@@ -64,6 +64,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kryžininkas iš Meiseno per vienus metus Prūsijoje įvykdė maldininko įžadus ir mirė kelyje grįždamas į tėvynę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

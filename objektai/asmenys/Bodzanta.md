@@ -67,6 +67,7 @@ Bodzanta Vladislovo vardu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -88,6 +89,7 @@ Bodzanta Vladislovo vardu.
   pagrindžia:
     - t-003
     - t-002
+
 - c-003
   santrauka: '1386 m. vasario 16 d. Gnezno arkivyskupas Bodzanta apkrikštijo Jogailą, kuris gavo Vladislovo vardą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

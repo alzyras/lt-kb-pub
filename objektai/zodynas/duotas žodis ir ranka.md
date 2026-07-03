@@ -54,6 +54,7 @@ Lietuvos metraščio pasakotojas teigia, kad Skirgaila Jogailos ir savo vardu da
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Ir mūsų tėvas pati kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo gaila, pasitikėdami jų duotu žodžiu ir ranka.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -70,6 +71,7 @@ Lietuvos metraščio pasakotojas teigia, kad Skirgaila Jogailos ir savo vardu da
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Lietuvos metraščio pasakotojas teigia, kad Jogaila buvo davęs Algimanto sūnui Jonui ranką, jog neatims jo tėviškės.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

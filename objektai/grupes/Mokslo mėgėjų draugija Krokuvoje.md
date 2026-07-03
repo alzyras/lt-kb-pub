@@ -57,6 +57,7 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Krokuvos mokslininkai prašė Vilniaus universiteto patyrinėti lietuvių praeitį ir pranešti Mokslo Mėgėjų Draugijai Krokuvoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

@@ -58,6 +58,7 @@ Amsterdamas, 1650 m.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Abiejų Tautų Respublika per Gdanską į Amsterdamą aprūpino Vakarus javais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

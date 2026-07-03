@@ -104,6 +104,7 @@ Vaitiekus Taboras buvo lietuvių bajoras nuo Eišiškių, 1491 m. iškeltas į V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Vilniaus vyskupas Vaitiekus Taboras kartu su graikų tikėjimo dvasininku Foma sutuokė didįjį kunigaikštį su Elena.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -122,6 +123,7 @@ Vaitiekus Taboras buvo lietuvių bajoras nuo Eišiškių, 1491 m. iškeltas į V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Jonas Laskis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -140,6 +142,7 @@ Vaitiekus Taboras buvo lietuvių bajoras nuo Eišiškių, 1491 m. iškeltas į V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Vilniaus vyskupas Vaitiekus Taboras ragino ir rėmė miestiečius, apjuosusius Vilnių mūro pylimu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -160,6 +163,7 @@ Vaitiekus Taboras buvo lietuvių bajoras nuo Eišiškių, 1491 m. iškeltas į V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-005
   santrauka: 'Po Vilniaus vyskupo Andriaus mirties jo įpėdiniu tapo šviesiausios kilmės Vaitiekus Taboras.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -192,6 +196,7 @@ Vaitiekus Taboras buvo lietuvių bajoras nuo Eišiškių, 1491 m. iškeltas į V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'Vaitiekus Taboras paprašė Dievo laiminti valstybę, paragino kunigaikštį sekti prosenelių keliu ir uždėjo jam valdžios vainiką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

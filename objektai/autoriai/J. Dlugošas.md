@@ -168,7 +168,8 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     P. 57 „LIETUVOS KARIUOMENĖ ŠNIPO AKIMIS“, Joannis Dlugosii Opera omnia,
@@ -183,7 +184,8 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-003
+    - t-010
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dobeslavas: „Norėčiau, kad patikėtum, magistre, jog Vytauto kariuomenė yra ne tik
@@ -205,7 +207,8 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-    - t-012- c-004
+    - t-012
+- c-004
   santrauka: 'J. Dlugošas mini, kad Upytės kraštą niokojęs Livonijos dalinys miške buvo apsuptas, apšaudytas strėlėmis ir priverstas pasiduoti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -227,7 +230,8 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-005
+    - t-007
+- c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Švitrigailos ir Livonijos ordino pajėgos
@@ -248,7 +252,8 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-006
+    - t-005
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo
@@ -261,7 +266,8 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-007
+    - t-004
+- c-007
   santrauka: 'J. Dlugošas pateikė Dobeslavo Skoračevskio pokalbį su didžiuoju magistru po pasiuntinio vizito Jogailos stovykloje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -288,7 +294,8 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-008
+    - t-002
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau, regis, toks stai­
@@ -309,7 +316,8 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-009
+    - t-009
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     29
@@ -326,7 +334,8 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-010
+    - t-006
+- c-010
   santrauka: 'J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -345,7 +354,8 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-    - t-011- c-011
+    - t-011
+- c-011
   santrauka: 'Pasak Dlugošo, lenkų stovykloje buvo didikų, kurie Lucko apsuptiesiems teikė žinių ir maisto.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -373,7 +383,8 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-012
+    - t-013
+- c-012
   santrauka: 'Narbutas rašo, kad iš senesniųjų istorikų vienas Dlugošas aiškiai pripažino lietuvių genties tautas tikėjus fetišais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -392,7 +403,8 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-013
+    - t-015
+- c-013
   santrauka: 'Narbutas nurodo, kad apie Jogailos pasiųstą Teodorą Lenką į Konstancos susirinkimą žinota iš Dlugošo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

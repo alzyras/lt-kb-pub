@@ -80,6 +80,7 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -96,6 +97,7 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   pagrindžia:
     - t-003
     - t-002
+
 - c-003
   santrauka: 'Rinava buvo vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

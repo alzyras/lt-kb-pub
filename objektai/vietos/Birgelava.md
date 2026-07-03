@@ -65,6 +65,7 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

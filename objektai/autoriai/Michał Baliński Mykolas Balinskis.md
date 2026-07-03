@@ -137,6 +137,7 @@ Mykolas Balinskis buvo Vilniaus kultūrinio gyvenimo dalyvis ir Vilniaus univers
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   santrauka: 'Pirmoji M. Balinskio „Vilniaus miesto istorijos“ dalis pasirodė 1836 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -154,6 +155,7 @@ Mykolas Balinskis buvo Vilniaus kultūrinio gyvenimo dalyvis ir Vilniaus univers
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-003
   santrauka: 'M. Balinskis laiške Joachimui Leleveliui rašė, kad Vilniaus miesto istorijos pirmąjį tomą baigė 1825 metų pradžioje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -170,6 +172,7 @@ Mykolas Balinskis buvo Vilniaus kultūrinio gyvenimo dalyvis ir Vilniaus univers
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-004
   santrauka: 'Rodyklė apima įvadą ir M. Balinskio veikalo vertimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -196,6 +199,7 @@ Mykolas Balinskis buvo Vilniaus kultūrinio gyvenimo dalyvis ir Vilniaus univers
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-005
   santrauka: 'M. Balinskis dėkojo Ignui Danilavičiui, Ignui Onacevičiui ir Pranciškui Malevskiui už pagalbą istoriniais dokumentais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -213,6 +217,7 @@ Mykolas Balinskis buvo Vilniaus kultūrinio gyvenimo dalyvis ir Vilniaus univers
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-006
   santrauka: 'Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -279,6 +284,7 @@ Mykolas Balinskis buvo Vilniaus kultūrinio gyvenimo dalyvis ir Vilniaus univers
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-007
   santrauka: 'M. Balinskis paliko nemažai istorinių darbų ir apybraižų, dalis jų liko rankraščiuose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -296,6 +302,7 @@ Mykolas Balinskis buvo Vilniaus kultūrinio gyvenimo dalyvis ir Vilniaus univers
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-008
   santrauka: 'Mykolas Balinskis Vilnių apibūdino kaip Lietuvos mokslo ir vyriausiosios valdžios centrą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -342,6 +349,7 @@ Mykolas Balinskis buvo Vilniaus kultūrinio gyvenimo dalyvis ir Vilniaus univers
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   santrauka: '1841 m. M. Balinskis tapo vienu iš enciklopedinio leidinio Biblioteka Warszawska steigėjų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -361,6 +369,7 @@ Mykolas Balinskis buvo Vilniaus kultūrinio gyvenimo dalyvis ir Vilniaus univers
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-010
   santrauka: 'M. Balinskio „Laiškai nuo Kražantės upės kranto“ buvo spausdinti laikraštyje „Gazeta Warszawska“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -379,6 +388,7 @@ Mykolas Balinskis buvo Vilniaus kultūrinio gyvenimo dalyvis ir Vilniaus univers
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-011
   santrauka: 'M. Balinskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei miesto kultūrinio gyvenimo dalyvis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

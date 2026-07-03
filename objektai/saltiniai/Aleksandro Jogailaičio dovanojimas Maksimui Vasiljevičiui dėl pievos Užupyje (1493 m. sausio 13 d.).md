@@ -77,6 +77,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: '1493 m. Aleksandro Jogailaičio dovanojimo aktas Maksimui Vasiljevičiui buvo surašytas slavų kalba ir puikiai išsilaikęs.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

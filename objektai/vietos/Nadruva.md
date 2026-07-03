@@ -225,6 +225,7 @@ Nadruva aprašoma kaip viena iš Prūsijos žemių, šaltiniuose minima greta Se
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -240,6 +241,7 @@ Nadruva aprašoma kaip viena iš Prūsijos žemių, šaltiniuose minima greta Se
   pagrindžia:
     - t-012
     - t-010
+
 - c-003
   santrauka: 'Žynys įsikūrė Nadruvos teritorijoje, kad būtų išlaikyta politinė pusiausvyra tarp genčių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -255,6 +257,7 @@ Nadruva aprašoma kaip viena iš Prūsijos žemių, šaltiniuose minima greta Se
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-004
   santrauka: 'Petro Dusburgiečio kronikoje Nadruva minima kaip viena iš vienuolikos Prūsijos žemės dalių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -273,6 +276,7 @@ Nadruva aprašoma kaip viena iš Prūsijos žemių, šaltiniuose minima greta Se
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-005
   santrauka: '1274 m. Ordino magistras ir broliai nukreipė ginklus prieš nadruvius, o daug kilmingų Nadruvos vyrų priėmė krikštą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -301,6 +305,7 @@ Nadruva aprašoma kaip viena iš Prūsijos žemių, šaltiniuose minima greta Se
     - t-003
     - t-009
     - t-004
+
 - c-006
   santrauka: 'Istoriografijoje formavosi nuomonė, kad Nadruva, Skalva ir Semba buvo Žemaitijos dalys arba lietuvių kalbos dialektų sritys.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -319,6 +324,7 @@ Nadruva aprašoma kaip viena iš Prūsijos žemių, šaltiniuose minima greta Se
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-007
   santrauka: 'Nadruvoje buvusi Romuva ir jos krivis šaltinyje laikomi ankstyva pagonybės virtimo institucine religija apraiška.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -334,6 +340,7 @@ Nadruva aprašoma kaip viena iš Prūsijos žemių, šaltiniuose minima greta Se
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-008
   santrauka: 'Nadruva plytėjo į rytus ir pietryčius nuo Sembos, iki Šešupės vidupio, Vištyčio ežero ir Geldapės upės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -349,6 +356,7 @@ Nadruva aprašoma kaip viena iš Prūsijos žemių, šaltiniuose minima greta Se
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-009
   santrauka: 'Magistras Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, kur Retavos valsčius buvo nusiaubtas plėšiant ir deginant.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

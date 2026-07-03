@@ -67,6 +67,7 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Unijos akte reikalauti pakeisti statuto nuostatai Lietuvoje nebuvo pakeisti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -82,6 +83,7 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Unijos akte reikalauta panaikinti Lietuvos statuto dėsnius, draudusius lenkams įsigyti dvarų Lietuvoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

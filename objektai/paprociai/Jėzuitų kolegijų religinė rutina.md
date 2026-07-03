@@ -66,7 +66,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Jėzuitų kolegijose buvo ypač prižiūrima, kad mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pamaldas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

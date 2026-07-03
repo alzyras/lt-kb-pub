@@ -60,6 +60,7 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Karalius davė vėliavas iškabinti prie jo ir jo tėvų žemių bei kiemų, kad niekas, pamatęs karaliaus vėliavą, nedrįstų jo skriausti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -78,6 +79,7 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Teutonams nusiaubus valdas, vyras rado savo ir saviškių kiemus sudegintus, o šeimyną, brolį Ringėlą ir gimines išžudytus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -101,6 +101,7 @@ periodo_grupes:
   pagrindžia:
     - t-004
     - t-002
+
 - c-002
   santrauka: 'Stasio Šalkauskio „Raštų“ IX tomas buvo nurodytas tarp spaudai rengiamų leidinių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -147,6 +148,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

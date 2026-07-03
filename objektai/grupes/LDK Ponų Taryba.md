@@ -59,6 +59,7 @@ J. Zaberezinskis ir kiti LDK Ponų Tarybos nariai rėmė Melniko uniją, kuriai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš LDK Ponų Tarybos.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -76,6 +77,7 @@ J. Zaberezinskis ir kiti LDK Ponų Tarybos nariai rėmė Melniko uniją, kuriai 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Aleksandro 1492 m. rugpjūčio 6 d. privilegija išplėtė LDK Ponų Tarybos teises ir apribojo didžiojo kunigaikščio sprendimų keitimą be jos žinios.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

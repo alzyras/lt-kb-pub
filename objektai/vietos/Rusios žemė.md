@@ -57,6 +57,7 @@ Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja i�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Rusios žemė buvo minima tarp Prūsijos žemę ribojusių vietovių ir gamtinių ribų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

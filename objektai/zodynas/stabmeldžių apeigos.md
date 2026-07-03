@@ -49,6 +49,7 @@ Algirdas viešai laikėsi stabmeldžių apeigų, bet Julijonos noru sutiko priim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Goštauto globojami vienuoliai stengėsi įveikti stabmeldžių prietarus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

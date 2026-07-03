@@ -59,6 +59,7 @@ Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Maršalas Motiejus Kločka kartu su Jonu Sapiega ir Povilu Naruševičiumi atlydėjo Aleksandrą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

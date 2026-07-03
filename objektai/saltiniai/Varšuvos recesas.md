@@ -54,7 +54,8 @@ Varšuvos recesas: tuo metu buvo surašytas specialus aktas, į kurį buvo įtra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-002
+    - t-002
+- c-002
   santrauka: 'Varšuvos recesas buvo Varšuvoje sudarytas aktas, kuriame išspręsti klausimai atskirti nuo vėlesniam seimui paliktų klausimų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

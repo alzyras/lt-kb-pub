@@ -83,6 +83,7 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-003
+
 - c-002
   santrauka: 'Sovietų divizijoms žygiuojant per Lietuvą ir atkirtus Latviją bei Estiją nuo Vokietijos, 1940 m. birželio 16 d. abi valstybės buvo žaibiškai okupuotos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

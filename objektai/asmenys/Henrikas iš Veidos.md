@@ -72,6 +72,7 @@ Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos že
   pagrindžia:
     - t-002
     - t-003
+
 - c-002
   santrauka: 'Nuo 1247 m. Henrikas iš Veidos buvo trečiasis Prūsijos žemės magistras ir vadovavo aštuonerius metus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

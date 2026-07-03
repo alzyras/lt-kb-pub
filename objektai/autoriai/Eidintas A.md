@@ -61,6 +61,7 @@ Eidintas A. Eidintas A., Senn A.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'A. Eidintas kartu su A. E. Sennu ir V. Žaliu parengė leidinį „Lithuania in European politics“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

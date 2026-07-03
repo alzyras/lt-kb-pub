@@ -51,6 +51,7 @@ Krokuvos karalystė priėmė Jogailą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Jogailai atsisėdus Krokuvoje ir Krokuvos karalystei jį paėmus, Lietuvos metraščio pasakotojas sako vėl pareiškęs savo tikėjimą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

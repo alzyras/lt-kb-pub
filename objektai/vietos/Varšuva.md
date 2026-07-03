@@ -542,6 +542,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -559,6 +560,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   pagrindžia:
     - t-023
     - t-025
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -583,6 +585,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   pagrindžia:
     - t-016
     - t-024
+
 - c-004
   santrauka: '1572 m. sausio 1 d. - vasario 9 d. Varšuvoje buvo keičiamos lietuviškos monetos į lenkiškus pinigus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -606,6 +609,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: '1766 m. Fr. Bohomolecas Varšuvoje parūpino antrąjį leidimą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -620,6 +624,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-006
   santrauka: 'Lietuvai priėmus 1938 m. Lenkijos ultimatumą, oficialioji Varšuva buvo patenkinta rezultatais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -639,6 +644,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-007
   santrauka: 'Padalinimo sutartys pasirašytos 1772 m. Sankt Peterburge, o 1773-1775 m. jas patvirtino delegacinis seimas Varšuvoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -652,6 +658,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -670,6 +677,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-009
   santrauka: '1830 m. vėlyvą rudenį Varšuvoje prasidėjus sukilimui, Vilniuje susikūrė sukilimo centrinis komitetas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -688,6 +696,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -709,6 +718,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-011
   santrauka: '1572 m. kovo 26 d. Varšuvoje visuotiniame Karalystės seime buvo duotas karaliaus įsakymas dėl lietuviškos monetos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -729,6 +739,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-012
   santrauka: 'Testamentas buvo surašytas Varšuvoje 1571 m. gegužės 6 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -752,6 +763,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
+
 - c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -771,6 +783,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   pagrindžia:
     - t-014
     - t-009
+
 - c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -806,6 +819,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-015
   santrauka: 'Žygimanto Augusto testamentas buvo aktuotas Varšuvoje 1571 m. gegužės 6 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -824,6 +838,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
 - c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -841,6 +856,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   pagrindžia:
     - t-018
     - t-011
+
 - c-017
   santrauka: 'Lenkijoje daugiakonfesiškumo juridinis įforminimas įvyko 1573 m. Varšuvos konfederacijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -857,6 +873,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-018
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -873,6 +890,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-019
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -890,6 +908,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-020
   santrauka: '1920 m. Spa konferencijoje didžiosios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai, ir Varšuva sutiko.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -905,6 +924,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-021
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -922,6 +942,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-022
   santrauka: 'Lietuviai sutiko derėtis dėl federacijos tik tuo atveju, jei Varšuva pripažintų Lietuvą su sostine Vilniumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -940,6 +961,7 @@ Varšuva Lietuvos istorijos žinių bazėje atsiskleidžia kaip politinių spren
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-023
   santrauka: '1938 m. kovo 17 d. Varšuva įteikė Lietuvai ultimatumą, reikalaudama be išlygų užmegzti diplomatinius santykius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

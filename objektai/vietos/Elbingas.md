@@ -376,6 +376,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
     - t-021
     - t-011
     - t-015
+
 - c-002
   santrauka: 'Dusburgietis Elbingo brolių išsigelbėjimą aiškina stebuklu, kai prūsų kariuomenė vietoje mažo kryžiuočių būrio išvydo didžiulę kariuomenę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -391,6 +392,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-003
   santrauka: 'Dusburgietis apie Elbingo pilį prie to paties vardo upės žiočių rašė remdamasis ir kitų pasakojimais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -409,6 +411,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-004
   santrauka: 'Elbingo broliai pasiuntė į pagalbą 60 krikščionių vyrų, kurie po žinios apie sudegintą pilį ir miestą patraukė į Elbingą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -424,6 +427,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   santrauka: 'Torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -438,6 +442,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -454,6 +459,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-007
   santrauka: 'Laivai padėjo pastatyti Elbingo ir Baigos pilis bei apsaugoti Gėlo vandens marias nuo netikėlių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -469,6 +475,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-008
   santrauka: 'Elbingo broliai, stokodami atsargų ir laukdami laivų, gavę žinių apie Kulmo žemę pasiuntė atgal laivus ir žygūnus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -485,6 +492,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-009
   santrauka: 'Žiemą daugiau kaip 60 tūkstančių karių atžygiavo į Elbingą, bet ginčas malūne vos nesuardė žygio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -506,6 +514,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-010
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -518,6 +527,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-011
   santrauka: 'Pomeranijos kunigaikštis Sventopelkas sutelkė kariuomenę ir patraukė prie Elbingo pilies bei miesto, ketindamas juos užimti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -535,6 +545,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-012
   santrauka: '1303 m. Gotfridas Elbingo kapituloje atsisakė didžiojo magistro pareigų, o ten pat buvo išrinktas Zigfridas iš Foichtvangeno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -555,6 +566,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
   pagrindžia:
     - t-012
     - t-006
+
 - c-013
   santrauka: 'Magistras Poponas pasiuntė Konradą Bremerį su būriu ginklanešių nugabenti į Elbingą tris maisto prikrautus laivus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -574,6 +586,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-014
   santrauka: '1273 m. pagudėnai paslėpė kariuomenę miške netoli Elbingo ir pasala atkirto miestiečiams kelią į miestą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -593,6 +606,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-015
   santrauka: 'Antrosios atskalūnybės metais keli Pagudės kilmingieji su namais ir šeimyna atvyko į Elbingą ir prisidėjo prie brolių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -615,6 +629,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-016
   santrauka: 'Elbingo pilis iš pradžių buvo laikini žemių ir medžio įtvirtinimai Elbingo deltos saloje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -632,6 +647,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-017
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -647,6 +663,7 @@ Elbingas pristatomas kaip 1237 m. prie Gėlo vandens marių pastatyta Ordino pil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-018
   santrauka: 'Elbingo broliai pasiuntė 60 krikščionių vyrų į pagalbą atsitraukiantiems pilies ir miesto gynėjams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

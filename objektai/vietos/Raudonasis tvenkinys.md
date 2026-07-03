@@ -69,6 +69,7 @@ Lietuvos kariuomenė įsirengė du perėjimus abipus Raudonojo tvenkinio užtvan
     - t-003
     - t-002
     - t-005
+
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |

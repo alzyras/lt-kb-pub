@@ -82,6 +82,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: '1505 m. karalius metams atleido Vilniaus gyventojus nuo karo tarnybos su sąlyga, kad jie apjuos miestą mūro siena.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

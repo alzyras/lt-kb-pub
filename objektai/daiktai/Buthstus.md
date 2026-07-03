@@ -73,7 +73,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas Buthstus aprašo kaip vietos ar srities krivio valdžios ženklą – ilgoką ąžuolinę lazdą su dvišake viršūne ir dviem kutais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

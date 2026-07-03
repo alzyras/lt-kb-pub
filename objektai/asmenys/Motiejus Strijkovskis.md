@@ -182,7 +182,8 @@ Motiejus Strijkovskis siejamas su 1582 m. lenkų kalba išspausdinta „Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-002
+    - t-002
+- c-002
   santrauka: 'Motiejus Strijkovskis savo 1582 m. kronikoje beveik pažodžiui perteikė ištisus „rusiško metraščio“ varianto fragmentus.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -201,7 +202,8 @@ Motiejus Strijkovskis siejamas su 1582 m. lenkų kalba išspausdinta „Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-003
+    - t-001
+- c-003
   santrauka: 'Narbutas nurodo, kad Strijkovskis turto deivę vadino Pilwitos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -215,7 +217,8 @@ Motiejus Strijkovskis siejamas su 1582 m. lenkų kalba išspausdinta „Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Narbutas rašo, kad duomenų apie liepų miškelyje garbintą deivę paliko Strijkovskis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -231,7 +234,8 @@ Motiejus Strijkovskis siejamas su 1582 m. lenkų kalba išspausdinta „Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-005
+    - t-004
+- c-005
   santrauka: 'Narbutas rašo, kad Strijkovskis Markopolius trumpai minėjo kaip požemio dievaičius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -245,7 +249,8 @@ Motiejus Strijkovskis siejamas su 1582 m. lenkų kalba išspausdinta „Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-006
+    - t-005
+- c-006
   santrauka: 'Narbutas rašo, kad Strijkovskis Vilniaus Perkūno šventykloje mini atskiroje koplyčioje laikytus šliužus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -260,7 +265,8 @@ Motiejus Strijkovskis siejamas su 1582 m. lenkų kalba išspausdinta „Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-007
+    - t-006
+- c-007
   santrauka: 'Narbutas nurodo, kad Strijkovskis alyvą Sambėje laikė pirmu tarp šventųjų medžių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -271,7 +277,8 @@ Motiejus Strijkovskis siejamas su 1582 m. lenkų kalba išspausdinta „Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-008
+    - t-007
+- c-008
   santrauka: 'Narbutas rašo, kad Strijkovskis minėjo Vilniaus Perkūno šventykloje buvusį didelį juodą akmenį, iš kurio buvo įskeliama ugnis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -287,7 +294,8 @@ Motiejus Strijkovskis siejamas su 1582 m. lenkų kalba išspausdinta „Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-009
+    - t-008
+- c-009
   santrauka: 'Narbutas rašo, kad Strijkovskis mini ant kalno prie Deltuvos stovėjusį medinį milžino išvaizdos Kukovaičio stabą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -299,7 +307,8 @@ Motiejus Strijkovskis siejamas su 1582 m. lenkų kalba išspausdinta „Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-010
+    - t-009
+- c-010
   santrauka: 'Narbutas iš Strijkovskio šešių šventyklos kampų sprendė, kad stebuklingą ąžuolą supo šešiakampis mūrinis aptvaras.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -312,7 +321,8 @@ Motiejus Strijkovskis siejamas su 1582 m. lenkų kalba išspausdinta „Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-011
+    - t-010
+- c-011
   santrauka: 'Narbutas rašo, kad Strijkovskis lietuvių išpažintį grindė senųjų kronikininkų pranešimais ir savo duomenimis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -327,7 +337,8 @@ Motiejus Strijkovskis siejamas su 1582 m. lenkų kalba išspausdinta „Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-012
+    - t-011
+- c-012
   santrauka: 'Narbutas rašo, kad Strijkovskis lietuvių ugnies apeigas aiškino kaip senovės romėnų Palilėjų švenčių pamėgdžiojimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -343,7 +354,8 @@ Motiejus Strijkovskis siejamas su 1582 m. lenkų kalba išspausdinta „Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-013
+    - t-012
+- c-013
   santrauka: 'Narbutas rašo, kad, Strijkovskio teigimu, kai kurios Lietuvos kunigaikščių giminės turėjo tikrus savo herbus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -363,7 +375,8 @@ Motiejus Strijkovskis siejamas su 1582 m. lenkų kalba išspausdinta „Lenkijos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-014
+    - t-013
+- c-014
   santrauka: 'Narbutas rašo, kad Strijkovskis apie aukštas Lietuvos pareigas pateikė daugiau smulkmenų nei Prūsijos ir Livonijos kronikininkai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

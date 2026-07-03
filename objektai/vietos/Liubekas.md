@@ -181,6 +181,7 @@ Liubekas Lietuvos istorijos šaltiniuose iškyla kaip Hanzos miestų ir Baltijos
   pagrindžia:
     - t-008
     - t-010
+
 - c-002
   santrauka: '1323 m. Liubeke parengtame notariniame akte aprašytas prie Gedimino laiškų prikabintas apvalus vaškinis antspaudas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -200,6 +201,7 @@ Liubekas Lietuvos istorijos šaltiniuose iškyla kaip Hanzos miestų ir Baltijos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-003
   santrauka: 'Gedimino laiške Liubeko ir kitų miestų gyventojams skelbta, kad į Vilnių atvykę kolonistai galės naudotis Rygos miesto civiline teise.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -239,6 +241,7 @@ Liubekas Lietuvos istorijos šaltiniuose iškyla kaip Hanzos miestų ir Baltijos
   pagrindžia:
     - t-004
     - t-003
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -261,6 +264,7 @@ Liubekas Lietuvos istorijos šaltiniuose iškyla kaip Hanzos miestų ir Baltijos
   pagrindžia:
     - t-009
     - t-002
+
 - c-005
   santrauka: '1323 m. liepos 18 d. Liubeko rotušėje Rygos tarėjai Henrikas fon Calmaras ir Jonas Roghenas įteikė dominikonams tariamus Gedimino laiškus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -282,6 +286,7 @@ Liubekas Lietuvos istorijos šaltiniuose iškyla kaip Hanzos miestų ir Baltijos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -298,6 +303,7 @@ Liubekas Lietuvos istorijos šaltiniuose iškyla kaip Hanzos miestų ir Baltijos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-007
   santrauka: 'Rygiečiai Liubeke ir Rostoke Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -313,6 +319,7 @@ Liubekas Lietuvos istorijos šaltiniuose iškyla kaip Hanzos miestų ir Baltijos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-008
   santrauka: 'Bremeno ir Liubeko miestiečiai, pirmieji Teutonų ordino steigėjai, padovanojo Henrikui Valpotui Akono ligoninę su jos išmaldomis ir gėrybėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

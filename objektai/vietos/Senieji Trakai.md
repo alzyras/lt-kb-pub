@@ -93,7 +93,8 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-003
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas Senųjų Trakų miesto skydą aprašo kaip kryžių, einantį beveik per visą trečiąjį skydą dešinėje nuo kunigaikščio.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

@@ -263,6 +263,7 @@ Berlynas žinių bazėje iškyla kaip Lietuvos istorijos tyrimų, diplomatijos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-002
   santrauka: 'Vienos bibliotekos rankraštis, datuojamas XVII a. ar vėlesniu laiku, buvo nurašytas nuo Berlyno teksto.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -278,6 +279,7 @@ Berlynas žinių bazėje iškyla kaip Lietuvos istorijos tyrimų, diplomatijos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-003
   santrauka: 'Naciams Berlyne sulaikius LAF vadą Kazį Škirpą, Laikinosios vyriausybės vadovu tapo Juozas Ambrazevičius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -295,6 +297,7 @@ Berlynas žinių bazėje iškyla kaip Lietuvos istorijos tyrimų, diplomatijos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -315,6 +318,7 @@ Berlynas žinių bazėje iškyla kaip Lietuvos istorijos tyrimų, diplomatijos i
   pagrindžia:
     - t-012
     - t-001
+
 - c-005
   santrauka: 'Frankas Lubinas su JAV rinktine tapo olimpiniu čempionu Berlyne, o 1939 m. su Lietuvos rinktine laimėjo Europos čempionatą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -338,6 +342,7 @@ Berlynas žinių bazėje iškyla kaip Lietuvos istorijos tyrimų, diplomatijos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -357,6 +362,7 @@ Berlynas žinių bazėje iškyla kaip Lietuvos istorijos tyrimų, diplomatijos i
   pagrindžia:
     - t-010
     - t-013
+
 - c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -379,6 +385,7 @@ Berlynas žinių bazėje iškyla kaip Lietuvos istorijos tyrimų, diplomatijos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -399,6 +406,7 @@ Berlynas žinių bazėje iškyla kaip Lietuvos istorijos tyrimų, diplomatijos i
   pagrindžia:
     - t-016
     - t-003
+
 - c-009
   santrauka: 'Dėl lietuvių kalbos ir judėjimo suvaržymų, atsišaukimų autorių areštų ir mokytojų deportacijų lietuviai skundėsi Berlynui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -416,6 +424,7 @@ Berlynas žinių bazėje iškyla kaip Lietuvos istorijos tyrimų, diplomatijos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-010
   santrauka: 'Kovo 23 dieną Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -438,6 +447,7 @@ Berlynas žinių bazėje iškyla kaip Lietuvos istorijos tyrimų, diplomatijos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-011
   santrauka: 'Maskva ir Berlynas, kaip ir prancūzai bei britai, patarė Kaunui priimti lenkų reikalavimus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -453,6 +463,7 @@ Berlynas žinių bazėje iškyla kaip Lietuvos istorijos tyrimų, diplomatijos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-012
   santrauka: 'Berlyno karališkosios bibliotekos kodekse buvo nevisiškai pilnas Dusburgiečio kronikos nuorašas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -467,6 +478,7 @@ Berlynas žinių bazėje iškyla kaip Lietuvos istorijos tyrimų, diplomatijos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-013
   santrauka: '1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir ten pasirašė 100 mln. markių paskolą ginklams įsigyti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -483,6 +495,7 @@ Berlynas žinių bazėje iškyla kaip Lietuvos istorijos tyrimų, diplomatijos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -501,6 +514,7 @@ Berlynas žinių bazėje iškyla kaip Lietuvos istorijos tyrimų, diplomatijos i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-015
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

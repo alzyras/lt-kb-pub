@@ -51,6 +51,7 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vincentas iš Šamotulų, atsidūręs dvigubame pavojuje, įsakė suversti vežimus po ledu ir atlaisvinti kelią kitiems būriams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

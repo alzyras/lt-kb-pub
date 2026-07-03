@@ -73,6 +73,7 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
     - t-001
     - t-002
     - t-004
+
 - c-002
   santrauka: 'Lietuvos pripažinimą sunkino tai, kad Prancūzija palaikė didelės Lenkijos „nuo jūros iki jūros“ planą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

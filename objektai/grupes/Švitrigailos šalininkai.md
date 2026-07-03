@@ -62,6 +62,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Podolėje Jogaila kovojo su Moldovos kunigaikščių remiamais Švitrigailos šalininkais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -76,6 +76,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1655 m. Švedija paskelbė karą Abiejų Tautų Respublikai ir per trumpą laiką užėmė Žemaitiją bei didelę dalį Lenkijos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -101,6 +102,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 ## Puslapis 129 PROSTKŲ MŪŠIS 1656 PRŪSIJOS KUNIGAIKŠTYSTĖ Mūšio išvakarėse 1655 m. Švedija paskelbė karą ATR ir per trumpą laiką užėmė Žemaitiją bei didelę dalį Lenkijos.
 
 Nenurodyta

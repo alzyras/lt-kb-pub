@@ -65,7 +65,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas lietuvių priesaikas lygino su antikos priesaikomis ir nurodė formules „dėl Dievo“ bei „Kad aš skradžiai prapultau“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

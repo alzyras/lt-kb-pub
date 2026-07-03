@@ -63,6 +63,7 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Ordinas įsigijo daug turtų Mažojoje Azijoje ir Europoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -77,6 +78,7 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu neteko reikšmės Europai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

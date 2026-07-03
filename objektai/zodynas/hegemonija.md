@@ -57,6 +57,7 @@ Ir Vy­ tautas, matyt, nepasitikėdamas gerais santykiais su Lenkija, ta­ rytum
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Autoriaus vertinimu, Vytautas pabūgo Lenkijos kultūrinės ir politinės hegemonijos ir ieškojo pusiausvyros santykiuose su kaimynais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

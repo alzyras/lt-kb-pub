@@ -48,6 +48,7 @@ Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Bajorijos regimentorius Višniaveckis, grąžinęs Mykolui Sapiegai kardą, nusivežė jį savo karietoje į Valkininkus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

@@ -76,7 +76,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: '1858 m. pradėtas blaivybės brolijų darbas greitai išsiplėtė, o daugumas tikinčiųjų pasižadėjo niekada nebegerti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -89,7 +90,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Kai kuriose parapijose blaivybės brolijų nariais tapo net 97 procentai gyventojų, todėl sumažėjo iždo degtinės pajamos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

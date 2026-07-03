@@ -57,6 +57,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 ## Pastabos
 
 - kartu minimos ir neprietelių kaukolės ant grandies, bet kandidato ašį palieku pagal molinį indą kaip laidojimo daiktą.

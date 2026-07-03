@@ -65,6 +65,7 @@ Tekste jos siejamos su viešu išplakimu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 ## Šaltiniai ir įrodymai
 
 Nenurodyta

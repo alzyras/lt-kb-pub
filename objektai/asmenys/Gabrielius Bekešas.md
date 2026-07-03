@@ -153,6 +153,7 @@ Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, išskirtas už ištikim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -193,6 +194,7 @@ Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, išskirtas už ištikim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -235,6 +237,7 @@ Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, išskirtas už ištikim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -265,6 +268,7 @@ Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, išskirtas už ištikim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   santrauka: 'Gabrieliui Bekešui ir jo palikuonims buvo leista valdose naudoti derlių, statyti bažnyčias, mokyklas, smukles ir malūnus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -293,6 +297,7 @@ Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, išskirtas už ištikim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-006
   santrauka: 'Gabrieliui Bekešui po Astiko Varšuvos seime pagal paveldėjimo teisę buvo atiduotas Alantos dvaras.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -318,6 +323,7 @@ Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, išskirtas už ištikim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   santrauka: 'Gabrielius Bekešas Skornatas vadovavo karaliaus vengrų pulkams ir buvo įvertintas už ištikimą, drąsią bei pasiaukojamą tarnybą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -51,6 +51,7 @@ Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis m
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Po Lietuvos ir Lenkijos diplomatinių santykių atkūrimo buvo paleista 700 000 narių turėjusi patriotinė Vilniui vaduoti sąjunga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

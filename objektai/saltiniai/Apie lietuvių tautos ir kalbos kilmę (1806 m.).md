@@ -50,7 +50,8 @@ Ks. Bauža 1806 m. išleido knygą „Apie lietuvių tautos ir kalbos kilmę“,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Veikale „Apie lietuvių tautos ir kalbos kilmę“ siūloma įsteigti lietuvių kalbą mokančią draugiją, kuri rinktų tautosaką, senienas ir leistų lietuviškas knygas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

@@ -54,6 +54,7 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Brolis Volframas Saksas metus priešinosi velnio pagundoms, kol šis nuo jo atstojo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

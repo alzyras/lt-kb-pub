@@ -56,6 +56,7 @@ Dusburgietis teigia, kad žulkus V. Dusburgietis teigia, kad 16— Žulkus V.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Žulkus V. 1983 m. žurnale „Mokslas ir gyvenimas“ paskelbė straipsnį apie Klaipėdos pilį ir miestą XIII-XVI a.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

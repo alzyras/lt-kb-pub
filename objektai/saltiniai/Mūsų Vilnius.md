@@ -51,6 +51,7 @@ Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis m
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Po Lietuvos priimto Lenkijos ultimatumo teko nutraukti žurnalo „Mūsų Vilnius“ leidimą ir paleisti „Vilniui vaduoti sąjungą“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

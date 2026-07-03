@@ -68,6 +68,7 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Sūduviai po ilgų antpuolių sudegino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

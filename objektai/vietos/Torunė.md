@@ -313,6 +313,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
   pagrindžia:
     - t-002
     - t-007
+
 - c-002
   santrauka: 'Stalininkas Druzigeris Torunėje klaidingai pranešė, kad krikščionių kariuomenė žuvo mūšyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -331,6 +332,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Dabartinės Torunės pilies vietoje 1000–500 m. pr. m. e. buvo lužitėnų kultūros gyvenvietė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -345,6 +347,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-004
   santrauka: 'Prie Torunės priėjusi kariuomenė sudegino ligoninę ir kitus už miesto sienų buvusius degius objektus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -361,6 +364,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-005
   santrauka: '1236 m. Torunės miestas buvo perkeltas į dabartinės Torunės vietą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -374,6 +378,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-006
   santrauka: '1576 m. gruodžio 20 d. laiškas buvo duotas Torunėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -388,6 +393,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-007
   santrauka: '1231 m. Ordino magistras Kulmo žemėje pastatė Torunės pilį, po to prasidėjo sisteminga agresija prieš prūsus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -406,6 +412,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-008
   santrauka: 'Torunės gvardijonas kartu su kitais dvasininkais laiškuose popiežiui gynė kryžiuočius nuo Gedimino skundo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -435,6 +442,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
   pagrindžia:
     - t-013
     - t-005
+
 - c-009
   santrauka: 'XVII a. Torunės magistrato bibliotekos nuorašas buvo padarytas iš Karaliaučiaus bibliotekos teksto.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -448,6 +456,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -461,6 +470,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-011
   santrauka: 'Dusburgietis prūsų pilių vietas prie Torunės aprašė remdamasis ir kitų pasakojimais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -479,6 +489,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-012
   santrauka: 'Torunės seime dėl ginčų su Gdansku ir kitų nesutarimų nebuvo numatyta nustatyti jokių rinkliavų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -505,6 +516,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-013
   santrauka: 'Vienas Krokuvos kilmingasis į Torunės pilį pasiuntė tris laivus su maistu ir gėrimais, 300 jaučių bei karvių ir daug kinkomų gyvulių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -522,6 +534,7 @@ Torunė minima kaip Teutonų ordino atramos vieta Kulmo žemėje: 1231 m. Ordino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-014
   santrauka: 'Magistras su Torunės broliais ir kunigaikščiu Kazimieru žygiavo stabdyti naujos Sventopelko pilies statybos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -71,7 +71,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Žemesnio luomo prūsų palaidojimuose urnos dažnai būdavo užkasamos laukuose ar miškuose, virš jų supilant smėlio kauburius be akmenų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -86,7 +87,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Narbutas spėjo, kad kai kurie prūsų pilkapiai naudoti kaip šeimos kapai, iš anksto numatant vietas vėliau mirsiantiems šeimos nariams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

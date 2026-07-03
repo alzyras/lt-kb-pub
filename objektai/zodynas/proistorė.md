@@ -93,6 +93,7 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
     - t-002
     - t-003
     - t-004
+
 - c-002
   santrauka: 'Lietuvos proistorė Ivinskio veikale apibūdinama kaip plačiai išaugusi į atskirą mokslą, tyrinėjamą kitais metodais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -107,6 +108,7 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

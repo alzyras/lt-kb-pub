@@ -67,6 +67,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Švč. Trejybės prieglauda Vilniuje garsėjo labdaringa veikla.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -89,6 +90,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Pastatytai prieglaudai turėjo būti skiriama dalis tilto mokesčio ligonių maistui, drabužiams, vaistams ir kitoms reikmėms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

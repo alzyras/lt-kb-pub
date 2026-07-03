@@ -72,6 +72,7 @@ amziai:
   pagrindžia:
     - t-004
     - t-001
+
 - c-002
   santrauka: 'Šarūno rinktinė buvo viena iš trijų Algimanto apygardos rinktinių kartu su Kunigaikščio Margio ir Žaliąja rinktinėmis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -88,6 +89,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Čekistai puolė Šarūno rinktinės štabo bunkerį, kurio vietą jiems nurodė Balys.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

@@ -113,6 +113,7 @@ Nenurodyta
   pagrindžia:
     - t-004
     - t-002
+
 - c-002
   santrauka: 'Prūsai prie Pagansčių kaimo netikėtai užpuolė krikščionis iš dviejų pusių, nukovė dvylika brolių ir penkis šimtus vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -133,6 +134,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Per Divano ir Linko puolimą Kristburgo pilyje buvo likę trys broliai, trys jų tarnai ir grandinėmis surakintas pamedėnas Sirenas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

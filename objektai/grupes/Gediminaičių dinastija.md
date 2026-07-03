@@ -220,7 +220,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-002
+    - t-002
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Visas tas valstybėles vienijo
@@ -235,7 +236,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-003
+    - t-003
+- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Perspektyvos sukliūti į griežtas jo rankas jų visiškai neviliojo.
@@ -247,7 +249,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-004
+    - t-004
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo būdu Vytautas panaikino stipriąsias Polocko, Vitebsko,
@@ -261,7 +264,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
-    - t-008- c-005
+    - t-008
+- c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šį sumanymą, kaip sako
@@ -277,7 +281,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-006
+    - t-001
+- c-006
   santrauka: 'Mirus paskutiniam Gediminaičių dinastijos valdovui Zigmantui Augustui, Lietuva ir Lenkija galėjo rinktis atskirus valdovus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -295,7 +300,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-007
+    - t-021
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XIII a. pa-
@@ -310,7 +316,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-    - t-014- c-008
+    - t-014
+- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mūsų kultūroje
@@ -322,7 +329,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-009
+    - t-009
+- c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^1) **PSRL, 18, 93 p.**
@@ -339,7 +347,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
-    - t-011- c-010
+    - t-011
+- c-010
   santrauka: 'Gediminaičiai buvo pasidaliję tarp pagonybės ir graikų krikšto.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -357,7 +366,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
-    - t-006- c-011
+    - t-006
+- c-011
   santrauka: 'Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -372,7 +382,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-012
+    - t-016
+- c-012
   santrauka: 'Dalį kunigaikštijų valdė Gediminaičiai, o kitas valdė Riurikaičiai ir įvairūs lietuvių kilmės kunigaikščiai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -389,7 +400,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-013
+    - t-017
+- c-013
   santrauka: 'Daugumas Gediminaičių pačioje Vytauto valdymo pradžioje pasirodė jam nepaklusnūs.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -406,7 +418,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-014
+    - t-013
+- c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gediminaičių dinastijos iškilimas
@@ -428,7 +441,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
-    - t-007- c-015
+    - t-007
+- c-015
   santrauka: 'Po Gediminaičių dinastijos išmirimo 1572 m. abiejų tautų politinė istorija vystėsi bendroje respublikoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -444,7 +458,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-016
+    - t-010
+- c-016
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gediminaičiai 4, 5, 16, 23, 25, 29,
@@ -496,7 +511,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-017
+    - t-001
+- c-017
   santrauka: 'Kęstutis turėjo didesnes teises negu kiti Gediminaičiai, kurie savo žemėse priklausė nuo didžiojo kunigaikščio valios.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -517,7 +533,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-018
+    - t-007
+- c-018
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Plačiosios valstybės kūrėjai buvo lietuviai. Iš lietuvių
@@ -530,7 +547,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-019
+    - t-001
+- c-019
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau
@@ -546,7 +564,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-020
+    - t-010
+- c-020
   santrauka: 'Gediminaičių ir Jogailaičių dinastijų palikuonys buvo susiję su žinomiausiomis Europos monarchijomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -563,7 +582,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-021
+    - t-009
+- c-021
   santrauka: 'Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija arba Gediminaičių dinastija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -579,7 +599,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-022
+    - t-012
+- c-022
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš lietuvių
@@ -593,7 +614,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-023
+    - t-015
+- c-023
   santrauka: 'Gediminaičių dinastijos Jogailos palikuonių teisės į sostus buvo pripažįstamos iš tradicijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -614,7 +636,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-024
+    - t-022
+- c-024
   santrauka: 'Lietuvos metraščio pasakojime Vytenis vaizduojamas kaip pirmasis Gediminaičių dinastijos valdovas po Palemono ir Kentauro herbo dinastijų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -634,7 +657,8 @@ Gediminaičių dinastija XIV a. buvo viena svarbiausių Lietuvos politinės vald
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023- c-025
+    - t-023
+- c-025
   santrauka: 'Prie Kauno rastoje senovinėje lietuviškoje monetoje Narbutas vienoje pusėje nurodė Gediminaičių Stulpų herbą ir neaiškią raidę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

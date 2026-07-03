@@ -61,6 +61,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Valerijono Bursos studentams skirti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

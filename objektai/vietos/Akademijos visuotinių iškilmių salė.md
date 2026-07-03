@@ -81,6 +81,7 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Akademijos visuotinių iškilmių salėje buvo 20 paprastos tapybos portretų ir trimis eilėmis išrikiuoti mediniai suolai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -98,6 +99,7 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -117,6 +119,7 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Akademijos visuotinių iškilmių salė buvo pailgos formos ir stovėjo kairėje pusėje prie bokšto, įėjus pro didžiuosius bažnyčios vartus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

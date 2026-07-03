@@ -496,6 +496,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -513,6 +514,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   pagrindžia:
     - t-015
     - t-001
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -529,6 +531,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -547,6 +550,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   pagrindžia:
     - t-017
     - t-009
+
 - c-005
   santrauka: 'Naugardukas buvo užpultas ir sudegintas kartu su kitomis pilimis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -559,6 +563,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -577,6 +582,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   pagrindžia:
     - t-020
     - t-011
+
 - c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -602,6 +608,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-008
   santrauka: 'Žygimanto privilegijoje Naugardukas minėtas tarp vietų, kur Vilniaus miestiečiai galėjo gabenti prekes be muito.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -626,6 +633,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   pagrindžia:
     - t-008
     - t-014
+
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -660,6 +668,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   pagrindžia:
     - t-006
     - t-019
+
 - c-010
   santrauka: 'Naugarduke buvo pastatyta viena iš dviejų minoritams skirtų bažnyčių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -689,6 +698,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   pagrindžia:
     - t-003
     - t-007
+
 - c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -707,6 +717,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -729,6 +740,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-013
   santrauka: 'Naugardukas XIII amžiaus viduryje jau buvo Mindaugo sostinė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -747,6 +759,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-014
   santrauka: 'Naugardukas 1044 m. Jaroslavo buvo įkurtas, tikėtina, dar lietuvių gyvenamoje žemėje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -765,6 +778,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-015
   santrauka: 'Totoriai iš stovyklos ties Kłecku pasiuntė nemažą būrį į Naugarduką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -781,6 +795,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -798,6 +813,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   pagrindžia:
     - t-021
     - t-026
+
 - c-017
   santrauka: '1314 m. rugsėjį brolis Henrikas su kariuomene įžengė į Krivičių žemę ir užėmė Naugarduko miestą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -814,6 +830,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-018
   santrauka: 'Naugarduke buvo pastatyta viena iš dviejų pranciškonų bažnyčių, kita stovėjo Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -840,6 +857,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-019
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -857,6 +875,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-020
   santrauka: 'Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -880,6 +899,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
+
 - c-021
   santrauka: 'Kunigaikštystės sostinė buvo perkelta iš Naugarduko į Kernavę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -907,6 +927,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
+
 - c-022
   santrauka: 'Henrikas su kariuomene nusibrovė iki Naugarduko, apiplėšė ir sudegino miestą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -938,6 +959,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
+
 - c-023
   santrauka: 'Palikę Slucką, skitai patraukė į Naugarduką, kur tuo metu buvo susirinkę didikai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -955,6 +977,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
+
 - c-024
   santrauka: 'Per skitų antplūdį dalis Naugarduke susirinkusių didikų, vadovaujama Alberto Goštauto, subruzdo ginti pilies.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -973,6 +996,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
+
 - c-025
   santrauka: 'Lietuvos metraštis pasakoja, kad po Skirmanto mirties Treniota sėdo valdyti Naugarduką ir valdė šį miestą daugelį metų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -988,6 +1012,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
+
 - c-026
   santrauka: 'Lietuvos metraštis pasakoja, kad Vaišvilkas grįžo į Naugarduką, įkūrė vienuolyną prie Nemuno tarp Lietuvos ir Naugarduko ir ten gyveno.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1005,6 +1030,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-033
+
 - c-027
   santrauka: 'Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1021,6 +1047,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-034
+
 - c-028
   santrauka: 'Lietuvos metraštis pasakoja, kad po Vytauto pergalės Dokudove kunigaikštis Kaributas su šeima pabėgo į Naugarduką.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

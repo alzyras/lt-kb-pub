@@ -271,6 +271,7 @@ Kuršiai buvo vakarinių baltų bendruomenė, minima tarp atskiras kalbas turėj
   pagrindžia:
     - t-010
     - t-001
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -286,6 +287,7 @@ Kuršiai buvo vakarinių baltų bendruomenė, minima tarp atskiras kalbas turėj
   pagrindžia:
     - t-006
     - t-003
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -300,6 +302,7 @@ Kuršiai buvo vakarinių baltų bendruomenė, minima tarp atskiras kalbas turėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -320,6 +323,7 @@ Kuršiai buvo vakarinių baltų bendruomenė, minima tarp atskiras kalbas turėj
   pagrindžia:
     - t-004
     - t-012
+
 - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -339,6 +343,7 @@ Kuršiai buvo vakarinių baltų bendruomenė, minima tarp atskiras kalbas turėj
   pagrindžia:
     - t-007
     - t-002
+
 - c-006
   santrauka: 'Skalviai prie Nemuno žemupio siejosi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -355,6 +360,7 @@ Kuršiai buvo vakarinių baltų bendruomenė, minima tarp atskiras kalbas turėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-007
   santrauka: 'Kuršiai prašė, kad krikščionims laimėjus jiems būtų sugrąžintos moterys ir vaikai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -374,6 +380,7 @@ Kuršiai buvo vakarinių baltų bendruomenė, minima tarp atskiras kalbas turėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-008
   santrauka: 'Kronikininkai mini spindinčius metalo ginklus pas kuršius ir žiemgalius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -388,6 +395,7 @@ Kuršiai buvo vakarinių baltų bendruomenė, minima tarp atskiras kalbas turėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   santrauka: 'Kuršių gyvenama teritorija prasidėjo į šiaurę nuo Minijos žemupio, Klaipėdos apylinkėse.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -403,6 +411,7 @@ Kuršiai buvo vakarinių baltų bendruomenė, minima tarp atskiras kalbas turėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-010
   santrauka: 'Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -417,6 +426,7 @@ Kuršiai buvo vakarinių baltų bendruomenė, minima tarp atskiras kalbas turėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-011
   santrauka: 'Staiga kilusi grėsmė išjudino daug kuršių, žemaičių ir lietuvių priešintis priešui, kurio pavojų rodė pavergtos Latvijos likimas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -439,6 +449,7 @@ Kuršiai buvo vakarinių baltų bendruomenė, minima tarp atskiras kalbas turėj
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-012
   santrauka: 'Kitais metais Utenis perkėlė karą iš Kuršo į Livoniją, o sutelkta kuršių ir žemaičių kariuomenė nusiaubė didelius Livonijos plotus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

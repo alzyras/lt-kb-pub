@@ -65,6 +65,7 @@ Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Pagansčiai buvo kaimas prie Zirgūnos upės, vėliau vadintas Menthen.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

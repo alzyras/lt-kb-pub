@@ -56,6 +56,7 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   santrauka: 'Vytautas per žygį prieš Pskovą paėmė Pskovo miestus Veližą ir Krasnyj Gorod.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

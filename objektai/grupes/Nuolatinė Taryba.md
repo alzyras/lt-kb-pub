@@ -71,6 +71,7 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -86,6 +87,7 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Nuolatinę Tarybą sudarė 18 senatorių ir 18 atstovų; du trečdaliai jų turėjo būti lenkai, o trečdalis lietuviai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -107,6 +109,7 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Be Rusijos ambasadoriaus Štakelbergo sutikimo nei karalius, nei Nuolatinė Taryba negalėjo priimti sprendimų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -123,6 +126,7 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Nuolatinė Taryba ir karo bei iždo komisijos buvo atgaivintos grąžinus po I padalinimo buvusią santvarką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

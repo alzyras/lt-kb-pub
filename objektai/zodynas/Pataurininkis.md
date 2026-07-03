@@ -76,6 +76,7 @@ Tai buvo žmogus, kurį dar Algirdas dėl didelių gabumų iš kepėjo sūnaus i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Mikalojus Mikalojaitis Radvila Jaunasis nuo 1495 m. buvo pataurininkis.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

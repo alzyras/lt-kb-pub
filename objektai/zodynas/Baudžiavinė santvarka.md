@@ -64,6 +64,7 @@ Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Per 1853-1856 m. karą su Turkija Rusijos carinė vyriausybė baudžiavinę santvarką laikė didžiausia kliūtimi šalies ūkiui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

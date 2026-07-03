@@ -164,6 +164,7 @@ Verneris iš Orzelno buvo Kryžiuočių ordino didysis magistras, Dusburgiečio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-002
   santrauka: '„Prūsijos žemės kronika“ buvo įteikta didžiajam magistrui Verneriui iš Orzelno peržiūrėti ir pataisyti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -179,6 +180,7 @@ Verneris iš Orzelno buvo Kryžiuočių ordino didysis magistras, Dusburgiečio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -196,6 +198,7 @@ Verneris iš Orzelno buvo Kryžiuočių ordino didysis magistras, Dusburgiečio 
   pagrindžia:
     - t-005
     - t-004
+
 - c-004
   santrauka: 'Dusburgietis nurodo, kad Verneris iš Orzelno Ordino magistru buvo išrinktas 1324 m. liepos 6 d.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -209,6 +212,7 @@ Verneris iš Orzelno buvo Kryžiuočių ordino didysis magistras, Dusburgiečio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -235,6 +239,7 @@ Verneris iš Orzelno buvo Kryžiuočių ordino didysis magistras, Dusburgiečio 
   pagrindžia:
     - t-011
     - t-017
+
 - c-006
   santrauka: '1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -254,6 +259,7 @@ Verneris iš Orzelno buvo Kryžiuočių ordino didysis magistras, Dusburgiečio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -278,6 +284,7 @@ Verneris iš Orzelno buvo Kryžiuočių ordino didysis magistras, Dusburgiečio 
   pagrindžia:
     - t-006
     - t-016
+
 - c-008
   santrauka: '„Prūsijos žemės kronika“ buvo įteikta didžiajam magistrui Verneriui iš Orzelno peržiūrėti ir pataisyti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -291,6 +298,7 @@ Verneris iš Orzelno buvo Kryžiuočių ordino didysis magistras, Dusburgiečio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-009
   santrauka: '1326 m. Petras iš Dusburgo užbaigė „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -307,6 +315,7 @@ Verneris iš Orzelno buvo Kryžiuočių ordino didysis magistras, Dusburgiečio 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-010
   santrauka: 'Vernerio iš Orzelno laikais Kryžiuočių ordino statute buvo pabrėžtas pamaldumas ir apriboti pasaulietiniai brolių poreikiai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -327,6 +336,7 @@ Verneris iš Orzelno buvo Kryžiuočių ordino didysis magistras, Dusburgiečio 
   pagrindžia:
     - t-002
     - t-012
+
 - c-011
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -350,6 +360,7 @@ Verneris iš Orzelno buvo Kryžiuočių ordino didysis magistras, Dusburgiečio 
   pagrindžia:
     - t-007
     - t-003
+
 - c-012
   santrauka: 'Verneris iš Orzelno 1324 m. liepos 6 d. Marienburge buvo išrinktas keturioliktuoju didžiuoju magistru.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

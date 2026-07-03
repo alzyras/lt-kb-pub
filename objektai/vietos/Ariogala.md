@@ -192,7 +192,8 @@ Ariogala žinių bazėje iškyla kaip Žemaičių žemė, kurios pusę Mindaugas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-002
+    - t-007
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Po 1348 m. iš vakarų į Pabaltijį atslinkęs didysis maras («juo­
@@ -206,7 +207,8 @@ Ariogala žinių bazėje iškyla kaip Žemaičių žemė, kurios pusę Mindaugas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-    - t-004- c-003
+    - t-004
+- c-003
   santrauka: '1950 m. liepos 22 d. prie Ariogalos ir Vilkijos rajonų ribos MGB 208-ojo pulko kareiviai puolė partizanų bunkerį Daugėliškių miške.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -222,7 +224,8 @@ Ariogala žinių bazėje iškyla kaip Žemaičių žemė, kurios pusę Mindaugas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Ariogalos apylinkės buvo laikomos pagonims svarbia vietove, siejama su Romuva, Perkūno šventykla ir Krivių Krivaičio buveine.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -239,7 +242,8 @@ Ariogala žinių bazėje iškyla kaip Žemaičių žemė, kurios pusę Mindaugas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-005
+    - t-005
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^254) **n** skyrius: valstybės iškilimas
@@ -255,7 +259,8 @@ Ariogala žinių bazėje iškyla kaip Žemaičių žemė, kurios pusę Mindaugas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-006
+    - t-001
+- c-006
   santrauka: 'Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė Ariogalos apylinkes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -271,7 +276,8 @@ Ariogala žinių bazėje iškyla kaip Žemaičių žemė, kurios pusę Mindaugas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-007
+    - t-006
+- c-007
   santrauka: 'Žemaitiją nusiaubęs priešas sulygino su žeme Ariogalos, Vaikių, Raseinių ir Klogėnų valsčius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -295,7 +301,8 @@ Ariogala žinių bazėje iškyla kaip Žemaičių žemė, kurios pusę Mindaugas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-008
+    - t-008
+- c-008
   santrauka: 'Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama visiškai sunaikino Ariogalos, Pernaravos ir Labūnavos žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -328,7 +335,8 @@ Ariogala žinių bazėje iškyla kaip Žemaičių žemė, kurios pusę Mindaugas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-009
+    - t-009
+- c-009
   santrauka: 'Narbutas Liutaurą vadina jūrų karžygiu ir rašo, kad jis 1262 m. atstatė senovinę Ariogalą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -340,7 +348,8 @@ Ariogala žinių bazėje iškyla kaip Žemaičių žemė, kurios pusę Mindaugas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-010
+    - t-010
+- c-010
   santrauka: 'Narbutas rašo, kad Liutauro sūnus Vytenis, gimęs 1232 m. Žemaitijoje, gyveno Ariogaloje ir vėliau su tėvu valdė Polocko kunigaikštystę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -357,7 +366,8 @@ Ariogala žinių bazėje iškyla kaip Žemaičių žemė, kurios pusę Mindaugas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-011
+    - t-011
+- c-011
   santrauka: 'Narbutas Ariogalos pavadinimą kildina iš keliautojų posakio „E-ira galas, nėra galo“, ištarto susidūrus su kliūtimis miškuose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

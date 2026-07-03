@@ -59,6 +59,7 @@ Režimui sąmoningai keliant žemės mokesčius valstiečiams, didinant pyliavų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1949 m. daugiau kaip pusė Lietuvos valstiečių įsiskolino valstybei už pieną ir mėsą, o tokių ūkių savininkai buvo nuteisti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

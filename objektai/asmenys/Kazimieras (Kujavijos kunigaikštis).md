@@ -87,6 +87,7 @@ Kazimieras, Kujavijos kunigaikštis, Dusburgiečio pasakojime minimas kaip Lenki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-002
   santrauka: 'Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagalbą, kai lenkai išsigando Sventopelko raitelių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -102,6 +103,7 @@ Kazimieras, Kujavijos kunigaikštis, Dusburgiečio pasakojime minimas kaip Lenki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Magistras su Torunės broliais ir kunigaikščiu Kazimieru ketino žygiuoti prieš Sventopelko statomą Sveče pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -120,6 +122,7 @@ Kazimieras, Kujavijos kunigaikštis, Dusburgiečio pasakojime minimas kaip Lenki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Lenkijos kunigaikštis Kazimieras buvo pakviestas žygiuoti su kariuomene prieš Sventopelką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -140,6 +143,7 @@ Kazimieras, Kujavijos kunigaikštis, Dusburgiečio pasakojime minimas kaip Lenki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   santrauka: 'Lenkijos kunigaikštis Kazimieras po Vytenio žygio į Bresto žemę paprašė Prūsijos magistro Meinhardo pagalbos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -156,7 +160,8 @@ Kazimieras, Kujavijos kunigaikštis, Dusburgiečio pasakojime minimas kaip Lenki
   statusas: verified
 
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-006
+  patikimumo_saltinis: ai
+- c-006
   santrauka: 'Dusburgietis teigia, kad po to, kai jie ėmė trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių žūties, leidosi jų persekioti su tūkstančiu ir aštuoniais šimtais vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |

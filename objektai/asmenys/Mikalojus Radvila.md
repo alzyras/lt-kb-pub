@@ -190,6 +190,7 @@ Mikalojus Radvila šaltiniuose minimas kaip Vilniaus vaivada, LDK kancleris ir L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -211,6 +212,7 @@ Mikalojus Radvila šaltiniuose minimas kaip Vilniaus vaivada, LDK kancleris ir L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Vaitiekus Kločka skubiai iškvietė į Vilnių Vilniaus vaivadą Mikalojų Radvilą ir Trakų vaivadą Grigalių Astiką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -229,6 +231,7 @@ Mikalojus Radvila šaltiniuose minimas kaip Vilniaus vaivada, LDK kancleris ir L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -248,6 +251,7 @@ Mikalojus Radvila šaltiniuose minimas kaip Vilniaus vaivada, LDK kancleris ir L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-005
   santrauka: 'Mikalojus Radvila smogė priešams į sparną ir nulėmė mūšio sėkmę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -265,6 +269,7 @@ Mikalojus Radvila šaltiniuose minimas kaip Vilniaus vaivada, LDK kancleris ir L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-006
   santrauka: 'Karalius Mikalojui Radvilai, Lietuvos maršalui, atidavė Raigardą ir Goniondzą iš Glinskio turto.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -290,6 +295,7 @@ Mikalojus Radvila šaltiniuose minimas kaip Vilniaus vaivada, LDK kancleris ir L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -307,6 +313,7 @@ Mikalojus Radvila šaltiniuose minimas kaip Vilniaus vaivada, LDK kancleris ir L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-008
   santrauka: '1560 m. vasario 12 d. Mikalojus Radvila iš Rotundo gavo jo Lietuvos istorijos rankraštį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -335,6 +342,7 @@ Mikalojus Radvila šaltiniuose minimas kaip Vilniaus vaivada, LDK kancleris ir L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   santrauka: 'Lietuvos maršalas Mikalojus Radvila sutelkė kariuomenę ir palydėjo Jerim Berdį į skitų kraštą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -353,6 +361,7 @@ Mikalojus Radvila šaltiniuose minimas kaip Vilniaus vaivada, LDK kancleris ir L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-010
   santrauka: 'Vilniaus vaivada Mikalojus Radvila dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -384,6 +393,7 @@ Mikalojus Radvila šaltiniuose minimas kaip Vilniaus vaivada, LDK kancleris ir L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-011
   santrauka: 'Vilniaus vaivada ir Olykos bei Nesvyžiaus kunigaikštis Mikalojus Radvila buvo įtrauktas į karaliaus pasiuntinybę į Vieną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

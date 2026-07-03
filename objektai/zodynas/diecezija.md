@@ -58,6 +58,7 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Klodovo klebonija, duota naujajam vyskupui, buvo Gniezno diecezijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -52,6 +52,7 @@ Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų (an
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Prasidėjus Šaltajam karui, JAV keitė požiūrį į dipukus, o JAV Kongresas 1948 m. viduryje priėmė Perkeltųjų asmenų įstatymą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

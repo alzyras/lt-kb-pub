@@ -2518,7 +2518,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-002
+    - t-013
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dabar reikėjo pa­
@@ -2530,7 +2531,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   citata_rodoma: ''
   statusas: verified
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-003
+  patikimumo_saltinis: ai
+- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kad Vytauto lenkai bijojo ir 1401 m.
@@ -2542,7 +2544,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   citata_rodoma: ''
   statusas: verified
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-004
+  patikimumo_saltinis: ai
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo metu pagerėjo reikalai ir su
@@ -2561,7 +2564,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   citata_rodoma: ''
   statusas: verified
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-005
+  patikimumo_saltinis: ai
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kariuomenės taip išsirikiavo, kad ordino dešinysis sparnas
@@ -2574,7 +2578,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-006
+    - t-006
+- c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vokiečių Ordinas dar griež­
@@ -2587,7 +2592,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034- c-007
+    - t-034
+- c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     O tai ne­
@@ -2601,7 +2607,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
-    - t-004- c-008
+    - t-004
+- c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lenkai stengėsi pastoti tam kelią. 1398 m.
@@ -2615,7 +2622,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-066- c-009
+    - t-066
+- c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šie Vytauto nedraugingi žygiai Lenkijos atžvilgiu negalėjo
@@ -2633,7 +2641,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-010
+    - t-001
+- c-010
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lenkai žiūrėjo į Vytautą kaip į priklausomą kunigaikštį
@@ -2647,7 +2656,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-036- c-011
+    - t-036
+- c-011
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Net ir svetur Vytautas mokė­
@@ -2659,7 +2669,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-049- c-012
+    - t-049
+- c-012
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Galingu tapęs, jis pradėjo
@@ -2673,7 +2684,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-057- c-013
+    - t-057
+- c-013
   santrauka: '1326 m. Gedimino raiteliai kartu su lenkais nuniokojo Brandenburgo žemę vakariau Kryžiuočių ordino valdų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -2689,7 +2701,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-041- c-014
+    - t-041
+- c-014
   santrauka: 'Lenkų priešinimasis trukdė prieš Vladislovo Jogailos ir Lenkijos senato valią uždėti Vytautui Lietuvos karaliaus karūną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2709,7 +2722,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029- c-015
+    - t-029
+- c-015
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
@@ -2723,7 +2737,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-053
-    - t-018- c-016
+    - t-018
+- c-016
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vargu tos nuolaidos turėjo kokį ryšį su Prūsų
@@ -2735,7 +2750,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-017
+    - t-006
+- c-017
   santrauka: 'Lenkijos ponų taryba privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo ceremonijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2758,7 +2774,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-067- c-018
+    - t-067
+- c-018
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gyvenę nekompaktiškai lenkai neturėjo galimybių rasti vaikams mo-
@@ -2774,7 +2791,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019- c-019
+    - t-019
+- c-019
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jogaila su šio dokumento
@@ -2788,7 +2806,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-042- c-020
+    - t-042
+- c-020
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tuo lemtingu momentu Jungingenas į kautynes
@@ -2800,7 +2819,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-064
-    - t-006- c-021
+    - t-006
+- c-021
   santrauka: 'Vytautas, būdamas Jogailos dukters globėjas, kurį laiką turėjo tiek įtakos Lenkijoje, kad sukėlė nepasitenkinimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2816,7 +2836,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-054- c-022
+    - t-054
+- c-022
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau didžiausias Krėvos sutarties minusas, kad viską palikta lem-
@@ -2837,7 +2858,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-    - t-026- c-023
+    - t-026
+- c-023
   santrauka: 'Atvykusiems lenkams anuometinis Vilnius iškilo kaip niūrokas, bet gražiu kraštovaizdžiu kerintis miestas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2854,7 +2876,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-024
+    - t-003
+- c-024
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kita kryžiuočių dalis nusivijo į rytus bėgančius tuos, kurie bėgo
@@ -2868,7 +2891,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-025
+    - t-002
+- c-025
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Il KNYGA
@@ -2887,7 +2911,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-026
+    - t-009
+- c-026
   santrauka: 'Lucjano Żeligowskio akciją sveikino Vilniaus lenkų minios, o Lietuvai teko stabdyti tolesnį jo dalinių judėjimą į Lietuvos teritoriją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2904,7 +2929,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-030- c-027
+    - t-030
+- c-027
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     čio demografinė padėtis pasikeitė lietuvių naudai, lenkų Vilniuje liko
@@ -2922,7 +2948,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-028
+    - t-010
+- c-028
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kiek tos kovos Kęstučio valdymo laiku padidėjo,
@@ -2942,7 +2969,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027- c-029
+    - t-027
+- c-029
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dalis kryžiuočių, kurie kovojo su lietuviais, dabar
@@ -2957,7 +2985,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-065
-    - t-040- c-030
+    - t-040
+- c-030
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nors Jadvyga ir buvo
@@ -2973,7 +3002,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-056
-    - t-033- c-031
+    - t-033
+- c-031
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tikėtiniau, kad kantoninė
@@ -2988,7 +3018,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-045- c-032
+    - t-045
+- c-032
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nuomonių skirtumas ir jų paaš­
@@ -3005,7 +3036,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
-    - t-038- c-033
+    - t-038
+- c-033
   santrauka: 'Vytauto akte priminta, kad lenkai pasikvietė Jogailą į savo sostą ir pripažino jį karaliumi Vladislovu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -3034,7 +3066,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   pagrindžia:
     - t-025
     - t-017
-    - t-004- c-034
+    - t-004
+- c-034
   santrauka: 'Lucjano Żeligowskio akciją sveikino Vilniaus lenkų minios, Tautų Sąjunga pasirodė bejėgė, o Lietuvai teko stabdyti želigovskininkų judėjimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3054,7 +3087,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-039- c-035
+    - t-039
+- c-035
   santrauka: 'Po Ostrovos sutarties lenkai, remdamiesi Krėvės unijos aktu, laikė Lietuvą savo provincija.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -3071,7 +3105,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-    - t-016- c-036
+    - t-016
+- c-036
   santrauka: '1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota Vidurinė Lietuva.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3085,7 +3120,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-061- c-037
+    - t-061
+- c-037
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos
@@ -3104,7 +3140,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-052- c-038
+    - t-052
+- c-038
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Be to, Kronika apskritai buvo para­
@@ -3121,7 +3158,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-064
-    - t-024- c-039
+    - t-024
+- c-039
   santrauka: 'Lietuva rūpinosi internuotų lenkų karių apgyvendinimu ir maitinimu bei 12 000 Lenkijos žydų pabėgėlių išlaikymu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3141,7 +3179,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-031- c-040
+    - t-031
+- c-040
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau kai ten išaiškėjo, kad, užuot
@@ -3159,7 +3198,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-060- c-041
+    - t-060
+- c-041
   santrauka: 'Nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“ arba „senalietuviais“, bet dauguma integravosi į lenkų tautą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3174,7 +3214,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-037- c-042
+    - t-037
+- c-042
   santrauka: 'Vytautas ilgą laiką turėjo stiprią jo įtakai pasidavusią partiją tarp lenkų ponų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -3187,7 +3228,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023- c-043
+    - t-023
+- c-043
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Po Ostrovos sutarties lietuviai savo valstybę laikė visiš­
@@ -3199,7 +3241,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   citata_rodoma: ''
   statusas: verified
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-044
+  patikimumo_saltinis: ai
+- c-044
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau galima buvo numatyti, kad tas prašmatnias
@@ -3220,7 +3263,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-044- c-045
+    - t-044
+- c-045
   santrauka: 'Santykiai su Lenkija gerėjo, nes per pusę šimtmečio Vilniaus demografinė padėtis pasikeitė lietuvių naudai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3244,7 +3288,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-063- c-046
+    - t-063
+- c-046
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Iš penkių dešimčių su viršum ku­
@@ -3258,7 +3303,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-047
+    - t-005
+- c-047
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pasitarimai vyko, teikta ir pasiūlymų, tačiau visus
@@ -3279,7 +3325,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-051
-    - t-059- c-048
+    - t-059
+- c-048
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Lenkijos žemės apiplėšimą
@@ -3299,7 +3346,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
-    - t-050- c-049
+    - t-050
+- c-049
   santrauka: 'Prūsų kariuomenė kelis kartus užpuolė Lenkijos žemę, degino namus, žudė suaugusiuosius, o moteris ir vaikus varė į nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -3319,7 +3367,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-050
+    - t-021
+- c-050
   santrauka: '1430 m. spalio 30 d. mirus Vytautui, jo gedėjo visa Lietuva ir lenkai, kuriuos jis buvo vedęs į pergalingus mūšius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3338,7 +3387,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-    - t-028- c-051
+    - t-028
+- c-051
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tarp jų Polocko kun. Andrie­
@@ -3352,7 +3402,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-052
+    - t-022
+- c-052
   santrauka: 'Lenkijos vyrai stojo į kovą su įsiveržusia prūsų kariuomene, bet prūsai privertė lenkus bėgti ir išžudė daugybę žmonių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -3370,7 +3421,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-043- c-053
+    - t-043
+- c-053
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LLV seimuose ilgainiui įsigalė-
@@ -3386,7 +3438,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-    - t-058- c-054
+    - t-058
+- c-054
   santrauka: 'Įvairūs lenkų autoriai Stryjkovskį laikė tipišku lenkų renesanso atstovu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -3400,7 +3453,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-046- c-055
+    - t-046
+- c-055
   santrauka: '1291 m. lietuviai nuniokojo Kujaviją, o 1292 m. Pukuveras pasiuntė Vytenį į Lenkiją su didele kariuomene.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -3416,7 +3470,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-048- c-056
+    - t-048
+- c-056
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės poli-
@@ -3431,7 +3486,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-057
+    - t-014
+- c-057
   santrauka: 'LDK elito lenkėjimas keitė Lietuvos teisinę ir politinę padėtį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3447,7 +3503,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-058
+    - t-015
+- c-058
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Totorius su vokiečiais jis kolonizavo ne iš meilės,
@@ -3463,7 +3520,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-035- c-059
+    - t-035
+- c-059
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Len-
@@ -3477,7 +3535,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-060
+    - t-012
+- c-060
   santrauka: 'Lenkai Vytautą laikė priklausomu kunigaikščiu, turinčiu jų klausyti ir ginti jų interesus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -3492,7 +3551,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-055- c-061
+    - t-055
+- c-061
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkai, sudarę apie 3,2 proc. gyventojų, nors, jų nuomone, lenkų tu-
@@ -3513,7 +3573,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-062
+    - t-020
+- c-062
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Prieš lenkus buvo pastatyta vos ketvirta ar penkta kryžiuočių
@@ -3525,7 +3586,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   citata_rodoma: ''
   statusas: verified
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-063
+  patikimumo_saltinis: ai
+- c-063
   santrauka: 'Lenkijos vyrai stojo į kovą su įsiveržusia prūsų kariuomene, bet prūsai privertė lenkus bėgti ir išžudė daugybę žmonių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -3541,7 +3603,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-043- c-064
+    - t-043
+- c-064
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     vyko labai greitai, nes Vytautas lakstė smarkiai ir daug kartų
@@ -3554,7 +3617,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-065
+    - t-006
+- c-065
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet iki kol sąjungininkus toje vietoje
@@ -3568,7 +3632,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   citata_rodoma: ''
   statusas: verified
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-066
+  patikimumo_saltinis: ai
+- c-066
   santrauka: 'Lenkai Krėvės unija siekė laimėti sau ginčijamus žemės plotus, todėl Lenkijoje ėmė reikštis silpna opozicija.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -3587,7 +3652,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-047
-    - t-002- c-067
+    - t-002
+- c-067
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kaip kiek­
@@ -3604,7 +3670,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
     - t-002
     - t-004
     - t-005
-    - t-006- c-068
+    - t-006
+- c-068
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vytauto vadovaujami
@@ -3617,7 +3684,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-062- c-069
+    - t-062
+- c-069
   santrauka: 'Nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“ arba „senalietuviais“, bet dauguma integravosi į lenkų tautą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3632,7 +3700,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-068- c-070
+    - t-068
+- c-070
   santrauka: 'Vytautas net prieš lenkus pradėjo ruoštis į karą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -3646,7 +3715,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_saltinis: ai
   pagrindžia:
     - t-069
-    - t-002- c-071
+    - t-002
+- c-071
   santrauka: 'Lenkai iš tolo bijodavo lietuvių žygių, nes lietuviai prisiplėšdavo grobio ir parsivesdavo belaisvių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -3660,7 +3730,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-070- c-072
+    - t-070
+- c-072
   santrauka: 'Vyriausioji Lenkijos vėliava pateko į priešų rankas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -3673,7 +3744,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-071- c-073
+    - t-071
+- c-073
   santrauka: 'Lenkams įkyrėjo dažnai pasikartojančios nelaimės, o suskilusi Lenkų karalystė sunkiai susitardavo dėl gynybos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3690,7 +3762,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-072- c-074
+    - t-072
+- c-074
   santrauka: 'Germantas sudarė draugystę su lenkais, siūlydamas sąjungą ir siekdamas bendromis jėgomis pulti rusus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3714,7 +3787,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-073- c-075
+    - t-073
+- c-075
   santrauka: 'Kai kurių asmenų maištingi sumanymai išardė sutartimi sutvirtintą lietuvių draugystę su lenkais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3732,7 +3806,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-074- c-076
+    - t-074
+- c-076
   santrauka: 'Giliginui valdant lietuvių kariaunos nusiaubė Mazoviją, Kulmo kraštą ir Kujaviją, o lenkai buvo smarkiai sumušti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3763,7 +3838,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-075- c-077
+    - t-075
+- c-077
   santrauka: 'Lešekas teigė, kad ginkluoti lenkai turės ne kovoti su bėgančiais priešais, o juos žudyti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3803,7 +3879,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-076- c-078
+    - t-076
+- c-078
   santrauka: 'Mūšyje lenkai atsiėmė visą grobį, o keli tūkstančiai lietuvių žuvo kautynėse ir bėgdami.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3827,7 +3904,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-077- c-079
+    - t-077
+- c-079
   santrauka: 'Lenkai savinosi Kijevą ir Volynę, remdamiesi Boleslovo Narsiojo pergalėmis ir naujais giminystės ryšiais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3850,7 +3928,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-078- c-080
+    - t-078
+- c-080
   santrauka: 'Lenkai dvejojo, ar kariuomenę kreipti prieš lietuvius, ar prieš kryžiuočius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3881,7 +3960,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-079- c-081
+    - t-079
+- c-081
   santrauka: 'Lenkai pasiuntė į Lietuvą pasiuntinius prašyti Gedimino dukters Aldonos rankos Lenkijos valdovui Kazimierui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3900,7 +3980,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-080- c-082
+    - t-080
+- c-082
   santrauka: 'Lietuvos didikų ginče nugalėjo ryšių su Jogailos gimine ir sąjungos su lenkais šalininkai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3917,7 +3998,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-081- c-083
+    - t-081
+- c-083
   santrauka: 'Kazimieras su žymiaisiais lenkų didikais viešėjo Sandomire, kai karalius Vladislovas buvo išvykęs iš Lenkijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3952,7 +4034,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-082- c-084
+    - t-082
+- c-084
   santrauka: 'Pasak Lietuvos istorikų, Kazimieras negavęs lenkų pritarimo slaptai iškeliavo iš Sandomiro į Brestą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3970,7 +4053,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-083- c-085
+    - t-083
+- c-085
   santrauka: 'Lenkai pirmieji atvirai užsipuolė karalių ir reikalavo sušaukti luomus į Piotrkovo seimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -3998,7 +4082,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-084- c-086
+    - t-084
+- c-086
   santrauka: 'Lenkai tvirtino, kad Jogailos, Vytauto ir Žygimanto laikų susitarimų negalima keisti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4022,7 +4107,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-085- c-087
+    - t-085
+- c-087
   santrauka: 'Lenkai įtarė lietuvius ir karalių dėl Podolės nuniokojimo, teigdami, kad lietuviai sukurstė skitus prieš lenkus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4052,7 +4138,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-086- c-088
+    - t-086
+- c-088
   santrauka: 'Po visą Lenkiją sklidusios paskalos paskatino luomus reikalauti, kad valdovas neatplėštų žemių nuo karalystės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4072,7 +4159,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-087- c-089
+    - t-087
+- c-089
   santrauka: 'Lenkų seimas susirinko Parčeve, o lietuvių seimas Breste; po ginčų nutarta susitikti Lomžoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4097,7 +4185,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-088- c-090
+    - t-088
+- c-090
   santrauka: 'Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos kare prieš turkus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4115,7 +4204,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-089- c-091
+    - t-089
+- c-091
   santrauka: 'Aleksandras Vilniuje užbaigė lietuvių ir lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4139,7 +4229,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-090- c-092
+    - t-090
+- c-092
   santrauka: 'Aleksandras ir Šich Achmetas suteikė bajoriškųjų lengvatų karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4165,7 +4256,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-091- c-093
+    - t-091
+- c-093
   santrauka: 'Bychovco kronikos pasakojime lenkai vaizduojami atėmę Vytautui skirtą karaliaus vainiką, kad Lietuva netaptų karalyste.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -4182,7 +4274,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-092- c-094
+    - t-092
+- c-094
   santrauka: 'Narbuto lenkų kalba parašytas veikalas išryškino etnokultūrinius lietuvių ir „koroniažų“, tai yra Lenkijos gyventojų, skirtumus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -4196,7 +4289,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-093- c-095
+    - t-093
+- c-095
   santrauka: 'Narbutas perteikė autoriaus pranašystę, kad Lenkijos ir Lietuvos tautos nenukryps kaip čekai dėl valdovo tikėjimo ir valdinių prisirišimo prie sosto.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -4212,7 +4306,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-094- c-096
+    - t-094
+- c-096
   santrauka: 'Narbutas aiškino, kad kai kurie lietuviški herbai įėjo į Lenkijos herbynus tikriausiai persikėlus jais besinaudojusioms šeimoms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -4228,7 +4323,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-095- c-097
+    - t-095
+- c-097
   santrauka: 'Narbutas nurodė dokumentinius įrodymus, kad XVI a. teismuose nuosprendžiai sakyti lietuviškai, o knygose rašyti rusiškai, lotyniškai arba lenkiškai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -4242,7 +4338,8 @@ Lenkai Lietuvos istorijos žinių bazėje siejami su Lietuvos ir Lenkijos unijų
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-096- c-098
+    - t-096
+- c-098
   santrauka: 'Aprašomoje vietoje viena iš trijų mūrinių šventyklų buvo lenkų, o dvi kitos - rusinų apeigoms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

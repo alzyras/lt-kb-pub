@@ -75,6 +75,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 ## Pastabos
 
 - Šiame šaltinyje kalavijas aprašomas kaip atminties ir reprezentacijos objektas.

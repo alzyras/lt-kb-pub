@@ -240,6 +240,7 @@ Pagudėnai buvo Pagudės prūsų žemės gyventojai, siejami su teritorija į š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-002
   santrauka: 'Pagudėnai užpuolė Elbingo komtūrą, Kristburgo komtūrą Helvigą iš Goldbacho bei jų padėjėjus ir išsivarė juos į nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -257,6 +258,7 @@ Pagudėnai buvo Pagudės prūsų žemės gyventojai, siejami su teritorija į š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-003
   santrauka: 'Prūsams vėl atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -278,6 +280,7 @@ Pagudėnai buvo Pagudės prūsų žemės gyventojai, siejami su teritorija į š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-004
   santrauka: 'Pagudėnai prie Kristburgo užpuolė tikinčiųjų pamedėnų pilaitę, į ją įsiveržė ir ją sugriovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -299,6 +302,7 @@ Pagudėnai buvo Pagudės prūsų žemės gyventojai, siejami su teritorija į š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: '1273 m. pagudėnai paslėpė kariuomenę miške prie Elbingo ir iš pasalos atkirto miestiečiams kelią į miestą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -318,6 +322,7 @@ Pagudėnai buvo Pagudės prūsų žemės gyventojai, siejami su teritorija į š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'Pagudėnai gyveno prūsų žemėje į šiaurės rytus nuo Pamedės, vakaruose siekusioje dabartinio Elbingo apylinkes, o rytuose Alnos upę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -331,6 +336,7 @@ Pagudėnai buvo Pagudės prūsų žemės gyventojai, siejami su teritorija į š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-007
   santrauka: 'Tų pačių metų rudenį broliai vėl įsiveržė į Pagudės žemę, ją nusiaubė, daug žmonių paėmė į nelaisvę arba nukovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -353,6 +359,7 @@ Pagudėnai buvo Pagudės prūsų žemės gyventojai, siejami su teritorija į š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-008
   santrauka: 'Magistras ir broliai užkariavo pagudėnų rankose buvusią Heilsbergo pilį, dalį žmonių paėmė į nelaisvę, o kitus išžudė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -374,6 +381,7 @@ Pagudėnai buvo Pagudės prūsų žemės gyventojai, siejami su teritorija į š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-009
   santrauka: 'Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -395,6 +403,7 @@ Pagudėnai buvo Pagudės prūsų žemės gyventojai, siejami su teritorija į š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-010
   santrauka: '1274 m. pagudėnai kartu su varmiais, notangais, bartais ir sembais grįžo į Bažnyčios visuotinybę ir davė įkaitų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -416,6 +425,7 @@ Pagudėnai buvo Pagudės prūsų žemės gyventojai, siejami su teritorija į š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-011
   santrauka: 'Trečia — Pagudė193, kurioje [gyveno] pagudėnai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -428,6 +438,7 @@ Pagudėnai buvo Pagudės prūsų žemės gyventojai, siejami su teritorija į š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-012
   santrauka: 'Pagudėnai įtikinėjo krikščionis atiduoti pilį ir pasiduoti, grasindami visus išžudyti ir sunaikinti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -445,6 +456,7 @@ Pagudėnai buvo Pagudės prūsų žemės gyventojai, siejami su teritorija į š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-013
   santrauka: '1273 m. pagudėnai paslėpė kariuomenę miške prie Elbingo ir iš pasalos atkirto miestiečiams kelią į miestą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -464,6 +476,7 @@ Pagudėnai buvo Pagudės prūsų žemės gyventojai, siejami su teritorija į š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-014
   santrauka: 'Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -484,6 +497,7 @@ Pagudėnai buvo Pagudės prūsų žemės gyventojai, siejami su teritorija į š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-015
   santrauka: 'Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko į Elbingą ir prisidėjo prie brolių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -506,6 +520,7 @@ Pagudėnai buvo Pagudės prūsų žemės gyventojai, siejami su teritorija į š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-016
   santrauka: 'Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis nusiaubė Pagudę bei Pamedę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -523,6 +538,7 @@ Pagudėnai buvo Pagudės prūsų žemės gyventojai, siejami su teritorija į š
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-017
   santrauka: '1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę kariauti su pagudėnais ir pastatė Elbingo pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

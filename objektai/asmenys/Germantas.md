@@ -124,6 +124,7 @@ Germantas Lietuvos kronikose vaizduojamas kaip kunigaikščio Šventaragio sūnu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -155,6 +156,7 @@ Germantas Lietuvos kronikose vaizduojamas kaip kunigaikščio Šventaragio sūnu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėjo pirmasis įkurdinti vaidilą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -179,6 +181,7 @@ Germantas Lietuvos kronikose vaizduojamas kaip kunigaikščio Šventaragio sūnu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Šventaragis, siekdamas ramybės tėvynėje, tarybos posėdyje paskyrė beveik šešiasdešimtmetį sūnų Germantą savo įpėdiniu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -198,6 +201,7 @@ Germantas Lietuvos kronikose vaizduojamas kaip kunigaikščio Šventaragio sūnu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Germantas apvalė valdovų laidojimo aikštę, paskelbė ją laidotuvių vieta ir įsteigė žynių tarnybas amžinajai ugniai prižiūrėti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -225,6 +229,7 @@ Germantas Lietuvos kronikose vaizduojamas kaip kunigaikščio Šventaragio sūnu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'Germantas sudarė sąjungą su lenkais, nes siekė visomis jėgomis pulti rusus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -250,6 +255,7 @@ Germantas Lietuvos kronikose vaizduojamas kaip kunigaikščio Šventaragio sūnu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   santrauka: 'Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

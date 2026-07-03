@@ -182,6 +182,7 @@ Varmiai buvo Varmės gyventojai, šaltiniuose minimi tarp prūsų žemių žmoni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-002
   santrauka: 'Varmės vardas greičiausiai yra upėvardinės kilmės, plg.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -200,6 +201,7 @@ Varmiai buvo Varmės gyventojai, šaltiniuose minimi tarp prūsų žemių žmoni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-003
   santrauka: 'Ketvirta — Varmė194, kurioje [gyveno] varmiai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -214,6 +216,7 @@ Varmiai buvo Varmės gyventojai, šaltiniuose minimi tarp prūsų žemių žmoni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-004
   santrauka: '1274 m. varmiai kartu su pagudėnais, notangais, bartais ir sembais grįžo į Bažnyčios vienybę ir davė įkaitų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -235,6 +238,7 @@ Varmiai buvo Varmės gyventojai, šaltiniuose minimi tarp prūsų žemių žmoni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Po prūsų atkritimo nuo tikėjimo varmiai savo kariuomenės vadu ir vyresniuoju išsirinko Glapą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -256,6 +260,7 @@ Varmiai buvo Varmės gyventojai, šaltiniuose minimi tarp prūsų žemių žmoni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-006
   santrauka: 'Notangai ir varmiai išsižadėjo piktų sumanymų ir davė žodį būti ištikimi Ordino broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -272,6 +277,7 @@ Varmiai buvo Varmės gyventojai, šaltiniuose minimi tarp prūsų žemių žmoni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-007
   santrauka: 'Varmės, Notangos ir Bartos prūsai, nusilpninti brolių ir kunigaikščio, davė įkaitų ir pasidavė tikėjimui bei broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -295,6 +301,7 @@ Varmiai buvo Varmės gyventojai, šaltiniuose minimi tarp prūsų žemių žmoni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-008
   santrauka: '1260 m. Klaipėdoje varmiai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -320,6 +327,7 @@ Varmiai buvo Varmės gyventojai, šaltiniuose minimi tarp prūsų žemių žmoni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-009
   santrauka: 'Glapas, varmių vadas, turėjo mėgstamą valdinį Steinavą, kurį daug kartų buvo gelbėjęs iš mirtino pavojaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -335,6 +343,7 @@ Varmiai buvo Varmės gyventojai, šaltiniuose minimi tarp prūsų žemių žmoni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-010
   santrauka: 'Varmių vadas Pijopas su savo kariuomene apsiautė Baigos pilį, bet prie pilies buvo pervertas brolio strėle ir žuvo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -357,6 +366,7 @@ Varmiai buvo Varmės gyventojai, šaltiniuose minimi tarp prūsų žemių žmoni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-011
   santrauka: 'Išžudžius karo vadus, notangai ir varmiai vėl pasidavė tikėjimui ir Ordino broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -375,6 +385,7 @@ Varmiai buvo Varmės gyventojai, šaltiniuose minimi tarp prūsų žemių žmoni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-012
   santrauka: 'Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

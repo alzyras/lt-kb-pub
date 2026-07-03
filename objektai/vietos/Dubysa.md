@@ -301,7 +301,8 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-002
+    - t-003
+- c-002
   santrauka: '1413 m. Vytautas ir Jogaila Nemunu keliavo iki Dubysos upės, o ja pasiekė Aukokalnį ties dabartine Betygala.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -318,7 +319,8 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
-    - t-005- c-003
+    - t-005
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
@@ -346,7 +348,8 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
-    - t-007- c-004
+    - t-007
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^27) **SRP, II, 511, 513 p.**
@@ -366,7 +369,8 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
-    - t-011- c-005
+    - t-011
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vytautas teigė, jog pati Klaipėda priklausanti
@@ -381,7 +385,8 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-006
+    - t-004
+- c-006
   santrauka: 'Priešui įsiveržus į Dubysos aukštupį, buvo aktyvuotas antrasis gynybos variantas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -421,7 +426,8 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-007
+    - t-009
+- c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš Jogailos buvo gana daug užsiprašyta. Suvažiavus gausiam
@@ -435,7 +441,8 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
-    - t-002- c-008
+    - t-002
+- c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Beveik trečdalį savo
@@ -449,7 +456,8 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-009
+    - t-017
+- c-009
   santrauka: 'Į Dubysos salą vyko magistras Konradas Zöllneris von Rotensteinas, komtūrai ir du vyskupai, turėję krikštyti lietuvių kunigaikščius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -465,7 +473,8 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-    - t-015- c-010
+    - t-015
+- c-010
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet šio suverenumas buvo siauri­
@@ -482,7 +491,8 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-011
+    - t-013
+- c-011
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     taip pat atsikvėpė po ilgų kovų dėl laisvės, nes po Žalgirio
@@ -500,7 +510,8 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
-    - t-001- c-012
+    - t-001
+- c-012
   santrauka: 'Vytautas Dubysos žiotyse, Seredžiuje, atstatė Peštvę, nuo XIX a. žinomą Palemono kalno vardu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -516,7 +527,8 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-013
+    - t-006
+- c-013
   santrauka: 'Naujoji Marienburgo pilis stovėjo prie Nemuno, žemiau Dubysos įtakos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -531,7 +543,8 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-014
+    - t-016
+- c-014
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taigi Žalgirio mūšis ir Torno taika galutinai išsprendė Že­
@@ -546,7 +559,8 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-015
+    - t-010
+- c-015
   santrauka: 'Prie Dubysos žiočių atvykėliai padėjo naujos sodybos, vėliau vadintos Romanova, pamatus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -569,7 +583,8 @@ Dubysa šiame kontekste iškyla kaip svarbus Lietuvos istorijos geografijos orie
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-016
+    - t-021
+- c-016
   santrauka: 'Narbutas nurodė, kad žemiau Dubysos žiočių prie Seredžiaus esantis apvalus kalnas vadintas Palemono kalnu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

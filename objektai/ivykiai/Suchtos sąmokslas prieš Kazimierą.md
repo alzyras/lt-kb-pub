@@ -113,6 +113,7 @@ Nenurodyta
   pagrindžia:
     - t-006
     - t-004
+
 - c-002
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -128,6 +129,7 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-005
+
 - c-003
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |

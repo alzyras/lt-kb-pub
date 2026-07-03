@@ -82,6 +82,7 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: '1323 metų gegužės 26 dieną Vilniuje rašytuose Gedimino laiškuose nurodyta juos skaityti, siųsti toliau ir viešai skelbti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -104,6 +105,7 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Pasak cituojamos nuomonės, Rygos arkivyskupas slapta parašė laiškus Gedimino vardu ir išsiuntė juos popiežiui, miestams bei vienuoliams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -125,6 +127,7 @@ Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė domini
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Trijuose Gedimino laiškuose po antspaudo paaiškinimų pateiktas prakeiksmas tiems, kurie nepatikėtų antspaudo tikrumu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

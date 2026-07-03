@@ -75,7 +75,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-002
+    - t-003
+- c-002
   santrauka: 'Seimo pradžioje visi bučiuodavo soste sėdinčiam karaliui ranką, o kancleris arba vicekancleris paskelbdavo karaliaus pasiūlymus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -91,7 +92,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-003
+    - t-001
+- c-003
   santrauka: 'Seimas būdavo baigiamas atsisveikinimu su karaliumi, per kurį visi vėl bučiuodavo jam ranką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

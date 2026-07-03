@@ -588,6 +588,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-048
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -608,6 +609,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     - t-028
     - t-016
     - t-021
+
 - c-003
   santrauka: 'Dviejų pranciškonų nužudymo Vilniuje Gedimino valdymo pabaigoje istorija davė pradžią ilgaamžei Vilniaus legendai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -624,6 +626,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-004
   santrauka: '1323 m. gegužės 26 d. trys Gedimino laiškai buvo pasiųsti Saksų provincijos pranciškonams, dominikonams ir Hanzos miestams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -641,6 +644,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-042
+
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -657,6 +661,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-006
   santrauka: 'Kryžiuočiai Strėvos laimėjimui atminti pastatė pranciškonų vienuolynus Karaliaučiuje ir Vėluvoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -673,6 +678,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -686,6 +692,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -701,6 +708,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   pagrindžia:
     - t-002
     - t-033
+
 - c-009
   santrauka: 'Gedimino dvare pranciškonai turėjo įtakos ir tvarkė kanceliariją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -716,6 +724,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-010
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -733,6 +742,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-041
+
 - c-011
   santrauka: 'Gedimino laiškai Liubeke buvo įteikti miesto tarybai ir Pranciškonų ordino kustodui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -762,6 +772,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-012
   santrauka: 'Vytenis prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti pranciškonų minoritų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -785,6 +796,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
+
 - c-013
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -819,6 +831,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   pagrindžia:
     - t-010
     - t-024
+
 - c-014
   santrauka: 'Jokūbas I buvo lietuvių kilmės pranciškonas ir 1400-1407 m. valdė dieceziją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -846,6 +859,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
+
 - c-015
   santrauka: 'Vytenis prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonų ordino brolius į jau pastatytą bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -873,6 +887,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   pagrindžia:
     - t-018
     - t-001
+
 - c-016
   santrauka: 'Pranciškonas Jonas Pliekta Vilniaus vyskupu tapo 1399 m., bet, anot Balińskio, nežinoma, kodėl pareigas ėjo tik vienerius metus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -888,6 +903,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-034
+
 - c-017
   santrauka: 'Mažesniųjų brolių ordinas 1223 m. buvo patvirtintas valdant popiežiui Honorijui III.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -901,6 +917,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-018
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -928,6 +945,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   pagrindžia:
     - t-009
     - t-030
+
 - c-019
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -948,6 +966,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-037
+
 - c-020
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -965,6 +984,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-021
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -985,6 +1005,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   pagrindžia:
     - t-003
     - t-022
+
 - c-022
   santrauka: 'Kai kurių dvasininkų manymu, Goštautas buvo pranciškonų vienuolynų Vilniuje steigėjas ir vėliau pats tapo vienuoliu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1008,6 +1029,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   pagrindžia:
     - t-011
     - t-046
+
 - c-023
   santrauka: '1323 m. Gedimino laiškai buvo rašyti dominikonų, Mažesniųjų brolių, arba pranciškonų, ordinams ir Hanzos miestams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1043,6 +1065,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   pagrindžia:
     - t-035
     - t-047
+
 - c-024
   santrauka: 'Pranciškonai prie Žemutinės pilies turėjo Gedimino laikais pastatydintą bažnyčią dabartinės Šventojo Kryžiaus bažnyčios vietoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1061,6 +1084,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-040
+
 - c-025
   santrauka: 'Vilniuje tarp trijų ankstyvų krikščionių šventyklų minima ir pranciškonų bažnyčia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1080,6 +1104,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   pagrindžia:
     - t-038
     - t-006
+
 - c-026
   santrauka: 'Lietuvoje apaštalavę minoritai ne kartą žuvo dėl savo uolumo, o pranciškonai patyrė skaudžių kančių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1101,6 +1126,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
+
 - c-027
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1124,6 +1150,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   pagrindžia:
     - t-036
     - t-043
+
 - c-028
   santrauka: '1317 m. popiežius Jonas kanonizavo šventąjį Liudviką, Sicilijos karaliaus Roberto brolį iš Mažesniųjų brolių ordino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1139,6 +1166,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-044
+
 - c-029
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1169,6 +1197,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-030
   santrauka: 'Andrius Vosylius Jastrzębiecas, dar būdamas pranciškonų kunigas, kurį laiką gyveno Vilniuje prie Algirdo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1187,6 +1216,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-045
+
 - c-031
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1208,6 +1238,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-032
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1248,6 +1279,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   pagrindžia:
     - t-019
     - t-032
+
 - c-033
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1273,6 +1305,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-034
   santrauka: 'Grzybowskis rašė, kad Goštautas, tapęs pranciškonu Krokuvoje, Vilniuje vertė miestiečius į krikščionių tikėjimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1293,6 +1326,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
 - c-035
   santrauka: 'Mažesniųjų brolių Prūsijos kustodas ir keli gvardijonai laiškais popiežiui gynė Kryžiuočių ordiną nuo Gedimino skundo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1321,6 +1355,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-036
   santrauka: 'Goštautas pakvietė į Vilnių naują Pranciškonų ordino vienuolių būrį ir skyrė jiems vietą netoli Vingrių pelkės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1338,6 +1373,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-049
+
 - c-037
   santrauka: 'Vilniaus pranciškonai, iki 1387 m. įsikūrę vienuolyne prie Trakų vartų, buvo kilę iš Lenkijos, daugiausia iš Krokuvos.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1355,6 +1391,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-050
+
 - c-038
   santrauka: 'Lietuvos metraštis pasakoja, kad Algirdui leidus Petras Goštautas iš Lenkijos į Vilnių parsikvietė 14 pranciškonų vienuolių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1375,6 +1412,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-051
+
 - c-039
   santrauka: 'Lietuvos metraštis pasakoja, kad Algirdui žygiuojant prieš Maskvą Vilniaus pagonys sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1397,6 +1435,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-052
+
 - c-040
   santrauka: 'Pirmasis Vilniaus vyskupas Andrius buvo Lenkijos pranciškonas, anksčiau ėjęs Sereto vyskupo pareigas Vengrijoje.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

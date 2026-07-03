@@ -69,6 +69,7 @@ Bielskas apibūdinamas kaip Palenkės miestas. Bielskas lokalizuojamas prie Balt
     - t-002
     - t-003
     - t-001
+
 - c-002
   santrauka: 'Bielskas buvo Palenkės miestas prie Baltosios, Narevo intako, į pietus nuo Balstogės.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

@@ -50,6 +50,7 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Žodis „stigavoja“ citatose vartojamas pasakų ir senovės raštininkų liudijimams nusakyti.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -61,6 +62,7 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Žodis „stigavoja“ citatose vartojamas pasakų ir senovės raštininkų liudijimams nusakyti.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean

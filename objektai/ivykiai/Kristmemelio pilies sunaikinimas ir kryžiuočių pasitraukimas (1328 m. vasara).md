@@ -64,6 +64,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1328 m. vasarą kryžiuočiai apleido Kristmemelio pilį prie žemutinio Nemuno, o lietuviai ją sunaikino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

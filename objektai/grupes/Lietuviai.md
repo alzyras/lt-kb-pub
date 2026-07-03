@@ -6150,7 +6150,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pasidalinę mažais būre­
@@ -6163,7 +6164,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-052- c-003
+    - t-052
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pagal Dusbur­
@@ -6177,7 +6179,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-095- c-004
+    - t-095
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ne vien tik Romanaičiai pajuto energingo Lietuvos valdovo
@@ -6189,7 +6192,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-096- c-005
+    - t-096
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kai kurie
@@ -6207,7 +6211,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-035
-    - t-029- c-006
+    - t-029
+- c-006
   santrauka: 'XIII-XIV a. rašytiniai šaltiniai ir karai su ordino riteriais rodo, kad pagonys lietuviai buvo pasiekę palyginti aukštą kultūros lygį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -6227,7 +6232,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
-    - t-066- c-007
+    - t-066
+- c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pagal Dlugošo kroniką,
@@ -6243,7 +6249,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-103
-    - t-106- c-008
+    - t-106
+- c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet tas įspūdis nepasitvirtino. Vytauto vadovaujami
@@ -6255,7 +6262,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-009
+    - t-015
+- c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pirmutiniai žygiavo lietuviai. Kai visa kariuomenė apsistojo
@@ -6267,7 +6275,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-114- c-010
+    - t-114
+- c-010
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lenkų ponų
@@ -6282,7 +6291,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-100- c-011
+    - t-100
+- c-011
   santrauka: 'Stryjkovskis, kildindamas lietuvius iš romėnų, Lietuvos žymių šeimų pradžią vedė iš Romos patricijų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -6296,7 +6306,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034- c-012
+    - t-034
+- c-012
   santrauka: 'Prūsų kraštą lietuviai vadino Prūsais, Prūsa, Prūsų žeme ir sulotynintu Prūsijos vardu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6308,7 +6319,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-013
+    - t-005
+- c-013
   santrauka: 'Lietuviai iš Aukaimio pilies apylinkių su 36 vyrais ketino plėšikiškais išpuoliais trikdyti Ragainės brolių ramybę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6323,7 +6335,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-069- c-014
+    - t-069
+- c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kitą lietuvių vaidmens rusėnų visuomenėje aspektą slepia socialinė
@@ -6340,7 +6353,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-105
-    - t-017- c-015
+    - t-017
+- c-015
   santrauka: 'Lietuviai unijos projekte ir vėlesniuose ginčuose su lenkais reikalavo karaliaus garantijos, kad Lietuvoje nebus vykdoma egzekucija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -6356,7 +6370,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-040- c-016
+    - t-040
+- c-016
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Artinosi ir kitas ne­
@@ -6372,7 +6387,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-077
-    - t-048- c-017
+    - t-048
+- c-017
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet šis ginčas,
@@ -6386,7 +6402,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-108- c-018
+    - t-108
+- c-018
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš tokio
@@ -6409,7 +6426,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-064- c-019
+    - t-064
+- c-019
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
@@ -6427,7 +6445,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-113- c-020
+    - t-113
+- c-020
   santrauka: 'Kronikoje vaizduojamu laikotarpiu prūsus, lietuvius ir latvius siejo kalbos, kultūros, tradicijų ir senosios religijos bendrumas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6450,7 +6469,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-081- c-021
+    - t-081
+- c-021
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo
@@ -6467,7 +6487,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-071
-    - t-043- c-022
+    - t-043
+- c-022
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Senieji lietuviai neturėjo rašto ir sunku pasakyti, kokia yra tautinė be-
@@ -6482,7 +6503,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
-    - t-023- c-023
+    - t-023
+- c-023
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Maskvos pavojus lietuviams ne-
@@ -6496,7 +6518,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-024
+    - t-001
+- c-024
   santrauka: 'Lietuvių kariuomenei grįžtant, burtus metęs lietuvis perspėjo apie nesėkmę prieš brolių pasalą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6514,7 +6537,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-060- c-025
+    - t-060
+- c-025
   santrauka: 'Po mūšio tarp Verkių ir Šeškinės dalis lietuvių pajėgų užsidarė Vilniaus tvirtovių mūruose ir aptvaruose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6532,7 +6556,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-091- c-026
+    - t-091
+- c-026
   santrauka: '1298 m. rugsėjo 29 d. 140 Lietuvos vyrų netikėtai užpuolė Straisbergą, išžudė gyventojus ir paėmė į nelaisvę moteris bei vaikus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6550,7 +6575,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-109- c-027
+    - t-109
+- c-027
   santrauka: '1897 m. surašymo duomenimis, dabartinės Lietuvos ribose be Klaipėdos krašto gyveno apie 2,7 mln. žmonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -6565,7 +6591,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-028
+    - t-011
+- c-028
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­
@@ -6584,7 +6611,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
-    - t-082- c-029
+    - t-082
+- c-029
   santrauka: '1303 m. 50 plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę, apiplėšė daug kaimų ir paėmė į nelaisvę ar nukovė daug krikščionių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6601,7 +6629,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-070- c-030
+    - t-070
+- c-030
   santrauka: '1299 m. šeši šimtai Lietuvos vyrų įsibrovė į Notangą, nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6620,7 +6649,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-042- c-031
+    - t-042
+- c-031
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nesunku numanyti, koks buvo Vilniaus, kaip miesto,
@@ -6636,7 +6666,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-085- c-032
+    - t-085
+- c-032
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai reiškia:
@@ -6666,7 +6697,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-051- c-033
+    - t-051
+- c-033
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Su trigubai di­
@@ -6680,7 +6712,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-072- c-034
+    - t-072
+- c-034
   santrauka: 'Sūduviai, siekdami atkeršyti už priespaudą, pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6698,7 +6731,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-083- c-035
+    - t-083
+- c-035
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Istorikai nurodo, kad Vy­
@@ -6714,7 +6748,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-052- c-036
+    - t-052
+- c-036
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Salzbachą su keliais tūkstančiais kariuomenės;
@@ -6729,7 +6764,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-088
-    - t-049- c-037
+    - t-049
+- c-037
   santrauka: 'Lietuvių lyderių prisitaikymas prie Vokietijos interesų provokavo konfliktus su lenkais ir tarp pačių lietuvių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -6747,7 +6783,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-068- c-038
+    - t-068
+- c-038
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Minimi ne tik bendri valdovai, bet ir Lietuvos didysis kuni-
@@ -6767,7 +6804,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-044- c-039
+    - t-044
+- c-039
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Čia tuo metu
@@ -6784,7 +6822,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
-    - t-008- c-040
+    - t-008
+- c-040
   santrauka: 'Prūsų, sūduvių ir lietuvių kariuomenė įsiveržė į Sembą ir aštuonias dienas laikė apsupusi Vėluvos pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6801,7 +6840,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-038- c-041
+    - t-038
+- c-041
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dar apie tą patį: apie aštuonių šimtų lietuvių žūtį
@@ -6822,7 +6862,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
-    - t-007- c-042
+    - t-007
+- c-042
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas valdovas po pergalingų žygių, tikriausiai todėl, kad
@@ -6843,7 +6884,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-061
-    - t-010- c-043
+    - t-010
+- c-043
   santrauka: 'Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6880,7 +6922,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-079- c-044
+    - t-079
+- c-044
   santrauka: 'Įvairiakilmė LDK ponija formavo bendros savimonės „lietuvių nacijos“ ponų sluoksnį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -6897,7 +6940,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-054- c-045
+    - t-054
+- c-045
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ordinas atsiuntė savo komtūrą
@@ -6911,7 +6955,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-046
+    - t-010
+- c-046
   santrauka: 'Laisvoje Lietuvoje augusi jaunoji karta šalies suverenumą laikė didžiausiu prioritetu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -6929,7 +6974,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-047
+    - t-018
+- c-047
   santrauka: 'Skomantas su 4 tūkstančiais sūduvių ir stipria lietuvių kariuomene spalio 21 d. įsiveržė į Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6947,7 +6993,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-087- c-048
+    - t-087
+- c-048
   santrauka: 'Per Velykas lietuviai Junigedos valsčiuje pastatė pilį ir pavadino ją Junigedos vardu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6971,7 +7018,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-084- c-049
+    - t-084
+- c-049
   santrauka: 'Tik penktą dieną iš lietuvių, pabėgusių iš Aukštutinės pilies, sužinota, kad kunigaikštis Karigaila žuvo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7027,7 +7075,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-115- c-050
+    - t-115
+- c-050
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Grįžkime dar prie vieno kovos epizodo ir paskui vėl kalbė­
@@ -7043,7 +7092,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
-    - t-050- c-051
+    - t-050
+- c-051
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele
@@ -7061,7 +7111,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-073
-    - t-041- c-052
+    - t-041
+- c-052
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tad ir tautinė lietuvių kultūra būtų buvusi labiau išsaugota.
@@ -7074,7 +7125,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-055- c-053
+    - t-055
+- c-053
   santrauka: 'Pasak Petro Dusburgiečio, lietuviai ir kiti tose žemėse gyvenę žmonės aukas degino vietose, kurias laikė šventomis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7094,7 +7146,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-054
+    - t-007
+- c-054
   santrauka: 'Lietuviai vengė federacijos su Lenkija, bet sutiko derėtis, jei Varšuva pripažins Lietuvą su sostine Vilniumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -7111,7 +7164,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-046- c-055
+    - t-046
+- c-055
   santrauka: 'Lietuviai iš Aukaimio pilies apylinkių su 36 vyrais ketino plėšikiškais išpuoliais trikdyti Ragainės brolių ramybę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7129,7 +7183,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-069- c-056
+    - t-069
+- c-056
   santrauka: 'Lietuviai ir lenkai, norėdami nukreipti nuo savęs dėmesį, įsakė savo kariuomenių būriams rengti puolimus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -7146,7 +7201,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-047
-    - t-102- c-057
+    - t-102
+- c-057
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bizantijos šaltiniai apie jokį lietuvių taikumą ne-
@@ -7161,7 +7217,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-116
-    - t-045- c-058
+    - t-045
+- c-058
   santrauka: 'Gediminas laiške popiežiui Jonui prisistatė lietuvių ir daugelio rusų karaliumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7181,7 +7238,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-104- c-059
+    - t-104
+- c-059
   santrauka: 'Konferencijos rezoliucijoje lietuviai numatė nepriklausomą demokratišką valstybę etnografinėmis ribomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -7203,7 +7261,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-060
+    - t-004
+- c-060
   santrauka: 'Mokslininkai, Lietuvos vardą kildindami iš etnonimo „lietuvis“, tyrė vietovardžius su šaknimis „leit-“ ir „liet-“ už Lietuvos ribų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -7220,7 +7279,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-080- c-061
+    - t-080
+- c-061
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­
@@ -7234,7 +7294,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
-    - t-112- c-062
+    - t-112
+- c-062
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo
@@ -7250,7 +7311,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   pagrindžia:
     - t-052
     - t-108
-    - t-010- c-063
+    - t-010
+- c-063
   santrauka: 'Per pagrindinį puolimą lietuvių gynyba iš pradžių buvo narsi, bet Žemutinėje pilyje prasiveržė liepsna.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7267,7 +7329,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025- c-064
+    - t-025
+- c-064
   santrauka: 'Pasak Petro Dusburgiečio, Romuva buvo prūsų, lietuvių ir kitų baltų religinio kulto centras.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7278,7 +7341,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-092- c-065
+    - t-092
+- c-065
   santrauka: 'Konradas Kuršių nerijoje pastatydino Noihauzo pilį, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7300,7 +7364,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-099
-    - t-007- c-066
+    - t-007
+- c-066
   santrauka: '1315 m. apie Žolinę lietuviai iš Žemaitijos su visa kariuomene slaptai ir netikėtai užpuolė Ragainės pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7318,7 +7383,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-073- c-067
+    - t-073
+- c-067
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie šio laivo sudeginimą 1313 metais
@@ -7342,7 +7408,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-086
-    - t-119- c-068
+    - t-119
+- c-068
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Trečios žmonos vardas buvęs Ju­
@@ -7367,7 +7434,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-097
-    - t-033- c-069
+    - t-033
+- c-069
   santrauka: 'Mindaugo sukurta valstybė sudarė sąlygas lietuvių tautai išlikti ir vėliau perimti Vakarų civilizaciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -7383,7 +7451,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027- c-070
+    - t-027
+- c-070
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kryžiuočių riteriai buvo nustebinti
@@ -7397,7 +7466,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-065
-    - t-039- c-071
+    - t-039
+- c-071
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie beveik penkių šimtų lietuvių žūtį
@@ -7413,7 +7483,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
-    - t-058- c-072
+    - t-058
+- c-072
   santrauka: '1300 m. šeši tūkstančiai lietuvių apiplėšė Dobrynės kunigaikštystę, žudydami, imdami belaisvius ir degindami turtą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7429,7 +7500,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-037- c-073
+    - t-037
+- c-073
   santrauka: 'Lietuvių ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš pavyslyje įsikūrusį Kryžiuočių ordiną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7444,7 +7516,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-063- c-074
+    - t-063
+- c-074
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Sembos žemės nusiaubimą
@@ -7466,7 +7539,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-107
-    - t-117- c-075
+    - t-117
+- c-075
   santrauka: 'Leidinyje atrinkti mūšiai, kuriuose lietuviai kovojo dėl Lietuvos valstybės interesų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -7484,7 +7558,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-076
+    - t-021
+- c-076
   santrauka: 'Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7509,7 +7584,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-098- c-077
+    - t-098
+- c-077
   santrauka: '1314 m. prie Sizditės pilies Medininkų valsčiuje lietuviai neteko Masiaus brolio ir dar 18 vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7529,7 +7605,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-062
-    - t-058- c-078
+    - t-058
+- c-078
   santrauka: '1897 m. surašymas parodė, kad skaityti mokėjo 48 proc. etninių lietuvių, o rusiškai skaitė tik kas penktas iš jų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -7551,7 +7628,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-078- c-079
+    - t-078
+- c-079
   santrauka: 'Per nepilnus du nepriklausomybės dešimtmečius Lietuva tapo aiškiai lietuviška ir nebesutapatinama su Lenkija ar Rusija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -7568,7 +7646,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-030- c-080
+    - t-030
+- c-080
   santrauka: 'Lietuviai, rusai, maskvėnai ir totoriai, įsigiję dominijos nuosavybę, turėjo prisiimti ankstesnių savininkų prievoles.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7601,7 +7680,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-081
+    - t-009
+- c-081
   santrauka: 'Po brolių smūgio 30 išsigelbėjusių lietuvių pranešė savo kariuomenei apie pralaimėjimą, ir ši paniškai pabėgo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7622,7 +7702,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-059- c-082
+    - t-059
+- c-082
   santrauka: 'Lietuviai, valdant energingam Lietuvos valdovui, vėl stipriai puolė Livonijos kryžiuočius ir rengė žygius į Lenkiją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -7636,7 +7717,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-090- c-083
+    - t-090
+- c-083
   santrauka: '1316 m. Medininkų valsčiuje Ragainės broliai, persekiojami 200 lietuvių, sudegino du kaimus ir paėmė į nelaisvę moteris bei vaikus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7659,7 +7741,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-074
-    - t-058- c-084
+    - t-058
+- c-084
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Grindžiama
@@ -7675,7 +7758,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-067- c-085
+    - t-067
+- c-085
   santrauka: '1316 m. prie Bisenės pilies Ordino broliai nukovė šešis lietuvių pamaininės saugos vyrus, turėjusius trauktis iš pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7693,7 +7777,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-056- c-086
+    - t-056
+- c-086
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     vyravo vakarietiška kultūrinė orientacija ir katalikybė, o ne stačiatikybė,
@@ -7712,7 +7797,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-093
-    - t-110- c-087
+    - t-110
+- c-087
   santrauka: '1320 m. liepos 27 d. Medininkų žemėje lietuviai sutriuškino į Žemaitiją įsiveržusius kryžiuočius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7732,7 +7818,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-088
+    - t-012
+- c-088
   santrauka: 'Ordino broliai nužudė 17 Lietuvos karalystės galingesniųjų ir daugybę paprastų žmonių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7751,7 +7838,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026- c-089
+    - t-026
+- c-089
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai pakviestieji atvyko ir jiems buvo per­
@@ -7788,7 +7876,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-101
-    - t-002- c-090
+    - t-002
+- c-090
   santrauka: 'Pasak Petro Dusburgiečio, lietuviai ir kiti tose žemėse gyvenę žmonės aukas degino vietose, kurias laikė šventomis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7804,7 +7893,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-091
+    - t-007
+- c-091
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kildindamas lietuvius iš romėnų, legendarinėje dalyje jis
@@ -7818,7 +7908,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-092
+    - t-014
+- c-092
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galop vieną dieną visi pakilo  į
@@ -7837,7 +7928,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-073
-    - t-094- c-093
+    - t-094
+- c-093
   santrauka: '1302 m. iš Lietuvos atvykę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir nužudė arba išsivarė į nelaisvę beveik 200 krikščionių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7851,7 +7943,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-028- c-094
+    - t-028
+- c-094
   santrauka: 'Palei Vilnios upę gyvenę senbuviai lietuviai sudarė būsimo Vilniaus miesto užuomazgą dar iki Gedimino.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7867,7 +7960,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-076- c-095
+    - t-076
+- c-095
   santrauka: 'Lietuviai kaip tauta, anot šaltinio, Europoje Lietuvos vardu tapo žinomi tik X amžiuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7894,7 +7988,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-057- c-096
+    - t-057
+- c-096
   santrauka: 'Oberosto režimo metu lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -7913,7 +8008,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-111- c-097
+    - t-111
+- c-097
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dabar tam buvo pats geriau­
@@ -7928,7 +8024,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-052- c-098
+    - t-052
+- c-098
   santrauka: 'Mūšyje lietuviai puolė iš priekio, o kuršiai iš užpakalio, todėl beveik visi Prūsijos ir Livonijos žmonės pasitraukė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7949,7 +8046,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-032- c-099
+    - t-032
+- c-099
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XVII–XVIII  a. formavosi ir bendra Abiejų Tautų Respublikos kaip
@@ -7967,7 +8065,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-089- c-100
+    - t-089
+- c-100
   santrauka: '1283 m. žiemą 800 raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7986,7 +8085,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-075- c-101
+    - t-075
+- c-101
   santrauka: 'Plėšikaujančios lietuvių gaujos niokojo krikščionių žemes, kai Prūsijoje pasklido gandas apie Gedimino norą krikštytis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -8018,7 +8118,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-036- c-102
+    - t-036
+- c-102
   santrauka: 'Pasak Petro Dusburgiečio, lietuviai ir kiti tose žemėse gyvenę žmonės aukas degino vietose, kurias laikė šventomis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8033,7 +8134,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-103
+    - t-007
+- c-103
   santrauka: '1314 m. lietuviai naktį įsibrovė į maršalo Henriko palapines Medininkų valsčiuje, nužudė 4 vyrus ir išsivarė du arklius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8049,7 +8151,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-058- c-104
+    - t-058
+- c-104
   santrauka: 'Kronikoje vaizduojamu laikotarpiu lietuviai, prūsai ir latviai laikomi baltais, siejamais kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8068,7 +8171,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-053- c-105
+    - t-053
+- c-105
   santrauka: 'Dusburgietis teigia, kad tačiau Lietuvos karalius, išgirdęs, jog sunaikintas šios pilies papilys, nusiuntė pilies ginti daugybę rinktinių bei įgudusių karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8088,7 +8192,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   pagrindžia:
     - t-118
     - t-073
-    - t-003- c-106
+    - t-003
+- c-106
   santrauka: 'Žygiuojant Gilgenburgo link, lietuviai žygiavo pirmieji.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -8100,7 +8205,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-120- c-107
+    - t-120
+- c-107
   santrauka: 'Lietuviai išvijo priešus iš stovyklos, o daug bėgančiųjų žuvo nuo kalavijų arba prigėrė Dnepro ir Pripetės duburiuose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -8128,7 +8234,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-121- c-108
+    - t-121
+- c-108
   santrauka: 'Kernavės susirinkime visi lietuviai rėmė Vaišvilką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -8155,7 +8262,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-122- c-109
+    - t-122
+- c-109
   santrauka: 'Lietuviams sulaužius sutartį, jiems priklausanti Poleksija buvo nusiaubta Mazovijos ir Kujavijos karių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -8185,7 +8293,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-123- c-110
+    - t-123
+- c-110
   santrauka: 'Livonijos metraščio teigimu, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -8204,7 +8313,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-124- c-111
+    - t-124
+- c-111
   santrauka: 'Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vladislovo ir apiplėštą pilį atidavė Konradui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -8220,7 +8330,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-125- c-112
+    - t-125
+- c-112
   santrauka: 'Lietuviai, kaip sąjungininkai žygiuodami per Mazoviją į Gostininą, ėmė grobstyti atsigavusio krašto turtus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -8248,7 +8359,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-126- c-113
+    - t-126
+- c-113
   santrauka: 'Lietuviai atrėmė priešo puolimą, persekiojo kryžiuočius ir privertė juos bėgti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -8267,7 +8379,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-127- c-114
+    - t-127
+- c-114
   santrauka: 'Lietuviai krikščionių šventyklose išniekino šventuosius indus, o grįžtančius juos išžudė Kulmo komtūras Konradas Žakas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -8297,7 +8410,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-128- c-115
+    - t-128
+- c-115
   santrauka: 'Gediminas su kitais kariais atskubėjo padėti pradėjusiam krikti lietuvių raitelių pulkui ir vėliau įsakė jam pulti rusų sparną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -8321,7 +8435,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-129- c-116
+    - t-129
+- c-116
   santrauka: 'Kijevo monarchijai baigiantis, Kijevas atsidūrė Lietuvos kunigaikščio valdžioje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -8344,7 +8459,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-130- c-117
+    - t-130
+- c-117
   santrauka: 'Lietuviai reikalavo perrašyti Jogailos sudarytą unijos sutartį ir pašalinti Lietuvos Didžiosios Kunigaikštystės orumą žeminančius straipsnius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -8375,7 +8491,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-131- c-118
+    - t-131
+- c-118
   santrauka: 'Kivirčuose su lenkais dėl Rusios lietuviai ginklu gynė savo teises į Rusią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -8392,7 +8509,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-132- c-119
+    - t-132
+- c-119
   santrauka: 'Lenkai atsakė, kad neatsisakys atsilyginti lietuvių luomams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -8409,7 +8527,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-133- c-120
+    - t-133
+- c-120
   santrauka: 'Aleksandras ir Šich Achmetas suteikė karo žygiais išgarsėjusiems lietuviams, lenkams ir skitams bajoriškųjų lengvatų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -8435,7 +8554,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-134- c-121
+    - t-134
+- c-121
   santrauka: 'Lietuvių kariuomenė mūšio pradžioje pirmiausia susikovė su vokiečiais, o abiejose pusėse krito daug karių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -8455,7 +8575,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-135- c-122
+    - t-135
+- c-122
   santrauka: 'Žygimantas iš Vilniaus atžygiavo su septynių tūkstančių lietuvių pajėgomis prieš gruodžio 8 d. prasidėjusį mūšį.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -8471,7 +8592,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-136- c-123
+    - t-136
+- c-123
   santrauka: 'Narbutas apgailestavo, kad per 400 metų Lietuvos praeitimi esą rūpinosi tik Kojalavičius, Mykolas Lietuvis ir jis pats.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8487,7 +8609,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-137- c-124
+    - t-137
+- c-124
   santrauka: 'Narbutas lietuvių mitologiją laikė iš graikų kilusia sistema, kurią esą sukūrė aukštesnį civilizacijos laipsnį pasiekę žmonės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8504,7 +8627,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-138- c-125
+    - t-138
+- c-125
   santrauka: 'Narbutas manė, kad lietuviai į daugiadievystę ėjo tuo pačiu keliu kaip helenai, nes juos siejo kilmė ir panaši religija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8521,7 +8645,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-139- c-126
+    - t-139
+- c-126
   santrauka: 'Narbutas seniausiąją lietuvių religiją aiškino kaip azijinę ir indišką, dangaus kūnų bei ugnies, vandens ir žemės garbinimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8546,7 +8671,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-140- c-127
+    - t-140
+- c-127
   santrauka: 'Narbutas rašė, kad lietuviai Perkūną garbino iškilmingomis apeigomis, jam skirdami miškelius ir puošnias šventyklas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8562,7 +8688,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-141- c-128
+    - t-141
+- c-128
   santrauka: 'Narbutas, remdamasis Glumerio pastabomis, lietuvių 1243 m. karo šūkį aiškino kaip kreipinį į karo dievą Kovą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8578,7 +8705,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-142- c-129
+    - t-142
+- c-129
   santrauka: 'Narbutas rašė, kad lietuviai Ragutį garbino aukurais, stabais, šventyklomis, žyniais ir vaidilutėmis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8593,7 +8721,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-143- c-130
+    - t-143
+- c-130
   santrauka: 'Narbutas lietuvių Bakcho garbinimą siejo su jau labai senu ir plačiai paplitusiu šio dievo kultu kitose tautose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8612,7 +8741,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-144- c-131
+    - t-144
+- c-131
   santrauka: 'Narbutas teigė, kad lietuviai turėjo dainius, apdainavusius tautos istorijos įvykius ir vadintus burtininkais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8626,7 +8756,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-145- c-132
+    - t-145
+- c-132
   santrauka: 'Narbutas manė, kad dėl gyvenimo prie jūros ir didelių vandenų lietuviai turėjo savo Neptūną, laivininkų globėją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8644,7 +8775,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-146- c-133
+    - t-146
+- c-133
   santrauka: 'Narbutas nurodė Jucevičiaus nuomonę, kad Palangos apylinkių lietuviai žvejai Atrimpą vadino Dzivsvits.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8657,7 +8789,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-147- c-134
+    - t-147
+- c-134
   santrauka: 'Narbutas rašė, kad lietuviai šiam žemės dievui teikė garbę laikydami žalčius ir maitindami juos pienu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8672,7 +8805,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-148- c-135
+    - t-148
+- c-135
   santrauka: 'Narbutas deivę Lietuvą apibūdino kaip laisvės, malonumų ir džiaugsmo deivę, žinomą lietuviams, latviams ir estams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8687,7 +8821,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-149- c-136
+    - t-149
+- c-136
   santrauka: 'Narbutas katino kaip lietuvių laisvės simbolio įrodymą siejo su 1483 m. Kazimiero privilegija bajorui Rimvydui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8712,7 +8847,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-150- c-137
+    - t-150
+- c-137
   santrauka: 'Narbutas aiškino, kad lietuviai, siekdami išsivaduoti iš priespaudos, naudodavo laisvės deivės simbolį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8731,7 +8867,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-151- c-138
+    - t-151
+- c-138
   santrauka: 'Narbutas manė, kad lietuviai kaip žemdirbių tauta nuo pradžių visuotinai garbino žemdirbystės deivę Krūminę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8746,7 +8883,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-152- c-139
+    - t-152
+- c-139
   santrauka: 'Narbutas lietuvių mitologijoje įžvelgė seniausio dangaus kūnų sudievinimo liekanas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8769,7 +8907,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-153- c-140
+    - t-153
+- c-140
   santrauka: 'Narbutas teigė, kad lietuvių mitologijos dangaus kūnų sampratos pagrindą sudaro indų padavimai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8785,7 +8924,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-154- c-141
+    - t-154
+- c-141
   santrauka: 'Narbutas rašė, kad lietuvių kalbose Saulė yra moteriškos giminės, todėl mitologijoje laikoma deive.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8803,7 +8943,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-155- c-142
+    - t-155
+- c-142
   santrauka: 'Narbutas teigė, kad pakitus mitologijai lietuviai vietoj Saulės garbino Svaistiką, arba Santvarą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8817,7 +8958,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-156- c-143
+    - t-156
+- c-143
   santrauka: 'Narbutas rašė, kad lietuviai turėjo slaptų apeigų, kurių žinios dingo kartu su joms pasišventusiais žmonėmis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8837,7 +8979,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-157- c-144
+    - t-157
+- c-144
   santrauka: 'Narbutas lietuvių religiją, mitologiją, kalbą ir teisę vertino kaip aukštos senovinės civilizacijos požymius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8854,7 +8997,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-158- c-145
+    - t-158
+- c-145
   santrauka: 'Narbutas rašė, kad lietuviai turi daug pasakojimų ir padavimų apie žalčius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8868,7 +9012,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-159- c-146
+    - t-159
+- c-146
   santrauka: 'Narbutas teigė, kad lietuvių mitologinėse dainose ir stebuklinėse pasakose žvėrys bei paukščiai gyvena savitą gyvenimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8882,7 +9027,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-160- c-147
+    - t-160
+- c-147
   santrauka: 'Narbutas rašė, kad lietuviai žuvusius tėvynės gynėjus vadino Runketojais ir šventomis laikė jų kapų vietas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8897,7 +9043,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-161- c-148
+    - t-161
+- c-148
   santrauka: 'Narbutas teigė, kad lietuviai senojoje religijoje daug reikšmės skyrė ugniai ir šventiesiems aukurų židiniams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8917,7 +9064,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-162- c-149
+    - t-162
+- c-149
   santrauka: 'Narbutas ugnies žinyčios kultą laikė vienu seniausių lietuvių protėvių iš Rytų atsineštų kultų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8934,7 +9082,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-163- c-150
+    - t-163
+- c-150
   santrauka: 'Narbutas spėjo, kad Rusos upės vardą Naugardo gubernijoje galėjo duoti variagų atgabenta lietuvių tautos kolonija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8956,7 +9105,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-164- c-151
+    - t-164
+- c-151
   santrauka: 'Narbutas atmetė nuomonę, kad Šventoji prie Ukmergės taip pavadinta dėl Jogailos laikų lietuvių krikšto.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8971,7 +9121,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-165- c-152
+    - t-165
+- c-152
   santrauka: 'Narbutas rašė, kad senojoje lietuvių religijoje šventais laikyti ne tik tekantys, bet ir kai kurie stovintys vandenys.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -8993,7 +9144,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-166- c-153
+    - t-166
+- c-153
   santrauka: 'Narbutas teigė, kad lietuvių mitologijoje visus ežerus globojo dievas Atrimpas, vadintas Ežeriniu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9008,7 +9160,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-167- c-154
+    - t-167
+- c-154
   santrauka: 'Narbutas rašė, kad lietuvių religija mokė pamaldumo medžiams, o šventieji medžiai buvo puošiami trofėjais ir girliandomis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9022,7 +9175,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-168- c-155
+    - t-168
+- c-155
   santrauka: 'Narbutas vertino lietuvius kaip mažiau apsišvietusius, bet rašė, kad jie pažino medžių dievybes ir saugojo vertingus medžius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9037,7 +9191,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-169- c-156
+    - t-169
+- c-156
   santrauka: 'Narbutas, remdamasis Strijkovskiu, rašė, kad lietuvių maldose šauktasi Pušaičio ir barstukų, o medžio šešėliui priskirtas gydomasis poveikis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9053,7 +9208,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-170- c-157
+    - t-170
+- c-157
   santrauka: 'Narbutas Romovės pavadinimą kildino iš senovės lietuvių žodžio, reiškusio susilaikymo, pamaldumo ir taikos vietą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9069,7 +9225,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-171- c-158
+    - t-171
+- c-158
   santrauka: 'Narbutas manė, kad skandinavai tikėjimą ąžuolo šventumu iš dalies perėmė iš lietuvių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9085,7 +9242,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-172- c-159
+    - t-172
+- c-159
   santrauka: 'Narbutas lietuvių aukurus apibūdino kaip primityvius ir nepuošnius, išskirdamas kai kuriuos Perkūno šventyklų aukurus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9099,7 +9257,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-173- c-160
+    - t-173
+- c-160
   santrauka: 'Narbutas teigė, kad lietuvių Perkūno stabas X a. buvo garsus Šiaurėje, o panašūs stabai pastatyti Kijeve ir Naugarde.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9117,7 +9276,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-174- c-161
+    - t-174
+- c-161
   santrauka: 'Narbutas rašė, kad senovinėse lietuvių monetose dievai buvo vaizduojami pagal seną paprotį, būdingą ir kaimyninėms tautoms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9130,7 +9290,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-175- c-162
+    - t-175
+- c-162
   santrauka: 'Narbutas moterų figūras lietuvių monetose aiškino kaip deives, nes, jo teigimu, lietuviai neturėjo tikrų karalių ir karalienių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9145,7 +9306,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-176- c-163
+    - t-176
+- c-163
   santrauka: 'Narbutas kaip lietuvių valdovą Jurijaus vardu minėjo Jurijų Vytautaitį, apie 1342 m. valdžiusį Pskovo žemę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9166,7 +9328,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-177- c-164
+    - t-177
+- c-164
   santrauka: 'Narbutas rašė, kad lietuviai turėjo dievams paskirtų kalnų, bet nežinojo tikrai lietuviškų pasakojimų apie Plikąjį kalną.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9180,7 +9343,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-178- c-165
+    - t-178
+- c-165
   santrauka: 'Narbutas teigė, kad lietuvių mitologijoje šventi buvo miško plotai su aukurais ir šventyklomis, dažniausiai prie upių santakų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9204,7 +9368,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-179- c-166
+    - t-179
+- c-166
   santrauka: 'Narbutas cituojamame pasakojime nurodė, kad Vilniui tapus Lietuvos sostine Trakai, nors turėjo pilį ir kunigaikščio rūmus, sumenko.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9227,7 +9392,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-180- c-167
+    - t-180
+- c-167
   santrauka: 'Narbutas teigė, kad lietuviai turėjo kilnojamųjų, arba stovyklinių, šventovių, priklausiusių ugnies šventovėms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9241,7 +9407,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-181- c-168
+    - t-181
+- c-168
   santrauka: 'Narbutas rašė, kad po prūsų stabmeldystės smūgio religinė sostinė buvo perkelta į Lietuvą, o vyriausiųjų žynių tvarka truko iki 1387 m.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9258,7 +9425,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-182- c-169
+    - t-182
+- c-169
   santrauka: 'Narbutas lietuvius apibūdino kaip pamaldžius ir prietaringus, kurie prieš darbus klausdavo pranašų patarimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9283,7 +9451,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-183- c-170
+    - t-183
+- c-170
   santrauka: 'Narbutas teigė, kad lietuviai alų gėrė ypač religinių apeigų metu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9297,7 +9466,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-184- c-171
+    - t-184
+- c-171
   santrauka: 'Narbutas rašė, kad kiekviena lietuvių genties tauta dievams aukojamiems arkliams rinkdavosi savitą plauką ir ženklus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9313,7 +9483,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-185- c-172
+    - t-185
+- c-172
   santrauka: 'Narbutas lietuvių priesaikas aiškino kaip dievų šaukimą liudytojais, minėdamas formules „dėl Dievo“ ir „Kad man Perkūnas sumuštų“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9334,7 +9505,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-186- c-173
+    - t-186
+- c-173
   santrauka: 'Narbutas teigė, kad dešinės rankos laikymo prie gerklės priesaikos paprotys gyvavo ir svetimųjų valdytuose lietuvių kraštuose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9349,7 +9521,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-187- c-174
+    - t-187
+- c-174
   santrauka: 'Narbutas teigė, kad lietuviai nuo seniausių amžių laiką dalijo į dienos ir nakties valandas, matuojamas vandens laikrodžiais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9361,7 +9534,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-188- c-175
+    - t-188
+- c-175
   santrauka: 'Narbutas manė, kad senovinės lietuvių religinės apeigos buvo daug turtingesnės, nei leidžia atkurti išlikusi medžiaga.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9380,7 +9554,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-189- c-176
+    - t-189
+- c-176
   santrauka: 'Narbutas rašė, kad senovinė lietuvių teisė ir papročiai numatė vienpatystę, o kitos lietuvių gentys jos laikėsi griežčiau už prūsus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9405,7 +9580,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-190- c-177
+    - t-190
+- c-177
   santrauka: 'Narbutas rašė, kad jaunos netekėjusios lietuvaitės nešiodavosi prie juostos prikabintus varpelius, kad tėvai girdėtų jų judėjimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9427,7 +9603,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-191- c-178
+    - t-191
+- c-178
   santrauka: 'Narbutas teigė, kad lietuvių kalboje ir tautinėse dainose nerado slavų vestuvių dainoms būdingo cinizmo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9445,7 +9622,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-192- c-179
+    - t-192
+- c-179
   santrauka: 'Narbutas rašė, kad lietuvių laidotuvių giesmės vadinamos raudomis ir skambėjo visose lietuvių genties tautose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9460,7 +9638,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-193- c-180
+    - t-193
+- c-180
   santrauka: 'Narbutas mirusiųjų deginimą kildino iš indų ir teigė, kad vėlyvojoje lietuvių stabmeldystėje jis taikytas tik žymesniems žmonėms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9480,7 +9659,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-194- c-181
+    - t-194
+- c-181
   santrauka: 'Narbutas teigė neturįs patvirtinimo, kad lietuviai šventose giraitėse ant medžių kabindavo karalių kūnus aukso grandinėmis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9494,7 +9674,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-195- c-182
+    - t-195
+- c-182
   santrauka: 'Narbutas rašė, kad lietuviai skenduolių arba plėšikų nužudytųjų kūnus laidodavo toje vietoje, kur juos rasdavo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9507,7 +9688,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-196- c-183
+    - t-196
+- c-183
   santrauka: 'Narbutas rašė, kad senovės lietuviams kapai buvo šventi, o antkapinių statinių nederėjo liesti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9526,7 +9708,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-197- c-184
+    - t-197
+- c-184
   santrauka: 'Narbutas teigė, kad lietuviai tikėjo sielos nemirtingumu ir pomirtiniu atpildu bei bausme.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9550,7 +9733,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-198- c-185
+    - t-198
+- c-185
   santrauka: 'Narbutas perteikė autoriaus pasakojimą, kad Rytų bažnyčios atskalūnai tarp lietuvių turėjo daugiau laisvės negu savo šalyje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9573,7 +9757,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-199- c-186
+    - t-199
+- c-186
   santrauka: 'Narbutas nurodė, kad cituojamas autorius pateikė kai kurių lietuvių mitologijos sričių smulkius aprašymus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9600,7 +9785,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-200- c-187
+    - t-200
+- c-187
   santrauka: 'Narbutas teigė, kad lietuviai neturėjo savos heraldikos, bet žymesni asmenys raštus tvirtindavo pasirinktais antspaudais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9615,7 +9801,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-201- c-188
+    - t-201
+- c-188
   santrauka: 'Narbutas aiškino, kad herbo vardas „Kiniglis“ lietuvių kalboje reiškia triušį, o ne Neseckio nurodytą kiškį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9634,7 +9821,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-202- c-189
+    - t-202
+- c-189
   santrauka: 'Narbutas lietuvių tautos kilmę laikė kitokia nei gotų, o gotiškus elementus aiškino kaip skolinius iš gotų ir herulų aplinkos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9650,7 +9838,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-203- c-190
+    - t-203
+- c-190
   santrauka: 'Narbutas teigė, kad lietuvių žemėje aptikti Biarmijos, arba Permės, raidyno pėdsakai rodo senovės lietuvius naudojusis tomis raidėmis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9669,7 +9858,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-204- c-191
+    - t-204
+- c-191
   santrauka: 'Narbutas sanskritą laikė lietuvių kalbos ir kitų senųjų Europos tautų kalbų šaltiniu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9687,7 +9877,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-205- c-192
+    - t-205
+- c-192
   santrauka: 'Narbutas pateikė iš Ksavero Bogušo perimtą Čemberleno senovės lietuvių kalbos maldos pavyzdį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9705,7 +9896,8 @@ Lietuviai šaltiniuose minimi XI–XVI a. kontekstuose: nuo karinių konfliktų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-206- c-193
+    - t-206
+- c-193
   santrauka: 'Narbutas pasakojo, kad jo tarnai lietuviai Bogušo eilėse girdėjo nuostabiai perteiktą harmoningą žodžių skambesį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

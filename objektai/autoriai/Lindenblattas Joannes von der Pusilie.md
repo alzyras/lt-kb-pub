@@ -56,6 +56,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -72,6 +73,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -78,6 +78,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Vilniaus monetų kalykla, prižiūrima Ulriko Hozijaus, teikė nemaža pajamų karaliaus iždui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -98,6 +99,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūpino gausių išrašų apie Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -122,6 +124,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Lietuvos Metrika buvo Lietuvos didžiojo kunigaikščio raštinėje nuo XIV a. pabaigos iki 1794 m. susidaręs archyvas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

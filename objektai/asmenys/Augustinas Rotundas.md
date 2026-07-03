@@ -58,6 +58,7 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Augustinas Rotundas, gavęs Dusburgiečio rankraštį, perdavė jį Motiejui Strijkovskiui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

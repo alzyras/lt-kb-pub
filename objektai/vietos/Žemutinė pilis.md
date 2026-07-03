@@ -55,6 +55,7 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Per puolimą Žemutinėje pilyje liepsna apėmė medinius statinius, aptvarus ir užkardas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

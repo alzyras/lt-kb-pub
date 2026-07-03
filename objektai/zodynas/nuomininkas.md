@@ -58,6 +58,7 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -77,6 +78,7 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Vytauto vietininkai plėtė dvarus neapgyventose žemėse, įkurdindami dvaro žmones arba nuomininkus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

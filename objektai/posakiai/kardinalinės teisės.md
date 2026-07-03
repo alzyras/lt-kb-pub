@@ -53,6 +53,7 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kardinalinės teisės paliko liberum veto, karalių elekciją ir bajorijos teisę neklausyti karaliaus, jei nevykdomi pacta conventa punktai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

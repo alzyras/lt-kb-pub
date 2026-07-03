@@ -58,6 +58,7 @@ Vytautą už tai pradėjo įtarinėti neiš­ tikimybe ir separatizmu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Dėl nedraugiškų žygių Lenkijos atžvilgiu Vytautas Krokuvoje buvo pradėtas įtarinėti neištikimybe ir separatizmu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

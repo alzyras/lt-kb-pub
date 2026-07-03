@@ -94,6 +94,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -111,6 +112,7 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
+
 - c-003
   santrauka: 'Kryžiuočių didžiojo magistro pasiuntiniai atnešė du kardus ir ragino su jais stoti į atvirą mūšį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

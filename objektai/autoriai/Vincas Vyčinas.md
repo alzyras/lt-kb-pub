@@ -94,6 +94,7 @@ Kaina sutartinė ## Puslapis 495 Išleista: Jozefas Frankas Atsiminimai apie Vil
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vinco Vyčino „Raštų“ I-II tomai buvo išleisti 2002-2007 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

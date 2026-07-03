@@ -70,6 +70,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Dogelio rankraščiuose Vilniaus universiteto bibliotekoje buvo Žygimanto Augusto 1551 m. privilegijos tekstas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -65,6 +65,7 @@ Dusburgietis teigia, kad 238 D — stagnum Drusine, Jer — Drûsin; XIII a. vid
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Tiedu laivai po daugelio metų buvo paskandinti Drūsinės ežere.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

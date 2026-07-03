@@ -54,6 +54,7 @@ Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius, karybos ir ginkluotės raidą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

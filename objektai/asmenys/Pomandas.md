@@ -55,6 +55,7 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Pomandas iš Baigos pilies grįžo pas prusus, dėdamasis krikščionių priešu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

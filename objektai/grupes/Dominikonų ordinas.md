@@ -160,6 +160,7 @@ Dominikonų ordinas Lietuvos istorijos šaltiniuose minimas nuo Lietuvos vyskupo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-002
   santrauka: 'Lietuvos vyskupas Vitas, dominikonas, 1254 m. gegužės 8 d. dalyvavo skelbiant Šv. Stanislovo kanonizavimą Krokuvos bažnyčioje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -175,6 +176,7 @@ Dominikonų ordinas Lietuvos istorijos šaltiniuose minimas nuo Lietuvos vyskupo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-003
   santrauka: 'Prieglaudos namus vargšams ir ligoniams buvo numatyta statyti prie dominikonų vienuolyno, buvusio prie Šv. Dvasios bažnyčios Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -194,6 +196,7 @@ Dominikonų ordinas Lietuvos istorijos šaltiniuose minimas nuo Lietuvos vyskupo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-004
   santrauka: 'Aleksandras, įkurdinęs dominikonus, negrąžino Vingrių šaltinių Vilniaus miestui ir sutiko juos su klebonija perleisti dominikonams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -261,6 +264,7 @@ Dominikonų ordinas Lietuvos istorijos šaltiniuose minimas nuo Lietuvos vyskupo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-005
   santrauka: 'Michałas Balińskis Gedimino vardu dominikonams, minoritams ir Vokietijos miestams rašytus laiškus laikė Rygos arkivyskupo klastote.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -290,6 +294,7 @@ Dominikonų ordinas Lietuvos istorijos šaltiniuose minimas nuo Lietuvos vyskupo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-006
   santrauka: 'Aleksandras 1501 metais pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -307,6 +312,7 @@ Dominikonų ordinas Lietuvos istorijos šaltiniuose minimas nuo Lietuvos vyskupo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-007
   santrauka: 'Ulrikas Hozijus pradėjo statyti prieglaudą prie dominikonų vienuolyno ir spėjo išmūryti nemažą jos dalį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -336,6 +342,7 @@ Dominikonų ordinas Lietuvos istorijos šaltiniuose minimas nuo Lietuvos vyskupo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-008
   santrauka: '1323 m. notaro parengtas Gedimino laiškų dominikonams, pranciškonams ir Hanzos miestams dokumentas buvo Karaliaučiaus Slaptajame archyve.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -370,6 +377,7 @@ Dominikonų ordinas Lietuvos istorijos šaltiniuose minimas nuo Lietuvos vyskupo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-009
   santrauka: 'Gediminas ketino kviesti dorus dominikonų ir pranciškonų vienuolius, bet nepageidavo vienuolynus plėšikų prieglobsčiu paverčiančių vienuolių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -410,6 +418,7 @@ Dominikonų ordinas Lietuvos istorijos šaltiniuose minimas nuo Lietuvos vyskupo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-010
   santrauka: 'Algirdo laikais sugriautos dominikonų ordino brolių bažnyčios griuvėsiai išlaikė Gedimino palankumo krikščionybei atminimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -429,6 +438,7 @@ Dominikonų ordinas Lietuvos istorijos šaltiniuose minimas nuo Lietuvos vyskupo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-011
   santrauka: 'Gediminas kvietė dominikonus ir žadėjo netrukus duoti jiems bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -476,6 +486,7 @@ Dominikonų ordinas Lietuvos istorijos šaltiniuose minimas nuo Lietuvos vyskupo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-012
   santrauka: 'Gediminas suteikė prieglobstį Lietuvoje apaštalavusiems dominikonams ir prie Vilniaus pilies pastatydino jiems vienuolyną bei bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -506,6 +517,7 @@ Dominikonų ordinas Lietuvos istorijos šaltiniuose minimas nuo Lietuvos vyskupo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-013
   santrauka: 'Gediminas dominikonų magistrams, priorams ir broliams pranešė pasiuntęs laišką popiežiui Jonui dėl krikšto.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -538,6 +550,7 @@ Dominikonų ordinas Lietuvos istorijos šaltiniuose minimas nuo Lietuvos vyskupo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-014
   santrauka: 'Gediminas teigė turįs dominikonų brolių ir suteikęs jiems visišką laisvę krikštyti, pamokslauti bei atlikti šventąsias apeigas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

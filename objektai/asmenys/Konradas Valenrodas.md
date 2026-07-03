@@ -106,6 +106,7 @@ Konradas Valenrodas šaltiniuose minimas kaip Ordino pareigūnas, 1391 m. kovo 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas didžiuoju magistru, o 1393 m. liepos 25 d. mirė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -129,6 +130,7 @@ Konradas Valenrodas šaltiniuose minimas kaip Ordino pareigūnas, 1391 m. kovo 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Konrado Valenrodo vadovaujama kryžiuočių kariauna kartu su Vytautu rugsėjo 11 d. apsupo Trakų pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -149,6 +151,7 @@ Konradas Valenrodas šaltiniuose minimas kaip Ordino pareigūnas, 1391 m. kovo 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas Ordino didžiuoju magistru ir mirė 1393 m. liepos 25 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

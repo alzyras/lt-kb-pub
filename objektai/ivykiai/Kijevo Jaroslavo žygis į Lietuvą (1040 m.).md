@@ -85,6 +85,7 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   santrauka: 'Ivinskio vertinimu, 1040 m. Jaroslavo žygis į Lietuvą rodo, kad lietuviai tuo metu nepripažino Kijevo viršenybės.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

@@ -50,6 +50,7 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Namedos žodžiai „Gailiuosi jus pagimdžiusi“ paskatino jos sūnus ir kitus pilėnus stoti į mūšį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

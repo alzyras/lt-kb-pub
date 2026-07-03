@@ -80,6 +80,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Machmetas pasiuntė savo sūnų auklėtis į Vytauto Didžiojo dvarą ir rėmė Vytauto žygius į Pskovą bei Naugardą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -99,6 +100,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: '1424 m. Aukso Ordos chanu tapo Vytauto palaikomas Machmetas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

@@ -79,6 +79,7 @@ amziai:
     - t-001
     - t-002
     - t-003
+
 - c-002
   santrauka: 'Kazimiero Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas datuojamas 1650 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

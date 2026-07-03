@@ -67,6 +67,7 @@ O totoriai, ties Kłecku įsirengę košą, arba stovyklą, nemažą būrį pasi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio bažnyčią pergalei ties Kłecku prieš totorius atminti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -102,6 +103,7 @@ O totoriai, ties Kłecku įsirengę košą, arba stovyklą, nemažą būrį pasi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Totoriai ties Kłecku įsirengė stovyklą ir nemažą būrį pasiuntė į Naugarduką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

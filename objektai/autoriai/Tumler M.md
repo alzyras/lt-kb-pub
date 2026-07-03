@@ -54,6 +54,7 @@ Dusburgietis teigia, kad 157 Trečias magistras — Henrikas Bartas (1209?—121
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'M. Tumlerio veikale „Der Deutsche Orden“ remiamasi datuojant Henriko Barto magistro laikotarpį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

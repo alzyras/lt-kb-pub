@@ -84,6 +84,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kryžiuočių archyvo senajame Lietuvos kelių aprašyme minima Nerige yra dabartinė Vilija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -109,6 +110,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Vilija seniau vadinta Neris arba Neria, nes, autoriaus manymu, upė išrausė gilią vagą ir suformavo aukštas smėlingas pakrantes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -136,6 +138,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Vilijos vardas, jei jo kilmė lietuviška, gali būti siejamas su žodžiais „vilioju“ arba „vylius“, todėl reikštų „Vilioklė“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

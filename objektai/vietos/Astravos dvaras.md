@@ -57,6 +57,7 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Vytautas, atsimetęs nuo ordino, Astravos dvare prie Lydos susitaikė su Jogaila.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

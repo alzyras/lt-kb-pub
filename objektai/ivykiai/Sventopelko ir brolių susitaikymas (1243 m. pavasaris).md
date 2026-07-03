@@ -98,6 +98,7 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-002
+
 - c-002
   santrauka: 'Sventopelkas atvyko pas legatą ir brolius, pripažino savo klaidą ir paprašė pasigailėjimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -129,6 +130,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Sventopelko ir brolių taika buvo sudaryta 1243 m. pavasarį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -77,6 +77,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Lindenblatto kronikos vietovardis Boparthen pastabose aiškinamas kaip dabartinis Bobiai į šiaurės vakarus nuo Kauno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -111,6 +112,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Lindenblatt Jahrbücher kryžiuočių persikėlimą per Viliją datavo rugpjūčio 28 d., o priartėjimą prie Vilniaus - rugsėjo 4 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -127,6 +129,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Lindenblatt Jahrbücher minėjo 1401 m. Vilniuje Šv. Priskos, mergelės ir kankinės, dieną duotą Lietuvos prelatus liečiančią privilegiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

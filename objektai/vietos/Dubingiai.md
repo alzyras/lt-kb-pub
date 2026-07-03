@@ -89,6 +89,7 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   pagrindžia:
     - t-004
     - t-002
+
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -107,6 +108,7 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Liucjanas Želigovskis lapkričio 17 d. auštant puolė lietuvių 1-osios pėstininkų divizijos barą nuo Nėries iki Dubingių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

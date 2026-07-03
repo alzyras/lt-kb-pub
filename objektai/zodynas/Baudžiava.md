@@ -146,6 +146,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -164,6 +165,7 @@ Nenurodyta
   pagrindžia:
     - t-007
     - t-001
+
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -179,6 +181,7 @@ Nenurodyta
   pagrindžia:
     - t-008
     - t-004
+
 - c-004
   santrauka: '1831 m. sukilimo atsišaukimuose lenkų ir lietuvių kalbomis keltas reikalavimas paleisti valstiečius iš baudžiavos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -196,6 +199,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   santrauka: 'Rusijos pralaimėjimas Krymo kare paskatino carą Aleksandrą II rengtis baudžiavos panaikinimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -213,6 +217,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-006
   santrauka: 'Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikinimo projektus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -235,6 +240,7 @@ Nenurodyta
   pagrindžia:
     - t-006
     - t-010
+
 - c-007
   santrauka: '1864 m. carizmas pradėjo anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -252,6 +258,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-008
   santrauka: 'Po Napoleono sutriuškinimo Rusijoje drąsiau buvo keliami valdžios reformavimo ir baudžiavos paveldo klausimai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

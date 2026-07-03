@@ -134,6 +134,7 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Daukanto aprašytame sausumos kelyje į Romą Cydova minima greta Gniezno.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean

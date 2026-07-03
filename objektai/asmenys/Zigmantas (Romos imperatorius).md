@@ -283,6 +283,7 @@ Zigmantas vaizduojamas kaip Romos imperatorius, siekęs sukiršinti Jogailą su 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Imperatorius Zigmantas siekė sukiršinti Jogailą su Vytautu ir atskirti Lietuvą nuo Lenkijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -309,6 +310,7 @@ Zigmantas vaizduojamas kaip Romos imperatorius, siekęs sukiršinti Jogailą su 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: '1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos santykį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -347,6 +349,7 @@ Zigmantas vaizduojamas kaip Romos imperatorius, siekęs sukiršinti Jogailą su 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   santrauka: 'Zigmantas po nesėkmingų svarstymų išsiuntė pas Vytautą pasiuntinius su karūna.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -367,6 +370,7 @@ Zigmantas vaizduojamas kaip Romos imperatorius, siekęs sukiršinti Jogailą su 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Popiežius Martynas V paragino imperatorių Zigmantą rūpintis Jogailos išlaisvinimu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

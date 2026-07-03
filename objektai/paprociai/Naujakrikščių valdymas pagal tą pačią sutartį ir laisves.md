@@ -66,6 +66,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kiti naujakrikščiai vėliau buvo valdomi pagal tą pačią sutartį ir laisves, kurios buvo suteiktos pirmiesiems pasidavusiems.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

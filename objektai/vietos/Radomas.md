@@ -101,6 +101,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -118,6 +119,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Vilniaus-Radomo unijos pavadinimas laikomas tikslesniu, nes dėl tos unijos buvo susitarta Vilniuje ir Radome.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -133,6 +135,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Karalius Šich Achmeto skundus turėjusį svarstyti bendrą lenkų ir lietuvių seimą nukėlė į Radomą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -160,6 +163,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Radomo seimas vyko 1505 m. balandžio-birželio mėn.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

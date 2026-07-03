@@ -53,6 +53,7 @@ Vainauską ir P. Vainauskas, vyresniojo padėjėju — P.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

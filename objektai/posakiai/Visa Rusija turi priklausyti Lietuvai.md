@@ -63,6 +63,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Lotyniška formulė „Omnis Russia ad Letwinos deberet simpliciter pertinere“ reiškė, kad visa Rusia turėtų priklausyti lietuviams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

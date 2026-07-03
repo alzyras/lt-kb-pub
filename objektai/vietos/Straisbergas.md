@@ -73,6 +73,7 @@ Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Rugsėjo pabaigoje per šventą Mykolą lietuviai apiplėšė Straisbergą, kur bažnyčiose žuvo daugybė susirinkusių žmonių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

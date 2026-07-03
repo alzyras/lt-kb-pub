@@ -49,7 +49,8 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas rašo, kad pirmą kartą paėmęs Ksavero Bogušo studiją į rankas ypač susidomėjo joje pateiktomis eilėmis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

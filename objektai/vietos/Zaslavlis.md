@@ -100,6 +100,7 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -116,6 +117,7 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Zaslavlis buvo gyvenvietė apie 20 km į šiaurės vakarus nuo Minsko.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

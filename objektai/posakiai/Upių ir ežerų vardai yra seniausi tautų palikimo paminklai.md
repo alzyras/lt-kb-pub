@@ -50,7 +50,8 @@ Narbutas šventųjų upių ir ežerų draudimą žvejoti siejo su išimtimis per
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas upių ir ežerų vardų pažinimą laikė svarbia parama senovės tyrėjui, aiškinančiam jų etimologiją pirmykštėse kalbose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

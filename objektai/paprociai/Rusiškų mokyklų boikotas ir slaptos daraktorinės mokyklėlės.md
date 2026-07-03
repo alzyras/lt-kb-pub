@@ -106,6 +106,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: 'XIX a. pabaigoje etninėje Lietuvoje oficialias pradžios mokyklas lankė itin maža mokyklinio amžiaus vaikų dalis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -137,6 +138,7 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-005
+
 - c-003
   santrauka: 'Po 1863– 1864 m. sukilimo leidus steigti tik rusiškas mokyklas, kuriose mokytų rusai, vyskupas per patikimus kunigus paragino kaimiečius vaikų į tokias mokyklas neleisti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

@@ -50,6 +50,7 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kujavijoje broliams duotas žemės plotas arba dvaras buvo pavadintas Sedlcais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -79,6 +79,7 @@ Zigmantas Kaributas buvo Vytauto sūnėnas, 1421 m. pasiųstas į Čekiją jo vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -95,6 +96,7 @@ Zigmantas Kaributas buvo Vytauto sūnėnas, 1421 m. pasiųstas į Čekiją jo vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -114,6 +116,7 @@ Zigmantas Kaributas buvo Vytauto sūnėnas, 1421 m. pasiųstas į Čekiją jo vi
   pagrindžia:
     - t-001
     - t-004
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -130,6 +133,7 @@ Zigmantas Kaributas buvo Vytauto sūnėnas, 1421 m. pasiųstas į Čekiją jo vi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   santrauka: 'Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į Prahą savo vietininku.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

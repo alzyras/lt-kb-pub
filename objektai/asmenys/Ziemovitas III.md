@@ -53,6 +53,7 @@ O Ziemovito viltys laimėti Jadvygos ranką 1383 m. pavasarį buvo padidėjusios
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1383 m. pavasarį Ziemovitas III planavo prievarta pagrobti Jadvygą, nors tam priešinosi Krokuvos ponai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

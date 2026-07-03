@@ -51,6 +51,7 @@ Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Po Vilniaus gyventojų krikšto amžinoji ugnis buvo iškilmingai užgesinta.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

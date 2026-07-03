@@ -67,6 +67,7 @@ Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais kla
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   santrauka: 'ES piliečiai turi teisę teikti peticijas Europos Parlamentui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

@@ -91,6 +91,7 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
   pagrindžia:
     - t-003
     - t-001
+
 - c-002
   santrauka: '1609 m. rugsėjo 29 d. užėmus Daugavgryvos tvirtovę buvo galutinai panaikinta Rygos blokada.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

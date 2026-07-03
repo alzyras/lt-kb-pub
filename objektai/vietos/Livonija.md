@@ -1866,7 +1866,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-    - t-022- c-002
+    - t-022
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl trečiasis Livonijos
@@ -1880,7 +1881,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-045- c-003
+    - t-045
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Livonijos prijungimas
@@ -1896,7 +1898,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-056- c-004
+    - t-056
+- c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Batoro laikais. Tik labai suma-
@@ -1909,7 +1912,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
-    - t-060- c-005
+    - t-060
+- c-005
   santrauka: 'Po 1183 m. žygio į Rusios žemes lietuviai kasmet rengė po vieną ar du žygius ne tik į Rusią, bet ir į Lenkiją bei Livoniją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1925,7 +1929,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-044- c-006
+    - t-044
+- c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     J. Sobieskio pradėtą
@@ -1942,7 +1947,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
-    - t-008- c-007
+    - t-008
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     3, p. 141.
@@ -1966,7 +1972,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-063
-    - t-037- c-008
+    - t-037
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 40
@@ -1986,7 +1993,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-042- c-009
+    - t-042
+- c-009
   santrauka: '1380 m. Jogailos aplinkoje buvo sudarytos paliaubos su Livonijos magistru Rygoje, apeinant Kęstutį ir Žemaitijos kunigaikštystę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2005,7 +2013,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-053
-    - t-055- c-010
+    - t-055
+- c-010
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lenkijai suartėjus su
@@ -2022,7 +2031,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-032- c-011
+    - t-032
+- c-011
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo metu pačiai Lietuvai grėsė pavojus
@@ -2051,7 +2061,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-054
-    - t-058- c-012
+    - t-058
+- c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar niekas nenutuokė juos buvus
@@ -2076,7 +2087,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
-    - t-040- c-013
+    - t-040
+- c-013
   santrauka: 'Mindaugui reikėjo kovoti su krikščioniškąja Livonija dėl pagoniškos Žemaitijos ir Vakaruose išlaikyti krikščionio valdovo statusą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2092,7 +2104,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-014
+    - t-002
+- c-014
   santrauka: 'Tragiškomis aplinkybėmis Livonijos ordinui buvo suduotas lemiamas smūgis, kartu paveikęs ir Vokiečių-kryžiuočių ordiną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -2109,7 +2122,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-062- c-015
+    - t-062
+- c-015
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Caras tuo tarpu sugalvojo lengvesnį būdą Livonijai įgyti.
@@ -2124,7 +2138,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-039- c-016
+    - t-039
+- c-016
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vygan­
@@ -2153,7 +2168,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-047
-    - t-017- c-017
+    - t-017
+- c-017
   santrauka: '1621–1629 m. švedai užėmė ATR pavaldžios Livonijos kunigaikštystės teritoriją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -2173,7 +2189,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-018
+    - t-005
+- c-018
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     valdovui Zigmantui Vazai kovoti su maiš-
@@ -2193,7 +2210,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   pagrindžia:
     - t-015
     - t-023
-    - t-052- c-019
+    - t-052
+- c-019
   santrauka: 'Didesnio uosto neturėjusi Lietuva buvo labiausiai suinteresuota kova dėl Livonijos, nes Lenkija turėjo Gdansko uostą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2206,7 +2224,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-028- c-020
+    - t-028
+- c-020
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tik paėmę Kauną, Nemuno žemu­
@@ -2222,7 +2241,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-    - t-027- c-021
+    - t-027
+- c-021
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Augus-
@@ -2242,7 +2262,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-048- c-022
+    - t-048
+- c-022
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O vasaros žygis buvo ruošiamas apie rug­
@@ -2258,7 +2279,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034- c-023
+    - t-034
+- c-023
   santrauka: 'Petro iš Dusburgo kronikos nuorašas buvo Livonijos Roneburgo pilies bažnyčioje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -2271,7 +2293,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-024
+    - t-009
+- c-024
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto nereikėtų manyti, kad Vilnius
@@ -2296,7 +2319,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-046
-    - t-006- c-025
+    - t-006
+- c-025
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pagaliau įsimaišė Pran-
@@ -2309,7 +2333,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-026
+    - t-004
+- c-026
   santrauka: 'Livonijos vokiečių žemėse, kaip ir Lietuvoje bei jai priklausiusioje Rusioje, nuo seno buvo įsitvirtinęs feodalinis valdymas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2329,7 +2354,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-059- c-027
+    - t-059
+- c-027
   santrauka: 'Maskvos kariuomenės sutriuškintas Livonijos magistras Gotardas Ketleris patikėjo Žygimantui Augustui save, ordiną ir valdas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2359,7 +2385,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-033- c-028
+    - t-033
+- c-028
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1608 m. rudenį numalšinus rokošą Len-
@@ -2378,7 +2405,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-029
+    - t-021
+- c-029
   santrauka: 'Ordino kronikose 1345-1382 m. suregistruoti 66 kryžiuočių žygiai iš Prūsų ir 30 žygių iš Livonijos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2392,7 +2420,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-050- c-030
+    - t-050
+- c-030
   santrauka: 'Danijos karaliaus Valdemaro II valdžia plito vokiečių užkariautoje Livonijoje ir Rygoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -2404,7 +2433,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-049- c-031
+    - t-049
+- c-031
   santrauka: '1338 m. lapkričio 1 d. Gediminas su Livonija sudarė prekybinę sutartį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2417,7 +2447,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-032
+    - t-007
+- c-032
   santrauka: 'Karaliaučius buvo svarbus komunikacijos mazgas kelyje į Livoniją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -2430,7 +2461,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-051- c-033
+    - t-051
+- c-033
   santrauka: 'Didžiausioji Livonijos dalis teko Lietuvai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -2446,7 +2478,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-034
+    - t-014
+- c-034
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Arch., apud
@@ -2475,7 +2508,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019- c-035
+    - t-019
+- c-035
   santrauka: '1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš kalavijuočių ordino magistrą Firstenbergą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2495,7 +2529,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025- c-036
+    - t-025
+- c-036
   santrauka: 'Pagal Stryjkovskio kroniką buvo restauruoti Livonijos Ronneburgo analai ir nekrologas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2509,7 +2544,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-057- c-037
+    - t-057
+- c-037
   santrauka: 'Dinaburgo komtūras Livonijos magistrui pranešė, kad iš nelaisvės paleistas Švitrigaila vėl traukia į mūšio lauką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2524,7 +2560,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-043- c-038
+    - t-043
+- c-038
   santrauka: 'Švitrigaila, nieko nepasiekęs prie Vilniaus, prikalbino Livonijos ordino riterius kartu pulti Vitebską.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2551,7 +2588,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
-    - t-036- c-039
+    - t-036
+- c-039
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos sienos Vazų laikais
@@ -2566,7 +2604,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-061- c-040
+    - t-061
+- c-040
   santrauka: '1579 m. pavasarį Steponui Batorui atvykus į Vilnių buvo rimtai rengiamasi žygiui į Livoniją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2591,7 +2630,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-041
+    - t-013
+- c-041
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Didysis kunigaikštis pra­
@@ -2611,7 +2651,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024- c-042
+    - t-024
+- c-042
   santrauka: 'Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -2626,7 +2667,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-043
+    - t-020
+- c-043
   santrauka: 'Gedimino laikų Vilnių iš Livonijos pasiekdavo rykai ir rūbai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2650,7 +2692,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-044
+    - t-010
+- c-044
   santrauka: '1302 m. didysis magistras Gotfridas su 50 brolių per Prūsiją atvyko į Livoniją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -2668,7 +2711,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026- c-045
+    - t-026
+- c-045
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o
@@ -2688,7 +2732,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029- c-046
+    - t-029
+- c-046
   santrauka: '1621 m. švedai užėmė didelę dalį Livonijos, o Rusija grasino Lietuvai karu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -2711,7 +2756,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-041- c-047
+    - t-041
+- c-047
   santrauka: '1204 m. Livonija popiežiaus Inocento rūpesčiu buvo atversta į Kristaus tikėjimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -2724,7 +2770,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-038- c-048
+    - t-038
+- c-048
   santrauka: '1248 m. Mindaugo opoziciją sudarė jo brolvaikiai, kurie į pagalbą pasitelkė Livonijos ordiną ir Voluinę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -2737,7 +2784,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-049
+    - t-012
+- c-049
   santrauka: 'Livonijos magistras su savo pajėgomis dalyvavo Vytauto vedamuose pulkuose prie Vilijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2767,7 +2815,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-035- c-050
+    - t-035
+- c-050
   santrauka: '1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio žemės danų vietininku.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -2783,7 +2832,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-051
+    - t-016
+- c-051
   santrauka: 'Utenis perkėlė karą iš Kuršo į Livoniją, kur kuršių ir žemaičių kariuomenė nusiaubė didelius plotus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2806,7 +2856,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-064- c-052
+    - t-064
+- c-052
   santrauka: 'Mindaugo karvedžiai nuolat siaubė Livoniją, o prie Lielvardės pilies Dauguvos pakrantėse vyko kovos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2841,7 +2892,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-065- c-053
+    - t-065
+- c-053
   santrauka: 'Jogaila, gavęs paramą iš Livonijos ir Prūsijos, su kariuomene traukė iš Vilniaus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2863,7 +2915,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-066- c-054
+    - t-066
+- c-054
   santrauka: 'Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2887,7 +2940,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-067- c-055
+    - t-067
+- c-055
   santrauka: 'Vitebsko apgula užtruko mėnesį, nes gynėjai, ypač Livonijos kariai, priešinosi iš paskutiniųjų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2908,7 +2962,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-068- c-056
+    - t-068
+- c-056
   santrauka: 'Vilhelmui Fiurstenbergui su ordinu perėjus į Liuterio šalininkus, Livonijoje kilo neramumų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2931,7 +2986,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-069- c-057
+    - t-069
+- c-057
   santrauka: 'Numalšinęs Livoniją, Žygimantas Augustas pasiuntė pasiuntinius derėtis dėl taikos su Maskva.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2955,7 +3011,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-070- c-058
+    - t-070
+- c-058
   santrauka: 'Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -2984,7 +3041,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-071- c-059
+    - t-071
+- c-059
   santrauka: 'Narbutas rašė, kad 1243 m. Livonijos riteriai, šaukdami tikrojo Dievo vardą, užpuolė lietuvius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -2998,7 +3056,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-072- c-060
+    - t-072
+- c-060
   santrauka: '1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -3012,7 +3071,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-073- c-061
+    - t-073
+- c-061
   santrauka: 'Narbutas svarstė, kodėl Henrikas Latvis, rašęs apie Livoniją, neminėjo krivio, jeigu šis valdė tą šalį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -3036,7 +3096,8 @@ Livonija buvo nevienalytė politinė erdvė: ją sudarė vyskupystės, ordinas i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-074- c-062
+    - t-074
+- c-062
   santrauka: 'Narbutas ginkluoto atvertimo pradžią siejo pirmiausia su Livonija, vėliau su Prūsija, Lietuva ir Žemaitija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

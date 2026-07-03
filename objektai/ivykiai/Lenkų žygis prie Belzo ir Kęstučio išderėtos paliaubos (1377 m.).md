@@ -73,6 +73,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kęstutis atvyko į karaliaus stovyklą kaip tarpininkas ir sustabdė karą, susitaręs dėl paliaubų sąlygų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

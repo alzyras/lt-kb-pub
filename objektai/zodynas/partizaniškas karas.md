@@ -54,7 +54,8 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Partizaniško karo metu Vytautas sunaikino kryžiuočių maisto atsargas, o Kęstučio ir Vytauto būriai puolė besitraukiančius kryžiuočius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

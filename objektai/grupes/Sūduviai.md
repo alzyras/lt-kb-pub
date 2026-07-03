@@ -527,7 +527,8 @@ Sūduviai XIII a. šaltiniuose minimi kaip aktyvi karinė jėga kovose su kryži
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
-    - t-022- c-002
+    - t-022
+- c-002
   santrauka: 'Liudvikas iš Libencelės į Kristaus tikėjimą atvertė tūkstantį šešis šimtus abiejų lyčių sūduvių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -546,7 +547,8 @@ Sūduviai XIII a. šaltiniuose minimi kaip aktyvi karinė jėga kovose su kryži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-003
+    - t-018
+- c-003
   santrauka: 'Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -561,7 +563,8 @@ Sūduviai XIII a. šaltiniuose minimi kaip aktyvi karinė jėga kovose su kryži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie sūduvių pabėgimą
@@ -581,7 +584,8 @@ Sūduviai XIII a. šaltiniuose minimi kaip aktyvi karinė jėga kovose su kryži
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
-    - t-021- c-005
+    - t-021
+- c-005
   santrauka: 'Magistras su kariuomene įsiveržė į Sūduvos Kimenavos valsčių ir privertė Kimenavos pilėnus atiduoti pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -597,7 +601,8 @@ Sūduviai XIII a. šaltiniuose minimi kaip aktyvi karinė jėga kovose su kryži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-006
+    - t-004
+- c-006
   santrauka: 'Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -612,7 +617,8 @@ Sūduviai XIII a. šaltiniuose minimi kaip aktyvi karinė jėga kovose su kryži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-007
+    - t-011
+- c-007
   santrauka: 'Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino ir grobė kraštą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -633,7 +639,8 @@ Sūduviai XIII a. šaltiniuose minimi kaip aktyvi karinė jėga kovose su kryži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-008
+    - t-007
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos
@@ -650,7 +657,8 @@ Sūduviai XIII a. šaltiniuose minimi kaip aktyvi karinė jėga kovose su kryži
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
-    - t-020- c-009
+    - t-020
+- c-009
   santrauka: '1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -667,7 +675,8 @@ Sūduviai XIII a. šaltiniuose minimi kaip aktyvi karinė jėga kovose su kryži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-010
+    - t-013
+- c-010
   santrauka: 'Sūduviai su didele kariuomene apsiautė Bartenšteino pilį, ją sugriovė, o visus gyventojus išžudė arba išsivarė į nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -687,7 +696,8 @@ Sūduviai XIII a. šaltiniuose minimi kaip aktyvi karinė jėga kovose su kryži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-011
+    - t-005
+- c-011
   santrauka: 'Iš Sūduvos atėjusi kariuomenė netikėtai užpuolė Kulmo žemės kaimų žmones, juos išžudė, o moteris ir vaikus išsivarė į nelaisvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -705,7 +715,8 @@ Sūduviai XIII a. šaltiniuose minimi kaip aktyvi karinė jėga kovose su kryži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-012
+    - t-008
+- c-012
   santrauka: 'Spalio 21 d. Skomantas su 4000 sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę keršyti už savųjų žūtį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -723,7 +734,8 @@ Sūduviai XIII a. šaltiniuose minimi kaip aktyvi karinė jėga kovose su kryži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019- c-013
+    - t-019
+- c-013
   santrauka: 'Sūduviai sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -741,7 +753,8 @@ Sūduviai XIII a. šaltiniuose minimi kaip aktyvi karinė jėga kovose su kryži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-014
+    - t-001
+- c-014
   santrauka: 'Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -758,7 +771,8 @@ Sūduviai XIII a. šaltiniuose minimi kaip aktyvi karinė jėga kovose su kryži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-015
+    - t-002
+- c-015
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo nusiaubtas Kimenavos valsčius Sūduvos žemėje
@@ -777,7 +791,8 @@ Sūduviai XIII a. šaltiniuose minimi kaip aktyvi karinė jėga kovose su kryži
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
-    - t-009- c-016
+    - t-009
+- c-016
   santrauka: 'Magistro Mangoldo vadovavimo metais sūduviai pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -795,7 +810,8 @@ Sūduviai XIII a. šaltiniuose minimi kaip aktyvi karinė jėga kovose su kryži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-017
+    - t-017
+- c-017
   santrauka: 'Skomantas su sūduviais įsiveržė į Kulmo žemę, padalijo kariuomenę ir niokojo kelią į Torunę bei Kulmo miestą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -821,7 +837,8 @@ Sūduviai XIII a. šaltiniuose minimi kaip aktyvi karinė jėga kovose su kryži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-018
+    - t-010
+- c-018
   santrauka: 'Dusburgietis sūduvius vadina paskutine ir galingiausia neužkariauta Prūsijos žemės gentimi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |

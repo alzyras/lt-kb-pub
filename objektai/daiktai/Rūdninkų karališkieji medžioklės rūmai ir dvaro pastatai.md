@@ -77,6 +77,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Rūdninkų karališkųjų medžioklės rūmų vietoje buvo išlikę plytų ir akmens pamatų griuvėsiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

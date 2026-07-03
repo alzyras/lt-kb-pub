@@ -152,6 +152,7 @@ Aldona Gediminaitė buvo Gedimino duktė, 1325 m. ištekinta už Vladislovo Loki
   pagrindžia:
     - t-001
     - t-010
+
 - c-002
   santrauka: '1339 m. mirė Lenkijos karalienė Aldona Gediminaitė.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -167,6 +168,7 @@ Aldona Gediminaitė buvo Gedimino duktė, 1325 m. ištekinta už Vladislovo Loki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -180,6 +182,7 @@ Aldona Gediminaitė buvo Gedimino duktė, 1325 m. ištekinta už Vladislovo Loki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Aldona Gediminaitė, per krikštą pavadinta Ona, buvo ištekinta už Lenkijos karaliaus Kazimiero Didžiojo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -203,6 +206,7 @@ Aldona Gediminaitė buvo Gedimino duktė, 1325 m. ištekinta už Vladislovo Loki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-005
   santrauka: 'Gedimino duktė Aldona 1325 m. ištekėjo už Vladislovo I Lokietkos sūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -217,6 +221,7 @@ Aldona Gediminaitė buvo Gedimino duktė, 1325 m. ištekinta už Vladislovo Loki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-006
   santrauka: '1325 m. Gedimino dukters Aldonos ir Vladislovo Lokietkos sūnaus Kazimiero jungtuvės sutvirtino Lietuvos ir Lenkijos sutartį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

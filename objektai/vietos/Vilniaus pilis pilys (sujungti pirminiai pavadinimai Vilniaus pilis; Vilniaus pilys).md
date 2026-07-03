@@ -171,6 +171,7 @@ Vilniaus pilys buvo svarbi valdovų buveinė, sostinės gynybos ir politinių į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-002
   santrauka: 'Balińskis nurodė, kad po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nėra.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -192,6 +193,7 @@ Vilniaus pilys buvo svarbi valdovų buveinė, sostinės gynybos ir politinių į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-003
   santrauka: 'Po Vilniaus gaisrų susirūpinta senų Vilniaus pilies ir Katedros pastatų remontu bei atnaujinimu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -217,6 +219,7 @@ Vilniaus pilys buvo svarbi valdovų buveinė, sostinės gynybos ir politinių į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Vilniaus vyskupas Povilas parodė karaliui į katedros bažnyčią pilyje ir privertė jį pakeisti ketinimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -237,6 +240,7 @@ Vilniaus pilys buvo svarbi valdovų buveinė, sostinės gynybos ir politinių į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-005
   santrauka: 'Vilniaus pilininkas ir miestiečiai, sumušę Kęstučio įgulą, Žemutinę ir Aukštutinę pilis atidavė Jogailai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -261,6 +265,7 @@ Vilniaus pilys buvo svarbi valdovų buveinė, sostinės gynybos ir politinių į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-006
   santrauka: '1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -280,6 +285,7 @@ Vilniaus pilys buvo svarbi valdovų buveinė, sostinės gynybos ir politinių į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-007
   santrauka: 'Prie Vilniaus pilies buvo įkurta didžioji ginklų liejykla, turėjusi daug įtakos amatininkų gerovei ir tobulėjimui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -305,6 +311,7 @@ Vilniaus pilys buvo svarbi valdovų buveinė, sostinės gynybos ir politinių į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-008
   santrauka: 'Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -338,6 +345,7 @@ Vilniaus pilys buvo svarbi valdovų buveinė, sostinės gynybos ir politinių į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-009
   santrauka: 'Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -365,6 +373,7 @@ Vilniaus pilys buvo svarbi valdovų buveinė, sostinės gynybos ir politinių į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-010
   santrauka: 'Karalius Žygimantas savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -382,6 +391,7 @@ Vilniaus pilys buvo svarbi valdovų buveinė, sostinės gynybos ir politinių į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-011
   santrauka: 'Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -414,6 +424,7 @@ Vilniaus pilys buvo svarbi valdovų buveinė, sostinės gynybos ir politinių į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-012
   santrauka: '1377 m. birželio pabaigoje 12 000 žmonių kariuomenė sustojo prie Vilniaus pilių, kurias gynė Algirdas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -432,6 +443,7 @@ Vilniaus pilys buvo svarbi valdovų buveinė, sostinės gynybos ir politinių į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-013
   santrauka: '1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -452,6 +464,7 @@ Vilniaus pilys buvo svarbi valdovų buveinė, sostinės gynybos ir politinių į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-014
   santrauka: 'Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -476,6 +489,7 @@ Vilniaus pilys buvo svarbi valdovų buveinė, sostinės gynybos ir politinių į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-015
   santrauka: '1506 m. buvo taisomos daug kur pakrypusios ir suskilusios Žemutinės Vilniaus pilies sienos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -501,6 +515,7 @@ Vilniaus pilys buvo svarbi valdovų buveinė, sostinės gynybos ir politinių į
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-016
   santrauka: 'Dalis vietos gyventojų, siekdami apsisaugoti nuo kryžiuočių, ieškojo prieglobsčio prie Vilniaus pilies.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

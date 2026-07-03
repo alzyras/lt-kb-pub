@@ -73,6 +73,7 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Mirdamas Knišine, Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią, išplėsti Švč. Trejybės prieglaudą ir geriau ją aprūpinti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -90,6 +91,7 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: '1576 m. valdžią perėmęs karalius Steponas Batoras nuvyko į Knišiną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

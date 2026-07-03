@@ -59,6 +59,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vilniaus vyskupas Petras atkakliai priešinosi Vytauto ir Julijonos santuokai, laikydamas ją dievo ir žmonių įstatymų pažeidimu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

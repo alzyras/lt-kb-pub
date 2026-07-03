@@ -57,6 +57,7 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Vienas iš trijų veikalo „Senovės Lenkija“ tomų skirtas LDK istoriniam topografiniam aprašymui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

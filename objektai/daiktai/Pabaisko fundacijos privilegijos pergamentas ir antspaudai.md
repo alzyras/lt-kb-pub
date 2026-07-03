@@ -75,6 +75,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Pabaisko fundacijos privilegija buvo parašyta lotynų kalba ant daugiau negu uolekties ilgio ir pločio pergamento.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

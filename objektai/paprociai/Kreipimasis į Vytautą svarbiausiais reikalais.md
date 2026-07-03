@@ -84,6 +84,7 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-003
+
 - c-002
   santrauka: 'Vytautui užtariant lenkų šlėktą ir tarpininkaujant, Jogaila Červinsko stovykloje padidino bajorijos luomo teises.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

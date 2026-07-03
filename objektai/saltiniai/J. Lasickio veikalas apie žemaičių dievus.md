@@ -125,7 +125,8 @@ J. Lasickio veikalas apie žemaičių dievus čia atsiskleidžia per Narbuto pat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas nurodo, kad Lasickis ir liaudies padavimai Raganomis vadino deives, globojusias tam tikrus medžius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -144,7 +145,8 @@ J. Lasickio veikalas apie žemaičių dievus čia atsiskleidžia per Narbuto pat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Narbutas nurodo, kad Lasickis Datoną aprašė tik kaip dievaitį, dalijusį žemes arba visokį turtą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -156,7 +158,8 @@ J. Lasickio veikalas apie žemaičių dievus čia atsiskleidžia per Narbuto pat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Narbutas rašo, kad Lasickis Varpelį laikė ore sklindančio aido dievaičiu, sukeldavusiu griausmą po perkūno trenksmo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -170,7 +173,8 @@ J. Lasickio veikalas apie žemaičių dievus čia atsiskleidžia per Narbuto pat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-005
+    - t-004
+- c-005
   santrauka: 'Narbutas nurodo, kad Lasickis Markopolius aprašė kaip požemio dievaičius, ypač garbintus didikų ir bajorų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -183,7 +187,8 @@ J. Lasickio veikalas apie žemaičių dievus čia atsiskleidžia per Narbuto pat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-006
+    - t-005
+- c-006
   santrauka: 'Narbutas rašo, kad, pasak Lasickio, kaukai pasirodydavę tik jais tikėjusiems žmonėms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -197,7 +202,8 @@ J. Lasickio veikalas apie žemaičių dievus čia atsiskleidžia per Narbuto pat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-007
+    - t-006
+- c-007
   santrauka: 'Narbutas nurodo, kad Lasickis lietuviams priskyrė kai kurių dievų garbinimo apeigų slėpimą, dažniausiai nuo krikščionių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -215,7 +221,8 @@ J. Lasickio veikalas apie žemaičių dievus čia atsiskleidžia per Narbuto pat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-008
+    - t-007
+- c-008
   santrauka: 'Narbutas Dievaitį aprašo kaip Pajūrio kaimo fetišą, kurį lokalizuoja Raseinių apskrityje, tikriausiai prie Jūros upės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -234,7 +241,8 @@ J. Lasickio veikalas apie žemaičių dievus čia atsiskleidžia per Narbuto pat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-009
+    - t-008
+- c-009
   santrauka: 'Narbutas nurodo, kad, pasak Lasickio, Jokūbas Laskovičius jam pasakojo apie Žemaitijoje daugeliui dievų teiktą garbę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -253,7 +261,8 @@ J. Lasickio veikalas apie žemaičių dievus čia atsiskleidžia per Narbuto pat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-010
+    - t-009
+- c-010
   santrauka: 'Narbutas rašo, kad Lasickis paliko pirmos alaus statinės pradėjimo apeigų, vadintų nuleidimu, aprašymą Ragutienės garbei.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -272,7 +281,8 @@ J. Lasickio veikalas apie žemaičių dievus čia atsiskleidžia per Narbuto pat
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-011
+    - t-010
+- c-011
   santrauka: 'Narbutas rašo, kad Lasickis, aptardamas Ežiagulį, aprašė žemaičių gedulingą šventę skerstuves.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

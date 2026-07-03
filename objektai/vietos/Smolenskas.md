@@ -1054,7 +1054,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-002
+    - t-013
+- c-002
   santrauka: '1401 m. Smolenske vėl įsigalėjo išvarytasis Jurgis Sviatoslavaitis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1067,7 +1068,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026- c-003
+    - t-026
+- c-003
   santrauka: 'Vytautas 1404 m. birželio 27 d. užvaldė Smolenską ir jame vėl paskyrė savo vietininką.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1078,7 +1080,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-030- c-004
+    - t-030
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Per dvi savaiti Vytau­
@@ -1095,7 +1098,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023- c-005
+    - t-023
+- c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Karas prasidėjo 1512 m. Visos Maskvos jėgos buvo nu-
@@ -1106,7 +1110,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-006
+    - t-009
+- c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Zigmanto Vazos laikais, kai Maskvoje siautė di-
@@ -1119,7 +1124,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-007
+    - t-020
+- c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo
@@ -1140,7 +1146,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-008
+    - t-003
+- c-008
   santrauka: '1411 metų pavasarį Vytautas su Jogaila keliavo pro Smolenską, o tų kraštų kunigaikščiai reiškė paklusnumą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1159,7 +1166,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
-    - t-018- c-009
+    - t-018
+- c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Todėl rūpinosi grei­
@@ -1177,7 +1185,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
-    - t-010- c-010
+    - t-010
+- c-010
   santrauka: '1345 m. Jaunutis, pabėgęs nuo Kęstučio puolimo Vilniuje, prieglobsčio ieškojo Smolenske.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1197,7 +1206,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-    - t-008- c-011
+    - t-008
+- c-011
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Juk jau 1562-1582 m.
@@ -1214,7 +1224,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
-    - t-014- c-012
+    - t-014
+- c-012
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos valdovas Vytautas,
@@ -1233,7 +1244,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-    - t-006- c-013
+    - t-006
+- c-013
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     J. K. Chodkevičiui buvo pavesta vadovauti
@@ -1247,7 +1259,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
-    - t-011- c-014
+    - t-011
+- c-014
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl
@@ -1263,7 +1276,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
-    - t-005- c-015
+    - t-005
+- c-015
   santrauka: 'Vytautas dvi savaites Smolenske vaišino savo dukterį Zofiją su vaikais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1280,7 +1294,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-016
+    - t-012
+- c-016
   santrauka: 'Vytautas buvo įsirengęs stovyklą prie Smolensko ir vėliau užėmė šį miestą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1300,7 +1315,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-017
+    - t-007
+- c-017
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Otcem
@@ -1331,7 +1347,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
-    - t-028- c-018
+    - t-028
+- c-018
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Antrasis laiškas
@@ -1362,7 +1379,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-031- c-019
+    - t-031
+- c-019
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip sąmokslas buvo
@@ -1381,7 +1399,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
-    - t-032- c-020
+    - t-032
+- c-020
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Pirmasis karas su Maskva (1507—8 m.).** Tuo pat metu
@@ -1396,7 +1415,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-    - t-019- c-021
+    - t-019
+- c-021
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kurį laiką Padauguvio giminės net mo-
@@ -1409,7 +1429,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-022
+    - t-016
+- c-022
   santrauka: 'Smolenskui buvo suteikta privilegija, garantavusi miestui dalį savarankiškumo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1423,7 +1444,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-023
+    - t-017
+- c-023
   santrauka: 'Vytautas išvijo priešus iš Oršos krašto ir užpuolė Smolenską, laikytą maišto pradininku.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1450,7 +1472,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-033- c-024
+    - t-033
+- c-024
   santrauka: 'Jurijus nedrįso kautis atvirame lauke ar gintis už Smolensko pylimų ir pabėgo su žmona pas uošvį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1481,7 +1504,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034- c-025
+    - t-034
+- c-025
   santrauka: 'Ivanas Boreikaitis Chodkevičius į sutartą vietą atvyko su Seversko ir Smolensko kariais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1511,7 +1535,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-035- c-026
+    - t-035
+- c-026
   santrauka: 'Vykdamas į Lietuvą, Goštautas Smolenske vietininku paliko Andrių Sakavičių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1536,7 +1561,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-036- c-027
+    - t-036
+- c-027
   santrauka: 'Kazimieras pats patraukė į Smolenską, nors karvedžiai teigė, kad metų laikas netinka karui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1562,7 +1588,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-037- c-028
+    - t-037
+- c-028
   santrauka: 'Kazimieras žiemos viduryje aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos ir karo reikalus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1604,7 +1631,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-038- c-029
+    - t-038
+- c-029
   santrauka: 'Karvedžių pasitarime nuspręsta, kad karalius su smulkesniais būriais apsistos Smolensko apylinkėse.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1627,7 +1655,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-039- c-030
+    - t-039
+- c-030
   santrauka: 'Jonas Goštautas buvo Smolensko vietininkas ir tuo metu buvo Smolenske, tolimame Didžiosios Kunigaikštystės mieste.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -1655,7 +1684,8 @@ Smolenskas buvo svarbi Dniepro aukštupio tvirtovė ir Lietuvos valstybės šiau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-040- c-031
+    - t-040
+- c-031
   santrauka: 'Ivanas Vasiljevičius paleido į Smolenską smolenskiečius, kurie minėtuose miestuose buvo paimti į nelaisvę.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |

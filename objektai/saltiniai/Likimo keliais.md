@@ -57,6 +57,7 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V. 8, — „Likimo k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -74,6 +75,7 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V. 8, — „Likimo k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: '„Likimo keliais“ pasakoja apie Vincą Višvilį, kuris ryžtasi prikelti iš miego Žvaigždikį, tapatinamą su Lietuva.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

@@ -359,7 +359,8 @@ Ukmergė šioje žinių bazėje iškyla kaip vieta, susijusi su 1435 m. mūšiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025- c-002
+    - t-025
+- c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po mūšio
@@ -379,7 +380,8 @@ Ukmergė šioje žinių bazėje iškyla kaip vieta, susijusi su 1435 m. mūšiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-003
+    - t-006
+- c-003
   santrauka: 'Kariuomenės vadovybė sustabdė Ukmergės rinktinės puolimą, nes ši buvo per daug išsiveržusi į priekį ir reikėjo išlyginti fronto liniją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -397,7 +399,8 @@ Ukmergė šioje žinių bazėje iškyla kaip vieta, susijusi su 1435 m. mūšiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-004
+    - t-014
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Buvo sukurtas
@@ -420,7 +423,8 @@ Ukmergė šioje žinių bazėje iškyla kaip vieta, susijusi su 1435 m. mūšiu 
   pagrindžia:
     - t-009
     - t-018
-    - t-003- c-005
+    - t-003
+- c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Telkdama į bolševikų frontą vis daugiau
@@ -438,7 +442,8 @@ Ukmergė šioje žinių bazėje iškyla kaip vieta, susijusi su 1435 m. mūšiu 
   pagrindžia:
     - t-020
     - t-013
-    - t-016- c-006
+    - t-016
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Švietimui padėjo lenkų kultūros organiza-
@@ -453,7 +458,8 @@ Ukmergė šioje žinių bazėje iškyla kaip vieta, susijusi su 1435 m. mūšiu 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
-    - t-002- c-007
+    - t-002
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
@@ -498,7 +504,8 @@ Ukmergė šioje žinių bazėje iškyla kaip vieta, susijusi su 1435 m. mūšiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-008
+    - t-008
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Čia
@@ -515,7 +522,8 @@ Ukmergė šioje žinių bazėje iškyla kaip vieta, susijusi su 1435 m. mūšiu 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
-    - t-026- c-009
+    - t-026
+- c-009
   santrauka: '1435 m. netoli Ukmergės Švitrigailai kelią pastojo Mykolo vadovaujama lietuvių ir lenkų kariuomenė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -530,7 +538,8 @@ Ukmergė šioje žinių bazėje iškyla kaip vieta, susijusi su 1435 m. mūšiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-010
+    - t-010
+- c-010
   santrauka: '1435 m. rugsėjo 1 d. mūšis įvyko per pusantros mylios nuo Ukmergės, prie kelio į Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -551,7 +560,8 @@ Ukmergė šioje žinių bazėje iškyla kaip vieta, susijusi su 1435 m. mūšiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-011
+    - t-001
+- c-011
   santrauka: 'Jaunučiui paskirtame žemių dalinyje, be Vilniaus, buvo Ašmenos, Ukmergės ir Breslaujos sritys su pilimis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -567,7 +577,8 @@ Ukmergė šioje žinių bazėje iškyla kaip vieta, susijusi su 1435 m. mūšiu 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
-    - t-005- c-012
+    - t-005
+- c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Naudodamasis visuotine neapykanta, kurią per sa­
@@ -589,7 +600,8 @@ Ukmergė šioje žinių bazėje iškyla kaip vieta, susijusi su 1435 m. mūšiu 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
-    - t-015- c-013
+    - t-015
+- c-013
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pijarai, niekuo daugiau neužsiimdami,
@@ -607,7 +619,8 @@ Ukmergė šioje žinių bazėje iškyla kaip vieta, susijusi su 1435 m. mūšiu 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
-    - t-023- c-014
+    - t-023
+- c-014
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Prie jų atvykęs Vallenrodas, rado tik pelenų krūvą. Vy­
@@ -623,7 +636,8 @@ Ukmergė šioje žinių bazėje iškyla kaip vieta, susijusi su 1435 m. mūšiu 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
-    - t-024- c-015
+    - t-024
+- c-015
   santrauka: 'Švitrigailos ir Livonijos magistro jungtinės pajėgos per Užnerį žygiavo į Vilkmergę, dabartinę Ukmergę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -642,7 +656,8 @@ Ukmergė šioje žinių bazėje iškyla kaip vieta, susijusi su 1435 m. mūšiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-016
+    - t-011
+- c-016
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kavars­
@@ -658,7 +673,8 @@ Ukmergė šioje žinių bazėje iškyla kaip vieta, susijusi su 1435 m. mūšiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-017
+    - t-004
+- c-017
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gegužės 3 d. Panevėžio batalionas, re-
@@ -676,7 +692,8 @@ Ukmergė šioje žinių bazėje iškyla kaip vieta, susijusi su 1435 m. mūšiu 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-018
+    - t-007
+- c-018
   santrauka: 'Narbutas Ukmergės apskritį priskyrė „Tikrajai Lietuvai“, kurioje nuo seniausių laikų buvusios vietos sudegintų žmonių pelenams laikyti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

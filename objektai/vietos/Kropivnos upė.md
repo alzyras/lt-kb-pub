@@ -51,6 +51,7 @@ atnaujinta: ''
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje upėje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

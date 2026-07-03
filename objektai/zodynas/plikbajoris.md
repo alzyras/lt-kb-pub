@@ -66,6 +66,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Nuskurę plikbajoriai seimelio metu būdavo maitinami didiko atgabentų virtuvių ir tik tada sočiai pavalgydavo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -83,6 +84,7 @@ tags:
   pagrindžia:
     - t-001
     - t-002
+
 - c-003
   santrauka: 'Didikai į seimelius suveždavo plikbajorius iš okolicų, nes šie turėjo lygų balsą su didikais ir galėjo ginklu paremti pono nuomonę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

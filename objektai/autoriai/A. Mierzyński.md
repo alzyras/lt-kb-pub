@@ -56,6 +56,7 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'A. Mierzyńskis parengė „Źródła do mytologii litewskiej“ I–II tomus, išleistus Varšuvoje 1892 ir 1896 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

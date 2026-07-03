@@ -66,6 +66,7 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'J. Powierskis Goliubo pilį siejo ne su Konrado Žako statyba, o su jos pritaikymu kryžiuočių poreikiams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -81,6 +82,7 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: '555 Aprašomas 1302—1303 m. žiemos puolimas (Powierski J., Dobra..., p. 201).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -87,7 +87,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbuto perteikiamame vaizdinyje Saulė laikyta deive, Mėnulio žmona, o jų vaikai buvo žvaigždės - Saulės dukterys ir sūnūs.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -105,7 +106,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Narbuto pasakojime Saulės aptemimą sukeldavo drakonų ir kerėtojų puolimas, o latviai šį nutikimą vadino Majtaszana arba Saules majtaszana.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -120,7 +122,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Narbuto aiškinime pertvarkant mitologiją dalis Mėnesio garbinimo perėjo Laimai, vadintai Lėlės ir Mėnulės vardais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

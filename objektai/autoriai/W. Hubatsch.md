@@ -55,6 +55,7 @@ Hubatsch^158.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'W. Hubatschas 1948 m. Getingene išleido „Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum“ antrąją dalį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

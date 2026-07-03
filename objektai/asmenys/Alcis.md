@@ -60,7 +60,8 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas laiko įtikėtina, kad Vilniaus herbas įvestas 1325 m., ir tuo grindžia spėjimą, jog milžinas Alcis ilgainiui virto šv. Kristupu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -77,7 +78,8 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Narbutas su Alciu lygina Vilniaus herbui priskiriamą šarvuotą riterį, kuris remiasi į nulaužtą medžio kamieną ir laiko pasagą primenantį daiktą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

@@ -176,6 +176,7 @@ Drohičinas Lietuvos istorijos šaltiniuose minimas kaip svarbi Palenkės vieta,
   pagrindžia:
     - t-004
     - t-001
+
 - c-002
   santrauka: 'Vytenis prijungė prie Lietuvos Drohičiną ir Brastą, kuriuos anksčiau laikinai buvo užėmęs Traidenis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -195,6 +196,7 @@ Drohičinas Lietuvos istorijos šaltiniuose minimas kaip svarbi Palenkės vieta,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -217,6 +219,7 @@ Drohičinas Lietuvos istorijos šaltiniuose minimas kaip svarbi Palenkės vieta,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Drohičino paviete buvę dideli valsčiai su renkamais mokesčiais buvo skirti Vilniaus katedrai aprūpinti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -241,6 +244,7 @@ Drohičinas Lietuvos istorijos šaltiniuose minimas kaip svarbi Palenkės vieta,
   pagrindžia:
     - t-005
     - t-002
+
 - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -254,6 +258,7 @@ Drohičinas Lietuvos istorijos šaltiniuose minimas kaip svarbi Palenkės vieta,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -270,6 +275,7 @@ Drohičinas Lietuvos istorijos šaltiniuose minimas kaip svarbi Palenkės vieta,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-007
   santrauka: 'Jogailos kariuomenė prie Drohičino sutiko stiprų pasipriešinimą, bet po puolimų ir gaisro gavo apdegusią pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -308,6 +314,7 @@ Drohičinas Lietuvos istorijos šaltiniuose minimas kaip svarbi Palenkės vieta,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-008
   santrauka: 'Užpuolęs Palenkę, Mazovijos kunigaikštis Boleslovas užėmė Melniką, Belską ir Drohičiną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -343,6 +350,7 @@ Drohičinas Lietuvos istorijos šaltiniuose minimas kaip svarbi Palenkės vieta,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-009
   santrauka: 'Lietuvos metraštyje pasakojama, kad Erdvilas rado Drohičiną Batu nusiaubtą ir sunaikintą, vėliau jį atstatė ir jame kunigaikščiavo.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -360,6 +368,7 @@ Drohičinas Lietuvos istorijos šaltiniuose minimas kaip svarbi Palenkės vieta,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-010
   santrauka: 'Kazimierui būnant Vilniuje, Drohičino ir Melniko seniūnu buvo dar Žygimanto paskirtas Jurgis Nosuta.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

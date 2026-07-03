@@ -71,6 +71,7 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   santrauka: 'Kai kurie iš pagarbos savo dievams kasdien maudydavosi pirtyse, o kiti pirties labai nemėgo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

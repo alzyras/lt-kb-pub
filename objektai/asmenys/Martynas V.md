@@ -138,6 +138,7 @@ Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytini
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -153,6 +154,7 @@ Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytini
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -167,6 +169,7 @@ Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytini
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -189,6 +192,7 @@ Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytini
   pagrindžia:
     - t-002
     - t-010
+
 - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -204,6 +208,7 @@ Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytini
   pagrindžia:
     - t-008
     - t-001
+
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -220,6 +225,7 @@ Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytini
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -239,6 +245,7 @@ Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytini
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -258,6 +265,7 @@ Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytini
   pagrindžia:
     - t-007
     - t-012
+
 - c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -272,6 +280,7 @@ Popiežius Martynas V buvo svarbus Vytauto ir Jogailos politinių bei bažnytini
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |

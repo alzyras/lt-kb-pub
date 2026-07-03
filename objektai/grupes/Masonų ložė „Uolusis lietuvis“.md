@@ -74,6 +74,7 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas. Ložė „Uolusis
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

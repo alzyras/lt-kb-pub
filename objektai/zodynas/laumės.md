@@ -49,6 +49,7 @@ Jų tarpe bene žymiausios buvo laumės, arba žmogaus likimą lemiančios deiv�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Laumės buvo laikomos žmogaus likimą lemiančiomis deivėmis, ateinančiomis prie gimstančio žmogaus ir valdančiomis jo gyvenimą iki mirties.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

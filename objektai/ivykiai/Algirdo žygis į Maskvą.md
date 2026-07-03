@@ -148,6 +148,7 @@ Nenurodyta
     - t-005
     - t-001
     - t-004
+
 - c-002
   santrauka: 'Legenda apie Algirdo žygį į Maskvą yra Bychovco kronikoje, bet jos nėra Trumpajame ir kituose Platesniojo sąvado nuorašuose.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -175,6 +176,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -209,6 +211,7 @@ Nenurodyta
     - t-002
     - t-006
     - t-008
+
 - c-004
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |

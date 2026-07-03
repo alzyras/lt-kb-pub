@@ -45,6 +45,7 @@ Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Dusburgiečio pasakojime balsas kiekvieną naktį ragino Henriką keltis melstis, nes jo broliai jau buvo pakirdę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

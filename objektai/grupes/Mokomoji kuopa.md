@@ -45,6 +45,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Dvylika Mokomosios kuopos vyrų išvyko į žvalgybą, kuriai vadovavo vyresnysis puskarininkis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

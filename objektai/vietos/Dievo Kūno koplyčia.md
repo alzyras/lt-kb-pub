@@ -87,6 +87,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   santrauka: '1610 m. Vilniaus kanauninkas Vilčiopolskis mūrinį namą su sklypu užrašė Akademijos kolegijai, 25 metų činšą paskirdamas Dievo Kūno koplyčiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -104,6 +105,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Trakų vaivada Oginskis kėlė Dievo Kūno koplyčią iš griuvėsių ir, skyręs daug lėšų, ją išpuošė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -132,6 +134,7 @@ amziai:
   pagrindžia:
     - t-004
     - t-001
+
 - c-004
   santrauka: 'Dievo Kūno koplyčios ankstyvieji dokumentai buvo prarasti 1660 m. maskvėnų užėmimo ir 1737 m. gaisro metu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

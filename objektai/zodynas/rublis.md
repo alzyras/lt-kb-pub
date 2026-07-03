@@ -64,6 +64,7 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -80,6 +81,7 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Jogailos ir Vytauto rūmuose kartais mokėta rubliais iš slavų kraštų, bet jie dar buvo sukapoti sidabro gabalai, o ne monetos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

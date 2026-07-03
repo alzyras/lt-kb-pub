@@ -118,6 +118,7 @@ J. Stalino valdymo metais Lietuvoje okupacinė valdžia griovė tautinę kultūr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Lietuvoje tikėta, kad Vakarai pakils į žygį prieš J. Stalino SSRS ir padės sugrąžinti nepriklausomybę dėl karo jos netekusioms šalims.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -135,6 +136,7 @@ J. Stalino valdymo metais Lietuvoje okupacinė valdžia griovė tautinę kultūr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -154,6 +156,7 @@ J. Stalino valdymo metais Lietuvoje okupacinė valdžia griovė tautinę kultūr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -170,6 +173,7 @@ J. Stalino valdymo metais Lietuvoje okupacinė valdžia griovė tautinę kultūr
   pagrindžia:
     - t-006
     - t-008
+
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -186,6 +190,7 @@ J. Stalino valdymo metais Lietuvoje okupacinė valdžia griovė tautinę kultūr
   pagrindžia:
     - t-005
     - t-004
+
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

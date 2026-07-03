@@ -56,6 +56,7 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Pasak kronikos, Hugonas, vadinamas Potyre, senaisiais laikais kariavo su prūsais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

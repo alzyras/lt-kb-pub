@@ -129,6 +129,7 @@ Ulrikas Hozijus buvo Vilniaus pilininkas ir LDK monetų kalyklos valdytojas. Ša
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   santrauka: 'Ulrikas Hozijus turėjo prie dominikonų Šv. Dvasios bažnyčios pastatyti viešą špitolę ir ją išlaikyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -147,6 +148,7 @@ Ulrikas Hozijus buvo Vilniaus pilininkas ir LDK monetų kalyklos valdytojas. Ša
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemažai pajamų karaliaus iždui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -167,6 +169,7 @@ Ulrikas Hozijus buvo Vilniaus pilininkas ir LDK monetų kalyklos valdytojas. Ša
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-004
   santrauka: 'Ulrikas Hozijus greitai ir rūpestingai pastatė tiltą per Vilijos upę prie Vilniaus savo didelėmis lėšomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -193,6 +196,7 @@ Ulrikas Hozijus buvo Vilniaus pilininkas ir LDK monetų kalyklos valdytojas. Ša
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-005
   santrauka: '1515 m. karalius leido Ulrikui Hozijui savo lėšomis statytis malūną ir iki gyvos galvos imti trečią grūdą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -219,6 +223,7 @@ Ulrikas Hozijus buvo Vilniaus pilininkas ir LDK monetų kalyklos valdytojas. Ša
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-006
   santrauka: 'Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -284,6 +289,7 @@ Ulrikas Hozijus buvo Vilniaus pilininkas ir LDK monetų kalyklos valdytojas. Ša
   pagrindžia:
     - t-002
     - t-008
+
 - c-007
   santrauka: 'Ulrikas Hozijus ragino pastatyti tiltą per Vilijos upę ir gavo pavedimą jį nutiesti savo lėšomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

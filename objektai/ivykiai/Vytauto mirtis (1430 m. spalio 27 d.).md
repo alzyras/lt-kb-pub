@@ -76,6 +76,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -90,6 +91,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Vienuose šaltiniuose Vytauto mirties priežastimi laikyta votis ant peties, kituose - susitrenkimas nukritus nuo žirgo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

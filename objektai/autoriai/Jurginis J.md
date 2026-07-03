@@ -62,6 +62,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'J. Jurginis siejo krivio vardą su vėlesniu bendruomenės seniūno arba vado pavadinimu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -74,6 +75,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'J. Jurginio darbas „Legendos“ minimas bibliografijoje apie Romovę arba Romuvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

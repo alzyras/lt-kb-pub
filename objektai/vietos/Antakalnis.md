@@ -163,7 +163,8 @@ Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-002
+    - t-008
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gausu buvo pagonių šventyklų, nes, be tų, ku­
@@ -178,7 +179,8 @@ Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-003
+    - t-009
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV, p. 400.
@@ -204,7 +206,8 @@ Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-    - t-002- c-004
+    - t-002
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Čia buvo pats miesto centras - ten,
@@ -223,7 +226,8 @@ Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-    - t-003- c-005
+    - t-003
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bažny­
@@ -239,7 +243,8 @@ Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-006
+    - t-006
+- c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Už jų
@@ -256,7 +261,8 @@ Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-007
+    - t-007
+- c-007
   santrauka: 'Jėzuitai pralaimėjo teisme dėl plytinės, žemės sklypo ir lankos Antakalnyje, nes neturėjo nuosavybės dokumentų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -273,7 +279,8 @@ Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-008
+    - t-005
+- c-008
   santrauka: 'Pasak Narbuto minimo padavimo, Vilniaus Antakalnyje, Gedimino sode, dabartinio Šv. Petro vienuolyno vietoje stovėjusi Mildos šventykla arba koplyčia.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -286,7 +293,8 @@ Antakalnis žinių bazėje atsiskleidžia kaip Vilniaus priemiestis, kurio užuo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-009
+    - t-010
+- c-009
   santrauka: 'Narbuto perpasakotoje Gedimino sapno legendoje Lizdeika aiškino sapną po medžioklės prie Antakalnio link stūksojusio Tauro kalno.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

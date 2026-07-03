@@ -47,6 +47,7 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Auksinei Ordai suskilus, Krime atsirado Perekopo chanatas, kurio sostinės pilis vadinosi Perekopu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

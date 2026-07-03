@@ -63,6 +63,7 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Reda Griškaitė 2005 m. Vilniuje paskelbė darbą „Mykolas Balinskis: kova dėl istorijos?“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

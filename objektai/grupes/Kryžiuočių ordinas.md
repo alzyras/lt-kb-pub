@@ -4620,7 +4620,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-223- c-002
+    - t-223
+- c-002
   santrauka: 'Kryžiuočių ordinas, remdamasis Salyno sutartimi, reikalavo grąžinti jam pabėgėlius žemaičius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -4635,7 +4636,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-054- c-003
+    - t-054
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tais pačiais 1409 m. Lietuvoje buvo nederlius. Jogaila, norė-
@@ -4648,7 +4650,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-203- c-004
+    - t-203
+- c-004
   santrauka: 'Albrechto mėginimai susitarti su Lenkija nenusisekė, todėl ordinui teko pradėti karą su lenkais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -4672,7 +4675,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-070- c-005
+    - t-070
+- c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Prie­
@@ -4689,7 +4693,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-063- c-006
+    - t-063
+- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ir Prūsų
@@ -4705,7 +4710,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-180- c-007
+    - t-180
+- c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ordinas teturėjo vieną tikslą : savo nepaliaujamais teriojimo
@@ -4720,7 +4726,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-205- c-008
+    - t-205
+- c-008
   santrauka: 'Ordino karų metu Lietuvos ūkis buvo smarkiai žalojamas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -4732,7 +4739,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-117- c-009
+    - t-117
+- c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nepaliaujami ir nuo Traidenio laikų besitęsią karai su abiem
@@ -4746,7 +4754,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-100- c-010
+    - t-100
+- c-010
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Po
@@ -4762,7 +4771,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-231- c-011
+    - t-231
+- c-011
   santrauka: 'Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes Prūsijoje, Žiemgalius ir Kuršius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -4780,7 +4790,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-012
+    - t-001
+- c-012
   santrauka: 'Ordinas išplėtė veiklą Lietuvos pasienyje ir netoli Gardino pastatė Naująjį Gardiną bei Metenburgą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -4797,7 +4808,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-090- c-013
+    - t-090
+- c-013
   santrauka: 'Ordinas atsiuntė komtūrą Marquardą von Salzbachą su keliais tūkstančiais karių prisidėti prie Vytauto kariuomenės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -4812,7 +4824,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-046- c-014
+    - t-046
+- c-014
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ordino kariuomenė, sudaryta iš pėstininkų, raitelių ir arti­
@@ -4827,7 +4840,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-015
+    - t-014
+- c-015
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
@@ -4839,7 +4853,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-113- c-016
+    - t-113
+- c-016
   santrauka: 'Kol lenkai dar rikiavosi, Kryžiuočių ordino kariuomenė buvo sustatyta į dvi eiles.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -4854,7 +4869,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-087- c-017
+    - t-087
+- c-017
   santrauka: 'Vokiečių ordinas nenorėjo nusileisti Vytautui ir Vakarų Europoje skelbė jį pavojingu katalikams valdovu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -4867,7 +4883,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-167- c-018
+    - t-167
+- c-018
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet štai Vytautas Žalgirio mūšyje (1410) palaužė Ordino
@@ -4887,7 +4904,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-019
+    - t-010
+- c-019
   santrauka: 'Ordinas plano nepriėmė, bet ir griežtai jo neatmetė, laukdamas imperatoriaus reakcijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -4902,7 +4920,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-076- c-020
+    - t-076
+- c-020
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pirmuoju tokiu draugu vi­
@@ -4919,7 +4938,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-091- c-021
+    - t-091
+- c-021
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet tuo tarpu su Lietuvos priešu Or­
@@ -4938,7 +4958,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-022
+    - t-017
+- c-022
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Sekančiais metais Vytautas su kryžiuočių diplomatais su­
@@ -4958,7 +4979,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-222- c-023
+    - t-222
+- c-023
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Iš Lietuvos geografinės būklės ir minėtų čia prekybos san­
@@ -4975,7 +4997,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-138- c-024
+    - t-138
+- c-024
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Labai aukštai
@@ -4989,7 +5012,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-161- c-025
+    - t-161
+- c-025
   santrauka: 'Kryžiuočių ordinas, neįstengęs vienu dideliu žygiu pavergti Lietuvos, ėmė puldinėti ją nedideliais pasienio pilių būriais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -5005,7 +5029,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-151- c-026
+    - t-151
+- c-026
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmasis jos krikšto ban-
@@ -5019,7 +5044,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-172- c-027
+    - t-172
+- c-027
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pagaliau santykiai tarp ordino ir
@@ -5032,7 +5058,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-195- c-028
+    - t-195
+- c-028
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Ūkis.** Pagrindinė Lietuvos ūkio šaka buvo žemdirbystė.
@@ -5044,7 +5071,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-169- c-029
+    - t-169
+- c-029
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Karas su Lenkija.** Lenkams negrąžinant Podolės, Švitrigaila
@@ -5058,7 +5086,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-241- c-030
+    - t-241
+- c-030
   santrauka: 'XIV a. pabaigos Kryžiuočių ordino Lietuvos kelių aprašymuose minėta 18 didžiojo kunigaikščio dvarų Aukštaitijoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -5078,7 +5107,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   pagrindžia:
     - t-108
     - t-071
-    - t-226- c-031
+    - t-226
+- c-031
   santrauka: 'Ordino laivai padėjo pastatyti Elbingo ir Baigos pilis ir apsaugoti Gėlo vandens marias nuo netikėlių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -5092,7 +5122,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-082- c-032
+    - t-082
+- c-032
   santrauka: 'Vytautas daug prisidėjo prie pergalių prieš kryžiuočius, bet nesiekė visiško jų Ordino sunaikinimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5110,7 +5141,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-130- c-033
+    - t-130
+- c-033
   santrauka: 'Ignas Onacevičius Karaliaučiuje rinko istorinius dokumentus iš slaptojo Kryžiuočių ordino archyvo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5130,7 +5162,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-201- c-034
+    - t-201
+- c-034
   santrauka: 'Kryžiuočiai kurstė Švitrigailą siekti senųjų užmačių arba kelti sumaištį Lenkijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5149,7 +5182,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-042- c-035
+    - t-042
+- c-035
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas
@@ -5172,7 +5206,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-079- c-036
+    - t-079
+- c-036
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tos pilys taip pat buvo visiš­
@@ -5186,7 +5221,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-192
-    - t-092- c-037
+    - t-092
+- c-037
   santrauka: 'Šventosios Marijos Teutonų ligoninės namai Jeruzalėje buvo karinis ordinas, kuriame buvo riterių, karių ir labdarybe besirūpinusių brolių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -5205,7 +5241,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-154- c-038
+    - t-154
+- c-038
   santrauka: '1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų namų ordino broliais ir įpareigojo juos kovoti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -5224,7 +5261,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-081- c-039
+    - t-081
+- c-039
   santrauka: '1384 m. Ordino antpuoliai Lietuvoje siekdavo Kernavę, tačiau pralaimėjimas prie Vilniaus ir Ukmergės apsaugojo sostinę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5248,7 +5286,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
-    - t-021- c-040
+    - t-021
+- c-040
   santrauka: '1432 m. Lietuvos ir lietuviškos Rusios kunigaikščiai, bajorai ir miestai raštu prisiekė laikytis sutarties su Prūsijos ordinu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5268,7 +5307,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-041
+    - t-020
+- c-041
   santrauka: 'Popiežius Celestinas III Jeruzalėje įkūrė Šventosios Marijos Teutonų ordino vienuolių ligoninę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -5288,7 +5328,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-140- c-042
+    - t-140
+- c-042
   santrauka: 'Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -5307,7 +5348,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-045- c-043
+    - t-045
+- c-043
   santrauka: 'Po Lietuvos krikšto popiežiai uždraudė Vokiečių ordinui kariauti su Lietuva.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -5326,7 +5368,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-191- c-044
+    - t-191
+- c-044
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Įvairių tautų tyrinėtojai skirtingai išryškino jose ir ati­
@@ -5340,7 +5383,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-083
-    - t-213- c-045
+    - t-213
+- c-045
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O vasaros žygis buvo ruošiamas apie rug­
@@ -5357,7 +5401,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-058
-    - t-022- c-046
+    - t-022
+- c-046
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Prūsijos, Kulmo ir Lubavos žemių dovanojimą Teutonų namų ordino broliams
@@ -5376,7 +5421,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-098
-    - t-245- c-047
+    - t-245
+- c-047
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kryžiuočiai nieko nepraleido Lietuvon, su Didž. Naugardu
@@ -5393,7 +5439,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219
-    - t-118- c-048
+    - t-118
+- c-048
   santrauka: 'Ordino santykiai su Lenkijos karaliumi, lenkų vyskupais, Rygos arkivyskupu ir Lietuvos valdovu buvo svarstomi popiežiaus rūmuose Avinjone.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5433,7 +5480,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
-    - t-133- c-049
+    - t-133
+- c-049
   santrauka: 'Ordino kariuomenė, sudaryta iš pėstininkų, raitelių ir artilerijos, buvo geresnė už lietuvių ir lenkų sąjungininkų kariuomenes.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -5450,7 +5498,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-224- c-050
+    - t-224
+- c-050
   santrauka: '1422 m. Vilniui leista laiduoti prie Osos upės sudarytos sutarties su kryžiuočiais patikimumą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5472,7 +5521,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-208- c-051
+    - t-208
+- c-051
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tas kraštas jį ir politiškai iš­
@@ -5488,7 +5538,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-240
-    - t-097- c-052
+    - t-097
+- c-052
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     įrodydamas, jog broliai turi  į jas neginčijamų teisių. Išklausęs abiejų šalių įrodymų,
@@ -5504,7 +5555,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-098
-    - t-142- c-053
+    - t-142
+- c-053
   santrauka: 'Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -5526,7 +5578,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-125- c-054
+    - t-125
+- c-054
   santrauka: 'Kryžiuočių Slaptajame archyve Karaliaučiuje buvo Vytauto laiškų magistrui Rusdorfui dėl Lietuvos karūnos derybų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5555,7 +5608,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-144- c-055
+    - t-144
+- c-055
   santrauka: 'Po Žalgirio mūšio pagrindinė Vytauto konflikto su Kryžiuočių ordinu priežastis liko Žemaitija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -5572,7 +5626,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-040
-    - t-122- c-056
+    - t-122
+- c-056
   santrauka: 'Gedimino laiške kryžiuočiai kaltinami sudeginę jo antspaudą, kad sutrukdytų jo pradėtam krikščionybės reikalui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5600,7 +5655,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   pagrindžia:
     - t-089
     - t-124
-    - t-060- c-057
+    - t-060
+- c-057
   santrauka: 'Konrado Valenrodo šlovė ir Ordino iškėlimas į didžiuosius magistrus subūrė gausius kryžininkų pulkus žygiui į Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5635,7 +5691,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-126- c-058
+    - t-126
+- c-058
   santrauka: 'Kryžiuočiai įkalbėjo svetimtaučius savanorius, kad visa Lietuva tebėra pagonių šalis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5654,7 +5711,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-044- c-059
+    - t-044
+- c-059
   santrauka: 'Ivinskio vertinimu, jei Mindaugo dokumentai būtų autentiški, Vokiečių ordinas būtų be saiko išnaudojęs draugystę su Mindaugu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -5669,7 +5727,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-220- c-060
+    - t-220
+- c-060
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
@@ -5692,7 +5751,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-162
-    - t-199- c-061
+    - t-199
+- c-061
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Su trigubai di­
@@ -5706,7 +5766,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-175- c-062
+    - t-175
+- c-062
   santrauka: 'Kryžiuočių magistras su visa kariauna patraukė į Vilnių, kai lietuvių vadas pasitraukė iš akių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5725,7 +5786,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-221- c-063
+    - t-221
+- c-063
   santrauka: 'Ordinas, įgijęs daugiau vilties pasilikti Žemaitijoje, savo politikos su Vytautu nepakeitė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -5740,7 +5802,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-034
-    - t-074- c-064
+    - t-074
+- c-064
   santrauka: 'Kojalavičius pagoniškai Lietuvai skirtame tome lietuvių kovas su kryžiuočiais pateikė su pagarba lietuviams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -5755,7 +5818,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-041- c-065
+    - t-041
+- c-065
   santrauka: 'Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -5770,7 +5834,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-053- c-066
+    - t-053
+- c-066
   santrauka: 'Kryžiuočių ordino broliai pasitraukė nuo gausesnių priešų, patyrę nemažų sužeistųjų nuostolių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -5789,7 +5854,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-111- c-067
+    - t-111
+- c-067
   santrauka: 'Tarp kryžiuočių buvo įsigalėjusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5813,7 +5879,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-225
-    - t-057- c-068
+    - t-057
+- c-068
   santrauka: 'Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti sudarant taiką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5838,7 +5905,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-178
-    - t-237- c-069
+    - t-237
+- c-069
   santrauka: 'Teutonų ordinas XIII a. pavergė prūsus, slopino lietuvių pagonybę ir Baltijos pakrantėse daugino miestus bei pilis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5855,7 +5923,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-123- c-070
+    - t-123
+- c-070
   santrauka: 'Ordino kronikose 1345-1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -5869,7 +5938,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-135- c-071
+    - t-135
+- c-071
   santrauka: '1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -5920,7 +5990,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-184- c-072
+    - t-184
+- c-072
   santrauka: 'Balińskis kryžiuočių grobuoniškumą laikė viena ilgalaikių kliūčių Lietuvos pažangai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5943,7 +6014,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-196- c-073
+    - t-196
+- c-073
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     To [rašto] paliudijimui laikėme reikalingu dalyku pridė­
@@ -5960,7 +6032,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-074
+    - t-007
+- c-074
   santrauka: 'Zigmantas ir kryžiuočiai buvo kaltinami siūlę Vytautui karūną, siekdami supriešinti Lietuvą ir Lenkiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5980,7 +6053,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-145- c-075
+    - t-145
+- c-075
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nors lietuviai ir buvo
@@ -5997,7 +6071,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-206
-    - t-035- c-076
+    - t-035
+- c-076
   santrauka: 'Ordinas, sužinojęs apie Vytenio minoritams skirtą bažnyčią, pasiuntė ginkluotą būrį jos sudeginti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6019,7 +6094,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-165- c-077
+    - t-165
+- c-077
   santrauka: 'Vytautas atnaujino ryšius su Prūsija ir kryžiuočiams pažadėjo padėti atstatyti sudegintas jų pilis prie Kauno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6039,7 +6115,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-078
+    - t-008
+- c-078
   santrauka: 'Kryžiuočių ordinas stengėsi sužlugdyti 1323 m. spalio 2 d. sutartį ir 1324 m. tęsė agresiją prieš Lietuvos žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6053,7 +6130,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-062- c-079
+    - t-062
+- c-079
   santrauka: '1230 m. Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordino riterius kurtis Kulmo žemėje prie Vyslos kovai su prūsais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -6069,7 +6147,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-173- c-080
+    - t-173
+- c-080
   santrauka: 'Kryžiuočių ordinas priešinosi Jogailos reformai, nes numatė savo nuopuolį sustiprėjus Lietuvai ir Lenkijai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6089,7 +6168,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-081
+    - t-006
+- c-081
   santrauka: 'Ordino pilis ant Švento Jurgio kalno, atrodo, stovėjo dešiniajame Nemuno krante apie dabartinį Jurbarką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6125,7 +6205,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-105- c-082
+    - t-105
+- c-082
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį
@@ -6143,7 +6224,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-084
-    - t-098- c-083
+    - t-098
+- c-083
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1387 m. žygis buvo nuostabus, prisimenant, kaip po Kęstučio
@@ -6160,7 +6242,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-049
-    - t-164- c-084
+    - t-164
+- c-084
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tai buvo Vytauto planų parėmimas. Dabar visa garbė ir
@@ -6175,7 +6258,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-158
-    - t-234- c-085
+    - t-234
+- c-085
   santrauka: '1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -6188,7 +6272,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-143- c-086
+    - t-143
+- c-086
   santrauka: 'Po Lietuvos krikšto ir Europos pripažinimo katalikiška valstybe kryžiuočių ordinas nebebuvo pateisinamas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -6203,7 +6288,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-179- c-087
+    - t-179
+- c-087
   santrauka: 'Vokiečių ordinas nuo Vyslos pasiekė Nemuną ir nuo 1282 m. pradėjo pulti lietuvius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -6217,7 +6303,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-232- c-088
+    - t-232
+- c-088
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Prūsus** sudarė keletas kilčių, kurių tik vakariausios bu-
@@ -6230,7 +6317,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-215- c-089
+    - t-215
+- c-089
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, rengė astronomo Mikalojaus Ko­
@@ -6248,7 +6336,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-128- c-090
+    - t-128
+- c-090
   santrauka: 'Apie 1226 (1230) m. Mazovijos kunigaikštis Konradas Teutonų namų ordino broliams atidavė Kulmo ir Lubavos žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6279,7 +6368,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   citata_rodoma: ''
   statusas: verified
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-091
+  patikimumo_saltinis: ai
+- c-091
   santrauka: '1337 m. birželio 15 d. Gediminas su kariuomene sustojo ties Bajerburgu ir puolė kryžiuočių tvirtovę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6303,7 +6393,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-078- c-092
+    - t-078
+- c-092
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie vieną nuostabų atsivertimą
@@ -6325,7 +6416,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-202
-    - t-098- c-093
+    - t-098
+- c-093
   santrauka: 'Magistras pasiuntė Kryžiuočių ordino kariuomenę į Lenkiją, kur ji apsupo ir sudegino Višogrudo pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6351,7 +6443,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-129- c-094
+    - t-129
+- c-094
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nors kryžiuočiai dar iki pat Tannenbergo kautynių lietuvius
@@ -6364,7 +6457,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-214- c-095
+    - t-214
+- c-095
   santrauka: '1322 m. krašto magistras Fridrichas fon Vildenbergas kryžiuočių ir riterių būrį nuvedė į Vaikius Žemaitijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6384,7 +6478,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-043- c-096
+    - t-043
+- c-096
   santrauka: 'Vizijomis apie brolių žaizdas ir randus Petras Dusburgietis teigė Vokiečių ordiną esant labiausiai nusipelniusį tarp panašių brolijų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6397,7 +6492,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025- c-097
+    - t-025
+- c-097
   santrauka: 'Vytautas ginklus ir arklius gaudavo iš Rygos ir Krokuvos, nors Ordinas draudė juos įvežti į Lietuvą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -6415,7 +6511,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-110- c-098
+    - t-110
+- c-098
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Susirėmė su jais vokiečiai
@@ -6433,7 +6530,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-171- c-099
+    - t-171
+- c-099
   santrauka: 'Po nepavykusio Vilniaus apsiautimo Ordinas grobuoniškus planus nukreipė prieš Žemaitiją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -6455,7 +6553,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-156
-    - t-011- c-100
+    - t-011
+- c-100
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kadangi prūsų daugėjo ir daugėjo, broliai galop buvo priversti sudaryti štai šitokią sutartį.
@@ -6474,7 +6573,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
-    - t-045- c-101
+    - t-045
+- c-101
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
@@ -6497,7 +6597,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-152
-    - t-045- c-102
+    - t-045
+- c-102
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau kiti, 1383 metai, atnešė Vilniui dar
@@ -6516,7 +6617,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-185- c-103
+    - t-185
+- c-103
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nau­
@@ -6534,7 +6636,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-114
-    - t-067- c-104
+    - t-067
+- c-104
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O dabar, šventasis ir garbingasis tėve,
@@ -6563,7 +6666,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-    - t-093- c-105
+    - t-093
+- c-105
   santrauka: 'XIII-XIV a. Vakarų Europoje pasigirsdavo kritikos Kryžiuočių ordinui, įskaitant raginimus jį likviduoti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6575,7 +6679,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-039- c-106
+    - t-039
+- c-106
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kariuomenės taip išsirikiavo, kad ordino dešinysis sparnas
@@ -6590,7 +6695,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-149
-    - t-099- c-107
+    - t-099
+- c-107
   santrauka: 'Kryžiuočiai, Švitrigaila ir Valakijos vaivada sudarė sąjungą prieš Lenkiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6604,7 +6710,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-059- c-108
+    - t-059
+- c-108
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dešimtmečiui praslinkus, lietuviai patyrė smūgį vėl pa­
@@ -6621,7 +6728,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   pagrindžia:
     - t-188
     - t-120
-    - t-131- c-109
+    - t-131
+- c-109
   santrauka: 'Per Vilniaus apsuptį kryžiuočių kariaunoje plito ligos, nes ji stovyklavo po atviru dangumi ir buvo nusilpusi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6665,7 +6773,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-233- c-110
+    - t-233
+- c-110
   santrauka: '1237 m. Kryžiuočių ordino magistras su broliais Pagudėje pastatė pilį, pavadintą Elbingu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6685,7 +6794,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-080
-    - t-045- c-111
+    - t-045
+- c-111
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Be to, nemaža tokių, kurie, gilaus širdies pamaldumo skatinami, su
@@ -6705,7 +6815,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-045
-    - t-109- c-112
+    - t-109
+- c-112
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva krikštijosi katalikišku krikštu, o jos
@@ -6724,7 +6835,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-210
-    - t-075- c-113
+    - t-075
+- c-113
   santrauka: 'Prūsams buvo sunkiau gintis nuo Kryžiuočių ordino, nes jie neturėjo vieningos valstybės ir negalėjo sutartinai priešintis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -6741,7 +6853,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-115- c-114
+    - t-115
+- c-114
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad atmeskite tą bedievišką sąjungą: o ka­
@@ -6768,7 +6881,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
-    - t-166- c-115
+    - t-166
+- c-115
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto Algirdo valdymo pa­
@@ -6785,7 +6899,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-155- c-116
+    - t-155
+- c-116
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ordinas galėjo pulti dar nesusitvarkiusius lenkus, bet jis
@@ -6800,7 +6915,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
-    - t-134- c-117
+    - t-134
+- c-117
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kronikoje plačiai nušviečiamas Kryžiuočių ordino įkūrimas XII a. pabaigoje,
@@ -6817,7 +6933,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
-    - t-098- c-118
+    - t-098
+- c-118
   santrauka: '1323 m. Liubeke dėl tariamų Gedimino laiškų nutarta kreiptis patarimo į tuo metu mieste buvusius Ordino riterius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6845,7 +6962,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-069- c-119
+    - t-069
+- c-119
   santrauka: 'Balińskis rašė, kad Švitrigailos laikais Kryžiuočių ordinas turėjo itin didelę įtaką Lietuvos reikalams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6864,7 +6982,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-051- c-120
+    - t-051
+- c-120
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Juk val­
@@ -6892,7 +7011,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-048- c-121
+    - t-048
+- c-121
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau kam visuose
@@ -6910,7 +7030,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-077- c-122
+    - t-077
+- c-122
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,
@@ -6926,7 +7047,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-176
-    - t-098- c-123
+    - t-098
+- c-123
   santrauka: 'Gedimino laiške teigiama, kad kryžiuočiai įmetė į ugnį antspaudą, siųstą apaštališkajam viešpačiui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6944,7 +7066,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-061- c-124
+    - t-061
+- c-124
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O Julijona ir kunigaikščio
@@ -6959,7 +7082,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-    - t-212- c-125
+    - t-212
+- c-125
   santrauka: 'Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė broliais, praturtėjo ir įgijo didelę galią bei šlovę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -6975,7 +7099,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-098- c-126
+    - t-098
+- c-126
   santrauka: 'Vytautą nuo sostinės dažnai atitraukdavo karai su Rusios kunigaikščiais, totorių chanais ir kryžiuočiais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -6995,7 +7120,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-028- c-127
+    - t-028
+- c-127
   santrauka: 'Per Bajerburgo apsuptį Ordino maršalas Henrikas Duseneris ir Reino palatinas atvyko į pagalbą apsuptiesiems.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7010,7 +7136,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-128
+    - t-003
+- c-128
   santrauka: 'Vytautas pakėlė savo ir Lietuvos vardą sudarydamas kampaniją prieš Ordiną, kuri galiausiai pasiekė tikslą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -7025,7 +7152,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-088- c-129
+    - t-088
+- c-129
   santrauka: 'Ordinas atsiuntė komtūrą Marquardą von Salzbachą su keliais tūkstančiais karių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -7038,7 +7166,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-157- c-130
+    - t-157
+- c-130
   santrauka: 'Kryžiuočiai kurstė Vytauto ambiciją, Lietuvos karūną vaizduodami kaip atpildą už jo laimėjimus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7055,7 +7184,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-094- c-131
+    - t-094
+- c-131
   santrauka: '1410 m. Žalgirio mūšyje Lenkijos ir Lietuvos jungtinė kariuomenė sutriuškino Vokiečių ordiną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -7070,7 +7200,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-197- c-132
+    - t-197
+- c-132
   santrauka: '1408-1414 m. kovose su kryžiuočiais Lietuvos monarcho pastangos buvo nukreiptos į Prūsijos ordino pajėgų silpninimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7088,7 +7219,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-198- c-133
+    - t-198
+- c-133
   santrauka: 'Skirgaila iš Trakų pilies išvykdavo į mūšius su Prūsijos ordinu arba maištaujančiais Rusios kunigaikščiais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7105,7 +7237,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-150- c-134
+    - t-150
+- c-134
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Krikštas tačiau buvo pirmoji stipri grandis, siejanti
@@ -7121,7 +7254,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
-    - t-209- c-135
+    - t-209
+- c-135
   santrauka: 'Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7135,7 +7269,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-045- c-136
+    - t-045
+- c-136
   santrauka: '1244 m. į Prūsiją atvyko magistras Poponas su Ordino broliais ir Austrijos kunigaikščio atsiųstais raitaisiais lankininkais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7156,7 +7291,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-139
-    - t-098- c-137
+    - t-098
+- c-137
   santrauka: 'Vokiečių ordinas trukdė Vytautui pastatyti Lietuvą Europos katalikiškųjų šalių greton.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -7172,7 +7308,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-204- c-138
+    - t-204
+- c-138
   santrauka: 'XIII a. į prūsų žemes atsikraustęs vokiečių kryžiuočių ordinas pirmiausia pavergė prūsus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -7189,7 +7326,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-186- c-139
+    - t-186
+- c-139
   santrauka: 'Ordino riteriai pasinaudojo Gedimino valdų suskaidymu, kuris, anot šaltinio, susilpnino krašto galią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7211,7 +7349,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207
-    - t-181- c-140
+    - t-181
+- c-140
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Betarpiškame ryšyje su Georgenburgo įkūrimu
@@ -7226,7 +7365,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-085- c-141
+    - t-085
+- c-141
   santrauka: 'Vizijomis apie brolių žaizdas ir randus Petras Dusburgietis teigė Vokiečių ordiną esant labiausiai nusipelniusį tarp panašių brolijų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7240,7 +7380,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025- c-142
+    - t-025
+- c-142
   santrauka: 'Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė broliais, praturtėjo ir įgijo didelę galią bei šlovę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7265,7 +7406,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-098- c-143
+    - t-098
+- c-143
   santrauka: 'Ordino magistras, plėsdamas veiksmus Lietuvos pasienyje, įsakė netoli Gardino pastatyti Naująjį Gardiną ir Metenburgą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -7282,7 +7424,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-170- c-144
+    - t-170
+- c-144
   santrauka: 'Medininkų žemėje buvo sudaryta vieninga gynybos prieš Kryžiuočių ordino agresiją sistema, kurios centras veikiausiai buvo Medvėgalis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7325,7 +7468,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-096- c-145
+    - t-096
+- c-145
   santrauka: 'Kryžiuočių ordino broliai po priešų pabėgimo nužudė 17 Lietuvos karalystės galingesniųjų ir daug paprastų žmonių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7344,7 +7488,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-121- c-146
+    - t-121
+- c-146
   santrauka: 'Pasak Petro Dusburgiečio, sapne Švenčiausioji Mergelė Marija pasirodė su daugybe Teutonų namų ordino brolių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7360,7 +7505,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-141- c-147
+    - t-141
+- c-147
   santrauka: 'Hermano vadovavimo metais popiežius ir imperatorius suteikė Kryžiuočių ordinui didelių privilegijų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7375,7 +7521,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-182- c-148
+    - t-182
+- c-148
   santrauka: 'Tarnybiniame pranešime įrašyti tariamieji Gedimino laiškai buvo saugomi Kryžiuočių archyve.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7411,7 +7558,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-107- c-149
+    - t-107
+- c-149
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jokiai kitai žemei laimėti kryžiuočiai nėra padėję tiek daug pa­
@@ -7426,7 +7574,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-194
-    - t-103- c-150
+    - t-103
+- c-150
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pakeliui viską versdama
@@ -7448,7 +7597,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-112- c-151
+    - t-112
+- c-151
   santrauka: 'Karalius patarė Ordino broliams pastatyti pilį ant kalvos, kur vėliau stovėjo Karaliaučiaus pilis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7464,7 +7614,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   citata_rodoma: ''
   statusas: verified
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-152
+  patikimumo_saltinis: ai
+- c-152
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė
@@ -7485,7 +7636,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-045
-    - t-106- c-153
+    - t-106
+- c-153
   santrauka: '1410 m. liepos 15 d. Žalgirio mūšyje Lietuvos kariuomenė su lenkų sąjungininkais sutriuškino Kryžiuočių ordino kariuomenę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -7505,7 +7657,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-154
+    - t-016
+- c-154
   santrauka: 'Henrikas atvyko į Prūsiją, davė įžadus Teutonų ordinui ir, būdamas vienuolyne, pralenkė kitus brolius dorybėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7524,7 +7677,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-155
+    - t-013
+- c-155
   santrauka: '1413 m. vasario 6 d. Vilniuje Jogaila ir Vytautas įgaliojo atstovus derėtis su kryžiuočiais žemaičių vardu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7547,7 +7701,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-183- c-156
+    - t-183
+- c-156
   santrauka: 'Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7562,7 +7717,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-045- c-157
+    - t-045
+- c-157
   santrauka: 'Vytauto laikais Lietuva ir Vilnius nebebuvo atviri kryžiuočių grobimams ir plėšikavimams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7587,7 +7743,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-116- c-158
+    - t-116
+- c-158
   santrauka: 'Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7608,7 +7765,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-045- c-159
+    - t-045
+- c-159
   santrauka: 'Bajerburgo pilis prie Nemuno apie 1337 m. pastatyta Ordino pavedimu ir padedant Bavarijos kunigaikščiui Henrikui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7627,7 +7785,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-136- c-160
+    - t-136
+- c-160
   santrauka: 'Po Žygimanto Kęstutaičio mirties baigėsi ilgamečiai kryžiuočių puldinėjimai ir Prūsijos ordino įtaka Lietuvos likimui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7652,7 +7811,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-187- c-161
+    - t-187
+- c-161
   santrauka: '1330 m. apie Velykas Rygos miestiečiai patikėjo miestą Livonijos Teutonų ordino magistrui Eberhardui iš Manheimo ir broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7672,7 +7832,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-086- c-162
+    - t-086
+- c-162
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas brendo audringu Lietuvos valstybės laikotarpiu,
@@ -7698,7 +7859,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-132
-    - t-146- c-163
+    - t-146
+- c-163
   santrauka: '1211 m. Vengrijos karalius Andrius II įkurdino kryžiuočius Burcos žemėje, kad jie gintų kraštą nuo polovcų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7712,7 +7874,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-216- c-164
+    - t-216
+- c-164
   santrauka: '231 Kryžiuočiai puolė 1233 m. spalio-lapkričio mėn.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7745,7 +7908,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-229- c-165
+    - t-229
+- c-165
   santrauka: 'Klaipėdos pilis beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -7765,7 +7929,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-036- c-166
+    - t-036
+- c-166
   santrauka: 'Kronikoje Kryžiuočių ordino karinė užduotis Prūsijoje ir Lietuvoje aiškinama suteikiant riterių ginklams religinę prasmę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7779,7 +7944,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-102- c-167
+    - t-102
+- c-167
   santrauka: 'XIV a. pradžioje Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7800,7 +7966,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-064- c-168
+    - t-064
+- c-168
   santrauka: 'Ordino maršalas su 40 000 kryžiuočių įsiveržė į Lietuvą, susijungė su Vytauto pulkais ir užėmė Kernavę bei Maišiagalą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7823,7 +7990,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-033- c-169
+    - t-033
+- c-169
   santrauka: 'Apgulus Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, Kryžiuočių ordino broliai kentė badą ir stygių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7839,7 +8007,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-068- c-170
+    - t-068
+- c-170
   santrauka: 'Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi grąžinti Rygos Bažnyčiai paimtą turtą ir jos nebepuldinėti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7863,7 +8032,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-235
-    - t-147- c-171
+    - t-147
+- c-171
   santrauka: 'Pratarmėje Petras Dusburgietis pranašo Danieliaus žodžius panaudojo Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -7880,7 +8050,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-218- c-172
+    - t-218
+- c-172
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     matė, kad jį gerbia kryžiuočiai, pavesdami jam net tarpusavio
@@ -7898,7 +8069,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-159
-    - t-200- c-173
+    - t-200
+- c-173
   santrauka: '1448 m. Vilniuje buvo sudaryta garsi sutartis su Prūsijos ordinu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7921,7 +8093,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023- c-174
+    - t-023
+- c-174
   santrauka: 'Hermanas Salza 1226 m. kovo mėnesį Riminyje išsirūpino imperatoriaus Fridricho II privilegiją Vokiečių ordino ateičiai rytuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -7937,7 +8110,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-174- c-175
+    - t-174
+- c-175
   santrauka: 'Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -7953,7 +8127,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-230- c-176
+    - t-230
+- c-176
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1410 
@@ -7967,7 +8142,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-038- c-177
+    - t-038
+- c-177
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šitokis buvo kelias į Liublino uniją.
@@ -7981,7 +8157,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-228
-    - t-137- c-178
+    - t-137
+- c-178
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tik paėmę Kauną, Nemuno žemu­
@@ -7997,7 +8174,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-073
-    - t-015- c-179
+    - t-015
+- c-179
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Naugardukas jau buvo garsiojo Min­
@@ -8018,7 +8196,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-148- c-180
+    - t-148
+- c-180
   santrauka: 'Kronikos pratarmėje Petras Dusburgietis idealizavo pirmuosius Kryžiuočių ordino brolius kaip neturtą ir pavojus pasirinkusius tikėjimo gynėjus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8033,7 +8212,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-181
+    - t-005
+- c-181
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     upės350, žuvo brolis Burchardas, Livonijos magistras351, ir brolis Henrikas Botelis, Prūsijos
@@ -8049,7 +8229,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-098
-    - t-047- c-182
+    - t-047
+- c-182
   santrauka: 'Vilniuje vyko svarbios ir ilgos derybos su kryžiuočiais, čia buvo pasirašomos sutartys su jais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -8070,7 +8251,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-119- c-183
+    - t-119
+- c-183
   santrauka: '1233 m. magistras ir Kryžiuočių ordino broliai Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8093,7 +8275,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-066- c-184
+    - t-066
+- c-184
   santrauka: 'Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė broliais, praturtėjo ir įgijo didelę galią bei šlovę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8108,7 +8291,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-098- c-185
+    - t-098
+- c-185
   santrauka: 'Hermanas iš Zalcos, Teutonų ordino didysis magistras, 1230 m. atsiuntė Hermaną Balką eiti magistro pareigų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8132,7 +8316,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-052- c-186
+    - t-052
+- c-186
   santrauka: 'Kryžiuočių pilis Fridbergas buvo pastatyta tuo pat metu kaip Bajerburgas, už dviejų mylių nuo Veliuonos žemyn Nemunu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -8150,7 +8335,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-127- c-187
+    - t-127
+- c-187
   santrauka: 'Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė broliais, praturtėjo ir įgijo didelę galią bei šlovę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8163,7 +8349,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-098- c-188
+    - t-098
+- c-188
   santrauka: 'Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė broliais, praturtėjo ir įgijo didelę galią bei šlovę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8180,7 +8367,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-098- c-189
+    - t-098
+- c-189
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     taip pat patiems valdovams72. Kronika turėjo būti oficialiu Ordino šlovės paminklu73.
@@ -8197,7 +8385,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-065
-    - t-098- c-190
+    - t-098
+- c-190
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Skubinai persikėlus per Nemuną, kryžiuočių kariuomenė
@@ -8225,7 +8414,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-153- c-191
+    - t-153
+- c-191
   santrauka: 'Skirgaila, remdamasis sandėriu su Ordinu, Prūsijoje rengė naujus antpuolius prieš Kęstutį ir Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -8242,7 +8432,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-104- c-192
+    - t-104
+- c-192
   santrauka: 'Vizijomis apie brolių žaizdas ir randus Petras Dusburgietis teigė Vokiečių ordiną esant labiausiai nusipelniusį tarp panašių brolijų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8257,7 +8448,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025- c-193
+    - t-025
+- c-193
   santrauka: 'Kryžiuočių ordino broliai perdavė Sartovicų pilį Samborui, o vėliau Sventopelkas pradėjo statyti Svečės pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8281,7 +8473,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-236
-    - t-098- c-194
+    - t-098
+- c-194
   santrauka: 'Kryžiuočių ordino broliai Pamedėje atstatė Kristburgo pilį naujoje vietoje ir paliko joje daug karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8303,7 +8496,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-050
-    - t-045- c-195
+    - t-045
+- c-195
   santrauka: 'Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui ir būsimiems Teutonų ordino magistrams kunigaikščio titulą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8322,7 +8516,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-037- c-196
+    - t-037
+- c-196
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kita ekspe­
@@ -8341,7 +8536,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-190- c-197
+    - t-190
+- c-197
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Viename jų, skirtame popiežiui ir kardinolams, Gediminas
@@ -8366,7 +8562,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-072
-    - t-189- c-198
+    - t-189
+- c-198
   santrauka: 'Popiežius patvirtino Jeruzalės ligoninės brolių ordiną ir leido jo broliams dėvėti baltą apsiaustą su juodu kryžiumi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8388,7 +8585,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-199
+    - t-018
+- c-199
   santrauka: 'Iki Tannenbergo kautynių kryžiuočiai Vakarų Europai pristatydavo lietuvius kaip pavojingus rytų „saracėnus“, bet kryžiaus karų šauksmas pamažu tilo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -8403,7 +8601,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-160- c-200
+    - t-160
+- c-200
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Palestinoje prie
@@ -8420,7 +8619,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-177- c-201
+    - t-177
+- c-201
   santrauka: 'Vizijomis apie brolių žaizdas ir randus Petras Dusburgietis teigė Vokiečių ordiną esant labiausiai nusipelniusį tarp panašių brolijų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8437,7 +8637,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025- c-202
+    - t-025
+- c-202
   santrauka: 'Pasak Petro Dusburgiečio, Henrikui pasižadėjus įstoti į Teutonų ordiną, išnyko regėtas sambūris ir regėjimai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8455,7 +8656,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024- c-203
+    - t-024
+- c-203
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­
@@ -8473,7 +8675,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-239- c-204
+    - t-239
+- c-204
   santrauka: '1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8491,7 +8694,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-211- c-205
+    - t-211
+- c-205
   santrauka: 'Švitrigaila išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą Vytautą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -8525,7 +8729,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-095- c-206
+    - t-095
+- c-206
   santrauka: '1390 m. sausio 19 d. netoli Gardino pilies Ordino komtūras sudarė sutartį su Vytautu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -8550,7 +8755,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-217- c-207
+    - t-217
+- c-207
   santrauka: 'Baigos ir kitų pilių Ordino broliai laikėsi griežtų vienuoliškų regulų ir dažnai atlikdavo atgailos praktikas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8569,7 +8775,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-238- c-208
+    - t-238
+- c-208
   santrauka: 'Po magistro Hermano mirties Kryžiuočių ordine buvo priskaičiuojama du tūkstančiai brolių iš kilmingų Vokietijos šeimų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8584,7 +8791,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-209
+    - t-012
+- c-209
   santrauka: 'Po pirmojo katastrofos smūgio Kryžiuočių ordinas ėmė atsipeikėti.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -8599,7 +8807,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-056- c-210
+    - t-056
+- c-210
   santrauka: 'Pasak Petro Dusburgiečio, Mergelė Marija broliui Hermanui skundėsi, kad Teutonų ordino broliai kalba apie pasaulio tuštybę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8620,7 +8829,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027- c-211
+    - t-027
+- c-211
   santrauka: '1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų namų ordino broliais ir įpareigojo juos kovoti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8639,7 +8849,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-081- c-212
+    - t-081
+- c-212
   santrauka: 'Veliuonos pilis tikriausiai buvo pastatyta XIII a., kad Žemaitijos siena būtų saugoma nuo kryžiuočių puldinėjimų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -8663,7 +8874,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-101- c-213
+    - t-101
+- c-213
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmąjį Vilniaus paminėjimą, pirmą autentišką
@@ -8686,7 +8898,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-163- c-214
+    - t-163
+- c-214
   santrauka: 'Vytautas nepaisė ordino reikalavimo grąžinti pabėgėlius žemaičius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -8700,7 +8913,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-168- c-215
+    - t-168
+- c-215
   santrauka: 'Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8717,7 +8931,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-045- c-216
+    - t-045
+- c-216
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     K. Požėlos spaustuvė, Kaunas
@@ -8766,7 +8981,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-055
-    - t-211- c-217
+    - t-211
+- c-217
   santrauka: 'Ordino riteriai Liubeke siūlė prieš sprendimą dėl Lietuvos krikšto pirmiausia pasiųsti į Lietuvą pasiuntinius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -8808,7 +9024,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-193- c-218
+    - t-193
+- c-218
   santrauka: 'Vytauto rūpesčiu žemaičiai Karaliaučiuje sudarė sutartį su Ordinu, o didysis magistras ėmė ruoštis naujam žygiui į Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -8837,7 +9054,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-227- c-219
+    - t-227
+- c-219
   santrauka: 'Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -8853,7 +9071,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-242- c-220
+    - t-242
+- c-220
   santrauka: 'Vokiečių ordinas nukariavo ir asimiliavo prūsus bei jotvingius, o vėliau įkūrė Prūsijos valstybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -8868,7 +9087,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-243- c-221
+    - t-243
+- c-221
   santrauka: 'Petras Dusburgietis savo knygoje surašė Ordino brolių karus ir ją užbaigė 1326 metais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8886,7 +9106,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-244- c-222
+    - t-244
+- c-222
   santrauka: 'Dusburgietis teigia, kad apie Celestiną III, popiežių, ir Henriką VI, imperatorių Tuo metu, kai radosi ir gavo pradžią Teutonų namų ordinas, tai yra 1190 viešpaties metais, viešpatavo Celestinas III, popiežius, ir Henrikas VI, imperatorius (Dusb.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -8907,7 +9128,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-246
-    - t-045- c-223
+    - t-045
+- c-223
   santrauka: 'Kol lenkai dar rikiavosi, Kryžiuočių ordino kariuomenė buvo sustatyta į dvi eiles.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -8923,7 +9145,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-247- c-224
+    - t-247
+- c-224
   santrauka: 'Kojelavičiaus vertinimu, Jogailos slaptieji sandėriai su kryžiuočiais buvo morališkai nepateisinami, nors Jogaila nusipelnė lenkų pagarbos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -8947,7 +9170,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-248- c-225
+    - t-248
+- c-225
   santrauka: 'Gedimino laikais kryžiuočiai iš pamatų sugriovė Romove vadintą sodybą, vėliau tapusią Krivės Krivaičio būstine.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -8966,7 +9190,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-249- c-226
+    - t-249
+- c-226
   santrauka: 'Mūšyje Livonijos kariuomenė buvo sutriuškinta, žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir 150 ordino riterių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -8989,7 +9214,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-250- c-227
+    - t-250
+- c-227
   santrauka: 'Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9010,7 +9236,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-251- c-228
+    - t-251
+- c-228
   santrauka: 'Po kelių sėkmingų žygių prieš kryžiuočius prūsų padėtis sustiprėjo, nes jiems buvo pasirengę padėti lietuvių ir žemaičių būriai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9040,7 +9267,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-252- c-229
+    - t-252
+- c-229
   santrauka: 'Sūduvos prūsai ir žemaičiai prie Liubavos neišdrįso stoti į atvirą mūšį su kryžiuočiais ir pabėgo, palikę stovyklą bei gurguoles.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9071,7 +9299,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-253- c-230
+    - t-253
+- c-230
   santrauka: 'Atvirame lauke lietuviai laimėjo kautynes su kryžiuočiais, o mūšyje žuvo ordino magistras Burchardas Aremas ir trisdešimt riterių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9097,7 +9326,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-254- c-231
+    - t-254
+- c-231
   santrauka: 'Karaliaučiaus komtūras Bertoldas Briuhavenas su Prūsijos kryžiuočių daliniu Livonijoje sumušė apgulties išsekintus lietuvius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9131,7 +9361,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-255- c-232
+    - t-255
+- c-232
   santrauka: 'Kryžiuočiai prie Veliuonos pastatė įtvirtinimus, įkurdino juose stiprias įgulas ir mėgino badu priversti pilėnus pasiduoti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9151,7 +9382,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-256- c-233
+    - t-256
+- c-233
   santrauka: 'Kryžiuočiai, negalėdami sustabdyti niokojimo nei klasta, nei jėga, ryžosi prašyti paliaubų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9170,7 +9402,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-257- c-234
+    - t-257
+- c-234
   santrauka: 'Po ilgos Kauno pilies apsiausties kryžiuočiai pasikasė po sienomis, padegė pastatus ir palaužę gynėjų pasipriešinimą užėmė pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9194,7 +9427,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-258- c-235
+    - t-258
+- c-235
   santrauka: 'Po Kauno pilies užėmimo kryžiuočiai trečią dieną sugriovė išlikusius įrenginius, išvertė sienų likučius, nukasė pylimus ir išlygino griovius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9213,7 +9447,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-259- c-236
+    - t-259
+- c-236
   santrauka: 'Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama nusiaubė Lietuvą, sunaikindamas Ariogalos, Pernaravos ir Labūnavos žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9236,7 +9471,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-260- c-237
+    - t-260
+- c-237
   santrauka: 'Vytautas užėmė Ritersverderį, įsakė išžudyti nelaisvėn patekusius vokiečių pirklius bei karius, o žymesnius kryžiuočius išsivedė su savimi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9265,7 +9501,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-261- c-238
+    - t-261
+- c-238
   santrauka: 'Kryžiuočiai užgrobė Vysla gabentus grūdus, kuriuos Jogaila buvo skyręs nuniokotos Lietuvos daliai palengvinti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9288,7 +9525,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-262- c-239
+    - t-262
+- c-239
   santrauka: 'Kryžiuočiai Ragainėje užpuolė pagal sutartį ramiai gyvenusius lietuvių pirklius, vienus nužudė, o iš kitų atėmė visą turtą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9315,7 +9553,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-263- c-240
+    - t-263
+- c-240
   santrauka: '1409 m. kryžiuočių žygūnas pareikalavo atlyginti nuostolius ir atiduoti Žemaitiją, grasindamas paskelbti Lietuvai karą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9340,7 +9579,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-264- c-241
+    - t-264
+- c-241
   santrauka: 'Seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuočius, kad šis skatintų magistrą draugiškai baigti ginčą su Vytautu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9359,7 +9599,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-265- c-242
+    - t-265
+- c-242
   santrauka: '1418 m. Veliuonos susitikimas nedavė naudos, nes kryžiuočiai atmetė taikos sąlygas ir reikalavo visos Žemaitijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9384,7 +9625,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-266- c-243
+    - t-266
+- c-243
   santrauka: 'Medžiodamas prie Veliuonos karalius vos nepakliuvo į kryžiuočių pasalą, kurią surengė Rastenburgo komtūras.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9409,7 +9651,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-267- c-244
+    - t-267
+- c-244
   santrauka: 'Jogaila ir Vytautas, įsiveržę į Prūsiją su lenkų ir lietuvių kariuomenėmis, siekė pergalingai užbaigti ilgą karą su kryžiuočiais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9435,7 +9678,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-268- c-245
+    - t-268
+- c-245
   santrauka: 'Torunės komtūras, kryžiuočių pasiųstas pas Boleslovą, kurstė brolių nesantaiką ir skatino Švitrigailą nesibaiminti karo su lenkais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9458,7 +9702,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-269- c-246
+    - t-269
+- c-246
   santrauka: 'Torunės komtūras Liudvikas su trimis kryžiuočių riteriais gyveno Vilniuje kaip pasiuntinys, bet iš tikrųjų ėjo žvalgo pareigas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9483,7 +9728,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-270- c-247
+    - t-270
+- c-247
   santrauka: 'Karalius paprašė atidėti svarstymą, teigdamas, kad svarbiam reikalui aptarti reikia laiko, kurio trūksta dėl karo su kryžiuočiais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9509,7 +9755,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-271- c-248
+    - t-271
+- c-248
   santrauka: 'Liuterio sektai paplitus Prūsijoje, kryžiuočių ordino pareigūnai laužė įžadus, atsisakė Romos tikėjimo ir pradėjo tuoktis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -9540,7 +9787,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-272- c-249
+    - t-272
+- c-249
   santrauka: 'Narimantas Glėbas 1348 m. vasario 2 d. žuvo mūšyje su Kryžiuočių ordinu ties Strėva.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -9553,7 +9801,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-273- c-250
+    - t-273
+- c-250
   santrauka: '1380 m. Jogaila sudarė dvi sutartis su kryžiuočiais: paliaubas su Livonijos ordinu ir Dovydiškių sutartį su Prūsijos kryžiuočiais.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -9571,7 +9820,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-274- c-251
+    - t-274
+- c-251
   santrauka: 'Kryžiuočiai 1411 m. Torūnės taika atsisakė Žemaitijos tik iki Jogailos ir Vytauto mirties, o galutinai jos atsisakė 1422 m. Melno taika.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -9584,7 +9834,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-275- c-252
+    - t-275
+- c-252
   santrauka: 'XIV a. pradžioje kryžiuočiai apgulė Veliuonos pilį, o negalėdami jos paimti priešais pastatė Fridburgą ir Bajerburgą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9599,7 +9850,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-276- c-253
+    - t-276
+- c-253
   santrauka: '1364 m. kryžiuočiai sudegino Veliuoną ir sugriovė jos pilį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9612,7 +9864,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-277- c-254
+    - t-277
+- c-254
   santrauka: 'Narbutas, remdamasis Strijkovskiu, pasakoja, kad Kęstutis Birutę pažino grįždamas iš žygio prieš kryžiuočius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9632,7 +9885,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-278- c-255
+    - t-278
+- c-255
   santrauka: '1247 m. kryžiuočiai jau valdė Pamedę, bet dėl kovų neturėjo pakankamai laiko jos vidaus sutvarkymui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9649,7 +9903,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-279- c-256
+    - t-279
+- c-256
   santrauka: 'Hartknocho pastaba Narbutas sieja Senosios Torunės įkūrimą su vieta, kurią kryžiuočiai paėmė įžengdami į Prūsus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9663,7 +9918,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-280- c-257
+    - t-280
+- c-257
   santrauka: 'Narbutas mano, kad vyriausiųjų žynių sąrašas autentiškas, nes Prūsijos istorikai galėjo jį perimti iš Kryžiuočių ordino užrašų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9684,7 +9940,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-281- c-258
+    - t-281
+- c-258
   santrauka: 'Narbutas pasakoja, kad paskutinis Prūsijos Krivių Krivaitis Alepas 1265 m. pabėgo pas kryžiuočius ir buvo pakrikštytas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9711,7 +9968,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-282- c-259
+    - t-282
+- c-259
   santrauka: 'Narbutas mini Hartknocho abejonę, ar prūsai mokėjo daryti alų iki kryžiuočių atsikraustymo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9725,7 +9983,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-283- c-260
+    - t-283
+- c-260
   santrauka: 'Narbutas vertina, kad Kryžiuočių ordino kunigui kronikininkui buvo paranku lyginti krivį su popiežiumi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9746,7 +10005,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-284- c-261
+    - t-284
+- c-261
   santrauka: 'Narbutas pabrėžia, kad Dusburgietis 1326 m. įteikė kroniką didžiajam magistrui praėjus maždaug šimtmečiui nuo kryžiuočių atsikraustymo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9767,7 +10027,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-285- c-262
+    - t-285
+- c-262
   santrauka: 'Narbutas primena, kad Livonijos kryžiuočiai kariavo su krivičiais, o Livonijos broliai lankydavosi Karaliaučiuje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9789,7 +10050,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-286- c-263
+    - t-286
+- c-263
   santrauka: 'Narbutas rašo, kad kryžiuočiams užkariavus sritį joje nelikdavo nei krivių, nei rikių valdžios.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -9803,7 +10065,8 @@ Kryžiuočių ordinas Lietuvos istorijos žinių bazėje siejamas su kryžiaus k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-287- c-264
+    - t-287
+- c-264
   santrauka: 'Narbutas Simoną Grunau vadina seniausiu žinomu šaltiniu ir pabrėžia, kad jis ne visuomet pagarbiai rašė apie kryžiuočius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

@@ -124,6 +124,7 @@ Tochtamišas buvo naujasis Aukso ordos chanas: iš pradžių Timuro globojamas, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Prie Kijevo telkiamoje Vytauto kariuomenėje buvo keli tūkstančiai Tochtamišo totorių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -146,6 +147,7 @@ Tochtamišas buvo naujasis Aukso ordos chanas: iš pradžių Timuro globojamas, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -159,6 +161,7 @@ Tochtamišas buvo naujasis Aukso ordos chanas: iš pradžių Timuro globojamas, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -188,6 +191,7 @@ Tochtamišas buvo naujasis Aukso ordos chanas: iš pradžių Timuro globojamas, 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Timūr-Kutlukas reikalavo, kad Vytautas išduotų pabėgusį jo priešą Tochtamišą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

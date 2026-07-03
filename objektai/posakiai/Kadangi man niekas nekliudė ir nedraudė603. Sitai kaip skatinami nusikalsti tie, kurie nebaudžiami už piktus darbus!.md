@@ -50,6 +50,7 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Karvedys Henrikas savo piktadarybes aiškino tuo, kad jam niekas nekliudė ir nedraudė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

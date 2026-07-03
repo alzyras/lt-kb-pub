@@ -82,6 +82,7 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -101,6 +102,7 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
   pagrindžia:
     - t-002
     - t-005
+
 - c-003
   santrauka: '„Kronika Ruška“ pateikia panašią užuominą apie Glebą, įdėtą leidinyje „Latopisiec Litewski“ 212 puslapyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -116,6 +118,7 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: '„Latopisiec Litewski“ mūšio vietą nurodo prie Vilijos upės, ties Horodoku, vietovėje, vadintoje Weyiszczuszki.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

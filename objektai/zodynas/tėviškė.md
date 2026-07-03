@@ -57,6 +57,7 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vytautas keršijo Jogailai už Kęstučio mirtį ir tėviškės pagrobimą, o tėviškės atgavimas tuo metu buvo svarbiausias jo siekis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

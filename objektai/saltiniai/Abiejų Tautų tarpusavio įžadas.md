@@ -94,6 +94,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo pataisos, pavadintos Abiejų Tautų tarpusavio įžadu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

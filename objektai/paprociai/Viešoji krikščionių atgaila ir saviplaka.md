@@ -74,6 +74,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai atgailauti ir plakėsi rykštėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -92,6 +93,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Brolis Konradas viešai atgailavo Friclare: ėjo basas ir plika galva, puolė prieš bažnyčios duris ir leido žmonėms jį plakti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -67,6 +67,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Lietuvos metraščio pasakojime kariuomenė, sutrimitavusi trimitais ir užgrojusi birbynėmis, žengė per upę.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -83,6 +84,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 ## Pastabos
 
 - čia instrumentas turi ir bendrinį, ir apeiginį vartojimą, bet daiktiškai jis aprašytas aiškiai.

@@ -411,6 +411,7 @@ Prancūzija Lietuvos istorijos žinių bazėje minima kaip Vakarų Europos valst
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -429,6 +430,7 @@ Prancūzija Lietuvos istorijos žinių bazėje minima kaip Vakarų Europos valst
   pagrindžia:
     - t-007
     - t-014
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -450,6 +452,7 @@ Prancūzija Lietuvos istorijos žinių bazėje minima kaip Vakarų Europos valst
   pagrindžia:
     - t-005
     - t-016
+
 - c-004
   santrauka: 'Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos kariauti su pagonimis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -473,6 +476,7 @@ Prancūzija Lietuvos istorijos žinių bazėje minima kaip Vakarų Europos valst
   pagrindžia:
     - t-003
     - t-011
+
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -493,6 +497,7 @@ Prancūzija Lietuvos istorijos žinių bazėje minima kaip Vakarų Europos valst
   pagrindžia:
     - t-010
     - t-001
+
 - c-006
   santrauka: '1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -506,6 +511,7 @@ Prancūzija Lietuvos istorijos žinių bazėje minima kaip Vakarų Europos valst
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-007
   santrauka: 'LLV Konstitucija buvo priimta keliais mėnesiais anksčiau už Prancūzijos konstituciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -524,6 +530,7 @@ Prancūzija Lietuvos istorijos žinių bazėje minima kaip Vakarų Europos valst
   pagrindžia:
     - t-002
     - t-012
+
 - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -540,6 +547,7 @@ Prancūzija Lietuvos istorijos žinių bazėje minima kaip Vakarų Europos valst
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-009
   santrauka: 'Zigmantas Sierakauskas manė, kad po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -561,6 +569,7 @@ Prancūzija Lietuvos istorijos žinių bazėje minima kaip Vakarų Europos valst
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-010
   santrauka: 'Prancūzijoje buvo likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo Teutonų ordinas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -575,6 +584,7 @@ Prancūzija Lietuvos istorijos žinių bazėje minima kaip Vakarų Europos valst
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-011
   santrauka: 'Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

@@ -98,6 +98,7 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Apaštalų darbuose rašoma, kad Steponas, pilnas malonės ir galios, darė didžių stebuklingų ženklų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

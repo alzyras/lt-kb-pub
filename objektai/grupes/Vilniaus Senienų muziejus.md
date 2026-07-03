@@ -96,6 +96,7 @@ Mokslinė ir kultūros institucija.
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Eustachijaus Tiškevičiaus iniciatyva įkurtas Vilniaus Senienų muziejus sutelkė krašto visuomenę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

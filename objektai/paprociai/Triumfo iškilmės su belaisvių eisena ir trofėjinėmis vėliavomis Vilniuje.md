@@ -84,6 +84,7 @@ Nenurodyta
     - t-001
     - t-002
     - t-003
+
 - c-002
   santrauka: 'Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

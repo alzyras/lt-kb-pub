@@ -52,6 +52,7 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Sofijai Šimonovai suteiktos privilegijos buvo atšauktos ir paskelbtos negaliojančiomis visiems laikams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -70,6 +70,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Jis mat norėjo neleisti statyti čia pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

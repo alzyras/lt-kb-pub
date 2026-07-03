@@ -56,6 +56,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 ## Pastabos
 
 - terminas šiame fragmente pavartotas tik frazėje „ant rogo“, todėl kandidatas pateikiamas kaip ritualinis laidotuvių laužas pagal kontekstą.

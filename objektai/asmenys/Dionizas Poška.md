@@ -83,7 +83,8 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Dionizo Poškos straipsnis „Keletas įžanginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių istoriją“ paskelbtas 1829 m. „Dziennik Warszawski“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -98,7 +99,8 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Narbutas svarstė, kad Dionizas Poška, rašydamas šį straipsnį, galėjo turėti omenyje konkretų asmenį iš Lietuvos intelektualų aplinkos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -112,7 +114,8 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Dionizui Poškai buvo žinomi Simono Daukanto „Darbai senųjų lietuvių ir žemaičių“, nors savo straipsnyje jis Daukanto neminėjo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

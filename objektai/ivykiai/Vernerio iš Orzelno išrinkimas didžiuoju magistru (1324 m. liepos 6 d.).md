@@ -66,6 +66,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Verneris iš Orzelno didžiuoju magistru buvo išrinktas 1324 m. liepos 6 d.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

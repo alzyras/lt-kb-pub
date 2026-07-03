@@ -53,6 +53,7 @@ Rygos arkivyskupas Vilhelmas priešinosi Fiurstenbergo veiksmams prieš bažnyč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Užpuolus arkivyskupo valdas, Vilhelmas pasitraukė su rinktinių vyrų kariauna į Kuoknesę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

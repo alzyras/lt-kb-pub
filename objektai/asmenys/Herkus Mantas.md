@@ -215,6 +215,7 @@ Herkus Mantas šaltiniuose vaizduojamas kaip notangų vadas, išrinktas po prūs
   pagrindžia:
     - t-014
     - t-005
+
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -239,6 +240,7 @@ Herkus Mantas šaltiniuose vaizduojamas kaip notangų vadas, išrinktas po prūs
   pagrindžia:
     - t-015
     - t-003
+
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -255,6 +257,7 @@ Herkus Mantas šaltiniuose vaizduojamas kaip notangų vadas, išrinktas po prūs
   pagrindžia:
     - t-001
     - t-005
+
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -273,6 +276,7 @@ Herkus Mantas šaltiniuose vaizduojamas kaip notangų vadas, išrinktas po prūs
     - t-008
     - t-016
     - t-004
+
 - c-005
   santrauka: 'Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę ir 1263 m. mūšio lauke sutriuškino kryžiuočius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -290,6 +294,7 @@ Herkus Mantas šaltiniuose vaizduojamas kaip notangų vadas, išrinktas po prūs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-006
   santrauka: 'Notangai Herkų Mantą išsirinko savo kariuomenės vadu ir vyresniuoju po prūsų atkritimo nuo tikėjimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -306,6 +311,7 @@ Herkus Mantas šaltiniuose vaizduojamas kaip notangų vadas, išrinktas po prūs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-007
   santrauka: 'Herkus Mantas, notangų prūsų vyriausiasis vadas, niokojo Kulmo žemę ir Lubavos mūšyje triuškino Ordiną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -325,6 +331,7 @@ Herkus Mantas šaltiniuose vaizduojamas kaip notangų vadas, išrinktas po prūs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-008
   santrauka: 'Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir privertė magistrą Helmerichą jį vytis iki Lubavos žemės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -343,6 +350,7 @@ Herkus Mantas šaltiniuose vaizduojamas kaip notangų vadas, išrinktas po prūs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-009
   santrauka: 'Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -361,6 +369,7 @@ Herkus Mantas šaltiniuose vaizduojamas kaip notangų vadas, išrinktas po prūs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-010
   santrauka: 'Herkus Mantas vokiškai išviliodavo besislapstančius krikščionis iš slėptuvių, o tada su saviškiais juos suimdavo arba nužudydavo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -381,6 +390,7 @@ Herkus Mantas šaltiniuose vaizduojamas kaip notangų vadas, išrinktas po prūs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-011
   santrauka: 'Herkus Mantas buvo sudegintas367.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -399,6 +409,7 @@ Herkus Mantas šaltiniuose vaizduojamas kaip notangų vadas, išrinktas po prūs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-012
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |

@@ -72,7 +72,8 @@ Pilis liko nepaimta.
   statusas: verified
 
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-002
+  patikimumo_saltinis: ai
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas,
@@ -86,6 +87,7 @@ Pilis liko nepaimta.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Kolainių apgula nutrūko, kai sargybos raitelių triukšmo išgąsdinti paprasti kariai pabėgo prie laivų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

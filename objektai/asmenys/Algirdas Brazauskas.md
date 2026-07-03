@@ -101,6 +101,7 @@ Algirdas Brazauskas iškilo Sąjūdžio laikotarpiu, kai 1988 m. spalio 21 d. ta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -124,6 +125,7 @@ Algirdas Brazauskas iškilo Sąjūdžio laikotarpiu, kai 1988 m. spalio 21 d. ta
   pagrindžia:
     - t-006
     - t-003
+
 - c-003
   santrauka: '1994 m. sausį Algirdas Brazauskas nusiuntė NATO generaliniam sekretoriui Manfredui Verneriui laišką dėl Lietuvos noro tapti NATO nare.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -140,6 +142,7 @@ Algirdas Brazauskas iškilo Sąjūdžio laikotarpiu, kai 1988 m. spalio 21 d. ta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: '2003 m. Atėnuose Algirdas Brazauskas pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -162,6 +165,7 @@ Algirdas Brazauskas iškilo Sąjūdžio laikotarpiu, kai 1988 m. spalio 21 d. ta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Per 1992 m. Seimo rinkimus A. Brazausko vadovaujama LDDP gavo daugumą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

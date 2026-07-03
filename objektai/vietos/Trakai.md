@@ -1444,6 +1444,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-064
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1457,6 +1458,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1470,6 +1472,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1482,6 +1485,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-058
+
 - c-005
   santrauka: '1412 m. per Kalėdas Makra buvo pas Vytautą jo puošnioje salos pilyje Trakuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1495,6 +1499,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-038
+
 - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1509,6 +1514,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-043
+
 - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1524,6 +1530,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     - t-024
     - t-037
     - t-011
+
 - c-008
   santrauka: 'Kazimieras Jogailaitis, teikdamas pirmenybę Lietuvai, dažniausiai gyveno Trakuose arba Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1558,6 +1565,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
+
 - c-009
   santrauka: 'Po 1397 m. žygio Vytautas totorių belaisvius ir pabėgėlius įkurdino Trakų kunigaikštijoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1575,6 +1583,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-077
+
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1596,6 +1605,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   pagrindžia:
     - t-022
     - t-050
+
 - c-011
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1616,6 +1626,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   pagrindžia:
     - t-052
     - t-040
+
 - c-012
   santrauka: 'Jogaila siekė pirmiausia pašalinti Trakuose gyvenusį Kęstutį, nes šis trukdė jo valdžios planams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1644,6 +1655,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   pagrindžia:
     - t-034
     - t-017
+
 - c-013
   santrauka: 'Pasak Strijkovskio ir Kojelavičiaus, po Trakų pilies įkūrimo Gediminas medžiojo aplinkinėse giriose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1681,6 +1693,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   pagrindžia:
     - t-021
     - t-005
+
 - c-014
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1700,6 +1713,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   pagrindžia:
     - t-039
     - t-072
+
 - c-015
   santrauka: 'Trakų žydai prašė patvirtinti Aleksandro, arba Vytauto, suteiktas teises, laisves ir privilegijas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1743,6 +1757,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-048
+
 - c-016
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1760,6 +1775,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
     - t-014
     - t-074
     - t-054
+
 - c-017
   santrauka: 'Gediminas Galvės ežero pusiasalyje pastatė Trakų pilį, kuri ilgą laiką buvo laikoma antrąja Lietuvos sostine.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -1776,6 +1792,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-018
   santrauka: 'Žygimantas po nesėkmingo įsiveržimo į Švitrigailos dvarą tuojau užėmė Vilnių ir Trakus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1812,6 +1829,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   pagrindžia:
     - t-075
     - t-062
+
 - c-019
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1827,6 +1845,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   pagrindžia:
     - t-010
     - t-053
+
 - c-020
   santrauka: '1432 m. rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -1851,6 +1870,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-063
+
 - c-021
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1876,6 +1896,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   pagrindžia:
     - t-041
     - t-019
+
 - c-022
   santrauka: '1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams, o Žygimantas Senasis ją patvirtino 1507 m. Melnikuose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1903,6 +1924,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-066
+
 - c-023
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1917,6 +1939,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-051
+
 - c-024
   santrauka: 'Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose šimtmetį svarstė svarbiausius Lietuvos reikalus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1939,6 +1962,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   pagrindžia:
     - t-008
     - t-033
+
 - c-025
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1956,6 +1980,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   pagrindžia:
     - t-073
     - t-047
+
 - c-026
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1975,6 +2000,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   pagrindžia:
     - t-031
     - t-027
+
 - c-027
   santrauka: '1384 m. Vytauto privilegija rodo, kad Trakai dar prieš Lietuvos krikštą buvo svarbus Lietuvos miestas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2011,6 +2037,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   pagrindžia:
     - t-023
     - t-009
+
 - c-028
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2035,6 +2062,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   pagrindžia:
     - t-060
     - t-044
+
 - c-029
   santrauka: '1345 m. lapkričio 22 d. Kęstutis iš Trakų su stipriu pulku užpuolė abi Vilniaus pilis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2055,6 +2083,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-030
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2084,6 +2113,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-069
+
 - c-031
   santrauka: '1430 m. į Trakus ir Vilnių atvyko Vytauto karūnacijai sukviesti šiaurės šalių kunigaikščiai ir pasiuntiniai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2108,6 +2138,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   pagrindžia:
     - t-080
     - t-061
+
 - c-032
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2127,6 +2158,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   pagrindžia:
     - t-057
     - t-070
+
 - c-033
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2143,6 +2175,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-068
+
 - c-034
   santrauka: 'Prie Trakų Kęstutis rado savo sūnų Vytautą, atsivedusį kariuomenės būrį iš Gardino.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -2159,6 +2192,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-042
+
 - c-035
   santrauka: 'Karūnacijos iškilmių metu Jogaila su palydovais vyko iš Vilniaus į Trakus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -2174,6 +2208,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-036
+
 - c-036
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2192,6 +2227,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
+
 - c-037
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2204,6 +2240,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-038
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2228,6 +2265,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
+
 - c-039
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2247,6 +2285,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-035
+
 - c-040
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2261,6 +2300,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-078
+
 - c-041
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2279,6 +2319,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-042
   santrauka: 'Balińskis manė, kad Trakų pilis galėjo būti sena gynybinė ir medžiotojų gyvenvietė dar prieš Gediminą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2302,6 +2343,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-049
+
 - c-043
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -2320,6 +2362,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   pagrindžia:
     - t-006
     - t-071
+
 - c-044
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2343,6 +2386,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-055
+
 - c-045
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2360,6 +2404,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-079
+
 - c-046
   santrauka: '1505 m. Vilniaus miesto sienoje buvo nurodyta palikti vartus prie kelio į Trakus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2381,6 +2426,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-076
+
 - c-047
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2407,6 +2453,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
 - c-048
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -2425,6 +2472,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-049
   santrauka: '1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o paskui pasiųstas gyventi į Trakus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2442,6 +2490,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-050
   santrauka: 'Mykolas žadėjo paklusti Kazimierui ir prašė, kad jam būtų palikti Trakai bei nubausti tėvo žudikai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -2457,6 +2506,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-051
   santrauka: 'Prie Strėvos upės Trakų paviete žemaičių būriai tankiame miške iš pasalų apsupo atsitraukiančią kariauną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2508,6 +2558,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-052
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2527,6 +2578,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-056
+
 - c-053
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2546,6 +2598,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-059
+
 - c-054
   santrauka: 'Ostrovo taikos metu Jogaila grąžino Vytautui Trakus, Gardiną ir kitas žemes.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -2562,6 +2615,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-046
+
 - c-055
   santrauka: 'Prūsijos istorikai nurodė, kad kariai tarp Trakų ir Vilniaus buvo sustoję ant dviejų priešpriešinių kalnų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2586,6 +2640,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
+
 - c-056
   santrauka: 'Trakuose Žygimanto sušauktas seimas paspartino susidorojimą, o 1440 m. balandį Žygimantas buvo nužudytas Trakų pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2608,6 +2663,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-045
+
 - c-057
   santrauka: 'Kęstučio valdos, įskaitant dalį tikrosios Lietuvos su Trakais, dėl kaimynystės su kryžiuočiais nebuvo saugios.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -2628,6 +2684,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-058
   santrauka: '1655 m. rugpjūčio 7 d. rusams ir kazokams užėmus Vilnių, netrukus buvo užimti Trakai ir Kaunas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -2645,6 +2702,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-067
+
 - c-059
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2657,6 +2715,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-065
+
 - c-060
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -2700,6 +2759,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-061
   santrauka: 'Po 1397 m. žygio Vytautas totorių belaisvius ir pabėgėlius įkurdino Trakų kunigaikštijoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -2719,6 +2779,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-081
+
 - c-062
   santrauka: 'Trakai buvo puolami tam, kad kariai turėtų užsiėmimą laukdami pagalbos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -2738,6 +2799,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-082
+
 - c-063
   santrauka: 'Vytautas su žemaičiais ir Prūsijos magistras pasiekė Trakus, o miestas ir abi pilys jiems pasidavė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -2761,6 +2823,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-083
+
 - c-064
   santrauka: 'Žymiausieji Lietuvos didikai skubiai pasitraukė į Trakus, palikę Jogailą ir valstybės reikalus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -2780,6 +2843,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-084
+
 - c-065
   santrauka: 'Karalius iš Zaberezinskio atėmė Trakų vaivadiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -2806,6 +2870,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-085
+
 - c-066
   santrauka: 'Valdovo valia Šich Achmetas turėjo būti vaišingai priimtas Trakuose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -2830,6 +2895,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-086
+
 - c-067
   santrauka: 'Kęstutis valdė Trakus ir Žemaičių žemę.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -2849,6 +2915,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-087
+
 - c-068
   santrauka: 'Iš Smolensko grįžęs Skirgaila pradėjo kunigaikščiauti Trakuose.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -2867,6 +2934,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-088
+
 - c-069
   santrauka: 'Vytauto pasakojime senelis Kęstučiui skyrė valdžią Trakuose, Algirdui – Vitebske, o Jaunučiui – Vilniuje.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -2895,6 +2963,7 @@ Trakai žinių bazėje iškyla kaip svarbi Lietuvos valdžios, derybų ir karo v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-089
+
 - c-070
   santrauka: 'Vytauto pasakojime Jogaila be Kęstučio žinios užėmė Trakus, kai Kęstutis buvo grįžęs iš karo žygio.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

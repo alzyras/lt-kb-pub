@@ -64,6 +64,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Pratarmėje pirmųjų Ordino brolių veikla Prūsijoje apibūdinta žodžiais, kad per juos „stebuklų padarė aukščiausias dievas“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -83,6 +84,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   pagrindžia:
     - t-001
     - t-003
+
 - c-003
   santrauka: 'Petras Dusburgietis daugybe pavyzdžių vaizdavo Dievą padedantį kovojantiems Ordino broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -100,6 +102,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Petras Dusburgietis kronikos pratarmėje rašė, kad aukščiausias Dievas per Ordino brolius Prūsijoje padarė stebuklų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

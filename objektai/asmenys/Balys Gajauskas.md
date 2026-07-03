@@ -49,6 +49,7 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Sovietinė valdžia suėmė ir nuteisė disidentus Balį Gajauską ir Viktorą Petkų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

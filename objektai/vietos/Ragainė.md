@@ -486,6 +486,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: '1409 m. Vokiečių ordinas Ragainėje sulaikė Jogailos Lietuvai siųstus javus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -501,6 +502,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-003
   santrauka: '1315 m. apie Žolinę lietuviai iš Žemaitijos slaptai ir netikėtai atžygiavo prie Ragainės pilies ir ją užpuolė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -520,6 +522,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-004
   santrauka: 'Ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m. ir Marienburgas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -537,6 +540,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   santrauka: '1289 m. brolis Meinhardas Nemuno pakrantėje pastatė Landeshutės pilį, kuri vėliau vadinta Ragaine.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -557,6 +561,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-006
   santrauka: 'Dusburgiečio kronikoje pasakojama, kad nuo kariuomenės Žemaitijoje atsilikęs kryžiuočių karys pėsčiomis grįžo į Ragainę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -574,6 +579,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-007
   santrauka: 'Ragainės komtūras Markvardas Salzbachas su 1600 raitelių prisidėjo prie Vytauto kariuomenės Kijeve.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -590,6 +596,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-008
   santrauka: '1289 m. buvo pastatyta Ragainės pilis, po to kronikoje atsirado daugiau įvykių smulkmenų ir tikslių dienų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -605,6 +612,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-009
   santrauka: 'Skalviai prie Ragainės ant kalno turėjo pilį, kurią siaubė didelė rutėnų kariuomenė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -638,6 +646,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
   pagrindžia:
     - t-007
     - t-006
+
 - c-010
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -653,6 +662,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
   pagrindžia:
     - t-003
     - t-010
+
 - c-011
   santrauka: '1361 m. žiemą kryžiuočiai iš Ragainės du kartus žygiavo prieš lietuvius, žudė, degino ir plėšė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -676,6 +686,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-012
   santrauka: '1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -692,6 +703,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-013
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -709,6 +721,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
   pagrindžia:
     - t-009
     - t-017
+
 - c-014
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -730,6 +743,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
   pagrindžia:
     - t-016
     - t-022
+
 - c-015
   santrauka: 'Tyrinėtojai siejo Dusburgietį iš pradžių su Ragaine, po to su Karaliaučiumi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -746,6 +760,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-016
   santrauka: 'Skalvių pilis Ragainėje, manoma, buvo piliakalnyje per 2 km į pietryčius nuo dabartinio miestelio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -765,6 +780,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-017
   santrauka: 'Sembų fogtas brolis Ditrichas su broliais ir tūkstančiu vyrų užpuolė skalvių pilį toje vietoje, kur vėliau buvo Ragainės pilis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -781,6 +797,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-018
   santrauka: 'Brolis Bertoldas, vadinamas Briuhavenu, neilgai vadovavo Ragainės piliai ir netrukus buvo paskirtas Karaliaučiaus komtūru.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -797,6 +814,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-019
   santrauka: '1299 m. Brandenburgo komtūras Kanonas papildė kariuomenę stipriu Ragainės būriu ir laivais nuplukdė ją į Lietuvos gilumą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -823,6 +841,7 @@ Ragainė šiame įraše aprašoma kaip Nemuno pakrantės vieta, kur 1289 m. Ordi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-020
   santrauka: 'Ragainės komtūras išsklaidė Kauno tvirtovę atstatinėjusius darbininkus ir išardė pradėtą pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

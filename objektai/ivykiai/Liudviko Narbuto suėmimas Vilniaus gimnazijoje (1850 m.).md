@@ -77,6 +77,7 @@ Viešai nuplaktas Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaz
     - t-004
     - t-005
     - t-006
+
 ## Data ir vieta
 
 Data: 1850 m. Vieta: Vilniaus gimnazija.

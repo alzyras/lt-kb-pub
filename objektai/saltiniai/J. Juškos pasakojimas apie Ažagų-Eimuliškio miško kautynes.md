@@ -75,6 +75,7 @@ Prisimena mūšio dalyvis J. Juška:. Prieš kokią valandą iki mūšio, - toli
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'J. Juška teigė, kad Ažagų-Eimuliškio miško kautynėse okupantų pajėgos žmonių skaičiumi galėjo būti 10 ar 20 kartų pranašesnės už partizanus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

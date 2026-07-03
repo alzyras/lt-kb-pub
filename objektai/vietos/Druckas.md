@@ -97,6 +97,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Petro Šuiskio vadovaujama kariuomenė iš Polocko traukė į Drucką, kur turėjo susijungti su Baziliaus Serebriano pajėgomis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -123,6 +124,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -137,6 +139,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Užpuolęs ir užėmęs Oršą, Vytautas patraukė į Drucką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -169,6 +172,7 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Lietuvos metraštyje Vytautas vaizduojamas kaip su Skirgaila ir didele kariuomene žygiuojantis prieš Švitrigailą į Vitebską ir pirmiausia atvykstantis prie Drucko pilies.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

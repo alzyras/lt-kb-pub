@@ -94,6 +94,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: '1505 metais karalius nurodė Vilniaus miestą apjuosti mūro siena, o negalintiems jos statyti leido tverti statinių tvorą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -115,6 +116,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Vilniaus miestiečiai prie miesto vartų turėjo dieną ir naktį eiti sargybą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

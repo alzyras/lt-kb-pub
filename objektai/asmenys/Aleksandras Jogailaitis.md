@@ -366,7 +366,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-    - t-002- c-002
+    - t-002
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
@@ -383,7 +384,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-003
+    - t-004
+- c-003
   santrauka: 'Michałas Balińskis vertino, kad Aleksandrui Jogailaičiui stigo ryžto, nors 1501 m. jis buvo išrinktas Lenkijos karaliumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -401,7 +403,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-004
+    - t-005
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau Aleksandro planai pasirodė esą klaidingi, nes
@@ -418,7 +421,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-005
+    - t-006
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Toksai pagrindinės valdžios nutolimas
@@ -434,7 +438,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-006
+    - t-008
+- c-006
   santrauka: 'Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą prie kelio į Užupį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -453,7 +458,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-007
+    - t-010
+- c-007
   santrauka: 'Aleksandras Jogailaitis siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -477,7 +483,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
-    - t-003- c-008
+    - t-003
+- c-008
   santrauka: 'Aleksandras Jogailaitis suteikė Vilniui teisę laikyti vaško dirbtuvę ir rūpinosi laisva laivyba Vilija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -499,7 +506,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-009
+    - t-022
+- c-009
   santrauka: 'Aleksandras Jogailaitis žmonai Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jos valdomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -543,7 +551,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-010
+    - t-015
+- c-010
   santrauka: 'Ivano Vasiljevičiaus pakurstyta Krymo totorių orda puldinėjo Aleksandro Jogailaičio valdas ir kėlė grėsmę Kijevui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -566,7 +575,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-011
+    - t-009
+- c-011
   santrauka: 'Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -628,7 +638,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-012
+    - t-020
+- c-012
   santrauka: 'Aleksandras Jogailaitis buvo suteikęs privilegiją Vilniaus miesto auksakalių cechui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -651,7 +662,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-013
+    - t-014
+- c-013
   santrauka: 'Aleksandras Jogailaitis rašte titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -674,7 +686,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-014
+    - t-018
+- c-014
   santrauka: 'Žinia apie 1506 m. rugpjūtį pasiektą Lietuvos pergalę prie Klecko Aleksandrą Jogailaitį pasiekė Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -707,7 +720,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-015
+    - t-021
+- c-015
   santrauka: 'Aleksandras Jogailaitis pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena išlaikė prabangų dvarą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -725,7 +739,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019- c-016
+    - t-019
+- c-016
   santrauka: 'Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 metų rugpjūčio 10-osios naktį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -749,7 +764,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
-    - t-007- c-017
+    - t-007
+- c-017
   santrauka: 'Dėl silpnos Aleksandro Jogailaičio valdžios Vilniaus miesto administracijoje įsitvirtino netvarka ir kilo kivirčų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -767,7 +783,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-018
+    - t-011
+- c-018
   santrauka: 'Aleksandras Jogailaitis, įkurdinęs dominikonus, negrąžino Vilniaus miestui Vingrių šaltinių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -792,7 +809,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-019
+    - t-017
+- c-019
   santrauka: 'Aleksandras Jogailaitis, būdamas nusilpęs kūnu, bet sveiko proto, nurodė po jo mirties išpildyti paskutinius įsakymus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -824,7 +842,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-020
+    - t-013
+- c-020
   santrauka: 'Kazimieras prieš mirtį prašė lietuvių paskelbti Aleksandrą Jogailaitį Lietuvos valdovu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -844,7 +863,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023- c-021
+    - t-023
+- c-021
   santrauka: 'Kojelavičius Aleksandrą Jogailaitį vaizduoja kaip jaunuolį, turėjusį valdovui deramų savybių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -864,7 +884,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024- c-022
+    - t-024
+- c-022
   santrauka: 'Aleksandras Jogailaitis iš Vilniaus seimo buvo palydėtas į Šv. Stanislovo katedrą ir pasodintas į tėvo sostą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -887,7 +908,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025- c-023
+    - t-025
+- c-023
   santrauka: 'Aleksandras Jogailaitis apie pralaimėjimą sužinojo prie Bobro upės ir įrengė karo stovyklą Obolcuose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -906,7 +928,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026- c-024
+    - t-026
+- c-024
   santrauka: 'Glinskio raginimų paveiktas Aleksandras Jogailaitis pasmerkė mirčiai kelis žymius Lietuvos didikus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -935,7 +958,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027- c-025
+    - t-027
+- c-025
   santrauka: 'Aleksandras Jogailaitis Šich Achmetą pasitiko už penkių mylių ir priėmė su didele pagarba.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -957,7 +981,8 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-028- c-026
+    - t-028
+- c-026
   santrauka: 'Valdant karaliui Aleksandrui Jogailaičiui, jo įsakymu pagoniškos šventyklos vietoje Ramygalos parapijoje buvo pastatyta filija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

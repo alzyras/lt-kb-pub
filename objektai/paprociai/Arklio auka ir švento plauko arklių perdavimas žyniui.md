@@ -76,7 +76,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-002
+    - t-005
+- c-002
   santrauka: 'Narbutas arklio aukos apeigoje mini pagrobto arklio nujodinimą, Krivių Krivaičio papjovimą ir sudeginimą ant laužo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -92,7 +93,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-003
+    - t-007
+- c-003
   santrauka: 'Narbutas rašo, kad švento plauko kumeliuką reikėdavo auginti iki penkerių metų ir atiduoti vyriausiajam žyniui.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -111,7 +113,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-004
+    - t-006
+- c-004
   santrauka: 'Narbutas rašo, kad prūsai aukai rinkdavosi širmus arklius, o kitos lietuvių genties tautos turėjusios savus plauko ir ženklų pasirinkimus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

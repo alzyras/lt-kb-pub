@@ -165,6 +165,7 @@ Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-002
   santrauka: 'Čekai husitai pasiūlė karališką vainiką Jogailai, bet Jogaila atsisakė jį priimti kaip eretikų siūlymą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -182,6 +183,7 @@ Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -197,6 +199,7 @@ Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Vytautas popiežiui rašė norįs be kraujo praliejimo atversti husitus ir prašė sustabdyti kryžiaus karus bei ekskomuniką.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -216,6 +219,7 @@ Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -231,6 +235,7 @@ Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -244,6 +249,7 @@ Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   santrauka: 'Vytautas čekams husitams rašė nerėmęs jų mokslo ir siūlėsi tarpininkauti, jei jie atsisakytų erezijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -263,6 +269,7 @@ Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -282,6 +289,7 @@ Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, su
   pagrindžia:
     - t-003
     - t-010
+
 - c-009
   santrauka: 'Popiežius grasė paskelbti Lietuvai kryžiaus žygį, jei Vytautas neatšauks Kaributo ir nenutrauks santykių su husitais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -300,6 +308,7 @@ Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-010
   santrauka: '1429 m. valdovų posėdyje imperatorius ragino sutelktomis jėgomis numalšinti husitus pirmiausia Čekijoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

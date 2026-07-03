@@ -436,6 +436,7 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-002
   santrauka: 'Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 metų tapo reformacijos šalininkų prieglobsčiu ir mokykla.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -482,6 +483,7 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Vingrių upokšnis šalia Vilnios įtekėjo į Viliją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -505,6 +507,7 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-004
   santrauka: 'Vingrių šaltinis slėnyje įtekėjo į Viliją prie Totorių vartų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -524,6 +527,7 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-005
   santrauka: '1547 m. Paleckio liejyklai skirtas sklypas buvo prie Vilniaus miesto, už Vilijos upės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -553,6 +557,7 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-006
   santrauka: 'Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -576,6 +581,7 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -597,6 +603,7 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-008
   santrauka: 'Vilniaus pirklių laivams, vadintiems vytinėmis, buvo leista laisvai plaukioti Vilijos upe.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -670,6 +677,7 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-009
   santrauka: 'Dabartinių Lukiškių ir Antakalnio užuomazgos buvo išsidėsčiusios palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -690,6 +698,7 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-010
   santrauka: 'Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -716,6 +725,7 @@ Vilija šaltiniuose atsiskleidžia kaip Vilniaus miesto erdvę formavusi upė: p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-011
   santrauka: 'Gedimino pastatydinta mūro tvirtovė stovėjo prie Vilnelės žiočių į Viliją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

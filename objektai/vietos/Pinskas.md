@@ -207,6 +207,7 @@ Pinskas minimas kaip Narimanto, valdžiusio Turovą ir Pinską, kunigaikštystė
   pagrindžia:
     - t-005
     - t-004
+
 - c-002
   santrauka: 'Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -227,6 +228,7 @@ Pinskas minimas kaip Narimanto, valdžiusio Turovą ir Pinską, kunigaikštystė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -242,6 +244,7 @@ Pinskas minimas kaip Narimanto, valdžiusio Turovą ir Pinską, kunigaikštystė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-004
   santrauka: 'Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -258,6 +261,7 @@ Pinskas minimas kaip Narimanto, valdžiusio Turovą ir Pinską, kunigaikštystė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -280,6 +284,7 @@ Pinskas minimas kaip Narimanto, valdžiusio Turovą ir Pinską, kunigaikštystė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-006
   santrauka: 'Apie liepos 20–22 d. totoriai pasirinko stovyklą prie Klecko, nes miestas stovėjo ant kelių į Pinską, Vilnių, Nesvyžių ir Slucką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -307,6 +312,7 @@ Pinskas minimas kaip Narimanto, valdžiusio Turovą ir Pinską, kunigaikštystė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-007
   santrauka: 'Narimantui buvo tekusios Pinsko ir Turovo kunigaikštijos, o 1348 m. jis žuvo Strėvos kautynėse su kryžiuočiais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -325,6 +331,7 @@ Pinskas minimas kaip Narimanto, valdžiusio Turovą ir Pinską, kunigaikštystė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-008
   santrauka: 'Pinskas minimas kaip vienas žymiausių baltarusių gyvenamos Polesės miestų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -340,6 +347,7 @@ Pinskas minimas kaip Narimanto, valdžiusio Turovą ir Pinską, kunigaikštystė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-009
   santrauka: 'Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

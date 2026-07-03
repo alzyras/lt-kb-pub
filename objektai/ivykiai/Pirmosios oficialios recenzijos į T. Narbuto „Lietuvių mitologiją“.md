@@ -69,7 +69,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: '1835 m. anoniminė 25 puslapių recenzija apibūdinama kaip bene reikšmingiausias oficialus atgarsis į T. Narbuto „Lietuvių mitologiją“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

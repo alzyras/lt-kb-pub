@@ -130,7 +130,8 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas senovės Romovėje aprašo aukurą su Amžinąja ugnimi, prižiūrimą vyriausiojo žynio prie šventojo ąžuolo ir dievų stabų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -144,7 +145,8 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Narbutas Romovės mitologinį pavadinimą sieja su ąžuolo šventumu ir žodžiu „Romumas“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -161,7 +163,8 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Narbutas rašo, kad kol prūsų Romovė nebuvo sunaikinta, iškilmingas aukas vyriausiems dievams kitur atnašauti nederėjo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -177,7 +180,8 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-005
+    - t-004
+- c-005
   santrauka: 'Narbutas nurodo, kad Dusburgietis Romovę aprašė kaip kadaise buvusį šventą miestą ir krivio buveinę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

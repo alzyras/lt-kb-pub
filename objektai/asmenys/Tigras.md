@@ -49,6 +49,7 @@ Gi atsargusis Tigras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Tigras pirmaisiais šūviais nukovė tris buvusius NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir rusą karininką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

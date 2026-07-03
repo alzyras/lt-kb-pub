@@ -78,7 +78,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Baužos mintys sukėlė didelį atgarsį mokslininkų ir lietuvių
@@ -92,7 +93,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: '1829 m. „Dziennik Warszawski“ išspausdino Dionizo Poškos straipsnį „Keletas įžanginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių istoriją“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -107,7 +109,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Narbutas rašo, kad D. Poškai buvo žinomi S. Daukanto „Darbai senųjų lietuvių ir žemaičių“ ir spėta, jog Poška galėjo juos persirašyti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

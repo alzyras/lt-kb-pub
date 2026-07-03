@@ -57,6 +57,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 ## Pastabos
 
 - šis sąrašas artimas bendresniam viešam įrašui apie įrankius, bet ši ištrauka aiškiai pabrėžia savadarbius variantus.

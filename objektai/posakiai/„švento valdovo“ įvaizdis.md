@@ -54,6 +54,7 @@ Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vytauto politika, autorių vertinimu, buvo orientuota į bažnytinę politiką, Lietuvos konversiją ir „švento valdovo“ įvaizdį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

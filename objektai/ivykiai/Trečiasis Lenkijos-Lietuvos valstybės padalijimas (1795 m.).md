@@ -78,6 +78,7 @@ Lenkijos-Lietuvos valstybė neteko nepriklausomybės ir priklausė trims imperij
   pagrindžia:
     - t-003
     - t-004
+
 ## Data ir vieta
 
 Data: 1795 m.

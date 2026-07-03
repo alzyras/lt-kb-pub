@@ -58,6 +58,7 @@ Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuria
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1915 m. vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius vadintas „gražiausiu Lenkijos karalystės perlu“, bet po lietuvių protesto atsišaukimai buvo nudraskyti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

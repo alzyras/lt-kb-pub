@@ -73,6 +73,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1939 m. rugsėjo 28 d. Vokietijos ir SSRS sutarties slaptasis protokolas priskyrė Lietuvos teritoriją SSRS įtakos sferai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

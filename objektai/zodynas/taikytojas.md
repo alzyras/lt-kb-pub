@@ -50,6 +50,7 @@ Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Maskvėnai turėjo paskirti taikytojus, kurie Sebežo krašte įsakytų grąžinti kaimus ir atlyginti nuostolius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

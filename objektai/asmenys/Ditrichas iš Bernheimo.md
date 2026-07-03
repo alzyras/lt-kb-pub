@@ -89,6 +89,7 @@ Ditrichas iš Bernheimo buvo Teutonų ordino brolis ir maršalas, Hermano iš Za
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   santrauka: 'Prie Renzeno pelkės Ditrichas iš Bernheimo siūlė pulti tą priešo kariuomenės dalį, kuri dar nebuvo perėjusi pelkės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -107,6 +108,7 @@ Ditrichas iš Bernheimo buvo Teutonų ordino brolis ir maršalas, Hermano iš Za
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: '1243 m. Ditrichas iš Bernheimo su nedidele kariuomene stojo į kovą, nukovė 900 priešų ir paėmė 400 arklių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -124,6 +126,7 @@ Ditrichas iš Bernheimo buvo Teutonų ordino brolis ir maršalas, Hermano iš Za
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Hermanas iš Zalcos pasiuntė Ditrichą iš Bernheimo eiti maršalo pareigų į Prūsiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -145,6 +148,7 @@ Ditrichas iš Bernheimo buvo Teutonų ordino brolis ir maršalas, Hermano iš Za
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Dusburgietis teigia, kad po to brolis Ditrichas, palikęs pilies saugoti kuriuos ne kuriuos brolius ir ginklanešius, patraukė su kitais atgal ir nugabeno šias šventas relikvijas į Kulmą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -162,6 +166,7 @@ Ditrichas iš Bernheimo buvo Teutonų ordino brolis ir maršalas, Hermano iš Za
   pagrindžia:
     - t-006
     - t-002
+
 - c-006
   santrauka: '1243 m. Ditrichas iš Bernheimo su nedidele kariuomene stojo į kovą, nukovė 900 priešų ir paėmė 400 arklių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

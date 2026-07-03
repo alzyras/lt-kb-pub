@@ -513,7 +513,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   pagrindžia:
     - t-006
     - t-001
-    - t-008- c-002
+    - t-008
+- c-002
   santrauka: 'Latviai asimiliavo dalį išnykusių kuršių, žiemgalių ir sėlių kilčių teritorijų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -530,7 +531,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-003
+    - t-005
+- c-003
   santrauka: 'II tūkstantmečio pradžioje latviai pradėjo formuotis kartu su prūsų, jotvingių ir lietuvių tautomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -545,7 +547,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
@@ -562,7 +565,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-005
+    - t-007
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš tokio
@@ -585,7 +589,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-006
+    - t-002
+- c-006
   santrauka: 'Kronikoje vaizduojamu laikotarpiu latviai, lietuviai ir prūsai laikomi baltais, siejamais kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -604,7 +609,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-007
+    - t-004
+- c-007
   santrauka: 'Vokiečiai ir latviai, įsivėlę į Livonijos vidaus karą, neturėjo laiko niokoti Lietuvos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -634,7 +640,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-008
+    - t-009
+- c-008
   santrauka: 'Narbutas rašė, kad latviai dievą Drebbkuls siejo su žemės drebėjimu ir padavimu apie supykusio Likimo plakamos žemės drebėjimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -650,7 +657,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-009
+    - t-010
+- c-009
   santrauka: 'Narbutas sprendė, kad latviai Bubbulį vaizdavo baisų, nes vaikams gąsdinti sakydavo: „Ateina Bubbulis - paims, pagriebs“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -664,7 +672,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-010
+    - t-011
+- c-010
   santrauka: 'Pasak Stenderio, latviai kiekvieną deivę vadino motina, o dievą - tėvu, todėl mitus siejo su vyriškąja ir moteriškąja dievybės lytimis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -679,7 +688,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-011
+    - t-012
+- c-011
   santrauka: 'Narbutas rašė, kad latviai šią dievybę žinojo kaip Pilviką (Pelwihkse), kitaip vadinamą Szkahde.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -695,7 +705,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-012
+    - t-013
+- c-012
   santrauka: 'Pasak Rusovo, latvių jaunimas garbino deivę Dahkla kaip laisvės ir vyriškumo globėją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -711,7 +722,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-013
+    - t-014
+- c-013
   santrauka: 'Narbutas rašė, kad latviai mirusiųjų valdovę vadino Welli-Deewa, o šios deivės apeigos sietos su laidotuvėmis ir Vėlinėmis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -728,7 +740,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-014
+    - t-015
+- c-014
   santrauka: 'Pasak Stenderio, latviai turėjo deivę Dyža arba Dysza, kuri savo ypatybėmis visiškai atitiko Pergrubę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -741,7 +754,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-015
+    - t-016
+- c-015
   santrauka: 'Narbutas teigė, kad latvių sapnų aiškinimai turėjo ypatingų ir kartais skirtingų bruožų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -754,7 +768,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-016
+    - t-017
+- c-016
   santrauka: 'Narbutas manė, kad Mėšlų bobą, namų šiukšlių globėją, žinojo tik latviai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -769,7 +784,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-017
+    - t-018
+- c-017
   santrauka: 'Narbutas rašė, kad latviai turėjo bičių dievybę, vadinamą Uhsinsz arba Szwets uhsinsz.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -785,7 +801,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019- c-018
+    - t-019
+- c-018
   santrauka: 'Narbutas rašė, kad atminimas apie Žemės motinos garbinimą išliko tik Latvijoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -803,7 +820,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-019
+    - t-020
+- c-019
   santrauka: 'Pasak Stenderio, latviai Datoną vadino Pilnyčiu (Pilnitis).'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -816,7 +834,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-020
+    - t-021
+- c-020
   santrauka: 'Narbutas rašė, kad latviai Girystį vadino Meszu Deews, miškų dievu, arba Meschu Wihrs, miškiniu žmogumi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -830,7 +849,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-021
+    - t-022
+- c-021
   santrauka: 'Narbutas rašė, kad Latvijos kaimiečiai šiaurės pašvaistę aiškino posakiu „Johdi Kaujahs“, reiškiančiu, kad dvasios kaunasi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -843,7 +863,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023- c-022
+    - t-023
+- c-022
   santrauka: 'Narbutas rašė, kad latviai Saulės aptemimą vadino Majtaszana arba Saules majtaszana, Saulės gadinimu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -859,7 +880,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024- c-023
+    - t-024
+- c-023
   santrauka: 'Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino Czuhskas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -875,7 +897,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025- c-024
+    - t-025
+- c-024
   santrauka: 'Narbutas nurodė, kad latviai pasakojimuose lapę vadino kapsu Kuhmina, o vilką - Wilks snohts.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -887,7 +910,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026- c-025
+    - t-026
+- c-025
   santrauka: 'Narbutas rašė, kad latviai murgiais vadino karuose už tėvynę žuvusių didvyrių šmėklas, kurių būstinė buvo danguje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -900,7 +924,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027- c-026
+    - t-027
+- c-026
   santrauka: 'Narbutas rašė, kad latviai kai kurias upes laikė šventomis, o XVII a. Livonijoje dėl Vyhandės upelio užtvenkimo kilo maištas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -914,7 +939,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-028- c-027
+    - t-028
+- c-027
   santrauka: 'Narbutas aiškino, kad latviams Barnis reiškė tikrąjį burtininką ir buvo siejamas su žodžiu Bart - kerėti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -929,7 +955,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029- c-028
+    - t-029
+- c-028
   santrauka: 'Narbutas rašė, kad latviai vilkolakiu (Wilkats) vadino kerėtoją, mokantį pasiversti vilku.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -943,7 +970,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-030- c-029
+    - t-030
+- c-029
   santrauka: 'Narbutas lygino alaus pavadinimus ir nurodė, kad latviai šį gėrimą vadino Alius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -957,7 +985,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-031- c-030
+    - t-031
+- c-030
   santrauka: 'Narbutas teigė, kad Latvija, žlugus politinei nepriklausomybei, virto vokiečių kolonija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -986,7 +1015,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-032- c-031
+    - t-032
+- c-031
   santrauka: 'Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus vadino milžinkapiais, Milsu Kappi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1001,7 +1031,8 @@ Latviai – baltų tauta, kurios formavimasis siejamas su II tūkstantmečio pra
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-033- c-032
+    - t-033
+- c-032
   santrauka: 'Narbutas prieštaravo Mechovitai, pabrėždamas, kad latviai tebekalba savo kalba ir tobulina jos raštą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

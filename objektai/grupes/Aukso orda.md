@@ -133,6 +133,7 @@ Aukso orda Lietuvos istorijoje minima kaip jėga, dariusi įtaką rusų kunigaik
   pagrindžia:
     - t-012
     - t-003
+
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -148,6 +149,7 @@ Aukso orda Lietuvos istorijoje minima kaip jėga, dariusi įtaką rusų kunigaik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -165,6 +167,7 @@ Aukso orda Lietuvos istorijoje minima kaip jėga, dariusi įtaką rusų kunigaik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -183,6 +186,7 @@ Aukso orda Lietuvos istorijoje minima kaip jėga, dariusi įtaką rusų kunigaik
   pagrindžia:
     - t-007
     - t-008
+
 - c-005
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -198,6 +202,7 @@ Aukso orda Lietuvos istorijoje minima kaip jėga, dariusi įtaką rusų kunigaik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -214,6 +219,7 @@ Aukso orda Lietuvos istorijoje minima kaip jėga, dariusi įtaką rusų kunigaik
   pagrindžia:
     - t-001
     - t-005
+
 - c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -235,6 +241,7 @@ Aukso orda Lietuvos istorijoje minima kaip jėga, dariusi įtaką rusų kunigaik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-008
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -254,6 +261,7 @@ Aukso orda Lietuvos istorijoje minima kaip jėga, dariusi įtaką rusų kunigaik
   pagrindžia:
     - t-006
     - t-011
+
 - c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

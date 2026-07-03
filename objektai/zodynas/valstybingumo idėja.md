@@ -113,6 +113,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -130,6 +131,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   pagrindžia:
     - t-002
     - t-003
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -148,6 +150,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   pagrindžia:
     - t-004
     - t-005
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

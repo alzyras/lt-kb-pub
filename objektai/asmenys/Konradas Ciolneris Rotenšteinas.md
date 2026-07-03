@@ -76,6 +76,7 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Konradas Ciolneris fon Rotenšteinas mirė iki 1390 m. rugpjūčio 15 d., kai Konradas Valenrodas tapo didžiojo magistro vietininku.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -115,6 +116,7 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Konradas Ciolneris negalėjo vadovauti žygiui, nes tuo metu sirgo sunkia liga.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

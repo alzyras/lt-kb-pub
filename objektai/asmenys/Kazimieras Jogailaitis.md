@@ -184,6 +184,7 @@ Kazimieras Jogailaitis 1440 m. buvo išrinktas Lietuvos didžiuoju kunigaikšči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-002
   santrauka: 'Kazimieras Jogailaitis mirė 1492 metų birželio 7 dieną, susirgęs kelyje iš Vilniaus į Trakus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -206,6 +207,7 @@ Kazimieras Jogailaitis 1440 m. buvo išrinktas Lietuvos didžiuoju kunigaikšči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-003
   santrauka: 'Kazimieras Jogailaitis 1440 m. buvo išrinktas didžiuoju Lietuvos kunigaikščiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -222,6 +224,7 @@ Kazimieras Jogailaitis 1440 m. buvo išrinktas Lietuvos didžiuoju kunigaikšči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-004
   santrauka: 'Nuo Kazimiero Jogailaičio Lietuvos valdovais buvo renkami Jogailos palikuonys, todėl jo šeima jautėsi turinti sosto paveldėjimo teisių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -240,6 +243,7 @@ Kazimieras Jogailaitis 1440 m. buvo išrinktas Lietuvos didžiuoju kunigaikšči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-005
   santrauka: 'Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus miestiečius nuo muito visoje Lietuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -259,6 +263,7 @@ Kazimieras Jogailaitis 1440 m. buvo išrinktas Lietuvos didžiuoju kunigaikšči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -271,6 +276,7 @@ Kazimieras Jogailaitis 1440 m. buvo išrinktas Lietuvos didžiuoju kunigaikšči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-007
   santrauka: 'A. Šapokos redaguotoje „Lietuvos istorijoje“ Kazimiero Jogailaičio laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -289,6 +295,7 @@ Kazimieras Jogailaitis 1440 m. buvo išrinktas Lietuvos didžiuoju kunigaikšči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-008
   santrauka: 'Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -323,6 +330,7 @@ Kazimieras Jogailaitis 1440 m. buvo išrinktas Lietuvos didžiuoju kunigaikšči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-009
   santrauka: '1454 m. prieš Ordino valdžią sukilę miestai, bajorija ir vyskupai pasidavė Lenkijos karaliui Kazimierui Jogailaičiui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -337,6 +345,7 @@ Kazimieras Jogailaitis 1440 m. buvo išrinktas Lietuvos didžiuoju kunigaikšči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-010
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -351,6 +360,7 @@ Kazimieras Jogailaitis 1440 m. buvo išrinktas Lietuvos didžiuoju kunigaikšči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-011
   santrauka: 'Kazimieras Jogailaitis priėmė po kojų puolusį prašytoją, pažadėjo jam malonę ir leido laisvai toliau žygiuoti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -383,6 +393,7 @@ Kazimieras Jogailaitis 1440 m. buvo išrinktas Lietuvos didžiuoju kunigaikšči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-012
   santrauka: 'Vilniaus šv. Stanislovo katedroje maršalas paskelbė Kazimierą Jogailaitį Lietuvos didžiuoju kunigaikščiu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -410,6 +421,7 @@ Kazimieras Jogailaitis 1440 m. buvo išrinktas Lietuvos didžiuoju kunigaikšči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-013
   santrauka: 'Kazimieras Jogailaitis, užėmęs Smolensko pilį, paliko joje vietininku Andrių Sakavičių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -429,6 +441,7 @@ Kazimieras Jogailaitis 1440 m. buvo išrinktas Lietuvos didžiuoju kunigaikšči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-014
   santrauka: 'Kazimieras Jogailaitis skubiai patraukė į Severską, atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -464,6 +477,7 @@ Kazimieras Jogailaitis 1440 m. buvo išrinktas Lietuvos didžiuoju kunigaikšči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-015
   santrauka: 'Karalius Kazimieras Jogailaitis, mėgdamas ramybę, vengė karo su maskvėnais ir teisinosi paliaubomis su Vasiljevičiumi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -483,6 +497,7 @@ Kazimieras Jogailaitis 1440 m. buvo išrinktas Lietuvos didžiuoju kunigaikšči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-016
   santrauka: 'Kazimieras Jogailaitis įsitraukė į karą dėl Podolės ir nurodė sūnui Jonui Olbrachtui pavaduoti karalių karo stovykloje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

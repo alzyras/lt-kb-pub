@@ -445,7 +445,8 @@ Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-002
+    - t-014
+- c-002
   santrauka: 'Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -483,7 +484,8 @@ Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
-    - t-004- c-003
+    - t-004
+- c-003
   santrauka: 'Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -497,7 +499,8 @@ Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-004
+    - t-020
+- c-004
   santrauka: 'Neradę laivų prie Vyslos, Sventopelko kariai puolė į upę ir paskendo, išskyrus Sventopelką ir kelis kitus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -512,7 +515,8 @@ Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-005
+    - t-011
+- c-005
   santrauka: 'Kronikos įvade Vyslos žemupys nurodomas kaip viena Kryžiuočių ordino ekspansijos į baltų žemes ploto riba.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -532,7 +536,8 @@ Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019- c-006
+    - t-019
+- c-006
   santrauka: 'Magistras ir Sventopelkas susitiko vienoje Vyslos saloje, bet po ilgų derybų išsiskyrė nesudarę taikos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -554,7 +559,8 @@ Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-007
+    - t-013
+- c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Mezolito žmogaus stovyklavietėse Lietuvoje buvo rasta daug
@@ -571,7 +577,8 @@ Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
-    - t-016- c-008
+    - t-016
+- c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vytautas ir Jogaila 1409 m.
@@ -585,7 +592,8 @@ Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
-    - t-023- c-009
+    - t-023
+- c-009
   santrauka: 'Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla, o paskui per jūros įlanką įplaukė į Nemuną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -606,7 +614,8 @@ Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-    - t-005- c-010
+    - t-005
+- c-010
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1231 m. Ordino magistras iš lenkų jam
@@ -623,7 +632,8 @@ Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-    - t-009- c-011
+    - t-009
+- c-011
   santrauka: 'Prūsijos žemės aprašyme Vysla minima kaip viena iš Prūsijos ribų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -640,7 +650,8 @@ Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024- c-012
+    - t-024
+- c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš tokio
@@ -664,7 +675,8 @@ Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
-    - t-007- c-013
+    - t-007
+- c-013
   santrauka: 'Sventopelkas perplukdė du tūkstančius karių per Vyslą ir įsiveržė į Kulmo žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -686,7 +698,8 @@ Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-014
+    - t-012
+- c-014
   santrauka: 'Treniotos vadovaujami žemaičiai žygiuose Prūsuose pasiekdavo net Vyslą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -701,7 +714,8 @@ Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-015
+    - t-008
+- c-015
   santrauka: 'Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -719,7 +733,8 @@ Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-016
+    - t-017
+- c-016
   santrauka: 'Brunonas išplaukė Vysla į jūrą ir priplaukė krantą Priegliaus žiotyse.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -733,7 +748,8 @@ Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-017
+    - t-002
+- c-017
   santrauka: 'Manydamas, kad Jogaila puls kairiajame Vyslos krante, didysis magistras pagrindines Ordino jėgas sutelkė prie Vyslos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -747,7 +763,8 @@ Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-018
+    - t-018
+- c-018
   santrauka: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -784,7 +801,8 @@ Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
-    - t-010- c-019
+    - t-010
+- c-019
   santrauka: 'Jogaila įsakė dvidešimt didelių laivų su grūdais plukdyti Vysla į Prūsijos pasienį, kad maistas vežimais pasiektų Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -803,7 +821,8 @@ Vysla Lietuvos istorijos kontekste siejama su baltų genčių gyvenama erdve, ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026- c-020
+    - t-026
+- c-020
   santrauka: 'Narbutas mitologiniame aiškinime siejo Krivių Krivaičio valdžios ribas su žemėmis nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

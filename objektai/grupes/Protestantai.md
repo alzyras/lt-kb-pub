@@ -88,6 +88,7 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Protestantų mokyklas steigė protestantų didikai, o kai kur ir miestiečiai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

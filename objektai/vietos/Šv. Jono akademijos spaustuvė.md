@@ -67,6 +67,7 @@ Vilniaus kanauninkas Vilčiopolskis tą mūrinį na­ mą su sklypu, savo paskut
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Akademijos kolegija 1631 m. įgijo sklypą ir mūrinį namą, kurį vėliau pavertė spaustuve.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

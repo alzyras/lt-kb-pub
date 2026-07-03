@@ -65,6 +65,7 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -83,6 +84,7 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
   pagrindžia:
     - t-001
     - t-002
+
 - c-003
   santrauka: 'Slavofilai reikalavo pakeisti visą Vilniaus apygardos švietimo sistemą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

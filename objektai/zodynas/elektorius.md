@@ -62,6 +62,7 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Radvila buvo Brandenburgo elektoriaus ministeris ir oficialiai rėmė imperatoriaus bei elektoriaus siūlomą Neuburgo princą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

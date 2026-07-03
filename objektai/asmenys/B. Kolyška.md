@@ -74,6 +74,7 @@ B. Kolyška buvo sukilėlių karininkas, kuriam Z. Sierakauskas pavedė vadovaut
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: 'Z. Sierakauskas B. Kolyškai pavedė vadovauti vienai sukilėlių kariuomenės kolonai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -94,6 +95,7 @@ B. Kolyška buvo sukilėlių karininkas, kuriam Z. Sierakauskas pavedė vadovaut
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -110,6 +112,7 @@ B. Kolyška buvo sukilėlių karininkas, kuriam Z. Sierakauskas pavedė vadovaut
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

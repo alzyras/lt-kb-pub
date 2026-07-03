@@ -198,6 +198,7 @@ Traidenis buvo XIII a. Lietuvos valdovas, šaltiniuose išskiriamas kaip vienas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -212,6 +213,7 @@ Traidenis buvo XIII a. Lietuvos valdovas, šaltiniuose išskiriamas kaip vienas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: '1279 m. Traidenio dukra Gaudimantė ištekėjo už Płocko Boleslovo II ir per krikštą gavo Sofijos vardą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -229,6 +231,7 @@ Traidenis buvo XIII a. Lietuvos valdovas, šaltiniuose išskiriamas kaip vienas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -246,6 +249,7 @@ Traidenis buvo XIII a. Lietuvos valdovas, šaltiniuose išskiriamas kaip vienas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: '1272 m. Traidenis pasiuntė gardiniečius prie Vakarų Bugo ir užėmė Drohičiną dabartinėje Rytų Lenkijoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -263,6 +267,7 @@ Traidenis buvo XIII a. Lietuvos valdovas, šaltiniuose išskiriamas kaip vienas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-006
   santrauka: 'Kunigaikštis Traidenis buvo kunigaikščio Dovydo Dovydavičiaus sūnus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -276,6 +281,7 @@ Traidenis buvo XIII a. Lietuvos valdovas, šaltiniuose išskiriamas kaip vienas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-007
   santrauka: 'Traidenis 1269-1282 m., remdamas žiemgalius, telkė jėgas kovai Prūsijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -290,6 +296,7 @@ Traidenis buvo XIII a. Lietuvos valdovas, šaltiniuose išskiriamas kaip vienas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -304,6 +311,7 @@ Traidenis buvo XIII a. Lietuvos valdovas, šaltiniuose išskiriamas kaip vienas 
   pagrindžia:
     - t-008
     - t-014
+
 - c-009
   santrauka: 'Viename dokumente pasakojama, kad kunigaikštis Traidenis įsiveržė į Dobrynės žemę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -326,6 +334,7 @@ Traidenis buvo XIII a. Lietuvos valdovas, šaltiniuose išskiriamas kaip vienas 
   pagrindžia:
     - t-005
     - t-009
+
 - c-010
   santrauka: '1281 m. Traidenis pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę niokoti Ordino užnugario, siekdamas sulaikyti kryžiuočius nuo Sūduvos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -344,6 +353,7 @@ Traidenis buvo XIII a. Lietuvos valdovas, šaltiniuose išskiriamas kaip vienas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-011
   santrauka: 'Kojelavičiaus pasakojime Traidenis dar Romuntui gyvam esant vadovavo kariuomenei kaip vyriausiasis vadas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -367,6 +377,7 @@ Traidenis buvo XIII a. Lietuvos valdovas, šaltiniuose išskiriamas kaip vienas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-012
   santrauka: 'Traidenis, Giliginui dar esant gyvam, su trisdešimties tūkstančių kariuomene iš Lietuvos ir Prūsijos nusiaubė Mazoviją ir Kulmo žemę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

@@ -116,6 +116,7 @@ Jonas Hozijus buvo Vilniaus pilininkas, minimas XVI a. Vilniaus miesto ir Švč.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Jonui Hozijui pasitraukus iš pareigų, karalius Švč. Trejybės prieglaudos vyriausiojo globėjo titulą perkėlė sau.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -136,6 +137,7 @@ Jonas Hozijus buvo Vilniaus pilininkas, minimas XVI a. Vilniaus miesto ir Švč.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Jonas Hozijus buvo paskirtas tilto prokuratoriumi ir provizoriumi, kad rinktų tilto muitą prieglaudos statybai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -168,6 +170,7 @@ Jonas Hozijus buvo Vilniaus pilininkas, minimas XVI a. Vilniaus miesto ir Švč.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   santrauka: '1547 m. Jono Hozijaus parduotas sklypas ir mūrinis namas su spaustuve atiteko Sebastijonui Vitinskiui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -181,6 +184,7 @@ Jonas Hozijus buvo Vilniaus pilininkas, minimas XVI a. Vilniaus miesto ir Švč.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Jonas Hozijus ir jo įpėdiniai buvo įpareigoti kasmet teikti prieglaudos ir tilto pajamų bei išlaidų ataskaitą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

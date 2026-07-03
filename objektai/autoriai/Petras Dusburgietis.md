@@ -319,7 +319,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-002
+    - t-012
+- c-002
   santrauka: 'Petras Dusburgietis nurodytas kaip teksto „Rūstus Dievo žmonių likimas“ šaltinio autorius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -330,7 +331,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-003
+    - t-016
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kronikos tekstas rodo, kad Petras iš Dusburgo turėjo teologinį išsilavinimą.
@@ -345,7 +347,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
-    - t-007- c-004
+    - t-007
+- c-004
   santrauka: 'Petro Dusburgiečio „Prūsijos žemės kronikos“ ištrauka „Rūstus Dievo žmonių likimas“ pateikta apie Durbės mūšį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -363,7 +366,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-005
+    - t-013
+- c-005
   santrauka: 'Epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -377,7 +381,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-006
+    - t-011
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     PRŪSIJOS ŽEMĖS
@@ -401,7 +406,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos�
   pagrindžia:
     - t-009
     - t-005
-    - t-019- c-007
+    - t-019
+- c-007
   santrauka: 'Petro iš Dusburgo „Prūsijos žemės kronika“ pateikia unikalių žinių apie prūsus, lietuvius ir jų kovą XIII-XIV a. pradžioje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -421,7 +427,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-008
+    - t-001
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     K. Požėlos spaustuvė, Kaunas
@@ -471,7 +478,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos�
   pagrindžia:
     - t-008
     - t-015
-    - t-003- c-009
+    - t-003
+- c-009
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kaip ši knyga sutvarkyta
@@ -489,7 +497,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
-    - t-004- c-010
+    - t-004
+- c-010
   santrauka: 'Petras Dusburgietis ir tarė: „Aukščiausias dievas padarė manyje ženklų ir stebuklų“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -511,7 +520,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-011
+    - t-018
+- c-011
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sekiau jų pėdomis, nenorėdamas būti nublokštas į gilias tamsybes (Lk 19,20) su tuo
@@ -534,7 +544,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
-    - t-002- c-012
+    - t-002
+- c-012
   santrauka: 'Petras Dusburgietis pažymėjo, kad keturi tūkstančiai lietuvių niokojo Kuršo žemę, o po to stojo į mūšį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -558,7 +569,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-013
+    - t-014
+- c-013
   santrauka: 'Narbutas Petrą Dusburgietį pasitelkia liudydamas, kad lietuvės vilkėjo drobinius baltus ir dažytus rūbus, o vasarą juos vilkėjo ir vyrai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -574,7 +586,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-014
+    - t-020
+- c-014
   santrauka: 'Narbutas rašo, kad Dusburgietis pridūrė, jog krikščionims nebuvo leidžiama prieiti prie apeigoms naudotų šventųjų šaltinių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -589,7 +602,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-015
+    - t-021
+- c-015
   santrauka: 'Narbutas aiškino, kad Dusburgietis vyriausiąjį žynį prilygino popiežiui, bet tokį palyginimą laikė menkai tinkamu dalykui pažinti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -607,7 +621,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-016
+    - t-022
+- c-016
   santrauka: 'Narbutas manė, kad Dusburgiečio aplinkos kryžiuočiai, nors ir cenzūruojami, išsaugojo senųjų vyriausiųjų žynių sąrašą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -627,7 +642,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023- c-017
+    - t-023
+- c-017
   santrauka: 'Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną prūsų moterį pranašautoją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -641,7 +657,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024- c-018
+    - t-024
+- c-018
   santrauka: 'Dusburgietis rašė, kad Romovėje gyvenęs krivis buvo gerbiamas kaip popiežius, o jo pasiuntiniai su ženklu sulaukdavo didelės pagarbos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -677,7 +694,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025- c-019
+    - t-025
+- c-019
   santrauka: 'Narbutas svarstė, kad Dusburgietis galėjo nežinoti, kaip apibūdinti krivį, arba jo tekstas apie krivį galėjo būti nepilnas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -697,7 +715,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026- c-020
+    - t-026
+- c-020
   santrauka: 'Narbutas teigė, kad Dusburgietis galėjo gauti tikriausių žinių apie tai, ką norėjo papasakoti apie stabmeldystės laikus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -720,7 +739,8 @@ Petras Dusburgietis buvo Ordino brolis kunigas ir „Prūsijos žemės kronikos�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027- c-021
+    - t-027
+- c-021
   santrauka: 'Narbutas, perpasakodamas Dusburgietį, aiškino krivūlę kaip krivio turėtą lazdą ir įsakomąjį ženklą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

@@ -82,6 +82,7 @@ Ditrichas iš Altenburgo minimas kaip Vokiečių ordino pareigūnas ir magistras
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: '1324 m. gegužės 22 d. Ditrichas iš Altenburgo, Ragainės komtūras, su broliais ir kariais užpuolė Gedimino pilies papilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -99,6 +100,7 @@ Ditrichas iš Altenburgo minimas kaip Vokiečių ordino pareigūnas ir magistras
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -117,6 +119,7 @@ Ditrichas iš Altenburgo minimas kaip Vokiečių ordino pareigūnas ir magistras
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: '1316 m. balandžio 4 d. Ditrichas iš Altenburgo su Fridrichu Kvicu ir kitais vyrais patraukė link Bisenės pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

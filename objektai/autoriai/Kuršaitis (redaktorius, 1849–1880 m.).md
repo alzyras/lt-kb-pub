@@ -71,6 +71,7 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -87,6 +88,7 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Prof. Kuršaitis 1849–1880 m. su valdžios parama leido laikraštį „Keleivis“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

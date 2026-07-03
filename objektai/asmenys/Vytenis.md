@@ -315,7 +315,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-002
+    - t-004
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O Lietuvos metraštis visai neistoriškai Vytenį
@@ -329,7 +330,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-003
+    - t-020
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIII a. pabaigoje — XIV a. pradžioje Vytenis (1295—1316 m.) bandė pasinaudoti
@@ -346,7 +348,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
-    - t-018- c-004
+    - t-018
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
@@ -361,7 +364,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-005
+    - t-005
+- c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvos
@@ -384,7 +388,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
     - t-003
     - t-009
     - t-006
-    - t-010- c-006
+    - t-010
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     324 (317). Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11
@@ -399,7 +404,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
-    - t-001- c-007
+    - t-001
+- c-007
   santrauka: 'Vytenis su didele lietuvių kariuomene įsibrovė į Livoniją, ketindamas pradėti karą su Ordino broliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -416,7 +422,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-008
+    - t-002
+- c-008
   santrauka: 'Vytenis su didele kariuomene Pukuvero buvo pasiųstas į Lenkijos Bresto žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -453,7 +460,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024- c-009
+    - t-024
+- c-009
   santrauka: 'Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -475,7 +483,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019- c-010
+    - t-019
+- c-010
   santrauka: 'Karamzinas abejojo prielaida, kad Vytenis, lietuvis pagonis, galėjo būti rusino Vido Dovydavičiaus vaikaitis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -502,7 +511,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-011
+    - t-015
+- c-011
   santrauka: 'Vytenis buvo Gedimino pirmtakas Lietuvos ir Rusios valdovo soste.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -534,7 +544,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-012
+    - t-021
+- c-012
   santrauka: 'Vytenio brolis Gediminas davė vardą Gediminaičių dinastijai ir valdė 1316–1341 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -549,7 +560,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-013
+    - t-022
+- c-013
   santrauka: 'Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -574,7 +586,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-014
+    - t-013
+- c-014
   santrauka: 'Vytenis viešpatavo Lietuvoje ir mirė apie 1315 metus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -593,7 +606,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-015
+    - t-017
+- c-015
   santrauka: 'Vytenis buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -610,7 +624,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-016
+    - t-011
+- c-016
   santrauka: 'Vytenis su aštuoniais šimtais vyrų įsibrovė į Lenkijos žemę ir per Sekmines užpuolė Lenčicos dvasininkus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -632,7 +647,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-017
+    - t-008
+- c-017
   santrauka: 'Vytenis, staigiai iškilęs į valdžią, įtariai vertino savo tolesnį likimą ir baiminosi maištų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -660,7 +676,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026- c-018
+    - t-026
+- c-018
   santrauka: 'Lietuvai atsigavus po smūgio, Vytenis vieną kariuomenę nukreipė į Dobrynę, o kitą prieš kryžiuočius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -679,7 +696,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027- c-019
+    - t-027
+- c-019
   santrauka: 'Gavęs žinią, Vytenis su didelėmis jėgomis nuskubėjo persekioti kryžiuočių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -697,7 +715,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-028- c-020
+    - t-028
+- c-020
   santrauka: 'Vytenis pats atvedė pagrindines jėgas prie Karksio, po apsupties įsiveržė į įtvirtinimus ir paėmė pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -733,7 +752,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029- c-021
+    - t-029
+- c-021
   santrauka: 'Vytenis su tūkstančiu penkiais šimtais raitelių patraukė stabdyti Pilypo fon Bolando įsiveržimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -763,7 +783,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-030- c-022
+    - t-030
+- c-022
   santrauka: 'Vytenis, sutelkęs karius prie Gardino, per Mazovijos miškus įsiveržė į Didžiosios Lenkijos žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -793,7 +814,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-031- c-023
+    - t-031
+- c-023
   santrauka: 'Sunkiai sužeistas į galvą, Vytenis paliko stovyklą ir kariuomenę ir su dviem kariais paspruko nuo priešo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -809,7 +831,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-032- c-024
+    - t-032
+- c-024
   santrauka: 'Vytenis nedrįso stoti į atvirą kovą ir, pasukęs į Prūsiją, iš keršto nusiaubė kryžiuočių žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -826,7 +849,8 @@ Vytenis – XIII–XIV a. Lietuvos valdovas, šaltiniuose siejamas su kovomis pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-033- c-025
+    - t-033
+- c-025
   santrauka: 'Narbuto pasakojime Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir vėliau su tėvu valdė Polocką.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

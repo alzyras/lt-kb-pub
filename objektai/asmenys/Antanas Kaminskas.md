@@ -55,6 +55,7 @@ Jiems vadovavo kapitonas Antanas Kaminskas.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kapitonas Antanas Kaminskas vadovavo apie 80 karių iš 8-ojo regimento redute tarp miesto ir priemiesčio.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

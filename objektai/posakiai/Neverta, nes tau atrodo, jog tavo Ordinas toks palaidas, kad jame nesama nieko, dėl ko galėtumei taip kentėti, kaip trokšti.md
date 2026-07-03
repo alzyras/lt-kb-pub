@@ -51,6 +51,7 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   santrauka: 'Regėjime šventoji mergelė Marija šiais žodžiais atsakė broliui, prašiusiam leisti pasilikti Teutonų ordino brolių bendrijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

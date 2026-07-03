@@ -163,6 +163,7 @@ Kazimieras Didysis buvo Lenkijos sosto įpėdinis, 1325 m. sutuoktas su Gedimino
   pagrindžia:
     - t-005
     - t-006
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -186,6 +187,7 @@ Kazimieras Didysis buvo Lenkijos sosto įpėdinis, 1325 m. sutuoktas su Gedimino
   pagrindžia:
     - t-012
     - t-001
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -201,6 +203,7 @@ Kazimieras Didysis buvo Lenkijos sosto įpėdinis, 1325 m. sutuoktas su Gedimino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -217,6 +220,7 @@ Kazimieras Didysis buvo Lenkijos sosto įpėdinis, 1325 m. sutuoktas su Gedimino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-005
   santrauka: '1325 m. Gedimino duktė Aldona (Ona) buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero, būsimo Kazimiero III Didžiojo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -231,6 +235,7 @@ Kazimieras Didysis buvo Lenkijos sosto įpėdinis, 1325 m. sutuoktas su Gedimino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -249,6 +254,7 @@ Kazimieras Didysis buvo Lenkijos sosto įpėdinis, 1325 m. sutuoktas su Gedimino
     - t-006
     - t-013
     - t-011
+
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -269,6 +275,7 @@ Kazimieras Didysis buvo Lenkijos sosto įpėdinis, 1325 m. sutuoktas su Gedimino
   pagrindžia:
     - t-003
     - t-008
+
 - c-008
   santrauka: 'Kazimieras III Dobrynės žemę buvo atidavęs Vladislovui iš Opolės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -283,6 +290,7 @@ Kazimieras Didysis buvo Lenkijos sosto įpėdinis, 1325 m. sutuoktas su Gedimino
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -305,6 +313,7 @@ Kazimieras Didysis buvo Lenkijos sosto įpėdinis, 1325 m. sutuoktas su Gedimino
   pagrindžia:
     - t-010
     - t-004
+
 - c-010
   santrauka: 'Lenkai tvirtino, kad Kazimieras Didysis užėmė Podolę ginklo ir paveldėjimo teisėmis ir pavertė ją Lenkijos sritimi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

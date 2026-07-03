@@ -80,6 +80,7 @@ Jonas XXIII Lietuvos istorijos kontekste minimas kaip Lietuvai ir Lenkijai palan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: 'Jonas XXIII atėmė Vokiečių ordinui teises ir privilegijas, kuriomis jis teisino savo užpuolimus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -96,6 +97,7 @@ Jonas XXIII Lietuvos istorijos kontekste minimas kaip Lietuvai ir Lenkijai palan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -115,6 +117,7 @@ Jonas XXIII Lietuvos istorijos kontekste minimas kaip Lietuvai ir Lenkijai palan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -130,6 +133,7 @@ Jonas XXIII Lietuvos istorijos kontekste minimas kaip Lietuvai ir Lenkijai palan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: 'Jonas XXIII panaikino visas Ordino privilegijas ir teises kariauti Lietuvą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -146,6 +150,7 @@ Jonas XXIII Lietuvos istorijos kontekste minimas kaip Lietuvai ir Lenkijai palan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'Jonas XXIII atėmė Vokiečių ordinui teises bei privilegijas ir pasiūlė Vytautui bylą perduoti Konstancijos susirinkimui.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

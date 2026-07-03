@@ -302,6 +302,7 @@ Aleksandras Balinskis buvo iš Krokuvos atvykęs alchemikas ir gydytojas, kviest
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Aleksandras Balinskis buvo Krokuvos bajoraitis nuo Olkušo, garsėjęs alchemijos išmanymu ir sėkmingu gydymu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -327,6 +328,7 @@ Aleksandras Balinskis buvo iš Krokuvos atvykęs alchemikas ir gydytojas, kviest
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Aleksandras Balinskis garsėjo alchemijos išmanymu ir sėkmingu gydymu, todėl atvyko iš Krokuvos gydyti sergančio Aleksandro.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -360,6 +362,7 @@ Aleksandras Balinskis buvo iš Krokuvos atvykęs alchemikas ir gydytojas, kviest
   pagrindžia:
     - t-006
     - t-004
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |

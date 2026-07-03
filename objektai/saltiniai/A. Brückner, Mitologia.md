@@ -53,7 +53,8 @@ Bibliografinėje nuorodoje `Mitologia` pateikiama kaip A. Brücknerio straipsnis
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-002
+    - t-004
+- c-002
   santrauka: 'A. Brücknerio „Mitologia“ nurodoma kaip 1910 m. Varšuvoje leistos „Wielka encyklopedia powszechna ilustrowana“ straipsnis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

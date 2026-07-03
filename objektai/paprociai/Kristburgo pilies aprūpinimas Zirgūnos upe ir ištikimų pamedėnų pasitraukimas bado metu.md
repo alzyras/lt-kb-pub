@@ -74,6 +74,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -95,6 +96,7 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-003
+
 - c-003
   santrauka: 'Per badą Kristburgo broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti kitur, kad šie galėtų prasimaitinti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

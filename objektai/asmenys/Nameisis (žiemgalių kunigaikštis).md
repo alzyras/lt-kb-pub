@@ -60,6 +60,7 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbiavimas, jų kunigaikštis Nameisis - Traidenio karvedys - vadovavo valdovo kariuomenei net tolimame Ordino vakarų fronte.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

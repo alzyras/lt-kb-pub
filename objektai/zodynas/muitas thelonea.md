@@ -77,6 +77,7 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Steponas Batoras laikinai atleido Vilniaus pirklius nuo naujai nustatyto muito mokesčio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -112,6 +113,7 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Vilniaus miestiečiams ir pirkliams buvo nurodyta mokėti muito, čopės ir šoso rinkliavas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

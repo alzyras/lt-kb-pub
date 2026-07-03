@@ -53,7 +53,8 @@ Narbutas rašė, kad prie Upinės upelio dar buvo prisimenama moterų brolija, a
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas pasakojo, kad iki uždraudimo Upinės moterų brolija per Rasas rinkdavosi prie upelio vadovaujama nepažįstamos senės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

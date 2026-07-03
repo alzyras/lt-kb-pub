@@ -67,6 +67,7 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'G. H. F. Neselmano veikalas „Thesaurus linguae prussicae“ išleistas Berlyne 1873 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -78,6 +79,7 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'G. H. F. Neselmano veikalas „Die Sprache der alten Preussen an ihren Überresten“ išleistas Berlyne 1845 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

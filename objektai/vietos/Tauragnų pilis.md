@@ -57,6 +57,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vilniaus katedra iškilmingu aktu buvo aprūpinta kunigaikštiška Tauragnų pilimi su visu pavietu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

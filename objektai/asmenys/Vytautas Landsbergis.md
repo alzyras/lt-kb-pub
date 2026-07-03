@@ -112,6 +112,7 @@ Vytautas Landsbergis 1991 m. sausio 13 d. buvo Aukščiausiosios Tarybos pirmini
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -131,6 +132,7 @@ Vytautas Landsbergis 1991 m. sausio 13 d. buvo Aukščiausiosios Tarybos pirmini
   pagrindžia:
     - t-005
     - t-007
+
 - c-003
   santrauka: 'Sausio 12 d. Vytautas Landsbergis vadovavo Aukščiausiajai Tarybai - Atkuriamajam Seimui, priėmusiam nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -150,6 +152,7 @@ Vytautas Landsbergis 1991 m. sausio 13 d. buvo Aukščiausiosios Tarybos pirmini
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: '1992 m. Vilniuje Seimo pirmininkas Vytautas Landsbergis prie Aušros vartų buvo su Prancūzijos prezidentu Fransua Miteranu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -167,6 +170,7 @@ Vytautas Landsbergis 1991 m. sausio 13 d. buvo Aukščiausiosios Tarybos pirmini
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-005
   santrauka: 'Dauguma Lietuvos gyventojų dėl žemės reformos nesėkmių kaltino tuometinį Lietuvos Aukščiausiosios Tarybos pirmininką Vytautą Landsbergį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -188,6 +192,7 @@ Vytautas Landsbergis 1991 m. sausio 13 d. buvo Aukščiausiosios Tarybos pirmini
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-006
   santrauka: '1996 m. Seimo rinkimuose sėkmė lydėjo Vytauto Landsbergio vadovaujamus konservatorius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -205,6 +210,7 @@ Vytautas Landsbergis 1991 m. sausio 13 d. buvo Aukščiausiosios Tarybos pirmini
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

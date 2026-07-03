@@ -84,6 +84,7 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
   pagrindžia:
     - t-002
     - t-004
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -107,6 +108,7 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -124,6 +126,7 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

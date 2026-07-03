@@ -46,6 +46,7 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Estijoje veikė Lietuvių Draugija Estijoje, vienijusi vietos lietuvių bendruomenę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

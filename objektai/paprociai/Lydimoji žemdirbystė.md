@@ -102,6 +102,7 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-004
+
 - c-002
   santrauka: 'Po 1557 m. valakų reformos Lietuvoje lydimoji žemdirbystė ėmė nykti, nors XVI–XVII a. aktuose dar minėtas žodis „lydimas“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -123,6 +124,7 @@ Nenurodyta
   pagrindžia:
     - t-005
     - t-001
+
 - c-003
   santrauka: 'Lydimoji žemdirbystė buvo galima, kol nebuvo tvarkomas miškų ūkis ir stambieji žemvaldžiai nevaržė naudojimosi mišku.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

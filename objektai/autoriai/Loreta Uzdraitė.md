@@ -157,6 +157,7 @@ Loreta Uzdraitė žinių bazėje pristatoma kaip istorinių kartoschemų ir teks
   pagrindžia:
     - t-012
     - t-007
+
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -172,6 +173,7 @@ Loreta Uzdraitė žinių bazėje pristatoma kaip istorinių kartoschemų ir teks
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -186,6 +188,7 @@ Loreta Uzdraitė žinių bazėje pristatoma kaip istorinių kartoschemų ir teks
   pagrindžia:
     - t-001
     - t-008
+
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -200,6 +203,7 @@ Loreta Uzdraitė žinių bazėje pristatoma kaip istorinių kartoschemų ir teks
   pagrindžia:
     - t-003
     - t-013
+
 - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -211,6 +215,7 @@ Loreta Uzdraitė žinių bazėje pristatoma kaip istorinių kartoschemų ir teks
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -222,6 +227,7 @@ Loreta Uzdraitė žinių bazėje pristatoma kaip istorinių kartoschemų ir teks
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -239,6 +245,7 @@ Loreta Uzdraitė žinių bazėje pristatoma kaip istorinių kartoschemų ir teks
     - t-010
     - t-006
     - t-002
+
 - c-008
   santrauka: 'Loreta Uzdraitė, Karolis Zikaras ir Dalius Žygelis nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

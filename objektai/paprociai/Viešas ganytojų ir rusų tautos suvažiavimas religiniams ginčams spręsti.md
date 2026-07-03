@@ -65,6 +65,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Viešas ganytojų suvažiavimas buvo laikomas priemone užkirsti kelią vyskupų vykdytoms religinėms naujovėms.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

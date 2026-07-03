@@ -74,6 +74,7 @@ Petras Atsiskyrėlis Dusburgiečio pasakojime vaizduojamas kaip vargšas ir diev
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: 'Petras Atsiskyrėlis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -97,6 +98,7 @@ Petras Atsiskyrėlis Dusburgiečio pasakojime vaizduojamas kaip vargšas ir diev
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -120,6 +122,7 @@ Petras Atsiskyrėlis Dusburgiečio pasakojime vaizduojamas kaip vargšas ir diev
   pagrindžia:
     - t-003
     - t-002
+
 - c-004
   santrauka: 'Petras Atsiskyrėlis buvo vargšas ir dievotas žmogus iš Prancūzijos karalystės, gyvenęs atsiskyręs Amjeno vyskupystėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

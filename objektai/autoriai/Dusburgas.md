@@ -344,6 +344,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -360,6 +361,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
   pagrindžia:
     - t-002
     - t-015
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -378,6 +380,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
   pagrindžia:
     - t-013
     - t-012
+
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -395,6 +398,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -411,6 +415,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -427,6 +432,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -443,6 +449,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -463,6 +470,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -489,6 +497,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
   pagrindžia:
     - t-016
     - t-004
+
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -519,6 +528,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
   pagrindžia:
     - t-011
     - t-003
+
 - c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -547,6 +557,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -568,6 +579,7 @@ Petras iš Dusburgo buvo Kryžiuočių ordino brolis kunigas ir kronikininkas, 1
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-013
   santrauka: 'Petras iš Dusburgo buvo Livonijos riterių kunigas ir istorikas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

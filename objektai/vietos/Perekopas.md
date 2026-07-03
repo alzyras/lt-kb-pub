@@ -116,6 +116,7 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   pagrindžia:
     - t-003
     - t-001
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -131,6 +132,7 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Krime susikūrė Perekopo chanatas, kurio sostinės pilis buvo vadinama Perekopu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -148,6 +150,7 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Perekopo vardas siejamas su senovėje gynybos tikslais grioviu perkasta sąsmauka, jungiančia Krymą su žemynu.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

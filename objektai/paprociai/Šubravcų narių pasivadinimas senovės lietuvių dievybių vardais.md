@@ -84,7 +84,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-    - t-002- c-002
+    - t-002
+- c-002
   santrauka: 'Šubravcų draugijos nariai rinkosi senovės lietuvių mitologijos pseudonimus ir privalėjo rinkti medžiagą apie pasirinktus mitinius personažus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

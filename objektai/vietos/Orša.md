@@ -58,6 +58,7 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
   pagrindžia:
     - t-003
     - t-001
+
 - c-002
   santrauka: 'Oršoje įsteigta jėzuitų kolegija buvo karaliaus Zigmanto fundacija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

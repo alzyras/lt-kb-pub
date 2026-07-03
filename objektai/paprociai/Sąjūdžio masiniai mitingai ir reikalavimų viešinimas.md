@@ -79,6 +79,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 ## Šaltiniai ir įrodymai
 
 Nenurodyta

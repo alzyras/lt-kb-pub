@@ -50,6 +50,7 @@ Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'XV–XVI a. Lietuvos Metrikos rusėnų kalboje vartotos lietuviškos ūkio ir gerovės sąvokos, tarp jų „litovka“, „jevje“, „sviren“ ir „skilond“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

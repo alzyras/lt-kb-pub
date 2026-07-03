@@ -146,6 +146,7 @@ Mikalojus Radvila Juodasis buvo Vilniaus vaivada, Lietuvos didysis kancleris ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -183,6 +184,7 @@ Mikalojus Radvila Juodasis buvo Vilniaus vaivada, Lietuvos didysis kancleris ir 
   pagrindžia:
     - t-012
     - t-006
+
 - c-003
   santrauka: 'Vilniaus vaivada Mikalojus Radvila Juodasis stipriai palaikė Vilniuje įsišaknijusį Martyno Liuterio ir Cvinglio mokslą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -229,6 +231,7 @@ Mikalojus Radvila Juodasis buvo Vilniaus vaivada, Lietuvos didysis kancleris ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Žygimantas rašte pabrėžė Mikalojaus Radvilos Juodojo ištikimą tarnystę karo ir taikos metu bei nuopelnus Respublikai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -278,6 +281,7 @@ Mikalojus Radvila Juodasis buvo Vilniaus vaivada, Lietuvos didysis kancleris ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   santrauka: 'Mikalojus Radvila Juodasis iš pradžių galingai palaikė disidentų pusėje veikusių priešininkų atremti turėjusį Volaną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -301,6 +305,7 @@ Mikalojus Radvila Juodasis buvo Vilniaus vaivada, Lietuvos didysis kancleris ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-006
   santrauka: 'Mikalojus Radvila Juodasis nuo 1541 metų iš kapitulos nuomojo Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -332,6 +337,7 @@ Mikalojus Radvila Juodasis buvo Vilniaus vaivada, Lietuvos didysis kancleris ir 
   pagrindžia:
     - t-004
     - t-001
+
 - c-007
   santrauka: 'Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -362,6 +368,7 @@ Mikalojus Radvila Juodasis buvo Vilniaus vaivada, Lietuvos didysis kancleris ir 
     - t-009
     - t-002
     - t-008
+
 - c-008
   santrauka: 'Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

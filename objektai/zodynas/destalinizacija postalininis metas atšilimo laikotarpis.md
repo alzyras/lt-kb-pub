@@ -62,6 +62,7 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nuolaidžiau vertintas tautinis kultūrinis palikimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -84,6 +85,7 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Postalininiu metu atsisakyta masinio fizinio teroro, bet toliau vykdytas priverstinis ideologinis gyventojų apdorojimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

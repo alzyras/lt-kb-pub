@@ -747,6 +747,7 @@ Bajorai buvo vienintelis privilegijuotas Lietuvos visuomenės luomas, turėjęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -761,6 +762,7 @@ Bajorai buvo vienintelis privilegijuotas Lietuvos visuomenės luomas, turėjęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -779,6 +781,7 @@ Bajorai buvo vienintelis privilegijuotas Lietuvos visuomenės luomas, turėjęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-004
   santrauka: 'Ketverių metų seimas pirmą kartą bandė miestiečių luomui suteikti beveik lygias teises su bajorais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -796,6 +799,7 @@ Bajorai buvo vienintelis privilegijuotas Lietuvos visuomenės luomas, turėjęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -819,6 +823,7 @@ Bajorai buvo vienintelis privilegijuotas Lietuvos visuomenės luomas, turėjęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -837,6 +842,7 @@ Bajorai buvo vienintelis privilegijuotas Lietuvos visuomenės luomas, turėjęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -853,6 +859,7 @@ Bajorai buvo vienintelis privilegijuotas Lietuvos visuomenės luomas, turėjęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -873,6 +880,7 @@ Bajorai buvo vienintelis privilegijuotas Lietuvos visuomenės luomas, turėjęs 
   pagrindžia:
     - t-002
     - t-007
+
 - c-009
   santrauka: 'Bajorai prarado savo valstybę, bet gavo rusų bajorų teises ir tapo privilegijuotais imperijos valdiniais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -894,6 +902,7 @@ Bajorai buvo vienintelis privilegijuotas Lietuvos visuomenės luomas, turėjęs 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-010
   santrauka: 'Lietuvoje politinėmis teisėmis naudojosi tik bajorų luomas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

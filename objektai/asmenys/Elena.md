@@ -296,6 +296,7 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
   pagrindžia:
     - t-002
     - t-014
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -313,6 +314,7 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -332,6 +334,7 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -351,6 +354,7 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   santrauka: 'Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -380,6 +384,7 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -420,6 +425,7 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-007
   santrauka: 'Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė didįjį kunigaikštį Aleksandrą su Elena.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -438,6 +444,7 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-008
   santrauka: 'Karalienė Elena mirė Vilniuje 1513 m. ir buvo palaidota graikų apeigų koplyčioje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -461,6 +468,7 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-009
   santrauka: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -480,6 +488,7 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-010
   santrauka: 'Aleksandras nutarė vesti Ivano Vasiljevičiaus dukterį Eleną, siekdamas užgesinti kilusius tarpusavio vaidus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -505,6 +514,7 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
   pagrindžia:
     - t-009
     - t-001
+
 - c-011
   santrauka: 'Aleksandras užrašė Elenai ir jos įpėdiniams Smolnėnus, Horodiščę, Losičius ir kitas valdas su jų priklausiniais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -554,6 +564,7 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-012
   santrauka: 'Aleksandras dovanojo Elenai ir jos palikuonims Kniazičius, Teteriną, Popova Huros pilį ir kitas valdas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -577,6 +588,7 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-013
   santrauka: 'Aleksandras dovanojo Elenai Mogiliavo pilį prie Dniepro ir jai priklausančias valdas tik Elenos gyvenimo laikui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -621,6 +633,7 @@ Pateikti šaltiniai Eleną sieja su Ivano Vasiljevičiaus dukterimi ir Aleksandr
   pagrindžia:
     - t-010
     - t-007
+
 - c-014
   santrauka: 'Karalienė Elena, didikams išvykus į seimą, pamėgino pabėgti į Maskvos kunigaikštystę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

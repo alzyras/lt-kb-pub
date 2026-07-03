@@ -54,6 +54,7 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
   pagrindžia:
     - t-001
     - t-003
+
 - c-002
   santrauka: 'Mėrūniškis buvo to paties vardo valsčiaus įtvirtintas centras apie 29 km į šiaurės vakarus nuo Suvalkų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

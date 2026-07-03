@@ -77,6 +77,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Bartų puolimas prieš Senenzės pilį įvyko apie 1272 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -57,6 +57,7 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -73,6 +74,7 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Muravjovas įsakė komisijoms už servitutus suteikti valstiečiams kitokių patogumų arba palikti servitutų teises galioti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

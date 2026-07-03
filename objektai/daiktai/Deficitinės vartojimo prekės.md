@@ -77,6 +77,7 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
+
 ## Šaltiniai ir įrodymai
 
 Nenurodyta

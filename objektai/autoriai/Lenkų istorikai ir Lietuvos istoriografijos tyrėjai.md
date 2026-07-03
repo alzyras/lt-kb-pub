@@ -179,6 +179,7 @@ Apžvalga pristato lenkų istorikus ir Lietuvos istoriografijos tyrėjus, kurių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -193,6 +194,7 @@ Apžvalga pristato lenkų istorikus ir Lietuvos istoriografijos tyrėjus, kurių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -210,6 +212,7 @@ Apžvalga pristato lenkų istorikus ir Lietuvos istoriografijos tyrėjus, kurių
   pagrindžia:
     - t-017
     - t-015
+
 - c-004
   santrauka: 'O. Balzeris tyrinėjo Lenkijos ir Lietuvos unijos aktus ir leido svarbius teisės istorijos šaltinius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -227,6 +230,7 @@ Apžvalga pristato lenkų istorikus ir Lietuvos istoriografijos tyrėjus, kurių
   pagrindžia:
     - t-006
     - t-007
+
 - c-005
   santrauka: 'W. Ziesemeris buvo pokarinių laikų vokiečių istorikas, pažinojęs Karaliaučiaus ir Dancigo archyvus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -246,6 +250,7 @@ Apžvalga pristato lenkų istorikus ir Lietuvos istoriografijos tyrėjus, kurių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -263,6 +268,7 @@ Apžvalga pristato lenkų istorikus ir Lietuvos istoriografijos tyrėjus, kurių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-007
   santrauka: 'K. Chodynickis ir J. Jakubowskis daug dėmesio skyrė Gediminaičių laikų klausimams ir Lietuvos seniesiems šaltiniams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -281,6 +287,7 @@ Apžvalga pristato lenkų istorikus ir Lietuvos istoriografijos tyrėjus, kurių
   pagrindžia:
     - t-020
     - t-019
+
 - c-008
   santrauka: 'M. Zeilleris 1647 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją, kuri anuomet buvo labai vertinama.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -301,6 +308,7 @@ Apžvalga pristato lenkų istorikus ir Lietuvos istoriografijos tyrėjus, kurių
   pagrindžia:
     - t-018
     - t-005
+
 - c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -319,6 +327,7 @@ Apžvalga pristato lenkų istorikus ir Lietuvos istoriografijos tyrėjus, kurių
   pagrindžia:
     - t-013
     - t-011
+
 - c-010
   santrauka: 'Lenkų bibliografija Lietuvos istorijos klausimais buvo tokia gausi, kad aptarti pasirinkti svarbiausi Gediminaičių epochos tyrinėtojai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -338,6 +347,7 @@ Apžvalga pristato lenkų istorikus ir Lietuvos istoriografijos tyrėjus, kurių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-011
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -362,6 +372,7 @@ Apžvalga pristato lenkų istorikus ir Lietuvos istoriografijos tyrėjus, kurių
   pagrindžia:
     - t-014
     - t-010
+
 - c-012
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -378,6 +389,7 @@ Apžvalga pristato lenkų istorikus ir Lietuvos istoriografijos tyrėjus, kurių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-013
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |

@@ -53,6 +53,7 @@ Dusburgietis teigia, kad mažvydas (1547) burtininkę vadina šventąja (Mažvyd
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'M. Mažvydas 1547 m. burtininkę vadino šventąja.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

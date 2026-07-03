@@ -69,6 +69,7 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
     - t-001
     - t-003
     - t-002
+
 - c-002
   santrauka: '1971 m. leidimo įvade Petras Goštautas siejamas su pasakojimais apie Podolės Kameneco ir Vilniaus vaivadą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

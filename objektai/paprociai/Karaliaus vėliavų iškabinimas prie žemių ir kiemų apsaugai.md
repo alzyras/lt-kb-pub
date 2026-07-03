@@ -67,6 +67,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Karalius įteikė savo vėliavas, kad jos būtų iškabintos prie žemių ir kiemų kaip apsauga nuo skriaudos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

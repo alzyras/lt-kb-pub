@@ -117,6 +117,7 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1323 m. Olivos ir Pelplino abatai popiežiui pranešė apie Gedimino laiškus dėl krikšto.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

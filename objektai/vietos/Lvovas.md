@@ -178,6 +178,7 @@ Lvovas žinių bazėje minimas kaip svarbi politinių ir karinių įvykių vieta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Lvovo arkivyskupas valdė Vladimiro vyskupiją ir galėjo tikėtis gauti Žemaičius dėl savo vaidmens steigiant Žemaičių vyskupiją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -195,6 +196,7 @@ Lvovas žinių bazėje minimas kaip svarbi politinių ir karinių įvykių vieta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -215,6 +217,7 @@ Lvovas žinių bazėje minimas kaip svarbi politinių ir karinių įvykių vieta
   pagrindžia:
     - t-002
     - t-004
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -231,6 +234,7 @@ Lvovas žinių bazėje minimas kaip svarbi politinių ir karinių įvykių vieta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   santrauka: 'Lvovo arkivyskupui ir Vilniaus vyskupui laišku buvo patikėta įsteigti Žemaičių vyskupystę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -262,6 +266,7 @@ Lvovas žinių bazėje minimas kaip svarbi politinių ir karinių įvykių vieta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-006
   santrauka: 'Karalius, nutraukęs apsiaustį ir paleidęs kariuomenę, nukeliavo į Lvovą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -279,6 +284,7 @@ Lvovas žinių bazėje minimas kaip svarbi politinių ir karinių įvykių vieta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-007
   santrauka: 'Moldavijos vaivada Steponas ir turkų sultono paša Malkočas kariavo Lenkijos žemėje nuo Kameneco iki Lvovo, Tarnovo ir Krokuvos apylinkių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -297,6 +303,7 @@ Lvovas žinių bazėje minimas kaip svarbi politinių ir karinių įvykių vieta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-008
   santrauka: 'Kazimieras 1485 m. liepos 9 d. atvyko į Lvovą, kur buvo sušaukta Rusų vaivadijos ir Podolės bajorų kariuomenė.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -312,6 +319,7 @@ Lvovas žinių bazėje minimas kaip svarbi politinių ir karinių įvykių vieta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-009
   santrauka: 'Kazimieras 1485 m. spalio pradžioje grįžo į Lvovą ir ten buvo tarp spalio 11 ir 25 dienos.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

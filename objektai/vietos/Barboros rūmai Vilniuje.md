@@ -118,6 +118,7 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
   pagrindžia:
     - t-002
     - t-006
+
 - c-002
   santrauka: 'Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -141,6 +142,7 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
   pagrindžia:
     - t-005
     - t-001
+
 - c-003
   santrauka: 'Barboros rūmų griuvėsiai stovėjo Vilniuje tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

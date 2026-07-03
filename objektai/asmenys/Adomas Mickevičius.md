@@ -107,6 +107,7 @@ Adomas Mickevičius buvo žymus XIX a. lenkų poetas, vadinamas istorinės Lietu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -139,6 +140,7 @@ Adomas Mickevičius buvo žymus XIX a. lenkų poetas, vadinamas istorinės Lietu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -155,6 +157,7 @@ Adomas Mickevičius buvo žymus XIX a. lenkų poetas, vadinamas istorinės Lietu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -169,6 +172,7 @@ Adomas Mickevičius buvo žymus XIX a. lenkų poetas, vadinamas istorinės Lietu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -188,6 +192,7 @@ Adomas Mickevičius buvo žymus XIX a. lenkų poetas, vadinamas istorinės Lietu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-006
   santrauka: 'Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -213,6 +218,7 @@ Adomas Mickevičius buvo žymus XIX a. lenkų poetas, vadinamas istorinės Lietu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-007
   santrauka: 'Mickevičius, rašęs ir apie Tėvynę LietuAdomas Mickevičius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

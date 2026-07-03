@@ -70,6 +70,7 @@ Polonka, dabar Polonečka, yra kaimas prie Dviejos upės. Dvieja įvardijama kai
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Polonka, dabar vadinama Polonečka, yra kaimas apie 10 km į pietryčius nuo Cirino, prie Dviejos upės.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

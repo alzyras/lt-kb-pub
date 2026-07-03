@@ -59,6 +59,7 @@ Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1939 m. spalio 10 d., spaudžiant J. Stalinui ir V. Molotovui, buvo pasirašytos Vilniaus perdavimo bei SSRS ir Lietuvos savitarpio pagalbos sutartys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

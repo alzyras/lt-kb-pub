@@ -41,6 +41,7 @@ Sąjungininkai sustojo ties Laubner ežeru. Sąjungininku kariuomenė sustojo ar
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Sąjungininkai sustojo ties Laubner ežeru.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

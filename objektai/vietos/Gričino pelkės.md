@@ -45,6 +45,7 @@ Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

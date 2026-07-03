@@ -90,6 +90,7 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-004
+
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

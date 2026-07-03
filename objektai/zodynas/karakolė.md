@@ -92,6 +92,7 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
   pagrindžia:
     - t-004
     - t-003
+
 - c-002
   santrauka: 'Priekinė šaulių eilė, iššovusi salvę, pasisuka dešinėn ir pro rikiuotės šoną žygiuoja į savo rikiuotės galą ir ten užtaiso ginklus, tai vadinamoji karakolė arba „sraigė“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

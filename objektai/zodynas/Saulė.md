@@ -57,7 +57,8 @@ Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas Saulės rūmus vaizduoja rytuose, šventoje ir palaimintoje lietuvių protėvių tėvynėje, vadintoje Aušinimą zemme.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -74,7 +75,8 @@ Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Narbutas Saulės aptemimą aiškina kaip drakonų ir kerėtojų puolimą prieš dieną skriejančią Saulę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

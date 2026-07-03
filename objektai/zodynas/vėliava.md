@@ -162,6 +162,7 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   pagrindžia:
     - t-002
     - t-006
+
 - c-002
   santrauka: 'Riteris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -180,6 +181,7 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   pagrindžia:
     - t-007
     - t-005
+
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -195,6 +197,7 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   pagrindžia:
     - t-003
     - t-004
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |

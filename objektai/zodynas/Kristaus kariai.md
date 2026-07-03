@@ -56,6 +56,7 @@ Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Kristaus kariais vadinti Dobrynės broliai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

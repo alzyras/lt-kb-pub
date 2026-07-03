@@ -55,6 +55,7 @@ Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Saina, dar vadinama Sajna, yra kairysis Gubros intakas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

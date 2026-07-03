@@ -51,6 +51,7 @@ Vartojamos formos: `žiuponais`.
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Prašaleičiai lietuvių sau ponus vadino žiuponais, o tokie valdžionai IX amžiuje minimi Žemaičių krašte.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean

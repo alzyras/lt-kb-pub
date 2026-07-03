@@ -114,7 +114,8 @@ Alepas Narbuto pasakojime vaizduojamas kaip paskutinis Prūsijos Krivių Krivait
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-    - t-008- c-002
+    - t-008
+- c-002
   santrauka: 'Narbutas pasakoja, kad 1265 m. Alepas ragino žymiausius žmones išsižadėti stabmeldystės, priimti krikštą ir užsitikrinti politinę ramybę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -133,7 +134,8 @@ Alepas Narbuto pasakojime vaizduojamas kaip paskutinis Prūsijos Krivių Krivait
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-003
+    - t-009
+- c-003
   santrauka: 'Narbutas vaizduoja Alepą kaip pasprukusį nuo žynių ir liaudies, kuriuos vadina užsispyrusiais savasties gynėjais, ir pabėgusį pas kryžiuočius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -153,7 +155,8 @@ Alepas Narbuto pasakojime vaizduojamas kaip paskutinis Prūsijos Krivių Krivait
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-004
+    - t-010
+- c-004
   santrauka: 'Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip stiprų smūgį prūsų stabmeldystei ir sieja su religinės sostinės perkėlimu į Lietuvą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -171,7 +174,8 @@ Alepas Narbuto pasakojime vaizduojamas kaip paskutinis Prūsijos Krivių Krivait
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-005
+    - t-011
+- c-005
   santrauka: 'Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip smūgį prūsų stabmeldystei, po kurio religinė sostinė buvo perkelta į Lietuvą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -188,7 +192,8 @@ Alepas Narbuto pasakojime vaizduojamas kaip paskutinis Prūsijos Krivių Krivait
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-006
+    - t-012
+- c-006
   santrauka: 'Narbutas, remdamasis Prūsijos kronikomis, nurodo, kad iki vyriausiojo žynio Alepo buvo 481 žynys, o 1265–1414 m. jų dar buvo 23.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

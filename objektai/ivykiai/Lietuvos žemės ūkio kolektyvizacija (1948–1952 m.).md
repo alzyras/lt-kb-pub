@@ -89,6 +89,7 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-002
+
 - c-002
   santrauka: 'Sovietai naikino privatinę nuosavybę ekonomikoje, todėl Lietuvos žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

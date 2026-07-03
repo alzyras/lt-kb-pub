@@ -337,6 +337,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Kristupas Radvila Perkūnas 1589–1603 m. vadovavo Lietuvos kariuomenei kaip LDK kariuomenės didysis etmonas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -360,6 +361,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Karolis Chodkevičius išvedė Lietuvos kariuomenę į mūšio lauką, kai priešo kariai jau buvo išsirikiavę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -386,6 +388,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -408,6 +411,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   santrauka: '1605 m. Lietuvos kariuomenė Salaspilio mūšyje pasiekė didelę pergalę prieš švedus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -423,6 +427,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: '1605 m. prie Kirchholmo Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -437,6 +442,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   santrauka: 'Kadriniai Lietuvos kariuomenės karininkai nenoriai rašėsi į Klaipėdos žygį, nes nelaikė jo kova už tėvynę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -452,6 +458,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-008
   santrauka: '1939 m. rugsėjo 17 d. Lietuvos prezidentui paskelbus dalinę mobilizaciją, Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -470,6 +477,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   santrauka: 'Liepos 3 d. priimtu pertvarkymo įstatymu Lietuvos kariuomenė paversta Liaudies kariuomene.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -485,6 +493,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-010
   santrauka: 'Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -499,6 +508,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-011
   santrauka: 'Vytauto kariuomenę išretino Žalgirio kautynės ir prie Marienburgo prasidėjusios ligos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -514,6 +524,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-012
   santrauka: 'Mykolas Glinskis ir Lietuvos kariuomenė prie Klecko paėmė arba nukovė daugybę totorių ir grįžo į stovyklą su belaisviais bei grobiu.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -535,6 +546,7 @@ Lietuvos kariuomenė šiame įraše pristatoma nuo Gedimino laikais susiformavus
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-013
   santrauka: 'Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

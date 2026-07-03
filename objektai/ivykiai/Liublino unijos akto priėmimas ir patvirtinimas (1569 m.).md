@@ -88,6 +88,7 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-003
+
 - c-002
   santrauka: 'Po Liublino unijos sudarymo Lietuva ir Lenkija kurį laiką negalėjo imtis rimtų karo veiksmų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

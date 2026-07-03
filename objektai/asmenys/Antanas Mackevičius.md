@@ -106,6 +106,7 @@ Antanas Mackevičius buvo kunigas ir vienas pirmųjų 1863 m. sukilimo organizat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Antanas Mackevičius stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -123,6 +124,7 @@ Antanas Mackevičius buvo kunigas ir vienas pirmųjų 1863 m. sukilimo organizat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -137,6 +139,7 @@ Antanas Mackevičius buvo kunigas ir vienas pirmųjų 1863 m. sukilimo organizat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-004
   santrauka: 'Zigmantas Sierakauskas vienai sukilėlių kariuomenės kolonai pavedė vadovauti Antanui Mackevičiui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -157,6 +160,7 @@ Antanas Mackevičius buvo kunigas ir vienas pirmųjų 1863 m. sukilimo organizat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-005
   santrauka: 'Antanui Mackevičiui nepavyko tinkamai išdėstyti savo šaulių gynybai, o klampioje vietovėje sukilėlių kavalerija buvo neveiksminga.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -177,6 +181,7 @@ Antanas Mackevičius buvo kunigas ir vienas pirmųjų 1863 m. sukilimo organizat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-006
   santrauka: 'Antanui Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti juos pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -197,6 +202,7 @@ Antanas Mackevičius buvo kunigas ir vienas pirmųjų 1863 m. sukilimo organizat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

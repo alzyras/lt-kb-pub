@@ -179,6 +179,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -203,6 +204,7 @@ amziai:
   pagrindžia:
     - t-008
     - t-011
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -224,6 +226,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -246,6 +249,7 @@ amziai:
   pagrindžia:
     - t-006
     - t-012
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -263,6 +267,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-006
   santrauka: 'Šventaragio slėnis buvo laikomas reikšmingiausia Žemutinės pilies dalimi, kur degė lietuvių garbinta Gabija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -282,6 +287,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-007
   santrauka: 'Pasak Vilniaus įkūrimo legendos, Šventaragio slėnyje Gediminas susapnavo sapną, kurį išaiškino žynys Lizdeika.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -300,6 +306,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -326,6 +333,7 @@ amziai:
   pagrindžia:
     - t-007
     - t-009
+
 - c-009
   santrauka: 'Pasak Strijkovskio ir Kojelavičiaus, Gediminas po Trakų pilies įkūrimo medžiojo Šventaragio slėnyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -363,6 +371,7 @@ amziai:
   pagrindžia:
     - t-002
     - t-015
+
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -391,6 +400,7 @@ amziai:
   pagrindžia:
     - t-014
     - t-005
+
 - c-011
   santrauka: 'Skirgaila Šventaragio slėnyje surengė karališkas šermenis ir laidotuves savo dėdei Kęstučiui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

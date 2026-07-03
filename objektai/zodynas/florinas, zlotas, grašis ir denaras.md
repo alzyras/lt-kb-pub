@@ -56,6 +56,7 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: '1571 m. rugpjūčio 18 d. Vilniuje 666 kapoms lietuviškomis monetomis išleista 91 florinas, 19 grašių ir 6 lietuviški denarai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -87,6 +87,7 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
   pagrindžia:
     - t-001
     - t-003
+
 - c-002
   santrauka: 'Pabečiai buvo gyvenvietė šiaurės Semboje, į pietryčius nuo buvusių Naujųjų Kuršių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

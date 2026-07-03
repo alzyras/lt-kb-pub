@@ -76,6 +76,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Apsupti Kristburgo broliai maistą ir būtinus daiktus iš Elbingo Zirgūnos upe gabendavo sunkiai ir pavojingai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -97,6 +98,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Prūsai pagavo Samilį, kankino jį verdančiu vandeniu ir ugnimi, nusiuntė broliams, o Samilis vėliau pagijo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

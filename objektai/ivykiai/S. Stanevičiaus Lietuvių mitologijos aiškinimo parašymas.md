@@ -71,6 +71,7 @@ Tekstas liko nespausdintas ir, pagal įvadinį tekstą, negalėjo paveikti vieš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 ## Data ir vieta
 
 Datavimas pateiktas kaip J. Lebedžio nuomonė: ne anksčiau kaip 1838 m.

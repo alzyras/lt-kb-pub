@@ -61,7 +61,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas to paties mito liekana laiko prietarą, kai šeimininkė neištraukia į krosnies ugnį įlėkusios vištos ir meldžiasi priešais ugnį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

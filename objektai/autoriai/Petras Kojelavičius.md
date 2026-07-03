@@ -81,6 +81,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Petras Kojelavičius 1654 m. Vilniuje išleido „Elogia Episcoporum Vilnensium“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -100,6 +101,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Petras Kojelavičius parašė lotyniškas trumpas panegirikas Vilniaus vyskupams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -120,6 +122,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Petras Kojelavičius vyskupui Motiejui priskyrė 1417-1453 m. vyskupavimo laikotarpį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

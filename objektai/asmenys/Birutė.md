@@ -198,7 +198,8 @@ Birutė minima kaip Kęstučio žmona, Vytauto motina ir Žemaičių bajoro Vydi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet iš ki­
@@ -222,7 +223,8 @@ Birutė minima kaip Kęstučio žmona, Vytauto motina ir Žemaičių bajoro Vydi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas, apie kurį mes čia kalbėsime, buvo žymiausias
@@ -238,7 +240,8 @@ Birutė minima kaip Kęstučio žmona, Vytauto motina ir Žemaičių bajoro Vydi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visų pirma atsirado
@@ -257,7 +260,8 @@ Birutė minima kaip Kęstučio žmona, Vytauto motina ir Žemaičių bajoro Vydi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-    - t-005- c-005
+    - t-005
+- c-005
   santrauka: 'Lietuvos metraščiuose Birutė vaizduojama kaip Palangos mergelė, žmonių garbinta kaip dievaitė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -270,7 +274,8 @@ Birutė minima kaip Kęstučio žmona, Vytauto motina ir Žemaičių bajoro Vydi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-006
+    - t-006
+- c-006
   santrauka: 'Kunigaikštienės Birutės paskandinimo aplinkybės, kaip ir Kęstučio mirtis, šaltinyje vadinamos neaiškiomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -306,7 +311,8 @@ Birutė minima kaip Kęstučio žmona, Vytauto motina ir Žemaičių bajoro Vydi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-007
+    - t-007
+- c-007
   santrauka: 'Vaidilutė Birutė tapo Kęstučio žmona jam sugrįžus į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -326,7 +332,8 @@ Birutė minima kaip Kęstučio žmona, Vytauto motina ir Žemaičių bajoro Vydi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-008
+    - t-008
+- c-008
   santrauka: 'Vytautas, sužinojęs apie Jogailos žygį į Trakus, su pamote Birute pasitraukė į Gardiną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -349,7 +356,8 @@ Birutė minima kaip Kęstučio žmona, Vytauto motina ir Žemaičių bajoro Vydi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-009
+    - t-009
+- c-009
   santrauka: 'Narbutas, remdamasis Strijkovskiu, Birutę vaizduoja kaip Žemaičių didiko dukterį ir Praurimės aukuro ugnies saugotoją prie Palangos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -369,7 +377,8 @@ Birutė minima kaip Kęstučio žmona, Vytauto motina ir Žemaičių bajoro Vydi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-010
+    - t-010
+- c-010
   santrauka: 'Narbutas pasakoja, kad Kęstutis Birutę išsivežė prieš jos valią į Naujuosius Trakus ir ten vedė, nors ji buvo davusi skaistybės įžadą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -386,7 +395,8 @@ Birutė minima kaip Kęstučio žmona, Vytauto motina ir Žemaičių bajoro Vydi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-011
+    - t-011
+- c-011
   santrauka: 'Narbutas rašo, kad Birutė, žuvus Kęstučiui ir valdant Vytautui, grįžo į Palangą ir 1416 metais ten mirė laikydamasi senojo tikėjimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -400,7 +410,8 @@ Birutė minima kaip Kęstučio žmona, Vytauto motina ir Žemaičių bajoro Vydi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-012
+    - t-012
+- c-012
   santrauka: 'Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Palangos aukuro apeigas, todėl jos Žemaitijoje išliko ilgiau.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -417,7 +428,8 @@ Birutė minima kaip Kęstučio žmona, Vytauto motina ir Žemaičių bajoro Vydi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-013
+    - t-013
+- c-013
   santrauka: 'Narbutas chronologiškai skaičiuoja, kad Birutė gimė apie 1331 metus, ištekėjo 1348 metais ir mirė 1416 metais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

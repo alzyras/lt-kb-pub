@@ -184,6 +184,7 @@ Vilniaus katedra šaltiniuose minima kaip Šv. Stanislovo katedra, susijusi su L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-002
   santrauka: 'Vilniaus katedros bažnyčioje ties šventovės viduriu buvo Šventojo Kryžiaus altorius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -213,6 +214,7 @@ Vilniaus katedra šaltiniuose minima kaip Šv. Stanislovo katedra, susijusi su L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Vilniaus vyskupo Povilo poelgis privertė karalių atsisakyti ketinimo ir pasukti į katalikų katedrą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -233,6 +235,7 @@ Vilniaus katedra šaltiniuose minima kaip Šv. Stanislovo katedra, susijusi su L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-004
   santrauka: 'Vilniaus katedros kapitula galėjo naudotis bažnytine jurisdikcija ir ekskomunikacijos teise savo asmenų bei valdinių bylose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -258,6 +261,7 @@ Vilniaus katedra šaltiniuose minima kaip Šv. Stanislovo katedra, susijusi su L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-005
   santrauka: 'Šv. Stanislovo bažnyčioje italų meistrai iš brangaus marmuro pastatė Elžbietos ir Barboros antkapius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -281,6 +285,7 @@ Vilniaus katedra šaltiniuose minima kaip Šv. Stanislovo katedra, susijusi su L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-006
   santrauka: 'Vilniaus vyskupas Mikalojus Šv. Stanislovo katedroje iškilmingai paskelbė Švitrigailą didžiuoju kunigaikščiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -300,6 +305,7 @@ Vilniaus katedra šaltiniuose minima kaip Šv. Stanislovo katedra, susijusi su L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-007
   santrauka: '1396 m. Vytautas, Jogailai sutikus, Vilniaus katedros kapitulai dovanojo Cudzeniškių valdą netoli Medininkų pilies.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -321,6 +327,7 @@ Vilniaus katedra šaltiniuose minima kaip Šv. Stanislovo katedra, susijusi su L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -341,6 +348,7 @@ Vilniaus katedra šaltiniuose minima kaip Šv. Stanislovo katedra, susijusi su L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-009
   santrauka: 'Elžbieta, Ferdinando duktė ir Žygimanto Augusto žmona, mirė Vilniuje 1545 metais ir buvo palaidota katedros koplyčioje šalia Aleksandro.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -368,6 +376,7 @@ Vilniaus katedra šaltiniuose minima kaip Šv. Stanislovo katedra, susijusi su L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-010
   santrauka: 'Vilniaus kapitulos archyve buvo sutartis su Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo per penkerius metus nuo 1536 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -386,6 +395,7 @@ Vilniaus katedra šaltiniuose minima kaip Šv. Stanislovo katedra, susijusi su L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-011
   santrauka: '1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -412,6 +422,7 @@ Vilniaus katedra šaltiniuose minima kaip Šv. Stanislovo katedra, susijusi su L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-012
   santrauka: 'Vilniaus katedros kapitula teigė, kad jos jurisdikciją patvirtino Apaštalų Sostas ir Lietuvos kunigaikščiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -448,6 +459,7 @@ Vilniaus katedra šaltiniuose minima kaip Šv. Stanislovo katedra, susijusi su L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-013
   santrauka: 'Šv. Stanislovo katedroje Vaitiekus Taboras sutuokė didįjį kunigaikštį Aleksandrą su Elena.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -466,6 +478,7 @@ Vilniaus katedra šaltiniuose minima kaip Šv. Stanislovo katedra, susijusi su L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-014
   santrauka: 'Vilniaus vyskupas Jonas Lasavičius Vilniaus katedroje įrengė Vyskupų koplyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -485,6 +498,7 @@ Vilniaus katedra šaltiniuose minima kaip Šv. Stanislovo katedra, susijusi su L
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-015
   santrauka: 'Vilniaus miesto taryba ginčijo Vilniaus katedros kapitulos jurisdikciją miesto gyventojų atžvilgiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

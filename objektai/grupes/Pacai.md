@@ -81,6 +81,7 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -98,6 +99,7 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
   pagrindžia:
     - t-001
     - t-003
+
 - c-003
   santrauka: 'Tarpuvaldžio pradžioje Pacai veikė prieš Lenkijos gynėjo nuo turkų kandidatūrą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

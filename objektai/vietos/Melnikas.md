@@ -161,6 +161,7 @@ Melnikas buvo Palenkės vieta, minima krikščioniškų Trakų kunigaikštijos �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų ir Melniku.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -182,6 +183,7 @@ Melnikas buvo Palenkės vieta, minima krikščioniškų Trakų kunigaikštijos �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -217,6 +219,7 @@ Melnikas buvo Palenkės vieta, minima krikščioniškų Trakų kunigaikštijos �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Lietuvos metraštyje Erdvilas su kariais, išžygiavęs iš Naugarduko, rado Melniką Batu nusiaubtą ir sunaikintą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -234,6 +237,7 @@ Melnikas buvo Palenkės vieta, minima krikščioniškų Trakų kunigaikštijos �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Lietuvos metraštyje Mstislavas, Lucko ir Pinsko kunigaikštis, kariavo su Skirmantu, norėdamas išguiti jį iš Brastos, Melniko, Gardino ir Naugarduko.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -254,6 +258,7 @@ Melnikas buvo Palenkės vieta, minima krikščioniškų Trakų kunigaikštijos �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'Lietuvos metraštyje Jonušas, neįveikęs Brastos, pasitraukė ir paliko įgulas Drohičine bei Melnike.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -277,6 +282,7 @@ Melnikas buvo Palenkės vieta, minima krikščioniškų Trakų kunigaikštijos �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   santrauka: 'Lietuvos metraštyje Jogailos karas su Mazovija ir lenkais aiškinamas tuo, kad Mazovijos kunigaikštis, lenkų padedamas, buvo užgrobęs Drohičiną ir Melniką.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -297,6 +303,7 @@ Melnikas buvo Palenkės vieta, minima krikščioniškų Trakų kunigaikštijos �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-008
   santrauka: 'Lietuvos metraštyje Kazimierui būnant Vilniuje Jurgis Nosuta minimas kaip Drohičino ir Melniko seniūnas, dar Žygimanto paskirtas į šias pareigas.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -319,6 +326,7 @@ Melnikas buvo Palenkės vieta, minima krikščioniškų Trakų kunigaikštijos �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   santrauka: 'Aleksandras 1501 m. lapkričio 29 d. išvyko iš Melniko į Krokuvą, kur gruodžio 12 d. buvo vainikuotas Lenkijos karaliumi.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

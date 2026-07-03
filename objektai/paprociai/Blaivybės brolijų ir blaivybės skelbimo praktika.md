@@ -73,7 +73,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Nustojus vesti blaivybės brolijų narių knygas, blaivybė nesusilpnėjo, o parapijonys statė kryžius ir paminklus jai paminėti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

@@ -51,6 +51,7 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Rugpjūčio 5 d. per Turčiną karališkajai didenybei buvo nuvežti pinigai į Leipcigą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -64,7 +64,8 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-002
+    - t-003
+- c-002
   santrauka: 'Narbutas rašė, kad Varšuvos Mokslo bičiulių draugijos nuomonei apie statulėlę nepritarė visi mokslininkai net Varšuvoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

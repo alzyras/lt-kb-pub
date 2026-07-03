@@ -226,7 +226,8 @@ Vilniaus universitetas išaugo iš Vilniaus jėzuitų akademijos ir universiteto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-    - t-002- c-002
+    - t-002
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jėzuitiškojo Vilniaus universi-
@@ -245,7 +246,8 @@ Vilniaus universitetas išaugo iš Vilniaus jėzuitų akademijos ir universiteto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-003
+    - t-006
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XIX a. pradžioje Vilniaus intelektualams gelbėjant parengta visos Ru-
@@ -262,7 +264,8 @@ Vilniaus universitetas išaugo iš Vilniaus jėzuitų akademijos ir universiteto
   pagrindžia:
     - t-014
     - t-015
-    - t-007- c-004
+    - t-007
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visos istorinės Lietuvos žemės visuomeninio ir kultūrinio gyvenimo
@@ -286,7 +289,8 @@ Vilniaus universitetas išaugo iš Vilniaus jėzuitų akademijos ir universiteto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-005
+    - t-005
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rusų kalba turėjo tapti ir mokyklų kalba. Nustatyta, kad vietos bajorai
@@ -299,7 +303,8 @@ Vilniaus universitetas išaugo iš Vilniaus jėzuitų akademijos ir universiteto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-006
+    - t-011
+- c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Karaliaučiuje žymaus
@@ -326,7 +331,8 @@ Vilniaus universitetas išaugo iš Vilniaus jėzuitų akademijos ir universiteto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-    - t-009- c-007
+    - t-009
+- c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Sūnaus brendimo ir mokslo metai praėjo Vil­
@@ -342,7 +348,8 @@ Vilniaus universitetas išaugo iš Vilniaus jėzuitų akademijos ir universiteto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-008
+    - t-008
+- c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilniaus universite-
@@ -361,7 +368,8 @@ Vilniaus universitetas išaugo iš Vilniaus jėzuitų akademijos ir universiteto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-009
+    - t-013
+- c-009
   santrauka: '1855 m. Aleksandrui II pradėjus liberalias reformas, krašto šviesuomenė vylėsi atkurti Vilniaus universitetą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -374,7 +382,8 @@ Vilniaus universitetas išaugo iš Vilniaus jėzuitų akademijos ir universiteto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-010
+    - t-016
+- c-010
   santrauka: 'Vilniaus universitetas pasiekė europinį mokslo ir studijų lygį ir buvo didžiausias Rusijos imperijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -393,7 +402,8 @@ Vilniaus universitetas išaugo iš Vilniaus jėzuitų akademijos ir universiteto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-011
+    - t-017
+- c-011
   santrauka: '1579 m. balandžio 1 d. karalius Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -413,7 +423,8 @@ Vilniaus universitetas išaugo iš Vilniaus jėzuitų akademijos ir universiteto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-012
+    - t-012
+- c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Varšuvoje valdžios apkaltintas „lenkiškuo­
@@ -434,7 +445,8 @@ Vilniaus universitetas išaugo iš Vilniaus jėzuitų akademijos ir universiteto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
-    - t-004- c-013
+    - t-004
+- c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nustatyta, kad vietos bajorai
@@ -450,7 +462,8 @@ Vilniaus universitetas išaugo iš Vilniaus jėzuitų akademijos ir universiteto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-014
+    - t-018
+- c-014
   santrauka: 'Leidinyje „Wizerunki i Roztrząsania Naukowe“ rašė aštuoniolika buvusių Vilniaus universiteto profesorių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

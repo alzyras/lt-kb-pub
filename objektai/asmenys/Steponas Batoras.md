@@ -381,6 +381,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -394,6 +395,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -408,6 +410,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   pagrindžia:
     - t-022
     - t-004
+
 - c-004
   santrauka: '1581 m. vasario 13 d. Varšuvos seime Steponas Batoras tituluotas Lenkijos karaliumi ir Lietuvos didžiuoju kunigaikščiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -435,6 +438,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   santrauka: '1581 m. Steponas Batoras nutraukė išpuolį prieš reformatų maldos namus ir Danieliaus Lenčickio spaustuvę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -460,6 +464,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   pagrindžia:
     - t-032
     - t-030
+
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -495,6 +500,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   pagrindžia:
     - t-011
     - t-015
+
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -523,6 +529,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
+
 - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -541,6 +548,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
+
 - c-009
   santrauka: 'Steponas Batoras 1584 m. Gardine atleido Steponą Genserį nuo Vilniaus miesto jurisdikcijos ir cechų valdžios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -575,6 +583,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -597,6 +606,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-011
   santrauka: 'M. Balinskis Vilniaus miesto istorinę apžvalgą užbaigė Stepono Batoro valdymo metais, 1586 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -621,6 +631,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-012
   santrauka: 'Vilniaus seminarijos steigėjai prašė karaliaus Stepono Batoro priimti seminariją į savo globą ir gynybą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -650,6 +661,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-013
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -675,6 +687,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-014
   santrauka: 'Steponas Batoras įsakė Vilniaus vaivadai Radvilai skatinti vilniečius mokėti nustatytus muitus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -717,6 +730,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-015
   santrauka: 'Steponas Batoras mirė 1586 m. gruodžio 12 d., penktąją jį paguldžiusios ligos dieną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -752,6 +766,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-016
   santrauka: 'Steponas Batoras Livonijos karo metu rūpinosi Vilniaus universiteto kūrimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -774,6 +789,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-017
   santrauka: 'Po Stepono Batoro kampanijų Didieji Lukai, Zavoločė, Sebežas, Nevelis ir Voronežas buvo sugrąžinti Rusijai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -802,6 +818,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
+
 - c-018
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -828,6 +845,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   pagrindžia:
     - t-012
     - t-014
+
 - c-019
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -848,6 +866,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-020
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -866,6 +885,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-021
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -892,6 +912,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   pagrindžia:
     - t-010
     - t-001
+
 - c-022
   santrauka: '1578 m. Steponas Batoras funduotoms Vilniaus mokykloms suteikė Akademijos vardą ir prilygino jas kitoms akademijoms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -917,6 +938,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   pagrindžia:
     - t-023
     - t-027
+
 - c-023
   santrauka: '1579 m. balandžio 1 d. Steponas Batoras parėmė vyskupo Valerijono Protasevičiaus sumanymą ir pastangas dėl Vilniaus universiteto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -932,6 +954,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-024
   santrauka: 'Steponas Batoras mirė Gardine 1586 m. gruodžio 12 d., o jo mirtis nuliūdino Vilnių ir visą šalį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -947,6 +970,7 @@ Steponas Batoras žinių bazėje pristatomas kaip Lenkijos karalius ir Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
 - c-025
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |

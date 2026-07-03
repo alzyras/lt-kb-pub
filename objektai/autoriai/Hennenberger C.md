@@ -54,6 +54,7 @@ Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'C. Hennenbergerio „Erclerung“ cituojamas prie pasakojimo apie Galtgarbių kalne buvusią Samo pilį ir prūsų uždegamus pavojų skelbiančius laužus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

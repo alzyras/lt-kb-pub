@@ -53,6 +53,7 @@ Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku bu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kunigas Mackevičius pamokslą sakė lenkiškai ir lietuviškai, o kariuomenė bei daugybė žmonių jo klausėsi lauke.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

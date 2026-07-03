@@ -124,6 +124,7 @@ Jonas Olesnickis 1390 m. perėmė ankstesnio pareigūno vietą Vilniuje ir veik�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Jonas Olesnickis su visa įgula netikėtai užpuolė vokiečius ir sudavė jiems skaudų smūgį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -151,6 +152,7 @@ Jonas Olesnickis 1390 m. perėmė ankstesnio pareigūno vietą Vilniuje ir veik�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -170,6 +172,7 @@ Jonas Olesnickis 1390 m. perėmė ankstesnio pareigūno vietą Vilniuje ir veik�
   pagrindžia:
     - t-001
     - t-004
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -190,6 +193,7 @@ Jonas Olesnickis 1390 m. perėmė ankstesnio pareigūno vietą Vilniuje ir veik�
   pagrindžia:
     - t-002
     - t-007
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -208,6 +212,7 @@ Jonas Olesnickis 1390 m. perėmė ankstesnio pareigūno vietą Vilniuje ir veik�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-006
   santrauka: 'Jonas Olesnickis, gelbėdamas Vilniaus pilis, įsakė sudeginti likusius miesto namus ir gyventojus perkelti į Žemutinę pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -231,6 +236,7 @@ Jonas Olesnickis 1390 m. perėmė ankstesnio pareigūno vietą Vilniuje ir veik�
   pagrindžia:
     - t-008
     - t-006
+
 - c-007
   santrauka: 'Jonas Olesnickis pakeitė ankstesnį pareigūną ir buvo garsus Lenkijoje karo žygiais bei sena protėvių kilme.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -248,6 +254,7 @@ Jonas Olesnickis 1390 m. perėmė ankstesnio pareigūno vietą Vilniuje ir veik�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-008
   santrauka: 'Jonas Olesnickis nutarė pulti priešą, kol šis dar nebuvo tinkamai sutvirtinęs stovyklos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -264,6 +271,7 @@ Jonas Olesnickis 1390 m. perėmė ankstesnio pareigūno vietą Vilniuje ir veik�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-009
   santrauka: 'Vytautui pakeitus Skirgailą, Jonas Olesnickis atsisakė Vilniaus seniūno pareigų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

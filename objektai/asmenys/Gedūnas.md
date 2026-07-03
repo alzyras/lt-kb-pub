@@ -66,6 +66,7 @@ Gedūnas Dusburgiečio pasakojime minimas kaip senas vyras iš Kandeimu vadinamo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Gedūnas buvo senas vyras iš Kandeimu vadinamos šakos, Visigaudo iš Medenavos tėvas, gerai žinojęs Sembos karių galią.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -88,6 +89,7 @@ Gedūnas Dusburgiečio pasakojime minimas kaip senas vyras iš Kandeimu vadinamo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Gedūnas grįžęs rado savo ir saviškių kiemus sudegintus, o šeimyną, brolį Ringėlą ir gimines išžudytus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -106,6 +108,7 @@ Gedūnas Dusburgiečio pasakojime minimas kaip senas vyras iš Kandeimu vadinamo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Gedūnas atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

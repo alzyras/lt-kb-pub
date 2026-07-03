@@ -135,6 +135,7 @@ Michailas Gorbačiovas Lietuvos istorijoje siejamas su SSRS pertvarka, kurios pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -154,6 +155,7 @@ Michailas Gorbačiovas Lietuvos istorijoje siejamas su SSRS pertvarka, kurios pr
   pagrindžia:
     - t-008
     - t-003
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -170,6 +172,7 @@ Michailas Gorbačiovas Lietuvos istorijoje siejamas su SSRS pertvarka, kurios pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   santrauka: '1991 m. sausio 10 d. Michailas Gorbačiovas ultimatyviai pareikalavo nedelsiant visiškai atkurti SSRS ir Lietuvos SSR konstitucijų galiojimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -199,6 +202,7 @@ Michailas Gorbačiovas Lietuvos istorijoje siejamas su SSRS pertvarka, kurios pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-005
   santrauka: 'Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -218,6 +222,7 @@ Michailas Gorbačiovas Lietuvos istorijoje siejamas su SSRS pertvarka, kurios pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-006
   santrauka: 'SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 Aktą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -236,6 +241,7 @@ Michailas Gorbačiovas Lietuvos istorijoje siejamas su SSRS pertvarka, kurios pr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   santrauka: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje LKP vadovybė laikėsi pasyviai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -270,6 +276,7 @@ Michailas Gorbačiovas Lietuvos istorijoje siejamas su SSRS pertvarka, kurios pr
     - t-009
     - t-004
     - t-010
+
 - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |

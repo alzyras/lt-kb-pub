@@ -174,6 +174,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-002
   santrauka: 'Sibiro batalijone penki karininkai ir trys kareiviai buvo nurengti ir pusplikiai sukapoti kardais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -192,6 +193,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Seimeliuose plikbajoriai turėjo bajoriškąjį ženklą kardą, kuriuo galėjo paremti savo pono ar užmokėjusio asmens nuomonę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -209,6 +211,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė į Valkininkus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -224,6 +227,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-005
   santrauka: '1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -241,6 +245,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-006
   santrauka: 'Lenkų raitelis žvilgančiu kardu kelis kartus puolė griovyje atsigulusį žvalgą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -256,6 +261,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-007
   santrauka: '1919 m. gegužės viduryje Lietuvos kariuomenė turėjo apie 200 kardų, tai yra raitelių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -274,6 +280,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-008
   santrauka: 'Valkininkuose bajorų minia kardais sukapojo Mykolą Sapiegą ir dar du belaisvius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

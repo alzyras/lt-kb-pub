@@ -148,6 +148,7 @@ Greta didžiojo etmono M.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Aleksandras, pasitaręs su ponu Petru, etmono vietą perdavė Konstantinui Ostrogiškiui.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -164,6 +165,7 @@ Greta didžiojo etmono M.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Lietuvos metraštyje Žemaičių seniūnas ir LDK etmonas čeką Joną Cerniną su svetimšaliais pasiuntė į Polocką kaip įgulą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

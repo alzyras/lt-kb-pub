@@ -65,6 +65,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: '1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII draudė Vokiečių ordinui pulti lietuvius kaip neofitus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -81,6 +82,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Popiežius Bonifacas IX rėmė neofitą Vytautą kaip kovotoją su katalikų priešais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

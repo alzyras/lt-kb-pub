@@ -62,6 +62,7 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
   pagrindžia:
     - t-002
     - t-003
+
 - c-002
   santrauka: '1296 m. popiežius Bonifacas VIII kanonizavo Prancūzijos karalių Liudviką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -77,6 +78,7 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: '1270 m. rugpjūčio 25 d. Prancūzijos karalius Liudvikas su dviem sūnumis ir kunigaikščiais išvyko vaduoti Šventosios žemės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

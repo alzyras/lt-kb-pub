@@ -121,6 +121,7 @@ Zigmantas Liuksemburgietis vaizduojamas kaip svarbus Vytauto, Jogailos, Lenkijos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -141,6 +142,7 @@ Zigmantas Liuksemburgietis vaizduojamas kaip svarbus Vytauto, Jogailos, Lenkijos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -157,6 +159,7 @@ Zigmantas Liuksemburgietis vaizduojamas kaip svarbus Vytauto, Jogailos, Lenkijos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Zigmantas Liuksemburgietis dažnai klausė Vytauto apie karūnacijos terminą ir skatino jį negaišti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -174,6 +177,7 @@ Zigmantas Liuksemburgietis vaizduojamas kaip svarbus Vytauto, Jogailos, Lenkijos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-005
   santrauka: 'Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -193,6 +197,7 @@ Zigmantas Liuksemburgietis vaizduojamas kaip svarbus Vytauto, Jogailos, Lenkijos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -209,6 +214,7 @@ Zigmantas Liuksemburgietis vaizduojamas kaip svarbus Vytauto, Jogailos, Lenkijos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -228,6 +234,7 @@ Zigmantas Liuksemburgietis vaizduojamas kaip svarbus Vytauto, Jogailos, Lenkijos
   pagrindžia:
     - t-008
     - t-006
+
 - c-008
   santrauka: 'Zigmantui Liuksemburgiečiui tapus Romos imperatoriumi, Lenkijai dar labiau padidėjo Lietuvos pagalbos poreikis, nes jis buvo sąjungoje su Ordinu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -246,6 +253,7 @@ Zigmantas Liuksemburgietis vaizduojamas kaip svarbus Vytauto, Jogailos, Lenkijos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-009
   santrauka: 'Zigmantas Liuksemburgietis pabijojo, kad Vytautas neįsitvirtintų Čekijoje ir jos neperimtų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

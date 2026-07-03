@@ -45,6 +45,7 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. „Rinktinė už Birštono
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Netoli Birštono Zaskevičiaus kariai susitiko su A. Žemaičio vadovaujama 1-ojo pėstininkų pulko 2-ąja kuopa, vykusia paremti Jiezno puolimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

@@ -83,7 +83,8 @@ Konstantinas Sirvydas siejamas su 1620 m. „Trijų kalbų žodynu“, skirtu st
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas nurodo, kad kunigas Konstantinas Sirvydas Aušrą vadino Aurora.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -95,7 +96,8 @@ Konstantinas Sirvydas siejamas su 1620 m. „Trijų kalbų žodynu“, skirtu st
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-003
+    - t-004
+- c-003
   santrauka: 'Konstantinas Sirvydas savo žodyne Vilijos upę lotyniškai vadino Vilia, o lietuviškai Nerimi.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -112,7 +114,8 @@ Konstantinas Sirvydas siejamas su 1620 m. „Trijų kalbų žodynu“, skirtu st
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-004
+    - t-002
+- c-004
   santrauka: 'Konstantinas Sirvydas savo žodyne Aitvarą vadino Ajtwaros, lotyniškai Incubus, lenkiškai Latawiec.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

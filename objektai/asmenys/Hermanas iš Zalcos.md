@@ -230,6 +230,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -249,6 +250,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
   pagrindžia:
     - t-010
     - t-006
+
 - c-003
   santrauka: 'Hermano vadovavimo metu Ordinas gavo privilegijų, žemių ir relikviją, o per ją Prūsijoje vyko stebuklai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -270,6 +272,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -291,6 +294,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
     - t-008
     - t-003
     - t-012
+
 - c-005
   santrauka: 'Leidėjai jį priskyrė Hermanui iš Zalcos111.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -304,6 +308,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -325,6 +330,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
     - t-001
     - t-004
     - t-009
+
 - c-007
   santrauka: 'Hermanas iš Zalcos buvo ketvirtasis Kryžiuočių ordino magistras ir buvo palaidotas Barletoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -348,6 +354,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-008
   santrauka: 'Išrinktas magistru, Hermanas iš Zalcos siekė, kad Ordinas jo vadovavimo metais galėtų išlaikyti bent dešimt ginkluotų brolių riterių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -364,6 +371,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-009
   santrauka: 'Folkvinas šešerius metus per pasiuntinius ragino Hermaną iš Zalcos prijungti Kristaus karių ordiną Livonijoje prie Teutonų ordino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -381,6 +389,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-010
   santrauka: 'Hermanas iš Zalcos atsisakė spręsti popiežiaus Honorijaus III ir imperatoriaus Fridricho II slaptų nesutarimų bylą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -402,6 +411,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-011
   santrauka: 'Tyrinėtojai mano, kad išlikusioje kopijoje Hermano vardas galėjo atsirasti per klaidą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -418,6 +428,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-012
   santrauka: '1243 m. popiežius Inocentas IV iš Hermano iš Zalcos pareiškimų sužinojo apie Prūsijos krikščionių nuostolius dėl Sventopelko.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

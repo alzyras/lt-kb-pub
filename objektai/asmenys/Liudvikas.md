@@ -96,6 +96,7 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -112,6 +113,7 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Lenkų karalius Liudvikas mirė nepalikęs nė vieno įpėdinio.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

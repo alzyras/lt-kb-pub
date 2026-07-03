@@ -74,6 +74,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, prijungė Smolensko pajėgas prie Vytauto žygio į Vitebską.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

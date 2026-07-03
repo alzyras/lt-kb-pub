@@ -327,6 +327,7 @@ Baiga Lietuvos istorijos žinių bazėje pristatoma kaip svarbi Ordino pilis ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-002
   santrauka: 'Po susitaikymo Čekijos karalius nuvedė kariuomenę iki Baigos pilies, kur broliai surado seną vyrą Gedūną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -349,6 +350,7 @@ Baiga Lietuvos istorijos žinių bazėje pristatoma kaip svarbi Ordino pilis ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-003
   santrauka: 'Pastačius Baigos pilį, sembai pasiuntė vieną vyresnįjį į Baigą ištirti brolių gyvenimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -369,6 +371,7 @@ Baiga Lietuvos istorijos žinių bazėje pristatoma kaip svarbi Ordino pilis ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Du laivai padėjo pastatyti Elbingo ir Baigos pilis bei apsaugoti Gėlo vandens marias nuo netikėlių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -382,6 +385,7 @@ Baiga Lietuvos istorijos žinių bazėje pristatoma kaip svarbi Ordino pilis ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -401,6 +405,7 @@ Baiga Lietuvos istorijos žinių bazėje pristatoma kaip svarbi Ordino pilis ir 
   pagrindžia:
     - t-003
     - t-016
+
 - c-006
   santrauka: '1260 m. nuo tikėjimo atsimetę varmiai, notangai ir bartai kelis kartus puolė Baigą ir grobė brolių arklius bei gyvulius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -421,6 +426,7 @@ Baiga Lietuvos istorijos žinių bazėje pristatoma kaip svarbi Ordino pilis ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-007
   santrauka: 'Prie Baigos atplaukusi Ordino kariuomenė, padedama pilies vado Kodrūno, užgrobė prūsų pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -446,6 +452,7 @@ Baiga Lietuvos istorijos žinių bazėje pristatoma kaip svarbi Ordino pilis ir 
   pagrindžia:
     - t-009
     - t-013
+
 - c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -469,6 +476,7 @@ Baiga Lietuvos istorijos žinių bazėje pristatoma kaip svarbi Ordino pilis ir 
   pagrindžia:
     - t-002
     - t-017
+
 - c-009
   santrauka: 'Pasak kronikos, Kristus padėjo Baigoje apsuptiems broliams, paragindamas vieną prūsą išduoti saviškius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -484,6 +492,7 @@ Baiga Lietuvos istorijos žinių bazėje pristatoma kaip svarbi Ordino pilis ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-010
   santrauka: 'Prie Baigos brolių persikėlę kilmingi Varmės vyrai sustiprino brolius, o šie prie upės pastatė įtvirtintą malūną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -515,6 +524,7 @@ Baiga Lietuvos istorijos žinių bazėje pristatoma kaip svarbi Ordino pilis ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-011
   santrauka: 'Pasakojime apie antrąjį prūsų sukilimą Baiga minima tarp pilių ir miestų, atsidūrusių įvykių centre.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -532,6 +542,7 @@ Baiga Lietuvos istorijos žinių bazėje pristatoma kaip svarbi Ordino pilis ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-012
   santrauka: 'Prie Varmės kranto broliai netoli būsimos Baigos pilies vietos pamatė prūsų pilį, bet jos nepuolė dėl karių stokos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -548,6 +559,7 @@ Baiga Lietuvos istorijos žinių bazėje pristatoma kaip svarbi Ordino pilis ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-013
   santrauka: 'Kronikos dalyje apie karus prieš Lietuvą minimi trys Baigos komtūrai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -567,6 +579,7 @@ Baiga Lietuvos istorijos žinių bazėje pristatoma kaip svarbi Ordino pilis ir 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-014
   santrauka: 'Broliai perplaukė Gėlo vandens marias ieškodami vietos piliai ir netoli būsimos Baigos pamatė prūsų pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

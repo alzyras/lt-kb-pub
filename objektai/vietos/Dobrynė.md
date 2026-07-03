@@ -252,6 +252,7 @@ Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukšč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -266,6 +267,7 @@ Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukšč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-003
   santrauka: 'Dobrynės pilis davė vardą broliams, kurie vėliau buvo pavadinti Dobrynės broliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -282,6 +284,7 @@ Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukšč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-004
   santrauka: 'Prūsai Dobrynės ordiną galėjo pulti 1224–1225 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -294,6 +297,7 @@ Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukšč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Dusburgiečio aprašyme Dobrynės kunigaikštystė minima tarp Prūsijos žemę ribojusių teritorijų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -310,6 +314,7 @@ Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukšč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-006
   santrauka: 'Prūsai kelis kartus su gausiomis ginkluotomis pajėgomis puolė Dobrynės pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -327,6 +332,7 @@ Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukšč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -340,6 +346,7 @@ Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukšč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-008
   santrauka: 'Drevanta skyrė lenkiškąją Dobrynės žemę nuo upių ir ežerų supamo ploto pietryčiuose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -352,6 +359,7 @@ Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukšč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-009
   santrauka: 'Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukščiau Vloclaveko.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -368,6 +376,7 @@ Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukšč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-010
   santrauka: 'Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukščiau Vloclaveko.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -383,6 +392,7 @@ Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukšč
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-011
   santrauka: 'Vytenis, Lietuvai atsigavus po smūgio, vieną kariuomenę nukreipė į Dobrynę, o kitą prieš kryžiuočius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

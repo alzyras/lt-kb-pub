@@ -79,6 +79,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1317 m. popiežius Jonas kanonizavo šventą Liudviką ir liepė jo gimimą švęsti penktą dieną po Žolinės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

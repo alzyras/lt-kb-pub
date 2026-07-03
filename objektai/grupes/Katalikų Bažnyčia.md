@@ -215,6 +215,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
   pagrindžia:
     - t-019
     - t-016
+
 - c-002
   santrauka: 'Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis, todėl sovietų valdžiai katalikybė siejosi su nepageidaujamu vakarietiškumu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -238,6 +239,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-003
   santrauka: 'Bažnyčios su dviem grakščiais skirtingai dekoruotų tarpsnių bokštais žymėjo rytinę katalikybės ir Vidurio Europos ribą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -254,6 +256,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -274,6 +277,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-005
   santrauka: '1417 m. gegužės 13 d. popiežius Martynas V pavedė Vytautui ir Jogailai kurti bažnyčias, globoti kunigiją ir ginti tikėjimą Lietuvoje ir Rusijoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -292,6 +296,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-006
   santrauka: 'Testamente pareikšta ištikimybė Katalikų Bažnyčiai ir Romos tikėjimui, priimant išpažinties, Eucharistijos ir patepimo sakramentus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -321,6 +326,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -348,6 +354,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
   pagrindžia:
     - t-011
     - t-015
+
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -371,6 +378,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-009
   santrauka: 'Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tarptautinės politikos nesiėmė tiesioginio jos likvidavimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -386,6 +394,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-010
   santrauka: '„Kronika“ tapo Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -413,6 +422,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -427,6 +437,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-012
   santrauka: 'Valdžios diskriminacinės priemonės prieš Katalikų bažnyčią prisidėjo prie lietuviškos kirilikos boikoto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -444,6 +455,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -458,6 +470,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-014
   santrauka: 'Lietuvos didikai reformacijos antruoju etapu rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčios įtaką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -480,6 +493,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-015
   santrauka: 'XIII-XIV a. Lietuvoje vyko karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir Katalikų Bažnyčios agresiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -501,6 +515,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-016
   santrauka: 'Nuo 1387 m. LDK buvo katalikiška, tačiau apie 1500 m. joje veikė šešios Kijevo metropolijai pavaldžios stačiatikių vyskupijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -519,6 +534,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-017
   santrauka: 'Vyskupas Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -543,6 +559,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-018
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -559,6 +576,7 @@ Katalikų Bažnyčia Lietuvos istorijoje siejama su krikščionybės įtvirtinim
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-019
   santrauka: 'Katalikų Bažnyčia Vakaruose pradėjo kovą su protestantizmu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

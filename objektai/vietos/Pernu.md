@@ -56,6 +56,7 @@ Sofijos palyda per jūrą pasiekė Pernu.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vytautas išleido kunigaikštytę Sofiją iš Marienburgo, o jos palyda iš Gdansko laivais pasiekė Pernu ir Pskovą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

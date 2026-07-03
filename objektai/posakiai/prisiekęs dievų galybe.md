@@ -47,6 +47,7 @@ Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vadas Surminas, palikęs pilį, prisiekė dievų galybe ateityje nelaukti brolių antpuolio prieš pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -83,6 +83,7 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Vernerio prierašai turėjo būti skaitomi visuose Ordino namuose keturis kartus per metus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

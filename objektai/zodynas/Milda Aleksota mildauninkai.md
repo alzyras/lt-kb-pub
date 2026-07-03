@@ -47,7 +47,8 @@ Narbutas Mildą, dar vadintą Aleksota, apibūdino kaip meilės ir piršlybų de
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas Mildos garbinimą siejo su Kauno apylinkėmis ir Aleksoto priemiesčio vardu, o mildauninkais vadino meilėje padedančius kerėtojus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

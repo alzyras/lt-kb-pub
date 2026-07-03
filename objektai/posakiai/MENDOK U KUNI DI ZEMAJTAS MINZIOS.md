@@ -46,7 +46,8 @@ Narbutas medaliono runas prie žmogaus figūros, pasak jį nagrinėjusio mokovo,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas užrašą „ZEMAJTAS: MINZIOS“ skydelio pusėje aiškino kaip „Žemaičių moneta“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

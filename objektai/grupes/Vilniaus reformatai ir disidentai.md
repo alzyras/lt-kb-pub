@@ -69,6 +69,7 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Andrius Volanas disidentų pusėje beveik vienas turėjo atremti jų priešininkus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -92,6 +93,7 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: '1581 m. Vilniuje buvo atvirai užpulti reformatų maldos namai ir Danieliaus Lenčickio prižiūrėta spaustuvė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

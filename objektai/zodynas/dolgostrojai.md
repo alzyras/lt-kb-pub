@@ -54,6 +54,7 @@ Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskv�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Sovietų valdžia Lietuvoje noriai investavo, nes čia nebūdavo „dolgostrojų“, o naujos įmonės būdavo paleidžiamos daugiau ar mažiau laiku.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

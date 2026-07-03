@@ -192,6 +192,7 @@ Jotvingiai buvo viena lietuvių tautos atšakų, XIII a. siejama su Jotvingija �
   pagrindžia:
     - t-012
     - t-004
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -213,6 +214,7 @@ Jotvingiai buvo viena lietuvių tautos atšakų, XIII a. siejama su Jotvingija �
   pagrindžia:
     - t-003
     - t-009
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -230,6 +232,7 @@ Jotvingiai buvo viena lietuvių tautos atšakų, XIII a. siejama su Jotvingija �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-004
   santrauka: 'Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų ir badmečių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -249,6 +252,7 @@ Jotvingiai buvo viena lietuvių tautos atšakų, XIII a. siejama su Jotvingija �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-005
   santrauka: 'Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -263,6 +267,7 @@ Jotvingiai buvo viena lietuvių tautos atšakų, XIII a. siejama su Jotvingija �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -295,6 +300,7 @@ Jotvingiai buvo viena lietuvių tautos atšakų, XIII a. siejama su Jotvingija �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   santrauka: 'Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų antpuolių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -314,6 +320,7 @@ Jotvingiai buvo viena lietuvių tautos atšakų, XIII a. siejama su Jotvingija �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -328,6 +335,7 @@ Jotvingiai buvo viena lietuvių tautos atšakų, XIII a. siejama su Jotvingija �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   santrauka: 'Ivinskis jotvingių sunykimą siejo su badmečių, marų ir žiaurių to meto karų poveikiu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -348,6 +356,7 @@ Jotvingiai buvo viena lietuvių tautos atšakų, XIII a. siejama su Jotvingija �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-010
   santrauka: 'XIII a. duomenimis, Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -365,6 +374,7 @@ Jotvingiai buvo viena lietuvių tautos atšakų, XIII a. siejama su Jotvingija �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -380,6 +390,7 @@ Jotvingiai buvo viena lietuvių tautos atšakų, XIII a. siejama su Jotvingija �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-012
   santrauka: 'Lietuvos metraštyje Vykintas vaizduojamas sidabru ir įvairiomis dovanomis palenkęs jotvingius ir pusę žemaičių.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -399,6 +410,7 @@ Jotvingiai buvo viena lietuvių tautos atšakų, XIII a. siejama su Jotvingija �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-013
   santrauka: 'Tautvilas, pabėgęs pas Vykintą į Žemaitiją, pasiėmė jotvingius, žemaičius ir Danieliaus pagalbą žygiui prieš Mindaugą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -417,6 +429,7 @@ Jotvingiai buvo viena lietuvių tautos atšakų, XIII a. siejama su Jotvingija �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-014
   santrauka: 'Lietuvos metraštyje Mindaugo svainis po Mindaugo pasitraukimo į Vorutos pilį naktį išvaikė rusus ir jotvingius.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

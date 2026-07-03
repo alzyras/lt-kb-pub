@@ -54,6 +54,7 @@ Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarn
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Prūsai pagavo Samilį, kankino jį verdančiu vandeniu ir ugnimi, o vėliau Samilis pas brolius pasveiko.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

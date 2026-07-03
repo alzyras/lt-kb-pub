@@ -79,6 +79,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Lietuvos pasiuntiniams buvo nurodyta siekti, kad Maskvos valdovas atstatytų pilis, grąžintų belaisvius bei perbėgėlius ir įtrauktų Livonijos magistrą į sutartį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -108,6 +109,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Lietuva ir Maskva sutarė paliaubų metu derėtis dėl amžinos taikos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

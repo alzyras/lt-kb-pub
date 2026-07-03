@@ -172,6 +172,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-002
   santrauka: 'Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -187,6 +188,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-003
   santrauka: 'Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -203,6 +205,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-004
   santrauka: 'Pirmosios Magdeburgo teisės Lietuvoje būtų pagerinusios miesto būklę, jei vidaus karas nebūtų sukėlęs naujos sumaišties šalyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -226,6 +229,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Žygimantas dviem privilegijomis lotynų ir rusų kalbomis atnaujino ir patvirtino Vilniaus Magdeburgo teises.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -272,6 +276,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -294,6 +299,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-007
   santrauka: '1441 m. Kazimiero privilegija atnaujino Vilniaus Magdeburgo teises, nustatė du didžiuosius prekymečius ir savaitinius turgus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -320,6 +326,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-008
   santrauka: 'Karinis valdymas, kryžiuočių antpuoliai ir Vilniaus apgultys trukdė įtvirtinti Magdeburgo teises tarp miestiečių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -364,6 +371,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-009
   santrauka: 'Vladislovas Jogaila Merkinėje rašytu aktu kitą dieną po Šv. Benedikto, abato, šventės suteikė Vilniui Magdeburgo teises.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -403,6 +411,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-010
   santrauka: 'Žygimantas privilegijomis amžiams suteikė miestui vokišką Magdeburgo teisę, nuo seno naudotą Krokuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -425,6 +434,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -455,6 +465,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-012
   santrauka: 'Švitrigaila, įžengęs į Lietuvos sostą, nepatvirtino dovanojimų, paremtų Magdeburgo teise.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -480,6 +491,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-013
   santrauka: '1492 m. Trakuose Aleksandras privilegija Vilniui suteikė Magdeburgo teises ir laisvę laikyti vaško dirbtuvę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -505,6 +517,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -536,6 +549,7 @@ Magdeburgo teisės Lietuvos miestuose reiškė savivaldybės, arba vadinamosios 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-015
   santrauka: 'Vytauto laikais kai kuriems iškilusiems Lietuvos miestams buvo suteiktos savivaldybės, vadinamos Magdeburgo teisėmis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

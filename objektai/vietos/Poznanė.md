@@ -241,6 +241,7 @@ Poznanė žinių bazėje siejama su Didžiąja Lenkija, viena iš dviejų Lenkij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-002
   santrauka: '„Kronika Lechitów i Polaków“ buvo parašyta Poznanės kustodo Godzislavo Baško.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -266,6 +267,7 @@ Poznanė žinių bazėje siejama su Didžiąja Lenkija, viena iš dviejų Lenkij
   pagrindžia:
     - t-012
     - t-007
+
 - c-003
   santrauka: 'Martino Galiaus pasakojimu, Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -285,6 +287,7 @@ Poznanė žinių bazėje siejama su Didžiąja Lenkija, viena iš dviejų Lenkij
   pagrindžia:
     - t-011
     - t-003
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -299,6 +302,7 @@ Poznanė žinių bazėje siejama su Didžiąja Lenkija, viena iš dviejų Lenkij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -318,6 +322,7 @@ Poznanė žinių bazėje siejama su Didžiąja Lenkija, viena iš dviejų Lenkij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -344,6 +349,7 @@ Poznanė žinių bazėje siejama su Didžiąja Lenkija, viena iš dviejų Lenkij
   pagrindžia:
     - t-004
     - t-008
+
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -362,6 +368,7 @@ Poznanė žinių bazėje siejama su Didžiąja Lenkija, viena iš dviejų Lenkij
   pagrindžia:
     - t-005
     - t-006
+
 - c-008
   santrauka: 'Boleslovo laikais Krušvica, Poznanė ir kiti Didžiosios Lenkijos miestai garsėjo turtais ir gyventojų gausa.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -388,6 +395,7 @@ Poznanė žinių bazėje siejama su Didžiąja Lenkija, viena iš dviejų Lenkij
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-009
   santrauka: 'Keliaudamas iš Poznanės į Srodą karalius vos nežuvo per audrą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

@@ -183,6 +183,7 @@ Julijona buvo Vytauto žmona, šaltiniuose minima kaip Algimanto Alšėniškio d
   pagrindžia:
     - t-019
     - t-015
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -197,6 +198,7 @@ Julijona buvo Vytauto žmona, šaltiniuose minima kaip Algimanto Alšėniškio d
   pagrindžia:
     - t-014
     - t-005
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -211,6 +213,7 @@ Julijona buvo Vytauto žmona, šaltiniuose minima kaip Algimanto Alšėniškio d
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -225,6 +228,7 @@ Julijona buvo Vytauto žmona, šaltiniuose minima kaip Algimanto Alšėniškio d
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -249,6 +253,7 @@ Julijona buvo Vytauto žmona, šaltiniuose minima kaip Algimanto Alšėniškio d
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-006
   santrauka: 'Vytauto žmona Julijona, Algimanto Alšėniškio duktė, išpažino graikų apeigų tikėjimą ir turėjo koplyčią Trakų pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -286,6 +291,7 @@ Julijona buvo Vytauto žmona, šaltiniuose minima kaip Algimanto Alšėniškio d
   pagrindžia:
     - t-002
     - t-004
+
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -316,6 +322,7 @@ Julijona buvo Vytauto žmona, šaltiniuose minima kaip Algimanto Alšėniškio d
   pagrindžia:
     - t-006
     - t-010
+
 - c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -330,6 +337,7 @@ Julijona buvo Vytauto žmona, šaltiniuose minima kaip Algimanto Alšėniškio d
   pagrindžia:
     - t-011
     - t-016
+
 - c-009
   santrauka: 'Pasiligojusi Vytauto žmona Julijona buvo apsistojusi kunigaikščių kaime Memitz prie Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -351,6 +359,7 @@ Julijona buvo Vytauto žmona, šaltiniuose minima kaip Algimanto Alšėniškio d
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-010
   santrauka: 'Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už atsiųstus gėrimus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -398,6 +407,7 @@ Julijona buvo Vytauto žmona, šaltiniuose minima kaip Algimanto Alšėniškio d
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-011
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -415,6 +425,7 @@ Julijona buvo Vytauto žmona, šaltiniuose minima kaip Algimanto Alšėniškio d
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-012
   santrauka: '1426 m. sirgusi didžioji kunigaikštienė Julijona iš Pauliaus Rusdorfo gavo dovanų atsiųstų gydomųjų gėrimų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -447,6 +458,7 @@ Julijona buvo Vytauto žmona, šaltiniuose minima kaip Algimanto Alšėniškio d
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -463,6 +475,7 @@ Julijona buvo Vytauto žmona, šaltiniuose minima kaip Algimanto Alšėniškio d
   pagrindžia:
     - t-008
     - t-018
+
 - c-014
   santrauka: 'Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -479,6 +492,7 @@ Julijona buvo Vytauto žmona, šaltiniuose minima kaip Algimanto Alšėniškio d
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-015
   santrauka: 'Vilniaus vyskupas Petras atkakliai priešinosi Vytauto ir Julijonos santuokai, kad nebūtų pažeisti dievo bei žmonių įstatymai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

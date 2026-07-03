@@ -51,6 +51,7 @@ Dusburgietis teigia, kad tas tarnas, gimęs Halėje, buvo toks padorus bei proti
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Imperatorius Maksimilijonas netoli Halės jėga atėmė maskvėnų belaisvius iš karaliaus žygūnų ir grąžino juos į Maskvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

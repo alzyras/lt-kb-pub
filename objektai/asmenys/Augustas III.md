@@ -89,6 +89,7 @@ Augustas III buvo Augusto II sūnus, po tėvo mirties tapęs ATR valdovu Rusijos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: 'Po Augusto III mirties atsirado nemaža kandidatų į sostą, tarp jų buvo ir greitai miręs vyresnysis Augusto III sūnus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -104,6 +105,7 @@ Augustas III buvo Augusto II sūnus, po tėvo mirties tapęs ATR valdovu Rusijos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Po Augusto II mirties ATR karaliumi tapo Rusijos remiamas Augusto II sūnus Augustas III.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -121,6 +123,7 @@ Augustas III buvo Augusto II sūnus, po tėvo mirties tapęs ATR valdovu Rusijos
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Po Augusto II mirties Rusija, Austrija ir Prūsija priešinosi tiek Fridriko Augusto, tiek Leščinskio išrinkimui į sostą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

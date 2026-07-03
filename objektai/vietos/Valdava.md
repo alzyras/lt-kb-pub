@@ -48,6 +48,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčiuose kai kurie gyventojai atidavė karaliui įkaitais savo sūnus ir prisiekė paklusti tikėjimui bei broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

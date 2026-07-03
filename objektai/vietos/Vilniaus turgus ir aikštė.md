@@ -62,6 +62,7 @@ Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kr
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Vilniaus vyskupui leista aikštėje ir bažnyčios teritorijoje įrengti tiek mėsinių, kiek jis anksčiau turėjo turguje ir Vilniaus aikštėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

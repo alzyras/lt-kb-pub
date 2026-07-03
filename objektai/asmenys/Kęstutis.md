@@ -918,7 +918,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-002
+    - t-005
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Darydamas taiką su Vengrijos karaliumi Liudviku Anjou,
@@ -932,7 +933,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-003
+    - t-003
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Didysis kovotojas savo gyvenimą baigė ne kautynių lauke, o
@@ -945,7 +947,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Jogailai siekiant didelės valdžios, Kęstutis jam trukdė dėdės autoritetu, mūšių šlove ir nepalenkiamu būdu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -972,7 +975,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
-    - t-014- c-005
+    - t-014
+- c-005
   santrauka: 'Kęstutis su Vytautu atvyko į priešo stovyklą tartis, bet buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir pasmaugtas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1032,7 +1036,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-006
+    - t-011
+- c-006
   santrauka: 'Manoma, kad Kęstutis Trakų pusiasalio pilį pastatė iki 1377 m.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1043,7 +1048,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-007
+    - t-004
+- c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, jis buvo pačiam valstybės branduolio cen-
@@ -1056,7 +1062,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-008
+    - t-006
+- c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tas pakvietė juos į Vilnių, kur abudu
@@ -1070,7 +1077,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-009
+    - t-008
+- c-009
   santrauka: 'Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1092,7 +1100,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   pagrindžia:
     - t-022
     - t-018
-    - t-023- c-010
+    - t-023
+- c-010
   santrauka: '1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1111,7 +1120,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-011
+    - t-013
+- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau, apsuptas išdavikų,
@@ -1130,7 +1140,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-012
+    - t-016
+- c-012
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Žuvusiam maršalkai Schindekopui pamin-
@@ -1148,7 +1159,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-013
+    - t-007
+- c-013
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Prie Gedimino
@@ -1162,7 +1174,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-014
+    - t-002
+- c-014
   santrauka: '1365 m. Kęstutis su Algirdu, Patriku ir Aleksandru įsiveržė į Ordino valdas ir po žygio dievams ugnyje paaukojo vokietį belaisvį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -1177,7 +1190,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-015
+    - t-012
+- c-015
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     « Lietuvos diecezijai » buvo lemta greitai žlugti,
@@ -1194,7 +1208,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-016
+    - t-001
+- c-016
   santrauka: 'Jogaila pažadėjo Žemaičius kryžiuočiams, kai jų remiamas nugalėjo Kęstutį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1209,7 +1224,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019- c-017
+    - t-019
+- c-017
   santrauka: 'Manoma, kad Kęstutis iki 1377 m. pastatė pilį, kuri 1414–1430 m. buvo perstatyta ir baigta Vytauto valdymo metu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1222,7 +1238,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-018
+    - t-020
+- c-018
   santrauka: 'Kęstutis valdė Žemaitijoje ir dar Gediminui gyvam esant buvo išgarsėjęs mūšiais su Mazovija, Rusia ir Prūsijos ordinu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1242,7 +1259,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-019
+    - t-021
+- c-019
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trakų pilis, reikia many­
@@ -1270,7 +1288,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-020
+    - t-017
+- c-020
   santrauka: 'Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei kunigaikščių buveinei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1292,7 +1311,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-021
+    - t-010
+- c-021
   santrauka: 'Kęstutis krikštu kaip priemone gintis nuo Vokiečių ordino karų daug nepasitikėjo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1308,7 +1328,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-022
+    - t-017
+- c-022
   santrauka: 'Kęstučio laikų vidaus kivirčų metu Vilniaus gyventojai išlaikė ištikimybę ir prieraišumą valdovui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1334,7 +1355,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-023
+    - t-009
+- c-023
   santrauka: 'Kojelavičius Kęstutį laikė didžiausios autoriaus pagarbos nusipelniusiu Lietuvos istorijos veikėju.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1350,7 +1372,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024- c-024
+    - t-024
+- c-024
   santrauka: 'Kęstutis lapkričio 22 dieną slapta įvedė kariuomenę į Vilnių ir paryčiu užėmė abi pilis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1379,7 +1402,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025- c-025
+    - t-025
+- c-025
   santrauka: 'Algirdas su broliu Kęstučiu skubiai aptarė žygūno atneštą reikalą ir slapta pasirengė karui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1398,7 +1422,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026- c-026
+    - t-026
+- c-026
   santrauka: 'Kęstutis valdė dideles žemes Rusioje, kai kitas Algirdo brolis Liubartas valdė Lvovą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1415,7 +1440,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027- c-027
+    - t-027
+- c-027
   santrauka: 'Kazimiero žygio metu lietuvių pulkas buvo išsklaidytas, o Kęstutis gyvas pateko į priešų rankas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1440,7 +1466,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-028- c-028
+    - t-028
+- c-028
   santrauka: 'Kęstutis paspruko iš kalėjimo ir su broliu Liubartu įvedė kariuomenę į karaliaus užimtas Rusios žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1461,7 +1488,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029- c-029
+    - t-029
+- c-029
   santrauka: 'Henrikas Ekersbergas ietimi smogė Kęstučio arkliui iš šono, nubloškė Kęstutį nuo žirgo, ir Kęstutis pateko į priešų rankas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1493,7 +1521,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-030- c-030
+    - t-030
+- c-030
   santrauka: 'Kęstutis rengė didesnį žygį prieš Prūsiją ir telkė Lietuvos, Žemaitijos, Rusios bei totorių pajėgas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1516,7 +1545,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-031- c-031
+    - t-031
+- c-031
   santrauka: 'Sugrįžęs į Lietuvą, Kęstutis vedė vaidilutę Birutę, bet netrukus kryžiuočiai užpuolė Žemaitiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1536,7 +1566,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-032- c-032
+    - t-032
+- c-032
   santrauka: 'Kęstutis Žemaitijoje surinko kariuomenę, persikėlė per Nerį, susijungė su Vytautu ir pradėjo pulti Trakus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1563,7 +1594,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-033- c-033
+    - t-033
+- c-033
   santrauka: 'Kęstutis žinojo, kad Jogailos kariuomenė pranoksta jo pajėgas ginkluote ir karių skaičiumi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1587,7 +1619,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034- c-034
+    - t-034
+- c-034
   santrauka: 'Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -1616,7 +1649,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-035- c-035
+    - t-035
+- c-035
   santrauka: 'Narbutas rašė, kad Kęstutis su Birute turėjo sūnus Patriką, Vytautą, Tautvilą, Sigailą arba Žygimantą ir dukterį Danutę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1635,7 +1669,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-036- c-036
+    - t-036
+- c-036
   santrauka: 'Narbutas rašė, kad Kęstutis, Gedimino ir Smolensko kunigaikštytės Olgos sūnus, gimė 1297 metais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -1650,7 +1685,8 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-037- c-037
+    - t-037
+- c-037
   santrauka: 'Narbutas taisė Okolskį ir Strijkovskį, teigdamas, kad Naujuosius Trakus įkūrė Gediminas, o ne Kęstutis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

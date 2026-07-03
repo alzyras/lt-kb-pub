@@ -88,6 +88,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Prūsų valsčių sudarė pilis, dideli laukų, pievų ir miškelių plotai, bajorų sodybos-kaimai ir žemdirbių sodžiai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -102,6 +103,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Prūsijoje žemiausias teritorinio skirstymo vienetas buvo pulka arba polka, Dusburgiečio vadinta campus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -123,6 +125,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Kronikos lotyniškas terminas „territorium castri“ reiškia pilies apygardą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

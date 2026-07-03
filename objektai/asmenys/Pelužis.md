@@ -105,6 +105,7 @@ Pelužis buvo lietuvis, kuris, pasak Dusburgiečio, įžeistas savo viešpaties 
   pagrindžia:
     - t-003
     - t-001
+
 - c-002
   santrauka: 'Pelužio prašymu Karaliaučiaus komtūras jam paskyrė Martyną iš Golino, Konradą Velnią, Stavimėlą ir 20 kitų vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -125,6 +126,7 @@ Pelužis buvo lietuvis, kuris, pasak Dusburgiečio, įžeistas savo viešpaties 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Pelužis apie sumanymą pranešė Karaliaučiaus komtūrui Albertui fon Meisenui, kuris jį parėmė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -143,6 +145,7 @@ Pelužis buvo lietuvis, kuris, pasak Dusburgiečio, įžeistas savo viešpaties 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Pelužio būrys buvo papildytas keliais miklesniais jo dvariškiais ir dvidešimčia kryžiuočių riterių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

@@ -65,6 +65,7 @@ Vartojamos formos: `kūrėjų kūrėjo`.
   pagrindžia:
     - t-002
     - t-003
+
 - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |

@@ -54,7 +54,8 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas rašė, kad kai kur Žemaitijoje Perkūnaitėlei skirtos maldos buvo kreipiamos į Mergelę Mariją, vadintą Panna Marya Perkunatele arba Perkūnija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -69,7 +70,8 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Narbutas manė, kad aptariamas paminklas galėjo priklausyti XV amžiaus pradžiai ir būti sukurtas pagal stabmeldišką Perkūnaitėlės vaizdinį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

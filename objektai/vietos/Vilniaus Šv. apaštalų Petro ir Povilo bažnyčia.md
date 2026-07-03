@@ -50,6 +50,7 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
   pagrindžia:
     - t-001
     - t-003
+
 - c-002
   santrauka: 'Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia priskiriama europinės reikšmės kūriniams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

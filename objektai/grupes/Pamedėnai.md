@@ -160,7 +160,8 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-002
+    - t-003
+- c-002
   santrauka: 'Antra — Pamedė192, kurioje [gyveno] pamedėnai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -172,7 +173,8 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-003
+    - t-001
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ordino pajėgos
@@ -196,7 +198,8 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-    - t-007- c-004
+    - t-007
+- c-004
   santrauka: 'Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -215,7 +218,8 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-005
+    - t-009
+- c-005
   santrauka: 'Per badą pilyje broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti į kitas vietas, kad galėtų prasimaitinti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -232,7 +236,8 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-006
+    - t-003
+- c-006
   santrauka: 'Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -250,7 +255,8 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-007
+    - t-002
+- c-007
   santrauka: 'Per naują atsimetimą ištikimieji pamedėnai liko tarp tų, kurie nesusimokė atsimesti nuo krikščionybės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -266,7 +272,8 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-008
+    - t-006
+- c-008
   santrauka: 'Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -286,7 +293,8 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-009
+    - t-009
+- c-009
   santrauka: 'Pamedės Reisių valsčiuje gyvenę pamedėnai buvo puolami grobimais, gaisrais ir kraujo praliejimu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -303,7 +311,8 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-010
+    - t-004
+- c-010
   santrauka: 'Belichovo pilis prie Osos priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -320,7 +329,8 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-011
+    - t-005
+- c-011
   santrauka: 'Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -335,7 +345,8 @@ Pamedėnai buvo Pamedėje gyvenusi prūsų grupė, XIII a. minima Ordino kovų i
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-012
+    - t-002
+- c-012
   santrauka: 'Narbutas rašo, kad pamedėnai turėjo prisiekti nepriimti krikščionių tikėjimo ir ginti savo senąjį tikėjimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

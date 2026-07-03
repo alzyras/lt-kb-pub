@@ -61,7 +61,8 @@ Vilniaus-Radomo susitarimas 1401 m. buvo patvirtintas keturiais atskirais Vytaut
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Vilniaus-Radomo susitarimas taip vadinamas dėl Vilniuje ir Radome surašytų jį patvirtinusių dokumentų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -77,7 +78,8 @@ Vilniaus-Radomo susitarimas 1401 m. buvo patvirtintas keturiais atskirais Vytaut
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Vilniaus-Radomo susitarimu Vytautas pripažintas tikruoju valdovu, bet po jo mirties Lietuva turėjo grįžti Jogailai ir jo įpėdiniams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

@@ -55,7 +55,8 @@ Narbutas pirmykšte reikšme burtininkais laikė eilių kūrėjus ir savo pači�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas rašė, kad nykstant lietuvių mitologijai burtininkų profesija nusmuko iki paprastų dainių, kurių klausytasi pramogai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

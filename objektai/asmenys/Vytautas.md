@@ -2679,7 +2679,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-002
+    - t-021
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pabėgėlis Vytautas už paramą turėjo priimti visas ordino
@@ -2691,7 +2692,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-003
+    - t-022
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pasižadėdamas ordinui padėti užimti Žemaičius, Vytautas
@@ -2709,7 +2711,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
-    - t-127- c-004
+    - t-127
+- c-004
   santrauka: '1404 m. rugpjūčio viduryje Vytautas po Smolensko operacijos susitiko su didžiuoju magistru Ritterswerderio saloje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2726,7 +2729,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-087
-    - t-013- c-005
+    - t-013
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip
@@ -2743,7 +2747,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
-    - t-109- c-006
+    - t-109
+- c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tik 1410 m. Lietuvos val-
@@ -2755,7 +2760,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-007
+    - t-016
+- c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vienas galingiausių Lietuvos valdovų, didysis kunigaikštis
@@ -2768,7 +2774,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
-    - t-018- c-008
+    - t-018
+- c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visų viršininku buvo laikomas Jogaila, ir jis turėjo duoti ženklą
@@ -2781,7 +2788,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-113- c-009
+    - t-113
+- c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene
@@ -2795,7 +2803,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-083- c-010
+    - t-083
+- c-010
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Po kiek laiko kronikos vėl mini 1377 metų Vytauto žygį.
@@ -2807,7 +2816,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-039- c-011
+    - t-039
+- c-011
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Grįždamas iš šito žygio, Kryžiuočių Ordinas 1383 metų
@@ -2820,7 +2830,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-121- c-012
+    - t-121
+- c-012
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1392 metai Vytauto gyvenime yra persilaužimo metai —
@@ -2834,7 +2845,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-058- c-013
+    - t-058
+- c-013
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nuo pat jaunystės Vytautas mėgo karo dalykus, ginklus.
@@ -2846,7 +2858,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-055- c-014
+    - t-055
+- c-014
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Savo grįžimu iš ordino Vytautas, pradžioje tik Skirgailos vietą
@@ -2859,7 +2872,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-015
+    - t-009
+- c-015
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vytautas viešai dėjosi nekaltas ir norėjo « savo rankas nusi­
@@ -2874,7 +2888,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
-    - t-069- c-016
+    - t-069
+- c-016
   santrauka: '1398 m. spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2888,7 +2903,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-051- c-017
+    - t-051
+- c-017
   santrauka: 'Vytautas, apsimetęs ordino draugu, mainėsi laiškais, davė patarimus, keitėsi brangiomis dovanomis ir tarėsi nematąs įvykių Žemaičiuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2903,7 +2919,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-111- c-018
+    - t-111
+- c-018
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     labai siaurą priėjimą prie Baltijos (Palangos), kurią čia pirmą
@@ -2920,7 +2937,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-    - t-001- c-019
+    - t-001
+- c-019
   santrauka: 'Trakų Galvės ežero salos pilis tapo Vytauto Didžiojo pasididžiavimu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2936,7 +2954,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-020
+    - t-008
+- c-020
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     politinį gyvenimą. Ir socialiniu atžvilgiu jie skyrėsi nuo kitų lie­
@@ -2949,7 +2968,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-021
+    - t-003
+- c-021
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Todėl Kęstutis ir Algirdas, norėdami paimti
@@ -2963,7 +2983,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-022
+    - t-009
+- c-022
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^262) ii skyrius: valstybės iškilimas
@@ -2981,7 +3002,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-023
+    - t-010
+- c-023
   santrauka: 'Sugrįžęs iš ordino, Vytautas 1384–1389 m. tarnavo Jogailai ir rėmė jo politinius bei kultūrinius žygius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -2998,7 +3020,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-105- c-024
+    - t-105
+- c-024
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Sugrįžęs iš ordino, Vytautas penkerius metus (1384-89) tarnavo
@@ -3011,7 +3034,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-025
+    - t-004
+- c-025
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvos ir ordino santykių
@@ -3027,7 +3051,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-026
+    - t-011
+- c-026
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Du suimti paties Jogailos broliai buvo nusiųsti Krokuvon^3.
@@ -3041,7 +3066,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-118
-    - t-009- c-027
+    - t-009
+- c-027
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvos kunigaikštijos priklausomybę nuo Karūnos. Susi­
@@ -3056,7 +3082,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-    - t-028- c-028
+    - t-028
+- c-028
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Galutinis unijos sulaužymas butų
@@ -3071,7 +3098,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-029
+    - t-005
+- c-029
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tai butų davę progos vokiečių ordinui vesti
@@ -3089,7 +3117,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-030
+    - t-006
+- c-030
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šalia jo politikoje reikalingo didelio lankstumo, kyšojo nepaprasta
@@ -3102,7 +3131,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-031
+    - t-015
+- c-031
   santrauka: 'Zenonas Ivinskis Vytautui priskyrė taupumą ir didelį švaistymąsi materialinėmis gėrybėmis, ypač siekiant pasirodyti užsieniečiams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -3119,7 +3149,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-135- c-032
+    - t-135
+- c-032
   santrauka: 'Vytautas dėl teisingo elgesio pelnė didelę pagarbą tarp savųjų ir svetimųjų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -3136,7 +3167,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-144- c-033
+    - t-144
+- c-033
   santrauka: 'Vytautas mokėjo vokiečių ir lotynų kalbas, o šaltinyje svarstoma, kad galėjo mokėti ir rusų bei totorių kalbas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -3151,7 +3183,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-050- c-034
+    - t-050
+- c-034
   santrauka: 'Vytauto istoriškai reikšminga veikla prasidėjo Kęstučio kovos su Jogaila metu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -3167,7 +3200,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-152- c-035
+    - t-152
+- c-035
   santrauka: 'Jogailai išvykus į Lenkiją, Vytautas buvo akylai stebimas ir negalėjo savarankiškai veikti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3192,7 +3226,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-147- c-036
+    - t-147
+- c-036
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ir Lietuvos sostinė ilgai netvėrė Kęstučio valdžioje;
@@ -3212,7 +3247,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-114
-    - t-028- c-037
+    - t-028
+- c-037
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lengviausia, žinoma, buvo įtraukti į karą Vokiečių Or­
@@ -3228,7 +3264,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-062- c-038
+    - t-062
+- c-038
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva liks savarankiška civilizacinė monada, todėl
@@ -3241,7 +3278,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-086- c-039
+    - t-086
+- c-039
   santrauka: '1426 m. Vytautas dėl žmonos Julijonos ligos kreipėsi į didįjį magistrą prašydamas gydytojo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3272,7 +3310,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-096- c-040
+    - t-096
+- c-040
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio priešistorė
@@ -3294,7 +3333,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-049
-    - t-019- c-041
+    - t-019
+- c-041
   santrauka: 'Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3317,7 +3357,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-153
-    - t-030- c-042
+    - t-030
+- c-042
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kai šį sprendimą sužinojo Vytautas ir
@@ -3333,7 +3374,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-045- c-043
+    - t-045
+- c-043
   santrauka: 'Nuo 1930 m. rugsėjo 8 d. Tautos šventė minėjo neįvykusį Vytauto karūnavimą ir Švenčiausiosios Mergelės Marijos gimimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3354,7 +3396,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-128- c-044
+    - t-128
+- c-044
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atrodo, kad visa Vytauto politika orientuota į „švento
@@ -3372,7 +3415,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-063
-    - t-097- c-045
+    - t-097
+- c-045
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Per menkos buvo dovanos, kad būtų vertusios veidmai­
@@ -3386,7 +3430,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-145- c-046
+    - t-145
+- c-046
   santrauka: 'Jogaila ir Vytautas buvo paskatinti Lucke sušaukti monarchų ir kunigaikščių suvažiavimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3405,7 +3450,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-137- c-047
+    - t-137
+- c-047
   santrauka: 'Vytauto Didžiojo vardas siejamas su LDK tradicija, kėlusia atgimstančios lietuvių tautos sąmonę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3419,7 +3465,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-040- c-048
+    - t-040
+- c-048
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
@@ -3431,7 +3478,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   citata_rodoma: ''
   statusas: verified
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-049
+  patikimumo_saltinis: ai
+- c-049
   santrauka: 'Vytauto Didžiojo kulto pasakojime jis vaizduotas kaip Žalgirio mūšį laimėjęs karvedys ir Lietuvos karūnos siekęs valdovas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3451,7 +3499,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-036- c-050
+    - t-036
+- c-050
   santrauka: 'Mokslininkai kelia mintį, kad Vytauto valstybės pakraščiuose galėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3468,7 +3517,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-146- c-051
+    - t-146
+- c-051
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vytautas apgavo Ordino vadus – davė žemaičiams įsaky-
@@ -3484,7 +3534,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-133
-    - t-130- c-052
+    - t-130
+- c-052
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šis pavojus ir turėjo būt aptartas suvažia­
@@ -3497,7 +3548,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-047- c-053
+    - t-047
+- c-053
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi
@@ -3516,7 +3568,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-032- c-054
+    - t-032
+- c-054
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas savo ka­
@@ -3532,7 +3585,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-056- c-055
+    - t-056
+- c-055
   santrauka: 'Vytautas Lietuvos Didžiojoje Kunigaikštystėje apgyvendino musulmonų totorių ir karaimų bendruomenes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3550,7 +3604,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-104
-    - t-124- c-056
+    - t-124
+- c-056
   santrauka: 'Vytautas pirmasis metė Lietuvos kariuomenę į Žalgirio mūšį, nes nesulaukė Jogailos žodžio pradėti kovą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3564,7 +3619,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
-    - t-081- c-057
+    - t-081
+- c-057
   santrauka: 'Vytauto seserį Oną vedė vyresnysis Mazovijos kunigaikštis Jonušas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3583,7 +3639,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-122- c-058
+    - t-122
+- c-058
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytauto
@@ -3603,7 +3660,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-052
-    - t-066- c-059
+    - t-066
+- c-059
   santrauka: 'Vytauto politika šaltinyje siejama su bažnytine politika, Lietuvos konversija ir Žemaičių krikštu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3621,7 +3679,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-091- c-060
+    - t-091
+- c-060
   santrauka: 'Vytautas tikėjo, kad viename pralaimėtame mūšyje jį išgelbėjo Švč. Mergelė Marija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3638,7 +3697,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025- c-061
+    - t-025
+- c-061
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Todėl ji savo grynai lietuviškomis tradicijomis
@@ -3655,7 +3715,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027- c-062
+    - t-027
+- c-062
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Il KNYGA
@@ -3672,7 +3733,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-047- c-063
+    - t-047
+- c-063
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Be to, Vytautas įkūnijo kiekvienam
@@ -3691,7 +3753,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-110
-    - t-075- c-064
+    - t-075
+- c-064
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nežiūrint visų nesusipratimų su lenkais, Vytautas ir dabar
@@ -3706,7 +3769,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-129- c-065
+    - t-129
+- c-065
   santrauka: '1430 m. Vytautas ketino karūnuotis Lietuvos karaliumi, dalyvaujant sušauktiems kunigaikščiams ir pasiuntiniams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3735,7 +3799,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-103- c-066
+    - t-103
+- c-066
   santrauka: 'Vytauto tolerancijos įvaizdis sietas su totorių pakvietimu į Lietuvą ir žydams suteiktomis privilegijomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3753,7 +3818,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029- c-067
+    - t-029
+- c-067
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taigi šiam
@@ -3772,7 +3838,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-048- c-068
+    - t-048
+- c-068
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Didysis kunigaikštis ne­
@@ -3795,7 +3862,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-048- c-069
+    - t-048
+- c-069
   santrauka: '1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos tapatumą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3833,7 +3901,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-077
-    - t-027- c-070
+    - t-027
+- c-070
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Apie tai galima spręsti iš to, kad Jogaila, kartu su
@@ -3852,7 +3921,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-112- c-071
+    - t-112
+- c-071
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Warsz.
@@ -3886,7 +3956,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-045
-    - t-098- c-072
+    - t-098
+- c-072
   santrauka: '1413 m. Vytautas su Jogaila pradėjo krikštyti žemaičius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3900,7 +3971,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-071
-    - t-042- c-073
+    - t-042
+- c-073
   santrauka: 'Vytautui priskiriama pirmoji vienos Žemaitijos bažnyčios fundacija po krikščionybės įvedimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3919,7 +3991,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-095
-    - t-034- c-074
+    - t-034
+- c-074
   santrauka: 'Vytautas Didysis, Kęstučio sūnus, valdė 1392–1430 m. ir šaltinyje vadinamas iškiliausiu Gediminaičių dinastijos atstovu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3941,7 +4014,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   pagrindžia:
     - t-038
     - t-043
-    - t-090- c-075
+    - t-090
+- c-075
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tų karingų vienuolių viršininkas, greitas
@@ -3963,7 +4037,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-040- c-076
+    - t-040
+- c-076
   santrauka: 'Vytautas priėmė Maskvos metropolitą Fotijų, tačiau šis nieko nelaimėjęs išvyko į Maskvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3993,7 +4068,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-100- c-077
+    - t-100
+- c-077
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1430 m. Vytautas Jogailos sutikimą vėl gavo, reikėjo sulaukti
@@ -4008,7 +4084,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-078
-    - t-082- c-078
+    - t-082
+- c-078
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lucko suvažiavi-
@@ -4027,7 +4104,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-123
-    - t-116- c-079
+    - t-116
+- c-079
   santrauka: '1410 m. Vytautas, su kariuomene įžengęs į Prūsiją, rado jam palankių prūsų bajorų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -4043,7 +4121,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-053- c-080
+    - t-053
+- c-080
   santrauka: 'Vilniaus vyskupui Petrui atsisakius sutuokti dėl artimos giminystės, tarp jo ir Vytauto kilo karšti ginčai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4072,7 +4151,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-120- c-081
+    - t-120
+- c-081
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas, apie kurį mes čia kalbėsime, buvo žymiausias
@@ -4088,7 +4168,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-059- c-082
+    - t-059
+- c-082
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai
@@ -4105,7 +4186,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
-    - t-035- c-083
+    - t-035
+- c-083
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet iš ki­
@@ -4123,7 +4205,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-079- c-084
+    - t-079
+- c-084
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaprastas Rin­
@@ -4139,7 +4222,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   citata_rodoma: ''
   statusas: verified
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-085
+  patikimumo_saltinis: ai
+- c-085
   santrauka: '1401 m. Vytautas davė Jogailai aktą, kad po jo mirties Lietuva ir Rusia pereis karaliaus valdžion.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4158,7 +4242,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-030- c-086
+    - t-030
+- c-086
   santrauka: '1413 m. Salyno derybose Vytautas pareiškė, kad Prūsai iki Osos yra jo tėvų palikimas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -4170,7 +4255,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-140- c-087
+    - t-140
+- c-087
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Įtarusis Jogaila nepasitikėjo Vytautu ir, laužydamas
@@ -4194,7 +4280,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-037
-    - t-080- c-088
+    - t-080
+- c-088
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tasai kunigaikštis, toks pat
@@ -4212,7 +4299,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-044- c-089
+    - t-044
+- c-089
   santrauka: 'Vytautas siekė Lietuvos karaliaus karūnos, tačiau tam priešinosi Vladislovas Jogaila ir Lenkijos senatas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4238,7 +4326,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-107- c-090
+    - t-107
+- c-090
   santrauka: 'Vytautas išvyko į Žemaitiją, kur jo tėvui Kęstučiui nuo seno buvo palankūs paprasti žmonės ir bajorai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4268,7 +4357,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-060
-    - t-041- c-091
+    - t-041
+- c-091
   santrauka: '1384 m. rugpjūčio 23 d. Vytauto dovanojimo aktas Trakų miestui liudijo, kad jis jau buvo krikščionis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4297,7 +4387,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-044- c-092
+    - t-044
+- c-092
   santrauka: 'Vytautas nutraukė ryšius su Maskvos metropolitu Fotijumi ir liepė Naugarduke išrinkti Lietuvai atskirą metropolitą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4324,7 +4415,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-134- c-093
+    - t-134
+- c-093
   santrauka: 'Vytautas nustojo mokėti duoklę mongolams, panaikino dalinių kunigaikštijų sistemą, paskyrė vietininkus ir sutelkė realią valdžią LDK savo rankose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -4338,7 +4430,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-126- c-094
+    - t-126
+- c-094
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     116
@@ -4360,7 +4453,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   citata_rodoma: ''
   statusas: verified
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-095
+  patikimumo_saltinis: ai
+- c-095
   santrauka: 'Pirmoji Balinskio Vilniaus istorijos dalis baigiama 1430 m., kai mirė Vytautas Didysis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4380,7 +4474,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-102- c-096
+    - t-102
+- c-096
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     sustiprėjusi Vytauto padėtis. Ir Vytautas, nesitikėdamas tuo
@@ -4392,7 +4487,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-085- c-097
+    - t-085
+- c-097
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tos dienos rytą Jogailos ir Vytauto pozicijos skyrėsi. Vytautas troško
@@ -4405,7 +4501,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-139- c-098
+    - t-139
+- c-098
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl Vytautas
@@ -4418,7 +4515,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-143
-    - t-070- c-099
+    - t-070
+- c-099
   santrauka: '1390 m. sausio 19 d. prie Gardino Ordino pasiųstas komtūras sudarė sutartį su Vytautu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4440,7 +4538,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-037- c-100
+    - t-037
+- c-100
   santrauka: 'Po sūnų Jono ir Jurgio netekties Vytautas puolėsi prie sutarties su Jogaila.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4457,7 +4556,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-032- c-101
+    - t-032
+- c-101
   santrauka: 'Vytauto valdymas 1392–1430 m. šaltinyje apibūdinamas kaip epochinių permainų metas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -4480,7 +4580,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-046- c-102
+    - t-046
+- c-102
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tai gryni vasalystės pažadai. Tuo būdu Vytautas gavo iš Jo­
@@ -4491,7 +4592,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-092- c-103
+    - t-092
+- c-103
   santrauka: 'Atgimstančios lietuvių tautos sąmonėje Vytautas buvo pasirinktas valstybės ir tautos didvyriu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -4506,7 +4608,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-119- c-104
+    - t-119
+- c-104
   santrauka: 'Vytautas laiškuose gynė Lietuvos reikalus ir nepriklausomybę prieš lenkų nusistatymą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -4522,7 +4625,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-105
+    - t-007
+- c-105
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau-
@@ -4536,7 +4640,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023- c-106
+    - t-023
+- c-106
   santrauka: 'Vytauto palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4554,7 +4659,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-108- c-107
+    - t-108
+- c-107
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas šiuo laiku atmetė ir gundymą suardyti uniją, ka­
@@ -4573,7 +4679,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-154- c-108
+    - t-154
+- c-108
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ir tuo būdu prisiartino Vokiečių
@@ -4590,7 +4697,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-089- c-109
+    - t-089
+- c-109
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas turėjo neblogus santykius ir su kita mongolų šaka
@@ -4609,7 +4717,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-054- c-110
+    - t-054
+- c-110
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trakų pilis, reikia many­
@@ -4635,7 +4744,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   citata_rodoma: ''
   statusas: verified
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-111
+  patikimumo_saltinis: ai
+- c-111
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Švitrigaila
@@ -4657,7 +4767,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-072
-    - t-020- c-112
+    - t-020
+- c-112
   santrauka: 'Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose svarstė svarbiausius Lietuvos reikalus, nors Vilnius liko Didžiosios Kunigaikštystės sostinė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4676,7 +4787,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-142- c-113
+    - t-142
+- c-113
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
@@ -4701,7 +4813,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   pagrindžia:
     - t-050
     - t-049
-    - t-041- c-114
+    - t-041
+- c-114
   santrauka: 'Pasiligojusi Vytauto žmona Julijona buvo apsistojusi prie Vilniaus buvusiame kunigaikščių kaime Memitz.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4721,7 +4834,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-093- c-115
+    - t-093
+- c-115
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas Vilniui suteikė (1424 metais)
@@ -4738,7 +4852,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   citata_rodoma: ''
   statusas: verified
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-116
+  patikimumo_saltinis: ai
+- c-116
   santrauka: 'Vytauto laikais Lietuvos Didžioji Kunigaikštystė buvo itin galinga, o jo galią jautė visas regionas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -4760,7 +4875,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-076- c-117
+    - t-076
+- c-117
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas
@@ -4774,7 +4890,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-061- c-118
+    - t-061
+- c-118
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Juk
@@ -4791,7 +4908,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-094- c-119
+    - t-094
+- c-119
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1415 m. Naugarduke sušaukęs LDK stačiatikių
@@ -4808,7 +4926,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-132- c-120
+    - t-132
+- c-120
   santrauka: 'Vytauto laiškas dėl gydytojo buvo datuotas Obolcuose 1426 m. sausio 13 dieną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4824,7 +4943,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-136- c-121
+    - t-136
+- c-121
   santrauka: 'Mazovijos kunigaikštis Henrikas su slaptu Jogailos pavedimu atvyko pas Vytautą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4846,7 +4966,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-057- c-122
+    - t-057
+- c-122
   santrauka: 'Vėlesniais Vytauto valdymo laikais Vilnius atsigavo po Skirgailos valdymo ir praturtėjo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4871,7 +4992,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-099- c-123
+    - t-099
+- c-123
   santrauka: '1386 m. Vytautas užbaigė Šv. Jono bažnyčią, kurią Vladislovas Jogaila buvo pradėjęs statyti savo lėšomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4894,7 +5016,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034- c-124
+    - t-034
+- c-124
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas nuo pat pirmos krikšto dienos aktyviai daly­
@@ -4909,7 +5032,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-149- c-125
+    - t-149
+- c-125
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­
@@ -4927,7 +5051,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-052- c-126
+    - t-052
+- c-126
   santrauka: 'Po suvažiavimo Vytautas įsitikino, kad su Lenkija geruoju nesusitars, ir laukė karūnos kaip valstybės laisvės ženklo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -4945,7 +5070,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-117- c-127
+    - t-117
+- c-127
   santrauka: '1384 m. Vytautas sudarė sutartį su Ordinu, kuris prisiekė atgauti jam atimtą tėvoniją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4974,7 +5100,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-074
-    - t-031- c-128
+    - t-031
+- c-128
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kai sužinojo, kad kryžiuočių
@@ -4988,7 +5115,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-155- c-129
+    - t-155
+- c-129
   santrauka: 'Vytautas, pralaimėjęs mūšį ir netoli Vilniaus praradęs tūkstantį žmonių, turėjo slėptis Trakų pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5014,7 +5142,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-084
-    - t-029- c-130
+    - t-029
+- c-130
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jokūbą, vėl išsiruošė ana­
@@ -5027,7 +5156,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   citata_rodoma: ''
   statusas: verified
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-131
+  patikimumo_saltinis: ai
+- c-131
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta liūdna Vilniaus
@@ -5045,7 +5175,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-036- c-132
+    - t-036
+- c-132
   santrauka: '1392–1430 žymiausio Lietuvos valdovo Vytauto valdymo metai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -5061,7 +5192,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-156
-    - t-033- c-133
+    - t-033
+- c-133
   santrauka: 'Vytautas įsakė žemaičiams puldinėti Ordino pilis, kad pridengtų jungtinės Lenkijos ir Lietuvos kariuomenės puolimo kryptį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -5077,7 +5209,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-157- c-134
+    - t-157
+- c-134
   santrauka: 'Vytauto karas su Skirgaila dar labiau pablogino Vilniaus padėtį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -5097,7 +5230,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-158- c-135
+    - t-158
+- c-135
   santrauka: 'Vytautas, apsimetęs ordino draugu, mainėsi laiškais, davė patarimus, keitėsi brangiomis dovanomis ir tarėsi nematąs įvykių Žemaičiuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -5111,7 +5245,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-159- c-136
+    - t-159
+- c-136
   santrauka: 'Vytautas, iš draugų sužinojęs apie Jogailos veiksmus, su Birute pasitraukė į Gardiną.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -5134,7 +5269,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-160- c-137
+    - t-160
+- c-137
   santrauka: 'Skirgaila Jogailos vardu turėjo viešai pažadėti Vytautui saugumą ir neliečiamybę taikos derybose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -5162,7 +5298,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-161- c-138
+    - t-161
+- c-138
   santrauka: 'Ona įspėjo Vytautą apie gresiančią mirtį ir patarė jam pabėgti apsirengus merginos drabužiais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -5184,7 +5321,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-162- c-139
+    - t-162
+- c-139
   santrauka: 'Mazovijos kunigaikščiai Jonušas ir Zemovitas priėmė Vytautą, bet nesistengė suteikti jam deramos pagalbos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -5212,7 +5350,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-163- c-140
+    - t-163
+- c-140
   santrauka: 'Vytautas iš Konrado Celnerio gavo karių ir lėšų karui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -5235,7 +5374,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-164- c-141
+    - t-164
+- c-141
   santrauka: 'Sklido gandai, kad tariamasi dėl Henriko Mazoviečio ir Vytauto sesers Ringailės santuokos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -5257,7 +5397,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-165- c-142
+    - t-165
+- c-142
   santrauka: 'Vytautas po mūšio nukreipė visas savo jėgas į Vilnių, norėdamas užimti pilis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -5272,7 +5413,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-166- c-143
+    - t-166
+- c-143
   santrauka: 'Vytautas, pranešęs Olesnickiui apie atvykimą, buvo jo prielankiai įlydėtas į Vilnių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -5294,7 +5436,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-167- c-144
+    - t-167
+- c-144
   santrauka: 'Vytautui parodžius palankumą, apsuptieji pasidavė jo malonei.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -5309,7 +5452,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-168- c-145
+    - t-168
+- c-145
   santrauka: 'Vytautas ėmėsi karo prieš Švitrigailą, siekdamas didesnio Baltarusijos žemių paklusnumo Lietuvos didžiajam kunigaikščiui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -5340,7 +5484,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-169- c-146
+    - t-169
+- c-146
   santrauka: 'Trisdešimtą apgulos dieną Vytauto kariai pro sugriautus įtvirtinimus įsiveržė į žemutinę pilį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -5360,7 +5505,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-170- c-147
+    - t-170
+- c-147
   santrauka: 'Stovėdamas su raitija vienoje vietoje, Vytautas kasdien vis labiau juto maisto stoką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -5381,7 +5527,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-171- c-148
+    - t-171
+- c-148
   santrauka: 'Vytautas su didikais Goštautu, Rumbaudu ir Radvila išvyko pas imperatorių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -5404,7 +5551,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-172- c-149
+    - t-172
+- c-149
   santrauka: 'Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -5423,7 +5571,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-173- c-150
+    - t-173
+- c-150
   santrauka: 'Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Alšėnų kunigaikščio Algimantaičio dukra Julijona.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -5438,7 +5587,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-174- c-151
+    - t-174
+- c-151
   santrauka: 'Vytautas paskelbė Jerim Berdį teisėtu valdovu ir pasiryžo jį paremti grąžinant į valdžią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -5457,7 +5607,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-175- c-152
+    - t-175
+- c-152
   santrauka: 'Kojelavičiaus vertinimu, garbės troškimas sutrukdė Vytautui įžvelgti, kad Zigmanto siūlymai ardė lietuvių ir lenkų sandraugą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -5481,7 +5632,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-176- c-153
+    - t-176
+- c-153
   santrauka: 'Gavęs slaptų laiškų iš kai kurių lenkų, Vytautas griežtai atsakė pasiuntiniams dėl karališkojo vainiko.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -5511,7 +5663,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-177- c-154
+    - t-177
+- c-154
   santrauka: 'Artėjant laukiamai dienai, Vytautui vis didesnį nerimą kėlė galimos kliūtys.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -5531,7 +5684,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-178- c-155
+    - t-178
+- c-155
   santrauka: 'Žygimantas buvo palaidotas tame pačiame kape, kuriame jau ilsėjosi jo brolio Vytauto palaikai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -5550,7 +5704,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-179- c-156
+    - t-179
+- c-156
   santrauka: 'Narbutas Vytautą įvardija kaip Kęstučio ir kunigaikštienės Birutės sūnų, kartu su Patriku, Tautvila, Sigaila ir Danute.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -5567,7 +5722,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-180- c-157
+    - t-180
+- c-157
   santrauka: 'Narbutas rašo, kad Vytautui viešpataujant Lietuvoje kunigaikštienė Birutė sugrįžo į Palangą ir ten mirė 1416 m.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -5581,7 +5737,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-181- c-158
+    - t-181
+- c-158
   santrauka: 'Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai aukurą ir apeigas, nes negalėjo palenkti jos į krikščionybę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -5598,7 +5755,8 @@ Vytautas buvo Lietuvos valdovas, siejamas su valstybės stiprinimu, Žemaičių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-182- c-159
+    - t-182
+- c-159
   santrauka: 'Narbutas 1386–1447 m. laikotarpį laiko didžiausios Lietuvos galybės epocha, ypač Vytauto valdymo metu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

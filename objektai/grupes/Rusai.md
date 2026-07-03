@@ -1480,6 +1480,7 @@ Rusai Lietuvos istorijos šaltiniuose minimi kaip LDK kariuomenės, visuomenės 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1500,6 +1501,7 @@ Rusai Lietuvos istorijos šaltiniuose minimi kaip LDK kariuomenės, visuomenės 
   pagrindžia:
     - t-005
     - t-009
+
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -1521,6 +1523,7 @@ Rusai Lietuvos istorijos šaltiniuose minimi kaip LDK kariuomenės, visuomenės 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų, todėl ji buvo internacionalinė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1537,6 +1540,7 @@ Rusai Lietuvos istorijos šaltiniuose minimi kaip LDK kariuomenės, visuomenės 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1571,6 +1575,7 @@ Rusai Lietuvos istorijos šaltiniuose minimi kaip LDK kariuomenės, visuomenės 
   pagrindžia:
     - t-003
     - t-004
+
 - c-006
   santrauka: 'Rusai XVII-XVIII a. kelis kartus vertė Stryjkovskio kroniką ar jos dalis į rusų kalbą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1586,6 +1591,7 @@ Rusai Lietuvos istorijos šaltiniuose minimi kaip LDK kariuomenės, visuomenės 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-007
   santrauka: '„Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, kurių daugumą iš pradžių sudarė stačiatikių seminarijų auklėtiniai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1606,6 +1612,7 @@ Rusai Lietuvos istorijos šaltiniuose minimi kaip LDK kariuomenės, visuomenės 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-008
   santrauka: 'Polocko rusai valstybės valdymą buvo perdavę ne vienam kunigaikščiui, bet tautai.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

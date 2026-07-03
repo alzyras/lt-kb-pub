@@ -504,7 +504,8 @@ Kuršas žinių bazėje iškyla kaip kuršių kraštas, minimas Rimberto ir Herv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-002
+    - t-009
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Apie danų nesėkmę išgirdęs, švedų karalius Olafas panorėjo iš
@@ -520,7 +521,8 @@ Kuršas žinių bazėje iškyla kaip kuršių kraštas, minimas Rimberto ir Herv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-    - t-016- c-003
+    - t-016
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tik vakarų Europoje
@@ -536,7 +538,8 @@ Kuršas žinių bazėje iškyla kaip kuršių kraštas, minimas Rimberto ir Herv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-    - t-001- c-004
+    - t-001
+- c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Paliauboms pasibaigus, jie puolė Kuršą. Kai
@@ -550,7 +553,8 @@ Kuršas žinių bazėje iškyla kaip kuršių kraštas, minimas Rimberto ir Herv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-005
+    - t-010
+- c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mindaugo - „Lietuvos galingo karaliaus“
@@ -566,7 +570,8 @@ Kuršas žinių bazėje iškyla kaip kuršių kraštas, minimas Rimberto ir Herv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
-    - t-003- c-006
+    - t-003
+- c-006
   santrauka: 'Žemaičiai puolė Kuršą ir niokojo jį 19 dienų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -583,7 +588,8 @@ Kuršas žinių bazėje iškyla kaip kuršių kraštas, minimas Rimberto ir Herv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-007
+    - t-011
+- c-007
   santrauka: '1435 m. spalį žemaičiai Kurše sudegino Durbės pilį ir taip dar kartą smogė Livonijai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -606,7 +612,8 @@ Kuršas žinių bazėje iškyla kaip kuršių kraštas, minimas Rimberto ir Herv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-008
+    - t-006
+- c-008
   santrauka: 'Sapiegų etmonas, iždininkas ir maršalas, paskleidę klaidinantį gandą, iš Vilniaus pasitraukė į Kuršą, Bauskę ir Mintaują.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -630,7 +637,8 @@ Kuršas žinių bazėje iškyla kaip kuršių kraštas, minimas Rimberto ir Herv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-009
+    - t-015
+- c-009
   santrauka: '1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -646,7 +654,8 @@ Kuršas žinių bazėje iškyla kaip kuršių kraštas, minimas Rimberto ir Herv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-010
+    - t-002
+- c-010
   santrauka: 'Dusburgiečio tekste Nemunas nurodomas kaip Prūsiją nuo Kuršo skirianti riba.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -662,7 +671,8 @@ Kuršas žinių bazėje iškyla kaip kuršių kraštas, minimas Rimberto ir Herv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-011
+    - t-012
+- c-011
   santrauka: 'Nemunas prie Klaipėdos įteka į jūrą ir skiria Prūsiją nuo Rusios, Lietuvos bei Kuršo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -677,7 +687,8 @@ Kuršas žinių bazėje iškyla kaip kuršių kraštas, minimas Rimberto ir Herv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-012
+    - t-005
+- c-012
   santrauka: '1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo dalį, grobdami, degindami ir išsivesdami belaisvius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -708,7 +719,8 @@ Kuršas žinių bazėje iškyla kaip kuršių kraštas, minimas Rimberto ir Herv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-013
+    - t-008
+- c-013
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš XI-XII amž. danų šaltinių (Genealogia regum
@@ -722,7 +734,8 @@ Kuršas žinių bazėje iškyla kaip kuršių kraštas, minimas Rimberto ir Herv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-014
+    - t-013
+- c-014
   santrauka: 'Dalis Kuršo buvo minima tarp teritorijų, į kurias krypo dviejų Lietuvos politinių grupuočių aspiracijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -742,7 +755,8 @@ Kuršas žinių bazėje iškyla kaip kuršių kraštas, minimas Rimberto ir Herv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-015
+    - t-014
+- c-015
   santrauka: '1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -759,7 +773,8 @@ Kuršas žinių bazėje iškyla kaip kuršių kraštas, minimas Rimberto ir Herv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-016
+    - t-018
+- c-016
   santrauka: 'Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -781,7 +796,8 @@ Kuršas žinių bazėje iškyla kaip kuršių kraštas, minimas Rimberto ir Herv
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019- c-017
+    - t-019
+- c-017
   santrauka: 'Mindaugas tuo žygiu atgavo Žemaitiją bei Kuršą, nusiaubė Sembą ir vėliau Prūsijoje sukėlė karą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |

@@ -249,6 +249,7 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -264,6 +265,7 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -281,6 +283,7 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -295,6 +298,7 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -312,6 +316,7 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -328,6 +333,7 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   santrauka: 'Po Tamerlano žygių Auksinėje Ordoje buvo pasodintas Koiridžakas-Aglenas, o po jo - Kotlogas-Timuras.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -344,6 +350,7 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-008
   santrauka: 'Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris buvo įsigalėjęs Rytų Europoje ir valdė nemažus rusų žemių plotus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -361,6 +368,7 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-009
   santrauka: 'Jonas III sudarė sąjungą su Perekopo chanu ir sunaikino Auksinę Ordą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -377,6 +385,7 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-010
   santrauka: 'Aukso ordoje ulanais vadinosi chano giminės nariai iš tų linijų, kurių atstovams neteko sėdėti chanų soste.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -398,6 +407,7 @@ Auksinė Orda šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi toto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-011
   santrauka: 'Komentare Achmatas apibūdinamas kaip Aukso ordos chanas 1459–1481 m., Kazimiero Jogailaičio sąjungininkas ir 1480 m. žygio prie Ugros dalyvis.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

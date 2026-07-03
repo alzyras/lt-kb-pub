@@ -56,6 +56,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Maršalas Eustachijus Valavičius dalyvavo derybose su maskvėnų pasiuntiniais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

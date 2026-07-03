@@ -60,6 +60,7 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Ernestas buvo Livonijos žemės magistras ir žuvo prieš Konrado iš Foichtvangeno paskyrimą 1279 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

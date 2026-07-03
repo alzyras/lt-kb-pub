@@ -118,6 +118,7 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip senas Rusios mies
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   santrauka: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -137,6 +138,7 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip senas Rusios mies
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Vytautas senatvėje kovojo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai padarytas skriaudas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -161,6 +163,7 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip senas Rusios mies
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-004
   santrauka: 'Pskovas ir Didysis Naugardas buvo įkurti anksčiau už Vilnių ir greičiau virto tankiai gyvenamomis, turtingesnėmis gyvenvietėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -179,6 +182,7 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip senas Rusios mies
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-005
   santrauka: 'Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Naugardą ir Pskovą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -214,6 +218,7 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip senas Rusios mies
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-006
   santrauka: 'Gerokai prieš XIII a. Pskovas ir Naugardas garsėjo prekyba, mūrais ir savo pačių valdžia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -235,6 +240,7 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip senas Rusios mies
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-007
   santrauka: 'Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila saugumo ir prekybos laisvės sutartį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -258,6 +264,7 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip senas Rusios mies
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-008
   santrauka: 'Vytauto laikais Vilniaus prekyba išsiplėtė su Pskovu, Naugardu, Maskva, Prūsijos ir Livonijos miestais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -284,6 +291,7 @@ Didysis Naugardas Lietuvos istorijos šaltiniuose minimas kaip senas Rusios mies
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-009
   santrauka: 'Naugardas tam tikru požiūriu priklausė prie 1241 m. Hamburgo su Liubeku sudarytos karinės sąjungos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

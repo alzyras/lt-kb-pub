@@ -70,6 +70,7 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1677 m. Paulius Bochenas 750 auksinų skyrė namui Vyskupų gatvėje remontuoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -97,6 +98,7 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: '1573 m. sutartyje Vyskupų gatvė nurodyta aprašant sklypą prie Skapo gatvės kampo, einant nuo Vilniaus vyskupo dvaro.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

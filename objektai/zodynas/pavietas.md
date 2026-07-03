@@ -74,6 +74,7 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   pagrindžia:
     - t-002
     - t-004
+
 - c-002
   santrauka: 'Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -112,6 +113,7 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -127,6 +129,7 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo po vieną pakamorę žemės ribų byloms spręsti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

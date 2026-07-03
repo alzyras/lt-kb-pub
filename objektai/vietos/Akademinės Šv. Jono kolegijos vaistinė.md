@@ -60,6 +60,7 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1687 metais jėzuitai suremontuotą mūrinį namą atidavė Akademinės Šv. Jono kolegijos vaistinei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

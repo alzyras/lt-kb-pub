@@ -46,7 +46,8 @@ Narbutas rašė, kad latviai didelius pilkapius padavimuose apie milžinus ar di
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas aprašė kalną su terasa ir plokščiu kupolu, kurį vadino milžinkapiu ir siejo su vietos padavimu apie Gedimino kapą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

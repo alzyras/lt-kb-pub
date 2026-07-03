@@ -82,6 +82,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vengrams vilkinant karą, Jonas Olbrachtas vangiai vadovavo žygiui, todėl beveik visos karaliaus pajėgos išsiskirstė namo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -112,6 +113,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Jonas Olbrachtas turėjo vos keturis tūkstančius karių, kai susidūrė su stipria vengrų kariuomene.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

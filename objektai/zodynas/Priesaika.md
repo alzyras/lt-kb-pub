@@ -54,7 +54,8 @@ Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas teigė, kad lietuviai priesaikomis šaukėsi dievų liudytojų, sakydami „dėl Dievo“ arba „Kad man Periamas sumusztu“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

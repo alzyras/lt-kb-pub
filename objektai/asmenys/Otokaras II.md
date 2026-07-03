@@ -71,7 +71,8 @@ Otokaras II buvo Čekijos karalius, šaltiniuose siejamas su kryžiuočių žygi
   statusas: verified
 
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-002
+  patikimumo_saltinis: ai
+- c-002
   santrauka: '1268 m. Čekijos karalius Otokaras II patraukė į Prūsiją tramdyti prūsų sukilimo, bet dėl minkštos žiemos tikslo nepasiekė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -92,7 +93,8 @@ Otokaras II buvo Čekijos karalius, šaltiniuose siejamas su kryžiuočių žygi
   statusas: verified
 
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-003
+  patikimumo_saltinis: ai
+- c-003
   santrauka: 'Otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -112,6 +114,7 @@ Otokaras II buvo Čekijos karalius, šaltiniuose siejamas su kryžiuočių žygi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: '1254 m. Čekijos karalius Otokaras II dalyvavo žygyje, kuriuo siekta pavergti sembus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -132,6 +135,7 @@ Otokaras II buvo Čekijos karalius, šaltiniuose siejamas su kryžiuočių žygi
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-005
   santrauka: 'Čekijos karalius Otokaras II 1255 m. dalyvavo puolime prieš Sembą kartu su kryžiuočiais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

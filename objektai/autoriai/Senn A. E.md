@@ -55,6 +55,7 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European politics. The Years of the First Republic, 1918–1940. New York, 1997.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

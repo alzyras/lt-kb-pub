@@ -113,6 +113,7 @@ Divanas, pravarde Klokinis, buvo bartų vadas per prūsų pasipriešinimą Ordin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Prūsams atkritus nuo tikėjimo, bartai savo kariuomenės vadu ir vyresniuoju išsirinko Divaną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -134,6 +135,7 @@ Divanas, pravarde Klokinis, buvo bartų vadas per prūsų pasipriešinimą Ordin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-003
   santrauka: 'Divanas, bartų vadas, su 800 vyrų apsiautė Senenzės pilį ir reikalavo ją atiduoti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -154,6 +156,7 @@ Divanas, pravarde Klokinis, buvo bartų vadas per prūsų pasipriešinimą Ordin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Prie Gubros upės broliai užpuolė Divaną, nukovė jo giminaitį Dabarą ir išžudė jo žmones.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -168,6 +171,7 @@ Divanas, pravarde Klokinis, buvo bartų vadas per prūsų pasipriešinimą Ordin
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-005
   santrauka: 'Dusburgietis teigia, kad kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris tada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -187,6 +191,7 @@ Divanas, pravarde Klokinis, buvo bartų vadas per prūsų pasipriešinimą Ordin
   pagrindžia:
     - t-006
     - t-002
+
 - c-006
   santrauka: 'Prie Gubros upės broliai užpuolė Divaną, nukovė jo giminaitį Dabarą ir išžudė jo žmones.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

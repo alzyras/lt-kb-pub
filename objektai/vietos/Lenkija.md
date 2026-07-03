@@ -3383,7 +3383,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-035- c-002
+    - t-035
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Generaliniai seime-
@@ -3406,7 +3407,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_saltinis: ai
   pagrindžia:
     - t-062
-    - t-015- c-003
+    - t-015
+- c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tarpu Lenkijoj laimėjo Za-
@@ -3421,7 +3423,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-068- c-004
+    - t-068
+- c-004
   santrauka: 'Lenkijoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių kaip LDK.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3439,7 +3442,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
-    - t-017- c-005
+    - t-017
+- c-005
   santrauka: 'Lenkijoje ūkiai iki 5 ha sudarė 72 proc. ūkių, o Lietuvoje tokio dydžio ūkių dalis siekė 62 proc.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3451,7 +3455,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-054- c-006
+    - t-054
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1390 metų sausio pradžioje visą savo šei­
@@ -3473,7 +3478,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_saltinis: ai
   pagrindžia:
     - t-058
-    - t-018- c-007
+    - t-018
+- c-007
   santrauka: '1920 m. rudenį Vilnius atiteko Lenkijai, kai ši sumušė Raudonąją armiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3495,7 +3501,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_saltinis: ai
   pagrindžia:
     - t-060
-    - t-039- c-008
+    - t-039
+- c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jei laisva, tai Vytautas turi teisę užsidėt karaliaus karūną; jei
@@ -3510,7 +3517,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024- c-009
+    - t-024
+- c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Skaičiuojant nuo pirmųjų žmogaus pėdsakų
@@ -3526,7 +3534,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-010
+    - t-001
+- c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1862 m. Kongresinėje Lenkijoje ir Lietuvoje susikūrė „raudonųjų“ or-
@@ -3538,7 +3547,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-041- c-011
+    - t-041
+- c-011
   santrauka: '1994 m. balandžio 26 d. Lietuva ir Lenkija pasirašė draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3557,7 +3567,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-036- c-012
+    - t-036
+- c-012
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kai 1815 m. Vienos kongreso nu-
@@ -3571,7 +3582,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-069- c-013
+    - t-069
+- c-013
   santrauka: 'Krėvos sutartis parodė Lietuvos politinį atsigręžimą į artimiausią kaimynę Lenkiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3584,7 +3596,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-050- c-014
+    - t-050
+- c-014
   santrauka: 'Lenkijos kunigaikštis, prūsų įbaugintas, duodavo jų pasiuntiniams reikalaujamus žirgus ir ryškiaspalvius drabužius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -3602,7 +3615,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-028- c-015
+    - t-028
+- c-015
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai
@@ -3618,7 +3632,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026- c-016
+    - t-026
+- c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
@@ -3634,7 +3649,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_saltinis: ai
   pagrindžia:
     - t-038
-    - t-031- c-017
+    - t-031
+- c-017
   santrauka: 'Po vestuvių Vilniuje karalius dėl karalystės reikalų greitai išskubėjo į Lenkiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3651,7 +3667,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-067- c-018
+    - t-067
+- c-018
   santrauka: 'Sutriuškinus Lenkiją, Anglijos ir Prancūzijos įtaka regione sumažėjo, o Vokietija skelbė nebeturinti ten interesų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3669,7 +3686,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-019
+    - t-013
+- c-019
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Abi valstybės įsipareigojo grįs-
@@ -3684,7 +3702,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-020
+    - t-003
+- c-020
   santrauka: 'Prūsai kelis kartus didelėmis pajėgomis užpuolė Lenkijos žemę, degino namus, žudė suaugusiuosius ir išvarė moteris bei vaikus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -3704,7 +3723,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-063- c-021
+    - t-063
+- c-021
   santrauka: 'Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip Europoje neturėjusią analogo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3717,7 +3737,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-040- c-022
+    - t-040
+- c-022
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl tik 1934 m. rugsėjo
@@ -3735,7 +3756,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
-    - t-027- c-023
+    - t-027
+- c-023
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas Didysis, kaipo žymus ir galingas Lietuvos val­
@@ -3750,7 +3772,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029- c-024
+    - t-029
+- c-024
   santrauka: '1230 m. popiežius Grigalius IX patvirtino Lenkijos kunigaikščio susitarimą su Teutonų ordino broliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -3769,7 +3792,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-057- c-025
+    - t-057
+- c-025
   santrauka: '1385 m. Krėvos sutartis su Lenkija leido Lietuvos didžiajam kunigaikščiui Jogailai tapti Lenkijos karaliumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3783,7 +3807,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-066- c-026
+    - t-066
+- c-026
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviai pre-
@@ -3798,7 +3823,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-044- c-027
+    - t-044
+- c-027
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos
@@ -3818,7 +3844,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_saltinis: ai
   pagrindžia:
     - t-059
-    - t-004- c-028
+    - t-004
+- c-028
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva juk ne
@@ -3840,7 +3867,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-051- c-029
+    - t-051
+- c-029
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pavadinimas tarsi reiškė, kad
@@ -3854,7 +3882,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-030
+    - t-022
+- c-030
   santrauka: 'Lietuvos pietvakariuose buvusi Lenkija tapo ilgamečio konflikto su Lietuva dalyve.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -3871,7 +3900,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-031
+    - t-020
+- c-031
   santrauka: '1791 m. Lietuvos atstovų Spalio 20-osios pataisa neleido LLV Konstitucijos laikyti vien tik Lenkijos konstitucija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3891,7 +3921,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025- c-032
+    - t-025
+- c-032
   santrauka: 'Vengrija ir Lenkija turėjo priversti ordiną grąžinti Lietuvai atimtas žemes ir ginti ją nuo kryžiuočių bei totorių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -3906,7 +3937,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-049- c-033
+    - t-049
+- c-033
   santrauka: 'Po 1183 m. lietuvių žygiai padažnėjo ir kasmet vyko ne tik į Rusios žemes, bet ir į Lenkiją bei Livoniją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3922,7 +3954,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-034
+    - t-010
+- c-034
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva krikštijosi katalikišku krikštu, o jos
@@ -3941,7 +3974,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_saltinis: ai
   pagrindžia:
     - t-053
-    - t-048- c-035
+    - t-048
+- c-035
   santrauka: 'Nors dalį ginčijamų žemių jau kontroliavo Lenkija, Adolfas Jofė sutiko Vilnių, Gardiną ir Lydą priskirti Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -3956,7 +3990,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-033- c-036
+    - t-033
+- c-036
   santrauka: 'Aleksandras dokumente tituluojamas Lenkijos karaliumi ir Lietuvos, Rusios, Prūsijos bei Žemaitijos didžiuoju kunigaikščiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3972,7 +4007,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-030- c-037
+    - t-030
+- c-037
   santrauka: 'Karalaitė Ona, pasilikusi Lenkijoje, turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -3995,7 +4031,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_saltinis: ai
   pagrindžia:
     - t-046
-    - t-056- c-038
+    - t-056
+- c-038
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lenkija visa tai jautė ir matė. Reikėjo iš paskutiniųjų gelbėtis,
@@ -4007,7 +4044,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-039
+    - t-009
+- c-039
   santrauka: 'Magistras Hermanas pasiuntė Konradą iš Landsbergo ir kitą Ordino brolį pas Lenkijos kunigaikštį apžiūrėti Kulmo žemės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -4026,7 +4064,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-040
+    - t-021
+- c-040
   santrauka: 'Lenkija siekė išsaugoti uniją, nes Vytauto karūnacija galėjo visiškai nutraukti jos ryšius su Lietuva.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -4040,7 +4079,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023- c-041
+    - t-023
+- c-041
   santrauka: 'Pagal naują tvarką į valstybinį žemės fondą pateko ir repatrijavusiųjų į Lenkiją žemė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -4057,7 +4097,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-065- c-042
+    - t-065
+- c-042
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai visa tai vyko, karalius, matydamas
@@ -4077,7 +4118,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-043
+    - t-008
+- c-043
   santrauka: 'Lietuvos suartėjimas su Lenkija lėmė epochos pobūdį, kai abi valstybes dažnai valdė tie patys valdovai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -4091,7 +4133,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-034- c-044
+    - t-034
+- c-044
   santrauka: 'Autorių vertinimu, Lenkija buvo LDK mokytoja, nes stipriai veikė Lietuvos kultūrą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -4105,7 +4148,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-045
+    - t-006
+- c-045
   santrauka: 'Apie 1500 m. Lenkijoje buvo trys stačiatikių vyskupijos, o LDK – šešios.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -4122,7 +4166,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-055- c-046
+    - t-055
+- c-046
   santrauka: 'Lenkijos karalystės Seimas paskelbė šalinąs Nikolajų I iš Lenkijos karaliaus sosto ir perduodąs suverenitetą tautai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -4136,7 +4181,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-047
+    - t-002
+- c-047
   santrauka: '1922 m. sausį lenkai surengė rinkimus Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -4153,7 +4199,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-048
+    - t-016
+- c-048
   santrauka: 'Lietuvos ir Lenkijos tautų nelaimė paskatino visuomenes ir karalių bandyti gelbėti ATR valstybę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -4189,7 +4236,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-064- c-049
+    - t-064
+- c-049
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sudarydamas Krėvos sutartį, Jogaila, kaip ankstyvasis monarchas, visą
@@ -4206,7 +4254,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_saltinis: ai
   pagrindžia:
     - t-061
-    - t-045- c-050
+    - t-045
+- c-050
   santrauka: 'Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -4223,7 +4272,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-052- c-051
+    - t-052
+- c-051
   santrauka: 'Totoriai įsiveržė į Lenkiją, mūšyje nukovė Henriką, Lenkijos kunigaikštį, ir nuniokojo kraštą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -4239,7 +4289,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-042- c-052
+    - t-042
+- c-052
   santrauka: 'Totoriai nuniokojo Vengriją ir Lenkiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -4251,7 +4302,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-053
+    - t-007
+- c-053
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visiems bendrai ir kiekvie­
@@ -4292,7 +4344,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-043- c-054
+    - t-043
+- c-054
   santrauka: '1008 m. pabaigoje iš Lenkijos aisčių krikštyti išvyko misijonierius su 18 palydovų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -4311,7 +4364,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019- c-055
+    - t-019
+- c-055
   santrauka: 'Lenkijoje Zamoiskis įgijo persvarą ir, vadovaudamas kariuomenei, neleido Maksimilijonui įžengti į Krokuvą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -4327,7 +4381,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-037- c-056
+    - t-037
+- c-056
   santrauka: 'XIV a. Lenkijoje jau buvo miestų, su kuriais lyginamos aplink Vilniaus pilis buvusios gyvenvietės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4359,7 +4414,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
-    - t-011- c-057
+    - t-011
+- c-057
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Istorikai XVI–XVII a. Lenkijos religinę toleranciją yra api-
@@ -4371,7 +4427,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-058
+    - t-005
+- c-058
   santrauka: 'Zigmantui likus be kito sąjungininko, Lenkija padėjo jam net rengiant sąmokslą prieš Švitrigailą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -4395,7 +4452,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-070- c-059
+    - t-070
+- c-059
   santrauka: 'Kai 1815 m. Vienos kongreso nutarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietuvos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai dinastijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -4415,7 +4473,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-071- c-060
+    - t-071
+- c-060
   santrauka: '1862 m. Kongresinėje Lenkijoje ir Lietuvoje susikūrė „raudonųjų“ organizacijos sukilimui rengti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -4429,7 +4488,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-072- c-061
+    - t-072
+- c-061
   santrauka: 'Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkijoje moka po 30 grašių, juos ponas Motiejus Kaviečnijskis atsiuntė pro 1 Junii [birželio 1-ai] į Varšuvą, Lietuvoje už juos mokėdamas, Jo Karališkosios Didenybės paliepimu, po 25.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -4453,7 +4513,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_saltinis: ai
   pagrindžia:
     - t-073
-    - t-047- c-062
+    - t-047
+- c-062
   santrauka: 'Žiniai apie Dorpato apiplėšimą pasiekus Lenkiją, Augustas paragino savo legatus tartis su kunigaikščiu Ivanu dėl Livonijos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -4471,7 +4532,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-074- c-063
+    - t-074
+- c-063
   santrauka: 'Narbutas Lenkijos karalienės Jadvygos santuokai su Vladislovu priskyrė stebuklingą Lietuvos atvertimo poveikį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -4491,7 +4553,8 @@ Lenkija Lietuvos istorijos žinių bazėje atsiskleidžia kaip kaimyninė valsty
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-075- c-064
+    - t-075
+- c-064
   santrauka: 'Narbutas spėjo, kad kai kurie lietuviški herbai į Lenkijos herbynus pateko atsikėlus jais besinaudojusioms šeimoms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

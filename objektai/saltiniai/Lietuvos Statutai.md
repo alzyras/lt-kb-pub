@@ -125,6 +125,7 @@ Lietuvos Statutai buvo trys LDK teisynai, priimti 1529, 1566 ir 1588 metais. Jie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -144,6 +145,7 @@ Lietuvos Statutai buvo trys LDK teisynai, priimti 1529, 1566 ir 1588 metais. Jie
   pagrindžia:
     - t-002
     - t-003
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -158,6 +160,7 @@ Lietuvos Statutai buvo trys LDK teisynai, priimti 1529, 1566 ir 1588 metais. Jie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -174,6 +177,7 @@ Lietuvos Statutai buvo trys LDK teisynai, priimti 1529, 1566 ir 1588 metais. Jie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: '1563 m. Žygimanto Augusto privilegija sulygino visų krikščioniškų konfesijų teises ir tapo Antrojo bei Trečiojo Lietuvos Statutų norma.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -189,6 +193,7 @@ Lietuvos Statutai buvo trys LDK teisynai, priimti 1529, 1566 ir 1588 metais. Jie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-006
   santrauka: 'Lietuvos Statutai buvo parašyti oficialiąja LDK raštų kalba, kuri XVI–XVIII a. vadinta lietuvių kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -207,6 +212,7 @@ Lietuvos Statutai buvo trys LDK teisynai, priimti 1529, 1566 ir 1588 metais. Jie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   santrauka: 'Po prijungimo prie Rusijos Lietuvos Statutas liko galioti, o kraštas įgijo kultūrinę autonomiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -234,6 +240,7 @@ Lietuvos Statutai buvo trys LDK teisynai, priimti 1529, 1566 ir 1588 metais. Jie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-008
   santrauka: 'Lietuvos Statutai buvo trys LDK teisynai, priimti 1529, 1566 ir 1588 metais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -251,6 +258,7 @@ Lietuvos Statutai buvo trys LDK teisynai, priimti 1529, 1566 ir 1588 metais. Jie
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-009
   santrauka: '1992 m. Konstitucijos preambulė Lietuvos valstybės teisės pamatus siejo su LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

@@ -265,6 +265,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-002
   santrauka: 'Vladislovas Jogaila aplankė Lietuvą diegdamas naujo tikėjimo nuostatus ir, numaldęs bruzdėjimus Baltojoje Rusioje, grįžo į Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -286,6 +287,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-003
   santrauka: '1390 m. lapkritį Vladislovas Jogaila su gausia kariuomene parvyko iš Lenkijos į griuvėsiais virtusį Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -313,6 +315,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-004
   santrauka: 'Pagal Vladislovo Jogailos potvarkį Vilniaus sargyba ir policija laikinai priklausė pilies tarnybai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -333,6 +336,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-005
   santrauka: 'Vladislovas Jogaila Vilniuje įsakė statyti Šv. Martyno ir Šv. Jono bažnyčias.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -352,6 +356,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-006
   santrauka: 'Karalius Vladislovas ir karalienė Jadvyga prašė pripažinti Vilnių miestu, o Šv. Stanislovo bažnyčią - katedra.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -373,6 +378,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-007
   santrauka: '1397 m. Vladislovas Jogaila ir Vytautas Vilniaus vyskupui Andriui laidavo dviejų šimtų markių metines pajamas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -398,6 +404,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-008
   santrauka: 'Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -419,6 +426,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-009
   santrauka: 'Vladislovas Jogaila nepasitikėjo Vytautu ir negrąžino jam nei Lietuvos valdymo, nei po Kęstučio mirties priklausiusio paveldo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -440,6 +448,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-010
   santrauka: '1390 m. Vladislovas Jogaila Vilniaus kapitulai suteikė privilegiją, kuria dovanojo Panerius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -472,6 +481,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-011
   santrauka: 'Jogaila siekė Lenkijos sosto ir sumanė sukurti naują galingą valstybę Šiaurės Europoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -503,6 +513,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-012
   santrauka: '1401 m. Vladislovas Jogaila iš Vytauto gavo aktą, kad po Vytauto mirties Lietuva ir Rusia pereis karaliaus valdžion.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -523,6 +534,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-013
   santrauka: 'Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -546,6 +558,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-014
   santrauka: 'Jogaila Vilniaus seniūno pareigas pavedė Jonui Olesnickiui, kuris sustiprino abiejų pilių įgulas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -565,6 +578,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-015
   santrauka: 'Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija nesuteikė Vilniaus miestiečiams palankaus meto įgyti daugiau laisvių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -583,6 +597,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-016
   santrauka: 'Vladislovas Jogaila Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -610,6 +625,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-017
   santrauka: 'Vladislovas Jogaila katedrai ir vyskupams skyrė nemažą Vilniaus miesto dalį nuo pilies iki Šv. Mikalojaus kapinių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -628,6 +644,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-018
   santrauka: 'Siekdamas didelės valdžios, Jogaila pirmiausia sutelkė jėgas nusikratyti dėde Kęstučiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -653,6 +670,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-019
   santrauka: 'Jogaila sutelkė nemažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais, nusprendė užimti Vilnių ir Trakus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -671,6 +689,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-020
   santrauka: 'Vladislovas Jogaila paveldėjimo teise vėl suteikė Panerius katedrai ir Vilniaus kapitulai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -694,6 +713,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-021
   santrauka: 'Bajoras Vaidila patarimais ir įtaka rėmė Jogailos siekius, o 1380 m. Prūsijoje ruošė dirvą slaptam sandėriui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -714,6 +734,7 @@ Vladislovas Jogaila šioje žinių bazėje siejamas su Vilniaus politiniais, rel
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-022
   santrauka: 'Algirdui užleidus sostą, jo sūnus Jogaila dar tėvui gyvam esant perėmė aukščiausiąją Lietuvos valdžią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -58,6 +58,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Kolegijos administravimą siekta išsaugoti pagal Tridento susirinkimo dekretą ir nutarimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

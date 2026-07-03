@@ -75,7 +75,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: '1794 m. sukilėliai visą valdžią atidavė generolui Kosciuškai, kilusiam iš Naugarduko vaivadijos ir laikiusiam save lietuviu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -93,7 +94,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Kosciuška leido atsišaukimus, žadėdamas laisvę prie sukilimo prisidėjusiems valstiečiams; tokių atsišaukimų buvo ir lietuviškų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

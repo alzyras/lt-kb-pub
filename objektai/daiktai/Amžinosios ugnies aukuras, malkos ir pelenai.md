@@ -72,7 +72,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas aprašo apeigą, kai užsitęsus ligai iš Amžinosios ugnies aukuro atnešti pelenai buvo naudojami ligai išginti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -90,7 +91,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Narbutas nuolatinės aukos esme laikė niekad negęstančios ugnies kurstymą Praurimės, Kurko, Perkūno ir Amžinosios ugnies aukuruose.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

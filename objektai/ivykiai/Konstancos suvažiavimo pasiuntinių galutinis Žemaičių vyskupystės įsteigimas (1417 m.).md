@@ -79,6 +79,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vytauto pakviesti Konstancos suvažiavimo pasiuntiniai spalį Žemaitijoje naujuoju ganytoju paskyrė lietuvį Motiejų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

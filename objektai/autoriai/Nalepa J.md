@@ -63,6 +63,7 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'J. Nalepos vietovardžių tyrimai Mėrūniškių regione rodo, kad jotvingiai centrinėse žemėse išliko dar ilgai po 1283 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -77,6 +78,7 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'J. Nalepos darbai nurodyti tarp šaltinių, siejant aptariamą antpuolį su 1278–1279 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

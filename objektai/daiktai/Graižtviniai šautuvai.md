@@ -69,6 +69,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Didelis graižtvinių šautuvų kiekis buvo pagrindinis laikotarpio kovos lauko veiksnys.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -87,6 +88,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 ## Puslapis 165 Pagrindinis periodo veiksnys kovos lauke - didelis graižtvinių šautuvų kiekis.
 
 Nenurodyta

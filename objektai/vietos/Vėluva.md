@@ -245,7 +245,8 @@ Vėluva minima kaip pilis Priegliaus pakrantėje, kurią per Didįjį prūsų su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-    - t-009- c-002
+    - t-009
+- c-002
   santrauka: '1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -265,7 +266,8 @@ Vėluva minima kaip pilis Priegliaus pakrantėje, kurią per Didįjį prūsų su
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-003
+    - t-011
+- c-003
   santrauka: '1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumente buvo minėti lietuvių žygiai į Vėluvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -283,7 +285,8 @@ Vėluva minima kaip pilis Priegliaus pakrantėje, kurią per Didįjį prūsų su
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-004
+    - t-010
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     J a r o-
@@ -308,7 +311,8 @@ Vėluva minima kaip pilis Priegliaus pakrantėje, kurią per Didįjį prūsų su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-    - t-003- c-005
+    - t-003
+- c-005
   santrauka: '1347 m. spalio pradžioje lietuvių karalius priėjo Vėluvą, o lietuviai tyliai įėję sudegino miestą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -324,7 +328,8 @@ Vėluva minima kaip pilis Priegliaus pakrantėje, kurią per Didįjį prūsų su
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-006
+    - t-002
+- c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tarp toliausiai į rytus įsiterpusių ir vakarinių pilių tinklo,
@@ -342,7 +347,8 @@ Vėluva minima kaip pilis Priegliaus pakrantėje, kurią per Didįjį prūsų su
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-007
+    - t-008
+- c-007
   santrauka: 'Nadruviai, skalviai ir sūduviai pastatė Vėluvos pilį, siekdami trukdyti broliams ir sembams brautis į Nadruvą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -361,7 +367,8 @@ Vėluva minima kaip pilis Priegliaus pakrantėje, kurią per Didįjį prūsų su
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-008
+    - t-006
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Vėluvos pilies puolimą
@@ -380,7 +387,8 @@ Vėluva minima kaip pilis Priegliaus pakrantėje, kurią per Didįjį prūsų su
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-    - t-012- c-009
+    - t-012
+- c-009
   santrauka: 'Per Didįjį prūsų sukilimą jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -396,7 +404,8 @@ Vėluva minima kaip pilis Priegliaus pakrantėje, kurią per Didįjį prūsų su
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-010
+    - t-005
+- c-010
   santrauka: 'Prūsijos magistras sudegino miestą, o Vėluvos ir Tapiavos kraštą sulygino su žeme.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -412,7 +421,8 @@ Vėluva minima kaip pilis Priegliaus pakrantėje, kurią per Didįjį prūsų su
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-011
+    - t-013
+- c-011
   santrauka: 'Narbutas cituoja liudijimą, kad Vėluvos miesto taryba galėjo patvirtinti nugriuvusio medžio buvusią dvidešimt septynių uolekčių apimtį prie žemės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

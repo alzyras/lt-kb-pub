@@ -86,6 +86,7 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-003
+
 - c-002
   santrauka: '1260 m. prūsai vėl atkrito nuo krikščionių tikėjimo, o sembai, notangai, varmiai, pagudėnai ir bartai išsirinko savo vadus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

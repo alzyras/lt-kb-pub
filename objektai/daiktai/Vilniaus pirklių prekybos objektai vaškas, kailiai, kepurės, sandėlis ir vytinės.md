@@ -89,6 +89,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Karaliaus raštu Vilniaus vaitui leista į užsienį parduoti tris vaško gabalus po 50 akmenų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -162,6 +163,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Žaliaminės odos ir vaškas buvo svarbiausios Vilniaus pirklių išvežamosios prekės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

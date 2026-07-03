@@ -61,6 +61,7 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -72,6 +73,7 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Vytautas mirė susitaikęs su Dievu, o jo kūnas aštuonias dienas buvo viešai išstatytas žmonių atsisveikinimui.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

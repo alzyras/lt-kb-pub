@@ -203,6 +203,7 @@ Goštautas šaltiniuose siejamas su Lietuvos didikų politine veikla Vytauto, Jo
   pagrindžia:
     - t-002
     - t-005
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -220,6 +221,7 @@ Goštautas šaltiniuose siejamas su Lietuvos didikų politine veikla Vytauto, Jo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -274,6 +276,7 @@ Goštautas šaltiniuose siejamas su Lietuvos didikų politine veikla Vytauto, Jo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -300,6 +303,7 @@ Goštautas šaltiniuose siejamas su Lietuvos didikų politine veikla Vytauto, Jo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Goštautas buvo vienas iš didikų, kuriuos Vytautas pasikvietė palydovais vykdamas pas imperatorių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -324,6 +328,7 @@ Goštautas šaltiniuose siejamas su Lietuvos didikų politine veikla Vytauto, Jo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-006
   santrauka: 'Vilniaus vaivada Goštautas buvo vienas iš Vytauto pasiuntinių į Korčino seimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -345,6 +350,7 @@ Goštautas šaltiniuose siejamas su Lietuvos didikų politine veikla Vytauto, Jo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-007
   santrauka: 'Algirdas, sumušęs nepaklususį Teodorą Karijotaitį, pavertė Podolę savo valda ir paskyrė Goštautą vietininku.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

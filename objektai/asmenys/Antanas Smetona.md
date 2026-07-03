@@ -461,6 +461,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -476,6 +477,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -497,6 +499,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -527,6 +530,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -544,6 +548,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-053
+
 - c-006
   santrauka: 'Grėsmės akivaizdoje Antanas Smetona leido Antanui Merkiui pasirašyti bet kokias sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -560,6 +565,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-036
+
 - c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -576,6 +582,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-040
+
 - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -600,6 +607,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   pagrindžia:
     - t-043
     - t-017
+
 - c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -616,6 +624,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -634,6 +643,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -653,6 +663,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-050
+
 - c-012
   santrauka: 'Priėmus Lenkijos ultimatumą, Antanui Smetonai artimas kunigas Vladas Mironas pakeitė Juozą Tūbelį premjero poste.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -671,6 +682,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -688,6 +700,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-014
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -706,6 +719,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-015
   santrauka: '1940 m. birželio 15 d. Antano Smetonos siūlymą priešintis ginklu palaikė vos du ministrai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -728,6 +742,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
+
 - c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -748,6 +763,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-017
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -768,6 +784,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-018
   santrauka: 'Nuo 1930 m. per Tautos šventę valstybės įstaigas puošdavo dideli Vytauto Didžiojo ir Antano Smetonos portretai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -790,6 +807,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-046
+
 - c-019
   santrauka: '1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -805,6 +823,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-020
   santrauka: '1918 m. kovo 23 d. Antano Smetonos vadovaujama Tarybos delegacija Berlyne pristatė deklaracijos turinį Georgui von Hertlingui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -826,6 +845,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-047
+
 - c-021
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -845,6 +865,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-052
+
 - c-022
   santrauka: '1919 m. rugsėjo 26 d. Kaune prezidentas Antanas Smetona iš balkono sveikino minias po Didžiosios Britanijos de facto pripažinimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -866,6 +887,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-023
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -884,6 +906,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
+
 - c-024
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -912,6 +935,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-025
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -927,6 +951,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-054
+
 - c-026
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -946,6 +971,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-027
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -963,6 +989,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-048
+
 - c-028
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -978,6 +1005,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-034
+
 - c-029
   santrauka: 'Grėsmės akivaizdoje Antanas Smetona leido Antanui Merkiui pasirašyti bet kokias sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -994,6 +1022,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-036
+
 - c-030
   santrauka: '1936 m. kovą Kaune Antanas Smetona atsakomąja kalba užvėrė duris kompromisui su Lenkija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1012,6 +1041,7 @@ Antanas Smetona buvo Lietuvos prezidentas 1919–1920 ir 1926–1940 m., siejama
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-031
   santrauka: 'Antano Smetonos redaguojamos „Vilties“ grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

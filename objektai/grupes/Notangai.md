@@ -295,6 +295,7 @@ Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei A
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-002
   santrauka: '1274 m. notangai kartu su pagudėnais, varmiais, bartais ir sembais grįžo į Bažnyčios visuotinybę ir davė įkaitų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -316,6 +317,7 @@ Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei A
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-003
   santrauka: 'Prūsams vėl atkritus nuo tikėjimo, notangai savo kariuomenės vadu ir vyresniuoju išsirinko Herkų Mantą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -337,6 +339,7 @@ Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei A
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-004
   santrauka: '1260 m. Klaipėdoje notangai minimi tarp Ordino pavaldžių užgrobtų žemių karių, prievarta telktų prieš Lietuvą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -363,6 +366,7 @@ Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei A
   pagrindžia:
     - t-009
     - t-003
+
 - c-005
   santrauka: 'Notangai ir varmiai išsižadėjo maišto sumanymų ir davė žodį būti ištikimi broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -379,6 +383,7 @@ Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei A
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-006
   santrauka: 'Notangai sausio 22 dieną Pokarviuose užpuolė likusią brolių ir maldininkų kariuomenės dalį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -400,6 +405,7 @@ Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei A
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-007
   santrauka: '1263 m. notangai apsupo Kroicburgo pilį ir trejus metus ją puolė trimis apgulos mašinomis bei trimis kuorais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -416,6 +422,7 @@ Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei A
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-008
   santrauka: 'Išžudžius karo vadus, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -434,6 +441,7 @@ Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei A
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-009
   santrauka: 'Iš pradžių jis buvo siejamas tik su notangais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -448,6 +456,7 @@ Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei A
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-010
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -466,6 +475,7 @@ Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei A
   pagrindžia:
     - t-019
     - t-020
+
 - c-011
   santrauka: 'Notangai gyveno Notangoje, teritorijoje į rytus nuo Varmės, siekusioje Priegliaus pakrantes ir Alnos upę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -479,6 +489,7 @@ Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei A
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-012
   santrauka: '1314 m. brolis Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -496,6 +507,7 @@ Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei A
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-013
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -515,6 +527,7 @@ Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei A
   pagrindžia:
     - t-015
     - t-018
+
 - c-014
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -538,6 +551,7 @@ Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei A
   pagrindžia:
     - t-007
     - t-021
+
 - c-015
   santrauka: '1313 m. rudenį brolis Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį ir sudegino abu jos papilius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -558,6 +572,7 @@ Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei A
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-016
   santrauka: 'Po skerdynių notangai metė burtus dėl aukos dievams, ir burtai tris kartus krito Magdeburgo miestiečiui Hirtshalsui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -576,6 +591,7 @@ Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei A
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-017
   santrauka: 'Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei Aismares nuo Elbingo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

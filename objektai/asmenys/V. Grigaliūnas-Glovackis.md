@@ -85,6 +85,7 @@ V. Grigaliūnas-Glovackis buvo karininkas, minimas kaip 2-ojo pėstininkų pulko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Vasario 8 d. P. Liatukas įsakė V. Grigaliūnui-Glovackiui išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -105,6 +106,7 @@ V. Grigaliūnas-Glovackis buvo karininkas, minimas kaip 2-ojo pėstininkų pulko
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -126,6 +128,7 @@ V. Grigaliūnas-Glovackis buvo karininkas, minimas kaip 2-ojo pėstininkų pulko
   pagrindžia:
     - t-001
     - t-005
+
 - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |

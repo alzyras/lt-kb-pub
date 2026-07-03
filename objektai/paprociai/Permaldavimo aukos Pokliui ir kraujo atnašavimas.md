@@ -75,7 +75,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas teigė, kad Pokliaus pasirodymas namuose reiškė dievų rūstybę, todėl namų savininkas kreipdavosi į žynį dėl permaldavimo aukos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -91,7 +92,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Narbutas rašė, kad dvigubai baisesnis Pokliaus apsireiškimas skatino kreiptis į krivį, kuris nurodydavo, kieno kraujas turi būti paaukotas dievams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -108,7 +110,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Narbutas rašė, kad vėliau kruviną permaldavimo auką pakeitė vaidilos kraujo atnašavimas ir gyvulio galvos padėjimas prie Pokliaus stabo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

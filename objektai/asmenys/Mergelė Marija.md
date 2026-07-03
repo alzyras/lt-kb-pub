@@ -120,6 +120,7 @@ Mergelė Marija Dusburgiečio pasakojimuose vaizduojama kaip regėjimų, pranaš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Dusburgiečio aprašytame regėjime Mergelė Marija, šventosios mergelės ir angelai kilo į dangų su žuvusių brolių sielomis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -139,6 +140,7 @@ Mergelė Marija Dusburgiečio pasakojimuose vaizduojama kaip regėjimų, pranaš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Dusburgiečio pasakojime Mergelė Marija vienu rankos prisilietimu pagydė sužalotą brolį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -160,6 +162,7 @@ Mergelė Marija Dusburgiečio pasakojimuose vaizduojama kaip regėjimų, pranaš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   santrauka: 'Dusburgiečio pasakojime Mergelė Marija ne kartą slaptai ir draugiškai kalbėjosi su broliu Hermanu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -182,6 +185,7 @@ Mergelė Marija Dusburgiečio pasakojimuose vaizduojama kaip regėjimų, pranaš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-005
   santrauka: 'Mergelė Marija, pasirodžiusi broliui Hermanui Saracėnui prieš žygį į Kuršą, pakvietė jį į savo sūnaus puotą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -204,6 +208,7 @@ Mergelė Marija Dusburgiečio pasakojimuose vaizduojama kaip regėjimų, pranaš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-006
   santrauka: 'Dusburgiečio pasakojime Mergelė Marija pranašavo sužeistam Kulmo pilėnui, kad jis mirs trečią dieną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -229,6 +234,7 @@ Mergelė Marija Dusburgiečio pasakojimuose vaizduojama kaip regėjimų, pranaš
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-007
   santrauka: 'Dusburgiečio pasakojime Mergelė Marija atėjo su Teutonų ordino broliais ir atsakė broliui, prašiusiam likti jų bendrijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

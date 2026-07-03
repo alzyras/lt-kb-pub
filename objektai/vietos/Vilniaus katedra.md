@@ -214,7 +214,8 @@ Vilniaus katedra minima kaip 1389 m. katedros statusą gavusi Vilniaus bažnyči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-002
+    - t-009
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mykolo Arkangelo altorium. 1530 m. ka-
@@ -226,7 +227,8 @@ Vilniaus katedra minima kaip 1389 m. katedros statusą gavusi Vilniaus bažnyči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-003
+    - t-011
+- c-003
   santrauka: 'Vilniaus katedros fasado skulptūros, sukurtos 1784–1787 m., žymėjo baroko epochos Lietuvoje pabaigos ribą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -242,7 +244,8 @@ Vilniaus katedra minima kaip 1389 m. katedros statusą gavusi Vilniaus bažnyči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-004
+    - t-002
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Be esančių jau Vilniuje nuo seniau šv.
@@ -254,7 +257,8 @@ Vilniaus katedra minima kaip 1389 m. katedros statusą gavusi Vilniaus bažnyči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019- c-005
+    - t-019
+- c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kadangi katedra jau buvo užbaigta statyti, tai sugrįžus
@@ -265,7 +269,8 @@ Vilniaus katedra minima kaip 1389 m. katedros statusą gavusi Vilniaus bažnyči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-006
+    - t-006
+- c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Stanislovas —
@@ -279,7 +284,8 @@ Vilniaus katedra minima kaip 1389 m. katedros statusą gavusi Vilniaus bažnyči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
-    - t-018- c-007
+    - t-018
+- c-007
   santrauka: '1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -305,7 +311,8 @@ Vilniaus katedra minima kaip 1389 m. katedros statusą gavusi Vilniaus bažnyči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-    - t-013- c-008
+    - t-013
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau jaunasis karalius nejau­
@@ -331,7 +338,8 @@ Vilniaus katedra minima kaip 1389 m. katedros statusą gavusi Vilniaus bažnyči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
-    - t-003- c-009
+    - t-003
+- c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
@@ -351,7 +359,8 @@ Vilniaus katedra minima kaip 1389 m. katedros statusą gavusi Vilniaus bažnyči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-    - t-010- c-010
+    - t-010
+- c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Apie tai sužinojęs Vilniaus vysku­
@@ -369,7 +378,8 @@ Vilniaus katedra minima kaip 1389 m. katedros statusą gavusi Vilniaus bažnyči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-011
+    - t-008
+- c-011
   santrauka: 'Vilniaus katedroje italų meistrai iš brangaus marmuro pastatė Elžbietos ir Barboros antkapius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -391,7 +401,8 @@ Vilniaus katedra minima kaip 1389 m. katedros statusą gavusi Vilniaus bažnyči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-012
+    - t-005
+- c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ne­
@@ -410,7 +421,8 @@ Vilniaus katedra minima kaip 1389 m. katedros statusą gavusi Vilniaus bažnyči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-013
+    - t-001
+- c-013
   santrauka: 'Vilniaus kapitulos archyve buvo sutartis su Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo per penkerius metus nuo 1536 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -427,7 +439,8 @@ Vilniaus katedra minima kaip 1389 m. katedros statusą gavusi Vilniaus bažnyči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-014
+    - t-014
+- c-014
   santrauka: 'Pranešime apie Vilniaus gaisrą teigta, kad sudegė Vilniaus katedra ir karaliaus iždas su turtais bei brangenybėmis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -465,7 +478,8 @@ Vilniaus katedra minima kaip 1389 m. katedros statusą gavusi Vilniaus bažnyči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-015
+    - t-012
+- c-015
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Italai, čia nuolat dirbdami šešerius metus,
@@ -482,7 +496,8 @@ Vilniaus katedra minima kaip 1389 m. katedros statusą gavusi Vilniaus bažnyči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-016
+    - t-015
+- c-016
   santrauka: 'Stanislovo garbei, iškilmingai pripažinta katedra.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -502,7 +517,8 @@ Vilniaus katedra minima kaip 1389 m. katedros statusą gavusi Vilniaus bažnyči
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-017
+    - t-020
+- c-017
   santrauka: 'Pasak Narbuto perteikiamo Strijkovskio, Vilniaus katedroje po didžiuoju altoriumi buvo koplyčia, kur laikytos gyvatės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

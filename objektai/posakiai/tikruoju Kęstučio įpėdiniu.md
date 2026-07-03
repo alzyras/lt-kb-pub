@@ -40,6 +40,7 @@ Kas kita Vytautas, kurį ir patys lietuviai pripažino tikruoju Kęstučio įpė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Lietuviai Vytautą pripažino tikruoju Kęstučio įpėdiniu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

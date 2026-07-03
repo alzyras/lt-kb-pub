@@ -69,6 +69,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   pagrindžia:
     - t-003
     - t-004
+
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -87,6 +88,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
   pagrindžia:
     - t-002
     - t-005
+
 - c-003
   santrauka: 'Kresmena siejama su Skomanto valdytu Kresinenos valsčiumi apie Skomanto ežerą ir toliau į rytus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

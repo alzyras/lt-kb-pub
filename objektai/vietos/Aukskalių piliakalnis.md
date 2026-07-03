@@ -54,6 +54,7 @@ Dusburgietis teigia, kad nadruvoje, Auksinės ir Didlovos santakoje, esama Auksk
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Aukskalių piliakalnis yra buvusių Obeliškių apylinkėse, į pietvakarius nuo Įsruties, Auksinės žemupyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

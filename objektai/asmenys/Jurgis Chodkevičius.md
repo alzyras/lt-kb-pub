@@ -75,6 +75,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Bresto seimo pradžioje Jurgis Chodkevičius paskirtas Lietuvos Didžiosios Kunigaikštystės archikamerarijumi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

@@ -64,6 +64,7 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
   pagrindžia:
     - t-002
     - t-003
+
 - c-002
   santrauka: 'Pirmasis „Lietuvos TSR istorijos šaltinių“ tomas išleistas Vilniuje 1955 m.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

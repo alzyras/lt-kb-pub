@@ -63,6 +63,7 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
   pagrindžia:
     - t-002
     - t-004
+
 - c-002
   santrauka: 'Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur daug gera padarė; tapęs Prūsijos žemės magistru ir beveik dvejus metus jai vadovavęs, buvo iškviestas į kapitulą, kai iškilmingai Teutonų ordino didžiuoju magistru išrinko brolį Burchardą iš Švandeno, o.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

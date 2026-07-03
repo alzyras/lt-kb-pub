@@ -171,7 +171,8 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-    - t-004- c-002
+    - t-004
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nuo 1384.VII.9 d. vykdydamas savo plačiai išgar­
@@ -184,7 +185,8 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
-    - t-003- c-003
+    - t-003
+- c-003
   santrauka: 'Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos buvo susimetę kryžiuočiai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -200,7 +202,8 @@ tags:
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-004
+    - t-001
+- c-004
   santrauka: 'XIV a. pradžioje kryžiuočiai, nepaėmę apgultos pilies, priešais ją pastatė Fridburgą ir Bajerburgą, nes žygyje dalyvavo Bavarijos kunigaikštis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

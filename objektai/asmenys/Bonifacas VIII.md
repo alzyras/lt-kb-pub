@@ -91,6 +91,7 @@ Bonifacas VIII šioje žinių bazės ištraukoje minimas kaip popiežius, susij�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-002
   santrauka: '1303 m. Bonifacas VIII paskelbė Romos karalių Albrechtą imperatoriumi ir perdavė jam Prancūzijos karalystę, bet Klemensas V tai atšaukė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -106,6 +107,7 @@ Bonifacas VIII šioje žinių bazės ištraukoje minimas kaip popiežius, susij�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: '1296 m. popiežius Bonifacas VIII kanonizavo Prancūzijos karalių Liudviką.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -121,6 +123,7 @@ Bonifacas VIII šioje žinių bazės ištraukoje minimas kaip popiežius, susij�
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -141,6 +144,7 @@ Bonifacas VIII šioje žinių bazės ištraukoje minimas kaip popiežius, susij�
   pagrindžia:
     - t-002
     - t-006
+
 - c-005
   santrauka: 'Bonifaco VIII ir Prancūzijos karaliaus Pilypo nesantarvė prasidėjo dėl popiežiaus pretenzijų į Prancūzijos reikalų pavaldumą Apaštalų sostui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

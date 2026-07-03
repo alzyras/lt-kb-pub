@@ -94,6 +94,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Švento Jono ligoninės magistras buvo tarp Šventosios Žemės ordinų ir didikų atstovų, palaikiusių naujai įsteigtą ligoninę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -129,6 +130,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Popiežius patvirtino Jeruzalės ligoninės brolių ordiną, skirtą pavargėliams ir paliegėliams slaugyti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -152,6 +154,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Kryžiaus karų aplinkoje italai turėjo Joanitų ordiną kaip kariaujančiųjų riterių ordiną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -169,6 +172,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-005
   santrauka: 'Švento Jono ligoninės ordinas datuojamas 1104 metais, popiežiaus Urbono II laikais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -546,7 +546,8 @@ Veliuona buvo svarbi Nemuno pakrantės pilis, siejama su Žemaitijos sienų apsa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-002
+    - t-014
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet
@@ -564,7 +565,8 @@ Veliuona buvo svarbi Nemuno pakrantės pilis, siejama su Žemaitijos sienų apsa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-017- c-003
+    - t-017
+- c-003
   santrauka: '1360 m. maršalo vadovaujama Ordino kariuomenė su talkininkais iš Vokietijos puolė Veliuonos pilį ir padarė jai daug žalos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -583,7 +585,8 @@ Veliuona buvo svarbi Nemuno pakrantės pilis, siejama su Žemaitijos sienų apsa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019- c-004
+    - t-019
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     O kai Vokiečių Ordino ma­
@@ -600,7 +603,8 @@ Veliuona buvo svarbi Nemuno pakrantės pilis, siejama su Žemaitijos sienų apsa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
-    - t-009- c-005
+    - t-009
+- c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gedimino mirties aplinkybės nėra žinomos. Yra tikra tiek,
@@ -612,7 +616,8 @@ Veliuona buvo svarbi Nemuno pakrantės pilis, siejama su Žemaitijos sienų apsa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-006
+    - t-020
+- c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vytautas teigė, jog pati Klaipėda priklausanti
@@ -628,7 +633,8 @@ Veliuona buvo svarbi Nemuno pakrantės pilis, siejama su Žemaitijos sienų apsa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
-    - t-016- c-007
+    - t-016
+- c-007
   santrauka: 'Gediminas žuvo 1337 m. mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -662,7 +668,8 @@ Veliuona buvo svarbi Nemuno pakrantės pilis, siejama su Žemaitijos sienų apsa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-    - t-013- c-008
+    - t-013
+- c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1380 metų vasario mėn. jis jau vienas
@@ -678,7 +685,8 @@ Veliuona buvo svarbi Nemuno pakrantės pilis, siejama su Žemaitijos sienų apsa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
-    - t-018- c-009
+    - t-018
+- c-009
   santrauka: 'Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -699,7 +707,8 @@ Veliuona buvo svarbi Nemuno pakrantės pilis, siejama su Žemaitijos sienų apsa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-010
+    - t-001
+- c-010
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     liūnų ir Sargėnų kapinynus^101 , ir apie L _ietuvos X-XV a. kapinynų
@@ -716,7 +725,8 @@ Veliuona buvo svarbi Nemuno pakrantės pilis, siejama su Žemaitijos sienų apsa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-    - t-022- c-011
+    - t-022
+- c-011
   santrauka: 'Senoji Veliuonos piliavietė apėmė du kalnus prie Nemuno, sujungtus tiltu per gilią griovą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -734,7 +744,8 @@ Veliuona buvo svarbi Nemuno pakrantės pilis, siejama su Žemaitijos sienų apsa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-012
+    - t-002
+- c-012
   santrauka: 'Rugpjūtį prie Nemuno veikę kryžiuočiai, Ordinui sulaukus naujos pagalbos, sunaikino svarbią lietuvių Veliuonos pilį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -756,7 +767,8 @@ Veliuona buvo svarbi Nemuno pakrantės pilis, siejama su Žemaitijos sienų apsa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-013
+    - t-010
+- c-013
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Senoji pi­
@@ -772,7 +784,8 @@ Veliuona buvo svarbi Nemuno pakrantės pilis, siejama su Žemaitijos sienų apsa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-014
+    - t-007
+- c-014
   santrauka: 'Prie Veliuonos Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -789,7 +802,8 @@ Veliuona buvo svarbi Nemuno pakrantės pilis, siejama su Žemaitijos sienų apsa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-015
+    - t-021
+- c-015
   santrauka: 'Veliuona tikriausiai XIII a. buvo pastatyta kaip pilis Žemaitijos sienoms saugoti nuo kryžiuočių puldinėjimų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -817,7 +831,8 @@ Veliuona buvo svarbi Nemuno pakrantės pilis, siejama su Žemaitijos sienų apsa
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-    - t-023- c-016
+    - t-023
+- c-016
   santrauka: 'Ilgai buvo klaidingai aiškinta, kad Gediminas 1338 m. žuvo per Veliuonos apgulimą, pašautas kryžiuočių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -832,7 +847,8 @@ Veliuona buvo svarbi Nemuno pakrantės pilis, siejama su Žemaitijos sienų apsa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-017
+    - t-006
+- c-017
   santrauka: 'Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -849,7 +865,8 @@ Veliuona buvo svarbi Nemuno pakrantės pilis, siejama su Žemaitijos sienų apsa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-018
+    - t-011
+- c-018
   santrauka: 'Veliuonoje abi šalys turėjo tartis, ar pratęsti sudarytą susitarimą, ar sudaryti amžiną taiką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -873,7 +890,8 @@ Veliuona buvo svarbi Nemuno pakrantės pilis, siejama su Žemaitijos sienų apsa
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024- c-019
+    - t-024
+- c-019
   santrauka: 'Pasibaigus susitikimui karalius kurį laiką pasiliko Veliuonoje pailsėti, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |

@@ -81,6 +81,7 @@ Henrikas von Plauenas minimas kaip Ordino magistras, po Makro raporto ieškojęs
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -101,6 +102,7 @@ Henrikas von Plauenas minimas kaip Ordino magistras, po Makro raporto ieškojęs
   pagrindžia:
     - t-001
     - t-001
+
 - c-003
   santrauka: 'Henrikas von Plauenas citatoje įvardijamas kaip Švitco komtūras.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -130,6 +132,7 @@ Henrikas von Plauenas minimas kaip Ordino magistras, po Makro raporto ieškojęs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Po Makro raporto Henrikas von Plauenas vyko pas Vaclovą, Vokietijos elektorius ir Karolį VI prašyti pagalbos prieš Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

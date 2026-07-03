@@ -230,6 +230,7 @@ amziai:
   pagrindžia:
     - t-013
     - t-016
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -249,6 +250,7 @@ amziai:
   pagrindžia:
     - t-015
     - t-010
+
 - c-003
   santrauka: 'Žiemgaliai Nestoro „Povestyje“ minimi tarp rusams duoklę mokėjusių ir atskiras kalbas turėjusių tautų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -266,6 +268,7 @@ amziai:
   pagrindžia:
     - t-011
     - t-003
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -280,6 +283,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -294,6 +298,7 @@ amziai:
   pagrindžia:
     - t-009
     - t-018
+
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -312,6 +317,7 @@ amziai:
   pagrindžia:
     - t-019
     - t-005
+
 - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -329,6 +335,7 @@ amziai:
   pagrindžia:
     - t-007
     - t-014
+
 - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -346,6 +353,7 @@ amziai:
   pagrindžia:
     - t-008
     - t-002
+
 - c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -362,6 +370,7 @@ amziai:
   pagrindžia:
     - t-017
     - t-001
+
 - c-010
   santrauka: 'Traidenis 1269-1282 m. rėmė žiemgalius ir telkė jėgas kovai Prūsijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -376,6 +385,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-011
   santrauka: 'Ankstyvaisiais Viduramžiais Vakarų metraštininkai pradėjo minėti žiemgalius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -391,6 +401,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-012
   santrauka: '1220 m. Lietuvos ir žiemgalių kariuomenė smogė kalavijuočiams Padauguvyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -406,6 +417,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-013
   santrauka: 'Po Durbės mūšio žiemgaliai atsimetė nuo Ordino ir prisidėjo prie Lietuvos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -420,6 +432,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-014
   santrauka: 'Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

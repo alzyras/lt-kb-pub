@@ -245,7 +245,8 @@ Kernavė šaltiniuose minima kaip svarbi Lietuvos vieta prie Neries: H. Paszkiew
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-    - t-006- c-002
+    - t-006
+- c-002
   santrauka: 'Ordino maršalas su kryžiuočių kariuomene ir Vytauto pulkais užėmė Kernavę ir Maišiagalą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -269,7 +270,8 @@ Kernavė šaltiniuose minima kaip svarbi Lietuvos vieta prie Neries: H. Paszkiew
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-    - t-008- c-003
+    - t-008
+- c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gediminas stiprino Lietuvą, statydamas joje naujų pilių, tapu­
@@ -283,7 +285,8 @@ Kernavė šaltiniuose minima kaip svarbi Lietuvos vieta prie Neries: H. Paszkiew
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-004
+    - t-007
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O kad toks tilto muitas, mūsų aukščiau nu­
@@ -317,7 +320,8 @@ Kernavė šaltiniuose minima kaip svarbi Lietuvos vieta prie Neries: H. Paszkiew
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-005
+    - t-009
+- c-005
   santrauka: 'Paplitusi versija Lietuvos vardą kildina iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -332,7 +336,8 @@ Kernavė šaltiniuose minima kaip svarbi Lietuvos vieta prie Neries: H. Paszkiew
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-006
+    - t-004
+- c-006
   santrauka: 'Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -347,7 +352,8 @@ Kernavė šaltiniuose minima kaip svarbi Lietuvos vieta prie Neries: H. Paszkiew
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-007
+    - t-001
+- c-007
   santrauka: 'Iš Žemutinės pilies vedęs kelias prie kelto per Viliją šakojosi į Kernavę, senąją Lietuvos sostinę, ir Ukmergės pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -364,7 +370,8 @@ Kernavė šaltiniuose minima kaip svarbi Lietuvos vieta prie Neries: H. Paszkiew
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-008
+    - t-005
+- c-008
   santrauka: 'XVI a. plačioji Lietuvos metraščio redakcija nurodė, kad Trakų pilis įkurta už penkių mylių nuo Kernavės.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -382,7 +389,8 @@ Kernavė šaltiniuose minima kaip svarbi Lietuvos vieta prie Neries: H. Paszkiew
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-009
+    - t-010
+- c-009
   santrauka: 'Kernavė buvo įkurta prie upės kranto kaip nausėdija ir pilis, kadaise buvusi Lietuvos sostinė.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -407,7 +415,8 @@ Kernavė šaltiniuose minima kaip svarbi Lietuvos vieta prie Neries: H. Paszkiew
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-010
+    - t-011
+- c-010
   santrauka: 'Kunigaikštystės sostinė buvo perkelta iš Naugarduko į Kernavę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -433,7 +442,8 @@ Kernavė šaltiniuose minima kaip svarbi Lietuvos vieta prie Neries: H. Paszkiew
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012- c-011
+    - t-012
+- c-011
   santrauka: 'Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti priešą iš Ritersverderio.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -457,7 +467,8 @@ Kernavė šaltiniuose minima kaip svarbi Lietuvos vieta prie Neries: H. Paszkiew
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-012
+    - t-013
+- c-012
   santrauka: 'Narbutas cituoja aiškinimą, kad Neries deivės aukurai buvę įvairiose pakrantės vietose, pirmiausia Kernavėje prie Neriškių miško.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -480,7 +491,8 @@ Kernavė šaltiniuose minima kaip svarbi Lietuvos vieta prie Neries: H. Paszkiew
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-013
+    - t-014
+- c-013
   santrauka: 'Narbutas Pajautą apibūdino kaip Kerniaus, valdžiusio Vidurio arba Užnerio Lietuvą su sostine Kernavėje, dukterį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -501,7 +513,8 @@ Kernavė šaltiniuose minima kaip svarbi Lietuvos vieta prie Neries: H. Paszkiew
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-015- c-014
+    - t-015
+- c-014
   santrauka: 'Pasak Narbuto perteikiamų padavimų, XIII a. didžioji šventykla kurį laiką buvusi Kernavėje, o vėliau Vilniuje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -515,7 +528,8 @@ Kernavė šaltiniuose minima kaip svarbi Lietuvos vieta prie Neries: H. Paszkiew
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-015
+    - t-016
+- c-015
   santrauka: 'Narbutas aiškino, kad iki Vilniaus įkūrimo XIII a. Kernavėje buvusi valstybės sostinė, vyriausiojo žynio buveinė ir šventykla.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

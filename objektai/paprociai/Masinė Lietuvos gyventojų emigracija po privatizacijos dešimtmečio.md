@@ -83,6 +83,7 @@ Po pirmojo privatizacijos dešimtmečio masinis nedarbas skatino masinę Lietuvo
   pagrindžia:
     - t-001
     - t-002
+
 ## Šaltiniai ir įrodymai
 
 Nenurodyta

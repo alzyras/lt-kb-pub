@@ -82,6 +82,7 @@ Grzybowski minimas kaip pranciškonas ir knygos „Skarb nieoszacowany OO. Franc
   pagrindžia:
     - t-001
     - t-003
+
 - c-002
   santrauka: 'Balińskis atmetė Grzybowskio pasakojimą apie tariamą Goštauto vienuolystę ir vyskupystę kaip tikriausiai prasimanytą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

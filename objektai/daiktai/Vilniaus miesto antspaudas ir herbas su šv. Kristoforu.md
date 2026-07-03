@@ -121,6 +121,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Viešiesiems reikalams Vilniaus magistratas turėjo naudoti senąjį miesto antspaudą su šv. Kristoforo atvaizdu raudoname lake.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -175,6 +176,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: '1548 metais Vilniaus miesto herbas buvo šv. Kristoforo atvaizdas raudoname fone.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

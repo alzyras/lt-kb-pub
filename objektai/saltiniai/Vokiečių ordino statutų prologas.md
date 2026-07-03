@@ -70,6 +70,7 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vokiečių ordino statutų prologas buvo pirmoji ir viena svarbiausių statutų dalių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -84,6 +85,7 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Dusburgietis panaudojo Vokiečių ordino statutų prologą, pateikdamas vokiškąją ir tendencingą Ordino įsikūrimo versiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

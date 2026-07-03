@@ -197,6 +197,7 @@ Luomas žymi socialinę ir teisinę visuomenės grupę, kurios vaidmuo Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-002
   santrauka: 'Valdovas prašė būsimo įpėdinio ir abiejų valstybių luomų tarybų netrukdyti padalyti jo turtų pagal aprašytą tvarką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -240,6 +241,7 @@ Luomas žymi socialinę ir teisinę visuomenės grupę, kurios vaidmuo Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Vytauto laikais Lietuvos bajorija gavo herbus, įgijo luomo savygarbą ir iš visuomenės sluoksnio virto luomu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -260,6 +262,7 @@ Luomas žymi socialinę ir teisinę visuomenės grupę, kurios vaidmuo Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Batoras teigė muitus įsakęs rinkti ne luomų teisėms varžyti, o dėl Livonijos ir Lietuvos sienų gynybos poreikių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -286,6 +289,7 @@ Luomas žymi socialinę ir teisinę visuomenės grupę, kurios vaidmuo Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -305,6 +309,7 @@ Luomas žymi socialinę ir teisinę visuomenės grupę, kurios vaidmuo Lietuvos 
   pagrindžia:
     - t-002
     - t-001
+
 - c-006
   santrauka: 'Vytautas skatino prekybą ir intensyvesnį ūkinį gyvenimą, sudarydamas žydų ir miestelėnų luomą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -321,6 +326,7 @@ Luomas žymi socialinę ir teisinę visuomenės grupę, kurios vaidmuo Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-007
   santrauka: 'Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -344,6 +350,7 @@ Luomas žymi socialinę ir teisinę visuomenės grupę, kurios vaidmuo Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-008
   santrauka: 'Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, atsisakiusiems paklusti popiežiui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -365,6 +372,7 @@ Luomas žymi socialinę ir teisinę visuomenės grupę, kurios vaidmuo Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-009
   santrauka: 'Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -384,6 +392,7 @@ Luomas žymi socialinę ir teisinę visuomenės grupę, kurios vaidmuo Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-010
   santrauka: 'Karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -408,6 +417,7 @@ Luomas žymi socialinę ir teisinę visuomenės grupę, kurios vaidmuo Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-011
   santrauka: 'Kazimieras Breste priėmė luomų priesaiką, kuria jie pažadėjo ištikimybę ir paklusnumą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -434,6 +444,7 @@ Luomas žymi socialinę ir teisinę visuomenės grupę, kurios vaidmuo Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-012
   santrauka: 'Aleksandras pasiūlė lietuvių luomams Vilniaus seime aptarti ir patvirtinti Piotrkove jo atstovų priimtus nutarimus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -453,6 +464,7 @@ Luomas žymi socialinę ir teisinę visuomenės grupę, kurios vaidmuo Lietuvos 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-013
   santrauka: 'Pasiuntiniams buvo uždrausta ką nors spręsti, todėl apie viską jie turėjo pranešti Bresto seime susirinkusiems luomams.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

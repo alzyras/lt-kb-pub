@@ -71,6 +71,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Kazimieras IV 1440 metais suteikė Vilniaus miestiečiams privilegiją laisvai prekiauti Lietuvos valstybėje be muito.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -114,6 +115,7 @@ periodo_grupes:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Kazimieras IV, mėgęs medžioti, Rūdninkuose pasirinko medžioklės buveinę ir pasistatydino dvarą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

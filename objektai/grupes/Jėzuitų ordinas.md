@@ -247,7 +247,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-002
+    - t-022
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
@@ -260,7 +261,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-003
+    - t-004
+- c-003
   santrauka: 'Jėzuitai 1579 m. įkūrė Vilniaus universitetą, vieną svarbiausių Baroko epochos kultūros dėmenų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -275,7 +277,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-004
+    - t-006
+- c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vėliau Radvila Juo-
@@ -292,7 +295,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-005
+    - t-010
+- c-005
   santrauka: 'Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -310,7 +314,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-006
+    - t-009
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Didesnį dėmesį vėlesnėje istoriografi­
@@ -326,7 +331,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
-    - t-016- c-007
+    - t-016
+- c-007
   santrauka: '1569 m. jėzuitų ordino pasirodymas Lietuvoje siejamas su simboline Baroko epochos pradžia.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -343,7 +349,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-019- c-008
+    - t-019
+- c-008
   santrauka: 'Disidentai negalėjo sutelkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo tvirtai susieti savo brolijos regulų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -363,7 +370,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-009
+    - t-007
+- c-009
   santrauka: '1668 m. gegužės 17 d. karaliaus raštu Šv. Jono bažnyčios priklausomybė pripažinta vienuoliams jėzuitams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -384,7 +392,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-010
+    - t-005
+- c-010
   santrauka: 'Vilniaus vyskupas Valerijonas Protasevičius 1569 m. pirmasis pakvietė jėzuitų ordiną į Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -410,7 +419,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-011
+    - t-003
+- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau sunku buvo jėzuitams, tuomet dar neturtingiems at­
@@ -427,7 +437,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-012
+    - t-020
+- c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Summa facit [suma sudaro] -468 auks.
@@ -446,7 +457,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-    - t-014- c-013
+    - t-014
+- c-013
   santrauka: '1773 m. įkurta Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -462,7 +474,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-014
+    - t-008
+- c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1581 metų birželio 9 dieną. Kad bažnyčia būtų geriau
@@ -482,7 +495,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011- c-015
+    - t-011
+- c-015
   santrauka: 'Karalius vyskupo Valerijono Protasevičiaus funduotą jėzuitų kolegiją pakėlė iki universiteto laipsnio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -507,7 +521,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
-    - t-012- c-016
+    - t-012
+- c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl 1569 m. Vilniuje vyskupo kvietimu pasiro-
@@ -522,7 +537,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-017
+    - t-021
+- c-017
   santrauka: 'Šv. Jono bažnyčios klebonas Adomas Ancypa padavė skundą prieš ankstesniuosius tėvus jėzuitus dėl bažnyčios fundacijų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -543,7 +559,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-018
+    - t-013
+- c-018
   santrauka: '1687 m. jėzuitai suremontavo mūrinį namą, atidavė jį vaistinei ir pavedė vaistininkui kasmet mokėti po 140 auksinų bažnyčiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -558,7 +575,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
-    - t-001- c-019
+    - t-001
+- c-019
   santrauka: 'Vilniaus kapitula perleido Akademijos kolegijos rektoriams jėzuitams teisę siūlyti nuolatinį Šv. Jono bažnyčios vikarą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -575,7 +593,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023- c-020
+    - t-023
+- c-020
   santrauka: 'Andrius Klingeris, jėzuitų Lietuvos provincijos viršininkas, pasirašė leidimą spausdinti pirmąją Lietuvos istorijos dalį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -600,7 +619,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024- c-021
+    - t-024
+- c-021
   santrauka: '1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė kunigą Jokūbą Lencicijų su dviem bičiuliais misionieriais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -615,7 +635,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025- c-022
+    - t-025
+- c-022
   santrauka: 'Narbutas perteikia jėzuitų istoriko pasakojimą, kad, jėzuitams naikinant senojo tikėjimo liekanas, kilo audra ir griausmas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -630,7 +651,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-026- c-023
+    - t-026
+- c-023
   santrauka: 'Po ketverių metų Žemaičių vyskupas Melchioras Giedraitis vėl išsikvietė jėzuitus į dieceziją, kurioje stigo krikščioniško mokymo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -645,7 +667,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-027- c-024
+    - t-027
+- c-024
   santrauka: 'Narbutas nurodo ordino istoriko pasakojimą, kad iš nukirsto didelio ąžuolo drevės išskrido sparnuota nepaprasto dydžio rupūžė.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -659,7 +682,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-028- c-025
+    - t-028
+- c-025
   santrauka: '1618 m. Kražiuose įsitvirtinę jėzuitai savo misijoje rado apie šešis tūkstančius neapkrikštytų valstiečių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -677,7 +701,8 @@ Jėzuitų ordinas Lietuvos istorijoje iškyla kaip svarbi kontrreformacijos ir �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-029- c-026
+    - t-029
+- c-026
   santrauka: 'Narbutas rašo, kad jėzuitai minėtose vietovėse išdraskė šešis altorius ir iškirto aukojimams skirtus ąžuolus bei liepas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

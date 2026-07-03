@@ -66,6 +66,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Namedos sūnūs ir kiti Bysleidos pilėnai pakilo į mūšį ir nukovė daugiau kaip du tūkstančius priešo karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

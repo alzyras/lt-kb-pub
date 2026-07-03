@@ -77,6 +77,7 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Netimero valdžios paveldimumo principas rodytų, kad Lietuva buvo pasiekusi bent vadystės, arba chiefdom''o, stadiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

@@ -79,6 +79,7 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Magistras Henrikas, įkurdinęs stiprią įgulą Gotesverderio pilyje prie Kauno, su likusia kariuomene niokojo kraštą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -103,6 +104,7 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Mūšyje kryžiuočiai neteko ordino magistro Henriko ir dvidešimt šešių kilmingųjų ordino riterių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

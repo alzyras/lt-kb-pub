@@ -69,6 +69,7 @@ Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivad
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Fiodoras Ovčina klastingomis kalbomis sukurstė karą prieš Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

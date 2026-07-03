@@ -48,7 +48,8 @@ tags:
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-002
+    - t-002
+- c-002
   santrauka: 'Bajorija šūkiu „Mužikus nori padaryti bajorais, o mus — mužikais“ protestavo prieš valstiečiams numatytus palengvinimus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

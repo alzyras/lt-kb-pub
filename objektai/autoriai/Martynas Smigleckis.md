@@ -107,6 +107,7 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   pagrindžia:
     - t-004
     - t-003
+
 - c-002
   santrauka: 'Martynas Smigleckis teigė, kad neteisinga respublikoje neleisti privačios prekybos dėl didesnio prekių ištekliaus mieste.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -132,6 +133,7 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -155,6 +157,7 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   pagrindžia:
     - t-002
     - t-005
+
 - c-004
   santrauka: 'Martynas Smigleckis, aptardamas privačios prekybos arba monopolio privalumus ir trūkumus, Vilnių pateikė kaip stiklo prekių pavyzdį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

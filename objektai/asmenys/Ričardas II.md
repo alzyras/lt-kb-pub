@@ -61,6 +61,7 @@ Nebu­ vo apie 1390 metus jokio Henriko Anglijos soste, o viešpatavo anuo tarpu
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Apie 1390 m. Anglijoje viešpatavo Ričardas II, o prie Vilniaus buvo Henrikas Lankasteris, Jono de Gando sūnus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

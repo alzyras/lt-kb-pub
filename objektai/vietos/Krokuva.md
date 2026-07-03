@@ -965,6 +965,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -979,6 +980,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   pagrindžia:
     - t-036
     - t-033
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -993,6 +995,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1008,6 +1011,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   pagrindžia:
     - t-029
     - t-014
+
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1026,6 +1030,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   pagrindžia:
     - t-041
     - t-056
+
 - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1046,6 +1051,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   pagrindžia:
     - t-049
     - t-046
+
 - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1067,6 +1073,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   pagrindžia:
     - t-016
     - t-057
+
 - c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1084,6 +1091,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   pagrindžia:
     - t-055
     - t-050
+
 - c-009
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1113,6 +1121,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   pagrindžia:
     - t-060
     - t-001
+
 - c-010
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1130,6 +1139,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   pagrindžia:
     - t-030
     - t-015
+
 - c-011
   santrauka: '1387 m. sausį į Vilnių su Jogaila atvyko ir Krokuvoje pakrikštyti Lietuvos bajorai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1151,6 +1161,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
+
 - c-012
   santrauka: 'Seime Lietuva turėjo tik trečdalį vietų, nes buvo prilyginta vienai Lenkijos provincijai greta Didžiosios Lenkijos su Poznane ir Mažosios Lenkijos su Krokuva.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1170,6 +1181,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
+
 - c-013
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1187,6 +1199,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-043
+
 - c-014
   santrauka: 'Žygimanto Augusto laikais geriausi amatininkai iš Krokuvos apsigyveno Vilniuje ir prisidėjo prie cechų organizavimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1208,6 +1221,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-015
   santrauka: 'Vladislovas Jogaila, matydamas klestinčią Krokuvą, siekė vilioti svetimtaučius kurtis Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1233,6 +1247,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   pagrindžia:
     - t-044
     - t-005
+
 - c-016
   santrauka: 'Didžioji iš Krokuvos pargabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1256,6 +1271,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-037
+
 - c-017
   santrauka: 'XIV a. Krokuvoje ir Liubline buvo siauros tiesios gatvės, susidariusios tarp gotikinių rūmų ir aukštų sienų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1282,6 +1298,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   pagrindžia:
     - t-038
     - t-039
+
 - c-018
   santrauka: 'Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1297,6 +1314,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-019
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1310,6 +1328,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-020
   santrauka: '1578 m. Steponas Batoras Vilniaus mokykloms suteikė Akademijos vardą ir prilygino jas kitoms akademijoms, ypač Krokuvos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1335,6 +1354,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   pagrindžia:
     - t-051
     - t-045
+
 - c-021
   santrauka: 'Žygimantas privilegijose miestui suteikė Magdeburgo teisę, kuria Krokuva naudojosi nuo seno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1355,6 +1375,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   pagrindžia:
     - t-059
     - t-035
+
 - c-022
   santrauka: '1385 m. pabaigoje Jogaila paliko senąją sostinę ir su lietuvių kunigaikščių bei didikų svita išvyko į Krokuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1374,6 +1395,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   pagrindžia:
     - t-018
     - t-021
+
 - c-023
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1389,6 +1411,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   pagrindžia:
     - t-034
     - t-002
+
 - c-024
   santrauka: 'Jogailos pastatyta katedra buvo iškilmingai pašvęsta Krokuvos vyskupo šv. Stanislovo garbei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1404,6 +1427,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-025
   santrauka: 'Auksinis kryžius su Šventojo Kryžiaus medžiu turėjo likti Krokuvos pilies koplyčioje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1440,6 +1464,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
+
 - c-026
   santrauka: 'Krokuva tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1459,6 +1484,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-027
   santrauka: 'Benjaminas iš Tudelio teigė, kad 1160 m. į Aleksandrijos uostą užsukdavo ir Krokuvos pirklių laivai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1481,6 +1507,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   pagrindžia:
     - t-054
     - t-004
+
 - c-028
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1497,6 +1524,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   pagrindžia:
     - t-053
     - t-052
+
 - c-029
   santrauka: 'Vytautas mėgino dovanomis ir pažadais palenkti Krokuvos vyskupą Olesnickį palaikyti jo karūnavimo siekį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1525,6 +1553,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   pagrindžia:
     - t-025
     - t-023
+
 - c-030
   santrauka: 'Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -1542,6 +1571,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-062
+
 - c-031
   santrauka: 'Aleksandrui sunkiai sergant, iš Krokuvos atvyko gydymą išmanę Motiejus iš Blonios ir Aleksandras Balinskis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1575,6 +1605,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   pagrindžia:
     - t-063
     - t-058
+
 - c-032
   santrauka: '1403 m. Vytautas užtikrino Krokuvos pirkliams apsaugą visoje savo valstybėje ir leido jiems laisvai prekiauti Lietuvoje bei Rusijoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1595,6 +1626,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-033
   santrauka: 'Manoma, kad senojo Vilniaus universiteto studijų lygis nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1613,6 +1645,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-047
+
 - c-034
   santrauka: 'Jei valdovas mirtų Lenkijos Karalystėje, jis norėjo būti palaidotas Krokuvos pilies bažnyčios koplyčioje prie tėvo kapo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1639,6 +1672,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-035
   santrauka: 'Kryžius su Šventojo Kryžiaus medžiu turėjo būti paliktas Krokuvos pilies koplyčioje, kur ilsėjosi karaliaus kūnas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1663,6 +1697,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-036
   santrauka: 'Vakarinėje LDK dalyje tarp Vilniaus ir Lucko didikai kūrė rezidencijas dėl reprezentacijos ir artumo Krokuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1682,6 +1717,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-037
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1698,6 +1734,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-038
   santrauka: '1532 m. lapkričio 27 d. raštas buvo surašytas Krokuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1719,6 +1756,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-039
   santrauka: 'Baško rašė, kad 1254 m. gegužės 8 d. Krokuvos bažnyčioje, skelbiant Šv. Stanislovo kanonizavimą, dalyvavo Lietuvos vyskupas Vitas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1734,6 +1772,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-042
+
 - c-040
   santrauka: 'Jogailai siekiant ponų tarybos sutikimo dėl Vytauto karūnacijos, į Krokuvą buvo išsiųsti su Jogaila į Vilnių atvykę Lenkijos ponai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -1750,6 +1789,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
 - c-041
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1765,6 +1805,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-042
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1793,6 +1834,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   pagrindžia:
     - t-048
     - t-011
+
 - c-043
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1807,6 +1849,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   pagrindžia:
     - t-061
     - t-040
+
 - c-044
   santrauka: 'Susirgęs karalius buvo nuvežtas į Krokuvą, o Šich Achmetas su garbinga palyda sugrįžo į Lietuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1825,6 +1868,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-064
+
 - c-045
   santrauka: 'Paleidęs seimą, karalius išvyko į Krokuvą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1849,6 +1893,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-065
+
 - c-046
   santrauka: 'Didikai sutiko, kad Barbora Krokuvoje būtų vainikuota karaliene kaip ir kitos karalienės.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1867,6 +1912,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-066
+
 - c-047
   santrauka: 'Jogailai įsitvirtinus Krokuvoje, Lietuvos metraščio pasakotojas sako vėl pareiškęs savo krikščionių tikėjimą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -1885,6 +1931,7 @@ Krokuva žinių bazėje atsiskleidžia kaip Lenkijos politinis ir valdžios cent
   patikimumo_saltinis: ai
   pagrindžia:
     - t-067
+
 - c-048
   santrauka: 'Aleksandras 1501 m. lapkričio 29 d. išvyko iš Melniko į Krokuvą, kur gruodžio 12 d. buvo vainikuotas Lenkijos karaliumi.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

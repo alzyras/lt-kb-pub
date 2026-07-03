@@ -62,7 +62,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Įvedant rusiškas raides siekta lietuvius atitraukti nuo lenkų ir priartinti prie rusų, bet lietuviai priešinosi šiai rusinimo priemonei.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

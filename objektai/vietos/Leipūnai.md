@@ -73,6 +73,7 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
     - t-002
     - t-003
     - t-001
+
 - c-002
   santrauka: 'Valkininkų kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

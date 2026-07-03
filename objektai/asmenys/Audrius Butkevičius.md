@@ -52,6 +52,7 @@ Iki šio nutarimo pagrindinį organizacinį ir vadovavimo darbą vykdė KAD dire
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Iki Laikinosios gynybos vadovybės sudarymo KAD direktorius Audrius Butkevičius vykdė pagrindinį organizacinį ir vadovavimo darbą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

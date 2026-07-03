@@ -44,6 +44,7 @@ Planas buvo išduotas, ir «Trojos gudrumu» sostinėje įsistiprinti nepavyko.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Vytauto planas „Trojos gudrumu“ netikėtai užimti Vilnių buvo išduotas, todėl sostinėje įsitvirtinti nepavyko.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

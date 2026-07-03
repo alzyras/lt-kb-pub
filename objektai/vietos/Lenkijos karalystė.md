@@ -142,6 +142,7 @@ Lenkijos Karalystė Lietuvos istorijos kontekste minima kaip politinė erdvė, s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -158,6 +159,7 @@ Lenkijos Karalystė Lietuvos istorijos kontekste minima kaip politinė erdvė, s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-003
   santrauka: 'Testamente nurodyta, kad Lenkijos Karalystėje esantys pabūklai, muškietos ir kita karo amunicija atiduodami Karalystei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -185,6 +187,7 @@ Lenkijos Karalystė Lietuvos istorijos kontekste minima kaip politinė erdvė, s
   pagrindžia:
     - t-005
     - t-004
+
 - c-004
   santrauka: 'Jei valdovas mirtų Lenkijos Karalystėje, jis norėjo būti palaidotas Krokuvos pilies bažnyčios koplyčioje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -211,6 +214,7 @@ Lenkijos Karalystė Lietuvos istorijos kontekste minima kaip politinė erdvė, s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -226,6 +230,7 @@ Lenkijos Karalystė Lietuvos istorijos kontekste minima kaip politinė erdvė, s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -258,6 +263,7 @@ Lenkijos Karalystė Lietuvos istorijos kontekste minima kaip politinė erdvė, s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   santrauka: 'Žygimantas Senasis dokumente tituluojamas išrinktu Lenkijos Karalystės karaliumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -287,6 +293,7 @@ Lenkijos Karalystė Lietuvos istorijos kontekste minima kaip politinė erdvė, s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -309,6 +316,7 @@ Lenkijos Karalystė Lietuvos istorijos kontekste minima kaip politinė erdvė, s
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-009
   santrauka: 'Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų pilių Podolėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

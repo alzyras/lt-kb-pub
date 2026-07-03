@@ -72,6 +72,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: '1396 m. Vilniaus Pilies kalną ištiko smarki griūtis, kurios nuošliaužos užslinko ant vaivados Manvydo rūmų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -88,6 +89,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Vilniaus Aukštutinės pilies kalnas užslinko ant Manvydo namo ir pridarė daug nuostolių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -107,6 +109,7 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Vilniaus Pilies kalno griūtis palietė kalną, bet pilies mūrai liko sveiki.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

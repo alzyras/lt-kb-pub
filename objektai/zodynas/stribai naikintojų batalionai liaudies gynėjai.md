@@ -61,6 +61,7 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Nemažai stribų buvo abejotinos moralės asmenys, autoriteto jie neturėjo, greitai sumota būrių pavadinimą pakeisti iš „naikintojų“ į „liaudies gynėjų“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

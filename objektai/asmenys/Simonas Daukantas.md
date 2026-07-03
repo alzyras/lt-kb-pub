@@ -137,7 +137,8 @@ Simonas Daukantas – XVIII–XIX a. Lietuvos istorikas, raštu įamžinęs šal
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-    - t-008- c-002
+    - t-008
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kita vertus, pirmoje
@@ -155,7 +156,8 @@ Simonas Daukantas – XVIII–XIX a. Lietuvos istorikas, raštu įamžinęs šal
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-    - t-006- c-003
+    - t-006
+- c-003
   santrauka: 'Simonas Daukantas domėjosi M. Balinskio publikacijomis apie kultūrinį sąjūdį Žemaitijoje ir kitus kultūros klausimus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -172,7 +174,8 @@ Simonas Daukantas – XVIII–XIX a. Lietuvos istorikas, raštu įamžinęs šal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-004
+    - t-005
+- c-004
   santrauka: 'Simoną Daukantą įkvėpė suvokimas, kad tautos ateičiai būtina tautos atmintis, todėl jis raštu įamžino Lietuvos praeitį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -189,7 +192,8 @@ Simonas Daukantas – XVIII–XIX a. Lietuvos istorikas, raštu įamžinęs šal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-005
+    - t-007
+- c-005
   santrauka: 'Simonas Daukantas įkalbino Motiejų Valančių rašyti ir lietuviškai išleisti Žemaičių vyskupijos istoriją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -204,7 +208,8 @@ Simonas Daukantas – XVIII–XIX a. Lietuvos istorikas, raštu įamžinęs šal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-006
+    - t-004
+- c-006
   santrauka: 'Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -222,7 +227,8 @@ Simonas Daukantas – XVIII–XIX a. Lietuvos istorikas, raštu įamžinęs šal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-007
+    - t-002
+- c-007
   santrauka: 'Manoma, kad Simonas Daukantas tuo metu jau buvo parašęs „Darbus senųjų lietuvių ir žemaičių“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -236,7 +242,8 @@ Simonas Daukantas – XVIII–XIX a. Lietuvos istorikas, raštu įamžinęs šal
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-008
+    - t-008
+- c-008
   santrauka: 'Savo „Darbų“ pratarmėje Simonas Daukantas rašė: „<...> aš ne dėl mokytų vyrų ir galvočių, bet dėl tų motinų rašiau“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

@@ -139,6 +139,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -159,6 +160,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: '1330 m. Eberhardas iš Manheimo neįžengė į Rygą, kol miesto sienoje nebuvo išlaužta 30 uolekčių ilgio spraga.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -181,6 +183,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -201,6 +204,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-005
   santrauka: '1506 m. totorių grėsmės išsigandę vilniečiai apjuosė Vilnių mūro pylimu ir pašalino medinius statinius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -226,6 +230,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-006
   santrauka: 'Krokuva už geriausiai sutvirtintas mūro sienas ir svarbias privilegijas buvo skolinga Lešekui Juodajam.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

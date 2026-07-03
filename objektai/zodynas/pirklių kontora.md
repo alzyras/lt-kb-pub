@@ -47,6 +47,7 @@ Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Polocke ir Kaune Hanza įsteigė savo agentūras, vadintas pirklių kontoromis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

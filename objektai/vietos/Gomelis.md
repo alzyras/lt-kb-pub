@@ -60,6 +60,7 @@ Uzos upė įteka į Sožą truputį žemiau Gomelio. Apie 1447 m. Švitrigaila g
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Apie 1447 m. Švitrigaila iš Kazimiero gavo Gomelį ir galbūt Turovą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

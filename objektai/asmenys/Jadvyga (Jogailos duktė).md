@@ -87,6 +87,7 @@ Jadvyga, Jogailos duktė ir Lenkijos karalaitė, Horodlės unijos kontekste buvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Karalaitė Jadvyga buvo pavesta Vytauto globai, nuo kurios prasidėjo ryški jo įtaka lenkų reikaluose.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -111,6 +112,7 @@ Jadvyga, Jogailos duktė ir Lenkijos karalaitė, Horodlės unijos kontekste buvo
   pagrindžia:
     - t-005
     - t-001
+
 - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -127,6 +129,7 @@ Jadvyga, Jogailos duktė ir Lenkijos karalaitė, Horodlės unijos kontekste buvo
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |

@@ -81,6 +81,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1404 m. Racionžo taika vėl atidavė Žemaičius Ordinui, bet leido Vytautui pasiimti iš Žemaičių 250 gyventojų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

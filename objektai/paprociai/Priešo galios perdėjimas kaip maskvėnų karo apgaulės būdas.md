@@ -70,6 +70,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Kojelavičius maskvėnų tvirtinimus apie padidėjusias pajėgas laikė įprastu būdu dėtis stipresniems, nei jie buvo iš tikrųjų.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

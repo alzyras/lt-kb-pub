@@ -68,6 +68,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Pagal herbynus Davainų giminės ženklas buvo ne Dubnios, o į Seligos herbą panašus kryžius gulsčiame pusmėnulyje.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

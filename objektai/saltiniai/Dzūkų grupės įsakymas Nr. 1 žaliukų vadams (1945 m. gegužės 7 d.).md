@@ -60,6 +60,7 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Dzūkų grupės įsakyme nurodyta, kad atskiri žaliukų daliniai vadinti jų vadų slapyvardžių būriais, pavyzdžiui, Perkūno ar Šarūno būriu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

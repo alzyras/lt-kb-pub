@@ -388,6 +388,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -411,6 +412,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
   pagrindžia:
     - t-006
     - t-018
+
 - c-003
   santrauka: '1328 m. Maskvos kunigaikštis, pasinaudojęs Tverėje kilusiu sukilimu prieš Aukso ordą, gavo mongolų leidimą rinkti duoklę iš kitų Rusios kunigaikštijų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -432,6 +434,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-004
   santrauka: 'Algirdas gynė Tverės kunigaikščio Mykolo teises ir ginklu trukdė Maskvai įsitvirtinti Tverėje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -447,6 +450,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -468,6 +472,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
   pagrindžia:
     - t-010
     - t-008
+
 - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -485,6 +490,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
   pagrindžia:
     - t-011
     - t-007
+
 - c-007
   santrauka: 'Po Aleksandro ir Elenos santuokos į Vilnių atvykstantiems pirkliams iš Tverės ir kitų Rusios miestų imta steigti naujas užeigas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -504,6 +510,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-008
   santrauka: 'Tverio-Riazanės kunigaikščiai buvo tarp atvykusių dalyvių kartu su Naugardo ir Pskovo kunigaikščiais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -525,6 +532,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -544,6 +552,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
   pagrindžia:
     - t-016
     - t-001
+
 - c-010
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -560,6 +569,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
   pagrindžia:
     - t-009
     - t-020
+
 - c-011
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -578,6 +588,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
   pagrindžia:
     - t-003
     - t-013
+
 - c-012
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -594,6 +605,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-013
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -623,6 +635,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
   pagrindžia:
     - t-002
     - t-021
+
 - c-014
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -637,6 +650,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-015
   santrauka: 'Tverės kunigaikštystė tuo metu buvo viena galingiausių greta Maskvos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -652,6 +666,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-016
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -675,6 +690,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-017
   santrauka: 'Tverėje kilus maištui, Tverės didysis kunigaikštis, valdinių išvytas iš senolių valdų, pabėgo pas karalių į Vilnių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -705,6 +721,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-018
   santrauka: 'Tverė, atsikračiusi teisėto kunigaikščio valdžios, susivienijo su maskvėnais.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -735,6 +752,7 @@ Tverė Lietuvos istorijos žinių bazėje atsiskleidžia kaip svarbi Rusios kuni
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-019
   santrauka: 'Tverė teikė karinę pagalbą Švitrigailai, nes jos didysis kunigaikštis Borisas Aleksandravičius buvo jo giminaitis ir laikėsi sutarties su LDK.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

@@ -72,6 +72,7 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
+
 ## Pastabos
 
 - terminas šiame gabale turi ir aiškinamąją, žodyninę vertę, bet pati ištrauka labai tiesiogiai aprašo konkretų vilnonį apsiaustą.

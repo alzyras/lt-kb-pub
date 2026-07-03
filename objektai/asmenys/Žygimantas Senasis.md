@@ -309,6 +309,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Žygimanto Senojo valdymo metu Vilniuje atsirado reikšmingi statiniai, skirti miesto gerovei ir ištekliams didinti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -334,6 +335,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-003
   santrauka: '1532 m. Žygimantas Senasis rašte Vilniaus vaitui įspėjo netaikyti Vilniaus miestiečiams jokios prievartos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -356,6 +358,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -374,6 +377,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-005
   santrauka: 'Žygimantas Senasis rėmė mokslus ir Vilniaus pilyje saugojo knygas lotynų, lenkų, rusų ir čekų kalbomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -391,6 +395,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
+
 - c-006
   santrauka: '1538 m. balandžio 6 d. Žygimantas Senasis rašė Vilniaus magistratui dėl vyskupo nesikišimo į miesto jurisdikcijos tarnų teises.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -415,6 +420,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
+
 - c-007
   santrauka: '1522 m. Žygimantas Senasis įsakė grąžinti Vilniaus miesto sargybą ir policiją magistratui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -435,6 +441,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -464,6 +471,7 @@ periodo_grupes: []
   pagrindžia:
     - t-004
     - t-023
+
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -483,6 +491,7 @@ periodo_grupes: []
   pagrindžia:
     - t-032
     - t-014
+
 - c-010
   santrauka: 'Žygimantas Senasis patvirtino sąjungą su Krymu, nes naujasis LDK valdovas turėjo daug reikalų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -509,6 +518,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
+
 - c-011
   santrauka: 'Žygimantas Senasis dokumente vadintas Lenkijos karaliumi ir didžiuoju Lietuvos, Rusios, Prūsijos, Mazovijos bei Žemaitijos kunigaikščiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -527,6 +537,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -553,6 +564,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-013
   santrauka: '1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį perdavė Lietuvos valdžią sūnui Žygimantui Augustui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -574,6 +586,7 @@ periodo_grupes: []
   pagrindžia:
     - t-021
     - t-018
+
 - c-014
   santrauka: '1542 m. Žygimantas Senasis suteikė Vilniaus vyskupui privilegiją prieš eretikus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -599,6 +612,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-015
   santrauka: '1536 m. rugsėjo 9 d. Vilniuje Žygimantas Senasis įsakė paskelbti naujus miesto įstatymus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -618,6 +632,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
+
 - c-016
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -637,6 +652,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-017
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -677,6 +693,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-018
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -695,6 +712,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-019
   santrauka: 'Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -715,6 +733,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-020
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -733,6 +752,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
 - c-021
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -769,6 +789,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-022
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -794,6 +815,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
+
 - c-023
   santrauka: '1514 m. raštas Varmės kanauninkui Andriui Kopernikui buvo siejamas su Lenkijos karaliumi Žygimantu Senuoju.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -832,6 +854,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-024
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -868,6 +891,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-025
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -898,6 +922,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-026
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -918,6 +943,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-027
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -934,6 +960,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-028
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -958,6 +985,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-029
   santrauka: 'Vilniaus vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kad Abraomas Kulvietis stotų prieš dvasinį teismą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -987,6 +1015,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-033
+
 - c-030
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1034,6 +1063,7 @@ periodo_grupes: []
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-031
   santrauka: 'Žygimantas Senasis rėmė mokslus ir Vilniaus pilyje saugojo knygas lotynų, lenkų, rusų ir čekų kalbomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

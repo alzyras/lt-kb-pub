@@ -60,6 +60,7 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   santrauka: 'Jungtinėse Amerikos Valstybėse susibūrusiems lietuvių išeiviams grėsė rimtas nutautimo pavojus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

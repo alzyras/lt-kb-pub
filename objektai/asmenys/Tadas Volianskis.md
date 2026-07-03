@@ -98,7 +98,8 @@ Tadas Volianskis Narbuto veikale minimas kaip senųjų užrašų ir atvaizdų ai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas mini, kad Tadas Volianskis priekaištavo dėl Prilvico statulėlės su užrašu „Szwaixtix“ tapatinimo su Lietuvos Apolonu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -112,7 +113,8 @@ Tadas Volianskis Narbuto veikale minimas kaip senųjų užrašų ir atvaizdų ai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Narbutas rašo, kad Tadas Volianskis Santvaro atvaizde matė galvą su ragais, iš užpakalio panašiais į erelį su nagais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -125,7 +127,8 @@ Tadas Volianskis Narbuto veikale minimas kaip senųjų užrašų ir atvaizdų ai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Tadas Volianskis atsiuntė Narbutui Lietuvoje rastos monetos piešinį ir manė ją priklausant lietuviškiems paminklams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -136,7 +139,8 @@ Tadas Volianskis Narbuto veikale minimas kaip senųjų užrašų ir atvaizdų ai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-005
+    - t-004
+- c-005
   santrauka: 'Narbutas mini naują Tado Volianskio aiškinimą apie Henenbergerio užrašą senovės lietuvių kalba.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -155,7 +159,8 @@ Tadas Volianskis Narbuto veikale minimas kaip senųjų užrašų ir atvaizdų ai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-006
+    - t-005
+- c-006
   santrauka: 'Narbutas nurodo, kad pagal Tado Volianskio šifruotę runų užrašas piešinyje reiškė Vaivedučio vardą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -169,7 +174,8 @@ Tadas Volianskis Narbuto veikale minimas kaip senųjų užrašų ir atvaizdų ai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-007
+    - t-006
+- c-007
   santrauka: 'Narbutas rašo, kad Tadas Volianskis 1630 m. testamento antspaudo užrašą skaitė kaip „Mattez“, arba Matas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

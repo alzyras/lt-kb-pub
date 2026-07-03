@@ -1023,6 +1023,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1042,6 +1043,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   pagrindžia:
     - t-003
     - t-011
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1059,6 +1061,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   pagrindžia:
     - t-016
     - t-014
+
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1080,6 +1083,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   pagrindžia:
     - t-034
     - t-035
+
 - c-005
   santrauka: 'Lietuvių konferencija numatė santykius su Vokietija, jeigu ši prieš Taikos konferenciją pripažintų Lietuvos valstybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1105,6 +1109,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   pagrindžia:
     - t-032
     - t-041
+
 - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1135,6 +1140,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   pagrindžia:
     - t-040
     - t-033
+
 - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1155,6 +1161,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   pagrindžia:
     - t-019
     - t-012
+
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1181,6 +1188,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   pagrindžia:
     - t-009
     - t-024
+
 - c-009
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1195,6 +1203,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-010
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1217,6 +1226,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   pagrindžia:
     - t-008
     - t-002
+
 - c-011
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1235,6 +1245,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   pagrindžia:
     - t-001
     - t-010
+
 - c-012
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1255,6 +1266,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   pagrindžia:
     - t-015
     - t-005
+
 - c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1274,6 +1286,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   pagrindžia:
     - t-023
     - t-026
+
 - c-014
   santrauka: '1940 m. birželį iš Lietuvos pasitraukęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją išvyko į JAV.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1290,6 +1303,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-015
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1304,6 +1318,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
+
 - c-016
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1323,6 +1338,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
+
 - c-017
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1339,6 +1355,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-018
   santrauka: '1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis ir su ja pasiekė daugiausia užsienio politikos susitarimų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1363,6 +1380,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-039
+
 - c-019
   santrauka: 'Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama Švedijos kariuomenė Vokietijoje laimėjo pergalių prieš katalikų kariuomenes.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -1377,6 +1395,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-020
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1397,6 +1416,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   pagrindžia:
     - t-038
     - t-029
+
 - c-021
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1411,6 +1431,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   pagrindžia:
     - t-037
     - t-031
+
 - c-022
   santrauka: 'Kaltinamieji teigė, kad Klaipėdą laiko Vokietijos dalimi ir nurodymus gaudavo iš Vokietijos nacių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1427,6 +1448,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-036
+
 - c-023
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1442,6 +1464,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   pagrindžia:
     - t-021
     - t-004
+
 - c-024
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1462,6 +1485,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
+
 - c-025
   santrauka: '1919 m. Versalio taikos konferencija nuo Vokietijos atskyrė Klaipėdos kraštą, bet jo Lietuvai neatidavė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1478,6 +1502,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-026
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -1497,6 +1522,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-027
   santrauka: 'Po magistro mirties Ordine buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos šeimose.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1513,6 +1539,7 @@ Vokietija Lietuvos istorijos žinių bazėje siejama su studijomis, religinių i
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-028
   santrauka: 'Dvasininkais besirengiantys studentai paprastai vykdavo į Krokuvą, o kiti mokėsi Vokietijos, Italijos ir Prancūzijos universitetuose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

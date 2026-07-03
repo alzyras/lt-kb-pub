@@ -58,6 +58,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Girdavas Bartos žemėje turėjo pilį, nuo jo vardo pavadintą Girdavais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

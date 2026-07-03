@@ -66,7 +66,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-002
+    - t-002
+- c-002
   santrauka: 'Vilniaus akademijos įkūrimui Lietuvoje priešinosi protestantai didikai Radvila ir Valavičius, atsisakę spausti valstybinį antspaudą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

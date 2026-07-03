@@ -115,6 +115,7 @@ Raudonoji armija Lietuvos istorijoje minima kaip jėga, kuria rėmėsi Rusijos b
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-002
   santrauka: '1918 m. gruodžio 16 d. lietuvių bolševikai, remdamiesi tik Raudonosios armijos daliniais, deklaravo Sovietų Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -133,6 +134,7 @@ Raudonoji armija Lietuvos istorijoje minima kaip jėga, kuria rėmėsi Rusijos b
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-003
   santrauka: 'Po 1939 m. rudens Raudonosios armijos įgulos Lietuvoje veikė jaunimo politines nuostatas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -152,6 +154,7 @@ Raudonoji armija Lietuvos istorijoje minima kaip jėga, kuria rėmėsi Rusijos b
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   santrauka: 'Lietuvoje dislokuotos Raudonosios armijos 20 000 kariškių reikmėms trūko kareivinių, patalpų ir butų karininkams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -170,6 +173,7 @@ Raudonoji armija Lietuvos istorijoje minima kaip jėga, kuria rėmėsi Rusijos b
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-005
   santrauka: 'Po liepos 3 d. Lietuvos kariuomenės pertvarkymo įstatymo Lietuvos kariuomenė tapo Liaudies kariuomene, vėliau – Raudonosios armijos 29-uoju šaulių korpusu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -185,6 +189,7 @@ Raudonoji armija Lietuvos istorijoje minima kaip jėga, kuria rėmėsi Rusijos b
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-006
   santrauka: 'Sovietinėje Lietuvos istorijos interpretacijoje nustota dėkoti Raudonajai armijai už 1940 m. „išvadavimą“ iš lietuvių buržuazijos jungo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -205,6 +210,7 @@ Raudonoji armija Lietuvos istorijoje minima kaip jėga, kuria rėmėsi Rusijos b
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -228,6 +234,7 @@ Raudonoji armija Lietuvos istorijoje minima kaip jėga, kuria rėmėsi Rusijos b
   pagrindžia:
     - t-002
     - t-007
+
 - c-008
   santrauka: 'Tik Raudonajai armijai pralaimėjus prie Varšuvos, bolševikai „sukilimą“ atšaukė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -246,6 +253,7 @@ Raudonoji armija Lietuvos istorijoje minima kaip jėga, kuria rėmėsi Rusijos b
   pagrindžia:
     - t-010
     - t-003
+
 - c-009
   santrauka: 'Po liepos 3 d. Lietuvos kariuomenės pertvarkymo įstatymo Lietuvos kariuomenė tapo Liaudies kariuomene, vėliau – Raudonosios armijos 29-uoju šaulių korpusu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

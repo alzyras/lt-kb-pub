@@ -333,6 +333,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
     - t-031
     - t-017
     - t-022
+
 - c-002
   santrauka: 'Vladislovas Jogaila paveldėjimo teise perdavė katedrai ir Vilniaus kapitulai Panerius bei kitas mažesnes pajamas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -357,6 +358,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
   pagrindžia:
     - t-009
     - t-006
+
 - c-003
   santrauka: 'Tarp Verkių ir Panerių, priklausiusių Vilniaus bažnyčios kapitulai, buvo uždrausta naudoti plaustus per Vilijos upę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -385,6 +387,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
   pagrindžia:
     - t-013
     - t-023
+
 - c-004
   santrauka: '1631 m. Vilniaus kapitula 4000 auksinų perdavė kunigui Pilypui Frizijui, o šis padidintą sumą atidavė Vilniaus kahalui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -411,6 +414,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
   pagrindžia:
     - t-026
     - t-018
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -433,6 +437,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
   pagrindžia:
     - t-024
     - t-027
+
 - c-006
   santrauka: 'Vilniaus bažnyčios prelatai ir kanauninkai buvo raginami laisvai skirti dalį savo beneficijų klierikų kolegijai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -481,6 +486,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
+
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -502,6 +508,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-035
+
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -532,6 +539,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
   pagrindžia:
     - t-030
     - t-001
+
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -553,6 +561,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
   pagrindžia:
     - t-016
     - t-012
+
 - c-010
   santrauka: '1571 m. bado sukeltos epidemijos metu iš Vilniaus pasitraukė turtingiausi gyventojai, kapitula ir jėzuitai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -597,6 +606,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -614,6 +624,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
   pagrindžia:
     - t-019
     - t-010
+
 - c-012
   santrauka: 'Vilniaus kapitulos archyve buvo vyskupo sutartis su mūrijimo meistru Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo per penkerius metus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -632,6 +643,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-013
   santrauka: '1396 m. Vytautas, Vladislovui Jogailai sutikus, dovanojo Vilniaus kapitulai Cudzeniškių valdą netoli Medininkų pilies.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -682,6 +694,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-014
   santrauka: 'Vilniaus kapitula gavo teisę imti kas dešimtą sugautą žuvį karaliaus tvenkiniuose Vilijos upėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -731,6 +744,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-015
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -760,6 +774,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
   pagrindžia:
     - t-028
     - t-003
+
 - c-016
   santrauka: 'Vilniaus vyskupas Valerijonas Protasevičius, paskatintas kapitulos pastangų, 1569 m. pakvietė į Vilnių jėzuitų ordiną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -788,6 +803,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
   pagrindžia:
     - t-033
     - t-008
+
 - c-017
   santrauka: '1581 m. birželio 9 d. Vilniaus kapitula atsisakė teisės siūlyti Šv. Jono bažnyčios vikarus ir ją perleido Akademijos kolegijos rektoriams jėzuitams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -806,6 +822,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-018
   santrauka: 'Filipovo namo činšas mokėtas vienuolika metų, o jam nutrūkus Vilniaus kapitula pradėjo teismo procesą su kunigaikščiu Kristupu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -830,6 +847,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-019
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -866,6 +884,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
   pagrindžia:
     - t-020
     - t-005
+
 - c-020
   santrauka: 'Vilniaus kapitula, siekdama išsaugoti Katedros mokyklą ir jos pajamas, uždraudė kolegijoje dėstyti pradinius mokslus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -891,6 +910,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
   pagrindžia:
     - t-025
     - t-034
+
 - c-021
   santrauka: 'Apaštališkasis nuncijus Jonas Andrius patvirtino Vilniaus kapitulos Akademijos kolegijos rektoriams perleistas patronato teises.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -912,6 +932,7 @@ Vilniaus kapitula buvo Vilniaus katedros dvasininkų institucija, valdžiusi Pan
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
+
 - c-022
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |

@@ -221,7 +221,8 @@ Merkinė šioje žinių bazėje atsiskleidžia kaip svarbus Lietuvos istorijos t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-002
+    - t-014
+- c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos vyriausybė, ir šį kartą
@@ -241,7 +242,8 @@ Merkinė šioje žinių bazėje atsiskleidžia kaip svarbus Lietuvos istorijos t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-    - t-011- c-003
+    - t-011
+- c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Antrasis būrys be įsakymo
@@ -272,7 +274,8 @@ Merkinė šioje žinių bazėje atsiskleidžia kaip svarbus Lietuvos istorijos t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
-    - t-004- c-004
+    - t-004
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Nutarėme priešui atkeršyti. Pasiūliau pulti Merkinę.
@@ -289,7 +292,8 @@ Merkinė šioje žinių bazėje atsiskleidžia kaip svarbus Lietuvos istorijos t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-005
+    - t-008
+- c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dar prieš vyskupijos įkūrimą Jogaila iš Vilniaus išvyko į
@@ -305,7 +309,8 @@ Merkinė šioje žinių bazėje atsiskleidžia kaip svarbus Lietuvos istorijos t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
-    - t-005- c-006
+    - t-005
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Atlikta ir duota Vilniuje, antradie­
@@ -333,7 +338,8 @@ Merkinė šioje žinių bazėje atsiskleidžia kaip svarbus Lietuvos istorijos t
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-    - t-006- c-007
+    - t-006
+- c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taigi Žalgirio mūšis ir Torno taika galutinai išsprendė Že­
@@ -348,7 +354,8 @@ Merkinė šioje žinių bazėje atsiskleidžia kaip svarbus Lietuvos istorijos t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-008
+    - t-013
+- c-008
   santrauka: 'Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė sutelkti apylinkių partizanų dalinius ir pulti Merkinę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -377,7 +384,8 @@ Merkinė šioje žinių bazėje atsiskleidžia kaip svarbus Lietuvos istorijos t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-009
+    - t-009
+- c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tačiau Vytautas dar dvejus metus už­
@@ -392,7 +400,8 @@ Merkinė šioje žinių bazėje atsiskleidžia kaip svarbus Lietuvos istorijos t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-010
+    - t-007
+- c-010
   santrauka: 'Prieš Vilniaus vyskupijos įkūrimą Jogaila aplankė Merkinę, kur vietiniai ir apylinkių žmonės buvo mokomi tikėjimo ir krikštijami.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -409,7 +418,8 @@ Merkinė šioje žinių bazėje atsiskleidžia kaip svarbus Lietuvos istorijos t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-011
+    - t-003
+- c-011
   santrauka: 'Narbutas rašė matęs prie Merkinės valstiečio rastą aukso žiedą su raudonu akmeniu, gaidžiu skyde ir raidžių ženklais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

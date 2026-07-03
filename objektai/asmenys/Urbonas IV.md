@@ -67,6 +67,7 @@ Dusburgietis teigia, kad apie Kristaus kūno šventės įsteigimą 1261 viešpat
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -86,6 +87,7 @@ Dusburgietis teigia, kad apie Kristaus kūno šventės įsteigimą 1261 viešpat
   pagrindžia:
     - t-001
     - t-003
+
 - c-003
   santrauka: 'Urbonas IV buvo išleidęs raštą, kuriuo ragino karalių ir kryžiuočių riterius laikytis taikos.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

@@ -86,6 +86,7 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Keturių Butauto tarnų perbėgimas į Vilnių suardė Vinricho Kniprodės planus ir privertė jį nutraukti apgultį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -194,6 +194,7 @@ Mykolas Glinskis buvo totorių kilmės karo vadas, jaunystėje karybos mokęsis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidelį totorių padalinį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -215,6 +216,7 @@ Mykolas Glinskis buvo totorių kilmės karo vadas, jaunystėje karybos mokęsis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Mykolas Glinskis davė komandą puolimui, po kurios LDK kariuomenė pakilo į ataką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -241,6 +243,7 @@ Mykolas Glinskis buvo totorių kilmės karo vadas, jaunystėje karybos mokęsis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-004
   santrauka: '1506 m. rugpjūtį Mykolas Glinskis vedė apie 10 000 bajorų, kareivių ir ginkluotų žmonių į kovą su Krymo ordos kariais ties Klecku.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -260,6 +263,7 @@ Mykolas Glinskis buvo totorių kilmės karo vadas, jaunystėje karybos mokęsis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -276,6 +280,7 @@ Mykolas Glinskis buvo totorių kilmės karo vadas, jaunystėje karybos mokęsis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-006
   santrauka: 'Mykolas Glinskis po mūšio rugpjūčio 12 d. triumfuodamas grįžo į Vilnių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -296,6 +301,7 @@ Mykolas Glinskis buvo totorių kilmės karo vadas, jaunystėje karybos mokęsis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -313,6 +319,7 @@ Mykolas Glinskis buvo totorių kilmės karo vadas, jaunystėje karybos mokęsis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-008
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -334,6 +341,7 @@ Mykolas Glinskis buvo totorių kilmės karo vadas, jaunystėje karybos mokęsis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-009
   santrauka: 'Didžioji dauguma Smolensko žemės bajorų atvirai linko į Mykolą Glinskį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -360,6 +368,7 @@ Mykolas Glinskis buvo totorių kilmės karo vadas, jaunystėje karybos mokęsis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-010
   santrauka: 'Mykolas Glinskis visą naktį drąsino maskvėnų vadus, žadėdamas lengvą pergalę prieš menkas karaliaus pajėgas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -390,6 +399,7 @@ Mykolas Glinskis buvo totorių kilmės karo vadas, jaunystėje karybos mokęsis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-011
   santrauka: 'Pagal sutarties sąlygas Mykolas Glinskis turėjo likti Maskvos kunigaikštystėje kaip tremtinys be vilties sugrįžti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -411,6 +421,7 @@ Mykolas Glinskis buvo totorių kilmės karo vadas, jaunystėje karybos mokęsis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-012
   santrauka: 'Vasilijus manė, kad Mykolas Glinskis galėtų padėti maskvėnams užimti pilį, kurios pats Vasilijus neįstengė paimti.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -431,6 +442,7 @@ Mykolas Glinskis buvo totorių kilmės karo vadas, jaunystėje karybos mokęsis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-013
   santrauka: 'Mykolas Glinskis gailėjosi savo veiksmų ir per giminaitį laišku paprašė karaliaus atleidimo.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -459,6 +471,7 @@ Mykolas Glinskis buvo totorių kilmės karo vadas, jaunystėje karybos mokęsis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-014
   santrauka: 'Vasilijus įsakė surakinti Mykolą Glinskį grandinėmis ir išvežti iš stovyklos į Viazmą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -477,6 +490,7 @@ Mykolas Glinskis buvo totorių kilmės karo vadas, jaunystėje karybos mokęsis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-015
   santrauka: 'Vasilijus grąžino Mykolui Glinskiui laisvę ir pagarbą, o vėliau paskyrė jį savo mažamečio sūnaus globėju.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -499,6 +513,7 @@ Mykolas Glinskis buvo totorių kilmės karo vadas, jaunystėje karybos mokęsis 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-016
   santrauka: 'Ovčina apkaltino Mykolą Glinskį antru mėginimu bėgti į Lietuvą, pasmerkė jį mirti ir įkalino apakintą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

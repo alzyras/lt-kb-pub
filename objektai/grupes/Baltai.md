@@ -429,6 +429,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -446,6 +447,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-003
   santrauka: 'Mindaugas siekė padaryti Lietuvą bendrąja baltų valstybe, apimančia šiaurines ir pietvakarines baltų žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -461,6 +463,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Lietuvos pastangomis bendrai kovai prieš vokiečių feodalinę agresiją buvo mobilizuojami beveik visi baltai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -475,6 +478,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-005
   santrauka: 'XIII-XIV a. pirmos pusės šaltinių analizė sieja baltų religiją su antropomorfine dievybe, panašia į krikščioniškąjį Dievą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -491,6 +495,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-006
   santrauka: 'Pasak Dusburgiečio, Romovė buvo prūsų, lietuvių ir kitų baltų religinio kulto centras.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -503,6 +508,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-007
   santrauka: 'Kai kurios senovės baltų ir lietuvių šventovės buvo įtvirtintos tarsi pilys.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -520,6 +526,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-008
   santrauka: 'Kronikoje vaizduojamu laikotarpiu prūsai, lietuviai ir latviai priskiriami baltams, siejamiems kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -540,6 +547,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-009
   santrauka: 'Baltais vadinama indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti rytiniame Baltijos jūros pakraštyje ir kalbanti giminiškomis kalbomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -563,6 +571,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-010
   santrauka: 'Manoma, kad XII-XIII a. politinė ir etninė baltų bei Pamario slavų riba ėjo žemutine Vysla ir Nogatu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -585,6 +594,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-011
   santrauka: 'Manoma, kad žalvario amžiuje baltų arealas siekė Oderio žemupį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -605,6 +615,7 @@ Baltai – indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti r
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-012
   santrauka: 'Baltų gentys pradėjo formuotis III tūkstantmečio pr. Kr. pabaigoje, kai indoeuropiečiai pajungė ir asimiliavo vietinius gyventojus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

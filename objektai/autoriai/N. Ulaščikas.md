@@ -67,6 +67,7 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'N. Ulaščikas prie Bychovco kronikos vertimo pridėjo įvadą ir trumpų paaiškinimų apie vietoves, terminus bei kai kurias teksto vietas.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

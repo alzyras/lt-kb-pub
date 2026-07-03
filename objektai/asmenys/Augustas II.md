@@ -108,6 +108,7 @@ Augustas II, 1697 m. išrinktas ATR valdovu, siekė stiprinti valdžią ir paver
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   santrauka: 'Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -130,6 +131,7 @@ Augustas II, 1697 m. išrinktas ATR valdovu, siekė stiprinti valdžią ir paver
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: '1706 m. Augustas II Altrandštate sudarė taiką su Karoliu XII, atsisakė Respublikos sosto ir pripažino karaliumi Leščinskį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -147,6 +149,7 @@ Augustas II, 1697 m. išrinktas ATR valdovu, siekė stiprinti valdžią ir paver
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-004
   santrauka: 'Žymesnieji bajorijos vadai Augusto II reikalautu raštu paskelbė jį paveldimai ir absoliučiai valdančiu Lietuvos didžiuoju kunigaikščiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -168,6 +171,7 @@ Augustas II, 1697 m. išrinktas ATR valdovu, siekė stiprinti valdžią ir paver
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-005
   santrauka: 'Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -187,6 +191,7 @@ Augustas II, 1697 m. išrinktas ATR valdovu, siekė stiprinti valdžią ir paver
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-006
   santrauka: 'Augustas II su Petru I susitarė atimti iš švedų Baltijos pajūrį ir į sąjungą įtraukė Daniją bei Brandenburgo kunigaikštį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -202,6 +207,7 @@ Augustas II, 1697 m. išrinktas ATR valdovu, siekė stiprinti valdžią ir paver
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-007
   santrauka: '1697 m. ATR valdovu išrinktas Saksonijos kurfiurstas Augustas II siekė ATR paversti absoliutine monarchija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

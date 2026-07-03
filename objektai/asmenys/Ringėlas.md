@@ -47,6 +47,7 @@ Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie sta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Ringėlas buvo karaliaus vėliavas gavusio vyro brolis ir buvo nužudytas kartu su jo šeimyna bei giminėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

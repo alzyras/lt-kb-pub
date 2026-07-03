@@ -57,6 +57,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1917 m. pabaigoje Vokietija, rengdamasi separatinėms taikos deryboms su Sovietų Rusija, spaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir prisijungimą prie Vokietijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

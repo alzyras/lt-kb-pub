@@ -88,6 +88,7 @@ Tochtamyšas buvo totorių chanas, kuris, neįveikęs Kerim Berdžio, su svarbia
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   santrauka: 'Tochtamyšas, negalėdamas įveikti Kerim Berdžio, su svarbiausiais savo šalininkais pabėgo pas Vytautą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -108,6 +109,7 @@ Tochtamyšas buvo totorių chanas, kuris, neįveikęs Kerim Berdžio, su svarbia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: 'Tochtamyšas Vilniuje buvo Vytauto priimtas, gavo paramos pažadą ir buvo paskelbtas Užvolgio skitų chanu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -129,6 +131,7 @@ Tochtamyšas buvo totorių chanas, kuris, neįveikęs Kerim Berdžio, su svarbia
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-004
   santrauka: 'Kerim Berdis mūšyje išsklaidė Tochtamyšo dalinius ir nužudė savo brolį Tochtamyšą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

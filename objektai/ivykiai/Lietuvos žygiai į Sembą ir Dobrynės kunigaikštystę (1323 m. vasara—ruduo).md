@@ -75,6 +75,7 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   santrauka: '1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę ginti Mazovijos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

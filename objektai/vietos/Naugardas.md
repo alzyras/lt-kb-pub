@@ -516,7 +516,8 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-014- c-002
+    - t-014
+- c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
@@ -532,7 +533,8 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
-    - t-008- c-003
+    - t-008
+- c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Yra žinoma, kad jis, kariaudamas su Pskovu, pa­
@@ -548,7 +550,8 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-    - t-019- c-004
+    - t-019
+- c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas turėjo patrankų ir savo žygiuose į Pskovą
@@ -563,7 +566,8 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-018- c-005
+    - t-018
+- c-005
   santrauka: '1427 m. Vytauto žygiai prieš Pskovą ir Naugardą baigėsi sėkmingai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -587,7 +591,8 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
-    - t-006- c-006
+    - t-006
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto nereikėtų manyti, kad Vilnius
@@ -612,7 +617,8 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
-    - t-007- c-007
+    - t-007
+- c-007
   santrauka: '1428 m. Naugardas ir Porchovas, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribucijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -627,7 +633,8 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-008
+    - t-005
+- c-008
   santrauka: 'Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -646,7 +653,8 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
-    - t-001- c-009
+    - t-001
+- c-009
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vy­
@@ -665,7 +673,8 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013- c-010
+    - t-013
+- c-010
   santrauka: 'Livonijos Ordinas sudarė prieš Vytautą nukreiptą taiką su Pskovu 1417 m. ir Naugardu 1421 m., o tai pakenkė Bažnyčių unijai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -680,7 +689,8 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-011
+    - t-009
+- c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
@@ -698,7 +708,8 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
-    - t-004- c-012
+    - t-004
+- c-012
   santrauka: 'Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams iš Naugardo ir kitų Rusios miestų Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -716,7 +727,8 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-013
+    - t-003
+- c-013
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Išsi­
@@ -735,7 +747,8 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-016- c-014
+    - t-016
+- c-014
   santrauka: 'Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -750,7 +763,8 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-020- c-015
+    - t-020
+- c-015
   santrauka: 'Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -774,7 +788,8 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-021- c-016
+    - t-021
+- c-016
   santrauka: 'Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu pavedė jį valdyti Chaleckiui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -800,7 +815,8 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-022- c-017
+    - t-022
+- c-017
   santrauka: 'Narbutas pasakojo, kad Tautvilos sūnus Jonas, gelbėdamas Polocko bajorus, išjojo į Naugardą ir ten tapo vienuoliu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -816,7 +832,8 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-023- c-018
+    - t-023
+- c-018
   santrauka: 'Narbutas spėjo, kad Naugardo gubernijos Rusos, arba Russ, upės vardą galėjo duoti variagų atgabenta lietuvių kolonija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -837,7 +854,8 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024- c-019
+    - t-024
+- c-019
   santrauka: 'Narbutas teigė, kad Vladimiras X a. Kijeve ir Naugarde pastatė Perkūno stabus, panašius į lietuvių Perkūno stabą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -855,7 +873,8 @@ Naugardas Lietuvos istorijos žinių bazėje siejamas su Lietuvos Didžiosios Ku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025- c-020
+    - t-025
+- c-020
   santrauka: 'Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, bendravusią su Naugardo slavais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

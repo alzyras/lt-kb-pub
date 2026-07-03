@@ -127,6 +127,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   santrauka: 'Bisenės pilies įgula atrėmė vokiečius nepaisydama jų sunkiųjų ginklų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -151,6 +152,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Martinas Galias rašė, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -171,6 +173,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-004
   santrauka: 'Per Kęstučio laidotuves Vilniuje kartu su jo palaikais buvo sudeginti drabužiai, ginklai, žirgai, medžiokliniai šunys ir paukščiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -212,6 +215,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-005
   santrauka: 'Iki 1565 metų Žygimanto Augusto lėšomis Lietuvos Didžiojoje Kunigaikštystėje gaminti ginklai ir amunicija buvo paliekami Vilniuje ir siunčiami į kitas pilis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -241,6 +245,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-006
   santrauka: 'Vilniaus miestiečiai gynybai turėjo turėti šarvus, muškietą ir ragotinę, o miesto taryba prižiūrėjo patrankas ir arkebuzas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -263,6 +268,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-007
   santrauka: 'Lietuvos provincijos tvirtovėms buvo siunčiami naujai pagaminti pabūklai, ginklai, kulkos ir apkasams reikalinga įranga.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

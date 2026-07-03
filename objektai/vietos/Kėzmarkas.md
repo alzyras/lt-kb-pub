@@ -66,6 +66,7 @@ Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris Kėzmarko suvažiavime (
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1429 m., praėjus dvidešimt metų po Kėzmarko suvažiavimo, vėl iškilo Vytauto karūnos klausimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

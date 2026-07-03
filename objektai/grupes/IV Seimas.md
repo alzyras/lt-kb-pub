@@ -62,6 +62,7 @@ Dėl to atgaivinta Seimo institucija.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1936 m. vasarą vykę IV Seimo rinkimai nebuvo demokratiniai, nes opozicijos atstovams neleista juose dalyvauti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

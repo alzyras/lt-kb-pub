@@ -60,6 +60,7 @@ tags:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Žygimantas per Pabaisko mūšio lauką tekėjusį mažą upelį pavadino Viktorija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

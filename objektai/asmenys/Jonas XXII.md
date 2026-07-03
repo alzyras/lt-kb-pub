@@ -81,6 +81,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Popiežius Jonas XXII po pasitarimo su kardinolais paskelbė sprendimą dėl Kryžiuočių ordino ir Rygos Bažnyčios ginčo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -105,6 +106,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Popiežius Jonas XXII 1324 m. pasiuntė į Livoniją du legatus pakrikštyti lietuvių ir rusų karaliaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -129,7 +131,8 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
   statusas: verified
 
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai- c-004
+  patikimumo_saltinis: ai
+- c-004
   santrauka: '1316 m. valdė popiežius Jonas XXII, o du karaliai buvo išrinkti per nesantarvę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |

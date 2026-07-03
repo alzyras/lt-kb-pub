@@ -74,6 +74,7 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1358 m. Niurnbergo seimui pateiktas krikšto pasiūlymas buvo politinis manevras, nes jo sąlygos deryboms netiko.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

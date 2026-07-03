@@ -127,7 +127,8 @@ Frydrichas Stenderis Lietuvos istorijos žinių bazėje pristatomas per Narbuto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Narbutas nesutiko su Stenderio siejimu Tiimpus su Atrimpos ir vadino Tiimpus paprastu girtuoklių globėjo epitetu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -150,7 +151,8 @@ Frydrichas Stenderis Lietuvos istorijos žinių bazėje pristatomas per Narbuto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Stenderio nuomone, latvių mitologijoje kiekvienas mitas siejosi su dievybės vyriškąja ir moteriškąja lytimis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -165,7 +167,8 @@ Frydrichas Stenderis Lietuvos istorijos žinių bazėje pristatomas per Narbuto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-003- c-004
+    - t-003
+- c-004
   santrauka: 'Stenderis rašė, kad latviams Lajma reiškia vaikų laimingą likimą arba laimę, o kai kuriose dainose vadinama Laema mahmina.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -181,7 +184,8 @@ Frydrichas Stenderis Lietuvos istorijos žinių bazėje pristatomas per Narbuto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004- c-005
+    - t-004
+- c-005
   santrauka: 'Narbutas teigė, kad Stenderis savo latvių mitologijos straipsniuose pateikė klaidingas išvadas ir nutolo nuo esmės bei tiesos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -197,7 +201,8 @@ Frydrichas Stenderis Lietuvos istorijos žinių bazėje pristatomas per Narbuto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-005- c-006
+    - t-005
+- c-006
   santrauka: 'Stenderis pastebėjo, kad latviai turėjo deivę Dyža arba Dysza, kurią Narbutas pagal ypatybes siejo su Pergrube.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -213,7 +218,8 @@ Frydrichas Stenderis Lietuvos istorijos žinių bazėje pristatomas per Narbuto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-006- c-007
+    - t-006
+- c-007
   santrauka: 'Narbutas Lygičiaus ir Derintojo ryšį su šokiais, žaidimais ir pantomimomis grindė Stenderio straipsnio „Lyguo (Lihgo)“ pastabomis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -232,7 +238,8 @@ Frydrichas Stenderis Lietuvos istorijos žinių bazėje pristatomas per Narbuto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007- c-008
+    - t-007
+- c-008
   santrauka: 'Stenderis barstukų vardą kildino iš latviškų žodžių Berhns, lietuviškai bernas, ir Stuhke, reiškiančio lėlę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -247,7 +254,8 @@ Frydrichas Stenderis Lietuvos istorijos žinių bazėje pristatomas per Narbuto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-008- c-009
+    - t-008
+- c-009
   santrauka: 'Pasak Stenderio, latvių mitinė būtybė Brehkina buvo namų senė, sergėjanti naminius žalčius ir rupūžes.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -261,7 +269,8 @@ Frydrichas Stenderis Lietuvos istorijos žinių bazėje pristatomas per Narbuto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-009- c-010
+    - t-009
+- c-010
   santrauka: 'Stenderis rašė, kad Latvijoje dar girdėti apie žynius, kurie pritraukia lengvatikius iš artimesnių ir tolimesnių apylinkių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -276,7 +285,8 @@ Frydrichas Stenderis Lietuvos istorijos žinių bazėje pristatomas per Narbuto 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010- c-011
+    - t-010
+- c-011
   santrauka: 'Stenderis nurodė, kad latvių senieji mėnesiai buvo skaičiuojami nuo jauno iki jauno mėnulio ir jų buvo trylika.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |

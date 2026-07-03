@@ -58,6 +58,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 ## Pastabos
 
 - terminas šiame fragmente nepaaiškintas; iš konteksto labiausiai panašu į padėklą arba lėkštę.

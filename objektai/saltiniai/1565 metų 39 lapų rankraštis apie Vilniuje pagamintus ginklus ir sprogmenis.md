@@ -86,6 +86,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Golembiovskio artilerijos sąraše pateikti tik naujai pagaminti ir į tvirtoves išsiuntinėti pabūklai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -101,6 +102,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   santrauka: '1565 m. rankraštyje minima, kad vertingiausi ginklai turėjo vardus, o dvi etmono patrankos vadintos Žygimantu Senuoju ir Žygimantu Augustu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

@@ -53,6 +53,7 @@ amziai:
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: '1972 m. gegužės 14 d. Romas Kalanta Kaune, sušukęs „Laisvę Lietuvai!“, apsipylė benzinu ir pasidegė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

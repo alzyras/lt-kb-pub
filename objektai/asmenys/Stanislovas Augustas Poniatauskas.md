@@ -56,7 +56,8 @@ Augusto III valdymo pabaigoje Čartoriskiai pasiuntė Stanislovą Augustą Ponia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001- c-002
+    - t-001
+- c-002
   santrauka: 'Augusto III valdymo pabaigoje Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -71,7 +72,8 @@ Augusto III valdymo pabaigoje Čartoriskiai pasiuntė Stanislovą Augustą Ponia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002- c-003
+    - t-002
+- c-003
   santrauka: 'Rusų kariuomenei parėmus, Stanislovas Augustas buvo išrinktas karaliumi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |

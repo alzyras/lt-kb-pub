@@ -55,6 +55,7 @@ PUB = Preussisches Urkundenbuch, t.
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '„Preussisches Urkundenbuch“ nurodomas prie teiginio, kad Kristijonas 1215 m. antroje pusėje arba 1216 m. pradžioje paskelbtas pirmuoju Prūsijos vyskupu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

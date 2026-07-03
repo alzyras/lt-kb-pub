@@ -151,6 +151,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Horodlės privilegija turėjo Žygimanto Augusto patvirtinimą su dviem antspaudais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -169,6 +170,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

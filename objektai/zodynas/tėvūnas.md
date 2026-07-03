@@ -56,6 +56,7 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Tėvūnais vadinti dvarų prievaizdai, per kuriuos kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -74,6 +75,7 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Tėvūnai iš valstiečių galėjo reikalauti tik kunigaikščio nustatytų prievolių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

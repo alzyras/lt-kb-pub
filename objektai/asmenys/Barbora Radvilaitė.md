@@ -267,6 +267,7 @@ Barbora Radvilaitė aprašoma kaip Vilniaus kašteliono Jurgio duktė, Goštauto
   pagrindžia:
     - t-002
     - t-004
+
 - c-002
   santrauka: '1828 m. Radvilų prokuratorija pardavė Barboros Radvilaitės rūmų griuvėsius už 500 sidabrinių rublių plytoms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -293,6 +294,7 @@ Barbora Radvilaitė aprašoma kaip Vilniaus kašteliono Jurgio duktė, Goštauto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -310,6 +312,7 @@ Barbora Radvilaitė aprašoma kaip Vilniaus kašteliono Jurgio duktė, Goštauto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -333,6 +336,7 @@ Barbora Radvilaitė aprašoma kaip Vilniaus kašteliono Jurgio duktė, Goštauto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -372,6 +376,7 @@ Barbora Radvilaitė aprašoma kaip Vilniaus kašteliono Jurgio duktė, Goštauto
   pagrindžia:
     - t-009
     - t-012
+
 - c-006
   santrauka: 'Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio dukra ir Trakų vaivados Goštauto našlė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -397,6 +402,7 @@ Barbora Radvilaitė aprašoma kaip Vilniaus kašteliono Jurgio duktė, Goštauto
     - t-001
     - t-002
     - t-003
+
 - c-007
   santrauka: 'Barborai Radvilaitei Šv. Stanislovo bažnyčioje italų meistrai pastatė brangaus marmuro antkapį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -421,6 +427,7 @@ Barbora Radvilaitė aprašoma kaip Vilniaus kašteliono Jurgio duktė, Goštauto
   pagrindžia:
     - t-010
     - t-006
+
 - c-008
   santrauka: 'Po Elžbietos laidotuvių Augustas pradėjo lankyti Barborą Radvilaitę, Vilniaus kašteliono Jurgio dukrą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -462,6 +469,7 @@ Barbora Radvilaitė aprašoma kaip Vilniaus kašteliono Jurgio duktė, Goštauto
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-009
   santrauka: 'Augustas senatoriams pareiškė, kad Barbora Radvilaitė buvo jo žmona, sutuokta krikščioniškomis apeigomis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

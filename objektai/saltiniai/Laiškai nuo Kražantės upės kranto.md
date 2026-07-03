@@ -73,6 +73,7 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Michałas Balińskis Varšuvos laikraštyje pradėjo spausdinti „Laiškus nuo Kražantės upės kranto“ apie Lietuvos kultūrinio gyvenimo problemas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -93,6 +94,7 @@ Jos puslapiuose spausdinti straipsniai, pavadinti Laiškais nuo Kražantės upė
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: '„Laiškai nuo Kražantės upės kranto“ padeda suprasti XIX a. penktojo ir šeštojo dešimtmečių visuomeninį ir kultūrinį pagyvėjimą Lenkijoje bei Lietuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)

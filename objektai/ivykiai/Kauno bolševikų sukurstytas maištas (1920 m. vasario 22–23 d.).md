@@ -71,6 +71,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: '1920 m. vasario 22–23 d. Kaune kilusio bolševikų sukurstyto maišto pergalė būtų suteikusi Lenkijai pretekstą pulti Lietuvą atvira karine jėga.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

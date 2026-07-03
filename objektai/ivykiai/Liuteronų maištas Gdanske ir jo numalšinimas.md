@@ -63,6 +63,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Atvykęs į Gdanską karalius dalį maištininkų nubaudė mirtimi, o pabėgusius įtraukė į pasmerktųjų sąrašus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

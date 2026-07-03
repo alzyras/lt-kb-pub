@@ -75,6 +75,7 @@ Chanas patraukė į Rusų žemę ir padarė daug žalos Rusų žemei. Skirmantas
     - t-002
     - t-003
     - t-004
+
 - c-002
   santrauka: 'Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės, anksčiau priklausiusios Liubartui.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)

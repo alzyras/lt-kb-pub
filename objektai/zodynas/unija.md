@@ -166,6 +166,7 @@ Valstybinė santvarka po Liublino unijos.
   pagrindžia:
     - t-002
     - t-001
+
 - c-002
   santrauka: '1566 m. Lietuvoje nerimą kėlė tai, kad karaliui mirus iki unijos sudarymo lenkai gali liautis teikę pagalbą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)

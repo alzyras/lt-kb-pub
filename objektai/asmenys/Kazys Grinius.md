@@ -84,6 +84,7 @@ Kazys Grinius buvo liaudininkas ir valstiečių liaudininkų lyderis, vadovavęs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -99,6 +100,7 @@ Kazys Grinius buvo liaudininkas ir valstiečių liaudininkų lyderis, vadovavęs
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulginskis (1922–1926 m. išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko Kazio Griniaus vadovaujama vyriausybė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -119,6 +121,7 @@ Kazys Grinius buvo liaudininkas ir valstiečių liaudininkų lyderis, vadovavęs
   pagrindžia:
     - t-004
     - t-003
+
 - c-004
   santrauka: 'Valstiečių liaudininkų lyderis Kazys Grinius buvo išrinktas prezidentu, o socialdemokratai jį parėmė su sąlyga derinti veiksmus su jais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

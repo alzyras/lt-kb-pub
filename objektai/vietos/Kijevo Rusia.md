@@ -200,6 +200,7 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
     - t-009
     - t-010
     - t-002
+
 - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -215,6 +216,7 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -240,6 +242,7 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
   pagrindžia:
     - t-005
     - t-006
+
 - c-004
   santrauka: 'Lietuva iki XII a. pabaigos buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -269,6 +272,7 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
   pagrindžia:
     - t-001
     - t-008
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -289,6 +293,7 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
   pagrindžia:
     - t-011
     - t-012
+
 - c-006
   santrauka: '1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, nusiaubė Pskovą ir galbūt Polocką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -306,6 +311,7 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-007
   santrauka: 'Lietuvai priklausančioje Rusioje nuo seno buvo įsitvirtinęs feodalinis valdymas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -327,6 +333,7 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-008
   santrauka: 'Kukovaitis, nurimęs dėl vidaus reikalų, galėjo siųsti didesnę pagalbą Skirmantui į Rusią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -351,6 +358,7 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-009
   santrauka: 'Kazimieras Belzą ir Volynę perdavė su sąlyga, kad aukščiausią valdžią Rusioje turės Lenkijos karalius.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -380,6 +388,7 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-010
   santrauka: 'Kojelavičius artimesne tiesai laikė nuomonę, kad Vytautas pradėjo karą su skitais rūpindamasis apginti Rusią.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
