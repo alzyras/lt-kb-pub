@@ -484,17 +484,6 @@ function buildVisibleGraph(
   for (const source of selected) {
     for (const target of adjacency.get(source) ?? []) {
       if (!selected.has(target)) continue
-      if (focus && state.depth >= 0) {
-        const sourceDistance = distances.get(source)
-        const targetDistance = distances.get(target)
-        if (
-          sourceDistance === undefined ||
-          targetDistance === undefined ||
-          Math.abs(sourceDistance - targetDistance) !== 1
-        ) {
-          continue
-        }
-      }
       const pairKey = [source, target].sort().join(" ")
       if (seenLinks.has(pairKey)) continue
       seenLinks.add(pairKey)

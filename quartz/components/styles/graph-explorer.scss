@@ -387,11 +387,21 @@ body.graph-explorer-active {
   overflow: hidden;
   position: relative;
 
+  canvas,
   svg {
     display: block;
     height: 100%;
     width: 100%;
   }
+}
+
+.graph-explorer-renderer {
+  cursor: grab;
+  touch-action: none;
+}
+
+.graph-explorer-renderer:active {
+  cursor: grabbing;
 }
 
 .graph-explorer-show-panel {
