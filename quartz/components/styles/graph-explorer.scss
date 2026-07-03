@@ -111,6 +111,74 @@ body.graph-explorer-active {
   min-width: 0;
 }
 
+.graph-explorer-search {
+  position: relative;
+}
+
+.graph-explorer-suggest {
+  background: color-mix(in srgb, var(--light) 99%, var(--lightgray));
+  border: 1px solid color-mix(in srgb, var(--secondary) 18%, var(--lightgray));
+  border-radius: 0.55rem;
+  box-shadow: 0 18px 44px rgba(0, 0, 0, 0.18);
+  left: 0;
+  max-height: min(28rem, calc(100vh - 5rem));
+  overflow: auto;
+  padding: 0.28rem;
+  position: absolute;
+  right: 0;
+  top: calc(100% + 0.35rem);
+  z-index: 70;
+}
+
+.graph-explorer-suggest-list {
+  display: grid;
+  gap: 0.16rem;
+}
+
+.graph-explorer-suggest-option {
+  background: transparent !important;
+  border: 0 !important;
+  border-radius: 0.42rem !important;
+  color: var(--dark) !important;
+  cursor: pointer;
+  display: grid;
+  gap: 0.12rem;
+  min-height: auto !important;
+  padding: 0.46rem 0.55rem !important;
+  text-align: left;
+  width: 100%;
+
+  strong {
+    font-size: 0.92rem;
+    line-height: 1.2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  span {
+    color: var(--darkgray);
+    font-size: 0.76rem;
+    line-height: 1.2;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  &:hover,
+  &.is-active {
+    background: color-mix(in srgb, var(--secondary) 11%, var(--light)) !important;
+    color: var(--secondary) !important;
+  }
+}
+
+.graph-explorer-suggest-empty {
+  color: var(--darkgray);
+  font-size: 0.86rem;
+  margin: 0;
+  padding: 0.55rem;
+}
+
 .graph-explorer-depth-control {
   align-items: center;
   border: 0;
@@ -382,7 +450,8 @@ body.graph-explorer-active {
 }
 
 .graph-explorer-canvas {
-  min-height: calc(100vh - 3.5rem);
+  height: 100%;
+  min-height: 0;
   min-width: 0;
   overflow: hidden;
   position: relative;
@@ -682,7 +751,15 @@ body.graph-explorer-active {
   }
 
   .graph-explorer-canvas {
-    min-height: calc(100vh - 7rem);
+    height: 100%;
+    min-height: 0;
+  }
+
+  .graph-explorer-suggest {
+    left: 0.55rem;
+    position: fixed;
+    right: 0.55rem;
+    top: 3.35rem;
   }
 }
 
@@ -743,6 +820,7 @@ body.graph-explorer-active {
   }
 
   .graph-explorer-canvas {
-    min-height: calc(100vh - 3.4rem);
+    height: 100%;
+    min-height: 0;
   }
 }

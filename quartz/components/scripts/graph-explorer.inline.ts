@@ -62,6 +62,20 @@ type RuntimeLink = SimulationLinkDatum<RuntimeNode> & {
   details: GraphExplorerLinkDetails
 }
 
+type SearchSuggestion = {
+  slug: SimpleSlug
+  node: GraphExplorerIndexDetails
+  score: number
+  reason: string
+}
+
+type LabelBounds = {
+  left: number
+  right: number
+  top: number
+  bottom: number
+}
+
 const runtime = globalThis as ExplorerRuntime
 let cachedCitationSources: CitationSourceRegistryEntry[] | null = null
 
@@ -167,7 +181,10 @@ function writeState(state: FilterState) {
 }
 
 function normalizedText(value: string | undefined): string {
-  return (value ?? "").toLocaleLowerCase("lt-LT")
+  return (value ?? "")
+    .toLocaleLowerCase("lt-LT")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
 }
 
 function normalizeCitationSources(sources: CitationSourceRegistryEntry[]): CitationSourceRegistryEntry[] {
@@ -371,8 +388,102 @@ function passesFocusTraversalFilters(node: GraphExplorerIndexDetails, state: Fil
   return true
 }
 
+function passesSuggestionFilters(node: GraphExplorerIndexDetails, state: FilterState): boolean {
+  if (!graphAllowed(node, state)) return false
+  const kind = nodeType(node)
+  if (state.types.length > 0 && !state.types.includes(kind)) return false
+  if (!sourceMatches(node, state.sources)) return false
+  if (!dateOverlaps(node, state.from, state.to)) return false
+  return true
+}
+
 function scoreNode(node: GraphExplorerIndexDetails, degree: number): number {
   return node.claimCount + node.quoteCount * 1.8 + degree * 0.35
+}
+
+function suggestionPeriodHint(node: GraphExplorerIndexDetails): string {
+  const explicit = [
+    node.dateStart !== undefined || node.dateEnd !== undefined
+      ? [node.dateStart ?? "?", node.dateEnd ?? node.dateStart ?? "?"].join("–")
+      : "",
+    ...(node.centuries ?? []),
+    ...(node.periodGroups ?? []),
+  ].filter(Boolean)
+  if (explicit.length > 0) return explicit.slice(0, 2).join(", ")
+  return (node.citationSourceTitles ?? []).slice(0, 1).join("")
+}
+
+function suggestionRank(
+  slug: SimpleSlug,
+  node: GraphExplorerIndexDetails,
+  query: string,
+  globalDegree: number,
+): SearchSuggestion | null {
+  const needle = normalizedText(query)
+  if (!needle) return null
+  const title = normalizedText(node.title)
+  const tags = normalizedText((node.tags ?? []).join(" "))
+  const sources = normalizedText((node.citationSourceTitles ?? []).join(" "))
+  const summary = normalizedText(node.summary)
+  const slugText = normalizedText(slug)
+  let score = 0
+  let reason = ""
+  if (title === needle) {
+    score = 10000
+    reason = "tikslus pavadinimas"
+  } else if (title.startsWith(needle)) {
+    score = 7600
+    reason = "pavadinimo pradžia"
+  } else if (title.includes(needle)) {
+    score = 5200
+    reason = "pavadinimas"
+  } else if (slugText.includes(needle)) {
+    score = 4200
+    reason = "kelias"
+  } else if (tags.includes(needle)) {
+    score = 3200
+    reason = "žyma"
+  } else if (sources.includes(needle)) {
+    score = 2400
+    reason = "šaltinis"
+  } else if (summary.includes(needle)) {
+    score = 1200
+    reason = "santrauka"
+  } else {
+    return null
+  }
+  score += Math.log1p(node.claimCount + node.quoteCount * 1.5 + globalDegree * 2) * 95
+  return { slug, node, score, reason }
+}
+
+function searchSuggestions(
+  nodesBySlug: Map<SimpleSlug, GraphExplorerIndexDetails>,
+  state: FilterState,
+  query: string,
+  globalDegrees: Map<SimpleSlug, number>,
+): SearchSuggestion[] {
+  return [...nodesBySlug.entries()]
+    .filter(([, node]) => passesSuggestionFilters(node, state))
+    .map(([slug, node]) => suggestionRank(slug, node, query, globalDegrees.get(slug) ?? 0))
+    .filter((suggestion): suggestion is SearchSuggestion => Boolean(suggestion))
+    .sort((a, b) => {
+      const diff = b.score - a.score
+      return diff === 0 ? a.node.title.localeCompare(b.node.title, "lt") : diff
+    })
+    .slice(0, 10)
+}
+
+function computeGlobalDegrees(nodesBySlug: Map<SimpleSlug, GraphExplorerIndexDetails>): Map<SimpleSlug, number> {
+  const degrees = new Map<SimpleSlug, Set<SimpleSlug>>()
+  for (const [source, node] of nodesBySlug) {
+    for (const link of node.links ?? []) {
+      const target = simplifySlug(link.target as FullSlug)
+      if (!nodesBySlug.has(target)) continue
+      degrees.set(source, (degrees.get(source) ?? new Set()).add(target))
+      degrees.set(target, (degrees.get(target) ?? new Set()).add(source))
+    }
+  }
+  return new Map([...degrees.entries()].map(([slug, targets]) => [slug, targets.size]))
 }
 
 function resolveFocus(
@@ -818,17 +929,46 @@ function distanceToSegment(
   return Math.hypot(pointX - (startX + t * dx), pointY - (startY + t * dy))
 }
 
+function labelPriority(node: RuntimeNode, focus: SimpleSlug | ""): number {
+  return (node.id === focus ? 10000 : 0) + node.score + node.globalDegree * 1.4 + node.quoteCount * 0.8
+}
+
 function labelCandidates(nodes: RuntimeNode[], focus: SimpleSlug | "", mobile: boolean): RuntimeNode[] {
-  const cap = mobile ? 20 : 70
-  return nodes
-    .filter((node) => node.id === focus || node.globalDegree > 3 || node.score > 12)
-    .sort((a, b) => {
-      if (a.id === focus) return -1
-      if (b.id === focus) return 1
-      const diff = b.score + b.globalDegree * 0.8 - (a.score + a.globalDegree * 0.8)
-      return diff === 0 ? a.title.localeCompare(b.title, "lt") : diff
-    })
+  const sorted = [...nodes].sort((a, b) => {
+    const diff = labelPriority(b, focus) - labelPriority(a, focus)
+    return diff === 0 ? a.title.localeCompare(b.title, "lt") : diff
+  })
+  if (!mobile && nodes.length <= 300) {
+    return sorted
+  }
+  const cap = mobile ? 42 : 140
+  return sorted
+    .filter((node) => node.id === focus || node.globalDegree > 2 || node.score > (mobile ? 16 : 10))
     .slice(0, cap)
+}
+
+function boundsOverlap(a: LabelBounds, b: LabelBounds): boolean {
+  return a.left < b.right && a.right > b.left && a.top < b.bottom && a.bottom > b.top
+}
+
+function labelBounds(x: number, y: number, width: number, height: number): LabelBounds {
+  return {
+    left: x - width / 2,
+    right: x + width / 2,
+    top: y - height,
+    bottom: y,
+  }
+}
+
+function uniqueLabelNodes(nodes: RuntimeNode[], extra: Array<RuntimeNode | null | undefined>): RuntimeNode[] {
+  const seen = new Set<SimpleSlug>()
+  const result: RuntimeNode[] = []
+  for (const node of [...extra.filter(Boolean), ...nodes] as RuntimeNode[]) {
+    if (seen.has(node.id)) continue
+    seen.add(node.id)
+    result.push(node)
+  }
+  return result
 }
 
 function renderEdgePanel(
@@ -955,23 +1095,39 @@ function renderGraph(
       ctx.stroke()
     }
 
-    const visibleLabels =
-      transform.k < 0.58 && focusNode
-        ? labels.filter((node) => node.id === focusNode.id || node.globalDegree > 10)
-        : labels
+    const visibleLabels = uniqueLabelNodes(
+      transform.k < 0.44 && focusNode
+        ? labels.filter((node) => node.id === focusNode.id || node.globalDegree > (mobile ? 12 : 8))
+        : labels,
+      [focusNode, hoverNode],
+    )
+    const drawnLabelBounds: LabelBounds[] = []
     for (const node of visibleLabels) {
       const pos = nodeScreenPosition(node, transform)
-      const baseSize = node.id === graph.focus ? 14 : 12
-      const size = Math.max(10, Math.min(16, baseSize / Math.sqrt(Math.max(0.82, transform.k))))
+      const required = node.id === graph.focus || node === hoverNode
+      const baseSize = node.id === graph.focus ? 14.5 : node.globalDegree > 10 ? 12.6 : 11.4
+      const size = Math.max(required ? 11 : 9.5, Math.min(17, baseSize / Math.sqrt(Math.max(0.78, transform.k))))
       const r = radius(node, graph.focus) * Math.max(0.72, Math.min(1.25, Math.sqrt(transform.k)))
       ctx.font = `${node.id === graph.focus ? 700 : 500} ${size}px var(--bodyFont, serif)`
+      const labelWidth = Math.min(width - 20, ctx.measureText(node.title).width + 8)
+      const labelHeight = size + 7
+      const labelY = pos.y - r - 4
+      const bounds = labelBounds(pos.x, labelY, labelWidth, labelHeight)
+      const inCanvas =
+        bounds.right >= 0 &&
+        bounds.left <= width &&
+        bounds.bottom >= 0 &&
+        bounds.top <= height
+      if (!inCanvas && !required) continue
+      if (!required && drawnLabelBounds.some((existing) => boundsOverlap(existing, bounds))) continue
+      drawnLabelBounds.push(bounds)
       ctx.textAlign = "center"
       ctx.textBaseline = "bottom"
       ctx.lineWidth = 4
       ctx.strokeStyle = "rgba(248, 242, 232, 0.88)"
       ctx.fillStyle = "#33241a"
-      ctx.strokeText(node.title, pos.x, pos.y - r - 4)
-      ctx.fillText(node.title, pos.x, pos.y - r - 4)
+      ctx.strokeText(node.title, pos.x, labelY)
+      ctx.fillText(node.title, pos.x, labelY)
     }
     ctx.restore()
   }
@@ -1081,18 +1237,33 @@ function renderGraph(
 
   const fitGraphToCanvas = () => {
     if (graph.nodes.length === 0) return
-    const xs = graph.nodes.map((node) => node.x ?? 0)
-    const ys = graph.nodes.map((node) => node.y ?? 0)
-    const minX = Math.min(...xs)
-    const maxX = Math.max(...xs)
-    const minY = Math.min(...ys)
-    const maxY = Math.max(...ys)
+    const labelNodes = new Set(labelCandidates(graph.nodes, graph.focus, mobile).map((node) => node.id))
+    const bounds = graph.nodes.map((node) => {
+      const x = node.x ?? 0
+      const y = node.y ?? 0
+      const r = radius(node, graph.focus) + 28
+      const labelWidth = labelNodes.has(node.id) ? Math.min(280, node.title.length * 7 + 22) : 0
+      const labelHeight = labelNodes.has(node.id) ? 28 : 0
+      const halfWidth = Math.max(r, labelWidth / 2)
+      return {
+        minX: x - halfWidth,
+        maxX: x + halfWidth,
+        minY: y - r - labelHeight,
+        maxY: y + r + 8,
+      }
+    })
+    const minX = Math.min(...bounds.map((bound) => bound.minX))
+    const maxX = Math.max(...bounds.map((bound) => bound.maxX))
+    const minY = Math.min(...bounds.map((bound) => bound.minY))
+    const maxY = Math.max(...bounds.map((bound) => bound.maxY))
     const graphWidth = Math.max(1, maxX - minX)
     const graphHeight = Math.max(1, maxY - minY)
-    const margin = Math.max(80, Math.min(width, height) * 0.12)
+    const safePadding = mobile ? 68 : 96
+    const availableWidth = Math.max(160, width - safePadding * 2)
+    const availableHeight = Math.max(160, height - safePadding * 2)
     const scale = Math.max(
-      0.35,
-      Math.min(2.1, Math.min((width - margin) / graphWidth, (height - margin) / graphHeight)),
+      mobile ? 0.28 : 0.32,
+      Math.min(2.1, Math.min(availableWidth / graphWidth, availableHeight / graphHeight)),
     )
     const centerX = (minX + maxX) / 2
     const centerY = (minY + maxY) / 2
@@ -1127,11 +1298,50 @@ function renderGraph(
   root.dataset.links = String(graph.links.length)
 }
 
+function renderSuggestionItems(
+  list: HTMLElement,
+  suggestions: SearchSuggestion[],
+  activeIndex: number,
+) {
+  if (suggestions.length === 0) {
+    list.innerHTML = `<p class="graph-explorer-suggest-empty">Nerasta objektų.</p>`
+    return
+  }
+  list.innerHTML = suggestions
+    .map((suggestion, index) => {
+      const node = suggestion.node
+      const active = index === activeIndex ? " is-active" : ""
+      const hint = suggestionPeriodHint(node)
+      const meta = [
+        nodeType(node),
+        `${node.claimCount} teig.`,
+        `${node.quoteCount} cit.`,
+        hint,
+      ].filter(Boolean)
+      return `
+        <button
+          type="button"
+          class="graph-explorer-suggest-option${active}"
+          role="option"
+          aria-selected="${index === activeIndex ? "true" : "false"}"
+          data-suggest-slug="${escapeHtml(suggestion.slug)}"
+        >
+          <strong>${escapeHtml(node.title)}</strong>
+          <span>${escapeHtml(meta.join(" · "))}</span>
+        </button>
+      `
+    })
+    .join("")
+}
+
 async function setupGraphExplorer(root: HTMLElement) {
   const canvas = root.querySelector<HTMLElement>("[data-graph-canvas]")
   const panel = root.querySelector<HTMLElement>("[data-graph-panel]")
   const form = root.querySelector<HTMLFormElement>("[data-graph-filters]")
   const reset = root.querySelector<HTMLButtonElement>("[data-graph-reset]")
+  const searchInput = root.querySelector<HTMLInputElement>("[data-graph-search-input]")
+  const suggest = root.querySelector<HTMLElement>("[data-graph-suggest]")
+  const suggestList = root.querySelector<HTMLElement>("[data-graph-suggest-list]")
   if (!canvas || !panel || !form) return
 
   canvas.innerHTML = `<p class="graph-explorer-loading">Kraunamas žemėlapis...</p>`
@@ -1139,9 +1349,12 @@ async function setupGraphExplorer(root: HTMLElement) {
   const nodesBySlug = new Map<SimpleSlug, GraphExplorerIndexDetails>(
     Object.entries(rawIndex).map(([slug, details]) => [simplifySlug(slug as FullSlug), details]),
   )
+  const globalDegrees = computeGlobalDegrees(nodesBySlug)
 
   let state = readState()
   setFormState(root, state)
+  let activeSuggestionIndex = -1
+  let currentSuggestions: SearchSuggestion[] = []
 
   let pendingRenderFrame = 0
   const setSources = (sources: string[]) => {
@@ -1185,6 +1398,32 @@ async function setupGraphExplorer(root: HTMLElement) {
     rerender()
   }
 
+  const hideSuggestions = () => {
+    activeSuggestionIndex = -1
+    currentSuggestions = []
+    if (suggest) suggest.hidden = true
+    if (suggestList) suggestList.innerHTML = ""
+  }
+
+  const syncSuggestions = () => {
+    if (!searchInput || !suggest || !suggestList) return
+    const query = searchInput.value.trim()
+    if (query.length < 2) {
+      hideSuggestions()
+      return
+    }
+    currentSuggestions = searchSuggestions(nodesBySlug, state, query, globalDegrees)
+    activeSuggestionIndex = currentSuggestions.length > 0 ? Math.max(0, Math.min(activeSuggestionIndex, currentSuggestions.length - 1)) : -1
+    renderSuggestionItems(suggestList, currentSuggestions, activeSuggestionIndex)
+    suggest.hidden = false
+  }
+
+  const selectSuggestion = (suggestion: SearchSuggestion | undefined) => {
+    if (!suggestion) return
+    hideSuggestions()
+    activateFocus(suggestion.slug)
+  }
+
   const clearFocus = () => {
     state = {
       ...defaultState,
@@ -1210,8 +1449,47 @@ async function setupGraphExplorer(root: HTMLElement) {
     }
   }
 
-  form.addEventListener("input", () => updateFromForm(false))
+  form.addEventListener("submit", (event) => {
+    event.preventDefault()
+    if (currentSuggestions.length > 0) {
+      selectSuggestion(currentSuggestions[Math.max(0, activeSuggestionIndex)])
+    }
+  })
+  form.addEventListener("input", (event) => {
+    updateFromForm(false)
+    if (event.target === searchInput) {
+      syncSuggestions()
+    }
+  })
   form.addEventListener("change", () => updateFromForm(true))
+  searchInput?.addEventListener("focus", syncSuggestions)
+  searchInput?.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") {
+      hideSuggestions()
+      return
+    }
+    if (event.key === "ArrowDown" || event.key === "ArrowUp") {
+      if (currentSuggestions.length === 0) syncSuggestions()
+      if (currentSuggestions.length === 0) return
+      event.preventDefault()
+      const direction = event.key === "ArrowDown" ? 1 : -1
+      activeSuggestionIndex =
+        (activeSuggestionIndex + direction + currentSuggestions.length) % currentSuggestions.length
+      if (suggestList) renderSuggestionItems(suggestList, currentSuggestions, activeSuggestionIndex)
+      return
+    }
+    if (event.key === "Enter" && currentSuggestions.length > 0) {
+      event.preventDefault()
+      selectSuggestion(currentSuggestions[Math.max(0, activeSuggestionIndex)])
+    }
+  })
+  suggestList?.addEventListener("click", (event) => {
+    const button = (event.target as Element | null)?.closest<HTMLButtonElement>("[data-suggest-slug]")
+    if (!button) return
+    event.preventDefault()
+    const slug = button.dataset.suggestSlug as SimpleSlug | undefined
+    selectSuggestion(currentSuggestions.find((suggestion) => suggestion.slug === slug))
+  })
   reset?.addEventListener("click", () => {
     state = { ...defaultState }
     writeState(state)
@@ -1266,6 +1544,7 @@ async function setupGraphExplorer(root: HTMLElement) {
     const target = event.target
     if (target instanceof Node && !form.contains(target)) {
       closePopovers()
+      hideSuggestions()
     }
   })
 

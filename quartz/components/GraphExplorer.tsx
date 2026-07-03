@@ -13,7 +13,24 @@ export default (() => {
           </a>
           <label class="graph-explorer-search">
             <span class="sr-only">Paieška</span>
-            <input type="search" name="q" placeholder="Ieškoti objekto" autocomplete="off" />
+            <input
+              type="search"
+              name="q"
+              placeholder="Ieškoti objekto"
+              autocomplete="off"
+              aria-autocomplete="list"
+              aria-controls="graph-explorer-suggestions"
+              data-graph-search-input
+            />
+            <div class="graph-explorer-suggest" data-graph-suggest hidden>
+              <div
+                id="graph-explorer-suggestions"
+                class="graph-explorer-suggest-list"
+                role="listbox"
+                aria-label="Žemėlapio paieškos pasiūlymai"
+                data-graph-suggest-list
+              ></div>
+            </div>
           </label>
           <label class="graph-explorer-preset">
             <span class="sr-only">Presetas</span>
