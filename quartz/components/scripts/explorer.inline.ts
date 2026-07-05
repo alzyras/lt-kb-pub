@@ -186,9 +186,30 @@ function createFileNode(
   const citationSourceIds = Array.isArray(node.data?.citationSourceIds)
     ? node.data.citationSourceIds.filter((value): value is string => typeof value === "string")
     : []
+  const slugParts = node.slug.split("/")
+  const isObjectPage = slugParts[0] === "objektai" && slugParts.length >= 3
   a.href = resolveRelative(currentSlug, node.slug)
   a.dataset.for = node.slug
-  a.textContent = node.displayName
+  const title = document.createElement("span")
+  title.className = "explorer-file-title"
+  title.textContent = node.displayName
+  a.appendChild(title)
+
+  if (isObjectPage && Number.isFinite(claimCount)) {
+    const claimLabel =
+      claimCount % 10 === 1 && claimCount % 100 !== 11
+        ? `${claimCount} teiginys`
+        : claimCount % 10 >= 2 && claimCount % 10 <= 9 && (claimCount % 100 < 10 || claimCount % 100 >= 20)
+          ? `${claimCount} teiginiai`
+          : `${claimCount} teiginių`
+    const badge = document.createElement("span")
+    badge.className = "explorer-claim-badge"
+    badge.textContent = `${claimCount}`
+    badge.title = claimLabel
+    badge.setAttribute("aria-label", claimLabel)
+    a.appendChild(badge)
+  }
+
   li.dataset.citationFilterable = node.data?.citationFilterable ? "true" : "false"
   li.dataset.quoteCount = `${quoteCount}`
   li.dataset.claimCount = `${claimCount}`
@@ -409,6 +430,7 @@ async function setupExplorersForSlug(currentSlug: FullSlug) {
       // Allow <html> to be scrollable when mobile explorer is collapsed
       document.documentElement.classList.remove("mobile-no-scroll")
     } else {
+      await setupExplorer(currentSlug, explorer as HTMLElement)
       setupExplorerShell(explorer as HTMLElement, currentSlug)
     }
 

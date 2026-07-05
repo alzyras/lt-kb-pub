@@ -29,14 +29,15 @@ export function pageResources(
   baseDir: FullSlug | RelativeURL,
   staticResources: StaticResources,
 ): StaticResources {
-  const assetVersion = "20260705-explorer-initial-load"
+  const assetVersion = "20260705-explorer-claim-badges-v2"
   const versionedAsset = (path: string) => `${path}?v=${assetVersion}`
-  const contentMetaPath = versionedAsset(joinSegments(baseDir, "static/contentMeta.json"))
-  const searchIndexPath = versionedAsset(joinSegments(baseDir, "static/searchIndex.json"))
-  const graphIndexPath = versionedAsset(joinSegments(baseDir, "static/graphIndex.json"))
-  const graphExplorerIndexPath = versionedAsset(joinSegments(baseDir, "static/graphExplorerIndex.json"))
-  const randomClaimsPath = versionedAsset(joinSegments(baseDir, "static/randomClaims.json"))
-  const citationSourcesPath = versionedAsset(joinSegments(baseDir, "static/citationSources.json"))
+  const staticJsonPath = (path: string) => versionedAsset(joinSegments("/", "static", path))
+  const contentMetaPath = staticJsonPath("contentMeta.json")
+  const searchIndexPath = staticJsonPath("searchIndex.json")
+  const graphIndexPath = staticJsonPath("graphIndex.json")
+  const graphExplorerIndexPath = staticJsonPath("graphExplorerIndex.json")
+  const randomClaimsPath = staticJsonPath("randomClaims.json")
+  const citationSourcesPath = staticJsonPath("citationSources.json")
   const staticIndexScript = `
 globalThis.__ltkbStaticJsonCache ??= new Map()
 globalThis.loadStaticJson ??= (path) => {
