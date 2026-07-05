@@ -1,0 +1,148 @@
+{
+  "generatedAt": "2026-07-05T18:00:22.338Z",
+  "images": [
+    {
+      "key": "hero-grunwald",
+      "category": "Hero banner",
+      "title": "Jan Matejko, Bitwa pod Grunwaldem",
+      "author": "Jan Matejko",
+      "year": "1878",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jan_Matejko,_Bitwa_pod_Grunwaldem.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Jan Matejko, Bitwa pod Grunwaldem.jpg",
+      "originalDimensions": "11788x5235"
+    },
+    {
+      "key": "category-asmenys",
+      "category": "Asmenys",
+      "title": "Gediminas, the Grand Duke of Lithuania",
+      "author": "Unknown author",
+      "year": "1709",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gediminas,_the_Grand_Duke_of_Lithuania,_painted_in_1709.png",
+      "license": "Public domain",
+      "originalFile": "File:Gediminas, the Grand Duke of Lithuania, painted in 1709.png",
+      "originalDimensions": "2424x2512"
+    },
+    {
+      "key": "category-autoriai",
+      "category": "Autoriai",
+      "title": "Simonas Daukantas",
+      "author": "Jonas Zenkevičius / Jan Zienkiewicz",
+      "year": "circa 1850",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Simonas_Daukantas.png",
+      "license": "Public domain",
+      "originalFile": "File:Simonas Daukantas.png",
+      "originalDimensions": "600x714"
+    },
+    {
+      "key": "category-ivykiai",
+      "category": "Įvykiai",
+      "title": "Jan Matejko, Bitwa pod Grunwaldem",
+      "author": "Jan Matejko",
+      "year": "1878",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jan_Matejko,_Bitwa_pod_Grunwaldem.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Jan Matejko, Bitwa pod Grunwaldem.jpg",
+      "originalDimensions": "11788x5235"
+    },
+    {
+      "key": "category-vietos",
+      "category": "Vietos",
+      "title": "View of the Castle at Troki (Trakai)",
+      "author": "Wincenty Dmochowski",
+      "year": "1854",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wincenty_Dmochowski_-_View_of_the_Castle_at_Troki_(Trakai)_-_MNK_II-a-117_-_National_Museum_in_Krak%C3%B3w.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Wincenty Dmochowski - View of the Castle at Troki (Trakai) - MNK II-a-117 - National Museum in Kraków.jpg",
+      "originalDimensions": "3866x3328"
+    },
+    {
+      "key": "category-grupes",
+      "category": "Grupės",
+      "title": "Lithuanian peasants",
+      "author": "Workshop of Franciszek Smuglewicz",
+      "year": "18th century",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lithuanian_peasants.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Lithuanian peasants.jpg",
+      "originalDimensions": "867x1090"
+    },
+    {
+      "key": "category-daiktai",
+      "category": "Daiktai",
+      "title": "The Third Lithuanian Statute with Vytis",
+      "author": "Unknown author",
+      "year": "1588",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Third_Lithuanian_Statute_(Tre%C4%8Diasis_Lietuvos_Statutas)_with_Vytis_(Waykimas),_1588.gif",
+      "license": "Public domain",
+      "originalFile": "File:The Third Lithuanian Statute (Trečiasis Lietuvos Statutas) with Vytis (Waykimas), 1588.gif",
+      "originalDimensions": "310x512"
+    },
+    {
+      "key": "category-paprociai",
+      "category": "Papročiai",
+      "title": "Folk art exposition in Kaunas",
+      "author": "Unknown author",
+      "year": "1930",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Folk_art_exposition_in_Kaunas_1930.jpeg",
+      "license": "CC0 / Public Domain Dedication",
+      "originalFile": "File:Folk art exposition in Kaunas 1930.jpeg",
+      "originalDimensions": "800x492"
+    },
+    {
+      "key": "category-posakiai",
+      "category": "Posakiai",
+      "title": "M. Mažvydo autografas",
+      "author": "Martynas Mažvydas",
+      "year": "16th century",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:M._Ma%C5%BEvydo_autografas.jpg",
+      "license": "Public domain",
+      "originalFile": "File:M. Mažvydo autografas.jpg",
+      "originalDimensions": "504x151"
+    },
+    {
+      "key": "category-zodynas",
+      "category": "Žodynas",
+      "title": "Mažvydo katekizmas",
+      "author": "Martynas Mažvydas",
+      "year": "1547",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mazvydo_katekizmas.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Mazvydo katekizmas.jpg",
+      "originalDimensions": "508x682"
+    },
+    {
+      "key": "category-saltiniai",
+      "category": "Šaltiniai",
+      "title": "History of Lithuania by Simonas Daukantas",
+      "author": "Simonas Daukantas",
+      "year": "19th century work / scan uploaded 2007",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:History_of_Lithuania_by_Simonas_Daukantas.jpg",
+      "license": "Public domain",
+      "originalFile": "File:History of Lithuania by Simonas Daukantas.jpg",
+      "originalDimensions": "370x536"
+    },
+    {
+      "key": "category-laikotarpiai",
+      "category": "Laikotarpiai",
+      "title": "Poland and Lithuania by Carolo Allard",
+      "author": "Carollo Allard",
+      "year": "1696",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poland_and_Lithuania_-_by_Carolo_Allard_-_1696_AD.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Poland and Lithuania - by Carolo Allard - 1696 AD.jpg",
+      "originalDimensions": "7089x6039"
+    },
+    {
+      "key": "category-temos",
+      "category": "Temos",
+      "title": "Poland and Lithuania by Carolo Allard",
+      "author": "Carollo Allard",
+      "year": "1696",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poland_and_Lithuania_-_by_Carolo_Allard_-_1696_AD.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Poland and Lithuania - by Carolo Allard - 1696 AD.jpg",
+      "originalDimensions": "7089x6039"
+    }
+  ]
+}

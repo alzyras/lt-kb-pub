@@ -12,6 +12,8 @@ type Category = {
   label: string
   slug: FullSlug
   description: string
+  imageKey: string
+  imageAlt: string
 }
 
 type ObjectCard = {
@@ -27,6 +29,8 @@ type BrowseLink = {
   title: string
   slug: FullSlug
   meta?: string
+  imageKey?: string
+  imageAlt?: string
 }
 
 type BrowseGroup = {
@@ -42,60 +46,80 @@ const categories: Category[] = [
     label: "Asmenys",
     slug: "objektai/asmenys" as FullSlug,
     description: "Valdovai, autoriai, veikėjai ir liudininkai.",
+    imageKey: "category-asmenys",
+    imageAlt: "Gedimino portretas",
   },
   {
     type: "autorius",
     label: "Autoriai",
     slug: "objektai/autoriai" as FullSlug,
     description: "Istorikai, metraštininkai, leidėjai ir tyrimo balsai.",
+    imageKey: "category-autoriai",
+    imageAlt: "Simono Daukanto portretas",
   },
   {
     type: "ivykis",
     label: "Įvykiai",
     slug: "objektai/ivykiai" as FullSlug,
     description: "Mūšiai, sutartys, sukilimai ir politiniai lūžiai.",
+    imageKey: "category-ivykiai",
+    imageAlt: "Žalgirio mūšio paveikslo fragmentas",
   },
   {
     type: "vieta",
     label: "Vietos",
     slug: "objektai/vietos" as FullSlug,
     description: "Pilys, miestai, žemės, upės ir istorinės erdvės.",
+    imageKey: "category-vietos",
+    imageAlt: "Trakų pilies vaizdas",
   },
   {
     type: "grupe",
     label: "Grupės",
     slug: "objektai/grupes" as FullSlug,
     description: "Giminės, luomai, kariuomenės ir bendruomenės.",
+    imageKey: "category-grupes",
+    imageAlt: "Lietuvos valstiečių istorinė iliustracija",
   },
   {
     type: "daiktas",
     label: "Daiktai",
     slug: "objektai/daiktai" as FullSlug,
     description: "Dokumentai, ženklai, ginklai, paminklai ir artefaktai.",
+    imageKey: "category-daiktai",
+    imageAlt: "Trečiojo Lietuvos Statuto puslapis su Vyčiu",
   },
   {
     type: "paprotys",
     label: "Papročiai",
     slug: "objektai/paprociai" as FullSlug,
     description: "Apeigos, praktikos, teisės normos ir tradicijos.",
+    imageKey: "category-paprociai",
+    imageAlt: "Liaudies meno parodos Kaune vaizdas",
   },
   {
     type: "posakis",
     label: "Posakiai",
     slug: "objektai/posakiai" as FullSlug,
     description: "Citatos, formulės ir įsimintini pasakymai.",
+    imageKey: "category-posakiai",
+    imageAlt: "Martyno Mažvydo autografo fragmentas",
   },
   {
     type: "zodyno_irasas",
     label: "Žodynas",
     slug: "objektai/zodynas" as FullSlug,
     description: "Sąvokos, terminai ir istorinė leksika.",
+    imageKey: "category-zodynas",
+    imageAlt: "Mažvydo katekizmo puslapis",
   },
   {
     type: "saltinis",
     label: "Šaltiniai",
     slug: "objektai/saltiniai" as FullSlug,
     description: "Knygos, kronikos ir kiti tekstai, iš kurių renkama bazė.",
+    imageKey: "category-saltiniai",
+    imageAlt: "Simono Daukanto Lietuvos istorijos rankraščio puslapis",
   },
 ]
 
@@ -228,7 +252,53 @@ function linkFromPage(page: QuartzPluginData, meta?: string): BrowseLink {
   }
 }
 
-function largestHubLinks(allFiles: QuartzPluginData[], prefix: string, limit: number): BrowseLink[] {
+function staticImage(currentSlug: FullSlug, filename: string): string {
+  return resolveRelative(currentSlug, `static/collection-images/${filename}` as FullSlug)
+}
+
+function imagePicture(
+  currentSlug: FullSlug,
+  key: string,
+  alt: string,
+  className: string,
+  loading: "eager" | "lazy",
+  width: number,
+  height: number,
+) {
+  const small = key === "hero-grunwald" ? "1600" : "640"
+  const large = key === "hero-grunwald" ? "2400" : "960"
+  return (
+    <picture class={className}>
+      <source
+        type="image/webp"
+        srcSet={`${staticImage(currentSlug, `${key}-${small}.webp`)} ${width === 2400 ? 1600 : 640}w, ${staticImage(currentSlug, `${key}-${large}.webp`)} ${width}w`}
+        sizes={width === 2400 ? "100vw" : "(min-width: 900px) 33vw, 100vw"}
+      />
+      <source
+        type="image/jpeg"
+        srcSet={`${staticImage(currentSlug, `${key}-${small}.jpg`)} ${width === 2400 ? 1600 : 640}w, ${staticImage(currentSlug, `${key}-${large}.jpg`)} ${width}w`}
+        sizes={width === 2400 ? "100vw" : "(min-width: 900px) 33vw, 100vw"}
+      />
+      <img
+        src={staticImage(currentSlug, `${key}-${large}.jpg`)}
+        alt={alt}
+        width={width}
+        height={height}
+        loading={loading}
+        decoding={loading === "eager" ? "sync" : "async"}
+        fetchpriority={loading === "eager" ? "high" : undefined}
+      />
+    </picture>
+  )
+}
+
+function largestHubLinks(
+  allFiles: QuartzPluginData[],
+  prefix: string,
+  limit: number,
+  imageKey?: string,
+  imageAlt?: string,
+): BrowseLink[] {
   return allFiles
     .filter((page) => String(page.slug ?? "").startsWith(prefix) && pageTitle(page))
     .map((page) => ({ page, count: hubObjectCount(page) }))
@@ -237,7 +307,11 @@ function largestHubLinks(allFiles: QuartzPluginData[], prefix: string, limit: nu
         b.count - a.count || pageTitle(a.page).localeCompare(pageTitle(b.page), "lt"),
     )
     .slice(0, limit)
-    .map(({ page, count }) => linkFromPage(page, objectCountText(count)))
+    .map(({ page, count }) => ({
+      ...linkFromPage(page, objectCountText(count)),
+      imageKey,
+      imageAlt,
+    }))
 }
 
 function browseGroups(
@@ -253,19 +327,33 @@ function browseGroups(
         title: category.label,
         slug: category.slug,
         meta: objectCountText(typeCounts.get(category.type) ?? 0),
+        imageKey: category.imageKey,
+        imageAlt: category.imageAlt,
       })),
     },
     {
       label: "Temos",
       description: "Didžiausi teminiai keliai per objektus ir šaltinius.",
       href: "temos" as FullSlug,
-      links: largestHubLinks(allFiles, "temos/", 6),
+      links: largestHubLinks(
+        allFiles,
+        "temos/",
+        6,
+        "category-temos",
+        "1696 m. Lietuvos ir Lenkijos žemėlapio fragmentas",
+      ),
     },
     {
       label: "Laikotarpiai",
       description: "Didžiausi chronologiniai vartai į kolekciją.",
       href: "laikotarpiai" as FullSlug,
-      links: largestHubLinks(allFiles, "laikotarpiai/", 6),
+      links: largestHubLinks(
+        allFiles,
+        "laikotarpiai/",
+        6,
+        "category-laikotarpiai",
+        "1696 m. Lietuvos ir Lenkijos žemėlapio fragmentas",
+      ),
     },
   ].filter((group) => group.links.length > 0)
 }
@@ -291,7 +379,15 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
   return (
     <div class="collection-home">
       <section class="collection-hero" aria-label="Objektų paieška">
-        <div class="collection-hero-image" aria-hidden="true" />
+        {imagePicture(
+          currentSlug,
+          "hero-grunwald",
+          "",
+          "collection-hero-image",
+          "eager",
+          2400,
+          1080,
+        )}
         <div class="collection-hero-content">
           <form
             class="collection-hero-search"
@@ -353,7 +449,16 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
                     class={`collection-image-link collection-crop-${(linkIndex % 6) + 1}`}
                     href={resolveRelative(currentSlug, link.slug)}
                   >
-                    <span class="collection-image-link-media" aria-hidden="true" />
+                    {link.imageKey &&
+                      imagePicture(
+                        currentSlug,
+                        link.imageKey,
+                        link.imageAlt ?? "",
+                        "collection-image-link-media",
+                        "lazy",
+                        960,
+                        640,
+                      )}
                     <span class="collection-image-link-title">
                       <strong>{link.title}</strong>
                       {link.meta && <small>{link.meta}</small>}
@@ -368,7 +473,7 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
 
       <section class="collection-full-search" aria-labelledby="collection-full-search-title">
         <div>
-          <p class="collection-kicker">Search Full Collection</p>
+          <p class="collection-kicker">Paieška</p>
           <h2 id="collection-full-search-title">Ieškok visoje LT KB kolekcijoje</h2>
         </div>
         <div class="collection-full-search-actions">
@@ -377,7 +482,7 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
             ar raktinio žodžio visame viešame korpuse.
           </p>
           <button type="button" data-collection-search-trigger="true">
-            Search Full Collection
+            Atidaryti paiešką
           </button>
         </div>
       </section>
@@ -440,7 +545,7 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
         aria-labelledby="collection-highlights-title"
       >
         <div class="collection-section-heading">
-          <p>Featured</p>
+          <p>Akcentai</p>
           <h2 id="collection-highlights-title">Kolekcijos akcentai</h2>
         </div>
         <div class="collection-highlight-grid">
@@ -466,7 +571,7 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
         aria-labelledby="collection-sources-title"
       >
         <div class="collection-section-heading">
-          <p>Sources</p>
+          <p>Šaltiniai</p>
           <h2 id="collection-sources-title">Kolekcijos šaltiniai</h2>
         </div>
         <div class="collection-source-grid">
