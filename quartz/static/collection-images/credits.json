@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T18:00:22.338Z",
+  "generatedAt": "2026-07-05T18:28:34.725Z",
   "images": [
     {
       "key": "hero-grunwald",
@@ -70,13 +70,13 @@
     {
       "key": "category-daiktai",
       "category": "Daiktai",
-      "title": "The Third Lithuanian Statute with Vytis",
+      "title": "Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382",
       "author": "Unknown author",
-      "year": "1588",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Third_Lithuanian_Statute_(Tre%C4%8Diasis_Lietuvos_Statutas)_with_Vytis_(Waykimas),_1588.gif",
+      "year": "1382",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_(Waykimas),_1382.jpg",
       "license": "Public domain",
-      "originalFile": "File:The Third Lithuanian Statute (Trečiasis Lietuvos Statutas) with Vytis (Waykimas), 1588.gif",
-      "originalDimensions": "310x512"
+      "originalFile": "File:Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_(Waykimas),_1382.jpg",
+      "originalDimensions": "945x841"
     },
     {
       "key": "category-paprociai",
@@ -92,13 +92,13 @@
     {
       "key": "category-posakiai",
       "category": "Posakiai",
-      "title": "M. Mažvydo autografas",
-      "author": "Martynas Mažvydas",
-      "year": "16th century",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:M._Ma%C5%BEvydo_autografas.jpg",
+      "title": "Oldest surviving writing in Lithuanian language",
+      "author": "Unknown author",
+      "year": "1503-1515",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oldest_surviving_writing_in_Lithuanian_language.jpg",
       "license": "Public domain",
-      "originalFile": "File:M. Mažvydo autografas.jpg",
-      "originalDimensions": "504x151"
+      "originalFile": "File:Oldest_surviving_writing_in_Lithuanian_language.jpg",
+      "originalDimensions": "600x750"
     },
     {
       "key": "category-zodynas",
@@ -114,13 +114,13 @@
     {
       "key": "category-saltiniai",
       "category": "Šaltiniai",
-      "title": "History of Lithuania by Simonas Daukantas",
-      "author": "Simonas Daukantas",
-      "year": "19th century work / scan uploaded 2007",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:History_of_Lithuania_by_Simonas_Daukantas.jpg",
+      "title": "First Statute of Lithuania (1529)",
+      "author": "Unknown author",
+      "year": "1529 original / 16th century manuscript copy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piersy_statut_VKL_-_first_Statut_of_the_Grand_Duchy_of_Lithuania,_Ruthenia_and_Samogitia.png",
       "license": "Public domain",
-      "originalFile": "File:History of Lithuania by Simonas Daukantas.jpg",
-      "originalDimensions": "370x536"
+      "originalFile": "File:Piersy_statut_VKL_-_first_Statut_of_the_Grand_Duchy_of_Lithuania,_Ruthenia_and_Samogitia.png",
+      "originalDimensions": "913x1080"
     },
     {
       "key": "category-laikotarpiai",

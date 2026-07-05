@@ -87,7 +87,7 @@ const categories: Category[] = [
     slug: "objektai/daiktai" as FullSlug,
     description: "Dokumentai, ženklai, ginklai, paminklai ir artefaktai.",
     imageKey: "category-daiktai",
-    imageAlt: "Trečiojo Lietuvos Statuto puslapis su Vyčiu",
+    imageAlt: "Jogailos 1382 m. antspaudas su Vyčiu",
   },
   {
     type: "paprotys",
@@ -103,7 +103,7 @@ const categories: Category[] = [
     slug: "objektai/posakiai" as FullSlug,
     description: "Citatos, formulės ir įsimintini pasakymai.",
     imageKey: "category-posakiai",
-    imageAlt: "Martyno Mažvydo autografo fragmentas",
+    imageAlt: "Seniausio išlikusio lietuviško įrašo fragmentas",
   },
   {
     type: "zodyno_irasas",
@@ -119,7 +119,7 @@ const categories: Category[] = [
     slug: "objektai/saltiniai" as FullSlug,
     description: "Knygos, kronikos ir kiti tekstai, iš kurių renkama bazė.",
     imageKey: "category-saltiniai",
-    imageAlt: "Simono Daukanto Lietuvos istorijos rankraščio puslapis",
+    imageAlt: "Pirmojo Lietuvos Statuto rankraščio puslapis",
   },
 ]
 
