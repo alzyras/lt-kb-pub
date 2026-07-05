@@ -6,6 +6,29 @@
   background: color-mix(in srgb, var(--light) 94%, var(--secondary) 6%);
 }
 
+.object-media-gallery-page {
+  box-sizing: border-box;
+  width: min(100% - 2rem, 1280px);
+  min-height: calc(100vh - 3rem);
+  margin: 1.5rem auto;
+  padding: clamp(1rem, 3vw, 2rem);
+  border-radius: 0;
+  background:
+    linear-gradient(135deg, color-mix(in srgb, var(--light) 90%, var(--secondary) 10%), var(--light) 58%),
+    var(--light);
+}
+
+.object-media-backlink {
+  margin: 0 0 1rem;
+}
+
+.object-media-backlink a {
+  color: var(--secondary);
+  font-weight: 800;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.18em;
+}
+
 .object-media-gallery-header {
   display: flex;
   justify-content: space-between;
@@ -24,11 +47,18 @@
   text-transform: uppercase;
 }
 
+.object-media-gallery-header h1,
 .object-media-gallery-header h2,
 .object-media-primary-copy h3 {
   margin: 0;
   font-size: 1.35rem;
   line-height: 1.1;
+}
+
+.object-media-gallery-header h1 {
+  color: var(--secondary);
+  font-size: clamp(2.6rem, 7vw, 5.2rem);
+  letter-spacing: -0.04em;
 }
 
 .object-media-lead,

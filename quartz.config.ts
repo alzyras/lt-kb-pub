@@ -100,6 +100,7 @@ const config: QuartzConfig = {
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.ObjectPrimaryMedia(),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
@@ -111,6 +112,7 @@ const config: QuartzConfig = {
       Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.GraphExplorerPage(),
+      Plugin.ObjectGalleryPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
