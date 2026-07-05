@@ -95,6 +95,20 @@ const categories: Category[] = [
 
 const typeLabels = new Map(categories.map((category) => [category.type, category.label]))
 
+const objectSearchTypes = [
+  { value: "all", label: "Visi" },
+  { value: "asmenys", label: "Asmenys" },
+  { value: "autoriai", label: "Autoriai" },
+  { value: "ivykiai", label: "Įvykiai" },
+  { value: "vietos", label: "Vietos" },
+  { value: "grupes", label: "Grupės" },
+  { value: "daiktai", label: "Daiktai" },
+  { value: "paprociai", label: "Papročiai" },
+  { value: "posakiai", label: "Posakiai" },
+  { value: "zodynas", label: "Žodynas" },
+  { value: "saltiniai", label: "Šaltiniai" },
+]
+
 function pageType(page: QuartzPluginData): string {
   return String(page.frontmatter?.tipas ?? "").trim()
 }
@@ -276,14 +290,40 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
         <div class="collection-hero-image" aria-hidden="true" />
         <div class="collection-hero-content">
           <h1 id="collection-hero-title">Kolekcija</h1>
-          <button
+          <form
             class="collection-hero-search"
-            type="button"
-            data-collection-search-trigger="true"
+            role="search"
+            action={resolveRelative(currentSlug, "objektai/index" as FullSlug)}
+            data-collection-object-search="true"
           >
-            <span>Search</span>
-            <span aria-hidden="true">→</span>
-          </button>
+            <label class="sr-only" for="collection-object-type">
+              Objekto tipas
+            </label>
+            <select id="collection-object-type" name="type" data-collection-search-type>
+              {objectSearchTypes.map((type) => (
+                <option value={type.value}>{type.label}</option>
+              ))}
+            </select>
+            <label class="sr-only" for="collection-object-query">
+              Ieškoti kolekcijoje
+            </label>
+            <input
+              id="collection-object-query"
+              name="q"
+              type="search"
+              autocomplete="off"
+              placeholder="Ieškoti objekto, asmens, vietos ar sąvokos"
+              data-collection-search-input
+            />
+            <button type="submit" aria-label="Ieškoti kolekcijoje">
+              <span aria-hidden="true">→</span>
+            </button>
+            <div
+              class="collection-search-suggestions"
+              data-collection-search-suggestions
+              hidden
+            />
+          </form>
         </div>
       </section>
 

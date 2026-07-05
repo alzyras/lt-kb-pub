@@ -64,7 +64,7 @@ function compareObjectListItems(mode: string, a: HTMLLIElement, b: HTMLLIElement
 }
 
 function sortObjectList(control: HTMLElement) {
-  const mode = control.querySelector<HTMLSelectElement>("[data-object-list-sort]")?.value ?? "current"
+  const mode = control.querySelector<HTMLSelectElement>("[data-object-list-sort]")?.value ?? "claims-desc"
   const lists = objectListControlRoot(control).querySelectorAll<HTMLUListElement>(
     'ul.section-ul[data-object-list-sortable="true"]',
   )

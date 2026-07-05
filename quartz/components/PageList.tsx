@@ -231,7 +231,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     list = list.slice(0, limit)
   }
 
-  const prepared = list.map((page, originalIndex) => {
+  let prepared = list.map((page, originalIndex) => {
     const tipas = page.frontmatter?.tipas
     const isTargetType = isPeriodFilterTargetType(tipas)
     const range =
@@ -248,6 +248,18 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
   const showPeriodFilter = prepared.some(({ isTargetType }) => isTargetType)
   const showObjectListControls =
     isObjectTypeList(fileData.slug) && prepared.some(({ page }) => isObjectPage(page))
+  if (showObjectListControls) {
+    prepared = [...prepared].sort((a, b) => {
+      const claimDiff = claimCountForPage(b.page) - claimCountForPage(a.page)
+      if (claimDiff !== 0) return claimDiff
+
+      const titleDiff = normalizeSortTitle(a.page.frontmatter?.title).localeCompare(
+        normalizeSortTitle(b.page.frontmatter?.title),
+        "lt",
+      )
+      return titleDiff === 0 ? a.originalIndex - b.originalIndex : titleDiff
+    })
+  }
   const objectListTagOptions = showObjectListControls
     ? [
         ...new Set(
@@ -380,7 +392,9 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
               <option value="current">Dabartinė</option>
               <option value="title-asc">A-Z</option>
               <option value="title-desc">Z-A</option>
-              <option value="claims-desc">Teiginiai ↓</option>
+              <option value="claims-desc" selected>
+                Teiginiai ↓
+              </option>
               <option value="claims-asc">Teiginiai ↑</option>
             </select>
           </div>
