@@ -199,10 +199,16 @@ function setupCollectionObjectSearch() {
       currentItems = []
       activeIndex = -1
       input.removeAttribute("aria-activedescendant")
+      input.setAttribute("aria-expanded", "false")
     }
 
     const renderSuggestions = async () => {
       const query = normalizeCollectionSearchText(input.value)
+      if (!query) {
+        closeSuggestions()
+        return
+      }
+
       const typeValue = typeSelect.value
       const items = await loadCollectionObjectItems()
       const matches = filterCollectionObjectItems(items, query, typeValue)
@@ -217,9 +223,7 @@ function setupCollectionObjectSearch() {
 
       const status = document.createElement("div")
       status.className = "collection-search-status"
-      status.textContent = query
-        ? `${collectionFormatNumber(matches.length)} iš ${collectionFormatNumber(scopedTotal)} atitikm.`
-        : `${collectionFormatNumber(scopedTotal)} objektai: ${selectedType.label}`
+      status.textContent = `${collectionFormatNumber(matches.length)} iš ${collectionFormatNumber(scopedTotal)} atitikm.`
       suggestions.append(status)
 
       if (matches.length === 0) {
@@ -261,14 +265,17 @@ function setupCollectionObjectSearch() {
       })
 
       suggestions.hidden = false
-      setActive(matches.length > 0 && query ? 0 : -1)
+      input.setAttribute("aria-expanded", "true")
+      setActive(matches.length > 0 ? 0 : -1)
     }
 
     const onInput = () => {
       void renderSuggestions()
     }
     const onFocus = () => {
-      void renderSuggestions()
+      if (normalizeCollectionSearchText(input.value)) {
+        void renderSuggestions()
+      }
     }
     const onDocumentPointerDown = (event: PointerEvent) => {
       if (!form.contains(event.target as Node)) {
@@ -277,6 +284,9 @@ function setupCollectionObjectSearch() {
     }
     const onKeyDown = (event: KeyboardEvent) => {
       if (suggestions.hidden && (event.key === "ArrowDown" || event.key === "ArrowUp")) {
+        if (!normalizeCollectionSearchText(input.value)) {
+          return
+        }
         event.preventDefault()
         void renderSuggestions()
         return
@@ -298,15 +308,18 @@ function setupCollectionObjectSearch() {
     const onSubmit = async (event: SubmitEvent) => {
       event.preventDefault()
       const query = normalizeCollectionSearchText(input.value)
-      const items = await loadCollectionObjectItems()
-      const matches = filterCollectionObjectItems(items, query, typeSelect.value)
+      const selectedType = collectionObjectTypeByValue.get(typeSelect.value) ?? collectionObjectTypeByValue.get("all")!
 
-      if (matches[0]) {
-        navigateToCollectionObject(matches[0].slug)
-        return
+      if (query) {
+        const items = await loadCollectionObjectItems()
+        const matches = filterCollectionObjectItems(items, query, typeSelect.value)
+
+        if (matches[0]) {
+          navigateToCollectionObject(matches[0].slug)
+          return
+        }
       }
 
-      const selectedType = collectionObjectTypeByValue.get(typeSelect.value) ?? collectionObjectTypeByValue.get("all")!
       const destination =
         selectedType.value === "all" ? "/objektai/" : `/${selectedType.prefix!.replace(/\/$/, "")}/`
       const runtime = window as CollectionSearchRuntime
@@ -316,7 +329,7 @@ function setupCollectionObjectSearch() {
     }
 
     input.setAttribute("role", "combobox")
-    input.setAttribute("aria-expanded", "true")
+    input.setAttribute("aria-expanded", "false")
     input.setAttribute("aria-autocomplete", "list")
     suggestions.setAttribute("role", "listbox")
 

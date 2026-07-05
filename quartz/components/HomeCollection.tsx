@@ -286,10 +286,9 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
 
   return (
     <div class="collection-home">
-      <section class="collection-hero" aria-labelledby="collection-hero-title">
+      <section class="collection-hero" aria-label="Objektų paieška">
         <div class="collection-hero-image" aria-hidden="true" />
         <div class="collection-hero-content">
-          <h1 id="collection-hero-title">Kolekcija</h1>
           <form
             class="collection-hero-search"
             role="search"

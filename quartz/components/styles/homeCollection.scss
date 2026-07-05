@@ -51,9 +51,9 @@
   display: grid;
   width: min(100% - clamp(2rem, 11vw, 20rem), 845px);
   min-height: inherit;
-  align-content: end;
+  align-content: center;
   margin: 0 auto;
-  padding: clamp(9rem, 14vw, 14rem) 0 clamp(3.2rem, 5vw, 5rem);
+  padding: clamp(4rem, 8vw, 7rem) 0;
 }
 
 .collection-hero h1 {
@@ -743,10 +743,6 @@
 
   .collection-hero-content {
     width: calc(100% - 2rem);
-  }
-
-  .collection-hero h1 {
-    font-size: 3.65rem;
   }
 
   .collection-hero-search {
