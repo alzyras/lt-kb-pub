@@ -226,16 +226,27 @@ header:has(.bm-header-shell) > .options-panel-root .options-panel-popover {
   z-index: 20;
   display: grid;
   width: min(22rem, calc(100vw - 2rem));
+  max-height: min(32rem, calc(100vh - 8rem));
   grid-template-columns: repeat(2, minmax(0, 1fr));
   border: 1px solid #fff;
   background: #000;
   box-shadow: 0 1rem 2.8rem rgba(0, 0, 0, 0.32);
   opacity: 0;
+  overflow-y: auto;
   pointer-events: none;
   transform: translate(50%, 0.55rem);
   transition:
     opacity 160ms ease,
     transform 160ms ease;
+}
+
+.bm-header-dropdown--topics {
+  width: min(42rem, calc(100vw - 2rem));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.bm-header-dropdown--periods {
+  width: min(25rem, calc(100vw - 2rem));
 }
 
 .bm-header-dropdown a {
@@ -302,6 +313,7 @@ header:has(.bm-header-shell) > .options-panel-root .options-panel-popover {
     right: 1rem;
     left: 1rem;
     width: auto;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     max-height: min(26rem, 70vh);
     overflow-y: auto;
     transform: translateY(0.55rem);

@@ -123,6 +123,22 @@ body:not([data-slug="index"]) .page-header .period-chip {
   max-width: 32rem;
 }
 
+.page-header > .popover-hint:has(.object-map-cta):has(.article-title--long) {
+  --object-map-preview-width: min(39rem, 52%);
+  --object-map-preview-height: clamp(16rem, 21vw, 19rem);
+}
+
+.page-header > .popover-hint:has(.object-map-cta):has(.article-title--very-long) {
+  --object-map-preview-width: min(36rem, 48%);
+  --object-map-preview-height: clamp(14rem, 18vw, 17rem);
+  min-height: calc(var(--object-map-preview-height) + 2.5rem);
+}
+
+.page-header > .popover-hint:has(.object-map-cta) .article-title--long,
+.page-header > .popover-hint:has(.object-map-cta) .article-title--very-long {
+  max-width: min(100%, 36rem);
+}
+
 .object-map-cta {
   box-sizing: border-box;
   display: contents;
@@ -356,6 +372,18 @@ article.popover-hint,
   font-weight: 900;
   line-height: 1;
   letter-spacing: 0;
+}
+
+.article-title--long {
+  max-width: 28ch;
+  font-size: clamp(2.55rem, 3.65vw, 3.75rem);
+  line-height: 0.98;
+}
+
+.article-title--very-long {
+  max-width: 30ch;
+  font-size: clamp(2.15rem, 3.1vw, 3.15rem);
+  line-height: 0.97;
 }
 
 .page-header .content-meta {
@@ -984,6 +1012,12 @@ body.graph-explorer-active .page {
   .article-title {
     font-size: clamp(2.6rem, 11vw, 3.5rem);
     max-width: 100%;
+    line-height: 0.98;
+  }
+
+  .article-title--long,
+  .article-title--very-long {
+    font-size: clamp(2rem, 8.8vw, 2.8rem);
     line-height: 0.98;
   }
 

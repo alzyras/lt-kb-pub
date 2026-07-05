@@ -4,7 +4,14 @@ import { classNames } from "../util/lang"
 const ArticleTitle: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const title = fileData.frontmatter?.title
   if (title) {
-    return <h1 class={classNames(displayClass, "article-title")}>{title}</h1>
+    const normalizedTitle = String(title).trim()
+    const titleLengthClass =
+      normalizedTitle.length >= 58
+        ? "article-title--very-long"
+        : normalizedTitle.length >= 34
+          ? "article-title--long"
+          : ""
+    return <h1 class={classNames(displayClass, "article-title", titleLengthClass)}>{title}</h1>
   } else {
     return null
   }
