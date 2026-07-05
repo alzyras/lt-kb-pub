@@ -79,6 +79,7 @@
   position: relative;
   z-index: 1;
   display: grid;
+  gap: clamp(1.5rem, 3vw, 2.25rem);
   width: min(100% - clamp(2rem, 11vw, 20rem), 845px);
   min-height: inherit;
   align-content: center;
@@ -94,6 +95,139 @@
   font-weight: 900;
   letter-spacing: 0;
   line-height: 0.98;
+}
+
+.collection-hero-spotlight {
+  display: grid;
+  gap: 0.72rem;
+  max-width: 52rem;
+  color: #fff;
+}
+
+.collection-spotlight-kicker {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem 0.85rem;
+  align-items: center;
+  margin: 0;
+  color: var(--collection-red);
+  font-family: var(--codeFont);
+  font-size: 0.74rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.collection-spotlight-kicker span:last-child {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.collection-spotlight-object {
+  width: max-content;
+  max-width: 100%;
+  color: #fff;
+  text-decoration: none;
+}
+
+.collection-spotlight-object {
+  font-size: clamp(1.05rem, 1.8vw, 1.35rem);
+  font-weight: 850;
+  line-height: 1.08;
+}
+
+.collection-spotlight-claim {
+  position: relative;
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  min-height: 5.4rem;
+  color: #fff;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.55rem, 3vw, 2.45rem);
+  font-weight: 500;
+  line-height: 1.08;
+  overflow-wrap: anywhere;
+  text-wrap: pretty;
+}
+
+.collection-spotlight-claim:hover,
+.collection-spotlight-claim:focus-visible,
+.collection-spotlight-object:hover,
+.collection-spotlight-object:focus-visible {
+  color: #fff;
+  text-decoration: underline;
+  text-decoration-color: var(--collection-red);
+  text-decoration-thickness: 3px;
+  text-underline-offset: 0.14em;
+  outline: none;
+}
+
+.collection-spotlight-claim.is-typing::after {
+  content: "";
+  display: inline-block;
+  width: 0.14em;
+  height: 0.9em;
+  margin-left: 0.12em;
+  background: var(--collection-red);
+  vertical-align: -0.08em;
+  animation: collection-spotlight-caret 760ms steps(2, jump-none) infinite;
+}
+
+.collection-spotlight-source {
+  max-width: 42rem;
+  min-height: 1rem;
+  margin: 0;
+  color: rgba(255, 255, 255, 0.74);
+  font-family: var(--codeFont);
+  font-size: 0.73rem;
+  font-weight: 850;
+  letter-spacing: 0.05em;
+  line-height: 1.35;
+  text-transform: uppercase;
+}
+
+.collection-spotlight-source:not([hidden])::before {
+  content: "Šaltinis: ";
+  color: var(--collection-red);
+}
+
+.collection-spotlight-dots {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.48rem;
+  align-items: center;
+  min-height: 1.2rem;
+  padding-top: 0.35rem;
+}
+
+.collection-spotlight-dot {
+  width: 0.52rem;
+  height: 0.52rem;
+  padding: 0;
+  border: 1px solid rgba(255, 255, 255, 0.78);
+  border-radius: 999px;
+  background: transparent;
+  cursor: pointer;
+  transition:
+    background 160ms ease,
+    border-color 160ms ease,
+    transform 160ms ease;
+}
+
+.collection-spotlight-dot:hover,
+.collection-spotlight-dot:focus-visible,
+.collection-spotlight-dot.is-active {
+  border-color: var(--collection-red);
+  background: var(--collection-red);
+  outline: none;
+  transform: scale(1.25);
+}
+
+@keyframes collection-spotlight-caret {
+  50% {
+    opacity: 0;
+  }
 }
 
 .collection-hero-search {
@@ -783,6 +917,21 @@
 
   .collection-hero-content {
     width: calc(100% - 2rem);
+    padding: 3.2rem 0;
+  }
+
+  .collection-hero-spotlight {
+    gap: 0.62rem;
+  }
+
+  .collection-spotlight-claim {
+    min-height: 6.4rem;
+    font-size: clamp(1.34rem, 7vw, 1.9rem);
+    line-height: 1.12;
+  }
+
+  .collection-spotlight-source {
+    font-size: 0.66rem;
   }
 
   .collection-hero-search {

@@ -26,6 +26,26 @@ type CollectionObjectItem = {
   originalIndex: number
 }
 
+type CollectionSpotlightClaim = {
+  id: string
+  text: string
+  source?: string
+  author?: string
+}
+
+type CollectionSpotlightObject = {
+  title: string
+  slug: string
+  typeLabel: string
+  claimCount: number
+  claims: CollectionSpotlightClaim[]
+}
+
+type CollectionSpotlightSelection = {
+  object: CollectionSpotlightObject
+  claims: CollectionSpotlightClaim[]
+}
+
 type CollectionSearchRuntime = Window & {
   loadContentMeta?: () => Promise<ContentMetaIndex>
   spaNavigate?: (url: URL) => void
@@ -50,6 +70,7 @@ const collectionObjectTypeByValue = new Map(
 )
 
 let collectionObjectItemsPromise: Promise<CollectionObjectItem[]> | undefined
+let collectionSpotlightSelection: CollectionSpotlightSelection | undefined
 
 function normalizeCollectionSearchText(value: string): string {
   return value
@@ -163,6 +184,249 @@ function navigateToCollectionObject(slug: string) {
   const target = new URL(collectionObjectHref(slug), window.location.origin)
   const runtime = window as CollectionSearchRuntime
   ;(runtime.spaNavigate ?? ((url: URL) => window.location.assign(url.href)))(target)
+}
+
+function collectionRandomIndex(length: number): number {
+  if (length <= 1) {
+    return 0
+  }
+
+  const cryptoApi = window.crypto
+  if (cryptoApi?.getRandomValues) {
+    const values = new Uint32Array(1)
+    cryptoApi.getRandomValues(values)
+    return values[0] % length
+  }
+
+  return Math.floor(Math.random() * length)
+}
+
+function collectionShuffle<T>(items: T[]): T[] {
+  const copy = [...items]
+  for (let index = copy.length - 1; index > 0; index -= 1) {
+    const swapIndex = collectionRandomIndex(index + 1)
+    ;[copy[index], copy[swapIndex]] = [copy[swapIndex], copy[index]]
+  }
+  return copy
+}
+
+function collectionClaimHref(object: CollectionSpotlightObject, claim: CollectionSpotlightClaim): string {
+  return `${collectionObjectHref(object.slug)}#claim-${claim.id}`
+}
+
+function parseCollectionSpotlightData(host: HTMLElement): CollectionSpotlightObject[] {
+  const data = host.querySelector<HTMLScriptElement>("[data-collection-spotlight-data]")
+  if (!data?.textContent) {
+    return []
+  }
+
+  try {
+    const parsed = JSON.parse(data.textContent) as CollectionSpotlightObject[]
+    if (!Array.isArray(parsed)) {
+      return []
+    }
+
+    return parsed.filter(
+      (object) =>
+        object &&
+        typeof object.title === "string" &&
+        typeof object.slug === "string" &&
+        Array.isArray(object.claims) &&
+        object.claims.length >= 10,
+    )
+  } catch {
+    return []
+  }
+}
+
+function collectionSpotlightSourceText(claim: CollectionSpotlightClaim): string {
+  const source = String(claim.source ?? "").trim()
+  const author = String(claim.author ?? "").trim()
+
+  if (author && source) {
+    return `${author} / ${source}`
+  }
+  if (source) {
+    return source
+  }
+  if (author) {
+    return author
+  }
+  return ""
+}
+
+function pickCollectionSpotlight(host: HTMLElement): CollectionSpotlightSelection | undefined {
+  if (collectionSpotlightSelection) {
+    return collectionSpotlightSelection
+  }
+
+  const objects = parseCollectionSpotlightData(host)
+  const object = objects[collectionRandomIndex(objects.length)]
+  if (!object) {
+    return undefined
+  }
+
+  const claims = collectionShuffle(object.claims).slice(0, 10)
+  if (claims.length === 0) {
+    return undefined
+  }
+
+  collectionSpotlightSelection = { object, claims }
+  return collectionSpotlightSelection
+}
+
+function setupCollectionClaimSpotlight() {
+  for (const host of document.querySelectorAll<HTMLElement>("[data-collection-claim-spotlight]")) {
+    if (host.dataset.collectionClaimSpotlightBound === "true") {
+      continue
+    }
+    host.dataset.collectionClaimSpotlightBound = "true"
+
+    const selection = pickCollectionSpotlight(host)
+    const objectLink = host.querySelector<HTMLAnchorElement>("[data-collection-spotlight-object]")
+    const claimLink = host.querySelector<HTMLAnchorElement>("[data-collection-spotlight-claim]")
+    const source = host.querySelector<HTMLElement>("[data-collection-spotlight-source]")
+    const dots = host.querySelector<HTMLElement>("[data-collection-spotlight-dots]")
+    const type = host.querySelector<HTMLElement>("[data-collection-spotlight-type]")
+    const count = host.querySelector<HTMLElement>("[data-collection-spotlight-count]")
+
+    if (!selection || !objectLink || !claimLink || !source || !dots || !type || !count) {
+      host.hidden = true
+      continue
+    }
+
+    const activeSelection = selection
+    const activeObjectLink = objectLink
+    const activeClaimLink = claimLink
+    const activeSource = source
+    const activeDots = dots
+    const activeType = type
+    const activeCount = count
+    const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)")
+    const typingDelay = 18
+    const cycleDelay = 7600
+    let activeIndex = 0
+    let typingTimer: number | undefined
+    let cycleTimer: number | undefined
+    let paused = false
+
+    const clearTimers = () => {
+      if (typingTimer !== undefined) {
+        window.clearTimeout(typingTimer)
+        typingTimer = undefined
+      }
+      if (cycleTimer !== undefined) {
+        window.clearTimeout(cycleTimer)
+        cycleTimer = undefined
+      }
+    }
+
+    const scheduleNext = () => {
+      if (paused || document.hidden) {
+        return
+      }
+      if (cycleTimer !== undefined) {
+        window.clearTimeout(cycleTimer)
+      }
+      cycleTimer = window.setTimeout(() => {
+        showClaim((activeIndex + 1) % selection.claims.length)
+      }, cycleDelay)
+    }
+
+    const typeText = (text: string) => {
+      activeClaimLink.textContent = ""
+      activeClaimLink.classList.add("is-typing")
+
+      if (reducedMotion.matches) {
+        activeClaimLink.textContent = text
+        activeClaimLink.classList.remove("is-typing")
+        scheduleNext()
+        return
+      }
+
+      const chars = Array.from(text)
+      let index = 0
+      const tick = () => {
+        index += chars[index]?.match(/\s/) ? 3 : 2
+        activeClaimLink.textContent = chars.slice(0, index).join("")
+        if (index < chars.length) {
+          typingTimer = window.setTimeout(tick, typingDelay)
+          return
+        }
+        activeClaimLink.classList.remove("is-typing")
+        scheduleNext()
+      }
+      tick()
+    }
+
+    function showClaim(nextIndex: number) {
+      clearTimers()
+      activeIndex = (nextIndex + activeSelection.claims.length) % activeSelection.claims.length
+      const claim = activeSelection.claims[activeIndex]
+      const href = collectionClaimHref(activeSelection.object, claim)
+
+      activeObjectLink.textContent = activeSelection.object.title
+      activeObjectLink.href = collectionObjectHref(activeSelection.object.slug)
+      activeClaimLink.href = href
+      activeSource.textContent = collectionSpotlightSourceText(claim)
+      activeSource.hidden = !activeSource.textContent
+      activeType.textContent = activeSelection.object.typeLabel
+      activeCount.textContent = `${collectionFormatNumber(activeSelection.object.claimCount)} teig.`
+
+      activeDots.querySelectorAll<HTMLButtonElement>("button").forEach((dot, index) => {
+        const active = index === activeIndex
+        dot.classList.toggle("is-active", active)
+        dot.setAttribute("aria-current", active ? "true" : "false")
+      })
+
+      typeText(claim.text)
+    }
+
+    activeDots.replaceChildren()
+    activeSelection.claims.forEach((_, index) => {
+      const dot = document.createElement("button")
+      dot.type = "button"
+      dot.className = "collection-spotlight-dot"
+      dot.setAttribute("aria-label", `Rodyti ${index + 1} teiginį`)
+      dot.addEventListener("click", () => showClaim(index))
+      activeDots.append(dot)
+    })
+
+    const pause = () => {
+      paused = true
+      if (cycleTimer !== undefined) {
+        window.clearTimeout(cycleTimer)
+        cycleTimer = undefined
+      }
+    }
+    const resume = () => {
+      paused = false
+      scheduleNext()
+    }
+    const onVisibilityChange = () => {
+      if (document.hidden) {
+        pause()
+      } else {
+        resume()
+      }
+    }
+
+    host.addEventListener("pointerenter", pause)
+    host.addEventListener("pointerleave", resume)
+    host.addEventListener("focusin", pause)
+    host.addEventListener("focusout", resume)
+    document.addEventListener("visibilitychange", onVisibilityChange)
+    window.addCleanup(() => {
+      clearTimers()
+      host.removeEventListener("pointerenter", pause)
+      host.removeEventListener("pointerleave", resume)
+      host.removeEventListener("focusin", pause)
+      host.removeEventListener("focusout", resume)
+      document.removeEventListener("visibilitychange", onVisibilityChange)
+    })
+
+    showClaim(0)
+  }
 }
 
 function setupCollectionObjectSearch() {
@@ -392,6 +656,7 @@ function setupCollectionCopyLink() {
 }
 
 document.addEventListener("nav", () => {
+  setupCollectionClaimSpotlight()
   setupCollectionObjectSearch()
   setupCollectionSearch()
   setupCollectionCopyLink()

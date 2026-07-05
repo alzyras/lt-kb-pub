@@ -25,6 +25,21 @@ type ObjectCard = {
   summary: string
 }
 
+type SpotlightClaim = {
+  id: string
+  text: string
+  source?: string
+  author?: string
+}
+
+type SpotlightObject = {
+  title: string
+  slug: FullSlug
+  typeLabel: string
+  claimCount: number
+  claims: SpotlightClaim[]
+}
+
 type BrowseLink = {
   title: string
   slug: FullSlug
@@ -187,6 +202,146 @@ function trimSentence(text: string, limit: number): string {
 
 function pageTitle(page: QuartzPluginData): string {
   return String(page.frontmatter?.title ?? page.frontmatter?.pavadinimas ?? page.slug ?? "")
+}
+
+function plainTitle(title: string): string {
+  return title.replace(/\s*\([^)]*\)\s*$/g, "").trim() || title
+}
+
+function normalizeYamlInline(value: string | undefined): string {
+  const trimmed = String(value ?? "").trim()
+  if (!trimmed) {
+    return ""
+  }
+
+  if (
+    (trimmed.startsWith("'") && trimmed.endsWith("'")) ||
+    (trimmed.startsWith('"') && trimmed.endsWith('"'))
+  ) {
+    return trimmed.slice(1, -1).replace(/''/g, "'").replace(/\\"/g, '"').trim()
+  }
+
+  return trimmed.trim()
+}
+
+function fieldValue(block: string, field: string): string {
+  const match = block.match(new RegExp(`(?:^|\\n)\\s*${field}:\\s*([^\\n]+)`))
+  return normalizeYamlInline(match?.[1])
+}
+
+function sectionMarkdown(markdown: string, heading: string): string {
+  const escaped = heading.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+  const match = new RegExp(`^##\\s+${escaped}\\s*$`, "m").exec(markdown)
+  if (!match) {
+    return ""
+  }
+
+  const start = match.index + match[0].length
+  const rest = markdown.slice(start)
+  const next = rest.search(/^##\s+/m)
+  return (next >= 0 ? rest.slice(0, next) : rest).trim()
+}
+
+function citationSources(markdown: string): Map<string, { source?: string; author?: string }> {
+  const section = sectionMarkdown(markdown, "Reikšmingi paminėjimai")
+  const citations = new Map<string, { source?: string; author?: string }>()
+  const citationRegex = /(?:^|\n)-\s+(c-\d+)\s*\n([\s\S]*?)(?=\n-\s+c-\d+\s*\n|\s*$)/g
+
+  for (const match of section.matchAll(citationRegex)) {
+    const id = match[1]
+    const block = match[2] ?? ""
+    const source = fieldValue(block, "šaltinis") || fieldValue(block, "saltinis")
+    const author = fieldValue(block, "autorius")
+
+    citations.set(id, {
+      source: source || undefined,
+      author: author || undefined,
+    })
+  }
+
+  return citations
+}
+
+function claimSupportIds(block: string): string[] {
+  const match = block.match(/pagrindžia:\s*\n((?:\s+-\s+c-\d+\s*\n?)+)/)
+  if (!match) {
+    return []
+  }
+  return [...match[1].matchAll(/-\s+(c-\d+)/g)].map((support) => support[1])
+}
+
+function spotlightClaims(markdown: string): SpotlightClaim[] {
+  const claimsSection = sectionMarkdown(markdown, "Teiginiai")
+  const citations = citationSources(markdown)
+  const claimRegex =
+    /<a id="claim-(t-\d+)"><\/a>\s*\n-\s+t-\d+\s*\n([\s\S]*?)(?=\n<a id="claim-t-\d+"><\/a>|\n-\s+susijęs iš|\s*$)/g
+  const claims: SpotlightClaim[] = []
+  const seen = new Set<string>()
+
+  for (const match of claimsSection.matchAll(claimRegex)) {
+    const id = match[1]
+    const block = match[2] ?? ""
+    const text = fieldValue(block, "teiginys")
+    if (!id || !text || seen.has(text.toLocaleLowerCase("lt-LT"))) {
+      continue
+    }
+
+    const citation = claimSupportIds(block)
+      .map((supportId) => citations.get(supportId))
+      .find((entry) => entry?.source || entry?.author)
+
+    seen.add(text.toLocaleLowerCase("lt-LT"))
+    claims.push({
+      id,
+      text,
+      source: citation?.source,
+      author: citation?.author,
+    })
+  }
+
+  return claims
+}
+
+function claimPool(claims: SpotlightClaim[], limit: number): SpotlightClaim[] {
+  if (claims.length <= limit) {
+    return claims
+  }
+
+  return Array.from({ length: limit }, (_, index) => {
+    const claimIndex = Math.round((index * (claims.length - 1)) / (limit - 1))
+    return claims[claimIndex]
+  })
+}
+
+function spotlightObjects(allFiles: QuartzPluginData[]): SpotlightObject[] {
+  return allFiles
+    .filter(isObjectPage)
+    .map((page): SpotlightObject | undefined => {
+      const markdown = markdownFor(page)
+      const claimCount = collectClaimCount(markdown)
+      if (claimCount <= 30) {
+        return undefined
+      }
+
+      const claims = claimPool(spotlightClaims(markdown), 48)
+      if (claims.length < 10) {
+        return undefined
+      }
+
+      const type = pageType(page)
+      return {
+        title: plainTitle(pageTitle(page)),
+        slug: page.slug as FullSlug,
+        typeLabel: typeLabels.get(type) ?? type,
+        claimCount,
+        claims,
+      }
+    })
+    .filter((entry): entry is SpotlightObject => Boolean(entry))
+}
+
+function safeJsonPayload(value: unknown): string {
+  return JSON.stringify(value).replace(/</g, "\\u003c")
 }
 
 function objectCountText(count: number): string {
@@ -371,6 +526,7 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
   const highlights = topCards(cards, 6)
   const sources = sourceCards(cards, 4)
   const groups = browseGroups(allFiles, typeCounts)
+  const spotlight = spotlightObjects(allFiles)
   const objectTotal = [...typeCounts.values()].reduce((sum, count) => sum + count, 0)
   const claimTotal = cards.reduce((sum, card) => sum + card.claimCount, 0)
   const quoteTotal = cards.reduce((sum, card) => sum + card.quoteCount, 0)
@@ -389,6 +545,31 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
           1080,
         )}
         <div class="collection-hero-content">
+          {spotlight.length > 0 && (
+            <section
+              class="collection-hero-spotlight"
+              aria-live="polite"
+              data-collection-claim-spotlight="true"
+            >
+              <script
+                type="application/json"
+                data-collection-spotlight-data
+                dangerouslySetInnerHTML={{ __html: safeJsonPayload(spotlight) }}
+              />
+              <p class="collection-spotlight-kicker">
+                <span data-collection-spotlight-type>Objektas</span>
+                <span data-collection-spotlight-count />
+              </p>
+              <a class="collection-spotlight-object" href="#" data-collection-spotlight-object />
+              <a class="collection-spotlight-claim" href="#" data-collection-spotlight-claim />
+              <p class="collection-spotlight-source" data-collection-spotlight-source />
+              <div
+                class="collection-spotlight-dots"
+                aria-label="Teiginių pasirinkimas"
+                data-collection-spotlight-dots
+              />
+            </section>
+          )}
           <form
             class="collection-hero-search"
             role="search"
