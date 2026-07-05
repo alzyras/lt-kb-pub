@@ -11,6 +11,7 @@ import HomeRandomTeiginiai from "./HomeRandomTeiginiai"
 import HomeCollection from "./HomeCollection"
 import BMHeader from "./BMHeader"
 import ObjectMapCTA from "./ObjectMapCTA"
+import ObjectMediaGallery from "./ObjectMediaGallery"
 import Head from "./Head"
 import PageTitle from "./PageTitle"
 import ContentMeta from "./ContentMeta"
@@ -44,6 +45,7 @@ export {
   HomeCollection,
   BMHeader,
   ObjectMapCTA,
+  ObjectMediaGallery,
   Head,
   PageTitle,
   ContentMeta,

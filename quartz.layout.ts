@@ -33,6 +33,7 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ContentMeta({ showReadingTime: false }),
+    Component.ObjectMediaGallery(),
     Component.ObjectMapCTA(),
     Component.ConditionalRender({
       component: Component.HomeCollection(),
