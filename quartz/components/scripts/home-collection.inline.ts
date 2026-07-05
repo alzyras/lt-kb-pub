@@ -614,6 +614,86 @@ function setupCollectionObjectSearch() {
   }
 }
 
+function setupCollectionBrowseTabs() {
+  for (const host of document.querySelectorAll<HTMLElement>("[data-collection-browse-tabs]")) {
+    if (host.dataset.collectionBrowseTabsBound === "true") {
+      continue
+    }
+    host.dataset.collectionBrowseTabsBound = "true"
+
+    const tabs = [...host.querySelectorAll<HTMLButtonElement>("[data-collection-browse-tab]")]
+    const panels = [...host.querySelectorAll<HTMLElement>("[data-collection-browse-panel]")]
+
+    if (tabs.length === 0 || panels.length === 0) {
+      continue
+    }
+
+    const activate = (nextIndex: number, focus = false) => {
+      const activeIndex = Math.max(0, Math.min(nextIndex, tabs.length - 1))
+
+      tabs.forEach((tab, index) => {
+        const active = index === activeIndex
+        tab.setAttribute("aria-selected", active ? "true" : "false")
+        tab.tabIndex = active ? 0 : -1
+      })
+
+      panels.forEach((panel, index) => {
+        panel.hidden = index !== activeIndex
+      })
+
+      if (focus) {
+        tabs[activeIndex]?.focus()
+      }
+    }
+
+    const onClick = (event: MouseEvent) => {
+      const tab = (event.currentTarget as HTMLElement | null)?.closest<HTMLButtonElement>(
+        "[data-collection-browse-tab]",
+      )
+      if (!tab) {
+        return
+      }
+      activate(Number(tab.dataset.collectionBrowseTab ?? 0))
+    }
+
+    const onKeyDown = (event: KeyboardEvent) => {
+      const currentIndex = tabs.findIndex((tab) => tab === document.activeElement)
+      if (currentIndex < 0) {
+        return
+      }
+
+      if (event.key === "ArrowRight" || event.key === "ArrowDown") {
+        event.preventDefault()
+        activate((currentIndex + 1) % tabs.length, true)
+      } else if (event.key === "ArrowLeft" || event.key === "ArrowUp") {
+        event.preventDefault()
+        activate((currentIndex - 1 + tabs.length) % tabs.length, true)
+      } else if (event.key === "Home") {
+        event.preventDefault()
+        activate(0, true)
+      } else if (event.key === "End") {
+        event.preventDefault()
+        activate(tabs.length - 1, true)
+      }
+    }
+
+    tabs.forEach((tab) => {
+      tab.addEventListener("click", onClick)
+      tab.addEventListener("keydown", onKeyDown)
+    })
+
+    const selectedIndex = tabs.findIndex((tab) => tab.getAttribute("aria-selected") === "true")
+    activate(selectedIndex >= 0 ? selectedIndex : 0)
+
+    window.addCleanup(() => {
+      tabs.forEach((tab) => {
+        tab.removeEventListener("click", onClick)
+        tab.removeEventListener("keydown", onKeyDown)
+      })
+    })
+  }
+}
+
 function setupCollectionSearch() {
   for (const trigger of document.querySelectorAll<HTMLButtonElement>(
     "[data-collection-search-trigger]",
@@ -657,6 +737,7 @@ function setupCollectionCopyLink() {
 
 document.addEventListener("nav", () => {
   setupCollectionClaimSpotlight()
+  setupCollectionBrowseTabs()
   setupCollectionObjectSearch()
   setupCollectionSearch()
   setupCollectionCopyLink()

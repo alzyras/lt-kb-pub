@@ -427,13 +427,9 @@ function renderClaimsSection(
     const globalAttrs = globalId ? ` data-global-claim-id="${escapeHtml(globalId)}"` : ""
     const anchorAttr = anchorId ? ` id="${escapeHtml(anchorId)}"` : ""
     const claimPill = claimDeeplinkPill(entry.id, anchorId)
-    const advanced = claimAdvancedRows(entry, resolveIndex)
     const detailId = `claim-evidence-${entry.id}`
     const toggle = `<button class="claim-evidence-toggle-button" type="button" data-claim-toggle="true" aria-expanded="false" aria-controls="${escapeHtml(detailId)}"><span class="claim-evidence-toggle-icon" aria-hidden="true">▸</span><span class="sr-only">Rodyti citatas</span></button>`
-    const claimCell =
-      advanced.length > 0
-        ? `${toggle}${claimPill} ${markdownCell(claim)}<table class="advanced-evidence-line advanced-evidence-table" data-adv-key="claim_technical_fields"><tbody>${advanced.join("")}</tbody></table>`
-        : `${toggle}${claimPill} ${markdownCell(claim)}`
+    const claimCell = `${toggle}${claimPill} ${markdownCell(claim)}`
     out.push(
       `<tr${anchorAttr} data-claim-row="true" data-claim-id="${escapeHtml(entry.id)}"${globalAttrs} data-supporting-ids="${escapeHtml(refs.join("|"))}"><td>${claimCell}</td></tr>`,
       renderClaimEvidenceDetailRow(entry, detailId, refs, citationsById, resolveIndex),
@@ -590,14 +586,20 @@ function renderClaimEvidenceDetailRow(
   citationsById: CitationMap,
   resolveIndex: SlugResolveIndex,
 ): string {
+  const claimTechnicalRows = claimAdvancedRows(claimEntry, resolveIndex)
+  const claimTechnicalHtml =
+    claimTechnicalRows.length > 0
+      ? `<section class="claim-technical-audit advanced-evidence-line" data-adv-key="claim_technical_fields"><h4>Teiginio techniniai duomenys</h4><table class="advanced-evidence-table"><tbody>${claimTechnicalRows.join("")}</tbody></table></section>`
+      : ""
   const cards = refs
     .map((ref) => citationsById.get(normalizeEvidenceId(ref)))
     .filter((entry): entry is EvidenceEntry => Boolean(entry))
     .map((entry) => renderCitationCard(claimEntry, entry, resolveIndex))
-  const content =
+  const citationContent =
     cards.length > 0
       ? cards.join("")
       : `<p class="claim-citation-missing">Citata nerasta.</p>`
+  const content = `${claimTechnicalHtml}${citationContent}`
   return `<tr class="claim-evidence-detail-row" id="${escapeHtml(detailId)}" data-claim-detail="${escapeHtml(claimEntry.id)}" hidden><td colspan="1"><div class="claim-evidence-detail">${content}</div></td></tr>`
 }
 

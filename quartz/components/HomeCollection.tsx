@@ -49,6 +49,7 @@ type BrowseLink = {
 }
 
 type BrowseGroup = {
+  kind: "objects" | "topics" | "periods"
   label: string
   description: string
   links: BrowseLink[]
@@ -450,18 +451,19 @@ function imagePicture(
 function largestHubLinks(
   allFiles: QuartzPluginData[],
   prefix: string,
-  limit: number,
+  limit?: number,
   imageKey?: string,
   imageAlt?: string,
 ): BrowseLink[] {
-  return allFiles
+  const links = allFiles
     .filter((page) => String(page.slug ?? "").startsWith(prefix) && pageTitle(page))
     .map((page) => ({ page, count: hubObjectCount(page) }))
     .sort(
       (a, b) =>
         b.count - a.count || pageTitle(a.page).localeCompare(pageTitle(b.page), "lt"),
     )
-    .slice(0, limit)
+
+  return (typeof limit === "number" ? links.slice(0, limit) : links)
     .map(({ page, count }) => ({
       ...linkFromPage(page, objectCountText(count)),
       imageKey,
@@ -473,8 +475,9 @@ function browseGroups(
   allFiles: QuartzPluginData[],
   typeCounts: Map<string, number>,
 ): BrowseGroup[] {
-  return [
+  const groups: BrowseGroup[] = [
     {
+      kind: "objects",
       label: "Objektai",
       description: "Naršyk visus objektus pagal tipą.",
       href: "objektai" as FullSlug,
@@ -487,30 +490,34 @@ function browseGroups(
       })),
     },
     {
+      kind: "topics",
       label: "Temos",
-      description: "Didžiausi teminiai keliai per objektus ir šaltinius.",
+      description: "Teminiai keliai per objektus, šaltinius ir teiginius.",
       href: "temos" as FullSlug,
       links: largestHubLinks(
         allFiles,
         "temos/",
-        6,
+        undefined,
         "category-temos",
         "1696 m. Lietuvos ir Lenkijos žemėlapio fragmentas",
       ),
     },
     {
+      kind: "periods",
       label: "Laikotarpiai",
-      description: "Didžiausi chronologiniai vartai į kolekciją.",
+      description: "Chronologiniai vartai į kolekciją.",
       href: "laikotarpiai" as FullSlug,
       links: largestHubLinks(
         allFiles,
         "laikotarpiai/",
-        6,
+        undefined,
         "category-laikotarpiai",
         "1696 m. Lietuvos ir Lenkijos žemėlapio fragmentas",
       ),
     },
-  ].filter((group) => group.links.length > 0)
+  ]
+
+  return groups.filter((group) => group.links.length > 0)
 }
 
 function sourceCards(cards: ObjectCard[], limit: number): ObjectCard[] {
@@ -607,46 +614,75 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
         </div>
       </section>
 
-      <section class="collection-browse" aria-labelledby="collection-browse-title">
-        <div class="collection-browse-heading">
-          <p class="collection-kicker">Naršyti</p>
-          <h2 id="collection-browse-title">Objektai, temos ir laikotarpiai</h2>
-        </div>
-        <div class="collection-browse-sections">
+      <section class="collection-browse" aria-label="Objektai, temos ir laikotarpiai">
+        <div class="collection-browse-shell" data-collection-browse-tabs="true">
+          <div class="collection-browse-tabs" role="tablist" aria-label="Naršymo skiltys">
+            {groups.map((group, index) => (
+              <button
+                id={`collection-browse-tab-${group.kind}`}
+                type="button"
+                role="tab"
+                aria-selected={index === 0 ? "true" : "false"}
+                aria-controls={`collection-browse-panel-${group.kind}`}
+                data-collection-browse-tab={String(index)}
+              >
+                <span>{group.label}</span>
+                <small>{group.links.length.toLocaleString("lt-LT")}</small>
+              </button>
+            ))}
+          </div>
           {groups.map((group, index) => (
-            <section class="collection-browse-group" aria-labelledby={`collection-browse-${index}`}>
+            <section
+              id={`collection-browse-panel-${group.kind}`}
+              class={`collection-browse-group collection-browse-group-${group.kind}`}
+              role="tabpanel"
+              aria-labelledby={`collection-browse-tab-${group.kind}`}
+              data-collection-browse-panel={String(index)}
+              hidden={index === 0 ? undefined : true}
+            >
               <div class="collection-browse-group-header">
-                <div>
-                  <h3 id={`collection-browse-${index}`}>{group.label}</h3>
-                  <p>{group.description}</p>
-                </div>
                 <a class="collection-browse-all" href={resolveRelative(currentSlug, group.href)}>
-                  Žiūrėti visas
+                  Žiūrėti visus
                 </a>
               </div>
-              <div class="collection-image-grid">
-                {group.links.map((link, linkIndex) => (
-                  <a
-                    class={`collection-image-link collection-crop-${(linkIndex % 6) + 1}`}
-                    href={resolveRelative(currentSlug, link.slug)}
-                  >
-                    {link.imageKey &&
-                      imagePicture(
-                        currentSlug,
-                        link.imageKey,
-                        link.imageAlt ?? "",
-                        "collection-image-link-media",
-                        "lazy",
-                        960,
-                        640,
-                      )}
-                    <span class="collection-image-link-title">
+              {group.kind === "objects" ? (
+                <div class="collection-image-grid">
+                  {group.links.map((link, linkIndex) => (
+                    <a
+                      class={`collection-image-link collection-crop-${(linkIndex % 6) + 1}`}
+                      href={resolveRelative(currentSlug, link.slug)}
+                    >
+                      {link.imageKey &&
+                        imagePicture(
+                          currentSlug,
+                          link.imageKey,
+                          link.imageAlt ?? "",
+                          "collection-image-link-media",
+                          "lazy",
+                          960,
+                          640,
+                        )}
+                      <span class="collection-image-link-title">
+                        <strong>{link.title}</strong>
+                        {link.meta && <small>{link.meta}</small>}
+                      </span>
+                    </a>
+                  ))}
+                </div>
+              ) : (
+                <div class="collection-directory-grid">
+                  {group.links.map((link, linkIndex) => (
+                    <a
+                      class="collection-directory-link"
+                      href={resolveRelative(currentSlug, link.slug)}
+                    >
+                      <span>{String(linkIndex + 1).padStart(2, "0")}</span>
                       <strong>{link.title}</strong>
                       {link.meta && <small>{link.meta}</small>}
-                    </span>
-                  </a>
-                ))}
-              </div>
+                    </a>
+                  ))}
+                </div>
+              )}
             </section>
           ))}
         </div>

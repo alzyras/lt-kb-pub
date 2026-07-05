@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T18:28:34.725Z",
+  "generatedAt": "2026-07-05T19:30:43.066Z",
   "images": [
     {
       "key": "hero-grunwald",
@@ -143,6 +143,94 @@
       "license": "Public domain",
       "originalFile": "File:Poland and Lithuania - by Carolo Allard - 1696 AD.jpg",
       "originalDimensions": "7089x6039"
+    },
+    {
+      "key": "notfound-grunwald",
+      "category": "404 mūšio ekspozicija",
+      "title": "Jan Matejko, Bitwa pod Grunwaldem",
+      "author": "Jan Matejko",
+      "year": "1878",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jan_Matejko,_Bitwa_pod_Grunwaldem.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Jan Matejko, Bitwa pod Grunwaldem.jpg",
+      "originalDimensions": "11788x5235"
+    },
+    {
+      "key": "notfound-orsha",
+      "category": "404 mūšio ekspozicija",
+      "title": "Battle of Orsha",
+      "author": "Hans Krell / unknown workshop attribution",
+      "year": "circa 1520-1534",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Krell_Battle_of_Orsha_01.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Krell Battle of Orsha 01.jpg",
+      "originalDimensions": "2500x1568"
+    },
+    {
+      "key": "notfound-kircholm",
+      "category": "404 mūšio ekspozicija",
+      "title": "Battle of Kircholm, 1605",
+      "author": "Pieter Snayers",
+      "year": "17th century",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pieter_Snayers_-_Battle_of_Kircholm,_1605.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Pieter Snayers - Battle of Kircholm, 1605.jpg",
+      "originalDimensions": "1986x1200"
+    },
+    {
+      "key": "notfound-ula",
+      "category": "404 mūšio ekspozicija",
+      "title": "Battle of Chashniki / Ula, 1564",
+      "author": "German flyer, 16th century",
+      "year": "16th century",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D0%BF%D0%BE%D0%B4_%D0%A7%D0%B0%D1%88%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8_1564.png",
+      "license": "Public domain",
+      "originalFile": "File:Битва под Чашниками 1564.png",
+      "originalDimensions": "569x475"
+    },
+    {
+      "key": "notfound-chotyn1621",
+      "category": "404 mūšio ekspozicija",
+      "title": "Die Schlacht von Chocim 1621",
+      "author": "Jan van Huchtenburgh",
+      "year": "17th century",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Die_Schlacht_von_Chocim_1621.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Die Schlacht von Chocim 1621.jpg",
+      "originalDimensions": "736x514"
+    },
+    {
+      "key": "notfound-klusino",
+      "category": "404 mūšio ekspozicija",
+      "title": "Battle of Klushino 1610",
+      "author": "Szymon Boguszowicz",
+      "year": "17th century",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Battle_of_Klushino_1610.PNG",
+      "license": "Public domain",
+      "originalFile": "File:Battle of Klushino 1610.PNG",
+      "originalDimensions": "2144x1424"
+    },
+    {
+      "key": "notfound-chotyn1673",
+      "category": "404 mūšio ekspozicija",
+      "title": "Battle of Khotyn 1673",
+      "author": "Anonymous plate",
+      "year": "1673",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Battle_of_Khotyn_1673.PNG",
+      "license": "Public domain",
+      "originalFile": "File:Battle of Khotyn 1673.PNG",
+      "originalDimensions": "2000x1520"
+    },
+    {
+      "key": "notfound-vienna",
+      "category": "404 mūšio ekspozicija",
+      "title": "Battle of Vienna 1683",
+      "author": "Jan Damel",
+      "year": "19th century",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Battle_of_Vienna_1683.PNG",
+      "license": "Public domain",
+      "originalFile": "File:Battle of Vienna 1683.PNG",
+      "originalDimensions": "2272x1704"
     }
   ]
 }

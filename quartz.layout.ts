@@ -38,14 +38,6 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.HomeCollection(),
       condition: (page) => page.fileData.slug === "index",
     }),
-    Component.ConditionalRender({
-      component: Component.HomeRandomTeiginiai({
-        title: "Atsitiktiniai teiginiai iš kolekcijos",
-        limit: 5,
-        minEvidence: 10,
-      }),
-      condition: (page) => page.fileData.slug === "index",
-    }),
     Component.TagList(),
   ],
   left: [

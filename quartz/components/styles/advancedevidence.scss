@@ -24,11 +24,13 @@
 }
 
 .advanced-evidence-line {
+  display: none;
   font-size: 0.85rem;
   color: var(--gray);
   line-height: 1.35;
 }
 
+:root:not([advanced-evidence="on"]),
 :root[advanced-evidence="off"] {
   .advanced-evidence-line {
     display: none !important;
@@ -38,6 +40,11 @@
 :root[advanced-evidence="on"] {
   .advanced-evidence-line {
     display: block;
+  }
+
+  table.advanced-evidence-line,
+  .advanced-evidence-line table {
+    display: table;
   }
 }
 
@@ -207,6 +214,22 @@ article table.advanced-claims-table {
   border-left: 3px solid color-mix(in srgb, var(--secondary) 36%, transparent);
   background: color-mix(in srgb, var(--light) 72%, var(--secondary) 5%);
   overflow-wrap: anywhere;
+}
+
+.claim-technical-audit {
+  margin: 0 0 0.85rem;
+  padding: 0.65rem 0.75rem;
+  border: 1px solid color-mix(in srgb, var(--gray) 18%, transparent);
+  background: color-mix(in srgb, var(--light) 88%, var(--gray) 4%);
+
+  h4 {
+    margin: 0 0 0.5rem;
+    color: var(--gray);
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
 }
 
 .claim-citation-card {

@@ -136,20 +136,20 @@ const BMHeader: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
 
   return (
     <div class="bm-header-shell">
-      <div class="bm-header-hours" aria-label="Kolekcijos būsena">
-        <p>Atvira kolekcija: Lietuvos istorijos šaltiniai, objektai ir teiginiai</p>
+      <div class="bm-header-hours" aria-label="Žinių bazės būsena">
+        <p>Atvira žinių bazė: Lietuvos istorijos šaltiniai, objektai ir teiginiai</p>
         <div class="bm-header-tools" aria-label="Svetainės įrankiai">
           <button type="button" data-bm-search>
-            Search
+            Paieška
           </button>
           <button type="button" data-bm-reader>
-            Reader
+            Skaitymas
           </button>
           <button type="button" data-bm-theme>
-            Theme
+            Tema
           </button>
           <button type="button" data-bm-adv>
-            Evidence
+            ADV
           </button>
         </div>
       </div>
