@@ -712,33 +712,9 @@ function setupCollectionSearch() {
   }
 }
 
-function setupCollectionCopyLink() {
-  for (const trigger of document.querySelectorAll<HTMLButtonElement>(
-    "[data-collection-copy-link]",
-  )) {
-    const onClick = async () => {
-      try {
-        await navigator.clipboard?.writeText(window.location.href)
-        trigger.textContent = "Nuoroda nukopijuota"
-        window.setTimeout(() => {
-          trigger.textContent = "Kopijuoti nuorodą"
-        }, 1800)
-      } catch {
-        trigger.textContent = "Nepavyko kopijuoti"
-        window.setTimeout(() => {
-          trigger.textContent = "Kopijuoti nuorodą"
-        }, 1800)
-      }
-    }
-    trigger.addEventListener("click", onClick)
-    window.addCleanup(() => trigger.removeEventListener("click", onClick))
-  }
-}
-
 document.addEventListener("nav", () => {
   setupCollectionClaimSpotlight()
   setupCollectionBrowseTabs()
   setupCollectionObjectSearch()
   setupCollectionSearch()
-  setupCollectionCopyLink()
 })

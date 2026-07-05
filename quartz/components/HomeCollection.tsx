@@ -809,13 +809,6 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
           <p class="collection-kicker">Tolesnis tyrimas</p>
           <h2 id="collection-research-title">Peržiūrėk kolekciją per žemėlapį arba šaltinius.</h2>
         </div>
-        <div class="collection-research-links">
-          <a href={resolveRelative(currentSlug, "zemelapis" as FullSlug)}>Žemėlapis</a>
-          <a href={resolveRelative(currentSlug, "objektai/saltiniai" as FullSlug)}>Šaltiniai</a>
-          <button type="button" data-collection-copy-link>
-            Kopijuoti nuorodą
-          </button>
-        </div>
       </section>
     </div>
   )

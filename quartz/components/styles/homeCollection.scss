@@ -785,8 +785,7 @@
 }
 
 .collection-full-search,
-.collection-info-band,
-.collection-research-band {
+.collection-info-band {
   display: grid;
   grid-template-columns: minmax(16rem, 0.42fr) minmax(0, 1fr);
   gap: clamp(2rem, 5vw, 4.6rem);
@@ -817,8 +816,7 @@
 }
 
 .collection-full-search-actions,
-.collection-info-copy,
-.collection-research-links {
+.collection-info-copy {
   min-width: 0;
   display: grid;
   align-content: start;
@@ -838,14 +836,11 @@
   align-items: start;
 }
 
-.collection-editorial-band div,
-.collection-research-links {
+.collection-editorial-band div {
   border-top: 1px solid var(--collection-purple);
 }
 
-.collection-editorial-band a,
-.collection-research-links a,
-.collection-research-links button {
+.collection-editorial-band a {
   position: relative;
   display: block;
   min-height: 3.3rem;
@@ -864,9 +859,7 @@
   text-decoration: none;
 }
 
-.collection-editorial-band a::after,
-.collection-research-links a::after,
-.collection-research-links button::after {
+.collection-editorial-band a::after {
   content: ">";
   position: absolute;
   top: 50%;
@@ -995,8 +988,7 @@
 @media all and ($tablet) {
   .collection-full-search,
   .collection-info-band,
-  .collection-editorial-band,
-  .collection-research-band {
+  .collection-editorial-band {
     grid-template-columns: 1fr;
   }
 
@@ -1066,8 +1058,7 @@
   .collection-full-search,
   .collection-info-band,
   .collection-editorial-band,
-  .collection-section-heading,
-  .collection-research-band {
+  .collection-section-heading {
     grid-template-columns: minmax(0, 1fr);
   }
 
