@@ -29,7 +29,7 @@ export function pageResources(
   baseDir: FullSlug | RelativeURL,
   staticResources: StaticResources,
 ): StaticResources {
-  const assetVersion = "20260705-collection-search-centered"
+  const assetVersion = "20260705-explorer-badge-inline"
   const versionedAsset = (path: string) => `${path}?v=${assetVersion}`
   const staticJsonPath = (path: string) => versionedAsset(joinSegments("/", "static", path))
   const contentMetaPath = staticJsonPath("contentMeta.json")

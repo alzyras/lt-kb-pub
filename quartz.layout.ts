@@ -8,13 +8,16 @@ function isObjectDetailPage(slug: string | undefined): boolean {
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [Component.BMHeader()],
+  header: [Component.BMHeader(), Component.OptionsPanel()],
   afterBody: [],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/alzyras/lt-kb-pub",
-      Quartz: "https://quartz.jzhao.xyz",
-    },
+  footer: Component.ConditionalRender({
+    component: Component.Footer({
+      links: {
+        GitHub: "https://github.com/alzyras/lt-kb-pub",
+        Quartz: "https://quartz.jzhao.xyz",
+      },
+    }),
+    condition: (page) => !isObjectDetailPage(page.fileData.slug),
   }),
 }
 
@@ -58,7 +61,6 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
         { Component: Component.ReaderMode() },
         { Component: Component.AdvancedEvidenceToggle() },
-        { Component: Component.OptionsPanel(), basis: "100%", order: 10, align: "start" },
       ],
     }),
     Component.Explorer(),

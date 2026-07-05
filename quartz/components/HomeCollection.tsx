@@ -44,6 +44,12 @@ const categories: Category[] = [
     description: "Valdovai, autoriai, veikėjai ir liudininkai.",
   },
   {
+    type: "autorius",
+    label: "Autoriai",
+    slug: "objektai/autoriai" as FullSlug,
+    description: "Istorikai, metraštininkai, leidėjai ir tyrimo balsai.",
+  },
+  {
     type: "ivykis",
     label: "Įvykiai",
     slug: "objektai/ivykiai" as FullSlug,
@@ -155,6 +161,27 @@ function trimSentence(text: string, limit: number): string {
   return `${sliced.slice(0, sentenceEnd > limit * 0.6 ? sentenceEnd : limit).trim()}...`
 }
 
+function pageTitle(page: QuartzPluginData): string {
+  return String(page.frontmatter?.title ?? page.frontmatter?.pavadinimas ?? page.slug ?? "")
+}
+
+function objectCountText(count: number): string {
+  const label = count === 1 ? "objektas" : "objektai"
+  return `${count.toLocaleString("lt-LT")} ${label}`
+}
+
+function hubObjectCount(page: QuartzPluginData): number {
+  const markdown = markdownFor(page)
+  const explicit = markdown.match(/Objektų skaičius:\s*([\d\s\u00a0]+)/i)
+  if (explicit) {
+    const parsed = Number(explicit[1].replace(/\s|\u00a0/g, ""))
+    if (Number.isFinite(parsed)) {
+      return parsed
+    }
+  }
+  return new Set([...markdown.matchAll(/\[\[(objektai\/[^\]|#]+)(?:\|[^\]]+)?\]\]/g)].map((match) => match[1])).size
+}
+
 function objectCards(allFiles: QuartzPluginData[]): ObjectCard[] {
   return allFiles
     .filter(isObjectPage)
@@ -163,7 +190,7 @@ function objectCards(allFiles: QuartzPluginData[]): ObjectCard[] {
       const citation = collectCitationMetadata(markdown)
       const claimCount = collectClaimCount(markdown)
       return {
-        title: String(page.frontmatter?.title ?? page.slug ?? ""),
+        title: pageTitle(page),
         slug: page.slug as FullSlug,
         type: pageType(page),
         quoteCount: citation.quoteCount,
@@ -195,73 +222,50 @@ function topCards(cards: ObjectCard[], limit: number): ObjectCard[] {
 
 function linkFromPage(page: QuartzPluginData, meta?: string): BrowseLink {
   return {
-    title: String(page.frontmatter?.title ?? page.slug ?? ""),
+    title: pageTitle(page),
     slug: page.slug as FullSlug,
     meta,
   }
 }
 
-function pagesByPrefix(allFiles: QuartzPluginData[], prefix: string, limit: number): BrowseLink[] {
+function largestHubLinks(allFiles: QuartzPluginData[], prefix: string, limit: number): BrowseLink[] {
   return allFiles
-    .filter((page) => String(page.slug ?? "").startsWith(prefix) && page.frontmatter?.title)
-    .sort((a, b) =>
-      String(a.frontmatter?.title ?? "").localeCompare(String(b.frontmatter?.title ?? ""), "lt"),
+    .filter((page) => String(page.slug ?? "").startsWith(prefix) && pageTitle(page))
+    .map((page) => ({ page, count: hubObjectCount(page) }))
+    .sort(
+      (a, b) =>
+        b.count - a.count || pageTitle(a.page).localeCompare(pageTitle(b.page), "lt"),
     )
     .slice(0, limit)
-    .map((page) => linkFromPage(page))
-}
-
-function objectLinks(cards: ObjectCard[], type: string, limit: number): BrowseLink[] {
-  return [...cards]
-    .filter((card) => card.type === type)
-    .sort((a, b) => b.quoteCount * 4 + b.claimCount - (a.quoteCount * 4 + a.claimCount))
-    .slice(0, limit)
-    .map((card) => ({
-      title: card.title,
-      slug: card.slug,
-      meta: `${card.claimCount.toLocaleString("lt-LT")} teig.`,
-    }))
+    .map(({ page, count }) => linkFromPage(page, objectCountText(count)))
 }
 
 function browseGroups(
   allFiles: QuartzPluginData[],
-  cards: ObjectCard[],
   typeCounts: Map<string, number>,
 ): BrowseGroup[] {
   return [
     {
-      label: "Temos",
-      description: "Teminiai keliai per objektus ir šaltinius.",
-      href: "temos" as FullSlug,
-      links: pagesByPrefix(allFiles, "temos/", 12),
-    },
-    {
-      label: "Laikotarpiai",
-      description: "Chronologiniai vartai į kolekciją.",
-      href: "laikotarpiai" as FullSlug,
-      links: pagesByPrefix(allFiles, "laikotarpiai/", 12),
-    },
-    {
-      label: "Asmenys",
-      description: "Vardai, valdovai, autoriai ir liudininkai.",
-      href: "objektai/asmenys" as FullSlug,
-      links: objectLinks(cards, "asmuo", 12),
-    },
-    {
-      label: "Objektų tipai",
-      description: "Pagrindinės kolekcijos kategorijos.",
+      label: "Objektai",
+      description: "Naršyk visus objektus pagal tipą.",
       href: "objektai" as FullSlug,
       links: categories.map((category) => ({
         title: category.label,
         slug: category.slug,
-        meta: `${(typeCounts.get(category.type) ?? 0).toLocaleString("lt-LT")} įraš.`,
+        meta: objectCountText(typeCounts.get(category.type) ?? 0),
       })),
     },
     {
-      label: "Vietos",
-      description: "Pilys, miestai, kraštai ir istorinės erdvės.",
-      href: "objektai/vietos" as FullSlug,
-      links: objectLinks(cards, "vieta", 12),
+      label: "Temos",
+      description: "Didžiausi teminiai keliai per objektus ir šaltinius.",
+      href: "temos" as FullSlug,
+      links: largestHubLinks(allFiles, "temos/", 6),
+    },
+    {
+      label: "Laikotarpiai",
+      description: "Didžiausi chronologiniai vartai į kolekciją.",
+      href: "laikotarpiai" as FullSlug,
+      links: largestHubLinks(allFiles, "laikotarpiai/", 6),
     },
   ].filter((group) => group.links.length > 0)
 }
@@ -278,7 +282,7 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
   const cards = objectCards(allFiles)
   const highlights = topCards(cards, 6)
   const sources = sourceCards(cards, 4)
-  const groups = browseGroups(allFiles, cards, typeCounts)
+  const groups = browseGroups(allFiles, typeCounts)
   const objectTotal = [...typeCounts.values()].reduce((sum, count) => sum + count, 0)
   const claimTotal = cards.reduce((sum, card) => sum + card.claimCount, 0)
   const quoteTotal = cards.reduce((sum, card) => sum + card.quoteCount, 0)
@@ -326,52 +330,25 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
         </div>
       </section>
 
-      <section class="collection-intro" aria-labelledby="collection-intro-title">
-        <div class="collection-intro-copy">
-          <h2 id="collection-intro-title" class="sr-only">
-            Apie kolekciją
-          </h2>
-          <p>
-            LT KB kolekcijoje šaltiniai, objektai, teiginiai ir citatos sujungti į vieną naršomą
-            Lietuvos istorijos tyrimo sistemą.
-          </p>
-          <button type="button" data-collection-search-trigger="true">
-            Search Full Collection
-          </button>
-        </div>
-      </section>
-
       <section class="collection-browse" aria-labelledby="collection-browse-title">
-        <div class="collection-tabs-header">
-          <h2 id="collection-browse-title">Browse</h2>
-          <div class="collection-browse-tabs" role="tablist" aria-label="Kolekcijos naršymo keliai">
-            {groups.map((group, index) => (
-              <button
-                id={`collection-tab-${index}`}
-                class={index === 0 ? "is-active" : ""}
-                type="button"
-                role="tab"
-                aria-selected={index === 0 ? "true" : "false"}
-                aria-controls={`collection-panel-${index}`}
-                data-collection-tab={index}
-              >
-                {group.label}
-              </button>
-            ))}
-          </div>
+        <div class="collection-browse-heading">
+          <p class="collection-kicker">Naršyti</p>
+          <h2 id="collection-browse-title">Objektai, temos ir laikotarpiai</h2>
         </div>
-        <div class="collection-tab-panels">
+        <div class="collection-browse-sections">
           {groups.map((group, index) => (
-            <section
-              id={`collection-panel-${index}`}
-              class={`collection-tab-panel ${index === 0 ? "is-active" : ""}`}
-              role="tabpanel"
-              aria-labelledby={`collection-tab-${index}`}
-              data-collection-tab-panel={index}
-            >
-              <p>{group.description}</p>
+            <section class="collection-browse-group" aria-labelledby={`collection-browse-${index}`}>
+              <div class="collection-browse-group-header">
+                <div>
+                  <h3 id={`collection-browse-${index}`}>{group.label}</h3>
+                  <p>{group.description}</p>
+                </div>
+                <a class="collection-browse-all" href={resolveRelative(currentSlug, group.href)}>
+                  Žiūrėti visas
+                </a>
+              </div>
               <div class="collection-image-grid">
-                {group.links.slice(0, 6).map((link, linkIndex) => (
+                {group.links.map((link, linkIndex) => (
                   <a
                     class={`collection-image-link collection-crop-${(linkIndex % 6) + 1}`}
                     href={resolveRelative(currentSlug, link.slug)}
@@ -384,9 +361,6 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
                   </a>
                 ))}
               </div>
-              <a class="collection-browse-all" href={resolveRelative(currentSlug, group.href)}>
-                Visi: {group.label}
-              </a>
             </section>
           ))}
         </div>

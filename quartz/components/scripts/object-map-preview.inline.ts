@@ -270,7 +270,6 @@ function buildObjectMapPreviewGraph(
 
   const addLink = (sourceSlug: string, targetSlug: string, link: ObjectMapPreviewLink) => {
     if (sourceSlug === targetSlug || !selected.has(sourceSlug) || !selected.has(targetSlug)) return
-    if (sourceSlug !== slug && targetSlug !== slug) return
     const source = nodeById.get(sourceSlug)
     const target = nodeById.get(targetSlug)
     if (!source || !target) return
