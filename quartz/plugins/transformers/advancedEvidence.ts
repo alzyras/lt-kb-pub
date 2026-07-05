@@ -417,15 +417,11 @@ function renderClaimsSection(
   const out = [
     "",
     `<div class="claims-section" data-claims-section="true">`,
-    `<table class="advanced-claims-table" data-claims-table="true"><thead><tr><th>Teiginys</th><th>Kontekstas</th><th>Pagrindžia</th></tr></thead><tbody>`,
+    `<table class="advanced-claims-table" data-claims-table="true"><thead><tr><th>Teiginys</th></tr></thead><tbody>`,
   ]
   for (const entry of entries) {
-    const { claim, context } = splitClaimAndContext(entry)
+    const { claim } = splitClaimAndContext(entry)
     const refs = entry.lists.get("pagrindžia") ?? []
-    const refsHtml =
-      refs.length > 0
-        ? refs.map((ref) => `<button class="evidence-pill-button" type="button" data-claim-toggle="true">${pill(ref)}</button>`).join(" ")
-        : ""
     const globalId = entry.fields.get("global_id") ?? ""
     const anchorId = claimAnchorId(globalId)
     const globalAttrs = globalId ? ` data-global-claim-id="${escapeHtml(globalId)}"` : ""
@@ -439,7 +435,7 @@ function renderClaimsSection(
         ? `${toggle}${claimPill} ${markdownCell(claim)}<table class="advanced-evidence-line advanced-evidence-table" data-adv-key="claim_technical_fields"><tbody>${advanced.join("")}</tbody></table>`
         : `${toggle}${claimPill} ${markdownCell(claim)}`
     out.push(
-      `<tr${anchorAttr} data-claim-row="true" data-claim-id="${escapeHtml(entry.id)}"${globalAttrs} data-supporting-ids="${escapeHtml(refs.join("|"))}"><td>${claimCell}</td><td>${markdownCell(context)}</td><td>${refsHtml}</td></tr>`,
+      `<tr${anchorAttr} data-claim-row="true" data-claim-id="${escapeHtml(entry.id)}"${globalAttrs} data-supporting-ids="${escapeHtml(refs.join("|"))}"><td>${claimCell}</td></tr>`,
       renderClaimEvidenceDetailRow(entry, detailId, refs, citationsById, resolveIndex),
     )
   }
@@ -602,7 +598,7 @@ function renderClaimEvidenceDetailRow(
     cards.length > 0
       ? cards.join("")
       : `<p class="claim-citation-missing">Citata nerasta.</p>`
-  return `<tr class="claim-evidence-detail-row" id="${escapeHtml(detailId)}" data-claim-detail="${escapeHtml(claimEntry.id)}" hidden><td colspan="3"><div class="claim-evidence-detail">${content}</div></td></tr>`
+  return `<tr class="claim-evidence-detail-row" id="${escapeHtml(detailId)}" data-claim-detail="${escapeHtml(claimEntry.id)}" hidden><td colspan="1"><div class="claim-evidence-detail">${content}</div></td></tr>`
 }
 
 function advancedRows(

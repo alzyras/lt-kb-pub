@@ -4,6 +4,7 @@ import {
   RelativeURL,
   SimpleSlug,
   TransformOptions,
+  getFileExtension,
   stripSlashes,
   simplifySlug,
   splitAnchor,
@@ -121,8 +122,20 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                   // need to decodeURIComponent here as WHATWG URL percent-encodes everything
                   const full = decodeURIComponent(stripSlashes(destCanonical, true)) as FullSlug
                   const simple = simplifySlug(full)
-                  outgoing.add(simple)
                   node.properties["data-slug"] = full
+
+                  const targetExists =
+                    ctx.allSlugs.includes(full) ||
+                    ctx.allSlugs.includes(simple as unknown as FullSlug)
+                  const isAttachmentLike = getFileExtension(full) !== undefined
+                  if (!targetExists && !isAttachmentLike) {
+                    classes.push("broken-internal")
+                    node.properties.className = classes
+                    node.properties["data-missing-slug"] = full
+                    delete node.properties.href
+                  } else {
+                    outgoing.add(simple)
+                  }
                 }
 
                 // rewrite link internals if prettylinks is on

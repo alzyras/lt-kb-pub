@@ -17,6 +17,31 @@ document.addEventListener("nav", () => {
   mode = readMode()
   applyMode(mode)
 
+  const applyClaimHashTarget = () => {
+    document
+      .querySelectorAll<HTMLElement>('[data-claim-row="true"].is-targeted')
+      .forEach((row) => row.classList.remove("is-targeted"))
+
+    const hash = window.location.hash.slice(1)
+    if (!hash) {
+      return
+    }
+
+    let targetId = hash
+    try {
+      targetId = decodeURIComponent(hash)
+    } catch {
+      targetId = hash
+    }
+
+    const target = document.getElementById(targetId)
+    if (!target?.matches('[data-claim-row="true"]')) {
+      return
+    }
+
+    target.classList.add("is-targeted")
+  }
+
   const toggleMode = () => {
     mode = mode === "on" ? "off" : "on"
     localStorage.setItem(STORAGE_KEY, mode)
@@ -85,8 +110,11 @@ document.addEventListener("nav", () => {
 
   document.addEventListener("click", onClick)
   document.addEventListener("keydown", onKeyDown)
+  applyClaimHashTarget()
+  window.addEventListener("hashchange", applyClaimHashTarget)
   window.addCleanup(() => {
     document.removeEventListener("click", onClick)
     document.removeEventListener("keydown", onKeyDown)
+    window.removeEventListener("hashchange", applyClaimHashTarget)
   })
 })

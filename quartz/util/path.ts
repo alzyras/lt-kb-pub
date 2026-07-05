@@ -85,7 +85,7 @@ function sluggify(s: string): string {
         .replace(/#/g, "")
         .replace(/[–—−]/g, "-")
         .replace(/[“”„"‘’']/g, "")
-        .replace(/[^A-Za-z0-9._~(),!/-]/g, "-")
+        .replace(/[^\p{Letter}\p{Number}._~(),!/-]/gu, "-")
         .replace(/-+/g, "-")
         .replace(/^-|-$/g, ""),
     )
@@ -250,6 +250,39 @@ export interface TransformOptions {
   allSlugs: FullSlug[]
 }
 
+function resolveExistingSlug(targetCanonical: string, allSlugs: FullSlug[]): string {
+  if (allSlugs.includes(targetCanonical as FullSlug)) {
+    return targetCanonical
+  }
+
+  const variants = new Set<string>()
+  variants.add(targetCanonical.replace(/-percent2C(?=\/|-|$)/g, ","))
+
+  for (const variant of variants) {
+    if (variant !== targetCanonical && allSlugs.includes(variant as FullSlug)) {
+      return variant
+    }
+  }
+
+  for (const variant of variants) {
+    const matches = allSlugs.filter((slug) => slug.startsWith(`${variant}-`))
+    if (matches.length === 1) {
+      return matches[0]
+    }
+  }
+
+  return targetCanonical
+}
+
+function resolveCanonicalTarget(src: FullSlug, targetCanonical: string): string {
+  if (!(targetCanonical.startsWith("./") || targetCanonical.startsWith("../"))) {
+    return targetCanonical
+  }
+
+  const resolved = new URL(targetCanonical, `https://base.com/${stripSlashes(src, true)}`)
+  return stripSlashes(decodeURIComponent(resolved.pathname), true)
+}
+
 export function transformLink(src: FullSlug, target: string, opts: TransformOptions): RelativeURL {
   let targetSlug = transformInternalLink(target)
 
@@ -257,7 +290,10 @@ export function transformLink(src: FullSlug, target: string, opts: TransformOpti
     return targetSlug as RelativeURL
   } else {
     const folderTail = isFolderPath(targetSlug) ? "/" : ""
-    const canonicalSlug = stripSlashes(targetSlug.slice(".".length))
+    let canonicalSlug = targetSlug.startsWith("./")
+      ? stripSlashes(targetSlug.slice("./".length))
+      : stripSlashes(targetSlug)
+    canonicalSlug = resolveCanonicalTarget(src, canonicalSlug)
     let [targetCanonical, targetAnchor] = splitAnchor(canonicalSlug)
 
     if (opts.strategy === "shortest") {
@@ -276,6 +312,7 @@ export function transformLink(src: FullSlug, target: string, opts: TransformOpti
     }
 
     // if it's not unique, then it's the absolute path from the vault root
+    canonicalSlug = resolveExistingSlug(canonicalSlug, opts.allSlugs)
     return (joinSegments(pathToRoot(src), canonicalSlug) + folderTail) as RelativeURL
   }
 }

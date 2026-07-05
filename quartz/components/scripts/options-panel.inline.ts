@@ -403,6 +403,23 @@ function syncPageListGroups() {
   })
 }
 
+function updateObjectListSummaries() {
+  document.querySelectorAll<HTMLElement>('[data-object-list-controls="true"]').forEach((control) => {
+    const summary = control.querySelector<HTMLElement>("[data-object-list-summary]")
+    if (!summary) {
+      return
+    }
+    const root = control.parentElement ?? document.body
+    const entries = [
+      ...root.querySelectorAll<HTMLLIElement>(
+        'ul.section-ul[data-object-list-sortable="true"] > li.section-li',
+      ),
+    ]
+    const visible = entries.filter((entry) => !entry.hidden).length
+    summary.textContent = `Rodoma ${visible} iš ${entries.length}`
+  })
+}
+
 function applyListFilters() {
   const entries = document.querySelectorAll<HTMLLIElement>("li.section-li")
   entries.forEach((entry) => {
@@ -411,11 +428,13 @@ function applyListFilters() {
     const claimCount = Number(entry.dataset.claimCount ?? "0")
     const sourceIds = parseSourceIds(entry.dataset.citationSources)
     const optionsOk = filterable ? optionsMatchItem({ filterable, claimCount, sourceIds }) : true
+    const objectTagOk = entry.dataset.objectTagMatch !== "false"
     entry.dataset.optionsMatch = optionsOk ? "true" : "false"
-    entry.hidden = !(periodOk && optionsOk)
+    entry.hidden = !(periodOk && optionsOk && objectTagOk)
   })
   updatePeriodSummaries()
   syncPageListGroups()
+  updateObjectListSummaries()
 }
 
 function applyExplorerFilters() {

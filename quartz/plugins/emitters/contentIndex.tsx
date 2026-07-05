@@ -230,10 +230,7 @@ function extractSummary(markdown: string): string {
   if (!match) {
     return ""
   }
-  return match[1]
-    .replace(/\n+/g, " ")
-    .replace(/\s+/g, " ")
-    .trim()
+  return match[1].replace(/\n+/g, " ").replace(/\s+/g, " ").trim()
 }
 
 function normalizeInlineValue(value: string): string {
@@ -262,7 +259,11 @@ function evidenceClaimEntries(markdown: string): GraphExplorerClaimDetails[] {
 function evidenceQuoteEntries(markdown: string): GraphExplorerQuoteDetails[] {
   const sections = parseEvidenceSections(markdown)
   const out: GraphExplorerQuoteDetails[] = []
-  for (const sectionName of ["Reikšmingi paminėjimai", "Šaltiniai ir įrodymai", "Bibliografiniai įrodymai"]) {
+  for (const sectionName of [
+    "Reikšmingi paminėjimai",
+    "Šaltiniai ir įrodymai",
+    "Bibliografiniai įrodymai",
+  ]) {
     for (const entry of sections.get(sectionName) ?? []) {
       if (!entry.id.startsWith("c-")) {
         continue
@@ -282,18 +283,29 @@ function evidenceQuoteEntries(markdown: string): GraphExplorerQuoteDetails[] {
 function basenameTerms(content: ContentDetails): string[] {
   const title = content.title.replace(/\s*\([^)]*\)\s*$/, "").trim()
   const basename = String(content.slug).split("/").pop()?.replace(/-/g, " ") ?? ""
-  return [...new Set([title, basename, content.title].map((term) => term.trim()).filter((term) => term.length >= 3))]
+  return [
+    ...new Set(
+      [title, basename, content.title]
+        .map((term) => term.trim())
+        .filter((term) => term.length >= 3),
+    ),
+  ]
 }
 
 function textContainsAnyTerm(text: string, terms: string[]): boolean {
   const normalized = text.normalize("NFKC").toLocaleLowerCase("lt-LT")
-  return terms.some((term) => normalized.includes(term.normalize("NFKC").toLocaleLowerCase("lt-LT")))
+  return terms.some((term) =>
+    normalized.includes(term.normalize("NFKC").toLocaleLowerCase("lt-LT")),
+  )
 }
 
 function edgeEvidence(
   source: ContentDetails,
   target: ContentDetails,
-): Pick<GraphExplorerLinkDetails, "relationKind" | "confidence" | "evidenceCount" | "claimIds" | "quoteIds" | "evidencePreview"> {
+): Pick<
+  GraphExplorerLinkDetails,
+  "relationKind" | "confidence" | "evidenceCount" | "claimIds" | "quoteIds" | "evidencePreview"
+> {
   const targetTerms = basenameTerms(target)
   const quotesById = new Map((source.quoteEntries ?? []).map((quote) => [quote.id, quote]))
   const claimIds: string[] = []
@@ -305,7 +317,9 @@ function edgeEvidence(
       .map((quoteId) => quotesById.get(quoteId))
       .filter((quote): quote is GraphExplorerQuoteDetails => Boolean(quote))
     const claimMatches = textContainsAnyTerm(claim.text, targetTerms)
-    const matchingQuotes = quoteMatches.filter((quote) => textContainsAnyTerm(quote.text, targetTerms))
+    const matchingQuotes = quoteMatches.filter((quote) =>
+      textContainsAnyTerm(quote.text, targetTerms),
+    )
     if (!claimMatches && matchingQuotes.length === 0) {
       continue
     }
@@ -346,7 +360,11 @@ function edgeEvidence(
 }
 
 function compactSearchContent(content: ContentDetails): string {
-  const parts = [content.title, ...(content.claims ?? []), ...(content.tags ?? []).map((tag) => `#${tag}`)]
+  const parts = [
+    content.title,
+    ...(content.claims ?? []),
+    ...(content.tags ?? []).map((tag) => `#${tag}`),
+  ]
     .map((part) => String(part ?? "").trim())
     .filter(Boolean)
   return parts.join("\n")
@@ -390,7 +408,9 @@ function graphTargetAllowed(slug: string): boolean {
   return !slug.startsWith("laikotarpiai/") && !slug.startsWith("objektai/saltiniai/")
 }
 
-export function buildGraphExplorerIndex(linkIndex: ContentIndexMap): Record<FullSlug, GraphExplorerIndexDetails> {
+export function buildGraphExplorerIndex(
+  linkIndex: ContentIndexMap,
+): Record<FullSlug, GraphExplorerIndexDetails> {
   const contentBySimpleSlug = new Map<SimpleSlug, ContentDetails>(
     Array.from(linkIndex.entries()).map(([slug, content]) => [simplifySlug(slug), content]),
   )
@@ -444,9 +464,7 @@ export function buildGraphExplorerIndex(linkIndex: ContentIndexMap): Record<Full
 }
 
 function asRandomClaims(content: ContentDetails): RandomClaimsDetails | undefined {
-  const claims = (content.claims ?? [])
-    .map((claim) => claim.trim())
-    .filter(Boolean)
+  const claims = (content.claims ?? []).map((claim) => claim.trim()).filter(Boolean)
   if (claims.length === 0) {
     return undefined
   }
@@ -482,7 +500,7 @@ function parseFrontmatterDate(value: unknown): Date | undefined {
 export function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndexMap): string {
   const base = cfg.baseUrl ?? ""
   const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => {
-    const lastmodDate = content.modifiedDate ?? content.date
+    const lastmodDate = content.modifiedDate
     const lastmod = lastmodDate ? `\n    <lastmod>${lastmodDate.toISOString()}</lastmod>` : ""
     return `  <url>
     <loc>${escapeHTML(canonicalUrl(base, slug))}</loc>${lastmod}
@@ -560,8 +578,15 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
         const quoteEntries = evidenceQuoteEntries(markdownSource)
         if (opts?.includeEmptyFiles || (file.data.text && file.data.text !== "")) {
           const sitemapModifiedDate =
-            parseFrontmatterDate(frontmatter?.modified ?? frontmatter?.updated ?? frontmatter?.atnaujinta) ??
-            parseFrontmatterDate(frontmatter?.created ?? frontmatter?.date ?? frontmatter?.sukurta)
+            parseFrontmatterDate(
+              frontmatter?.atnaujinta ?? frontmatter?.modified ?? frontmatter?.updated,
+            ) ??
+            parseFrontmatterDate(
+              frontmatter?.sukurta ??
+                frontmatter?.created ??
+                frontmatter?.date ??
+                frontmatter?.published,
+            )
           linkIndex.set(slug, {
             slug,
             filePath: relativePath,
@@ -625,7 +650,9 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
       const randomClaimsIndex = Object.fromEntries(
         Array.from(linkIndex)
           .map(([slug, content]) => [slug, asRandomClaims(content)] as const)
-          .filter((entry): entry is readonly [FullSlug, RandomClaimsDetails] => entry[1] !== undefined),
+          .filter(
+            (entry): entry is readonly [FullSlug, RandomClaimsDetails] => entry[1] !== undefined,
+          ),
       )
 
       const emittedIndexes: Array<[FullSlug, unknown]> = [

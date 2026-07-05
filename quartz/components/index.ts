@@ -8,6 +8,9 @@ import ReaderMode from "./ReaderMode"
 import AdvancedEvidenceToggle from "./AdvancedEvidenceToggle"
 import OptionsPanel from "./OptionsPanel"
 import HomeRandomTeiginiai from "./HomeRandomTeiginiai"
+import HomeCollection from "./HomeCollection"
+import BMHeader from "./BMHeader"
+import ObjectMapCTA from "./ObjectMapCTA"
 import Head from "./Head"
 import PageTitle from "./PageTitle"
 import ContentMeta from "./ContentMeta"
@@ -38,6 +41,9 @@ export {
   AdvancedEvidenceToggle,
   OptionsPanel,
   HomeRandomTeiginiai,
+  HomeCollection,
+  BMHeader,
+  ObjectMapCTA,
   Head,
   PageTitle,
   ContentMeta,

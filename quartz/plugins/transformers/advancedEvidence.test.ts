@@ -51,6 +51,10 @@ describe("AdvancedEvidence transformer", () => {
       ) ?? markdown
 
     assert.match(transformed, /data-claim-row="true"/)
+    assert.match(transformed, /<thead><tr><th>Teiginys<\/th><\/tr><\/thead>/)
+    assert.doesNotMatch(transformed, /<th>Kontekstas<\/th>/)
+    assert.doesNotMatch(transformed, /<th>Pagrindžia<\/th>/)
+    assert.doesNotMatch(transformed, /colspan="3"/)
     assert.match(transformed, /data-claim-id="t-001"/)
     assert.match(transformed, /id="claim-t-00042"/)
     assert.match(transformed, /data-global-claim-id="t-00042"/)

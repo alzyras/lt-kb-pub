@@ -7,10 +7,13 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
   const baseDir = url.pathname
 
   return (
-    <article class="popover-hint">
-      <h1>404</h1>
-      <p>{i18n(cfg.locale).pages.error.notFound}</p>
-      <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a>
+    <article class="popover-hint bm-not-found">
+      <div class="bm-not-found-media" aria-hidden="true" />
+      <div class="bm-not-found-copy">
+        <p>404</p>
+        <h1>{i18n(cfg.locale).pages.error.notFound}</h1>
+        <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a>
+      </div>
     </article>
   )
 }

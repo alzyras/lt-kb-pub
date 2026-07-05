@@ -24,6 +24,26 @@ interface FolderPageOptions extends FullPageLayout {
   sort?: (f1: QuartzPluginData, f2: QuartzPluginData) => number
 }
 
+function defaultFolderTitle(folder: string, locale: keyof typeof TRANSLATIONS): string {
+  const labels: Record<string, string> = {
+    objektai: "Objektai",
+    "objektai/asmenys": "Asmenys",
+    "objektai/autoriai": "Autoriai",
+    "objektai/ivykiai": "Įvykiai",
+    "objektai/vietos": "Vietos",
+    "objektai/grupes": "Grupės",
+    "objektai/daiktai": "Daiktai",
+    "objektai/paprociai": "Papročiai",
+    "objektai/posakiai": "Posakiai",
+    "objektai/zodynas": "Žodynas",
+    "objektai/saltiniai": "Šaltiniai",
+    temos: "Temos",
+    laikotarpiai: "Laikotarpiai",
+  }
+
+  return labels[folder] ?? `${i18n(locale).pages.folderContent.folder}: ${folder}`
+}
+
 async function* processFolderInfo(
   ctx: BuildCtx,
   folderInfo: Record<SimpleSlug, ProcessedContent>,
@@ -71,7 +91,7 @@ function computeFolderInfo(
       defaultProcessedContent({
         slug: joinSegments(folder, "index") as FullSlug,
         frontmatter: {
-          title: `${i18n(locale).pages.folderContent.folder}: ${folder}`,
+          title: defaultFolderTitle(folder, locale),
           tags: [],
         },
       }),

@@ -18,6 +18,10 @@ const defaultOptions: TagContentOptions = {
   numPages: 10,
 }
 
+function tagTitle(tag: string): string {
+  return tag === "/" ? "Žymos" : tag
+}
+
 export default ((opts?: Partial<TagContentOptions>) => {
   const options: TagContentOptions = { ...defaultOptions, ...opts }
 
@@ -53,11 +57,25 @@ export default ((opts?: Partial<TagContentOptions>) => {
         tagItemMap.set(tag, allPagesWithTag(tag))
       }
       return (
-        <div class="popover-hint">
+        <div class="popover-hint bm-list-page bm-tag-page">
+          <section class="bm-list-intro" aria-label="Puslapio santrauka">
+            <div>
+              <p>Žymų indeksas</p>
+              <h2>Temos, laikotarpiai ir tipai</h2>
+            </div>
+            <dl>
+              <div>
+                <dt>Žymos</dt>
+                <dd>{tags.length.toLocaleString("lt-LT")}</dd>
+              </div>
+            </dl>
+          </section>
           <article class={classes}>
             <p>{content}</p>
           </article>
-          <p>{i18n(cfg.locale).pages.tagContent.totalTags({ count: tags.length })}</p>
+          <p class="bm-list-count">
+            {i18n(cfg.locale).pages.tagContent.totalTags({ count: tags.length })}
+          </p>
           <div>
             {tags.map((tag) => {
               const pages = tagItemMap.get(tag)!
@@ -115,7 +133,19 @@ export default ((opts?: Partial<TagContentOptions>) => {
       }
 
       return (
-        <div class="popover-hint">
+        <div class="popover-hint bm-list-page bm-tag-page">
+          <section class="bm-list-intro" aria-label="Puslapio santrauka">
+            <div>
+              <p>Žyma</p>
+              <h2>{tagTitle(tag)}</h2>
+            </div>
+            <dl>
+              <div>
+                <dt>Įrašai</dt>
+                <dd>{pages.length.toLocaleString("lt-LT")}</dd>
+              </div>
+            </dl>
+          </section>
           <article class={classes}>{content}</article>
           <div class="page-listing">
             <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>

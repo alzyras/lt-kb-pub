@@ -1,3 +1,5 @@
+import { slugTag } from "./path"
+
 export type ParsedRange = {
   start: number
   end: number
@@ -12,6 +14,17 @@ export type PeriodChip = {
 export type PeriodDisplay = {
   label: string
   chips: PeriodChip[]
+}
+
+export function periodSlugExists(
+  slug: string | undefined,
+  files: { slug?: string }[] | undefined,
+): boolean {
+  if (!slug || !files) {
+    return false
+  }
+
+  return files.some((file) => file.slug === slug)
 }
 
 const PERIOD_MIN_YEAR = 0
@@ -367,9 +380,10 @@ export function visiblePeriodDisplay(
     summaryParts.push(centuryText)
   }
   for (const token of centuryTokens) {
+    const periodTitle = `${token} amžius`
     chips.push({
       label: token,
-      slug: `laikotarpiai/${token} amžius`,
+      slug: `laikotarpiai/${slugTag(periodTitle)}`,
       kind: "amzius",
     })
   }

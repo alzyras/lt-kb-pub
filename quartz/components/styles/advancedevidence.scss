@@ -143,8 +143,17 @@ article table:has(.evidence-pill) {
 }
 
 article table.advanced-claims-table {
+  td:first-child {
+    width: 100%;
+  }
+
+  td:last-child {
+    white-space: normal;
+  }
+
   tr[data-claim-row="true"] {
     cursor: pointer;
+    scroll-margin-top: 6rem;
 
     &:hover,
     &:focus-within,
@@ -152,9 +161,37 @@ article table.advanced-claims-table {
       background: color-mix(in srgb, var(--secondary) 7%, transparent);
     }
 
+    &:target,
+    &.is-targeted {
+      background: color-mix(in srgb, var(--secondary) 14%, var(--light) 86%);
+      outline: 2px solid color-mix(in srgb, var(--secondary) 56%, transparent);
+      outline-offset: -2px;
+      animation: claim-target-pulse 1.6s ease-out 1;
+    }
+
+    &:target td:first-child,
+    &.is-targeted td:first-child {
+      box-shadow: inset 4px 0 0 var(--secondary);
+    }
+
+    &:target .claim-deeplink,
+    &.is-targeted .claim-deeplink {
+      color: var(--secondary);
+    }
+
     &.is-expanded .claim-evidence-toggle-icon {
       transform: rotate(90deg);
     }
+  }
+}
+
+@keyframes claim-target-pulse {
+  0% {
+    box-shadow: 0 0 0 0 color-mix(in srgb, var(--secondary) 36%, transparent);
+  }
+
+  100% {
+    box-shadow: 0 0 0 0.8rem transparent;
   }
 }
 

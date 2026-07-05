@@ -24,6 +24,36 @@ const defaultOptions: FolderContentOptions = {
   showSubfolders: true,
 }
 
+function folderLabel(slug: string | undefined, fallback: string): string {
+  const value = String(slug ?? "").replace(/\/index$/, "")
+  if (value === "objektai") return "Objektų indeksas"
+  if (value === "temos") return "Temų indeksas"
+  if (value === "laikotarpiai") return "Laikotarpių indeksas"
+  if (value.startsWith("objektai/")) return "Objektų tipas"
+  return fallback
+}
+
+function folderTitle(slug: string | undefined, fallback: string): string {
+  const value = String(slug ?? "").replace(/\/index$/, "")
+  const labels: Record<string, string> = {
+    objektai: "Objektai",
+    "objektai/asmenys": "Asmenys",
+    "objektai/autoriai": "Autoriai",
+    "objektai/ivykiai": "Įvykiai",
+    "objektai/vietos": "Vietos",
+    "objektai/grupes": "Grupės",
+    "objektai/daiktai": "Daiktai",
+    "objektai/paprociai": "Papročiai",
+    "objektai/posakiai": "Posakiai",
+    "objektai/zodynas": "Žodynas",
+    "objektai/saltiniai": "Šaltiniai",
+    temos: "Temos",
+    laikotarpiai: "Laikotarpiai",
+  }
+
+  return labels[value] ?? fallback.replace(/^Aplankas:\s*/i, "")
+}
+
 export default ((opts?: Partial<FolderContentOptions>) => {
   const options: FolderContentOptions = { ...defaultOptions, ...opts }
 
@@ -81,8 +111,9 @@ export default ((opts?: Partial<FolderContentOptions>) => {
               slug: node.slug,
               dates: getMostRecentDates(),
               frontmatter: {
-                title: node.displayName,
+                title: folderTitle(node.slug, node.displayName),
                 tags: [],
+                tipas: "aplankas",
               },
             }
           }
@@ -101,9 +132,25 @@ export default ((opts?: Partial<FolderContentOptions>) => {
         ? fileData.description
         : htmlToJsx(fileData.filePath!, tree)
     ) as ComponentChildren
+    const rawTitle = String(fileData.frontmatter?.title ?? folder.displayName)
+    const title = folderTitle(fileData.slug, rawTitle)
+    const folderType = folderLabel(fileData.slug, title)
+    const folderCount = allPagesInFolder.length.toLocaleString("lt-LT")
 
     return (
-      <div class="popover-hint">
+      <div class="popover-hint bm-list-page bm-folder-page">
+        <section class="bm-list-intro" aria-label="Puslapio santrauka">
+          <div>
+            <p>{folderType}</p>
+            <h2>{title}</h2>
+          </div>
+          <dl>
+            <div>
+              <dt>Įrašai</dt>
+              <dd>{folderCount}</dd>
+            </div>
+          </dl>
+        </section>
         <article class={classes}>{content}</article>
         <div class="page-listing">
           {options.showFolderCount && (

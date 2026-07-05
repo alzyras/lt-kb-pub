@@ -85,8 +85,8 @@ function updateFilter(refs: PeriodFilterRefs, changed: "start" | "end") {
   const range = Math.max(max - min, 1)
   const left = ((selectedStart - min) / range) * 100
   const right = 100 - ((selectedEnd - min) / range) * 100
-  refs.rangeFill.style.left = `${left}%`
-  refs.rangeFill.style.right = `${right}%`
+  refs.rangeFill.style.left = `calc(${left}% + var(--period-thumb-size, 0px) / 2)`
+  refs.rangeFill.style.right = `calc(${right}% + var(--period-thumb-size, 0px) / 2)`
 
   const entries = refs.lists.flatMap((list) => [...list.querySelectorAll<HTMLLIElement>("li.section-li")])
   entries.forEach((entry) => {
