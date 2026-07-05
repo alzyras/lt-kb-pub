@@ -1,15 +1,28 @@
+import {
+  SimulationLinkDatum,
+  SimulationNodeDatum,
+  forceCenter,
+  forceCollide,
+  forceLink,
+  forceManyBody,
+  forceSimulation,
+} from "d3"
+
 type ObjectMapPreviewLink = {
   target?: string
   targetTitle?: string
   targetType?: string
   evidenceCount?: number
   confidence?: number
+  relationKind?: string
 }
 
 type ObjectMapPreviewNode = {
   slug?: string
   title?: string
   type?: string
+  claimCount?: number
+  quoteCount?: number
   links?: ObjectMapPreviewLink[]
 }
 
@@ -24,6 +37,31 @@ type ObjectMapNeighbour = {
   type: string
   evidenceCount: number
   confidence: number
+}
+
+type ObjectMapRuntimeNode = SimulationNodeDatum & {
+  id: string
+  title: string
+  type: string
+  score: number
+  degree: number
+  evidenceCount: number
+  focus: boolean
+}
+
+type ObjectMapRuntimeLink = SimulationLinkDatum<ObjectMapRuntimeNode> & {
+  source: ObjectMapRuntimeNode
+  target: ObjectMapRuntimeNode
+  evidenceCount: number
+  confidence: number
+  relationKind?: string
+}
+
+type ObjectMapLabelBounds = {
+  left: number
+  right: number
+  top: number
+  bottom: number
 }
 
 const objectMapRuntime = globalThis as ObjectMapPreviewRuntime
@@ -92,6 +130,14 @@ function objectMapNodeType(slug: string, node?: ObjectMapPreviewNode): string {
   return "asmuo"
 }
 
+function objectMapPreviewAllowed(slug: string): boolean {
+  return (
+    !slug.startsWith("laikotarpiai/") &&
+    !slug.startsWith("temos/") &&
+    !slug.startsWith("objektai/saltiniai/")
+  )
+}
+
 function objectMapResolveNode(
   index: Record<string, ObjectMapPreviewNode>,
   slug: string,
@@ -113,6 +159,7 @@ function objectMapNeighbours(
 
   const add = (targetSlug: string, fallbackTitle: string, fallbackType: string, evidenceCount = 0, confidence = 0) => {
     if (!targetSlug || targetSlug === slug) return
+    if (!objectMapPreviewAllowed(targetSlug)) return
     const target = index[targetSlug]
     const existing = neighbours.get(targetSlug)
     const next = {
@@ -154,15 +201,134 @@ function objectMapNeighbours(
     })
 }
 
+function objectMapHash(value: string): number {
+  let hash = 2166136261
+  for (let index = 0; index < value.length; index++) {
+    hash ^= value.charCodeAt(index)
+    hash = Math.imul(hash, 16777619)
+  }
+  return hash >>> 0
+}
+
+function objectMapRuntimeRadius(node: ObjectMapRuntimeNode): number {
+  if (node.focus) return 23
+  return Math.min(18, Math.max(4.8, 4.5 + Math.log1p(node.score) * 1.6))
+}
+
+function objectMapLinkEndpoints(link: ObjectMapRuntimeLink): [ObjectMapRuntimeNode, ObjectMapRuntimeNode] {
+  return [link.source as ObjectMapRuntimeNode, link.target as ObjectMapRuntimeNode]
+}
+
+function objectMapBoundsOverlap(a: ObjectMapLabelBounds, b: ObjectMapLabelBounds): boolean {
+  return a.left < b.right && a.right > b.left && a.top < b.bottom && a.bottom > b.top
+}
+
+function objectMapLabelBounds(
+  x: number,
+  y: number,
+  width: number,
+  height: number,
+): ObjectMapLabelBounds {
+  return {
+    left: x - width / 2,
+    right: x + width / 2,
+    top: y - height,
+    bottom: y,
+  }
+}
+
+function buildObjectMapPreviewGraph(
+  index: Record<string, ObjectMapPreviewNode>,
+  slug: string,
+  node: ObjectMapPreviewNode,
+  neighbours: ObjectMapNeighbour[],
+): { nodes: ObjectMapRuntimeNode[]; links: ObjectMapRuntimeLink[] } {
+  const selected = new Set([slug, ...neighbours.map((neighbour) => neighbour.slug)])
+
+  const neighbourBySlug = new Map(neighbours.map((neighbour) => [neighbour.slug, neighbour]))
+  const nodes = [...selected].map((id, position): ObjectMapRuntimeNode => {
+    const source = id === slug ? node : index[id]
+    const neighbour = neighbourBySlug.get(id)
+    const hash = objectMapHash(id)
+    const angle = position * 2.399963229728653 + ((hash % 1000) / 1000) * 0.28
+    const spread = 68 + Math.sqrt(Math.max(1, position)) * 23
+    const jitter = ((hash % 31) - 15) * 0.8
+    return {
+      id,
+      title: String(source?.title || neighbour?.title || id.split("/").at(-1) || id),
+      type: objectMapNodeType(id, source) || neighbour?.type || "asmuo",
+      score: 1,
+      degree: 0,
+      evidenceCount: neighbour?.evidenceCount ?? 0,
+      focus: id === slug,
+      x: id === slug ? 0 : Math.cos(angle) * spread + jitter,
+      y: id === slug ? 0 : Math.sin(angle) * spread + jitter,
+    }
+  })
+  const nodeById = new Map(nodes.map((runtimeNode) => [runtimeNode.id, runtimeNode]))
+  const linksByPair = new Map<string, ObjectMapRuntimeLink>()
+
+  const addLink = (sourceSlug: string, targetSlug: string, link: ObjectMapPreviewLink) => {
+    if (sourceSlug === targetSlug || !selected.has(sourceSlug) || !selected.has(targetSlug)) return
+    if (sourceSlug !== slug && targetSlug !== slug) return
+    const source = nodeById.get(sourceSlug)
+    const target = nodeById.get(targetSlug)
+    if (!source || !target) return
+    const pairKey = [sourceSlug, targetSlug].sort().join(" ")
+    const evidenceCount = Math.max(0, Number(link.evidenceCount) || 0)
+    const confidence = Math.max(0, Math.min(1, Number(link.confidence) || 0.34))
+    const existing = linksByPair.get(pairKey)
+    if (existing) {
+      existing.evidenceCount += evidenceCount
+      existing.confidence = Math.max(existing.confidence, confidence)
+      return
+    }
+    linksByPair.set(pairKey, {
+      source,
+      target,
+      evidenceCount,
+      confidence,
+      relationKind: link.relationKind,
+    })
+  }
+
+  for (const sourceSlug of selected) {
+    const source = sourceSlug === slug ? node : index[sourceSlug]
+    for (const link of source?.links ?? []) {
+      const targetSlug = String(link.target ?? "")
+      addLink(sourceSlug, targetSlug, link)
+    }
+  }
+
+  const links = [...linksByPair.values()]
+  for (const link of links) {
+    const [source, target] = objectMapLinkEndpoints(link)
+    source.degree += 1
+    target.degree += 1
+    source.evidenceCount += link.evidenceCount
+    target.evidenceCount += link.evidenceCount
+  }
+
+  for (const runtimeNode of nodes) {
+    const source = runtimeNode.id === slug ? node : index[runtimeNode.id]
+    const claimCount = Math.max(0, Number(source?.claimCount) || 0)
+    const quoteCount = Math.max(0, Number(source?.quoteCount) || 0)
+    runtimeNode.score = claimCount + quoteCount * 1.8 + runtimeNode.degree * 2 + Math.log1p(runtimeNode.evidenceCount) * 3
+  }
+
+  return { nodes, links }
+}
+
 function drawObjectMapPreview(
   canvas: HTMLCanvasElement,
-  title: string,
-  type: string,
   neighbours: ObjectMapNeighbour[],
+  index: Record<string, ObjectMapPreviewNode>,
+  slug: string,
+  node: ObjectMapPreviewNode,
 ) {
   const rect = canvas.getBoundingClientRect()
-  const width = Math.max(260, rect.width || canvas.clientWidth || 320)
-  const height = Math.max(170, rect.height || canvas.clientHeight || 200)
+  const width = Math.max(360, rect.width || canvas.clientWidth || 460)
+  const height = Math.max(230, rect.height || canvas.clientHeight || 280)
   const pixelRatio = Math.min(window.devicePixelRatio || 1, 2)
   canvas.width = Math.floor(width * pixelRatio)
   canvas.height = Math.floor(height * pixelRatio)
@@ -176,78 +342,128 @@ function drawObjectMapPreview(
   ctx.fillStyle = "#fff"
   ctx.fillRect(0, 0, width, height)
 
-  const center = { x: width * 0.48, y: height * 0.52 }
-  const count = neighbours.length
-  const ringCount = count <= 28 ? 1 : count <= 90 ? 2 : 3
-  const nodeScale = count > 140 ? 0.52 : count > 80 ? 0.62 : count > 36 ? 0.76 : 1
-  const edgeAlphaScale = count > 140 ? 0.46 : count > 80 ? 0.58 : count > 36 ? 0.74 : 1
-  const innerRadiusX = width * 0.2
-  const innerRadiusY = height * 0.18
-  const outerRadiusX = width * 0.38
-  const outerRadiusY = height * 0.38
-  const outer = neighbours.map((neighbour, index) => {
-    const ring = ringCount === 1 ? 0 : index % ringCount
-    const ringProgress = ringCount === 1 ? 1 : ring / (ringCount - 1)
-    const ringIndex = Math.floor(index / ringCount)
-    const ringItems = Math.ceil((count - ring) / ringCount)
-    const angleOffset = (ring * Math.PI) / Math.max(ringCount, 1)
-    const angle = -Math.PI / 2 + angleOffset + (Math.PI * 2 * ringIndex) / Math.max(ringItems, 1)
-    const radiusX = innerRadiusX + (outerRadiusX - innerRadiusX) * ringProgress
-    const radiusY = innerRadiusY + (outerRadiusY - innerRadiusY) * ringProgress
+  const graph = buildObjectMapPreviewGraph(index, slug, node, neighbours)
+
+  const simulation = forceSimulation<ObjectMapRuntimeNode>(graph.nodes)
+    .force(
+      "charge",
+      forceManyBody<ObjectMapRuntimeNode>().strength((runtimeNode) =>
+        runtimeNode.focus ? -170 : -90 - Math.min(60, runtimeNode.score * 1.45),
+      ),
+    )
+    .force("center", forceCenter(0, 0).strength(0.18))
+    .force(
+      "link",
+      forceLink<ObjectMapRuntimeNode, ObjectMapRuntimeLink>(graph.links)
+        .id((runtimeNode) => runtimeNode.id)
+        .distance((link) => 54 + Math.max(0, 5 - Math.min(5, link.evidenceCount)) * 7)
+        .strength((link) => (link.source.focus || link.target.focus ? 0.32 : 0.24)),
+    )
+    .force(
+      "collide",
+      forceCollide<ObjectMapRuntimeNode>((runtimeNode) => objectMapRuntimeRadius(runtimeNode) + 9).iterations(2),
+    )
+
+  simulation.stop()
+  simulation.tick(graph.nodes.length > 140 ? 120 : 90)
+
+  const labelNodes = [...graph.nodes]
+    .sort((a, b) => {
+      const diff = (b.focus ? 10000 : 0) + b.score + b.degree * 2 - ((a.focus ? 10000 : 0) + a.score + a.degree * 2)
+      return diff === 0 ? a.title.localeCompare(b.title, "lt") : diff
+    })
+    .slice(0, graph.nodes.length > 140 ? 50 : 64)
+  const labelSet = new Set(labelNodes.map((runtimeNode) => runtimeNode.id))
+  const bounds = graph.nodes.map((runtimeNode) => {
+    const x = runtimeNode.x ?? 0
+    const y = runtimeNode.y ?? 0
+    const radius = objectMapRuntimeRadius(runtimeNode) + 8
+    const labelWidth = labelSet.has(runtimeNode.id) ? Math.min(170, runtimeNode.title.length * 5.8 + 14) : 0
+    const halfWidth = Math.max(radius, labelWidth / 2)
     return {
-      ...neighbour,
-      x: center.x + Math.cos(angle) * radiusX,
-      y: center.y + Math.sin(angle) * radiusY,
-      ring,
+      minX: x - halfWidth,
+      maxX: x + halfWidth,
+      minY: y - radius - (labelSet.has(runtimeNode.id) ? 18 : 0),
+      maxY: y + radius,
     }
+  })
+  const minX = Math.min(...bounds.map((bound) => bound.minX))
+  const maxX = Math.max(...bounds.map((bound) => bound.maxX))
+  const minY = Math.min(...bounds.map((bound) => bound.minY))
+  const maxY = Math.max(...bounds.map((bound) => bound.maxY))
+  const graphWidth = Math.max(1, maxX - minX)
+  const graphHeight = Math.max(1, maxY - minY)
+  const padding = graph.nodes.length > 140 ? 24 : 34
+  const scale = Math.min((width - padding * 2) / graphWidth, (height - padding * 2) / graphHeight)
+  const offsetX = width / 2 - ((minX + maxX) / 2) * scale
+  const offsetY = height / 2 - ((minY + maxY) / 2) * scale
+  const project = (runtimeNode: ObjectMapRuntimeNode) => ({
+    x: (runtimeNode.x ?? 0) * scale + offsetX,
+    y: (runtimeNode.y ?? 0) * scale + offsetY,
   })
 
   ctx.lineCap = "round"
-  outer.forEach((node) => {
+  for (const link of graph.links) {
+    const [source, target] = objectMapLinkEndpoints(link)
+    const s = project(source)
+    const t = project(target)
     ctx.beginPath()
-    ctx.moveTo(center.x, center.y)
-    ctx.lineTo(node.x, node.y)
-    const alpha = Math.max(0.08, Math.min(0.58, (node.confidence || 0.34) * edgeAlphaScale))
-    ctx.strokeStyle = `rgba(90, 37, 95, ${alpha})`
-    ctx.lineWidth = Math.max(0.75, Math.min(3.4, (0.8 + Math.log1p(node.evidenceCount) * 0.72) * nodeScale))
+    ctx.moveTo(s.x, s.y)
+    ctx.lineTo(t.x, t.y)
+    ctx.globalAlpha = Math.max(0.18, Math.min(0.76, link.confidence || 0.34))
+    ctx.strokeStyle =
+      link.relationKind === "public_relation" ? "rgba(150, 130, 94, 0.52)" : "rgba(111, 88, 58, 0.68)"
+    ctx.lineWidth = Math.max(0.45, Math.min(3.4, 0.5 + Math.log1p(link.evidenceCount) * 0.7))
     ctx.stroke()
-  })
+  }
+  ctx.globalAlpha = 1
 
-  outer.forEach((node) => {
-    const nodeRadius = Math.max(2.1, (5.2 + Math.min(5, Math.log1p(node.evidenceCount))) * nodeScale)
+  for (const runtimeNode of graph.nodes) {
+    const pos = project(runtimeNode)
+    const nodeRadius = Math.max(2.5, objectMapRuntimeRadius(runtimeNode) * Math.sqrt(scale))
     ctx.beginPath()
-    ctx.arc(node.x, node.y, nodeRadius, 0, Math.PI * 2)
-    ctx.fillStyle = objectMapTypeColors[node.type] ?? "#735a91"
+    ctx.arc(pos.x, pos.y, nodeRadius, 0, Math.PI * 2)
+    ctx.fillStyle = objectMapTypeColors[runtimeNode.type] ?? "#735a91"
     ctx.fill()
-    ctx.strokeStyle = "#fff"
-    ctx.lineWidth = 2
+    ctx.strokeStyle = runtimeNode.focus ? "#d6421f" : "rgba(255, 255, 255, 0.9)"
+    ctx.lineWidth = runtimeNode.focus ? 3.2 : 1.2
     ctx.stroke()
-  })
+  }
 
-  const centerRadius = 16
-  ctx.beginPath()
-  ctx.arc(center.x, center.y, centerRadius, 0, Math.PI * 2)
-  ctx.fillStyle = objectMapTypeColors[type] ?? "#d6421f"
-  ctx.fill()
-  ctx.strokeStyle = "#d6421f"
-  ctx.lineWidth = 4
-  ctx.stroke()
-
-  ctx.font = "700 13px var(--bodyFont, sans-serif)"
+  const drawnLabelBounds: ObjectMapLabelBounds[] = []
   ctx.textAlign = "center"
-  ctx.textBaseline = "top"
-  ctx.lineWidth = 4
-  ctx.strokeStyle = "rgba(255,255,255,0.9)"
-  ctx.fillStyle = "#5a255f"
-  const label = title.length > 22 ? `${title.slice(0, 21)}…` : title
-  ctx.strokeText(label, center.x, center.y + centerRadius + 8)
-  ctx.fillText(label, center.x, center.y + centerRadius + 8)
+  ctx.textBaseline = "bottom"
+  for (const runtimeNode of labelNodes) {
+    const pos = project(runtimeNode)
+    const required = runtimeNode.focus
+    const fontSize = required ? 11 : runtimeNode.degree > 8 ? 10 : 8.8
+    const label = runtimeNode.title.length > 24 ? `${runtimeNode.title.slice(0, 23)}…` : runtimeNode.title
+    const nodeRadius = Math.max(2.5, objectMapRuntimeRadius(runtimeNode) * Math.sqrt(scale))
+    ctx.font = `${required ? 700 : 500} ${fontSize}px var(--bodyFont, sans-serif)`
+    const labelWidth = Math.min(width - 16, ctx.measureText(label).width + 7)
+    const labelHeight = fontSize + 5
+    const labelY = pos.y - nodeRadius - 3
+    const labelBounds = objectMapLabelBounds(pos.x, labelY, labelWidth, labelHeight)
+    const inCanvas =
+      labelBounds.right >= 0 &&
+      labelBounds.left <= width &&
+      labelBounds.bottom >= 0 &&
+      labelBounds.top <= height
+    if (!inCanvas && !required) continue
+    if (!required && drawnLabelBounds.some((existing) => objectMapBoundsOverlap(existing, labelBounds))) continue
+    drawnLabelBounds.push(labelBounds)
+    ctx.lineWidth = 3
+    ctx.strokeStyle = "rgba(255,255,255,0.9)"
+    ctx.fillStyle = "#33241a"
+    ctx.strokeText(label, pos.x, labelY)
+    ctx.fillText(label, pos.x, labelY)
+  }
 
   ctx.font = "700 10px var(--codeFont, monospace)"
   ctx.textAlign = "left"
   ctx.textBaseline = "bottom"
   ctx.fillStyle = "#d6421f"
-  ctx.fillText(`${count.toLocaleString("lt-LT")} RYS.`, 12, height - 12)
+  ctx.fillText(`${neighbours.length.toLocaleString("lt-LT")} RYS.`, 12, height - 12)
 }
 
 function setObjectMapStatus(root: HTMLElement, text: string, hidden = false) {
@@ -259,7 +475,6 @@ function setObjectMapStatus(root: HTMLElement, text: string, hidden = false) {
 
 async function renderObjectMapPreview(root: HTMLElement) {
   const slug = String(root.dataset.objectSlug ?? "")
-  const fallbackTitle = String(root.dataset.objectTitle ?? "")
   const count = root.querySelector<HTMLElement>("[data-object-map-count]")
   const canvas = root.querySelector<HTMLCanvasElement>("[data-object-map-canvas]")
   if (!slug || !canvas) return
@@ -275,9 +490,6 @@ async function renderObjectMapPreview(root: HTMLElement) {
 
     const [resolvedSlug, node] = resolved
     const neighbours = objectMapNeighbours(index, resolvedSlug, node)
-    const title = String(node.title ?? fallbackTitle)
-    const type = objectMapNodeType(resolvedSlug, node)
-
     if (count) {
       count.textContent =
         neighbours.length === 0
@@ -285,7 +497,7 @@ async function renderObjectMapPreview(root: HTMLElement) {
           : `${neighbours.length.toLocaleString("lt-LT")} ryšiai`
     }
     setObjectMapStatus(root, neighbours.length === 0 ? "Nėra ryšių" : "", neighbours.length > 0)
-    drawObjectMapPreview(canvas, title, type, neighbours)
+    drawObjectMapPreview(canvas, neighbours, index, resolvedSlug, node)
   } catch {
     if (count) count.textContent = "Žemėlapio preview nepavyko įkelti."
     setObjectMapStatus(root, "Nepavyko įkelti")

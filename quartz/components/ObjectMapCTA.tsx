@@ -36,7 +36,7 @@ const ObjectMapCTA: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   const title = displayTitle(fileData.frontmatter?.title)
   const mapHref = `${resolveRelative(currentSlug, "zemelapis/index" as FullSlug)}?focus=${encodeURIComponent(
     currentSlug,
-  )}&depth=2&panel=details&maxNodes=1000&types=${encodeURIComponent(objectMapTypes)}`
+  )}&depth=1&panel=details&maxNodes=1000&types=${encodeURIComponent(objectMapTypes)}`
 
   return (
     <div

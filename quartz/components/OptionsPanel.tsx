@@ -31,11 +31,11 @@ const OptionsPanel: QuartzComponent = ({ displayClass }: QuartzComponentProps) =
           <path d="M10 11H6.5a1.5 1.5 0 0 1-1.5-1.5V6a1 1 0 0 1 1-1h5v4a6 6 0 0 1-6 6" />
           <path d="M19 11h-3.5A1.5 1.5 0 0 1 14 9.5V6a1 1 0 0 1 1-1h5v4a6 6 0 0 1-6 6" />
         </svg>
-        <span class="options-panel-toggle-label sr-only">Options</span>
+        <span class="options-panel-toggle-label">Advanced</span>
       </button>
       <div class="options-panel-popover" data-options-popover="" hidden>
         <div class="options-panel-header">
-          <strong>Options</strong>
+          <strong>Advanced</strong>
           <button
             class="options-panel-close"
             type="button"

@@ -29,7 +29,7 @@ export function pageResources(
   baseDir: FullSlug | RelativeURL,
   staticResources: StaticResources,
 ): StaticResources {
-  const assetVersion = "20260703-zemelapis-label-search-fix"
+  const assetVersion = "20260705-explorer-initial-load"
   const versionedAsset = (path: string) => `${path}?v=${assetVersion}`
   const contentMetaPath = versionedAsset(joinSegments(baseDir, "static/contentMeta.json"))
   const searchIndexPath = versionedAsset(joinSegments(baseDir, "static/searchIndex.json"))

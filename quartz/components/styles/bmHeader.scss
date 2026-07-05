@@ -2,8 +2,50 @@
 
 header:has(.bm-header-shell) {
   display: block;
+  position: relative;
   width: 100%;
   margin: 0;
+  overflow: visible;
+}
+
+header:has(.bm-header-shell) > .options-panel-root {
+  position: absolute;
+  top: 0;
+  right: max(1rem, calc((100% - var(--bm-site-max, 1600px)) / 2 + 1.55rem));
+  z-index: 80;
+  height: 2.45rem;
+}
+
+header:has(.bm-header-shell) > .options-panel-root .options-panel-toggle {
+  height: 2.45rem;
+  padding: 0 0.1rem;
+  border: 0;
+  background: transparent;
+  color: #fff;
+  border-radius: 0;
+}
+
+header:has(.bm-header-shell) > .options-panel-root .options-panel-toggle .options-panel-icon {
+  display: none;
+}
+
+header:has(.bm-header-shell) > .options-panel-root .options-panel-toggle:hover,
+header:has(.bm-header-shell) > .options-panel-root .options-panel-toggle:focus-visible,
+header:has(.bm-header-shell)
+  > .options-panel-root
+  .options-panel-toggle[aria-expanded="true"] {
+  color: #fff;
+  outline: 0;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.35rem;
+}
+
+header:has(.bm-header-shell) > .options-panel-root .options-panel-popover {
+  top: calc(100% + 0.65rem);
+  right: 0;
+  left: auto;
+  color: var(--dark);
 }
 
 .bm-header-shell {
@@ -45,6 +87,7 @@ header:has(.bm-header-shell) {
   align-items: center;
   justify-content: flex-end;
   gap: 0.9rem;
+  padding-right: 6rem;
 }
 
 .bm-header-tools button {
@@ -280,13 +323,27 @@ header:has(.bm-header-shell) {
     align-items: flex-start;
     flex-direction: column;
     gap: 0.55rem;
-    padding: 0.65rem 1rem;
+    padding: 0.65rem 7.25rem 0.65rem 1rem;
+  }
+
+  header:has(.bm-header-shell) > .options-panel-root {
+    right: 1rem;
+    height: 2.35rem;
+  }
+
+  header:has(.bm-header-shell) > .options-panel-root .options-panel-toggle {
+    height: 2.35rem;
+  }
+
+  header:has(.bm-header-shell) > .options-panel-root .options-panel-popover {
+    width: min(22rem, calc(100vw - 2rem));
   }
 
   .bm-header-tools {
     width: 100%;
     justify-content: flex-start;
     overflow-x: auto;
+    padding-right: 0;
   }
 
   .bm-header-nav {
