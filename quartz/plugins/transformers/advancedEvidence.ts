@@ -6,6 +6,7 @@ import { FullSlug, simplifySlug, slugTag } from "../../util/path"
 const TARGET_SECTIONS = new Set([
   "Teiginiai",
   "Reikšmingi paminėjimai",
+  "Citatos",
   "Šaltiniai ir įrodymai",
   "Bibliografiniai įrodymai",
 ])
@@ -720,6 +721,7 @@ function renderStructuredSection(
   }
   if (
     title === "Reikšmingi paminėjimai" ||
+    title === "Citatos" ||
     title === "Šaltiniai ir įrodymai" ||
     title === "Bibliografiniai įrodymai"
   ) {
@@ -731,6 +733,7 @@ function renderStructuredSection(
 function isEvidenceStoreSection(title: string): boolean {
   return (
     title === "Reikšmingi paminėjimai" ||
+    title === "Citatos" ||
     title === "Šaltiniai ir įrodymai" ||
     title === "Bibliografiniai įrodymai"
   )

@@ -148,6 +148,38 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(transformed, /Antra citata\./)
   })
 
+  test("uses Citatos section as the canonical citation store", () => {
+    const plugin = AdvancedEvidence()
+    const markdownWithCitatos = `# Objektas
+
+## Teiginiai
+- t-010
+  global_id: t-05208
+  teiginys: Testinis teiginys su naujos projekcijos ID.
+  pagrindžia:
+    - c-34195
+
+## Reikšmingi paminėjimai
+- c-001
+  šaltinis: Senas paminėjimų skyrius
+  citata_originali: |
+    Ši citata nėra teiginio atrama.
+
+## Citatos
+- c-34195
+  šaltinis: Pagrindinis šaltinis
+  citata_originali: |
+    Tikroji teiginio citata.
+`
+
+    const transformed = plugin.textTransform?.({ allSlugs: [] } as any, markdownWithCitatos) ?? markdownWithCitatos
+
+    assert.match(transformed, /data-claim-citation-id="c-34195"/)
+    assert.match(transformed, /Tikroji teiginio citata\./)
+    assert.doesNotMatch(transformed, /Citata nerasta\./)
+    assert.doesNotMatch(transformed, /^## Citatos/m)
+  })
+
   test("shows a compact missing-citation state for unsupported claims", () => {
     const plugin = AdvancedEvidence()
     const missingCitationMarkdown = `# Objektas
